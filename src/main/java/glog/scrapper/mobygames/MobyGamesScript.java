@@ -321,7 +321,6 @@ public class MobyGamesScript {
 		g.setSystem(this.system);
 
 		System.out.println(g.getName());
-		System.out.println(g.getPublishedBy());
 
 		String outfile = file.substring(file.lastIndexOf("/") + 1, file.lastIndexOf(".")) + ".json";
 		try (Writer writer = new FileWriter("data/output/" + outfile)) {
@@ -337,7 +336,10 @@ public class MobyGamesScript {
 	 */
 	public static void main(String[] args) throws Exception {
 		MobyGamesScript mgs = new MobyGamesScript("msx");
-		mgs.convertXMLtoJSON("data/mobygames/MSX - MSX 1/abu-simbel-profanation.xml");
+		String[] files = new File("data/mobygames/MSX - MSX 1/").list();
+		for (String file : files) {
+			mgs.convertXMLtoJSON("data/mobygames/MSX - MSX 1/" + file);
+		}
 	}
 
 }
