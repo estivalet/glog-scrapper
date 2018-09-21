@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Sinclair Basic</builtInGames>
+        <colors>8 with two tones each (normal and bright)</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Zilog Z80A</cpu>
+        <description>
+In 1984, the Spectrum is already 2 years old and starts to look obsolete when compared to its competitors and the Commodore 64 in particular. That's why Sinclair launches a new-look version of the Spectrum : the Spectrum+ was born.
+
+In fact, it does not bring anything more apart from some cosmetic changes. Concerning the keyboard, the rubber keys are replaced with a better keyboard directly inspired by the keyboard of the QL, launched the same year. Though the keys are made of plastic this time, the touch is still a bit too soft. Fortunately, there are now a large spacebar, arrow keys and new editing keys.
+
+Also added are two small feet under the keyboard, making it possible to tilt the keyboard at a convenient angle for typing, a bit like on modern PCs. A small reset button was also added on the left-hand side of the case, thus making it harder to press it accidentally.
+
+In fact the Spectrum + largely adopts the look of the QL which is no coincidence at all, since apart from making the Sinclair product range more homogeneous aesthetically, it certainly represented advantages as far as the assembly lines were concerned.
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>Excellent emulator emulating nearly all ZX computers (80, 81, Spectrums, Timex, etc.). As well as emulating the machines themselves, numerous addon cards are supported, including hi-res graphics, custom character sets, sound and colour cards.</description>
+                <link>http://www.chuntey.com/eightyone/</link>
+                <name>EightyOne</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Spectrum emulator. Runs on Windows 95 and up, and requires DirectX. Includes a debugger, and emulates also some Southamerican clones</description>
+                <link>HTTP://GLECK.EMUUNLIM.COM</link>
+                <name>GLECK</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>A well-known emulator for PC compatibles (DOS)</description>
+                <link>ftp://ftp.nvg.unit.no/pub/sinclair/emulators/spectrum/pc/dos/jpp.zip.</link>
+                <name>JPP</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>complete and innovative Spectrum emulator for DOS and Windows</description>
+                <link>http://www.ramsoft.bbk.org/realspec.html</link>
+                <name>RealSpectrum</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Spectaculator emulates the 16K/48K/128/+2/+2A Spectrums and some additional hardware. </description>
+                <link>http://WWW.SPECTACULATOR.COM/</link>
+                <name>Spectaculator</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Spectrum emulator running on any version of Windows from '95 onward up to and including XP</description>
+                <link>http://www.worldofspectrum.org/emulators.html</link>
+                <name>SPIN</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>an excellent bosnian emulator for PC compatibles by Zeljko Juric (DOS)</description>
+                <link>http://www.void.jump.org/warajevo/</link>
+                <name>Warajavo</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Spectrum 48 / 128 / +2 / +3 Emulator</description>
+                <link>http://www.void.jump.org/x128/</link>
+                <name>X128</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Perhaps the best emulator for PC compatibles</description>
+                <link>ftp://ftp.nvg.unit.no/pub/sinclair/emulators/spectrum/pc/dos/z80-305.zip</link>
+                <name>Z80 - The PC Spectrum Emulator</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Great Win32 Emulator. Very stable, very fast.</description>
+                <link>http://www.geocities.com/SiliconValley/Bay/9932/</link>
+                <name>ZX-32</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <link>ftp://ftp.void.jump.org/pub/sinclair/emulators/mac/MacSpeccy1.1.sit.hqx</link>
+                <name>MacSpeccy</name>
+                <platform>Apple emulator</platform>
+            </emulator>
+            <emulator>
+                <description>One of the most powerful Spectrum emulator</description>
+                <link>http://little-bat.de/zxsp/download/mac_spectacle/manual.html</link>
+                <name>MacSpectacle</name>
+                <platform>Apple emulator</platform>
+            </emulator>
+            <emulator>
+                <description>The Spectrum Emulator for Power Macintoshes</description>
+                <link>ftp://ftp.void.jump.org/pub/sinclair/emulators/mac/Power_Spectrum_1.0.sit.bintx</link>
+                <name>PowerSpectrum</name>
+                <platform>Apple emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Emulator for PowerMac</description>
+                <link>http://little-bat.de/zxsp/download/zxsp_mac/zxsp_mac.html</link>
+                <name>ZXSP</name>
+                <platform>Apple emulator</platform>
+            </emulator>
+            <emulator>
+                <description>the official page of xz80, the emulator for XWindows</description>
+                <link>http://www.comlab.ox.ac.uk/oucl/users/ian.collier/Spectrum/</link>
+                <name>Ian's ZX Spectrum page</name>
+                <platform>Unix / Linux emulator</platform>
+            </emulator>
+            <emulator>
+                <description>an other emulator for Linux computers</description>
+                <link>http://www.zx-spectrum.net/xzx/</link>
+                <name>xzx</name>
+                <platform>Unix / Linux emulator</platform>
+            </emulator>
+            <emulator>
+                <link>http://www.greew.freeserve.co.uk/ASp.html</link>
+                <name>ASp</name>
+                <platform>Amiga OS emulator</platform>
+            </emulator>
+            <emulator>
+                <link>ftp://ftp.nvg.unit.no/pub/sinclair/emulators/spectrum/amiga/zx-spectrum4.71.lha</link>
+                <name>ZX Spectrum Emulator</name>
+                <platform>Amiga OS emulator</platform>
+            </emulator>
+            <emulator>
+                <link>ftp://ftp.nvg.unit.no/pub/sinclair/emulators/spectrum/amiga/zxam-1.3.lha</link>
+                <name>ZXAM v1.3</name>
+                <platform>Amiga OS emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Emulates a Spectrum 128 for the Acorn</description>
+                <link>http://members.tripod.com/~JoeKelleher/Spec128/</link>
+                <name>Spec128</name>
+                <platform>RISC OS emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Fascinate yourself for hours with this portable Java Spectrum Emulator.</description>
+                <link>http://www.twinbee.org/hob/</link>
+                <name>HOB Java Spectrum emulator</name>
+                <platform>Other platform emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Plays games on-line !</description>
+                <link>http://www.zxspec.freeserve.co.uk/java.html</link>
+                <name>Java On-Line Emulator</name>
+                <platform>Other platform emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Spectrum 48k and 128k emulator for PocketPC !</description>
+                <link>http://pocketclive.emuunlim.com/</link>
+                <name>PocketClive</name>
+                <platform>Other platform emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Qaop is a ZX Spectrum emulator Java applet</description>
+                <link>http://wizard.ae.krakow.pl/~jb/qaop/</link>
+                <name>QAOP</name>
+                <platform>Other platform emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Handheld PCs and Palm-size PCs running Windows CE 2.0 or higher</description>
+                <link>http://www.palmtop.nl/ce/hpc_spectrum.html</link>
+                <name>Sinclair Spectrum Emulator 1.1</name>
+                <platform>Other platform emulator</platform>
+            </emulator>
+            <emulator>
+                <description>ZX Spectrum emulator for TI 89 and 92 calculators !</description>
+                <link>http://tezxas.ticalc.org/</link>
+                <name>TEZXAS</name>
+                <platform>Other platform emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Emulator for various 68000 based machines. First version is released for PalmOS</description>
+                <link>http://zx68.8k.com</link>
+                <name>ZX68</name>
+                <platform>Other platform emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Fuse (the Free Unix Spectrum Emulator) is a ZX Spectrum emulator for Unix and MacOS X</description>
+                <link>http://fuse-emulator.sourceforge.net/</link>
+                <name>FUSE</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Spec is a Sinclair ZX Spectrum 48k emulator for the PC. There are two different versions, Spec (freeware for DOS) and SpecX (Shareware for Windows 95/98/NT4).</description>
+                <link>http://WWW.METHEDRINE.DEMON.CO.UK/spec.html</link>
+                <name>SPEC</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>256 x 192</graphics>
+        <hardwares>
+            <hardware type="DISC DRIVES">
+                <items>
+                    <item>
+                        <description>Discovery system||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;DISCOVERY SYSTEM&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The Discovery system uses the new Sony 3.5'' diskette to save in full safety the programs and data of the Spectrum or Spectrum+. The diskette has a capacity of 180 KB and a second drive can be installed. The commands of the operating system are similar to those of Sinclair Microdrives. The case includes a power supply and various Spectrum expansion connectors. In short, a lot of hardware qualities, but an incomprehensible defect: the data transfer speed is slower than Microdrives, whereas a disk drive is able to be ten times faster than a tape reader. Discovery did not meet success, certainly for this reason, but also because of its high price, not compatible with the Spectrum's young users' purse. &amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Sinclair_Spectrum_FDdiscovery_1.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Inside Discovery||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INSIDE DISCOVERY&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;(1)&amp;lt;/b&amp;gt; Metallic case.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(2)&amp;lt;/b&amp;gt; Centronics parallel printer connector.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(3)&amp;lt;/b&amp;gt; Spectrum expansion connector.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(4)&amp;lt;/b&amp;gt; Discovery to Spectrum connector.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(5)&amp;lt;/b&amp;gt; EPROM memory chip holding drive management routines and OS commands.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(6)&amp;lt;/b&amp;gt; Sony 3.5'' disc drive. A double side, single density version.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(7)&amp;lt;/b&amp;gt; A strange location for the power transformer, under the disk drive and not protected against magnetic fields.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(8)&amp;lt;/b&amp;gt; This empty socket receives a 2 Kb. RAM chip when a second disc drive is installed.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(9)&amp;lt;/b&amp;gt; 6821 Circuit, in charge of disc drive control.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(10)&amp;lt;/b&amp;gt; Each disc drive uses an internal RAM area to avoid using Spectrum RAM.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(11)&amp;lt;/b&amp;gt; Atari standard joystick connector.&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Sinclair_Spectrum_FDdiscovery_Ins.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Inside Wafadrive||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INSIDE WAFADRIVE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;(1)&amp;lt;/b&amp;gt; The Wafadrive unit includes two specially designed cartridge drives. &amp;lt;br&amp;gt;  &amp;lt;b&amp;gt;(2)&amp;lt;/b&amp;gt; Each cartridge drive has its own motor and electronic control system. &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(3)&amp;lt;/b&amp;gt; The Wafadrive offers three expansion ports. Unfortunately, they are not compatible with the Spectrum ones and need special cables. &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(4)&amp;lt;/b&amp;gt; Centronics parallel printer connector. &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(5)&amp;lt;/b&amp;gt; Spectrum expansion connector for additional peripherals. &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(6)&amp;lt;/b&amp;gt; 8 Kb. EPROM holding operating system and Basic drives commands. &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(7)&amp;lt;/b&amp;gt; The Wafadrive is connected to the Spectrum expansion port. It also uses the computer's power supply. &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(8)&amp;lt;/b&amp;gt; Power Leds. &amp;lt;br&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Sinclair_Spectrum_Wafadrive_2.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Wafadrive cartridge||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;WAFADRIVE CARTRIDGE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Sinclair_Spectrum_Wafadrive_3.jpg</photo>
+                    </item>
+                </items>
+            </hardware>
+            <hardware type="JOYSTICK INTERFACES">
+                <items>
+                    <item>
+                        <description>Cheetah Joystick Interface||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;CHEETAH JOYSTICK INTERFACE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Sinclair_Spectrum_CheetahJoyInterf_1.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Kempston Joystick Interface||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;KEMPSTON JOYSTICK INTERFACE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Peter says:&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;#666666&amp;quot;&amp;gt; I'm not sure if this was the first joystick interface for the Spectrum but it defined a standard that was never displaced.  Most games carried the words 'Kempston joystick compatible' Says it all really! They later revised the interface to offer 2 joystick connectors &amp;lt;/font&amp;gt; &amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Sinclair_Spectrum_KempstonJoyInterf_1.jpg</photo>
+                    </item>
+                </items>
+            </hardware>
+            <hardware type="MISC">
+                <items>
+                    <item>
+                        <description>DK'Tronics Speech Synthesizer||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;DK'TRONICS SPEECH SYNTHESIZER&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/sinclair_zx-spectrum_dktronics-speech_synth_1.jpg</photo>
+                    </item>
+                    <item>
+                        <description>MAGECO Monitor ||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MAGECO MONITOR &amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;It cost 75fr in january 85 (France). &amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/sinclair_spectrum_dessas.jpg</photo>
+                    </item>
+                    <item>
+                        <description>VTR vocal synthesizer||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;VTR VOCAL SYNTHESIZER&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;470fr (France, january 85) &amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/sinclair_spectrum_vocal.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Currah Speech|||Vocal synthesizer|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;CURRAH SPEECH&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;Vocal synthesizer&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Just type on the keys and the Spectrum &amp;quot;speaks&amp;quot; with two tones, high and low. There is also a sofware support.&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/sinclair_spectrum_vocal2.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Cheetah SpecDrum||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;CHEETAH SPECDRUM&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;About the Specdrum, Peter says:&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;#666666&amp;quot;&amp;gt; This was the most fun add-on I ever bought for the Spectrum.  You had to connect it to a phono input on a stereo amp, load up the software and away you went.  You could enter the rhythm in real time or step time and it had 8 sounds it could play at once.  The sound was perfect and still sounds good today.  They released some extra drum kit sounds to expand the Specdrum's sound library, Afro Kit and Electro Kit are the ones I remember and purchased.  I don’t think any Spectrum should be without this Add-on, it rocks!! &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; Price: About £30 around 85-86  &amp;lt;/font&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Sinclair_Spectrum_Specdrum_1.jpg</photo>
+                    </item>
+                </items>
+            </hardware>
+            <hardware type="PRINTERS">
+                <items>
+                    <item>
+                        <description>Alphacom 32||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;ALPHACOM 32&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Alphacom 32 is the well-known and the cheaper printer for the Spectrum, offering exactly the same features as the ZX Printer : full Spectrum characters set, 32 char. / line and silver plated thermal paper. Alphacom 32 uses its own power supply. june 84 price : 181 -E- (France).&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/sinclair_spectrum_alphacom.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Floyd 40||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FLOYD 40&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Floyd 40, from the manufacturer Shiva Marketing, doesn't seem to be very reliable with its very thin plastic case and its wooden paper axis ! However Floyd features are better than Alphacom ones: use of white thermal paper more readable and less expensive, only one cable to connect it to the Spectrum (power and data) and better printing quality. Moreover, Floyd 40 has larger characters set and printing options : double height and width, text printing in the four directions and more advanced and accurate graphic abilities (5 x 7 dots head). On the other hand, the printing is rather slow and the print width doesn't exceed 8 cm.&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Sinclair_Spectrum_Floyd40_1.jpg</photo>
+                    </item>
+                    <item>
+                        <description>ZX-81 thermal printer||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;ZX-81 THERMAL PRINTER&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This is a small thermal printer (of very poor quality !). It can print all the graphical characters of the Spectrum and can print 9 lines of text per inch. It was possible to make a hard copy of the screen thanks to the &amp;quot;Copy&amp;quot; command.  &amp;lt;br&amp;gt;&amp;lt;br&amp;gt;  This tiny thermal printer can also be used with the ZX-Spectrum.&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/sinclair_spectrum_zx81_printer.jpg</photo>
+                    </item>
+                    <item>
+                        <description>ZX thermal printer|||Box|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;ZX THERMAL PRINTER&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;Box&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/sinclair_zx81_zx-printer_box_1.jpg</photo>
+                    </item>
+                </items>
+            </hardware>
+            <hardware type="SINCLAIR">
+                <items>
+                    <item>
+                        <description>ZX Interface 1||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;ZX INTERFACE 1&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This interface offers an RS232 connector, a Microdrive connector and a network socket to connect up to 64 Spectrums ! &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; This marvel cost 895fr in june 84 (France).&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/sinclair_spectrum_intrfc1.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Microdrives||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MICRODRIVES&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Sinclair Microdrives for use with the ZX Interface 1. Up to 8 microdrives can be connected. &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; Micro-tape Capacity: 80k&amp;lt;br&amp;gt; Speed: 5k/s&amp;lt;br&amp;gt; Average access time: 3,5s&amp;lt;br&amp;gt; Integrated power supply (through computer)&amp;lt;br&amp;gt; Micro-tape price: 79fr&amp;lt;br&amp;gt; &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; 940fr (June 84)   &amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/sinclair_spectrum_microdrive.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Inside a Microdrive||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INSIDE A MICRODRIVE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;(1)&amp;lt;/b&amp;gt; Tape driving roller.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(2)&amp;lt;/b&amp;gt; Read/write magnetic head, basically the same as a standard tape recorder.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(3)&amp;lt;/b&amp;gt; Read/write protection switch.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(4)&amp;lt;/b&amp;gt; Cartridge housing.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(5)&amp;lt;/b&amp;gt; Power led.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(6)&amp;lt;/b&amp;gt; Extension connector allowing up to 8 microdrives to be serial connected.&amp;lt;br&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Sinclair_Spectrum_InsideMdv_1.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Inside a microdrive cartridge||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INSIDE A MICRODRIVE CARTRIDGE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The support used in the cartridge is a videotape of 2 mm in width, and 8 meters in length. The video support was chosen for its biggest mechanical resistance. In running mode, the full tape length is covered in about 7 seconds and the information is transferred at 6 Kb. per second (1.5 Kb./sec. for a standard cassette). The recording is made simultaneously on two parallel tracks with a density of 200 bytes per centimeter. The information is organized in sectors of 512 bytes. Any program can be stored or loaded in 15 sec. Maximum. Each cartridge can store up to 100 Kb, but only 85 - 90 are available for the user. &amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Sinclair_Spectrum_InsideCartMdv_1.jpg</photo>
+                    </item>
+                    <item>
+                        <description>ZX Interface 2||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;ZX INTERFACE 2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This interface offers 2 joystick plugs and 1 cartridge slot. &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; It cost 351fr in june 84 (France).&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/sinclair_spectrum_intrfc2.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Cartridge||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;CARTRIDGE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Sinclair Cartridge for use with the ZX Interface 2. Very few cartridges were produced (less than 10). &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; It cost 185fr in june 84 (France). &amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/sinclair_spectrum_cartridge.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Numeric Keypad||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;NUMERIC KEYPAD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This numenic keypad can be used with the Spectrum +2 and Spectrum 128.&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/sinclair_spectrum128_keypad_2.jpg</photo>
+                    </item>
+                </items>
+            </hardware>
+        </hardwares>
+        <image>http://www.old-computers.com/museum/photos/sinclair_spectrum-plus_front_hr_s.jpg</image>
+        <keyboard>QWERTY simi-mechanical keyboardQL type keyboard</keyboard>
+        <language>Sinclair Basic</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=951</link>
+            <link>computer.asp?st=1&amp;amp;c=914</link>
+            <link>computer.asp?st=1&amp;amp;c=949</link>
+            <link>computer.asp?st=1&amp;amp;c=934</link>
+            <link>computer.asp?st=1&amp;amp;c=223</link>
+            <link>computer.asp?st=1&amp;amp;c=221</link>
+            <link>computer.asp?st=1&amp;amp;c=222</link>
+            <link>computer.asp?st=1&amp;amp;c=35</link>
+            <link>http://www.crashonline.org.uk/</link>
+            <link>http://www.madhippy.com/8-bit/index.php?machine=sinclair</link>
+            <link>http://www.worldofspectrum.org/documentation.html#manuals</link>
+            <link>http://speccy.altervista.org/</link>
+            <link>http://WWW.Z80.UY.TC</link>
+            <link>http://www.8bit-museum.de/</link>
+            <link>http://www.nvg.ntnu.no/sinclair/</link>
+            <link>http://surf.to/zx</link>
+            <link>http://www.xs4all.nl/~echorod/zx/index.htm</link>
+            <link>http://www.kempa.com/blog/archives/000053.html</link>
+            <link>http://www.speccy.com.ar/</link>
+            <link>HTTP://WWW.SINCLAIR.HU</link>
+            <link>http://members.tripod.com/ssh_web/</link>
+            <link>http://www.speccy.cz/</link>
+            <link>http://ireland.iol.ie/~sjones/</link>
+            <link>http://perso.club-internet.fr/jgibart/spectl/spectl.html</link>
+            <link>http://www.wearmouth.demon.co.uk/</link>
+            <link>http://www.theoceanexperience.cjb.net/</link>
+            <link>http://www.the-tipshop.co.uk/</link>
+            <link>http://www.worldofspectrum.org/</link>
+            <link>HTTP://ZX.DA.RU</link>
+            <link>http://www.yoursinclair.co.uk/</link>
+            <link>http://zoom.czweb.org/</link>
+            <link>http://zxfiles.hut2.ru/</link>
+            <link>http://www.zx-f.ru/</link>
+            <link>http://tarjan.uw.hu/zx_gamez_after_93_en.htm</link>
+            <link>http://tarjan.uw.hu/zxclones_en.htm</link>
+            <link>http://www.worldofspectrum.org/zxspecticle/</link>
+            <link>news:alt.binaries.comp.sinclair</link>
+            <link>news:comp.sys.sinclair</link>
+        </links>
+        <manufacturer>Sinclair</manufacturer>
+        <media></media>
+        <name>ZX SPECTRUM+</name>
+        <numGames></numGames>
+        <origin>United Kingdom</origin>
+        <peripherals></peripherals>
+        <ports>Expansion port, tape-recorder (1200 bauds), RF video out</ports>
+        <power>External PSU, 9v DC, 1.4A (centre polarity = -ve)</power>
+        <price></price>
+        <production></production>
+        <ram>48k</ram>
+        <rom>16k</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;ZX SPECTRUM+&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/sinclair_spectrum-plus_front_hr.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;RIGHT SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/sinclair_spectrum-plus_3-4_hr.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;REAR&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Power in, expansion port, tape-recorder, video out.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/sinclair_spectrum-plus_rear_hr.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;REAR #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/sinclair_spectrum-plus_rear_hr_3.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;RIGHT SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/sinclair_spectrum-plus_right-side_hr.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FRONT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/sinclair_spectrum-plus_front_hr_2_s.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FRONT #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/sinclair_spectrum-plus_3-4_hr_2_s.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;DETAIL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/sinclair_spectrum-plus_detail_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;KEYBOARD DETAIL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/sinclair_spectrum-plus_detail_keyboard.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;UPSIDE DOWN&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/sinclair_spectrum-plus_under_hr.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INSIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The same motherboard as the original Spectrum.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/sinclair_spectrum_p_in.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INSIDE #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;A successful new look but no technical improvement.&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt;&amp;lt;br&amp;gt; Inside a case, which might make one think of a major update of the Spectrum, one finds in fact version 3 of the Spectrum board marketed since August 1983, to which has been added a reset button. Although this choice is criticisable, it allows the Spectrum + to remain compatible with all the first Spectrum version peripherals and software.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Sinclair_Spectrum+_Inside_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/sinclair_zx-spectrum-plus_box_1.jpg</link>
+            </shot>
+        </screenshots>
+        <size></size>
+        <sound>1 voice / 10 octaves (Beeper)</sound>
+        <speed>3.5 MHz</speed>
+        <text>32 x 24</text>
+        <type>Home Computer</type>
+        <vram></vram>
+        <year>1984</year>
+    </computer>
+</computers>

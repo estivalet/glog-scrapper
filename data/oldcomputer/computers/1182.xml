@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Microsoft Basic</builtInGames>
+        <colors>10'' monochrome LCD display (non-backlit on early models)</colors>
+        <controllers></controllers>
+        <coprocessor>Unknown</coprocessor>
+        <cpu>Intel 80C88</cpu>
+        <description>
+IBM had little luck with it's portable models, and realized to keep up, they needed a laptop. IBM came up with the 5140, it was a laptop that could be converted into a main desktop in seconds.
+
+The LCD screen detaches for a color CRT to be attached. IBM didn't sell many of these due to the fact the LCD was not backlit, and conpetition was less expensive.
+
+The IBM 5140 was available in two models, the 2 and the 22; the only difference being the 22 came with diagnostics software. IBM saw little success from this machine due to high costs, slow processor at 4.77 MHz, hard to read screen, and cumbersome size. Both models were expandable to 640KB RAM with third party upgrades.
+
+This laptop is unique however because it used static memory, instead of dynamic memory. The static memory was more reliable, and gave the CPU 7% more processing power.
+
+There were three distinct display models for the IBM 5140. One was the standard 10 monochrome LCD, which was hard to read. Later on IBM changed this to a super twist LCD, which was much easier to read.
+
+The first CRT option was an IBM 5144 monochrome display, which was easy to read, it came with a stand, ac power cord, and CRT adaptor for the 5140. The second and final option was an IBM 5145 color display, which was easy to read as well, it came with a stand, ac power cord, and CRT adaptor for the 5140. The CRT monitors sat atop a stand which was placed over the 5140, the 5140 then could be slid in and out from under the monitor stand for easy conversion. The LCD screen that attaches via proprietary connection could be disconnected and removed easily with the push of a button.
+
+There is a 72 pin port on the back of the unit for several expansions; serial, parallel, and CRT interfaces were available.
+
+These computers also came with a small, direct-attach thermal printer that was same width, height, etc as the computer so you could carry computer, printer and all by the one handle.
+
+Thanks to Alex Rushing for info and www.computercloset.org for the picture.
+_______________________</description>
+        <emulators/>
+        <graphics>640 x 200</graphics>
+        <hardwares>
+            <hardware type="PRINTERS">
+                <items>
+                    <item>
+                        <description>Convertible printer|||... attached to the back of the computer|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;CONVERTIBLE PRINTER&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;... attached to the back of the computer&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/ibm_5140_printer_1.jpg</photo>
+                    </item>
+                </items>
+            </hardware>
+        </hardwares>
+        <hardwareDescription> SPEECH ADAPTER  
+  Word-Sound attachment for use with IBM Writing to Read software. Has
+    200-word vocabulary or digitally record up to 30 seconds of sound.</hardwareDescription>
+        <image>http://www.old-computers.com/museum/photos/ibm_5140_2s.jpg</image>
+        <keyboard>Full Stroke</keyboard>
+        <language>Microsoft Basic</language>
+        <links/>
+        <manufacturer>IBM</manufacturer>
+        <media>2 x 3.5'' floppy drives (720 KB each)</media>
+        <name>5140 Convertible</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals></peripherals>
+        <ports>Parallel interface, CGA video ouput, Serial port, Proprietary Snap-on Port, Expansion bus</ports>
+        <power>External poxer supply 15Volt / 2.7Amp  - -(o- +</power>
+        <price>$2000 (USA, 1986)</price>
+        <production>1987 ?</production>
+        <ram>256 KB</ram>
+        <rom>Unknown</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SIDE VIEW&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/ibm_5140_2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FRONT VIEW&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/IBM_5140_1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>5.5 Kg</size>
+        <sound>Integrated PC Speaker</sound>
+        <speed>4.77 MHz</speed>
+        <text>80 x 25</text>
+        <type>Portable</type>
+        <vram>Unknown</vram>
+        <year>april 1986</year>
+    </computer>
+</computers>

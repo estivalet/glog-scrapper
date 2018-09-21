@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>None</builtInGames>
+        <colors>16 up to 16 million</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Motorola 68000</cpu>
+        <description>
+Before the Challenger came out, Gemini products were based around the Z80 processor and the company's 80-bus architecture. They did well in applications where costumers wanted a highly-specialized product.
+
+At first sight, the Challenger looked like an ordinary PC-compatible computer. The monitor  was a Wyse WY-50 remote terminal finished as the same colours as the main box. However, the Challenger's main processor was a 12 MHz Motorola  68000 linked with 512 KB of RAM. This configuration made the Challenger a very high speed 16-bit system for the time.
+
+While designing the Challenger, Gemini designers also created a new 68000 proprietary bus called 68K, which was originally a 16-bit bus but was later extended to 32-bit when the 68020 became available. Four 68K slots were available on the Challenger mainboard. They also designed an impressive graphic card based on the Hitachi HD63484 graphic processor and consisting in two piggy-back full length cards plugged into a 68K slot. Maximum resolution was 1024 x 1024 pixels with  16 million available colours. 
+
+The Challenger was delivered with a wide range of operating systems:
+- MBOS a business-based multi-user O.S.,
+- Mirage Another multi-user O.S. but more esoteric,
+- TDI p-System, the British version of UCSD p-System well known for its UCSD Pascal language,
+- CP/M 68k, the 68000 version of the 8-bit O.S. which was never very popular.
+Each of these O.S. could cohabit into several partitions of a same hard disk.
+
+Despite it's advanced features, the Challenger never met success, neither as a businness machine as very few software were developped for it, nor as a development system as the 68K bus never was carried by other manufacturers.
+
+The last machine made by Gemini was a beautifully built IBM clone using a motherboard designed by British Aerospace. But it was too expensive and couldn't compete against far east production. Gemini finally disappeared about one year after the Challenger was launched.
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>768 x 576 - 16 to 16 million col. / 1024 x 1024 - 64 col.  with optional video card</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/Gemini_Challenger_System_1.jpg</image>
+        <keyboard>Full stroke 101-key with numeric keypad and 16 function keys</keyboard>
+        <language>None</language>
+        <links/>
+        <manufacturer>Gemini</manufacturer>
+        <media>1 x 5.25'' 1.2 MB floppy disc drive, Hard disks from 20 to 70 MB</media>
+        <name>Challenger</name>
+        <numGames></numGames>
+        <origin>United Kingdom</origin>
+        <peripherals>SCSI peripherals, 68K bus cards</peripherals>
+        <ports>SCSI, Parallel, 2 x Serial RS232, 4 x 68K expansion slots</ports>
+        <power>Built-in 100Watt switching power supply unit</power>
+        <price>From &amp;pound;4750 to &amp;pound;9500</price>
+        <production>1987</production>
+        <ram>512 KB</ram>
+        <rom>16 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BACK SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;(1)&amp;lt;/b&amp;gt; SCSI 50-pin connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(2)&amp;lt;/b&amp;gt; 2 x Serial RS232 DIN plugs&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(3)&amp;lt;/b&amp;gt; Power switch, mains plugs and fan&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(4)&amp;lt;/b&amp;gt; Configuration switches&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(5)&amp;lt;/b&amp;gt; Parallel printer connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(6)&amp;lt;/b&amp;gt; Reset switch&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(7)&amp;lt;/b&amp;gt; Housing for 4 x 64K bus cards&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Gemini_Challenger_Back_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;PRICE LIST, NOV. 1985&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Gemini_Challenger_Price list_s1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>19.25 (W) x 16 (D) x 5.75 (H) ins</size>
+        <sound>Unknown</sound>
+        <speed>12 MHz</speed>
+        <text>80 or 132 chars. x 25 lines</text>
+        <type>Professional Computer</type>
+        <vram></vram>
+        <year>1985</year>
+    </computer>
+</computers>

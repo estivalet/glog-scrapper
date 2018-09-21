@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;XEROX RANGE, AUGUST 1985&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/Xerox_6085_Advert_s1.jpg</link>
+            </advert>
+        </adverts>
+        <builtInGames>None</builtInGames>
+        <colors>Monochrome</colors>
+        <controllers></controllers>
+        <coprocessor>Unknown</coprocessor>
+        <cpu>Xerox Mesa</cpu>
+        <description>
+The Xerox 6085 was the successor of the revolutionary Xerox Star, first commercial computer to use a graphical user interface (GUI) with the familiar desktop, icons and a mouse. 
+
+The 6085 series was offered in models for network, remote (linked by Ethernet) and stand alone operation. The main unit was founded upon Xerox's Mesa 8 MHz processor which had 256 auxiliary registers and executed 48-bit-wide instructions. It also used an 80186 as an auxiliary processor. 
+
+The basic system came with 1.1 MB of memory, expandable up to 3.7 MB, a 10 to 80 MB hard disk drive, two serial ports and a 15-inch high-resolution monochrome display. An optional card allowed the 6085 to run MS-DOS software.
+
+The operating system and GUI interface was called ViewPoint. It also came from the Star. It was written in a language developed at  Xerox PARC in the 1970's and also called Mesa. This strongly-typed and structured high-level language, would have a large influence on future well known languages like Pascal or C. 
+
+Two improved versions were launched afterwards, the 6085-II with an almost twice as fast processor, and the XPIW (Xerox Publishing Illustrator's Workstation), basically a 6085 workstation with a scanner.
+Sadly, like the Alto, the 6085 didn't meet a large success in spite of numerous vanguard concepts, mainly because the Xerox marketing policy was, at the time, above all directed towards copiers rather than computers.
+_______________________</description>
+        <emulators/>
+        <graphics>880 x 697 dots</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/Xerox_6085_System_s1.jpg</image>
+        <keyboard>95 key Typewriter style with 20 funtion keys and numeric keypad</keyboard>
+        <language>None</language>
+        <links/>
+        <manufacturer>Xerox</manufacturer>
+        <media>5.25 floppy drive, 10 to 80 MB HDD</media>
+        <name>6085</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals>Unknown</peripherals>
+        <ports>2 serial ports</ports>
+        <power>Built-in power supply unit</power>
+        <price>From $4995</price>
+        <production>1989</production>
+        <ram>1.1 MB up to 3.7 MB</ram>
+        <rom>Unknown</rom>
+        <screenshots/>
+        <size>Unknown</size>
+        <sound>Yes, see below</sound>
+        <speed>8 MHz</speed>
+        <text>Bit-map characters</text>
+        <type>Professional Computer</type>
+        <vram>Unknown</vram>
+        <year>1985</year>
+    </computer>
+</computers>

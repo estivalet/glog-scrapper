@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FRENCH ADVERT (DECEMBER 1981)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;quot;At 12 years old, Nicolas discovered he was the terror of the aliens&amp;quot;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/atari_2600_ad_nicolas.jpg</link>
+            </advert>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FRENCH ADVERT (JANUARY 1982)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;quot;At 68 years old, taunt Rose discovered that she was an exceptionally gifted child&amp;quot;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/atari_2600_ad_tante-rose.jpg</link>
+            </advert>
+        </adverts>
+        <builtInGames>None</builtInGames>
+        <colors>128 colors (16 colors with 8 intensity levels each)</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>6507</cpu>
+        <description>
+A new generation of games was born in the summer of 1977, a new concept revolutionizing leisure will let small leading and foreseeing companies make billions of dollars. 
+
+Although the Atari VCS is not the first video game console ever, it will become a star while beginning in November of 1977. Millions of young players will hold it as mankinds best invention ever. The first console idea was developed in 1975 by Atari and Warner Bros, its parent company. 
+
+Initially the console was set to come with an integrated ROM game, but at the last minute, Atari preferred a cartridge version. This game was Combat. Most importantly, this first cartridge will allow console owners to wait a few months for the release of new games. A first series of 8 will be followed later by many, among them, the famous Space Invaders, a title giving Atari global success and will cash in more then $100 millions. 
+
+In two years, Atari sold more than 25 million consoles and earn $5 billion in sales, mostly from cartridges and optional accessories. Many third companies will also encounter success, such as Namco and its Pacman. 
+
+In 1982, the VCS becomes 2600 until Atari is sold in 1984, followed by new versions 5200 and 7800. However, the 2600 continued to be produced and new games will appear until 1991. The VCS/2600 console thus lived for 14 years, a record longevity never equaled since by any console or computer.
+
+________________
+
+Bluekatt (from Netherlands) comments:
+the atari's record has already been broken twice ( to a degree ) first by the nintendo famicom who went into production in japan in 1983 and went out of it in 2004 thats 21 years the other is the gameboy who has been running ever since 1989 in one form or another honorable mention is the playstation 1 who has also survived for 12 years one way or another for around 6 7 years as a hardware entity andnow as a integrated romchip and emulator calls in the ps 2 and 3
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>MESS also emulates the Atari 2600</description>
+                <link>http://www.mess.org</link>
+                <name>MESS</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+            <emulator>
+                <description>MS-DOS &amp;amp; Windows emulator</description>
+                <link>http://www.classicgaming.com/pcae/</link>
+                <name>PC Atari Emulator</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Maybe the most popular emulator</description>
+                <link>http://stella.sourceforge.net/</link>
+                <name>Stella</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Popular emulator for DOS &amp;amp; Windows</description>
+                <link>http://www.whimsey.com/z26/z26.html</link>
+                <name>Z26</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>160 x 192</graphics>
+        <hardwares>
+            <hardware type="STARPATH SUPERCHARGER">
+                <items>
+                    <item>
+                        <description>French ad (sept. 1983)||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FRENCH AD (SEPT. 1983)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/atari_2600_pub_starpath-supercharger.jpg</photo>
+                    </item>
+                </items>
+            </hardware>
+        </hardwares>
+        <image>http://www.old-computers.com/museum/photos/atari_2600_1.jpg</image>
+        <keyboard>2 joysticks with one fire button each</keyboard>
+        <language>None</language>
+        <links>
+            <link>http://www.atariage.com/</link>
+            <link>http://en.wikipedia.org/wiki/Atari_2600</link>
+        </links>
+        <manufacturer>Atari</manufacturer>
+        <media>Cartridges</media>
+        <name>VCS 2600</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals></peripherals>
+        <ports>Two controller connectors, Power in, RF TV output</ports>
+        <power>External power supply unit. 9VDC 500mA  - -(o- +</power>
+        <price></price>
+        <production></production>
+        <ram>128 bytes</ram>
+        <rom>4 KB max.</rom>
+        <screenshots/>
+        <size></size>
+        <sound>2 mono channels</sound>
+        <speed>1.19 MHz</speed>
+        <text></text>
+        <type></type>
+        <vram></vram>
+        <year>July 1977</year>
+    </computer>
+</computers>

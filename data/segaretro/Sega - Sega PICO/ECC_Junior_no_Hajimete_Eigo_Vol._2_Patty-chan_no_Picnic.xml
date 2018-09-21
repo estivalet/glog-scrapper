@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<games>
+    <game>
+        <developer>Sega</developer>
+        <genre>English</genre>
+        <name>ECC Junior no Hajimete Eigo Vol. 2 Patty-chan no Picnic</name>
+        <players>1</players>
+        <publisher>Sega</publisher>
+        <releases>
+            <release>
+                <code></code>
+                <country></country>
+                <date></date>
+                <price></price>
+            </release>
+            <release>
+                <code>HPC-6104</code>
+                <country>JP</country>
+                <date>2002-03-07</date>
+                <price>&amp;Acirc;&amp;yen;</price>
+            </release>
+            <release>
+                <code>HPC-6104</code>
+                <country>JP (Rerelease)</country>
+                <date>2003-06</date>
+                <price>&amp;Acirc;&amp;yen;4,980</price>
+            </release>
+        </releases>
+        <romSize>2MB</romSize>
+        <shots>http://segaretro.org/images/1/1d/ECC2_Pico_Title.png</shots>
+        <shots>http://segaretro.org/images/9/97/ECC2_Pico_JP_Box.jpg</shots>
+        <shots>http://segaretro.org/images/5/5f/ECC2_pico_jp_manual.pdf</shots>
+        <systems>Sega Pico</systems>
+    </game>
+</games>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>One double sided 3.5'' disk drive (1,4 MB)</builtInGames>
+        <colors>monochrome (9'' black &amp;amp; white display)</colors>
+        <controllers></controllers>
+        <coprocessor>FPU: 16 MHz 68882</coprocessor>
+        <cpu>Motorola MC 68030</cpu>
+        <description>
+The Macintosh SE/30 was the successor to the Apple Macintosh SE and the Macintosh Plus. It ran under Mac OS 6.0.3 or A/UX (Apples Unix variant).
+
+Apple had been naming all computers using the 68030 processers with an &amp;quot;x&amp;quot;, such as the IIx and IIcx. When it came time to put the 68030 processor into the SE series, they prudently decided that calling it the Macintosh &amp;quot;SEx&amp;quot; wasn't the best marketing idea, so they settled on &amp;quot;SE 30&amp;quot;.
+
+Except for the 68030, one of its main differences with the old Mac SE was its separate video RAM (64 KB which could be accessed without slowing down CPU access to the RAM). Its sound system was a limited version of the Apple II GS sound system. 
+
+Although the SE-30 had a gray-scale monitor, the onboard video actually supported color. The cost of incorporating a 9&amp;quot; color CRT would have made the machine far too pricey, resulting in the the grayscale CRT. However, the idea of a color CRT would be taken up again with the Colour Classic. 
+The SE-30 also had an expansion slot that could support a variety of 3rd party cards, an example being a combination 10BaseT Ethernet / color video out card.
+_______________________</description>
+        <emulators>
+            <emulator>
+                <description>Demonstration version of a commercial software (MS DOS &amp;amp; Win95)</description>
+                <link>http://www.ardi.com/</link>
+                <name>Executor</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>A commercial Software which emulates the Atari ST/TT and the Mac 128/Plus/2 (Win95 / Win NT)</description>
+                <link>http://www.emulators.com/</link>
+                <name>Gemulator</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Same as Apple lisa emulator for unix but ported to windows</description>
+                <link>http://lisa.sunder.net/</link>
+                <name>LisaEm</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>PearPC is an architecture-independent PowerPC platform emulator capable of running most PowerPC operating systems.</description>
+                <link>http://pearpc.sourceforge.net/</link>
+                <name>PearPC</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>good 68K Emulator For Windows</description>
+                <link>http://www.emulators.com/</link>
+                <name>SoftMac</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Demo version of a commercial software (Linux / NextStep)</description>
+                <link>http://www.ardi.com/</link>
+                <name>Executor</name>
+                <platform>Unix / Linux emulator</platform>
+            </emulator>
+            <emulator>
+                <link>http://www.leb.net/vmac/</link>
+                <name>vMac - The Virtual Macintosh Emulator Project</name>
+                <platform>Other platform emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Basilisk II is an Open Source 68k Macintosh emulator. Good emulator, runs on several platforms, even Amiga</description>
+                <link>http://basilisk.cebix.net/</link>
+                <name>Basilisk II</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Mini vMac, a spin off of the program vMac,  emulates a Macintosh Plus and Macintosh SE. So far it works on Macintosh OS, Microsoft Windows, and the X Window System. </description>
+                <link>http://minivmac.sourceforge.net/</link>
+                <name>Mini vMac</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>512 x 342</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/apple_mac_se30.jpg</image>
+        <keyboard></keyboard>
+        <language></language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=265</link>
+            <link>computer.asp?st=1&amp;amp;c=271</link>
+            <link>computer.asp?st=1&amp;amp;c=1043</link>
+            <link>computer.asp?st=1&amp;amp;c=160</link>
+            <link>computer.asp?st=1&amp;amp;c=282</link>
+            <link>computer.asp?st=1&amp;amp;c=1005</link>
+            <link>computer.asp?st=1&amp;amp;c=161</link>
+            <link>http://www.apple-history.com/</link>
+            <link>http://www.applefritter.com</link>
+            <link>http://www.cmq.qc.ca/Groupes.html</link>
+            <link>http://www.cmq.qc.ca/cmq.html</link>
+            <link>http://home.earthlink.net/~gamba2/index.html</link>
+            <link>http://www.jagshouse.com/</link>
+            <link>http://www.lowendmac.com/compact/se30.shtml</link>
+            <link>http://www.lowendmac.com</link>
+            <link>http://www.MacForumz.com</link>
+            <link>http://www.macdebate.com</link>
+            <link>http://www.d4.dion.ne.jp/~motohiko/</link>
+            <link>ftp://ftp.amug.org/pub/info-mac/</link>
+            <link>ftp://ezinfo.ethz.ch/mac.dir/</link>
+            <link>ftp://ftp.luth.se/pub/mac/</link>
+            <link>ftp://daemon.ncsa.uiuc.edu/Info-Mac-Binaries/</link>
+            <link>ftp://ftp.center.osaka-u.ac.jp/info-mac/</link>
+            <link>ftp://sumex-aim.stanford.edu/info-mac/</link>
+            <link>ftp://src.doc.ic.ac.uk/packages/info-mac/</link>
+            <link>ftp://ftp.technion.ac.il/pub/unsupported/mac/</link>
+            <link>ftp://ftp.ucs.ubc.ca/pub/mac/info-mac/</link>
+            <link>ftp://wwwhost.ots.utexas.edu/mac/main.html</link>
+            <link>ftp://wuarchive.wustl.edu/systems/mac/info-mac/</link>
+            <link>news:comp.sources.mac</link>
+            <link>news:comp.sys.mac.advocacy</link>
+            <link>news:comp.sys.mac.announce</link>
+            <link>news:comp.sys.mac.apps</link>
+            <link>news:comp.sys.mac.comm</link>
+            <link>news:comp.sys.mac.digest</link>
+            <link>news:comp.sys.mac.hardware.misc</link>
+            <link>news:comp.sys.mac.misc</link>
+            <link>news:comp.sys.mac.programmer.help</link>
+            <link>news:comp.sys.mac.programmer.info</link>
+            <link>news:comp.sys.mac.programmer.misc</link>
+            <link>news:comp.sys.mac.system</link>
+        </links>
+        <manufacturer>Apple</manufacturer>
+        <media>One double sided 3.5'' disk drive (1,4 MB)</media>
+        <name>MACINTOSH SE 30</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals></peripherals>
+        <ports>two serial RS232/422 ports; two ADB ports (keyboard, mouse), Stereo, Floppy disk connector, SCSI, 68030 Processor Direct Slot (to connect graphic cards, or network card)</ports>
+        <power>internal batteries: 3.6V lithium</power>
+        <price>$4400 (USA, 1989)</price>
+        <production>21th october 1990</production>
+        <ram>1 / 4 MB (up to 128 MB) + 256 bytes of PRAM</ram>
+        <rom>256 KB</rom>
+        <screenshots/>
+        <size>13.6'' x 9.6'' x 10.9'' / 19.5 lb</size>
+        <sound>four stereo channels</sound>
+        <speed>15.77 MHz</speed>
+        <text></text>
+        <type>Professional Computer</type>
+        <vram>64 KB</vram>
+        <year>January 1989</year>
+    </computer>
+</computers>

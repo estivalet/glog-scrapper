@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BRAZILIAN ADVERT (1982)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/digitus_dgt100_ad_1.jpg</link>
+            </advert>
+        </adverts>
+        <builtInGames>BASIC interpreter Level II + DigBug Monitor</builtInGames>
+        <colors>Monochrome (DGT-1000: 16)</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>DGT-100: Zilog Z80, DGT-1000: Z80A</cpu>
+        <description>
+Brazil produced several Tandy Model I and III clones. Among them, the DGT-100 and DGT-1000 which were manufactured by DIGITUS Ind. Com. Serv. de Eletr&amp;ocirc;nica Ltda and sold only in Brazil.
+
+Although their cases looked like an Apple II, both models were compatible with the Tandy Model I and III and featured a Level II BASIC interpreter.
+
+The DGT-100 had a monochrome video output while the DGT-1000 (introduced in 1984) could display 16 colors in 256/192 mode on a PAL-M TV set.
+
+This monitor is actually an adapted Philips B/W TV. If you remove the cables from the jack slots (as see in the picture), you can watch TV.
+
+To run a CP/M OS I needed to install an additional chip inside the computer and more memory.
+
+The reset button, on the right side of the case, could be easily pressed accidentally. This was very annoying.
+
+Thanks to Rodrigo and Sando from Brazil for this information.
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>48 x 128 dots, high resol. 192 x 500 dots (DGT-1000: 256x192)</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/Digitus_Dgt100_System_s1.jpg</image>
+        <keyboard>56 Keys</keyboard>
+        <language>BASIC interpreter Level II + DigBug Monitor</language>
+        <links/>
+        <manufacturer>Digitus</manufacturer>
+        <media>None</media>
+        <name>DGT100 / DGT1000</name>
+        <numGames></numGames>
+        <origin>Brazil</origin>
+        <peripherals>Tape recorder, 2 x 5.25'' SS/DD 178 KB FDD (DFT-1000: Up to 4 FDDs)</peripherals>
+        <ports>Unknown</ports>
+        <power>Built-in PSU</power>
+        <price>Unknown</price>
+        <production></production>
+        <ram>16 Kb (expandable to 48 kb)</ram>
+        <rom>14 KB (DGT-1000: 16 KB)</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;COMPLETE DGT-100 SYSTEM&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;With dual 5.25&amp;quot; 178 KB FDD unit.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Digitus_Dgt100_System_s2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;DGT-1000&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Also with a dual FDD unit.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Digitus_Dgt1000_System_s1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>Unknown</size>
+        <sound>Unknown</sound>
+        <speed>DGT-100: 2.5 MHz, DGT-1000: 2 MHz</speed>
+        <text>16 lines x 32 or 64 columns</text>
+        <type>Home Computer</type>
+        <vram></vram>
+        <year>1983</year>
+    </computer>
+</computers>

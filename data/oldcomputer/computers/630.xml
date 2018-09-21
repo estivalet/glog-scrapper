@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Microsoft Basic, editor,debugger and assembler delivered on disk</builtInGames>
+        <colors>Monochrome display</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Intel 8085</cpu>
+        <description>
+MikroMikko was Nokia Data's attempt to enter the business computer market. The computer has 64 KB RAM and is a CP/M operating system.
+
+There are several models of MikroMikko 1. The one pictured here is a M6 model which has two 5.25&amp;quot; 640 KB disc drives. But other models differ and can have one or two disk drives (360 KB or 640 KB), and even a built-in 5 MB hard disk (model M7).
+
+The MikroMikko 1 features high resolution graphics (800x327). It is quite heavy, the keyboard weighting alone about 2 kilograms! It was a very robust built system that was very suitable for hard environments such as schools. The machine has a linear power transformer and no fan. Cooling is done by a giant heat sink on the back side of the machine. 
+
+Ergonomics has always played a great part in the MikroMikko series and this model has a keyboard with a built-in wrist support and a very slow screen that is very comfortable even though it has a 50Hz refresh rate.
+ 
+Nokia later bought Ericsson's computer division. Later ICL bought the Nokia Data from Nokia that concentrated on its key competence. This machine is peculiar in that sense that it has the old Nokia logo reminding that the company was originally making car tires besides rubber boots and cables. Computer manufacturing has ceased now in plants which made this system...
+
+MikroMikko got several follow-ups: MikroMikko 2 had a very nice display with white background and 72Hz refresh rate. it was also the only real computer that was powered by an Intel 86186. While MM2 was partly MS-DOS compatible, MikroMikko3 was an ergonomic beauty that was fully pc-compatible.
+
+_______
+
+Texts and pictures from Mika Ojutkangas website. Thanks a lot!
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>160 x 75, 800 x 327</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/nokia_MikroMikko1_1.jpg</image>
+        <keyboard>Full-stroke keyboard with function keys and numeric keypad</keyboard>
+        <language>Microsoft Basic, editor,debugger and assembler delivered on disk</language>
+        <links>
+            <link>http://www.hogia.se/pcmuseum/</link>
+            <link>http://www.iki.fi/oju/</link>
+        </links>
+        <manufacturer>Nokia</manufacturer>
+        <media>Model 6: Two 5.25'' disk drives (640 KB) optional 5 MB Winchester hard-disk</media>
+        <name>Mikro Mikko 1</name>
+        <numGames></numGames>
+        <origin>Finland</origin>
+        <peripherals></peripherals>
+        <ports>2 x RS-232 ports, video out, printer, keyboard</ports>
+        <power>PSU built-in</power>
+        <price>5000  (Finland, 1984)</price>
+        <production></production>
+        <ram>64 KB</ram>
+        <rom>4 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;KEYBOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/nokia_MikroMikko1_keyboard.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;REAR&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/nokia_MikroMikko1_rear.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INSIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/nokia_MikroMikko1_inside.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MOTHER BOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/nokia_MikroMikko1_mobo.jpg</link>
+            </shot>
+        </screenshots>
+        <size>Main unit: 324 x 340 x 215 mm / 13,4kgKeyboard: 390 x 220 x 70 mm / 2 kg12'' monitor: 345 x 330 x 335 mm / 8,5 kg</size>
+        <sound>Beeper</sound>
+        <speed>2 MHz</speed>
+        <text>80 x 25 (last line reserved for system info)</text>
+        <type>Professional Computer</type>
+        <vram></vram>
+        <year>1984</year>
+    </computer>
+</computers>

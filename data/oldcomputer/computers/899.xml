@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;U.K. AD. 1984&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Advert said:&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;#666666&amp;quot;&amp;gt; CORTEX has been designed not to dominate your desk, to leave room for your calendar, your telephone, your in-tray and the rest. If you want it inconspicuous, buy iy in conventional cream. But for extroverts, and the fashion conscious, CORTEX comes in bright, bright colours - warm red, C/WP green, sunshine yellow, ice white and all black...&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/CWP_Cortex_Advert_1.jpg</link>
+            </advert>
+        </adverts>
+        <builtInGames>None</builtInGames>
+        <colors>Monochrome</colors>
+        <controllers></controllers>
+        <coprocessor>6502 (Screen)</coprocessor>
+        <cpu>Z80A,</cpu>
+        <description>
+With a few modifications en route, the Cortex system was bought by the British company C/WP (&amp;quot;Computers and Word Processors&amp;quot;) from Ontel in USA where it was called Amigo.
+
+Major modifications were both to hardware, including easy service access, and software, all designed to make this micro more friendly.  CW/P aimed it firmly at the mainstream office Word Processor market.
+
+The Cortex was in three main units, the keyboard, disc drive and display which housed the main logic board. The plastic housing was available in six vivid colours (some of them were not really restful on the eyes). Only four screws allowed to quickly change any part of the system.
+
+The IBM-like keyboard was set up to generate various Wordstar control codes, and the version of WordStar shipped with it was modified to use them.
+
+It was basically a CP/M machine with some improvements: second processor for display management and graphics capabilities. It was also one of the first machines that GSX (Digital Research's graphics standard) was supported on.
+
+The weird styling and high price relative to other CP/M boxes didn't help it in the market. Furthermore, its 8-bit processor couldn't compete with the new wave of 16-bit professional computers, and the Cortex never met a large success although it was a nice, small-footprint machine.
+
+
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>640 x 300 pixels</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/CWP_Cortex_System_1.jpg</image>
+        <keyboard>Full stroke 83 keys, PC style, 10 function keys and numeric keypad</keyboard>
+        <language>None</language>
+        <links/>
+        <manufacturer>CW/P</manufacturer>
+        <media>2 x 200 KB 5.25'' floppy disc drives in separate unit</media>
+        <name>Cortex</name>
+        <numGames></numGames>
+        <origin>United Kingdom</origin>
+        <peripherals>5.25'' or 8'' Hard disk controller connector, 800 KB 5.25'' floppy drives</peripherals>
+        <ports>Parallel Centronics, Serial RS-232</ports>
+        <power>Built-in power supply unit</power>
+        <price>&amp;pound;1795 (U.K., 1984)</price>
+        <production></production>
+        <ram>64 KB</ram>
+        <rom>Unknown</rom>
+        <screenshots/>
+        <size>34 (W) x 31 (D) x 30 (H) cm</size>
+        <sound>Beeper</sound>
+        <speed>4 MHz</speed>
+        <text>80 chars x 25 lines</text>
+        <type>Professional Computer</type>
+        <vram>40 KB</vram>
+        <year>1983</year>
+    </computer>
+</computers>

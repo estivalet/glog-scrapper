@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<games>
+    <game>
+        <capturas>
+            <captura>images/capturas/Frogger (Konami, 1983) 001.png</captura>
+            <captura>images/capturas/Frogger (Konami, 1983) 002.png</captura>
+            <captura>images/capturas/Frogger (Konami, 1983) 003.png</captura>
+            <captura>images/capturas/templos_sagrados(6).png</captura>
+        </capturas>
+        <caratulas>
+            <caratula>images/caratulas/Frogger (Konami, 1983) 001.png</caratula>
+            <caratula>images/caratulas/Frogger (Konami, 1983) 003.jpg</caratula>
+            <caratula>images/caratulas/Frogger (Konami, 1983) 002.jpg</caratula>
+            <caratula>images/caratulas/Frogger (Konami, 1983) 004.jpg</caratula>
+            <caratula>images/caratulas/Frogger (Konami, 1983) 001.png</caratula>
+        </caratulas>
+        <control>Keyboard Joystick</control>
+        <country>Japan</country>
+        <developer>Konami</developer>
+        <format>ROM cartridge  (16Kb)</format>
+        <generation>MSX</generation>
+        <languages>English</languages>
+        <name>Frogger</name>
+        <players>1</players>
+        <price>4,000 JPY - Japan Yen</price>
+        <productId>RC704</productId>
+        <publisher>Konami</publisher>
+        <region>Asia</region>
+        <releases>
+            <release>
+                <format>ROM cartridge (16Kb)</format>
+                <price>4,000 JPY - Japan Yen</price>
+                <productCode>HBJ-G029C</productCode>
+                <publisher>Sony</publisher>
+                <region>Asia/Japan</region>
+            </release>
+            <release>
+                <format>ROM cartridge</format>
+                <productCode>J08</productCode>
+                <publisher>Sharp-Epcom</publisher>
+                <region>America/Brazil</region>
+            </release>
+        </releases>
+        <remakes/>
+        <requires></requires>
+        <sound>PSG</sound>
+        <type>Hability</type>
+        <typeOfLicense></typeOfLicense>
+        <url>http://msxgamesworld.com/gamecard.php?id=1228</url>
+        <year>1983</year>
+    </game>
+</games>

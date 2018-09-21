@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FRENCH AD (JAN. 1980)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/sord_m-serie_ad_gepsi.jpg</link>
+            </advert>
+        </adverts>
+        <builtInGames>Unknown</builtInGames>
+        <colors>Black &amp;amp; green (built-in monitor)</colors>
+        <controllers></controllers>
+        <coprocessor>Unknown</coprocessor>
+        <cpu>Zilog Z80 A</cpu>
+        <description>
+These computers were generally sold for specific professionnal use along with the appropriate software.
+
+Two models were launched: the Sord MK II 203 and 
+Sord MK II 223. The difference is that the 223 has 3 x S100 slots for easy expansion. Both have a special DMA channel for the disks (floppy and hard disk).
+
+Some software was sold with them, which included the MFDOS, several Sord BASIC's, a compiled Basic (C-Basic) and many tools. The Fortran IV and the Cobol were also available.
+
+For the M-223 and its S100 slots, 2 extensions were sold :
+
+- A graphic card with high-resolution and 8 colors
+- A/D and D/A convertor (16 x 12 bits channels for input and 2 x 8 bits channels for output)
+_______________________</description>
+        <emulators/>
+        <graphics>Unknown</graphics>
+        <hardwares/>
+        <hardwareDescription>While the M-203 has no expansion possibilities, the Sord M-223 has 3 x S100 slots, allowing to add :
+
+- a graphic card with high resolution and 8 colors
+- A A/D and D/A converter
+
+Both computers could be connected to 2 more external drives (hard-disk or floppy-drives)</hardwareDescription>
+        <image>http://www.old-computers.com/museum/photos/Sord_M223MK6_System_1.jpg</image>
+        <keyboard>QWERTY / AZERTY mechanical keyboard15 function keys &amp;amp; numeric keypad</keyboard>
+        <language>Unknown</language>
+        <links/>
+        <manufacturer>Sord</manufacturer>
+        <media>From 1 to 4 x  5.25</media>
+        <name>M223 series</name>
+        <numGames></numGames>
+        <origin>Japan</origin>
+        <peripherals>- 2 more floppy-drives- 10 Mb hard-diskM-223 only :- Graphic card for high resolution and 8 colors- A/D and D/A convertor</peripherals>
+        <ports>plug for an additional ROMV24 / RS232c x 2 (from 110 to 9600 bauds)M-223 : 3 x S100 connectors</ports>
+        <power>Built-in Power Supply Unit</power>
+        <price>Unknown</price>
+        <production>Unknown</production>
+        <ram>64 kb</ram>
+        <rom>512 bytes (for the loader), up to 8 kb</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;LARGE VIEW&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Sord_M223MK6_System_2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;WITH DUAL HD UNITS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Sord_M223MK6_WithHDunits_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;TOP VIEW&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Sord_M223MK6_TopView_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;KEYBOARD CLOSE-UP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Sord_M223MK6_KeyBoard_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;REAR SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(1)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Dual serial ports&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(2)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Floppy drive controller extension board&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(3)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Four SCSI ports board&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(4)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Hard disk controller board&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Sord_M223MK6_Rear_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INSIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Sord_M223MK6_Inside_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MAINBOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(1)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Keyboard connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(2)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; 64 KB RAM chips - 32 x 4116 (16K x 1bit)&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(3)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; 5 KB video RAM chips - 10 x 4027 chips (4K x 1bit)&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(4)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; AMD 9511 floating point unit&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(5)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; SMC 5027 video display controller&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(6)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Connector for expansion box&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(7)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Z80A processor&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(8)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Z80 CTC counter-timer&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(9)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Reset switch&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(10)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Dual serial port&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(11)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Dual 8251 serial controller chips &amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Sord_M223MK6_MainBoard_2.jpg</link>
+            </shot>
+        </screenshots>
+        <size></size>
+        <sound>Unknown</sound>
+        <speed>4 MHz</speed>
+        <text>80 x 24</text>
+        <type>Home Computer</type>
+        <vram>4 kb</vram>
+        <year>1979</year>
+    </computer>
+</computers>

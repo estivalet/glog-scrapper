@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>2 x 5''1/4 disk-drives</builtInGames>
+        <colors>16</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>i8086-2</cpu>
+        <description>
+The PC-9801 was a very popular PC in Japan. PC-9801's design was very similar to IBM-PC, but was slightly extended. VRAM (Video RAM) is strongly extended from original IBM-PC, enabling it to display kanji characters without bitmap memory (as ASCII characters). But I/O systems, Interrupt systems are almost the same.
+
+There were in fact three models : F1, F2 and F3. Whereas F1 &amp;amp; F2 models have only 128k RAM, the F3 had 256 kb RAM and 10 Mb hard-disk built-in.
+
+More info anyone ?
+
+________
+
+Thanks to Nomura Hisayuki for the info
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>640 x 400 with 8 colors. 2 virtual screens</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/nec_pc9801f_1.jpg</image>
+        <keyboard>Full-stroke keyboard with separated numeric keypad and arrow keys</keyboard>
+        <language></language>
+        <links/>
+        <manufacturer>NEC</manufacturer>
+        <media>2 x 5''1/4 disk-drives</media>
+        <name>PC 9801 F</name>
+        <numGames></numGames>
+        <origin>Japan</origin>
+        <peripherals></peripherals>
+        <ports>C-Bus</ports>
+        <power></power>
+        <price></price>
+        <production></production>
+        <ram>128 kb (up to 640 kb)</ram>
+        <rom>N88-Basic + Kanji</rom>
+        <screenshots/>
+        <size></size>
+        <sound>One channel beeper. Built-in internal speaker</sound>
+        <speed>8 or 5 Mhz</speed>
+        <text>80x25 , 40 x 25 , 80 x 20 , 40 x 20</text>
+        <type>Home Computer</type>
+        <vram>204 kb</vram>
+        <year>1983</year>
+    </computer>
+</computers>

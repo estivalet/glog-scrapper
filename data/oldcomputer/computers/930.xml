@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>HPL</builtInGames>
+        <colors>Red</colors>
+        <controllers></controllers>
+        <coprocessor>Math coprocessor</coprocessor>
+        <cpu>HP 5061 16-bit</cpu>
+        <description>
+Although the HP-9825 was presented by HP as a desktop calculator with some computer features, it was really a desktop computer, in fact the first all-in-one computer everyone could use without being a computers guru.
+
+This system was lauched quite at the same time as the first personal systems (Altair 8800, Imsai 8080), however, its concepts and features were much more advanced but its price was about ten times the one of an Imsai, it thus wasn't intended to hobbyists market.
+
+Inside the portable case, one found:
+ a full HP 16-bit CPU called 5061 with math coprocessor,
+ 8 KB to 32 KB of RAM,
+ HPL, an advanced high-level programming language close to BASIC,
+ a complete standard low-profile keyboard,
+ a 32 character alphanumeric LED display,
+ a built-in 16 column thermal printer,
+ a magnetic DC-100 cartridge tape drive.
+
+Furthermore, four ROM-pack housings allowed to extand HPL capabilities or run specialized software, and three expansion slots provided communication capabilities with any type of peripherals: measuring instruments, printers, plotters, mass storage devices. The expansions operating system was developed by Joe Beyers who will become later Vice President of HP Computer Systems Business.
+
+Two additional versions of the 9825 were manufactured, the 9825S included a set of ROM packs and the 9825B featured a true typewriter keyboard instead of the low-profile version.
+_______________________</description>
+        <emulators/>
+        <graphics>None</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/HP_9825_System_1.jpg</image>
+        <keyboard>98 keys with 18 fuction keys, numeric and cursor keypads</keyboard>
+        <language>HPL</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=938</link>
+            <link>computer.asp?st=1&amp;amp;c=879</link>
+            <link>computer.asp?st=1&amp;amp;c=1068</link>
+            <link>computer.asp?st=1&amp;amp;c=950</link>
+            <link>computer.asp?st=1&amp;amp;c=141</link>
+            <link>http://www.hpmuseum.net</link>
+            <link>http://www.classiccmp.org/hp/9800.htm</link>
+        </links>
+        <manufacturer>Hewlett Packard</manufacturer>
+        <media>250 KB DC-100 cartridge drive</media>
+        <name>HP-9825</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals></peripherals>
+        <ports>4 x ROM pack, 3 x expansion slots</ports>
+        <power>Built-in power supply unit</power>
+        <price>$5900</price>
+        <production></production>
+        <ram>8 KB up to 32 KB</ram>
+        <rom>8 KB up to 24 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;TOP VIEW&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The DC-100 cartridge drive is at the left side of the LED display, the thermal printer at the right.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/HP_9825_TopView_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;9825B&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;With true typewriter keyboard.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/HP_9825_Bversion_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;4 ROM-PACKS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;• String ADV. Programming - added advanced string commands to the HPL language&amp;lt;br&amp;gt; • Plotter&amp;lt;br&amp;gt; • GEN I/O, Extended I/O&amp;lt;br&amp;gt; • Systems Programming&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/HP_9825_Cartridges_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;TERMINAL ROM PACKS MANUAL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/HP_9825_Manual_1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>49,5 (W) x 38,4 (D) x 13 (H) cm / 11.8 Kg</size>
+        <sound>Simple beep through a built-in tiny speaker</sound>
+        <speed>Unknown</speed>
+        <text>32 characters x 1 line</text>
+        <type>Professional Computer</type>
+        <vram></vram>
+        <year>1976</year>
+    </computer>
+</computers>

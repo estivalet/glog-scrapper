@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Hard Disk (170 MB)</builtInGames>
+        <colors>Monochrome display ?</colors>
+        <controllers></controllers>
+        <coprocessor>Unknown</coprocessor>
+        <cpu>Custom chip + Motorola MC 68000</cpu>
+        <description>
+This scientific computer had characteristics which were incredible. It had a 170 MB hard disk, when other computers used 10 MB hard disks!
+
+It was designed to make CAD or artificial intelligence applications. It used a  graphic interface very similar to the Macintosh one (!) and was sold with a mouse.
+
+Several languages were supplied with the computer: Lisp, C, Fortran and, InterLISP (developed by Xerox).
+
+It used a custom CPU, the 68000 was used to run the keyboard, the mouse and to boot the main processor. The main processor had an architecture derived from the MIT CADR Lisp machines.
+
+In 1983, it cost about $110,000!
+_______________________</description>
+        <emulators/>
+        <graphics>1100 x 800 / 1280 x 1024</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/scientific-computer_symbolics-3600_1.jpg</image>
+        <keyboard>Full-stroke keyboard</keyboard>
+        <language></language>
+        <links/>
+        <manufacturer>Scientific Computer</manufacturer>
+        <media>Hard Disk (170 MB)</media>
+        <name>SYMBOLICS 3600</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals></peripherals>
+        <ports>Centronics, RS232c (3), Ethernet</ports>
+        <power>Power supply built-in the system</power>
+        <price>$110 000 (USA, 1983)</price>
+        <production></production>
+        <ram>2.3 MB</ram>
+        <rom>Unknown</rom>
+        <screenshots/>
+        <size></size>
+        <sound>Unknown</sound>
+        <speed>8 MHz</speed>
+        <text>Unknown</text>
+        <type>Professional Computer</type>
+        <vram></vram>
+        <year>1983</year>
+    </computer>
+</computers>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Triangular cartridges</builtInGames>
+        <colors>Yes</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>MOS Technology MPS-7600 customised microcontrollers contained in each cartridge</cpu>
+        <description>
+The Telstar Arcade is maybe one of the most interesting systems made by Coleco, and also the most advanced PONG system released in America, although it played non-PONG games.
+
+Made in a triangular case, the system could play three types of games, each being played on one of the three sides of the case. Obviously, the first side allowed playing PONG games (TENNIS and the like), and the second side allowed playing target shooting games. Nothing very different from most other systems, except the gun storage.
+
+The third face was the most interesting: it allowed playing car racing games. Very few systems offering that type of games were released at this time, and the games were only played using rotary controllers or some sort of joysticks. Best of Coleco's Telstar Arcade was the wheel and the gear box for the car racing games.
+
+Since several types of games could be played, the system used interchangeable cartridges. Telstar Arcade is therefore of the earliest systems to use cartridges containing a dedicated game chip. Each cartridge contains a chip made by MOS Technology: the MPS-7600. The four versions of this chip contain customised circuits because of the types of games, but they all use the same technology: a basic frame processor that controls the circuits, driven by a small program in ROM (the 8 PONG games chip has a 512-word program). Therefore, the MPS-7600 chips are not like the other PONG chips: they are customized microcontrollers.
+
+Coleco used a very uncommon cartridge format: a silver triangular case which connects horizontally on the top of the console. Nothing in common with the other black cartridges whith plug vertically.
+
+Coleco released only four cartridges. The first one was sold with the system and the others were available separately for the price of $25. Two flyers came with the system to order cartridges #2 and #3.
+
+________
+
+Text from www.pong-story.com
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>Unknown</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/coleco_telstar_arcade.jpg</image>
+        <keyboard>2 paddles, a steering wheel and a gun</keyboard>
+        <language></language>
+        <links>
+            <link>http://www.pong-story.com/coleco_arcade.htm</link>
+        </links>
+        <manufacturer>Coleco</manufacturer>
+        <media>Triangular cartridges</media>
+        <name>Telstar Arcade</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals></peripherals>
+        <ports>RF TV output, cartridge slot</ports>
+        <power>9v DC</power>
+        <price></price>
+        <production></production>
+        <ram></ram>
+        <rom></rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;LOGO&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/coleco_telstar-arcade_logo.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;TOP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/coleco_telstar-arcade_top.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;PONG PANEL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/coleco_telstar-arcade_pong-side.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SHOOTING GAMES PANEL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/coleco_telstar-arcade_gun-side.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;DRIVING PANEL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/coleco_telstar-arcade_auto-side.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/coleco_telstar-arcade_box_2.jpg</link>
+            </shot>
+        </screenshots>
+        <size></size>
+        <sound>Built-in beeper</sound>
+        <speed></speed>
+        <text></text>
+        <type></type>
+        <vram></vram>
+        <year>1977</year>
+    </computer>
+</computers>

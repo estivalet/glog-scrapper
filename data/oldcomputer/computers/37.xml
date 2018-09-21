@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Luxor Basic</builtInGames>
+        <colors>Monochrome</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Z 80</cpu>
+        <description>
+In August 1978, first units of the &amp;quot;Advanced Basic Computer for the 1980s&amp;quot;, in short ABC-80 left the Swedish Luxor factory. 
+
+A few months earlier, Luxor contracted with two other companies, Scandia Metric and Data Industrier AB (DIAB), to build the first totally Swedish computer. Scandia Metrics which had previous experience of computer based products designed the main board, DIAB manufactured the chips, while Luxor, one of the biggest TV set manufacturers, built the monitor, case and keyboard and assembled the whole system in its assembly plant of Motala (Sweden, at the northeast shore of Swedens second largest sea, V&amp;auml;ttern). 
+
+Despite the fact that the technology behind the ABC 80 was very simple and technical features wasn't better than US competitors, the ABC80 was a quality machine and became a great success among early Swedish computer enthusiasts, who had been waiting for a long time a real local computer. More than 10.000 computers were sold within two years. For six years, the ABC80 and then its sequel the ABC800, were by far the most sold and used personal computers in Sweden, for home, hobby, and especially education. 
+
+Many schools in Sweden had ABC 80 or ABC 800 for the students. It was possible to connect together several ABC 80 thanks to a network called ABC NET.
+
+In 1984, the ABC1600 and ABC9000, two Unix systems, were launched with the slogan &amp;quot;Who needs to be IBM compatible?&amp;quot;... They were the last Luxor computers produced.
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>works also with Windows</description>
+                <link>http://www.lysator.liu.se/~exon/archive.html</link>
+                <name>ABC 80 Emulator by Erik Isaksson</name>
+                <platform>MS DOS emulator</platform>
+            </emulator>
+            <emulator>
+                <description>ABC-80 emulator by Erik Isaksson</description>
+                <link>http://www.lysator.liu.se/~exon/archive.html</link>
+                <name>WinABC80</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>MESS also emulates the ABC-80 computer</description>
+                <link>http://www.mess.org</link>
+                <name>MESS</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>78 x 72</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/Luxor_ABC80_System_s1.jpg</image>
+        <keyboard>Full-stroke 55 keys</keyboard>
+        <language>Luxor Basic</language>
+        <links>
+            <link>http://www.hultsfred.org/luxor.htm</link>
+        </links>
+        <manufacturer>Luxor</manufacturer>
+        <media>Optional 2 x 5.25'' disk-drives</media>
+        <name>ABC 80</name>
+        <numGames></numGames>
+        <origin>Sweden</origin>
+        <peripherals></peripherals>
+        <ports>V24 / RS232</ports>
+        <power>Unknown</power>
+        <price>From $1400</price>
+        <production></production>
+        <ram>16 KB (up to to 32 KB)</ram>
+        <rom>16 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;LEFT SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The monitor was a modified TV set produced by Luxor. The receiver module was replaced with a second power supply unit which supplied power to the computer.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Luxor_ABC80_LeftSide_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;COMPLETE SYSTEM&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Complete system with Power supply unit and Luxor tape recorder.&amp;lt;br&amp;gt; The power supply unit allowed to use a standard TV SET through the aerial plug. In addition to the supply unit, it contained a TV modulator and a loudspeaker.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Luxor_ABC80_CompleteSystem_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FDD UNIT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Complete system with single or dual 5'' 160 KB floppy drive unit.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Luxor_ABC80_FDDunit_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;KEYBOARD CLOSE-UP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Notice the specific Swedish characters. &amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Luxor_ABC80_KeyboardCloseUp_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;KEYBOARD &amp;amp; LOGO&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Luxor_ABC80_KeyboardLogo_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;REAR SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(1)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Tape recorder DIN plug&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(2)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Tape recorder remote control jack&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(3)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Power supply input and video output connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(4)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; This sliding index card could be pulled from underneath the computer to get commands summary of the Basic language&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(5)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Z80 address and data lines bus connector, mainly intended for the floppy drive unit&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(6)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Serial RS232 DB9 connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(7)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Reset switch.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Luxor_ABC80_Rear_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INSIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The keyboard was made in Japan by Keytronic&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Luxor_ABC80_Inside_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MAIN BOARD EXPLAINED&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;(1)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Keyboard connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;(2)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Z80 PIO Parallel Input/Output controller&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;(3)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Z80 processor&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;(4)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; 4 x 4K ROM chips hold the Basic interpreter&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;(5)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Video RAM chips 2 x 2114 (1K x 4 bit static RAM)&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;(6)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; 16 KB RAM chips. 8 x 4116 (16K x 1 bit)&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;(7)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; TI-76477 sound generator. While it was a fairly competent sound generator, most of the chip's control inputs were analogue and thus &amp;quot;prohibitively expensive&amp;quot; to interface to a computer in the optimal way. Instead, it was hard-wired to a latch, which gave it only 256 sound settings, half of which were silent. &amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Luxor_ABC80_MainBoard_s1.jpg</link>
+            </shot>
+        </screenshots>
+        <size></size>
+        <sound>1 channel - Built-in speaker</sound>
+        <speed>3 MHz</speed>
+        <text>40 x 24 (ViewData and Teletext compatible)</text>
+        <type>Home Computer</type>
+        <vram></vram>
+        <year>1978</year>
+    </computer>
+</computers>

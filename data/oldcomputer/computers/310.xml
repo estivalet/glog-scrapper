@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>X68030 : 2 x 5.25'' disk-drivesX6030 Compact : 2 x 3.5'' disk-drives</builtInGames>
+        <colors>65535 (16 colors in 1024 x 1024 to 65K in 512 x 512)</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Motorola MC68030</cpu>
+        <description>
+The X68030 Pro was the successor of the X68000 XVI Compact. It was the last evolution of the X68 series.
+
+It was followed by the X68030 Compact which used 3.5&amp;quot; floppy disks instead of the 5.25&amp;quot;.
+
+There were lots of hardware developments on this computer, in particular an accelerator card based on the Motorola 68040 or 68060.
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>X68000 emulator for linux and windows</description>
+                <link>http://www.vx68k.org/vx68k/</link>
+                <name>Virtual X68000 Project</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>For Win9x / Me / 2K / NT</description>
+                <link>http://www.ksky.ne.jp/~yamama/emul/</link>
+                <name>X68000 emulator for Windows </name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>X68000 Emulator PPC is currently the only X68000 emulator available for the Macintosh</description>
+                <link>http://emulation.net/x68000/</link>
+                <name>X68000 Emulator PPC</name>
+                <platform>Apple emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>256 x 240 / 256 x 256 / 512 x 240 / 512 x 256 / 512 x 512 / 640 x 480 / 768 x 512 / 1024 x 1024  / 128 sprites (16 x 16 dots)</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/sharp_x68030_1.jpg</image>
+        <keyboard>Full-stroke keyboard</keyboard>
+        <language></language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=298</link>
+            <link>computer.asp?st=1&amp;amp;c=302</link>
+            <link>computer.asp?st=1&amp;amp;c=303</link>
+            <link>computer.asp?st=1&amp;amp;c=306</link>
+            <link>computer.asp?st=1&amp;amp;c=304</link>
+            <link>computer.asp?st=1&amp;amp;c=305</link>
+            <link>computer.asp?st=1&amp;amp;c=307</link>
+            <link>computer.asp?st=1&amp;amp;c=308</link>
+            <link>computer.asp?st=1&amp;amp;c=309</link>
+            <link>http://nna.c-get.ne.jp/X68000/index.html</link>
+            <link>http://en.wikipedia.org/wiki/Sharp_X68000</link>
+            <link>http://www.yo.rim.or.jp/~m_araki/kowin/index.html</link>
+            <link>news:fj.sys.x68000</link>
+        </links>
+        <manufacturer>Sharp</manufacturer>
+        <media>X68030 : 2 x 5.25'' disk-drivesX6030 Compact : 2 x 3.5'' disk-drives</media>
+        <name>X68030 / 68030 Compact</name>
+        <numGames></numGames>
+        <origin>Japan</origin>
+        <peripherals></peripherals>
+        <ports>Joystick (2), Audio IN / OUT, TV Control, NTSC Video Image I/O, Expansion (2), External FDD, SCSI, RS232</ports>
+        <power>Built-in PSU</power>
+        <price></price>
+        <production></production>
+        <ram>4 MB (up to 12 MB)</ram>
+        <rom>1 MB</rom>
+        <screenshots/>
+        <size></size>
+        <sound>FM Sound (Yamaha 2151 : 2 channels / 8 octaves stereo) + PCM (OKI MSM6258V : 4 bit mono)</sound>
+        <speed>25 MHz</speed>
+        <text>Unknown</text>
+        <type>Home Computer</type>
+        <vram>512 KB (text) + 512 KB (graphic)</vram>
+        <year>1993</year>
+    </computer>
+</computers>

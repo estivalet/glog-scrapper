@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>None</builtInGames>
+        <colors></colors>
+        <controllers></controllers>
+        <coprocessor>Socket for a 80387SX math coprocessor</coprocessor>
+        <cpu>Intel 80386SX</cpu>
+        <description>
+The QI-300 was the last machine that showed Apricot's unique
+design style before ACT was bought by Mitsubishi and moved into standard looking boxes.
+
+It also had several unique features, including a security system based on an infra-red 'key card' that users had to point at the PC and activate to allow it to boot up. This was also the first PC to offer IBM's MCA expansion bus.
+
+The QI-300 was followed by the Qi 600 (80386DX-25) and the Qi 900 (80486DX)
+
+__________
+
+Thanks to Charles Verrier for this information.
+
+Christopher Davies adds:
+I used to maintain these computers many years ago. They were very IBM like inside and sported a 40 MB tape drive on the left hand side. The MCA I am sure was brown in colour. A very smart machine. They seamed very popular in tire replacement places meaning they got very grimy and dirty.
+
+Warlord0 recalls:
+
+Ooh man glory days.  I used to work for an Apricot reseller and put in a lot of Qi and Xen/Xen-S machines. The Qi was revolutionary.  It had an MCA card that could be installed to work with an infra-red security card that would encrypt the hard drive!
+
+Apricot were light years ahead of their time.  Wireless keyboard and mouse, trackballs, calculators in the keyboard.  This stuff was brilliant British design. Sadly the buy out by Mitsubishi killed them off.
+
+I do remember the motherboards being released to the public being so poor in quality due to their &amp;quot;bleeding edge&amp;quot; design that many upgrades were done by soldering wires between chips post production.
+
+But they hold a special place in my heart.  Gotta love 'em.
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>on-board VGA</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/Apricot_QI300_System_s1.jpg</image>
+        <keyboard>IBM AT standard layout</keyboard>
+        <language>None</language>
+        <links>
+            <link>http://www.osemidlands.co.uk/support/insight/insight/en/products/timeline/timeline.htm</link>
+        </links>
+        <manufacturer>ACT</manufacturer>
+        <media>3.5'' FDD, 30 to 50 MB RLL hard disk drive</media>
+        <name>QI-300</name>
+        <numGames></numGames>
+        <origin>United Kingdom</origin>
+        <peripherals>4 x 16-bit MCA expansion slots</peripherals>
+        <ports>On-board ethernet, serial &amp;amp; parallel ports</ports>
+        <power>Built-in power supply unit</power>
+        <price>&amp;pound;3,200 (QI-600)</price>
+        <production>Late 1989</production>
+        <ram>1Mb to 5Mb</ram>
+        <rom>Unknown</rom>
+        <screenshots/>
+        <size>Unknown</size>
+        <sound>Built-in speaker</sound>
+        <speed>16 MHz</speed>
+        <text>40 or 80 columns x 25 lines</text>
+        <type>Professional Computer</type>
+        <vram></vram>
+        <year>1988</year>
+    </computer>
+</computers>

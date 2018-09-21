@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Basic-G</builtInGames>
+        <colors>Monochrome</colors>
+        <controllers></controllers>
+        <coprocessor>None</coprocessor>
+        <cpu>MHB 8080A  (East European version of the 8080)</cpu>
+        <description>
+the Mato (Mat'o) was actually not made by Tesla, but by Statny majetok Zavadka. It was a clone of the PMD-85 with some modifications (something between PMD85-1 and PMD85-2).
+
+It had different adressing modes, three user modes (calculator, program and graphics), different load/save method (programs could be read form tape via special software) and changed keyboard layout (fewer keys and special CONT, Shift and STOP).
+
+Two version were sold, one with built-in debbuger and BASIC, second with three built-in games; they came either fully assembled or as a build-it-yourself kit.
+
+Thanks to Vladimir Kopacek from Czech Republic for information and picture.
+_______________________</description>
+        <emulators/>
+        <graphics>255 x 255 dots</graphics>
+        <hardwares/>
+        <hardwareDescription>MatoTech.zip is a downloadable file kindly provided by Ivan Urda which contains:
+ The mainboard diagram
+ The power supply unit diagram
+ Four manuals in Slovak language (Manual, Games, Kit, Lan)</hardwareDescription>
+        <image>http://www.old-computers.com/museum/photos/Mato_System_1.jpg</image>
+        <keyboard>Full stroke 53 keys</keyboard>
+        <language>Basic-G</language>
+        <links/>
+        <manufacturer>Tesla</manufacturer>
+        <media></media>
+        <name>Mato</name>
+        <numGames></numGames>
+        <origin>Slovakia</origin>
+        <peripherals></peripherals>
+        <ports>Parallel printer, Serial I/O for tape, optional Net port</ports>
+        <power>Built-in 220V/18W (+5V, -5V, +12V DC)</power>
+        <price>About  40   in 1990, 35  in 1992 (special edition with 3 games included)</price>
+        <production></production>
+        <ram>48 KB, including video RAM</ram>
+        <rom>14 KB - OS + Graphics Basic - 2 KB NET OS since 1990, only for schools</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INSIDE #1&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Tesla_Mato_Inside_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INSIDE #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Note the TV/aerial video output and the cassette DIN socket.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Tesla_Mato_Inside_s2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;KEYBOARD &amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Tesla_Mato_Keyboard_s1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>30 (W) x 19.2 (D) x 6.7 (H) cm / 1.6 kg</size>
+        <sound>Beeper (1 channel)</sound>
+        <speed>4.164 MHz</speed>
+        <text>Unknown</text>
+        <type>Home Computer</type>
+        <vram></vram>
+        <year>1989</year>
+    </computer>
+</computers>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;JAPANESE AD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/nec_tk80_ad_1.jpg</link>
+            </advert>
+        </adverts>
+        <builtInGames></builtInGames>
+        <colors>None</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>&amp;igrave;PD8080AD</cpu>
+        <description>
+The NEC TK 80 is a 8080-cpu Training Kit (hence the &amp;quot;TK&amp;quot;) computer sold at the end of the 70's. It is considered the first japanese home-computer. It was firstly aimed at technicians, but it met a great success with first computer hobbyists. It was often sold as a kit.
+
+The systems is directly programmed in machine-code through the hexadecimal keyboard. There are 9 &amp;quot;function&amp;quot; keys on this keyboard : RET, RUN, STORE DATA, LOAD DATA, RESET, ADRS SET, READ INCR, READ DECR, WRITE INCR.
+Information is displayed on the built-in 7-segments LED display (1 line, 8 characters).
+
+The TK-80E is low-cost TK-80. The CPU and some chips are slightly different (uPD8080AD -&amp;gt; uPD8080AFC, uPD8228D -&amp;gt; uPD8228C, uPD454D -&amp;gt; uPD464C, uPD5101E -&amp;gt; uPD2101AL-4), thus reducing the production cost (ceramic -&amp;gt; plastic). Of course the TK-80E was less expensive.
+
+The TK-80 BS was a &amp;quot;Basic Station&amp;quot; model. It was composed of a TK-80 board with a BASIC ROM built-in, 7k RAM and an alphanumeric keyboard. Furthermore there was the Compo BS/80 which was a TK-80 with its Basic extension within a nice moulded plastic case.
+
+The TK-80 was used as a base for the PC-8001, the PC-8801 and the PC-9801.
+
+
+___________
+
+Picture courtesy of Electric Brain Museum.
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>Commercial Windows emulator delivered on CD-ROM with PDF original documentation</description>
+                <link>http://www.watch.impress.co.jp/pc/docs/article/20000327/ascii.htm</link>
+                <name>TK-80 Windows Emulator</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>None</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/nec_tk80_1.jpg</image>
+        <keyboard>Hexadecimal keyboard, 25 keysTK-80 BS : full-stroke keyboard</keyboard>
+        <language></language>
+        <links>
+            <link>http://www.tk.airnet.ne.jp/mit/mitland/Musium/NEC/TK-80.html</link>
+            <link>http://www.st.rim.or.jp/~nkomatsu/evakit/TK80.html</link>
+        </links>
+        <manufacturer>NEC</manufacturer>
+        <media></media>
+        <name>TK 80</name>
+        <numGames></numGames>
+        <origin>Japan</origin>
+        <peripherals>Optional cassette interface (300 bauds), RAM expansion, Basic ROM</peripherals>
+        <ports>Expansion bus, EPROM sockets</ports>
+        <power></power>
+        <price>88,500 Yen (Japan)</price>
+        <production></production>
+        <ram>512 bytesTK-80 BS : 5k</ram>
+        <rom>2 kb ?</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;TK-80&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/nec_tk80_3.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;DRAWING&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This is the picture used by the Windows emulator. Quite accurate !&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/nec_tk80_2.jpg</link>
+            </shot>
+        </screenshots>
+        <size>310 &amp;times; 180 mm</size>
+        <sound>None</sound>
+        <speed>1.3 MHz</speed>
+        <text>8 characters x 1 line (7 segments LED display)TK-80 BS : 32 x 16</text>
+        <type>Home Computer</type>
+        <vram></vram>
+        <year>1976</year>
+    </computer>
+</computers>

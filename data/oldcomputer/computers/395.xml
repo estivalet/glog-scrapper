@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;JAPANESE ADVERT (1985)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/nec_pc6601_advert.jpg</link>
+            </advert>
+        </adverts>
+        <builtInGames>N66 Basic + machine language monitor</builtInGames>
+        <colors>15</colors>
+        <controllers></controllers>
+        <coprocessor>&amp;igrave;PD8049 (8 Mhz)</coprocessor>
+        <cpu>&amp;igrave;PD780C-1 (Z80A compatible)</cpu>
+        <description>
+The PC-6601 is basicaly a PC-6001 MK2 with a built-in 3.5'' disk drive. The second optional disk drive could also be mounted. The N60m Basic od the PC-6001 MK2 has been enhanced to the N66 Basic.
+
+The japanese adverts focused on the fact that this computer could sing with its optional speech synthesizer!
+
+More info badly needed!
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>80 x 40 (15 colors), 160 x 200 (15 colors), 320 x 200 (4 colors)</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/nec_pc6601_1.jpg</image>
+        <keyboard>Full-stroke keyboard, JIS standard layout, 5 function keys</keyboard>
+        <language>N66 Basic + machine language monitor</language>
+        <links>
+            <link>http://my.reset.jp/~toragiku/kopa/6601.htm</link>
+        </links>
+        <manufacturer>NEC</manufacturer>
+        <media>One or two 3.5'' floppy disk drive (SS/DD 143 KB)</media>
+        <name>PC 6601</name>
+        <numGames></numGames>
+        <origin>Japan</origin>
+        <peripherals>Grpahics tablet, speech synthesizer</peripherals>
+        <ports>Tape interface (600/1200 baud), RGB video output, composite video output, RF TV output, parallel interface, optional RS-232c interface</ports>
+        <power>PSU built-in</power>
+        <price>143 000 yen (Japan, 1985)</price>
+        <production></production>
+        <ram>64 KB + 1KB (loppy disk interface)</ram>
+        <rom>32 KB (Basic + machine language monitor) + 32 KB (chinese characters) + 16 KB (voice data) + 16 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;PC-6601&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/nec_pc6601_monitor.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;REAR&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/nec_pc6601_rear.jpg</link>
+            </shot>
+        </screenshots>
+        <size>365 (W) &amp;times;380 (D) &amp;times;113 (H) mm / 4.5 Kg</size>
+        <sound>3 voices, 8 octaves (AY-3-8910)optional speech synthesizer</sound>
+        <speed>4 Mhz</speed>
+        <text>40 x 20</text>
+        <type>Home Computer</type>
+        <vram>50 KB ?</vram>
+        <year>1985</year>
+    </computer>
+</computers>

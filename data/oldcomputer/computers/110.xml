@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Basic</builtInGames>
+        <colors>8</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>CDP 1802</cpu>
+        <description>
+Very little is known about this obscure and rare computer.
+
+It was desgined by a Netherlands based company called NOXON AB, and was manufactured in Hong Kong by COMX WORLD OPERATIONS LIMITED. 
+
+There is no graphic mode, but user definable characters can be used to simulate graphics. The sound features are poor as there is only one single channel beeper. You can hear it when pressing a key. The Basic is very simple, with not a lot of specific statements, since there is not much to play with...
+
+The keyboard is said to be waterproof (can someone test that for us ?) and used goldplated contacts under the keys (if you've got one, you are rich :-)). There is a built-in joystick to the right of the keyboard (very easy to break), a bit like on the Spectravideo SV-318. And just above it, is the power Led.
+A small thermal printer was available for the COMX 35.
+
+The chosen CPU, the RCA CPD-1802, was also used in the RCA Studio 2 videogame system and a development/hobby systems using Chip-8, like the Cosmac RCA VIP. This 8-bit processor is still being manufactured in many forms, as it is radiation-resistant. It was also used as the heart of the Voyager, Viking and Galileo probes !
+
+The COMX-35 did have a successor: the COMX-PC1. This was just a COMX-35 in a different housing.
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>Beta version of COMX and 1802 Emulator running on windows</description>
+                <link>http://www.comxclub.hobby-site.com/</link>
+                <name>1802 Emulator</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Beta version of a COMX emulator for Unix/Linux (Windows compilation available)</description>
+                <link>http://www.elf-emulation.com/</link>
+                <name>RCS Elf Emulator</name>
+                <platform>Unix / Linux emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>None, but 64 user programmable graphical characters</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/COMX_35_System_1.jpg</image>
+        <keyboard>Calculator type keyboard, 55 keys QWERTYCarriage Return (CR), RT, ESC, SHIFT (x2), DEL</keyboard>
+        <language>Basic</language>
+        <links>
+            <link>http://www.gondolin.org.uk/hchof/reviews/yc-comx35.html</link>
+            <link>http://www.comxclub.hobby-site.com/</link>
+        </links>
+        <manufacturer>COMX</manufacturer>
+        <media>None</media>
+        <name>COMX 35</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals>Printer, disk-drive</peripherals>
+        <ports>Tape, Monitor, 44-pin Bus expansion</ports>
+        <power>9Vac 500 mA external power supply unit</power>
+        <price>Unknown</price>
+        <production>Unknown</production>
+        <ram>35 kb (up to 67 kb). 32 KB available for Basic programs</ram>
+        <rom>16 kb</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;WHITE MODEL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Even rarer ?!&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/comx35_white_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;KEYBOARD CLOSE-UP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/COMX_35_Keyboard_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;COMX 35 BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/COMX_35_Box_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;PC1 BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Comx_PC1_Box_s1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>29 (W) x 16 (D) x 4.5 (H) cm</size>
+        <sound>1 channel synthesiser - 8 octaves, 16 volume steps and special effects</sound>
+        <speed>2 MHz</speed>
+        <text>40 columns  x 24 lines. 64 upper case ASCII characters</text>
+        <type>Home Computer</type>
+        <vram></vram>
+        <year>1983</year>
+    </computer>
+</computers>

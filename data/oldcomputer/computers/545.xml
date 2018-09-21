@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>SamBasic</builtInGames>
+        <colors>128 colors</colors>
+        <controllers></controllers>
+        <coprocessor>Motorola MC 1377P Video Chip, Philips SAA1099 soundchip, ASIC handling graphics</coprocessor>
+        <cpu>Zilog Z80B (fully compatible with i8080 and Z80)</cpu>
+        <description>
+In the last quarter of 1989 M.G.T. launched the Sam Coup&amp;eacute;. M.G.T. was already known in the ZX Spectrum world for a range of hardware that they sold. The Sam was their pride and joy, and unfortunately to be their downfall.
+
+This was a time when the 16-bit machines, the Atari ST and the Amiga, were really being to take off. Sales in computers such as the Spectrum was in rapid decline. The Sam was aimed to fill this gap, a powerful 8-bit machine with specs that in cases out performed those of the 16-bit machines, at an 8-bit price. It was hoped that current 8-bit owners, particularly Spectrum owners, would jump on the nicely priced Sam rather than a more expensive 16-bit machine.
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>DOS emulator made by Aley Keprt</description>
+                <link>http://aley.borec.cz/progs/#sam</link>
+                <name>ASCD</name>
+                <platform>MS DOS emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Another DOS emulator by Aley Keprt</description>
+                <link>http://www.inf.upol.cz/~keprta/sam/samemu/welcome.html</link>
+                <name>SamCoup&amp;eacute;</name>
+                <platform>MS DOS emulator</platform>
+            </emulator>
+            <emulator>
+                <description>This nice emulators is available for Windows, DOS, Linux, BeOS and MacOS</description>
+                <link>http://www.simcoupe.org/</link>
+                <name>SimCoup&amp;eacute;</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>256 x 192, 512 x 192</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/mgt_samcoupe_1.jpg</image>
+        <keyboard>Full-stroke keyboard, 72 keys, Reset button</keyboard>
+        <language>SamBasic</language>
+        <links>
+            <link>http://www.podboy.demon.co.uk/coupe/index.htm</link>
+            <link>http://www.samcoupe-pro-dos.co.uk/</link>
+            <link>http://www.samcoupescrapbook.co.uk/</link>
+            <link>http://v.webring.com/hub?ring=samcoupe&amp;amp;list</link>
+            <link>HTTP://WWW.SAMCOUPE.COM</link>
+            <link>http://sam.speccy.cz/</link>
+            <link>http://www.ysrnry.co.uk/articles/index_sam.htm</link>
+            <link>http://www.worldofsam.org/</link>
+            <link>ftp://ftp.nvg.ntnu.no/pub/sam-coupe/</link>
+        </links>
+        <manufacturer>MGT (Miles Gordon Technology)</manufacturer>
+        <media>one or two 3.5'' ultraslim Citizen Double Density Drives (800 kb)First models had no disk-drives</media>
+        <name>Sam Coup&amp;eacute;</name>
+        <numGames></numGames>
+        <origin>United Kingdom</origin>
+        <peripherals></peripherals>
+        <ports>RF video output (UHF, channel 36), RGB scart video output, serial / network socket, joystick connector (Atari standard), parallel interface, audio input, audio output</ports>
+        <power>External PSU (5v)</power>
+        <price></price>
+        <production>1992</production>
+        <ram>256 kb or 512 kb onboard (depending models),  and up to 4Mb with external addons (4.5 Mb total)</ram>
+        <rom>32 kb (BASIC, BIOS &amp;amp; disk bootstrap)</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SAM COUPÉ ENHANCED USING QUAZAR HARDWARE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This SAM Coupé (original model with no internal disk drive) was upgraded with the following extensions from Quazar (www.samcoupe.com): brand new internal disk drive, 256K RAM extension, ROM v3.0.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/MGT_SAMCoupe_Quazar.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SAM COUPÉ&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/mgt_samcoupe_2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;ONE DISK DRIVE MODEL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/mgt_samcoupe_1disk_2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;DOUBLE DISK DRIVE MODEL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/mgt_sam-coupe_3.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BOOTING&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/mgt_sam-coupe_booting.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;USER MANUAL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/MGT_SAMCOUPE_Manual_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/mgt_sam-coupe_box_2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SAM REVIVAL MAGAZINES&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/mgt_sam-coupe_sam-revival-mags.jpg</link>
+            </shot>
+        </screenshots>
+        <size>2.26 Kg</size>
+        <sound>Philips SAA1099 soundchip, 6 channels stereo FM synthesis, 8 octaves, 2 noise generators, 2 envelope generators, DAC digital output , sample rate 15.6 kHz. Built-in MIDI interface (in, out, through)</sound>
+        <speed>6MHz with screen off, 4.5 MHz with screen oncan be slowed down to emulate ZX Spectrum</speed>
+        <text>32 x 24, 85 x 24</text>
+        <type>Home Computer</type>
+        <vram></vram>
+        <year>December 1989</year>
+    </computer>
+</computers>

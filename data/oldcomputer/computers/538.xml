@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Unknown</builtInGames>
+        <colors>262144</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>MBL 68B09E x 2</cpu>
+        <description>
+This system is an improved version of the FM 77 AV 20.
+
+It has more memory (192 kb instead of 128 kb) which can be expanded up to 448 kb. Th VRAM (video memory) has also been expanded to 144 kb because of the new graphic possibilities : 320 x 200 pixels with 262144 colors !
+
+The FM 77 AV 40 is sold with two built-in 3.5&amp;quot; disk-drives (640 kb each).
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>640 x 200 (8 colors), 320 x 200 (262144 or 4096 colors)</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/fujitsu_fm77av40_1.jpg</image>
+        <keyboard>Infra red professionnal keyboard with numeric keypad</keyboard>
+        <language>Unknown</language>
+        <links/>
+        <manufacturer>Fujitsu</manufacturer>
+        <media>two 3.5'' disk-drives (640 k)</media>
+        <name>FM 77 AV 40</name>
+        <numGames></numGames>
+        <origin>Japan</origin>
+        <peripherals></peripherals>
+        <ports>Unknown</ports>
+        <power>Built-in power supply unit</power>
+        <price>228,000 yen (Japan, 1986)</price>
+        <production></production>
+        <ram>192 kb (up to 448 kb)</ram>
+        <rom>Unknown</rom>
+        <screenshots/>
+        <size></size>
+        <sound>3 FM voices + 3 PSG voices</sound>
+        <speed>2 Mhz</speed>
+        <text>Unknown</text>
+        <type>Home Computer</type>
+        <vram>144 kb</vram>
+        <year>1986</year>
+    </computer>
+</computers>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>None</builtInGames>
+        <colors>Monochrome</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Z80-A</cpu>
+        <description>
+The Associate system was no more or less than a typical integrated CP/M based system. Built for a professionnal use, it offered an anti glare screen, a robust keyboard and either dual floppy disk or hard disk configurations.
+
+To distinguish itself from multiple competitors offering the same hardware configurations, D.T. Industry proposed a full software package called Solutions, for free. It included the CP/M operating system, Spellbinder word processor, Microplan SpreadSheet and an accounting software. Each software was delivered with a special keyboard overlay (see the yellow Microplan template on the picture).
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>None</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/DataTechInd_Associate_System_1.jpg</image>
+        <keyboard>Full-Stroke 87 keys with 15 fonction keys and numeric keypad</keyboard>
+        <language>None</language>
+        <links/>
+        <manufacturer>Data Technology Industries</manufacturer>
+        <media>2 x 360 KB 5.25'' F.D. drives</media>
+        <name>Associate</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals>Optional 5 to 20 MB hard-disk</peripherals>
+        <ports>2 x RS232. Optional Parallel, IEEE 488, RS449</ports>
+        <power>Built-in power supply unit</power>
+        <price>$3,450 (2 x F.D. version)</price>
+        <production></production>
+        <ram>64 KB</ram>
+        <rom>2 KB</rom>
+        <screenshots/>
+        <size>Unknown</size>
+        <sound>Beeper</sound>
+        <speed>4 Mhz</speed>
+        <text>80 columns x 25 lines</text>
+        <type>Professional Computer</type>
+        <vram></vram>
+        <year>1982</year>
+    </computer>
+</computers>

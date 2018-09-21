@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>None</builtInGames>
+        <colors>Monochrome</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Z80-C</cpu>
+        <description>
+The hardware features of the QDP-300 were very close to those of the QDP-100 model. Apart from the shape of the case, the major differences were:
+ - An integrated help system,
+ - A cache memory to speed up the disk drives operations,
+ - A new motherboard design allowing the 6 Mhz. Z80-C microprocessor to be used.
+
+The QDP-300 was backed by one-year on-site warranty performed by the General Electric Company.
+_______________________</description>
+        <emulators/>
+        <graphics></graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/Quasar_QDP300_System_1.jpg</image>
+        <keyboard>Serial video terminal</keyboard>
+        <language>None</language>
+        <links/>
+        <manufacturer>Quasar Data Products</manufacturer>
+        <media>Dual 8'' 1.2 MB F.D. drivesOptional 10 or 15 MB internal hard disk, or 30 MB external</media>
+        <name>QDP-300</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals>S-100 bus boards range</peripherals>
+        <ports>Serial interface</ports>
+        <power>Built-in power supply unit</power>
+        <price>Unknown</price>
+        <production></production>
+        <ram>64 KB</ram>
+        <rom>Unknown</rom>
+        <screenshots/>
+        <size></size>
+        <sound>Beeper</sound>
+        <speed>6 Mhz.</speed>
+        <text>80 columns x 25 lines</text>
+        <type>Professional Computer</type>
+        <vram></vram>
+        <year>November 1982</year>
+    </computer>
+</computers>

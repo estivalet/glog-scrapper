@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Microworld Level II extended Basic</builtInGames>
+        <colors>Yes, with later models</colors>
+        <controllers></controllers>
+        <coprocessor>6545 CRT controller</coprocessor>
+        <cpu>Z80 A</cpu>
+        <description>
+Around 1978 Owen Hill teamed up with an electronic components company, Applied Technology of Hornsby (Sydney), to build a small computer he had designed. Applied Technology had been previously producing kits in Australia for S-100 boards. The Microbee was released as a kit in 1982 on the cover of Your Computer magazine, the manual was included free with the magazine. They were an immediate hit, being quite a powerful little system given the cost.
+  
+Applied Technology eventually changed their name to Microbee Systems, and sold ready-made versions. Their main market (especially for the 32) were Australian schools, which had the Microbee recommended as the preferred system.
+
+Over the years there has been several versions of the Microbee 32. The early ones (PLUS series) had monochrome display and clock rate at 2 Mhz. Later ones (Colour/IC series), from june 1983, included colour and 3.375 Mhz clock rate. 
+Different models:
+
+- 32k Home built - 2mHz clock, Z80
+- 32k IC (with EDASM) - 3.375 mHz clock. All later Z80 Microbees would run at this speed though many were over clocked up to 6 mHz.
+- 32k Personal Communicator (with Basic, Telcom terminal program and Wordbee - a word processor in ROM)
+- 32k PC85 (Word processor, Basic, Spreadsheet, Database in ROM) - the last of the line for ROM based machines - very neat and with built in networking.
+
+The Microbee 32 was followed by Microbee 56, 64 and 128 models. There were all disk based systems using CP/M. The Microbee 128 was intended as a high-end business system. There were also two really keen prototype systems, the Gamma and the Delta, which were intended to compete with the Amigas, but problems within the company led to their cancellation not long before the company's collapse.
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>Picomozzy is a Microbee 32 KB emulator for DOS or Windows.</description>
+                <link>http://www2.ee.mu.oz.au/pgrad/apsh/microbee/</link>
+                <name>Picomozzi</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Emulates some Microbee computers !</description>
+                <link>http://www.mess.org/</link>
+                <name>MESS Emulator</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+            <emulator>
+                <description>An emulator for the Microbee Z80 Premium/Standard FDD and ROM based microcomputers.</description>
+                <link>http://freshmeat.net/projects/ubee512</link>
+                <name>uBee512</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>128 x 48, 512 x 256</graphics>
+        <hardwares/>
+        <hardwareDescription>Memory Map:
+
+0000 to 3FFF - USER RAM 16 KB
+4000 to 7FFF - USER RAM 32 KB
+...
+8000 to BFFF - Microworld Level II Basic
+C000 to DFFF - Wordbee/Edasm optional ROM
+E000 to F000 - Network/Monitor option
+...
+F000 to F3FF - Memory mapped VDU
+F400 to F7FF - Spare RAM
+F800 to FFFF - PCG RAM</hardwareDescription>
+        <image>http://www.old-computers.com/museum/photos/microbee_32.jpg</image>
+        <keyboard>Full sized, 60 keys, QWERTY standard layout</keyboard>
+        <language>Microworld Level II extended Basic</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=462</link>
+            <link>http://members.ozemail.com.au/~mikeleys/microbee.html</link>
+            <link>http://www.mdstud.chalmers.se/~md6cbm/bee/</link>
+            <link>http://www.microbee-faq.in-tl.net/</link>
+            <link>http://www.microbeetechnology.com.au/</link>
+            <link>http://microbee.no-ip.com/beeboard/</link>
+        </links>
+        <manufacturer>Applied Technologies</manufacturer>
+        <media></media>
+        <name>Microbee 32</name>
+        <numGames></numGames>
+        <origin>Australia</origin>
+        <peripherals>Printers, tape recorder, joystick, modem, optional colour board</peripherals>
+        <ports>Serial RS 232, tape interface (300 and 1200 baud), composite and RGB (optional) video output, parallel port (optional on early units), expansion bus</ports>
+        <power>External power supplu unit, 12V DC at 1.1A</power>
+        <price></price>
+        <production></production>
+        <ram>16 KB or 32 KB depending models (battery-backed CMOS)</ram>
+        <rom>16 KB (Microworld Basic) + 12 KB (for optional ROMs like word processor and telecommunications software)</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;EARLY MODEL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This is the very earliest Microbee - built from a kit and with a metal base plate, blue circuit boards and a one piece plastic case. The badge is from a later Microbee printer. &amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/microbee_early-model.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;CONNECTION DIAGRAM&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/microbee_connection-diagram.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;THE MICROBEE 128&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/microbee128.jpg</link>
+            </shot>
+        </screenshots>
+        <size></size>
+        <sound>Internal loudspeaker, one channel, 2 octaves</sound>
+        <speed>3.375 MHz</speed>
+        <text>64 x 16</text>
+        <type>Home Computer</type>
+        <vram></vram>
+        <year>1982</year>
+    </computer>
+</computers>

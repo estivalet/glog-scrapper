@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FRENCH AD (SEPT. 1983)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;quot;Casio. Basic, it's magic&amp;quot;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/casio_pb100_pub_magique_2.jpg</link>
+            </advert>
+        </adverts>
+        <builtInGames>Basic interpreter</builtInGames>
+        <colors>Monochrome LCD</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>HD61913 CMOS VLSI</cpu>
+        <description>
+The PB-100 represents Casio's step towards &amp;quot;real&amp;quot; pocket computers. While its
+ancestor, the FX-702P, was still called &amp;quot;Programmable Calculator&amp;quot;,
+the PB-100 proudly bears the title &amp;quot;Personal Computer&amp;quot;.
+
+However, the PB-100 seems to have been a true low-cost design. Its
+specifications are clearly inferior to those of its predecessor, the FX-702P, as
+well as to SHARP's earlier pockets. The limited 12 character display makes BASIC programming and debugging a painstaking endeavor.
+
+In its standard version, it is equipped with 1 KB of RAM which results in only 544 bytes for BASIC, which is really limiting. At least, with the memory module OR-1, it can be upgraded to 1568 bytes of user memory, so it begins to make sense that BASIC memory can be subdivided into 10 independent program areas P0-P9.  
+
+Moreover, the keyboard had been reduced to the absolute minimum; at any rate, it provided a QWERTY style layout (the FX-702P had a non-standard alphabetical layout).
+On the other hand, the cute little machine is really small and lightweight, a
+real pocket device.
+
+The main circuits of the PB-100 are basically made up of two chips. Processor
+logics, ROM, display driver, and keyboard controller are integrated in a single
+CMOS VLSI chip HD61913, which has an external 4-bit bus. The second main
+component is a HD61914, which is a 8192-bit static RAM organized as 2048 words
+by 4 bits.
+
+In 1983, the PB-100 was also released by Tandy Radio Shack as TRS-80
+PC-4 and by Olympia as OP-544.
+
+Thanks to Roman von Wartburg (retrocomputing.ch) for this information.
+_______________________</description>
+        <emulators/>
+        <graphics>None</graphics>
+        <hardwares>
+            <hardware type="FA-3">
+                <items>
+                    <item>
+                        <description>Cassette interface||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;CASSETTE INTERFACE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Casio_PB100_FA3 interf_s1.jpg</photo>
+                    </item>
+                </items>
+            </hardware>
+        </hardwares>
+        <image>http://www.old-computers.com/museum/photos/Casio_PB100_System_s1.jpg</image>
+        <keyboard>53 keys with numeric keypad</keyboard>
+        <language>Basic interpreter</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=1002</link>
+            <link>computer.asp?st=1&amp;amp;c=987</link>
+            <link>computer.asp?st=1&amp;amp;c=1014</link>
+            <link>http://www.silrun.info/</link>
+            <link>http://pocket.free.fr/</link>
+        </links>
+        <manufacturer>Casio</manufacturer>
+        <media></media>
+        <name>PB-100</name>
+        <numGames></numGames>
+        <origin>Japan</origin>
+        <peripherals>OR-1   1 kB RAM PACKFA-3   cassette interfaceFP-12  mini thermal printer</peripherals>
+        <ports>12-pin expansion port for printer and cassette interface11-pin internal slot for memory module</ports>
+        <power>2 x CR-2032 lithium batteries</power>
+        <price>63  (France, Dec. 1984)</price>
+        <production>Unknown</production>
+        <ram>1 KB (544 bytes for Basic programs) up to 2 KB</ram>
+        <rom>12 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;LARGE VIEW&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Casio_PB100_System_s2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FRONT VIEW&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Casio_PB100_FrontView_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INSIDE THE PB-100&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(1)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; LCD display&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(2)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; HD61913 main chip&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(3)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; HD61914 1 KB static RAM chip&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(4)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Expansion connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(5)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Optional 1 KB RAM card connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(6)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; LCD contrast knob &amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Casio_PB100_Inside_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MANUALS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;German user and programming manuals&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Casio_PB100_Manuals_s1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>165 (W) x 71 (D) x 10 (H) mm / 116 g (with batteries)</size>
+        <sound>None</sound>
+        <speed>455 kHz ceramic resonator used as system clock</speed>
+        <text>1 line x 12 chars plus a 4 digit seven segment display part</text>
+        <type>Pocket</type>
+        <vram></vram>
+        <year>1982</year>
+    </computer>
+</computers>

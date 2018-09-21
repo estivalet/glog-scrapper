@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FRENCH ADVERT (JAN. 1981)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/eaca_eg3003_advert-fr_1_s.png</link>
+            </advert>
+        </adverts>
+        <builtInGames>Microsoft Basic Level II</builtInGames>
+        <colors>Monochrome</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Zilog Z80A</cpu>
+        <description>
+The Genie 1 was compatible with the Tandy TRS-80 Model I.
+
+A 5.25&amp;quot; floppy disk drive (100 KB, 40 tracks). However, 80 track double-sided drives could be used if the operating system supported it. Due to some poor design, only 3 drives could be used and the last drive had to be single-sided. In fact the limitations of the floppy disks depended on the controller. Some controllers were able to drive up to 4 double sided disks. There also was a 'doubler' device available which doubled the capacity of the disks by replacing the 1791(?) controller chip.
+
+A graphic expansion was available as well and provided a maximum graphic resolution of 384 x 192, it was necessary to modify the internals of the machine to fit it.
+
+An expansion interface (similar to the TRS-80s) could be connected to the expansion bus and provided RAM upgrade (up to 32K), floppy disk, printer interface, and an expansion slot for an optional RS232 interface. An alternative Operating system available from the USA and called LS-DOS could run on this version.
+
+The Genie had an 'expansion' connector on the back side carrying all necessary signals. One of them ('Phantom') could be used to remove Keyboard, ROM and video-RAM from the memory map and provide the whole 64K memory to the CPU. This enabled the machine to run CP/M, which was a nice feature. The only drawback: the video resolution was only 64 characters wide - not 80 as required by CP/M.
+
+For better readability on standard TV-sets (a VHF modulator was build-in) the horizontal resolution could be switched to 32 chars with a switch on the back side. Another Key on the keyboard 'Page' then could be used to display the left or right half of the screen. A nice feature at a time where computer monitors were expensive,
+but a pain when writing texts! Early versions had 7 bit video-RAM which prevented display of lower case letters.
+
+One year later (1981), a new model was launched : the Video Genie II. Basically, it is Video Genie 1 with a numeric keypad instead of the built-in tape-recorder (see ''more pictures'' section)...
+
+Dick Smith Electronics in Australia brought out a re-badged version of the Video Genie called the System 80. These were identical except of course they carried the Dick Smith Logo. They also sold a 'business' version with the keyboard, two floppy disk drives and expansion box with a clunky little printer.
+
+These machines were expandable with after-market parts - you could purchase Exabyte &amp;quot;stringy floppy&amp;quot; drives (an eternal loop tape that held 4 programs, pretty much regardless of size, and ran somewhere between tape and disk speed).  You could also purchase memory chips, which you added by soldering onto the top of the existing chips.  There were a few magazines dedicated to the System 80/TRS-80 in Australia/New Zealand, which carried basic program listings.
+
+They also didn't have a volume control on the tape drive - it wasn't uncommon to see second hand units that had had that added. The System 80 came with a Dick-Smith tape that, amongst other things, had a program that played &amp;quot;flight of the bumble bee&amp;quot; - badly ;)
+
+By entering SYSTEM 12288 into the Video Genie, it would give you lower case letters, a flashing cursor and auto repeat on keys.
+
+________
+
+Contributors : Lothar Merl, Adrian Williams, Kevin Littlejohn, Daniel Smith
+
+Kevin Littlejohn reports:
+These machines were expandable with after-market parts - you could purchase Exabyte &amp;quot;stringy floppy&amp;quot; drives (an eternal loop tape that held 4 programs, pretty much regardless of size, and ran somewhere between tape and disk speed).  You could also purchase memory chips, which you added by soldering onto the top of the existing chips.  There were a few magazines dedicated to the System 80/TRS-80 in Australia/New Zealand, which carried basic program listings.  My high school had a lab of them with a locally-produced &amp;quot;network&amp;quot; chip, that allowed one machine to take control of another via I think the S100 bus - so the lab had one flobby drive, and all the machines could access it.
+They also didn't have a volume control on the tape drive - it wasn't uncommon to see second hand units that had had that added.
+The System 80 came with a Dick-Smith tape that, amongst other things, had a program that played &amp;quot;flight of the bumble bee&amp;quot; - badly ;)
+
+A tip from Daniel Smith
+By entering SYSTEM 12288 into the Video Genie, it would give you lower case letters, a flashing cursor and auto repeat on keys. Remarkable!
+
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>128 x 48</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/eaca_genie-1_1.jpg</image>
+        <keyboard>Full stroke keyboard, 54 keys, QWERTY</keyboard>
+        <language>Microsoft Basic Level II</language>
+        <links>
+            <link>http://www.webweavers.co.nz/system-80/</link>
+        </links>
+        <manufacturer>Eaca</manufacturer>
+        <media>Built-in tape-recorder</media>
+        <name>VIDEO GENIE 1 / EG-3003</name>
+        <numGames></numGames>
+        <origin>Hong Kong</origin>
+        <peripherals>Printers, Memory expansion, Sound generator, Disk drives</peripherals>
+        <ports>50-pin expansion Bus, video output (DIN), tape-interface (DIN)</ports>
+        <power>Built-in power supply</power>
+        <price>3950 FF (France, January 1981)</price>
+        <production></production>
+        <ram>16 KB (up to 48 KB)</ram>
+        <rom>12 KB (Microsoft Basic Level II)</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;VIDEO GENIE I / EG-3003&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/eaca_3003_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;VIDEO GENIE II / EG-3008&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;A Video Genie 1 with a numeric keypad instead of the tape-recorder...&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/eaca_videogenie-2_walgy.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;HUNGARIAN CLONE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This EG-3003 clone was manufactured by Hiradástechnika Szövetkezet, the name of the system was HT-1080Z School Computer. &amp;lt;br&amp;gt;&amp;lt;br&amp;gt;  &amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/EACA_EG3003_HungarianClone_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/eaca_3003_box.jpg</link>
+            </shot>
+        </screenshots>
+        <size></size>
+        <sound>None</sound>
+        <speed>1,77 MHz</speed>
+        <text>16 x 32 / 16 x 64</text>
+        <type>Home Computer</type>
+        <vram></vram>
+        <year>1980</year>
+    </computer>
+</computers>

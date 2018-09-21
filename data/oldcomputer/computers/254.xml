@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Unknown</builtInGames>
+        <colors>monochrome built-in display</colors>
+        <controllers></controllers>
+        <coprocessor>Unknown</coprocessor>
+        <cpu>Motorola MC 68000</cpu>
+        <description>
+Wicat stands for World Institute for Computer Aided Training. The Wicat is one of the first (perhaps even the first) computer to use a Motorola MC68000 processor. 
+
+It is a card-based computer. The mainboard just houses the processor, the boot PROMs, a very fast cache memory and the glue electronics.
+
+A lot of cards were developed for this computer. Each card has its own CPU: The I/O board called ICI board uses its own 68008 (68000 with 8 bit data bus), the FD &amp;amp; HD controller, as the streamer controller uses also their own processor. 
+Apparently there were two versions, the 150-WS and the 150-WD, maybe for single drive and double drive... 
+
+A number of these units were also sold in Australia and Singapore.
+
+More information from Mark Sullivan:
+I know all about the Wicat.  We still have one in production!
+There were many models.  The 150 was the smallest and was soon obsoleted by the 1250 (12.5 MHz 68000).  The 1250, 1260 and 1255 were also Multibus-based but were towers and did not have an integrated terminal.  You used serial lines for the terminals.  There was a larger line that were based on a faster, proprietary bus but I never did use one of those.
+Peripheral options included a DEI cartridge tape drive, a QIC SCSI tape, and a Cipher open-reel 1/2&amp;quot; tape drive.
+The machine was originally designed for computer-based training and, besides the monochrome console graphics, there was a color graphics system with a video-disc overlay.  There was an audio subsystem, called the Hydra because it had lots of cables, that was what we would call a &amp;quot;sound card&amp;quot; today.  A number (16?) of students had their own audio channels and this was part of the CBT system.
+The proprietary OS was fantastic.  It was Unix-like but better integrated.  All the utilities shared a common set of options for file selection, etc.  The OS text editor was fully-featured, perhaps comparable to something like JOE today.  The editor had it's own virtual-memory scheme so you could edit files much larger than available system VM.
+Add TCP/IP networking and you'd have a pretty modern feature set.  Wicat had their own Ethernet network.  You could access disk files and even execute remote procedure calls over the network.
+We ran a 3 user CAD system on the 1255 with a 12.5 MHz processor and 256K (that's right, I don't mean M) of RAM.
+
+
+About the Hydra audio system, Gary Dyer adds:
+The audio subsystem called the Hydra allowed for 30 independent audio channels, for 30 independent student CBT sessions.  The Hydra keyboards, monitors, and audio channels had an unusual wiring system. It was based on either 7 or 8 units that were daisy chained together to a master card in the Main CPU unit. Multiple cards allowed for up to 30 students.  [Don't ask me why there is not a multiple of 8.  I believe there was an artifical limition placed by the software group that was being corrected when I left the company.] If a cable was not terminated correctly all 7 (or 8) units could fail. In practice this didn't happen very often.  Sabatoge by students was unusual. 
+
+Brad Smith reports:
+
+A company owned by Lionel Singer (one-time 'shaker &amp;amp; mover' in the Australian IT Industry) ported the Pick operating system to Wicat in the early-mid 1980's.
+
+I sold some of these to a Hospital in New Zealand around 1983 - for them to develop a ward-based patient tracking and costing system.
+
+I recall showing one of the small tower units at an Argricultural Trade Show - where the display hall was actually a large marquee.  We left it in there overnight, and when we came back the next morning it wouldn't boot - there was condensation from the frosty morning all over the boards.  I clearly remember removing each of the boards from the backplane, and drying them with a harirdryer!!  It then started up as normal!!
+
+Ahh - the good old days...
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>300 x 200</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/wicat_150_1.jpg</image>
+        <keyboard>Full-stroke keyboard with separated numeric keypad</keyboard>
+        <language>Unknown</language>
+        <links/>
+        <manufacturer>WICAT</manufacturer>
+        <media>One 5.25'' disk-drive and one 5''1/4 Winchester hard-drive (15Mb)</media>
+        <name>150</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals>Unknown</peripherals>
+        <ports>Unknown</ports>
+        <power>Built-in PSU</power>
+        <price>Single user 150-1 (256 KB) $9,450Three users 150-3 $10,850Six users 150-6 (512 KB) $12,850</price>
+        <production>Unknown</production>
+        <ram>256 KB to 512 KB</ram>
+        <rom>Unknown</rom>
+        <screenshots/>
+        <size>Unknown</size>
+        <sound>Unknown</sound>
+        <speed>8 MHz</speed>
+        <text>80 x 25</text>
+        <type>Professional Computer</type>
+        <vram>Unknown</vram>
+        <year>1981</year>
+    </computer>
+</computers>

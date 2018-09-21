@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Monitor in ROM</builtInGames>
+        <colors></colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Motorola 6800 then 6808 (1981) and 6802 (1987)</cpu>
+        <description>
+The Heathkit/Zenith MicroComputer Learning System model ET-3400 was a very popular item designed to teach principles of computers and programming at Universities in the 1970s., and to educate the students of internal computer hardware and software components by self-assembly and programming the machine in pure Hexadecimal language.
+
+It was delivered in assembled or Kit form. It also featured a prototype area and could be used as a design aid for developing special interface circuitry  with common 6820 parallel interface or 6850 asynchronous chips.
+
+Several software in ROM were also available. Among them an Assembler and a Tiny BASIC.
+_______________________</description>
+        <emulators>
+            <emulator>
+                <link>http://www.pilgrimworks.com/trainer.htm</link>
+                <name>ET-3400 simulator</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics></graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/heathkit_ET3400_System_s1.jpg</image>
+        <keyboard>17 keys Hexadecimal keypad</keyboard>
+        <language>Monitor in ROM</language>
+        <links>
+            <link>http://tech.groups.yahoo.com/group/ET-3400/</link>
+        </links>
+        <manufacturer>Heathkit / Zenith</manufacturer>
+        <media></media>
+        <name>ET-3400</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals>Prototype area</peripherals>
+        <ports></ports>
+        <power>External AC adapter</power>
+        <price>$199.95 Kit, $279.00 assembled, $99.95 for the ET-3401 course</price>
+        <production></production>
+        <ram>256 bytes expandable to 1 KB</ram>
+        <rom>1 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;LARGE VIEW #1&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;At power on or after a Reset, 'CPU UP' is displayed.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/heathkit_ET3400_System_s2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;LARGE VIEW #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/heathkit_ET3400_System_s3.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;REAR SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;No connectors and no ability to save typed programs to a tape recorder.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/heathkit_ET3400_RearSide_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MAIN BOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The upper part of the main board is covered by the case.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/heathkit_ET3400_Mainboard_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MAIN BOARD CLOSE-UP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Each area of the circuitry is clearly marked.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/heathkit_ET3400_Cloeup_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;PROCESSOR CLOSE-UP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Here a 6802 version&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/heathkit_ET3400_ProcCloseUp_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;OPENED&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;A crude power supply unit is fixed to the hidden side of the main board. &amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/heathkit_ET3400_Opened_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MANUALS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The ET-3400 was delivered with a full set of manuals and tests:&amp;lt;br&amp;gt;   - Microprocessors flipchart,&amp;lt;br&amp;gt;   - Two Assembly Language Programming Workbooks,&amp;lt;br&amp;gt;    - An hardware assembly manual,&amp;lt;br&amp;gt;   - A ten chapter reference book,&amp;lt;br&amp;gt;   - Two audio cassettes,&amp;lt;br&amp;gt;   - Two final exam kits(assembly language test and microprocessor test),&amp;lt;br&amp;gt;   - A poster sized schematic of the computer,&amp;lt;br&amp;gt;   - A parts pictorial illustration booklet.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/heathkit_ET3400_Manuals_1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>30.5 (W) x 30.5 (D) x 10.15 (H) cm. / 2 Kgs</size>
+        <sound></sound>
+        <speed>1 MHz</speed>
+        <text>6 x 7-segment LEDs</text>
+        <type>Home Computer</type>
+        <vram></vram>
+        <year>1976</year>
+    </computer>
+</computers>

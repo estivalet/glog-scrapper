@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>None</builtInGames>
+        <colors>512 palette, 64 on screen</colors>
+        <controllers></controllers>
+        <coprocessor>Zilog Z80 @ 3.58 MHz (NTSC), 3.55 MHz (PAL)</coprocessor>
+        <cpu>Motorola 68000</cpu>
+        <description>
+The Mega Drive launched in 1988 in Japan. Europe had to wait two whole years before they would get the machine. 
+
+Designed as the replacement for the 8 bit Master System, it originally competed against other 8 bit systems, namely the Famicom/NES and PC Engine/TurboGrafx. 
+
+The Mega Drive had mixed fortunes. In Japan the console was out sold by both the PC Engine and later the Super Famicom. In Europe on the other hand, the Mega Drive fared considerably better. The practically unheard of TurboGrafx was extremely rare and the Mega Drive was able to outsell the SNES, finishing the generation in first place. 
+
+However, the success of the console in Europe, and as the Genesis in the States, may well have contributed to Sega's downfall. Two misjudged add-ons, the 32X and Mega CD put a huge dent in Sega's reputation, one so large that the company would never recover. 
+
+A redesigned Mega Drive II was released in 1993. The smaller console was cheaper to produce, similar in concept to the Master System II.
+
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>Excellent Genesis emulator</description>
+                <link>http://gens.consolemul.com/</link>
+                <name>Gens</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Kega is a Sega SG1000, SC3000, Master System, Game Gear, Genesis/Megadrive and SegaCD/MegaCD emulator for Win9x/ME/2000/XP</description>
+                <link>http://www.eidolons-inn.net/kega/</link>
+                <name>KEGA</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Sega Megadrive emulator</description>
+                <link>http://emu.makii.pl/pokazpliki.php3?tematy=smd</link>
+                <name>Wgens</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>256x224, 320x224 (NTSC), 256x240, 320x240 (PAL)</graphics>
+        <hardwares>
+            <hardware type="ACTION CHAIR">
+                <items>
+                    <item>
+                        <description>the action chair||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;THE ACTION CHAIR&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The action chair is a rare item. Connected to a Genesis/Megadrive, it acts as a controller! When you lean backward/forward it tells the Genesis to go down/up and when you lean left/right it tells to go left/right. Two handles on each side offer two buttons each, resulting in 4 buttons : START, SELECT, A &amp;amp; B. &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; The Action Chair is basically a chair mounted on a controller. It is thus possible to play all games with it, though it is more convenient to play games like After Burner II, Space Harrier II, Super Thunder Blade, Hang on, Road Rash, Super Monaco GP, etc.&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/sega_action-chair.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Documentation|||Page 1|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;DOCUMENTATION&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;Page 1&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/sega_action-chair_doc_1.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Documentation|||Page 2|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;DOCUMENTATION&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;Page 2&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/sega_action-chair_doc_2.jpg</photo>
+                    </item>
+                </items>
+            </hardware>
+        </hardwares>
+        <hardwareDescription></hardwareDescription>
+        <image>http://www.old-computers.com/museum/photos/sega_megadrive_jap_1_s.jpg</image>
+        <keyboard>8-way d-pad, 3 buttons + Start</keyboard>
+        <language>None</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=837</link>
+            <link>computer.asp?st=1&amp;amp;c=1250</link>
+            <link>computer.asp?st=1&amp;amp;c=1251</link>
+            <link>computer.asp?st=1&amp;amp;c=843</link>
+            <link>computer.asp?st=1&amp;amp;c=1233</link>
+            <link>computer.asp?st=1&amp;amp;c=1237</link>
+            <link>http://www.gamefaqs.com/console/genesis/</link>
+            <link>http://www.gamewinners.com/GEN/</link>
+            <link>http://www.gamesx.com/avpinouts/genesisav.htm</link>
+            <link>http://www.genesiscollective.com/</link>
+            <link>http://codes.ign.com/</link>
+            <link>http://www.classicgaming.com/museum/faqs/megadfaq.shtml</link>
+            <link>http://www.sega.co.jp/archive/segahard/32x/</link>
+            <link>http://www.sega.co.jp/archive/segahard/md/</link>
+            <link>http://www.sega.co.jp/archive/segahard/mcd/</link>
+            <link>http://www.classicgaming.com/museum/faqs/segacdfaq.shtml</link>
+            <link>http://www.classicgaming.com/thedump/genesis/</link>
+            <link>http://www.billnkaz.demon.co.uk/segalist.htm</link>
+            <link>http://www.vgmusic.com/music/console/sega/genesis/</link>
+            <link>http://www.zophar.net/genesis.html</link>
+            <link>news:rec.games.video.sega</link>
+        </links>
+        <manufacturer>Sega</manufacturer>
+        <media>Cartridge</media>
+        <name>Mega Drive</name>
+        <numGames></numGames>
+        <origin>Japan</origin>
+        <peripherals>Mega CD, 32X, Mega Adapter/Master System Converter</peripherals>
+        <ports>RF out, AV out, power, headphone jack, EXT port (all Japanese units/early European units), Expansion port, 2 controller ports</ports>
+        <power>9/10v DC depending on model</power>
+        <price>&amp;yen;21,000 (Japan 1988) &amp;pound;189.99 (U.K. 1990)</price>
+        <production>1993 (Japan) 1994 (Europe)</production>
+        <ram>64 KB main, 8 KB secondary, 8 KB sound</ram>
+        <rom></rom>
+        <screenshots/>
+        <size>28.5 (w) x 5 (h) x 22.5 (d) cm</size>
+        <sound>Texas Instruments SN76489, 4 channel PSG + Yamaha YM2612, 6 channel FM</sound>
+        <speed>7.67 MHz (NTSC), 7.61 MHz (PAL)</speed>
+        <text></text>
+        <type></type>
+        <vram>64 KB</vram>
+        <year>1988 (Japan), 1990 (Europe)</year>
+    </computer>
+</computers>

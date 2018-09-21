@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>GW Basic available on disk</builtInGames>
+        <colors>8</colors>
+        <controllers></controllers>
+        <coprocessor>optional 8087 math coprocessor</coprocessor>
+        <cpu>Intel 8088</cpu>
+        <description>
+This was an IBM PC compatible system. It could even boot the IBM PC system disks. Its overall design was smarter than the traditional IBM PC. The keyboard could be stored in a dedicated space under the main unit.
+
+The Eagle PC was first designed as a terminal to the Eagle 2000 System which used the 8086 chip as a client. However when IBM released the PC eagle turned it into a low end PC to compete.
+
+It worked without any fan and was thus quite silent, which was rare for an PC compatible system... The graphic resolution was far better than the IBM standard : 720 x 352 instead of 320 x 200.
+
+Two models were available : the PC 1 with 64k RAM and one 320k 5&amp;quot;1/4 disk-drive, and the PC 2 with 128k RAM and two 320l 5&amp;quot;1/4 disk-drives.
+It was sold with Eagle calc and Eagle Writer.
+
+The Eagle PC was also sold in France by Thomson as the Micromega 16.
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>720 x 352Characters matrix : 11 x 19 pixels</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/eagle_eagle-pc_1.jpg</image>
+        <keyboard>Full-stroke IBM style keyboard, 10 function keys, numeric keypad</keyboard>
+        <language>GW Basic available on disk</language>
+        <links/>
+        <manufacturer>Eagle Computers Inc.</manufacturer>
+        <media>2 x 5''1/4 disk-drives (320k each)optional hard-disk (10Mb, 32Mb)</media>
+        <name>Eagle PC</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals></peripherals>
+        <ports>2 serial ports, 1 parallel port</ports>
+        <power>PSU built-in</power>
+        <price>64k, 1 disk model : 4055  (France, december 1983)128k, 2 disks model : 5275  (France, december 1983)</price>
+        <production></production>
+        <ram>64 kb (up to 512 kb)</ram>
+        <rom></rom>
+        <screenshots/>
+        <size></size>
+        <sound></sound>
+        <speed>4,77 Mhz</speed>
+        <text>80 x 25</text>
+        <type>Professional Computer</type>
+        <vram></vram>
+        <year>? 1982</year>
+    </computer>
+</computers>

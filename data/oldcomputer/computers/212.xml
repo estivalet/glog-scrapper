@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;PROMOTIONAL LEAFLET&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/sord_m23-m3_leaflet.jpg</link>
+            </advert>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FRENCH ADVERT (FEBRUARY 1982)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/sord_m23-markIII_pub_datronic.jpg</link>
+            </advert>
+        </adverts>
+        <builtInGames>Two optional 5.25'' disk-drives (330 KB)</builtInGames>
+        <colors>8 colors</colors>
+        <controllers></controllers>
+        <coprocessor>APU (Am9511) arithmetic processor</coprocessor>
+        <cpu>Z80A</cpu>
+        <description>
+The Sord M23 Mark III was available with 12&amp;quot; green monitor or a 14&amp;quot; color monitor.
+
+Despite the M23 featured a cartridge port, all of its important software came on floppies, including the ground-breaking PIPS-III and several BASIC compiler variants developed by Sord and running on their own OS. A lot of good business software and games were written with these.
+
+There were later Mark systems released, including a Mark I with the world's first 3.5 inch floppies deployed, and the Mark V with eight inch drives -- the Mark III had 5.25'' floppies. There was also the Mark X with a 10MB hard drive.
+
+Around 1983 or so the &amp;quot;M23EX&amp;quot; was released - this was basically an M23 with the mk41 drives (5.25&amp;quot; DSHD) housed in an M68 case (more PC-style with separate keyboard and floppies in the main case).  It was a low cost option contemporary with the more expensive and better spec'd M68.
+
+Graphics required an upgrade - from memory it was a chip, and also an upgrade from &amp;quot;FDOS&amp;quot; to &amp;quot;GDOS&amp;quot; (the graphics DOS).  Graphics on this and the M68 were operated in a weird way from CBASIC or BASIC-II (a structured BASIC) - you put it into graphics mode and then issued specially formatted PRINT commands to access graphics - for example:
+
+10 PRINT CLEAR
+20 GRAPH 1
+30 PRINT &amp;quot;GINIT&amp;quot;
+40 PRINT &amp;quot;COLOR 7&amp;quot;
+... other code ....
+50 GRAPH 0
+
+________
+
+Contributors: Andrew Joll
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>640 x 256</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/sord_m23-markIII_1.jpg</image>
+        <keyboard>Full-stroke keyboard with numeric keypad, function keys and arrow keys</keyboard>
+        <language></language>
+        <links/>
+        <manufacturer>Sord</manufacturer>
+        <media>Two optional 5.25'' disk-drives (330 KB)</media>
+        <name>M23 Mark III</name>
+        <numGames></numGames>
+        <origin>Japan</origin>
+        <peripherals></peripherals>
+        <ports>2 x RS232c ports (75  - 19200 baud), Centronics/Parallel port, 3 x bus slots</ports>
+        <power>110, 230 V AC +/- 15%</power>
+        <price>Unknown</price>
+        <production></production>
+        <ram>128 KB</ram>
+        <rom>Unknown</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;COMPLETE SYSTEM&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/sord_m23-m3_complete.jpg</link>
+            </shot>
+        </screenshots>
+        <size>420 x 107 x 300 / 3.8 Kg</size>
+        <sound>Unknown</sound>
+        <speed>4 Mhz</speed>
+        <text>80 x 25</text>
+        <type>Professional Computer</type>
+        <vram></vram>
+        <year>1982</year>
+    </computer>
+</computers>

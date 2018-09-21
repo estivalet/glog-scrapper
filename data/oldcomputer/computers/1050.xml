@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>None</builtInGames>
+        <colors>Monochrome</colors>
+        <controllers></controllers>
+        <coprocessor>None</coprocessor>
+        <cpu>55,000 vacuum tubes in each unit</cpu>
+        <description>
+The AN/FSQ-7 was by far the largest computer ever built, and is 
+expected to hold that record. It consisted of two complete Whirlwind II computers installed in a 4-story building (See the impressive diagram in the 'More Pictures' section).
+
+Each AN/FSQ supported more than 100 users. IBM had about 60 employees 
+at each site for round-the-clock maintenance.
+Keeping one unit operating and one on hot standby (to allow for 
+switchover when vacuum tubes failed) resulted in better than 99% 
+uptime. The roles of the two units were reversed at regular 
+intervals, allowing diagnostics and maintenance to be carried 
+out on the standby unit.
+
+There were usually several hundred tube failures each day, 
+replaced by workers racing up and down the tube racks with 
+shopping carts full of replacements. Automated tests run by the 
+computer itself would cycle the voltage to the tube racks down 
+and back up to induce marginal tubes to fail early, so that the 
+computer would normally run correctly for the rest of the day. 
+Without this process, the MTBF would have been a few minutes. 
+
+By the time SAGE was deployed (22 or 23 stations in the period 
+1959-1963; sources disagree) it was nearly obsolete, since it 
+was designed to detect bombers, not the new ICBMs. Nevertheless 
+it was operational until 1979, when the ROCC (Regional 
+Operations Control Centers) system took over, using much 
+higher-speed computers. One SAGE station continued operating 
+until 1983. This last unit was donated to the Boston Computing 
+Museum, since relocated to Moffett Field in Mountain View, 
+California. The museum also has a tube panel from the Whirlwind 
+I. Whirlwind II consoles turned up in the TV series Battlestar 
+Galactica.
+
+In spite of its limited military value, the SAGE system served as 
+an excellent prototype for an air-traffic control system. The 
+FAA operated its own AN/FSQ-7 systems for many years after SAGE 
+was shut down. IBM's experience with these systems had a great 
+deal to do with its later success in computer systems, and its 
+dominance of the market for large computers. The IBM 7090 was 
+essentially a solid-state version of the AN/FSQ-7/8. (The 7090 
+has its own rich history, including hosting the first-ever 
+multiuser APL system.)
+
+ First CRT-based real-time user interface,
+ First use of light gun to pick an item on the screen,
+ First wide-area modem communications (1300 bps),
+ First hot standby system for maximum uptime,
+ First ground control of interceptor aircraft,
+ The first in line microfilm fast processed 35 mm projection displays, preceding printer/plotters. A screen capture could be displayed within 30 seconds,
+ First two-pass assembler, permitting symbolic addresses.
+
+Thanks to Edward Cherlin, Simputer Evangelist, for all this information.
+The photo (from Mitre) shows the rear panel wiring of FSQ-7 arithmetic element frame.
+
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>256 x 256</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/IBM_ANFSQ7_Part_s1.jpg</image>
+        <keyboard>IBM consoles</keyboard>
+        <language>None</language>
+        <links>
+            <link>http://www.mitre.org/about/photo_archives/sage_photo.html</link>
+            <link>http://www.radomes.org/museum/equip/fsq-7.html</link>
+            <link>http://ed-thelen.org/comp-hist/TheCompMusRep/TCMR-V02.html#Reminiscences</link>
+            <link>http://www.smecc.org/sage_a_n_fsq-7.htm</link>
+        </links>
+        <manufacturer>IBM</manufacturer>
+        <media>Tape</media>
+        <name>AN/FSQ-7</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals></peripherals>
+        <ports>Tape, punched cards, modem</ports>
+        <power>3 MW</power>
+        <price>$238 million, printer around $200,000 to $250,000</price>
+        <production>1963</production>
+        <ram>Core 8892-word</ram>
+        <rom>Unknown</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SYSTEM DIAGRAM&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;An AN/FSQ-7 installed in a 4-story SAGE Direction Center building.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/IBM_ANFSQ7_Diagram_s1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>2000 square meters / 275 tons</size>
+        <sound>Speaker (see the ''Read more'' page)</sound>
+        <speed>75 KIPS (KiloInstructions Per Second)</speed>
+        <text>None</text>
+        <type>Professional Computer</type>
+        <vram></vram>
+        <year>1958</year>
+    </computer>
+</computers>

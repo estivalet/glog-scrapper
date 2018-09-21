@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>JR Basic 5.0</builtInGames>
+        <colors>16</colors>
+        <controllers></controllers>
+        <coprocessor>MN1544</coprocessor>
+        <cpu>MN 1800A (6802 compatible)</cpu>
+        <description>
+It is the successor of the JR 100.
+
+The JR-200 had good features compared to its japanese competitors : 8 colors, 2400 bauds tape speed and 3 voices synthesizer.
+
+But sadly there were no real graphic resolution, only a combination of semi-graphic characters.
+
+The Panasonic JR-200U is the same computer but aimed at the american and european market. Read its page for more information, and a complete history text.
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>Thanks to James the Animal Tamer , there is now a JR200 emulator !</description>
+                <link>http://www.geocities.com/emucompboy/</link>
+                <name>Virtual Panasonic JR-200U</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>64 x 48</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/national_jr200_1.jpg</image>
+        <keyboard>Chicklet keyboard with basic statements printed on the keys, 64 keys</keyboard>
+        <language>JR Basic 5.0</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=553</link>
+            <link>http://www.armchairarcade.com/neo/node/1598</link>
+            <link>http://dec.sakura.ne.jp/~hayashi/jr/index.html</link>
+        </links>
+        <manufacturer>Matsushita</manufacturer>
+        <media>None</media>
+        <name>National JR 200</name>
+        <numGames></numGames>
+        <origin>Japan</origin>
+        <peripherals>JR-F11 floppy disk-drive, JR-U07 Joystick interface, JR-U05 RS232 interface, JR-PO1 Centronics interface</peripherals>
+        <ports>RF video out, Composite video out, RF video out, Expansion, Tape (600/2400 bauds), RS-232c/printer port</ports>
+        <power>AC100V 50/60Hz, 8w</power>
+        <price>Unknown</price>
+        <production>1984</production>
+        <ram>36 KB (32 KB + 2 KB for graphic characters + 2 KB VRAM)</ram>
+        <rom>16 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;NATIONAL JR-200&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/national_jr200_4.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BACK&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/national_jr200_back.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;PANASONIC JR200U&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The Panasonic JR-200U is the same computer but aimed at the american and european market.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/panasonic_jr200u_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/national_jr200_box.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;DOCUMENTATION&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/national_jr200_doc_1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>348 &amp;times; 208 &amp;times; 56 mm / 1,7 Kg</size>
+        <sound>3 voices, 5 octaves</sound>
+        <speed>Unknown</speed>
+        <text>32 x 24</text>
+        <type>Home Computer</type>
+        <vram>2 KB</vram>
+        <year>1982</year>
+    </computer>
+</computers>

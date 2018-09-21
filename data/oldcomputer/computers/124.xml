@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>2 x 5.25'' disk units (800kb each)</builtInGames>
+        <colors>monochrom</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Motorola 6809</cpu>
+        <description>
+The Exorset was designed by Motorola firstly to be a development kit for the MC6809 and Motorola systems.
+
+It has a built-in green 9'' monochrom screen and two 5''1/4 floppy-drives.
+It runs under XDOS (a compatible MDOS operating system).
+
+It is sold with a compiled Basic (BASICM), a text editor and an assembler.
+
+Douro reports us :
+The Motorola Exorset-30 has amazing graphic and sound capability.  A modified version of this hardware is used in Williams arcade machines !
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>320 x 256</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/exorcet.jpg</image>
+        <keyboard>Full-stroke keyboard with 16 function keys</keyboard>
+        <language></language>
+        <links/>
+        <manufacturer>Motorola</manufacturer>
+        <media>2 x 5.25'' disk units (800kb each)</media>
+        <name>EXORSET 30</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals></peripherals>
+        <ports>Monitor, RGB, Centronics, RS232 (2), Tape</ports>
+        <power></power>
+        <price></price>
+        <production></production>
+        <ram>48 KB</ram>
+        <rom>Unknown</rom>
+        <screenshots/>
+        <size></size>
+        <sound>Unknown</sound>
+        <speed>4 MHz</speed>
+        <text>40 x 16, 40 x 25, 80 x 22</text>
+        <type>Professional Computer</type>
+        <vram></vram>
+        <year>1982</year>
+    </computer>
+</computers>

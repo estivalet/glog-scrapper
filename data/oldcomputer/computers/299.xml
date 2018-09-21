@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>None</builtInGames>
+        <colors>Monochrome built-in display (green / black)</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Zilog Z80 - Optional Intel 8088 or Motorola 68008</cpu>
+        <description>
+An other CP/M / MSDOS hybrid system. This computer had no great commercial success.
+
+The Decision Mate V came with 128 KB of RAM, but could be upgraded to 256 or 512 KB with expansion cards. The serial and Centronics interfaces were not on the mainboard, but were added as expansion cards. An additional card with a 68000 was developed by NCR in order to use CP/M 68.
+
+There were 7 expansion slots. An optional diagnostic card was available for slot 6. Otherwise, diagnostics were produced through 6 red LEDs on the back of the case, above the volume control.
+
+The computer had two floppy drives, or only one + a Winchester hard drive mounted in the second bay.
+ 
+A network called 'DecisoNet' was designed to link together several Decision V.
+
+_____________
+
+Contributors: Sebastian Rho.
+
+
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>576 x 432 dots</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/NCR_DecisionMate_System_s1.jpg</image>
+        <keyboard>Typewriter type 91 keys with 20 programmable function keys and numeric keypad</keyboard>
+        <language>None</language>
+        <links>
+            <link>http://oldcomputers.dyndns.org/public/pub/rechner/ncr/dmv/info.html</link>
+        </links>
+        <manufacturer>NCR</manufacturer>
+        <media>One or two floppy disk drives (320 KB each), 10 to 30 MB hard disk</media>
+        <name>Decision Mate V</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals></peripherals>
+        <ports>Centronics, RS232, 7 expansion slots</ports>
+        <power>Built-in power supply unit</power>
+        <price>Unknown</price>
+        <production></production>
+        <ram>64 kb, 128 kb, 256 kb or 512 kb depending of models (through expansion cards)</ram>
+        <rom>Unknown</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;EXPANSION SLOTS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(1)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; 2 Parallel expansion cartridges&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(2)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Keyboard cable&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/NCR_DecisionMate_BackSide_s1.jpg</link>
+            </shot>
+        </screenshots>
+        <size></size>
+        <sound>Beeper</sound>
+        <speed>4.88 MHz (8088) / 4 MHz (Z80)</speed>
+        <text>40 or 80 columns x 25 lines</text>
+        <type>Professional Computer</type>
+        <vram>32 KB (monochrome mode) or 96 KB (colour mode)</vram>
+        <year>1984</year>
+    </computer>
+</computers>

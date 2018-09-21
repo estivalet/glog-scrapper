@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>None</builtInGames>
+        <colors>Monochrome</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Intel 8088</cpu>
+        <description>
+The Gavilan, along with its optional thermal transfer printer that clipped onto the back, fitted in a standard-size attach&amp;eacute; case. It was a true 16-bit laptop computer conceived by John Zepecki, Gaviland's director of hardware engineering. It featured a 8-line LCD screen and was powered by either an AC adaptor or 10 half-D rechargeable batteries with 8 hours autonomy.
+
+The 48 KB ROM held the Gavilan GOS (Graphic Operating System) kernel, a FORTH-like interpreter and a desktop manager software with graphic windows, drawers, folders and documents hierarchy.
+
+The Operating System itself was written in Forth and supervised by John Banning, chief of the Gaviland's software development team. Most of the graphical environment was managed through an innovative touch panel located above the keyboard and intended to compete with first mouse driven systems. By moving his fingertip across this panel, the user moved a pointer and could invoke various actions by tapping one of the eight button areas.
+
+Gavilan developed several software that took advantage of the GOS interface, a word processor, a spreadsheet, communication and mail utilities. The system could run MS-DOS OS as well.
+
+Despite numerous innovations, the Gavilan always suffered from hardware and software problems. Furthermore, it was not fully PC-compatible. Many changes have been made to the initial machine and first sales only started in June of 1984, one year after the machine was first announced. A 16-line display version was also produced. At this time, competiton became harder and the Gavilan couldn't compete with new Japanese portable generation (i.e. the Sharp PC-5000). The Gavilan production thus stopped definitively in 1985 and the company failed.
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>Unknown</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/Gavilan_System_1.jpg</image>
+        <keyboard>Full stroke 59-key with numeric keypad + 9-key touch panel</keyboard>
+        <language>None</language>
+        <links/>
+        <manufacturer>Gavilan</manufacturer>
+        <media>3'' 320 KB built-in floppy disc drive. Optional 2nd. external FDD unit</media>
+        <name>Gavilan</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals>50 cps thermal-transfer printer, External FDD + 128 KB RAM, 32 KB RAM modules</peripherals>
+        <ports>Built-in 300-baud modem, printer, disk drive, RAM expansion, Serial RS232, Video</ports>
+        <power>10 x rechargeable batteries and AC adaptor</power>
+        <price>$3995 - Printer $1000</price>
+        <production>1985</production>
+        <ram>32 KB (later 64 KB) - Up to 4 x 32 KB RAM modules - Optional 128 KB RAM cardTotal maximum RAM of 320 KB</ram>
+        <rom>48 KB - Holds Operating System and user interface routines</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;GAVILAN DESKTOP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;File drawer (top) and zoom command (bottom) that encloses the part of the document that will be displayed on the screen if user taps the touch pad.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Gavilan_ScreenShot_1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>11.4 (W) x 11.4 (D) x 2.7 (H) ins / 9 pounds + 4 pounds printer</size>
+        <sound>Beeper</sound>
+        <speed>5 MHz</speed>
+        <text>66 chars. x 8 lines</text>
+        <type>Portable</type>
+        <vram>Unknown</vram>
+        <year>June 1983</year>
+    </computer>
+</computers>

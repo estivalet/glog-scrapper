@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;6000 MODEL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Advert says:&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;#666666&amp;quot;&amp;gt; WE HAVE A NEW APPROACH TO DISTRIBUTED PROCESSING THAT WORKS &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; Already implemented are electronic mail, word processing, complete cost accounting with inventory control and more. The secret is a new technology called Functionally Structured Distribution (FSD). At last, a system to organize and manage distributed processing applications that is really up and running. FSD technology is especially applicable to installa­tions that require:&amp;lt;br&amp;gt; • Unlimited expandability supporting extremely large data bases and terminals in many cities.&amp;lt;br&amp;gt; • User-friendly software easily programmed in high level languages (COBOL, FORTRAN, and BASIC)&amp;lt;br&amp;gt; • System reliability (due to distributed hardware) while maintaining multiple levels of data security.&amp;lt;br&amp;gt; • Compatibility with existing mainframes and networks (including the Bell System). &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; We are presently installing Billings 6000 Computer Systems which take full advantage of distributed processing utilizing FSD technology. The 6000 Computer supports multiple hard disk drives with capacities of up to 64 Mbytes (formatted), streaming tapes for backup, auto-dial modems (2400 baud synchronous) for communications, and flexible disk drives for smaller installations.&amp;lt;/font&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/Billings_6000_Advert_s1.jpg</link>
+            </advert>
+        </adverts>
+        <builtInGames>None</builtInGames>
+        <colors>Monochrome</colors>
+        <controllers></controllers>
+        <coprocessor>Unknown</coprocessor>
+        <cpu>Z80A</cpu>
+        <description>
+Virtually no information about this Z80 based computer - we even don't know its name - and the Billings Co. which name came from Mr. Billings, its founder.
+
+Along with this machine, Billings also produced another system named 6000 which specialized in organizing and managing distributed processing applications (see advert section).
+
+The operating system OASIS was a subset of IBM's CMS running on Virtual Machines (VM) of the IBM 370. The commands have the same syntax and the same options. The file names were the same as in CMS, &amp;quot;filename (8). extension (8): drive (1)&amp;quot;
+
+You could connect two or more networked computers using the RS232 serial output in a ring topology. Making it possible to send files from one computer to another. The BASIC was very structured, with statements like: SELECT-CASE-CEND, IF-THEN-ELSE-IfEnd, WHILE-WEND, in addition to driving key indexed files with string.
+
+-------------
+
+Contributors:  Pablo Montini
+
+Mike Gane sent us this additional information:
+I used to have two of these in my office, I seem to recall that we bought them in or around 1980, initially as word processors, but the engineers soon took over one of the systems. The model was a BC12-FD, we paid around about &amp;pound;5000 for each machine.
+These systems came with Macro, Basic(compiled and interpreted versions, Assembler, word processing software and Fortran. There were single disk and dual floppy disk versions, ours both had dual disks. These systems were very nice to work with, the Word Processor capability was excellent and so simple to use, it used the function keys extensively to toggle on/off bold/italics/underlining etc.
+
+We bought them to complement a PDP8 and an Intersil Intercept Junior (256 bytes of RAM, 4 * 7 Segment LED Display) coupled to an ASR33 Teletype with punch paper reader/writer, which we were using to develop ground test software.
+
+We were to have integrated these systems into a ground station for downloading data from a flight recorder, but unfortunately technology advances caused us to buy WICAT WS150 systems and then these were replaced by Tektronix 8560s (PDP 11/23 inside) which survived for many years before being replaced by a laptop. 
+
+Unfortunately the Billings BC12-FDs were put in the skip along with the WICAT, shortly before I was able to rescue them when our factory shut in 1992. The Tektronix system went to another factory and was in service until about a year ago, when unfortunately spares became to expensive and rare to warrant its repair.
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>None</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/Billings_System_s1.jpg</image>
+        <keyboard>96 key with numeric keypad, 15 function keys and arrow keys</keyboard>
+        <language>None</language>
+        <links/>
+        <manufacturer>Billings</manufacturer>
+        <media>2 x 5.25'' 160 KB Single Sided Double Density  FDD (can drive up to 4)</media>
+        <name>BC-12</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals>Unknown</peripherals>
+        <ports>2 x Serial, 1 x Parallel</ports>
+        <power>Built-in PSU</power>
+        <price>Unknown</price>
+        <production></production>
+        <ram>64 KB with parity</ram>
+        <rom>Unknown</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SYSTEM&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Billings_System_s2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;KEYBOARD CLOSE-UP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Billings_Keyboard_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MAIN BOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Billings_Inside_s1.jpg</link>
+            </shot>
+        </screenshots>
+        <size></size>
+        <sound>Unknown</sound>
+        <speed>Unknown</speed>
+        <text>80 columns x 25 lines. Geen phosphor CRT memory mapped graphics characters, U/l case</text>
+        <type>Professional Computer</type>
+        <vram>Unknown</vram>
+        <year></year>
+    </computer>
+</computers>

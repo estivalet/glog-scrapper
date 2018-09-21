@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Basic Level II</builtInGames>
+        <colors>Monochrome built-in monitor</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Z80A</cpu>
+        <description>
+This is a brasilian Tandy TRS-80 Model III compatible system.
+
+It didn't sell well as the CP-500 was a too popular TRS-80 compatible system in Brazil.
+
+In 1985, a new model named Naja 800 was marketed. It had a 14 Kb EPROM, 128 Kb RAM, built-in monitor, 70 keys keyboard with numeric keypad and a hard-disk.
+
+Sources :
+Computadores Brasileiros
+Clube Old Bits
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>192 x 64, 256 x 192</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/kemitron_naja_1.jpg</image>
+        <keyboard>QWERTY keyboard with numeric keyboard, 65 keys, auto-repeat, portuguese special characters</keyboard>
+        <language>Basic Level II</language>
+        <links/>
+        <manufacturer>Kemitron</manufacturer>
+        <media>Up to four optional 5''1/4 disk-drives (163 kb)</media>
+        <name>Naja</name>
+        <numGames></numGames>
+        <origin>Brazil</origin>
+        <peripherals>12'' monochrome monitor (green), 4 disk-drives interface, 4Mhz addon</peripherals>
+        <ports>Parallel port, 6 expansion slots, tape interface (500 and 1500 bauds), video output</ports>
+        <power>Built-in PSU</power>
+        <price></price>
+        <production></production>
+        <ram>48 kb (up to 64k for CP/M)</ram>
+        <rom>16 kb</rom>
+        <screenshots/>
+        <size></size>
+        <sound>Beeper</sound>
+        <speed>2,1 Mhz / 3,6 Mhz (software switchable)</speed>
+        <text>16 x 32, 16 x 64</text>
+        <type>Professional Computer</type>
+        <vram></vram>
+        <year>? 1984</year>
+    </computer>
+</computers>

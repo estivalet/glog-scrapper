@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames></builtInGames>
+        <colors>None</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu></cpu>
+        <description>
+The picture shows a computer called the WITCH which stood for Wolverhampton Instrument for Teaching Computing from Harwell. It was built at AERE Harwell in 1948 and was won by the then Wolverhampton and South Staffordshire Technical College in a national competition in 1957. The photograph above was taken in 1961. 
+
+The technology consisted of mixture of 1940's vintage telephone exchange technology (GPO 3000 type relays) and early nuclear instrumentation (Dekatron tubes).
+
+A Dekatron tube was a device rather similar to a neon indicator light except that it had 10 anodes rather than one. By carefully timed and shaped steering pulses on intermediate electrodes the active glow could be moved from one anode to another. Dekatrons were used for event counting in early nuclear instrumentation before the advent of solid state electronics. In the WITCH the Dekatrons were used for storing digits of numbers. A row of 10 dekatrons could store a single number. 
+
+The WITCH was a very slow computer by modern standards. It took it 
+
+- 2 seconds to add or subtract 2 numbers 
+- 5 seconds to multiply two numbers 
+- 15 seconds to divide two numbers. (Division by zero took rather longer.) 
+The fully developed configuration at Wolverhampton had 90 memory locations. Programs were read from a paper tape reader in an adjacent room. 
+
+There were actually 6 electromechanical paper tape readers, the current one being selectable under program control. Whenever the WITCH had finished executing an instruction it read the next instruction from the current paper tape reader. Program loops were constructed with the aid of a pot of glue. 
+
+One unfortunate problem with paper tape loops was the tendency of the mechanical readers to poke extra holes in the paper tape after several passes. If your job was sufficiently important you could use special linen tape which was more resistant to this effect. 
+
+It was possible to determine the contents of any memory location by simply examining the relevant row of Dekatrons. The storage locations were in the two racks visible on the left hand side of the picture. The central rack of electronics contained the arithmetic and control units. It was possible to watch the multiplication of two numbers by seeing the partial products building up in the accumulator (another row of Dekatrons). 
+
+The WITCH was used for many years for introductory and schools' courses. In its later years it became increasingly unreliable and spares become difficult to obtain. Eventually, in the mid 1970s, it was retired to the Birmingham's Museum Collections Centre, where it is still on display. 
+
+______________
+
+Credits: Peter Burden &amp;amp; University of Wolverhampton
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>None</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/aea_witch_1s.jpg</image>
+        <keyboard></keyboard>
+        <language></language>
+        <links/>
+        <manufacturer>Atomic Energy Authority (UK)</manufacturer>
+        <media></media>
+        <name>WITCH</name>
+        <numGames></numGames>
+        <origin>United Kingdom</origin>
+        <peripherals></peripherals>
+        <ports>Unknown</ports>
+        <power></power>
+        <price>Unknown</price>
+        <production>Unknown</production>
+        <ram></ram>
+        <rom></rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;THE WITCH&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/aea_witch_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SECTION OF THE WITCH&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;A section of the relay computer designed at the Atomic Energy Authority's Harwell establishment in 1951. This machine gave faithful service for many years, being donated to Wolverhampton College of Technology in 1957. It was then re-named WITCH (Wolverhampton Instrument for Teaching Computation from Harwell) and continued to initiate the uninitiated into the mysteries of computing until its retirement in 1973. &amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/aea_witch_2.jpg</link>
+            </shot>
+        </screenshots>
+        <size>Unknown</size>
+        <sound>None</sound>
+        <speed></speed>
+        <text></text>
+        <type>Professional Computer</type>
+        <vram></vram>
+        <year>1948</year>
+    </computer>
+</computers>

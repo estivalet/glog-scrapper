@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>None</builtInGames>
+        <colors></colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>2 to 8 processors</cpu>
+        <description>
+The C3800 belonged to the C3 series which included the Convex C3200, C3400, C3800 scallable supercomputers. Scallable means that the computer power scales up with the number of installed processors and the amount of shared memory. Such systems were also made by IBM, Cray,  HP.
+
+The  Convex 3800 used advanced technology gallium arsenide gate arrays.  The Basic system held two processors, 512 Mbytes of RAM and 34 GB of disk capacity. It was air-cooled. Its higher speed was of 240 Mflops (Millions of floating-point operations per second) in 64-bit and 480 Mflops in 32-bit computations.
+
+Fully configured with 8 processors and 4 gigabytes of RAM (pictured configuration), the monster could hit a speed of 2 gigaflops.
+
+Such performance enabled scientists to study problems involving very high speed calculations and quantities of data that posed severe problems on smaller systems.
+Convex computers were widely used for visualisation in computational fluid dynamics, medicine, computer-aided engineering, petroleum and seismic exploration, and finance.
+
+The Convex OS was an Unix variant which managed the specific features of the beast: processor allocation, memory caching, storage capabilities, etc. Major language compilers were C, Ada and Fortran. 
+
+Thanks to Mattias Persson who provided us with the Convex brochures.
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>Ditto</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/Convex_3800_System_s1.jpg</image>
+        <keyboard>Video terminal</keyboard>
+        <language>None</language>
+        <links>
+            <link>http://www.ex-convex.org/</link>
+        </links>
+        <manufacturer>Convex Computer Corp.</manufacturer>
+        <media>From 34 GB hard disk</media>
+        <name>C3800</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals>Unknown</peripherals>
+        <ports>At least 8 x 80 Mbytes/sec PBUS slots, Integrated Disc Channel (IDC), Tape Library Interface (TLI)</ports>
+        <power>Power consumption from 19.8 to 57.2 KVA - Forced air cooling</power>
+        <price>Unknown</price>
+        <production></production>
+        <ram>512 MB to 4 GB</ram>
+        <rom></rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;3800 CONFIGURATIONS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Taken from a Convex brochure&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Convex_3800_Config_s1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>178 (H) x 201-328 (W) x 224 (D) cm / 1270 to 2631 kg</size>
+        <sound></sound>
+        <speed>240 Mflops to 2 Gflops</speed>
+        <text>Depending on the video terminal used</text>
+        <type>Professional Computer</type>
+        <vram></vram>
+        <year>1991</year>
+    </computer>
+</computers>

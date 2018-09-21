@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>5 built-in games</builtInGames>
+        <colors>Black &amp;amp; white</colors>
+        <controllers></controllers>
+        <coprocessor>CDP1861 video display chipset</coprocessor>
+        <cpu>RCA 1802</cpu>
+        <description>
+The RCA Studio II was the second programmable video game system in the world, following the Fairchild Video Entertainment System released a few months earlier.  (The Magnavox Odyssey had cartridges, but was not programmable - the cartridges simply acted as jumpers to select games already built in to the analog electronics of the system).  When looking at the Studio II, it's clear that best-selling systems of that time, Pongs, inspired RCA.  Cosmeticaly, it looks like a pong...
+
+But the Studio II is more than a pong, it also is programmable.  A total of 10 cartridges were released before RCA dropped the system in 1979.  The Studio II also came with 5 built in games: Bowling, Freeway (car racing), Patterns, Doodles, and Math.  Unlike Fairchild's system, RCA's was only in black and white and the sound was through a single channel &amp;quot;Pong&amp;quot; style beeper housed in the system itself.
+
+The controllers are quite basic: only two numeric keypads built-in the system, labeled &amp;quot;A&amp;quot; for left player and &amp;quot;B&amp;quot; for right player. The numeric keypads are composed of ten keys numbered from 0 to 9. Arrows are also drawn next to the keys to indicate that &amp;quot;4&amp;quot; is for left, &amp;quot;6&amp;quot; for right, &amp;quot;2&amp;quot; for up, &amp;quot;3&amp;quot; for up-right, etc. &amp;quot;0&amp;quot; is thus often used as the fire button (depending on games of course).
+
+Sadly, the RCA was quickly outdated (the day it was released some would say) due to the fast pace techat technology was evolving at.  9 months later the Atari VCS was released, with color high resolution graphics, custom sound that actualy came through your television, and what was to become one of the largest game libraries of any console to date...
+
+Some years later, color clone systems appeared in Europe.  They were clearly marketed as cheap systems for people who couldn't afford more &amp;quot;modern&amp;quot; systems like the Colecovision or Vectrex.  They include the Soundic MPT-02 Victory, Hanimex MPT-02, Mustang 9016 Telespiel Computer, Conic M-1200 and the Sheen 1200 Micro Computer.  Some have modifications from the original RCA Studio II such as detachable controllers or even color graphics.  There were also some new cartridges produced for these systems, such as Concentration Match for the MPT-02.
+
+It is interesting to notice that MPT-02 systems are Studio RCA 2 software-compatible, MPT-03 are Emerson Arcadia 2001 software-compatible and MPT-04/05 systems are Interton VC-4000 software-compatible systems...
+
+If you want to learn more about the RCA Studio II and its clones, click here.
+If you want to know how to build your own RCA Studio II switch box, read this.
+The RCA Cosmac VIP computer is also quite related to the RCA Studio II.
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>Nice emulator with some games to download</description>
+                <link>http://www.classicgaming.com/studio2/</link>
+                <name>Winstem</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Elf, Elf II, Super ELF and Studio II emulator (Windows compilation also available)</description>
+                <link>http://www.elf-emulation.com/emulator.html</link>
+                <name>RCS Elf Emulator</name>
+                <platform>Unix / Linux emulator</platform>
+            </emulator>
+            <emulator>
+                <description>MESS also emulates the RCA Studio II</description>
+                <link>http://www.mess.org</link>
+                <name>MESS</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>64 x 32 (theoretical maximum of 64 x 128 is possible)</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/rca_studio2_2small.jpg</image>
+        <keyboard>Two built-in keypads (10 keys: numbers from O to 9)</keyboard>
+        <language>5 built-in games</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=1163</link>
+            <link>computer.asp?st=1&amp;amp;c=1221</link>
+            <link>http://www.old-computers.com/magazine/view.asp?r=2&amp;amp;a=5</link>
+            <link>http://www.classicgaming.com/studio2/faq.htm</link>
+            <link>http://www.classicgaming.com/studio2/</link>
+        </links>
+        <manufacturer>RCA</manufacturer>
+        <media>Catridges</media>
+        <name>Studio II</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals></peripherals>
+        <ports>Cartridge slot, video output &amp;amp; power in</ports>
+        <power>9v DC (through switch box only)</power>
+        <price>$149.95 (USA, 1977)</price>
+        <production>1979</production>
+        <ram>512 bytes (normally 256 bytes display RAM, 256 bytes program RAM)</ram>
+        <rom>2 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;RCA STUDIO II&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/rca_studio2_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;RCA STUDIO II&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/rca_studio2_2big.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;CONTROL PANEL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Just a CLEAR button, and a red power led.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/rca_studio2_panel.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;LEFT CONTROLLER&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;A ten buttons key-pad, that's all!&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/rca_studio2_controller.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SWITCHES&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Left: Video channel select 2 or 3&amp;lt;br&amp;gt; Right: Sound on or off&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/rca_studio2_switches.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;TV SWITCH&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The famous RCA Studio 2 switch! The system can only be powered by this thing.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/rca_studio2_tvswitch.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BOTTOM LABEL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/rca_studio2_bottom-label.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;OWNER MANUAL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/rca_studio2_ownermanual.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/rca_studio2_box.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BOX - BACK&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/rca_studio2_box-back.jpg</link>
+            </shot>
+        </screenshots>
+        <size>38 x 17 x 6 cm</size>
+        <sound>Single channel buzzer</sound>
+        <speed>1.78 MHz</speed>
+        <text></text>
+        <type></type>
+        <vram></vram>
+        <year>January 1977</year>
+    </computer>
+</computers>

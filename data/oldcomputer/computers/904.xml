@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>2 x 5.25'' floppy discs</builtInGames>
+        <colors>Monochrome</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>2 x Z80A</cpu>
+        <description>
+almost no information about this computer which features seems to be similar to the P2000C.
+ 
+Hopefully, jim apperley from Canada helps us:
+The Philips word processors of the early to mid 80s were built in the Town of Mount Royal (TMR), Montreal, Canada, by Micom a subsidiary of Philips.  They retained the Micom brand name in Canada and US where the brand was quite well respected. 
+Later Micom was integrated into Philips Information Systems PhIS (always remember the &amp;quot;h&amp;quot; please!). 
+The twin Z80 system was originally designed to retain compatiblity with the mid 1970s Micom 8080 based systems. The earlier systems used 8&amp;quot; hard sectored floppies.  
+After a rapid and successful development including transfer of applications (in &amp;lt;12 months),  marketing decided to make it into a CPM machine. This coupled with production delays and problems with the 2/3rd height disk drives from Philips delayed market entry for more than a year, just before the PC came out.
+The project was codenamed Swift.  
+At the same time a larger Z8000 system was developed (codenamed Eagle) for the Swedish teletex system. This had amazing  video quality for the time with Black on white, 70Hz, &amp;gt;40Mhz dot rate.  There was even a full page system just like the Xerox systems (screen rotated right with close to 1000 lines).  
+This design ultimately failed due to code growth  (insufficient memory.)  The code was compressed by changing from compiled to interpreted mode, whereupon speed dropped to the point where it could not keep up with an average typist. The Eagles were replaced in the teletex system by Swifts.
+
+I worked on the Floppy systems of both machines.  Depending  on the age of the system you may find the NEC765 Floppy controller on a daughter board with a PAL.  On later systems this was incorporated onto the motherboard.
+
+</description>
+        <emulators/>
+        <graphics>Unknown</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/Philips_P3000_System_1.jpg</image>
+        <keyboard>Full stroke 81 keys with 8 function keys and numeric keypad</keyboard>
+        <language></language>
+        <links/>
+        <manufacturer>Philips</manufacturer>
+        <media>2 x 5.25'' floppy discs</media>
+        <name>P3000</name>
+        <numGames></numGames>
+        <origin>Netherlands</origin>
+        <peripherals>Unknown</peripherals>
+        <ports>Unknown</ports>
+        <power>Built-in power supply unit</power>
+        <price>Unknown</price>
+        <production></production>
+        <ram>64 KB?</ram>
+        <rom>Unknown</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;LARGER SYSTEM&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Notice that doors of both floppy drives are opened.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Philips_P3000_System_2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;KEYBOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Philips_P3000_Keyboard_1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>Unknown</size>
+        <sound>Simple beep</sound>
+        <speed>Unknown</speed>
+        <text>80 chars x 25 lines</text>
+        <type>Professional Computer</type>
+        <vram>Unknown</vram>
+        <year>1983</year>
+    </computer>
+</computers>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Sinclair Basic</builtInGames>
+        <colors>8 with two tones each (normal and bright)</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>MME 880D Zilog Z80 Russian clone</cpu>
+        <description>
+We have few information about this computer.
+The Jet was a Romanian Spectrum clone computer built in a telephone case! You can see the handset housing and the numeric keyboard replaced with black plastic masks.
+The keyboard was made of printed pieces of paper inserted in transparent key-caps.
+This system has been deeply modified by the user(s).
+
+Zeno Mateescu, who owned a JET, reports:
+
+The whole computer was more a HC-85 clone, designed more specificaly for computer games. That's where the name came from: JET-EM Aparat pentru jocuri pe ecran TV - machine for games on TV screen - if I remember well. It is indeed a Sinclair ZX Spectrum compatible computer. It didn't had any joystick connector (kempston or any other joystick) so I had to modify it to use a joystick. Another interesting thing about JET was that you
+couldn't hear the program that was loading from the tape. On HC85, for example, you could hear that, let's call it noise, when loading the program.
+
+Output signals:
+- pal video signal: PAL: 1 Vvv / 75 ohm;
+- radio signal: 1 mVeff / 75 ohm;
+- the signal for the cassete recorder: 05 Vvv / 1 Kohm
+Input signal from the cassete recorder: min 50 mVeff
+Internal beeper: min. 55 dB SPL
+
+
+_________
+
+Contributors: Costel Dumitru
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>256 x 192</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/Jet_System_1.jpg</image>
+        <keyboard>QWERTY mechanical 40 keys</keyboard>
+        <language>Sinclair Basic</language>
+        <links/>
+        <manufacturer>Electromagnetica</manufacturer>
+        <media></media>
+        <name>Jet</name>
+        <numGames></numGames>
+        <origin>Romania</origin>
+        <peripherals></peripherals>
+        <ports>RF video out, RGB out, expansion port (not connected), tape-recorder (In, Out, Rem), external loudspeaker</ports>
+        <power>Built-in power supply, 220 Vca + 10%, - 15%, 50 Hz +/- 1 Hz, Max power: 15 W</power>
+        <price>11.500 lei (Romania, 1990)</price>
+        <production></production>
+        <ram>48 KB + 16 KB masked by the ROM</ram>
+        <rom></rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;JET (YELLOW MODEL)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Need a phone? You got a computer!&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/electromagnetica_jet-yellow_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;TOP VIEW&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/electromagnetica_jet-yellow_2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;KEYBOARD CLOSE-UP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The keyboard was of poor quality. Each key was made of a colour printed piece of paper inserted in a key-cap.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Jet_Keyboard_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INSIDE #1&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Only one of the two system boards is pictured here.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(1)&amp;lt;/b&amp;gt; Mains supply fuse&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(2)&amp;lt;/b&amp;gt; Power transformer&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(3)&amp;lt;/b&amp;gt; Voltage regulation circuit&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(4)&amp;lt;/b&amp;gt; TV-RF modulator&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(5)&amp;lt;/b&amp;gt; Reset switch&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(6)&amp;lt;/b&amp;gt; Joystick connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(7)&amp;lt;/b&amp;gt; RGB connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(8)&amp;lt;/b&amp;gt; Basic interpreter and O.S. ROM chips (2 KB each)&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(9)&amp;lt;/b&amp;gt; MME 880D processor. Zilog Z80 Russian clone&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(10)&amp;lt;/b&amp;gt; Keyboard cable &amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Jet_Inside_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INSIDE #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The second board featuring 8 KB of ROM is connected above the first one. It is difficult to know the use of this board as there is no inscription on top of the main chip.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Jet_Inside_3.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MAINBOARD CLOSE-UP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Processor, ROM chips and daughterboard connector.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Jet_Inside_2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;REAR&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;from left to right:  &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; - home-made joystick connector (direct connections to the keyboard cursor keys: 5,6,7,8 and 0)&amp;lt;br&amp;gt; - RF video output connector to TV&amp;lt;br&amp;gt; - External monitor connection?&amp;lt;br&amp;gt; - Tape recorder -&amp;gt; output for program saving &amp;lt;br&amp;gt; - Tape recorder -&amp;gt; input for program loading&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/electromagnetica_jet-yellow_rear.jpg</link>
+            </shot>
+        </screenshots>
+        <size>358 x 238 x 80 mm / 3 Kg max.</size>
+        <sound>1 voice / 10 octaves (Beeper)</sound>
+        <speed>3.5 MHz</speed>
+        <text>32 x 24</text>
+        <type>Home Computer</type>
+        <vram></vram>
+        <year>? 1990</year>
+    </computer>
+</computers>

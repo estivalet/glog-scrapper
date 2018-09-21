@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Disk Extended Color Basic 2.1 (Microsoft BASIC, with enhancements by Microware)</builtInGames>
+        <colors>64</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Motorola 68b09e (uses an external clock generator)</cpu>
+        <description>
+The &amp;quot;TANDY Color Computer 3&amp;quot; followed the Color Computer 2.
+
+The CoCo3 came with 128K RAM, an analog RGB video port, enhanced 640x192 graphics capability, a 64-color palette and much more.  (All ports contained on the CoCo 1 and 2 models were also available on the CoCo3, e.g. RS-232 serial, cassette, right and left joystick and a 40-pin expansion slot.)
+
+The built-in Language, named Disk Extended Color Basic 2.1, was a Microsoft BASIC with enhancements by Microware. It was similar to that of the CoCo2, but Microware added the commands/functions to take advantage of the higher resolution graphics and text. 
+
+The CoCo3 was upgradeable to 512 KB RAM. (After-market RAM upgrades have gone as high as 8MB, with rumors that 16MB and 32MB RAM upgrades may also be possible).  A Multi-Pak (a 4-port bus expander) plugged into the Expansion Slot allowed use of controllers for floppy disk drives, hard drives (MFM, RLL, SCSI and now even IDE), multi-port true RS-232 devices, MIDI units and much much more.
+  
+As its microprocessor was still an 8 bit (strange choice when Atari and Commodore were using a 68000), it couldn't access simultaneously to the 128k (or 512k), and thus used several RAM banks which could be switched (as the Thomson TO8, or MSX 2 computers).
+Unlike the CoCo  and CoCo II the 3 had an interrupt controller. This did away with a lot of the timing loops used in its predecessors, and actually took some of the fun out of programming in Machine Language.  
+
+Tandy made several prototypes of a Color Computer model IV but it was never released.
+
+___________
+
+Contributors: D. Francis
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>A very good DOS based emulator that the author kindly made freeware with the source code in hopes others can port it to other OSes and platforms</description>
+                <link>http://www.vavasour.ca/jeff/trs80.html#coco3</link>
+                <name>TRS CoCo3  Emulator by Jeff Vavasour v.1.6B</name>
+                <platform>MS DOS emulator</platform>
+            </emulator>
+            <emulator>
+                <description>This DOS emulator (freeware) will run original CoCo as well as CoCo 2 software</description>
+                <link>http://www.vavasour.ca/jeff/trs80.html#coco2</link>
+                <name>TRS-80 Colour Computer 2 Emulator</name>
+                <platform>MS DOS emulator</platform>
+            </emulator>
+            <emulator>
+                <link>http://www.bpwl.com/pub/ar/trs80/coco2-15.zip</link>
+                <name>CoCo 2 Emulator v1.5 for MS-DOS</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <link>http://www.voicenet.com/~swyss/cocoemul.html</link>
+                <name>CoCo III Emulator</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <link>http://www.maya.com/Local/phil/coco/</link>
+                <name>Virtual CoCo for MacOS</name>
+                <platform>Apple emulator</platform>
+            </emulator>
+            <emulator>
+                <link>http://www.maya.com/Local/phil/coco/</link>
+                <name>Virtual CoCo for MacOS</name>
+                <platform>Apple emulator</platform>
+            </emulator>
+            <emulator>
+                <description>TRS-80 Color Computer (CoCo) Emulator Written In Java </description>
+                <link>http://members.cox.net/javacoco/</link>
+                <name>MOCHA</name>
+                <platform>Other platform emulator</platform>
+            </emulator>
+            <emulator>
+                <description>MESS emulates Coco systems, among many other computers</description>
+                <link>http://www.mess.org</link>
+                <name>MESS</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>Several graphic modes, the most interesting were: 320x200 (16 col.), 640x200 (4 col.), 640x400 (4 col. if 512 KB RAM)</graphics>
+        <hardwares>
+            <hardware type="DISC DRIVES">
+                <items>
+                    <item>
+                        <description>TRS-80 Color Computer Disk System||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;TRS-80 COLOR COMPUTER DISK SYSTEM&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;It includes single external disk drive (uses standard DS, DD 5.25” floppy) with plug in disk interface, and 92 page users guide. &amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Tandy_Color1_FD500_2.jpg</photo>
+                    </item>
+                    <item>
+                        <description>FD-501|||5''1/4 disk-drive|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FD-501&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;5''1/4 disk-drive&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This picture show the case housing a double disk-drive, the controler cartridge and the box. &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; The cartridge has the &amp;quot;Microsoft Extended Color Basic 2.1&amp;quot; in ROM.&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/tandy_coco_fd501-disk_1.jpg</photo>
+                    </item>
+                </items>
+            </hardware>
+            <hardware type="EXTENSIONS">
+                <items>
+                    <item>
+                        <description>Plug and power|||Domotic hardware !|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;PLUG AND POWER&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;Domotic hardware !&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;An incredible extension for any Coco computer ! It turns your lights and other equipment on and off at designated times.&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/tandy_coco_plug-and-power.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Plug'n'Power|||Pic #2|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;PLUG'N'POWER&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;Pic #2&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This is the x10 (x-10) &amp;quot;Plug 'n Power Appliance and Light Controller&amp;quot; that goes with the cartridge of the same name. This can be used to program lights and other electrical devices in your home or office to turn on or off using the x10 protocol (you need to have x10 controllers on devices you would like to control)&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/tandy_coco2_plugnpower_2.jpg</photo>
+                    </item>
+                    <item>
+                        <description>RS232 pack||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;RS232 PACK&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/tandy_coco_rs232-pack.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Speech &amp;amp; Sound cartridge||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SPEECH &amp;amp; SOUND CARTRIDGE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/tandy_coco_speech-sound-cartridge_1.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Speech-Sound Pak|||cat. no 26-3144|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SPEECH-SOUND PAK&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;cat. no 26-3144&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/tandy_coco2_speech-sound-pak.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Serial to Parallel converter||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SERIAL TO PARALLEL CONVERTER&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;It is a serial to parallel converter (DB25 connectors). &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; A sticker on the bottom tells of all of the DIP switch settings, and a little LED shows the power status  &amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/tandy_serial-parallel_converter_1.jpg</photo>
+                    </item>
+                    <item>
+                        <description>512k Turbo RAM|||from Speech Systems|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;512K TURBO RAM&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;from Speech Systems&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This board installs in a coco 3 to give it a whopping 512k of ram !&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/tandy_coco3_speech-system-512k-turbo-ram.jpg</photo>
+                    </item>
+                </items>
+            </hardware>
+            <hardware type="MISC">
+                <items>
+                    <item>
+                        <description>Wico joystick adapter||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;WICO JOYSTICK ADAPTER&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The Wico TRS-80 adapter allows you to use Atari 2600 joysticks (and other various controllers using the Atari standard) on your Color Computer&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/tandy_coco2_vcsadapt_1.jpg</photo>
+                    </item>
+                    <item>
+                        <description>TRS80 Colour mouse||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;TRS80 COLOUR MOUSE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/tandy_coco2_trs80colormouse_1.jpg</photo>
+                    </item>
+                    <item>
+                        <description>TRS-80 Touch Pad||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;TRS-80 TOUCH PAD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/tandy_coco2_trs80-touch-pad.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Tandy Joystick||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;TANDY JOYSTICK&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Tandy_Color1_Joystick_1.jpg</photo>
+                    </item>
+                    <item>
+                        <description>GT-116|||Tandy graphic tablet|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;GT-116&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;Tandy graphic tablet&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;A4 size. It is used for transfering pictures or drawings, and also as a menu pointing system. &amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Tandy_Color1_Tablet_1.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Vinyl keyboard cover||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;VINYL KEYBOARD COVER&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Suitable for models 2 and 3.&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/tandy_coco2_plastic-cover_1.jpg</photo>
+                    </item>
+                </items>
+            </hardware>
+            <hardware type="MODEMS">
+                <items>
+                    <item>
+                        <description>DC-2212|||1200-baud modem with automatic dialing and answer|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;DC-2212&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;1200-baud modem with automatic dialing and answer&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Tandy_Color1_Modem2212_s1.jpg</photo>
+                    </item>
+                </items>
+            </hardware>
+            <hardware type="MULTI-PAKS">
+                <items>
+                    <item>
+                        <description>Multi-pack Interface|||Model 26-3124|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MULTI-PACK INTERFACE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;Model 26-3124&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The Multi-Pack plugs into the cartridge slot on the side of the Color Computer and allows up to four devices to be plugged into the computer at the same time. A switch on the front of the MPI allows to switch between the 4 ROM Paks. This can be done also with software commands. With the MPI, a disk drive, an RS-232 Program Pak, and a game cartridge could be used simultaneously. &amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/tandy_coco_multipack_1.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Older model||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;OLDER MODEL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/tandy_coco2_multipack-old_1.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Older model|||Box|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;OLDER MODEL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;Box&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/tandy_coco2_multipack-old_box_1.jpg</photo>
+                    </item>
+                </items>
+            </hardware>
+            <hardware type="PRINTERS">
+                <items>
+                    <item>
+                        <description>Tandy colour printers||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;TANDY COLOUR PRINTERS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;CGP 220&amp;lt;/b&amp;gt; : (left) 7 colours Inkjet printer&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;CGP 115&amp;lt;/b&amp;gt; : (right) 4 colours plotter&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Tandy_Color1_Printers_1.jpg</photo>
+                    </item>
+                    <item>
+                        <description>CGP 115 #2||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;CGP 115 #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;4-pen color graphic printer.&amp;lt;br&amp;gt; Cat. 26-1192A&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Tandy_Color1_4penPrinter_s1.jpg</photo>
+                    </item>
+                </items>
+            </hardware>
+        </hardwares>
+        <image>http://www.old-computers.com/museum/photos/Tandy_Color3_System_s1.jpg</image>
+        <keyboard>Full-stroke keyboard</keyboard>
+        <language>Disk Extended Color Basic 2.1 (Microsoft BASIC, with enhancements by Microware)</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=91</link>
+            <link>computer.asp?st=1&amp;amp;c=508</link>
+            <link>http://www.cloud9tech.com/Order/index.html</link>
+            <link>http://www.prowler-pro.com/coco/</link>
+            <link>http://nav.webring.yahoo.com/hub?ring=CoCo&amp;amp;id=40&amp;amp;list</link>
+            <link>http://www.bat-soft.com/coco/</link>
+            <link>http://coco3nuts.tripod.com/</link>
+            <link>http://home.netcom.com/~tlindner/CTU.html</link>
+            <link>HTTP://NITROS9.LCURTISBOYLE.COM</link>
+            <link>http://www.RadioShackCatalogs.com</link>
+            <link>http://www.axess.com/twilight/sock/</link>
+            <link>http://www.coco3.com</link>
+            <link>news:comp.sys.tandy</link>
+        </links>
+        <manufacturer>Tandy Radio Shack</manufacturer>
+        <media></media>
+        <name>Color Computer 3</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals></peripherals>
+        <ports>Tape, Composite Video, analog RGB connector for use with Tandy CM-8 monitor, 2 joystick ports, cartridge slot, RS232</ports>
+        <power>Built-in PSU</power>
+        <price>$219.95 (USA, 1986)</price>
+        <production>1992</production>
+        <ram>128 KB (up to 512 KB. There were 1MB and 2MB upgrade boards as well)</ram>
+        <rom>32 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;COCO 3&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Tandy_Color3_System_s2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;TOP VIEW&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Tandy_Color3_TopView_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BOTH SIDES&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Note the cartridge slot on the right side.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Tandy_Color3_Sides_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;KEYBOARD CLOSE-UP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Tandy_Color3_Keyboard_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;UNDERNEATH&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Stangely, the RGB connector is located underneath the computer.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Tandy_Color3_BottomSide_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;REAR CONNECTORS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;From left to right:&amp;lt;br&amp;gt;&amp;lt;br&amp;gt; • Reset switch&amp;lt;br&amp;gt; • Audio jack&amp;lt;br&amp;gt; • Composite video jack&amp;lt;br&amp;gt; • RF channel selector&amp;lt;br&amp;gt; • TV/RF jack&amp;lt;br&amp;gt; • Tape recorder I/O DIN socket&amp;lt;br&amp;gt; • Serial I/O DIN socket&amp;lt;br&amp;gt; • Right and left joystick DIN sockets&amp;lt;br&amp;gt; • Power switch.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/RearCon_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;OPENED&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The keyboard is simply put on the shell and connected to the motherboard by a thin flat cable.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Tandy_Color3_Opened_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MOTHERBOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;#666666&amp;quot;&amp;gt;(1)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Four 41464 chips hold 128 KB of RAM&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;#666666&amp;quot;&amp;gt;(2)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; TV/RF modulator&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;#666666&amp;quot;&amp;gt;(3)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Motorola MC68B09EP microprocessor&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;#666666&amp;quot;&amp;gt;(4)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; ROM cartridge connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;#666666&amp;quot;&amp;gt;(5)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; 32 KB ROM chip holding the Tandy BASIC interpreter&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;#666666&amp;quot;&amp;gt;(6)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Custom GIME chip, especially made for the CoCo3, handles graphics and text display, system bus and various I/O&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;#666666&amp;quot;&amp;gt;(7)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Keyboard connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;#666666&amp;quot;&amp;gt;(8)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Expansion card (mainly RAM cards) connectors&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;#666666&amp;quot;&amp;gt;(9)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Motorola LSC81001 I/O chip&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;#666666&amp;quot;&amp;gt;(10)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Motorola 6821 PIA (Peripheral Interface Adapter)&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;#666666&amp;quot;&amp;gt;(11)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Power regulator and it's cooler&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;#666666&amp;quot;&amp;gt;(12)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; AC power transformer.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Tandy_Color3_Mainboard_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;THE BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Tandy_Color3_Box_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;COCO3 MANUALS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The BASIC reference guide is missing&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Tandy_Color3_Manuals_s1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>Unknown</size>
+        <sound>See comment below</sound>
+        <speed>1.79 MHz (0.89mhz under RS-DOS for compatability with FD expansion unit)</speed>
+        <text>32x16, 40x25, 80x25</text>
+        <type>Home Computer</type>
+        <vram></vram>
+        <year>1986</year>
+    </computer>
+</computers>

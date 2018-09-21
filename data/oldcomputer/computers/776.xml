@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Basic</builtInGames>
+        <colors>8</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Z80A russian clone</cpu>
+        <description>
+The Robik was a russian ZX Spectrum clone. It was produced in the city of Czerkasy.
+
+It had 64KB RAM (shared with 16KB ROM) and independed 8KB video RAM (as real speccy, by the way). The keyboard was quite good (apparently) and quite complete. It had even switches to choose between latin and russian character fonts.
+
+A Kempston interface was built in, with separate keys to emulate joystick, which was very convenient in programs that was not games and use the Kempston interface to control the cursor.
+
+Some other advantages:
+ - CGA video output for professional monitors
+ - Standard tape interface
+ - TV RGB interface 
+ - Ability to invert colors to use with some &amp;quot;strange&amp;quot; TV's and monitors
+ - Separate brightness regulators for R, G, B (bottom side)
+ - One system expansion slot on motherboard. In most cases user had to modify left side of the keyboard (making special hole). Otherwise expansion cards couldn't fit inside :(
+
+________
+
+Source : ZX LAND 6.5 and Maxim from Russia
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>256 x 192</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/robik_russian-clone_1.jpg</image>
+        <keyboard>QWERTY full-stroke keyboard, 55 keys. EDIT, SHIFT (x 3), RESET, DEL, arrow keys</keyboard>
+        <language>Basic</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=463</link>
+            <link>computer.asp?st=1&amp;amp;c=964</link>
+            <link>computer.asp?st=1&amp;amp;c=953</link>
+            <link>computer.asp?st=1&amp;amp;c=459</link>
+            <link>computer.asp?st=1&amp;amp;c=945</link>
+            <link>computer.asp?st=1&amp;amp;c=916</link>
+            <link>http://www.tk90x.com.br</link>
+            <link>http://www.kompaktservis.cz</link>
+            <link>http://www.homecomputer.de/pages/f_sinclair.html</link>
+            <link>http://www.homecomputer.de/pages/f_info.html?Robik.html</link>
+            <link>http://www.algonet.se/~rsm/zx/zxclones.html</link>
+            <link>http://217.97.12.194/curious/Hardware/rules/zxland/</link>
+            <link>http://tarjan.uw.hu/zxclones_en.htm</link>
+        </links>
+        <manufacturer>Robik</manufacturer>
+        <media></media>
+        <name>Robik</name>
+        <numGames></numGames>
+        <origin>Russia</origin>
+        <peripherals>Unknown</peripherals>
+        <ports>RGB video output, Kempston joystick, Tape interface, Monitor video output</ports>
+        <power>External power supply ?</power>
+        <price>1200 roubles (December 1991)</price>
+        <production></production>
+        <ram>64 KB</ram>
+        <rom>16 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BOTTOM&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/robik_russian-clone_under.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;REAR&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/robik_russian-clone_rear.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;USER DOCUMENTATION&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/robik_russian-clone_doc.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/robik_russian-clone_box.jpg</link>
+            </shot>
+        </screenshots>
+        <size>4.5 Kg</size>
+        <sound>Beeper, 1 channel</sound>
+        <speed>3,5 MHz</speed>
+        <text>32 x 24</text>
+        <type>Home Computer</type>
+        <vram>8 KB</vram>
+        <year>1991</year>
+    </computer>
+</computers>

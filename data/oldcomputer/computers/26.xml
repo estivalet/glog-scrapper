@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Locomotive Basic 1.1</builtInGames>
+        <colors>31 maximum (16 + 15 for sprites) among 4096</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Zilog Z80A</cpu>
+        <description>
+These Amstrads were the successors of the Amstrad CPC 6128. Amstrad tried to prolong the life of the old 8-bit Amstrads, which suffered from competition with the new 16-bit home computers (like the Amiga and Atari ST).
+
+Amstrad made some important modifications to maintain the level of its machines, the CPC 6128 Plus became 95% compatible with the CPC 6128 (using the same operating systems AMSDOS and CP/M 3.0). However, some software did not run on the plus range and amstrad official statement was that the programmers where lazy and used bad programming in some software resulting in crashes on this machine.
+
+Several new features were added: hardware scrolling, increased color palette, an enhanced sound chip, a cartridge port, and a redesigned keyboard. Some of these features were not even present (yet) on certain 16-bit computers (Atari STf didn't have hardware scrolling or sprites). Regardless, this new version of the CPC didn't last long. 
+
+The system offers 16 hardware sprites at a size of 16x16 pixels. The sprites are using 15 other colors than the 16 of the palette, and have x/y zoom. The soundchip is the same AY as on the CPC, but controlable with a DMA.
+
+As Atari did with the 65-XE when it reached the end of its life, so Amstrad  made a game console from the Amstrad CPC Plus hardware called the GX 4000. This console used the same programs as the computer but were supplied on cartridges.
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>CPC emulator for DOS</description>
+                <link>http://www.arnimedes.de/</link>
+                <name>Arnimedes</name>
+                <platform>MS DOS emulator</platform>
+            </emulator>
+            <emulator>
+                <description>32 bit Amstrad CPC Emulator</description>
+                <link>http://www.caprice32.cybercube.com/</link>
+                <name>CaPriCe32</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>For Windows and MS-DOS</description>
+                <link>http://www.work.de/nocash/cpc.htm</link>
+                <name>No Cash Amstrad CPC Emulator (NO$CPC)</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Fast, accurate CPC/+ emulation</description>
+                <link>http://winape.emuunlim.com/</link>
+                <name>WinAPE32</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Arnold/MacOS is an Amstrad CPC/CPC+/KC Compact Emulator for the Macintosh.</description>
+                <link>http://www.bannister.org/software/arnold.htm</link>
+                <name>Arnold</name>
+                <platform>Apple emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Emulator for MAC OS</description>
+                <link>http://bricerive.free.fr/cpc</link>
+                <name>CPC ++</name>
+                <platform>Apple emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Emulator for Linux and SunOS.</description>
+                <link>http://bricerive.free.fr/cpc</link>
+                <name>CPC ++</name>
+                <platform>Unix / Linux emulator</platform>
+            </emulator>
+            <emulator>
+                <description>CPC emulator for any UNIX platform with X-Window</description>
+                <link>http://XCPC.EMUUNLIM.COM</link>
+                <name>XCPC</name>
+                <platform>Unix / Linux emulator</platform>
+            </emulator>
+            <emulator>
+                <link>http://www.chez.com/deplanque/</link>
+                <name>Ami-CPC</name>
+                <platform>Amiga OS emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Hardware emulator (re-configurable computer)</description>
+                <link>http://c64upgra.de/c-one/</link>
+                <name>C-ONE</name>
+                <platform>Other platform emulator</platform>
+            </emulator>
+            <emulator>
+                <description>CPC emulator for Dreamcast</description>
+                <link>http://www.consolevision.com/dreamcast/emus/amstrad/</link>
+                <name>DreamCPC</name>
+                <platform>Other platform emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Pocket PC/PDA emulator for Windows Mobile 2003 or Windows Mobile 5 operating system</description>
+                <link>http://www.pocketcult.com</link>
+                <name>PocketCaprice</name>
+                <platform>Other platform emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Emulates CPC 464, 644, 6128, 464+, 6128+, and KC Compact.</description>
+                <link>http://arnold.emuunlim.com/</link>
+                <name>Arnold (amstad 128k v3 emulator)</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Amstrad CPC emulator for DOS, DPMI and WIN32</description>
+                <link>http://cpce.emuunlim.com/</link>
+                <name>CPCE</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+            <emulator>
+                <description>MESS emulates a lot of Amstrad computers (available for many OS) !</description>
+                <link>http://www.mess.org/</link>
+                <name>MESS</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>160 x 200 with 16 colors320 x 200 with 4 colors640 x 200 with 2 colors</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/Amstrad_6128Plus_System_1.jpg</image>
+        <keyboard>QWERTY / AZEERTY mechanical keyboard</keyboard>
+        <language>Locomotive Basic 1.1</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=84</link>
+            <link>computer.asp?st=1&amp;amp;c=522</link>
+            <link>computer.asp?st=1&amp;amp;c=111</link>
+            <link>computer.asp?st=1&amp;amp;c=112</link>
+            <link>computer.asp?st=1&amp;amp;c=885</link>
+            <link>http://www.instruction-manuals.co.uk/category/computer/amstrad.htm</link>
+            <link>http://www.sean.co.uk/books/amstrad/index.shtm</link>
+            <link>http://amstrad.cpc.free.fr/</link>
+            <link>http://www.amstrad.dk/</link>
+            <link>http://web.ukonline.co.uk/cliff.lawson/index.htm</link>
+            <link>http://www.nenie.org/cpcip/</link>
+            <link>http://www.cpcwiki.eu</link>
+            <link>http://www.cpcwiki.com/index.php/Main_Page</link>
+            <link>http://www.diskdoctor.co.uk/</link>
+            <link>http://www.FutureOS.de</link>
+            <link>http://turpas3.angelfire.com/</link>
+            <link>http://speccy.altervista.org/</link>
+            <link>http://scampin.chez-alice.fr/cpc/index.html</link>
+            <link>http://phenixinformatique.free.fr/</link>
+            <link>http://www.symbos.de/</link>
+            <link>http://andercheran.aiind.upv.es/~amstrad/</link>
+            <link>http://www.trickynz.com/Amstrad%20CPC.html</link>
+            <link>ftp://ftp.ibp.fr/pub/amstrad</link>
+            <link>ftp://ftp.nvg.unit.no/pub/cpc/</link>
+            <link>ftp://ftp.nvg.unit.no/pub/cpc/</link>
+            <link>news:comp.sys.amstrad.8bit</link>
+        </links>
+        <manufacturer>Amstrad</manufacturer>
+        <media>CPC-464+ : Tape-recorder (without tape counter)CPC-6128+ : 3'' disk-drive, but no tape plug</media>
+        <name>464 / 6128 Plus</name>
+        <numGames></numGames>
+        <origin>United Kingdom</origin>
+        <peripherals></peripherals>
+        <ports>Light pen / gun portStereo sound outputCentronics portExtension port2 Joystick ports (Atari) + 1 analogicExternal drive port (CPC 6128+ only)Cartridge slotRGB monitor DIN plug</ports>
+        <power>5v DC, through Amstrad monitor</power>
+        <price>CPC-6128+ : Monochrome - 455  (november 90)CPC-6128+ : Color - 608  (november 90)</price>
+        <production></production>
+        <ram>6128+ : 128 kb464+ : 64 kb</ram>
+        <rom>32 kb</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;CPC 464+&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;It featured the same characteristics as the 6128, except regarding its memory (64 KB instead of 128 KB) and had a tape recorder (located above the keyboard) instead of a floppy disk.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;It replaced the CPC 464 and had a short life because tape recorders were no longer supported when it was released.    &amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/amstrad_464p.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;CPC-464P SIDE VIEW&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Another view of the CPC-464+ with its Burnin'Rubber/Basic cartridge inserted.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/amstrad_464p_side.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;CPC-464+ REAR VIEW&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/amstrad_464p_back.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;RUNNING 6128+&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;One ROM cartridge was delivered with the computer, holding the Locomotive BASIC language, and 'Burnin Rubber', a car race game.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Amstrad_6128Plus_Running_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;LEFT SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;(1)&amp;lt;/b&amp;gt; RJ11 expansion connector, for gun or light pen&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(2)&amp;lt;/b&amp;gt; Power switch which also locks the inserted cartridge while the system is turned on&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(3)&amp;lt;/b&amp;gt; Analogue joystick connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(4-6)&amp;lt;/b&amp;gt; Atari-compatible joystick DB9 connectors&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(5)&amp;lt;/b&amp;gt; ROM cartridge. A cartridge must be inserted before turning on the system.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(7)&amp;lt;/b&amp;gt; Stereo headphones jack&amp;lt;br&amp;gt; &amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Amstrad_6128Plus_LeftSide_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;REAR&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;(1)&amp;lt;/b&amp;gt; Parallel Centronics connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(2)&amp;lt;/b&amp;gt; Power jack. Power supplied by the monitor&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(3)&amp;lt;/b&amp;gt; RGB video DIN plug&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(4)&amp;lt;/b&amp;gt; Bus expansion connector, mainly intended for an external floppy disk unit&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(5)&amp;lt;/b&amp;gt; Serial DB25 connector&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Amstrad_6128Plus_Back_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;UNCOVERED 6128+&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;A typical design for the last generation of personal home computers: a compact motherboard featuring numerous I/O connectors, a built-in floppy disk drive, and a keyboard.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt; The 6128 Plus, like all members of the Amstrad home computer range, was a very reliable system... except the floppy drive belt which had to be changed from time to time.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Amstrad_6128Plus_Uncovered_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MOTHERBOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;A very compact board thanks to the custom Amstrad chip. Even so this board features 12 different connectors!&amp;lt;br&amp;gt;&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(1)&amp;lt;/b&amp;gt; AY38912 sound generator. 8 voices, 3 octaves and white noise generation&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(2)&amp;lt;/b&amp;gt; ROM cartridge connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(3)&amp;lt;/b&amp;gt; Z80A processor. Here an ST Electronics version&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(4)&amp;lt;/b&amp;gt; Zilog Z80 FDC - Floppy disc controller&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(5)&amp;lt;/b&amp;gt; Amstrad custom chip in charge of memory and video management and various I/O. This chip replaces more than 20 I.C’s used in the original version of the 6128.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(6)&amp;lt;/b&amp;gt; Keyboard connectors&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(7)&amp;lt;/b&amp;gt; 32 KB video RAM 41464 chip&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(8)&amp;lt;/b&amp;gt; 128 KB RAM memory chips (4 x 41464 chips)&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(9)&amp;lt;/b&amp;gt; BIOS ROM. Holds basic I/O routines.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Amstrad_6128Plus_MainBoard_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MOTHERBOARD CLOSE-UP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Notice the Z80A CPU chip (from ST-Microelectronics), the Z80 FDC (from Zilog) and  the custom Amstrad chip.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Amstrad_6128Plus_MainbCloseUp_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;THE GX4000 GAME&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;console based on the 6128+ hardware&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/gx4000.jpg</link>
+            </shot>
+        </screenshots>
+        <size></size>
+        <sound>3 stereo voices, 8 octaves+1 noise channel</sound>
+        <speed>4 mHz</speed>
+        <text>20 x 25 with 16 colors40 x 25 with 4 colors80 x 25 with 2 colors</text>
+        <type>Home Computer</type>
+        <vram></vram>
+        <year>1990</year>
+    </computer>
+</computers>

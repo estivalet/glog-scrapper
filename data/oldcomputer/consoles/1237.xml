@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Cartridge, CD-ROM</builtInGames>
+        <colors>512 palette, 64 on screen</colors>
+        <controllers></controllers>
+        <coprocessor>3.5 MHz Zilog Z80</coprocessor>
+        <cpu>2x Motorola 68000</cpu>
+        <description>
+The Wondermega was released in 1992 as a joint development by Sega and JVC. It is similar to the Multi-Mega, being a combination of a Mega Drive and Mega CD, but with the added ability to function as a karaoke machine and improved sound thanks to JVC's new DSP. The system shipped with four karaoke programs and a compilation CD of four games. Two microphones can be connected to the system so users can sing along with CDs, or, thanks to a button on the machine, the CDs vocals can be muted allowing you to sing with just the music as a backing track.
+
+In 1993 the WonderMIDI package was released. This allowed users to connect a MIDI keyboard the Wondermega to create sound effects and music, and included instructional software which could help people learn to play the piano. 1993 also saw a re-release of the system, with several small changes designed to reduce cost.
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>Excellent Genesis emulator</description>
+                <link>http://gens.consolemul.com/</link>
+                <name>Gens</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Kega is a Sega SG1000, SC3000, Master System, Game Gear, Genesis/Megadrive and SegaCD/MegaCD emulator for Win9x/ME/2000/XP</description>
+                <link>http://www.eidolons-inn.net/kega/</link>
+                <name>KEGA</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Sega Megadrive emulator</description>
+                <link>http://emu.makii.pl/pokazpliki.php3?tematy=smd</link>
+                <name>Wgens</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>320x224</graphics>
+        <hardwares>
+            <hardware type="ACTION CHAIR">
+                <items>
+                    <item>
+                        <description>the action chair||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;THE ACTION CHAIR&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The action chair is a rare item. Connected to a Genesis/Megadrive, it acts as a controller! When you lean backward/forward it tells the Genesis to go down/up and when you lean left/right it tells to go left/right. Two handles on each side offer two buttons each, resulting in 4 buttons : START, SELECT, A &amp;amp; B. &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; The Action Chair is basically a chair mounted on a controller. It is thus possible to play all games with it, though it is more convenient to play games like After Burner II, Space Harrier II, Super Thunder Blade, Hang on, Road Rash, Super Monaco GP, etc.&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/sega_action-chair.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Documentation|||Page 1|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;DOCUMENTATION&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;Page 1&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/sega_action-chair_doc_1.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Documentation|||Page 2|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;DOCUMENTATION&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;Page 2&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/sega_action-chair_doc_2.jpg</photo>
+                    </item>
+                </items>
+            </hardware>
+        </hardwares>
+        <hardwareDescription></hardwareDescription>
+        <image>http://www.old-computers.com/museum/photos/sega_wondermega_1s.jpg</image>
+        <keyboard>8-way d-pad, 3 buttons + Start</keyboard>
+        <language></language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=837</link>
+            <link>computer.asp?st=1&amp;amp;c=1250</link>
+            <link>computer.asp?st=1&amp;amp;c=1251</link>
+            <link>computer.asp?st=1&amp;amp;c=1247</link>
+            <link>computer.asp?st=1&amp;amp;c=843</link>
+            <link>computer.asp?st=1&amp;amp;c=1233</link>
+            <link>http://www.gamefaqs.com/console/genesis/</link>
+            <link>http://www.gamewinners.com/GEN/</link>
+            <link>http://www.gamesx.com/avpinouts/genesisav.htm</link>
+            <link>http://www.genesiscollective.com/</link>
+            <link>http://codes.ign.com/</link>
+            <link>http://www.classicgaming.com/museum/faqs/megadfaq.shtml</link>
+            <link>http://www.sega.co.jp/archive/segahard/32x/</link>
+            <link>http://www.sega.co.jp/archive/segahard/md/</link>
+            <link>http://www.sega.co.jp/archive/segahard/mcd/</link>
+            <link>http://www.classicgaming.com/museum/faqs/segacdfaq.shtml</link>
+            <link>http://www.classicgaming.com/thedump/genesis/</link>
+            <link>http://www.billnkaz.demon.co.uk/segalist.htm</link>
+            <link>http://www.vgmusic.com/music/console/sega/genesis/</link>
+            <link>http://www.zophar.net/genesis.html</link>
+            <link>news:rec.games.video.sega</link>
+        </links>
+        <manufacturer>Sega</manufacturer>
+        <media>Cartridge, CD-ROM</media>
+        <name>Wondermega</name>
+        <numGames></numGames>
+        <origin>Japan</origin>
+        <peripherals>Mega Modem, WonderMIDI</peripherals>
+        <ports>cartridge, AV out, MIDI, headphone jack, 2 MIC jacks, Expansion port, 2 controller ports</ports>
+        <power></power>
+        <price></price>
+        <production>Unknown</production>
+        <ram>832 KB</ram>
+        <rom>128 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;WONDERMEGA&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/sega_wondermega_1.jpg</link>
+            </shot>
+        </screenshots>
+        <size></size>
+        <sound>Yamaha YM2612 6 channel FM, 4 channel PSG, JVC DSP, 1 bit DAC</sound>
+        <speed>1x 12.5 MHz, 1x 7.6 MHz</speed>
+        <text></text>
+        <type></type>
+        <vram>64 KB</vram>
+        <year>1992</year>
+    </computer>
+</computers>

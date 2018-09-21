@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>MSX BASIC V.2.0</builtInGames>
+        <colors>512</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Z80-A</cpu>
+        <description>
+Talent/Telematica was an electronic company of Argentina that manufactured three MSX models:
+- DPC-200 - MSX1
+- CPC-300 - MSX2 with numeric keypad
+- TPC-310 - MSX2
+All Talent models was based on Daewoo/Yeno MSX models. The DPC-200 and the TPC-310 used the same case, the CPC300 looked like the daewoo CPC300/IQ2000 (black case).
+
+The TPC-310 featured a &amp;quot;toolbox&amp;quot; in ROM (user could access it pressing CTRL-Shift keys) including a calculator, a calendar, a &amp;quot;control panel&amp;quot; and a puzzle game (the same game as the first macs where numbers from 1 to 15 had to be ordered). The case held the motherboard and the PSU. the Motherboard had a housing for a 9V battery, probably for the real time clock.
+
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>64 x 48 / 256 x 192 / 256 x 212 / 512x 212Interlace mode: 256 x 424, 512 x 424</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/Talent_TPC310_System_1.jpg</image>
+        <keyboard>Standard MSX spanish keyboard (with &amp;Ntilde;)</keyboard>
+        <language>MSX BASIC V.2.0</language>
+        <links/>
+        <manufacturer>Talent/Telematica</manufacturer>
+        <media>None</media>
+        <name>TPC-310</name>
+        <numGames></numGames>
+        <origin>Argentina</origin>
+        <peripherals></peripherals>
+        <ports>2 x Joysticks, 1 x ROM cartridge, tape recorder, RGB, RF(NTSC &amp;amp; PAL with switch), centronics, expansion port, color bus port (maybe)</ports>
+        <power>Built-in power supply unit</power>
+        <price>Unknown</price>
+        <production></production>
+        <ram>128 KB</ram>
+        <rom>48 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SYSTEM&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Talent_TPC310_System_2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;KEYBOARD CLOSE-UP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Talent_TPC310_KeybCloseup_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;UNCOVERED SYSTEM&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Talent_TPC310_Inside_2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;PROCESSOR &amp;amp; ROM'S CLOSE-UP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Three 16 KB ROM circuits hold MSX-DOS, MSX-BASIC V.2 and 'Toolbox' software. &amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Talent_TPC310_Inside_1.jpg</link>
+            </shot>
+        </screenshots>
+        <size></size>
+        <sound>3 voices, 8 octaves (MSX2 standard)</sound>
+        <speed>3.58 Mhz</speed>
+        <text>40  x  24 / 32 x 24</text>
+        <type>Home Computer</type>
+        <vram>128 KB</vram>
+        <year>1988</year>
+    </computer>
+</computers>

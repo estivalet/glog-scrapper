@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Unknown</builtInGames>
+        <colors>Unknown</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>MME UA 880D (Zilog Z80A russian clone)</cpu>
+        <description>
+The Bosman 8, was made by &amp;quot;G.Z.E. Unimor&amp;quot; (Gdanskie Zaklady Elektroniczne Unimor) in Poland (Gdansk to be precise). It was released in 1987 as a system for schools and offices, but even CAD/CAM software was developed for this machine and later, as being too expensive (cost 1 300 000 zl) and extremely hard to get (apparently only 1000 models have been produced), Bosman 8 was used mainly as a terminal for automatized processes (designing printed boards).
+
+The main particularity of the Bosman 8 is that what you think is only an external disk drive is in fact the computer itself! Yes, everything is in this small box. But it needs to be connected to a terminal and a monitor. Two keyboard/terminals were available: AN-2001 and ANG-3001, the latter featuring graphic possibilities. Indeed, the Bosman 8 seems to let the terminal manage all the display, hence different display features according to what &amp;quot;keyboard&amp;quot; terminal you are using... In fact it looks like the Bosman 8 was conceived as a system to turn an already existing terminal into a real computer.
+
+The main unit was powered by a Z80A processor running at 4MHz, and has 16 KB of ROM. Another original feature is the amount of memory available. The User Manual claims to offer 512 KB of RAM (60KB operating memory and a 416KB on disk, which doesn't even make the count). In fact it seems that the Bosman 8 has 64 KB RAM (60 KB free for user?) and then can use 7 more 60 KB banks stored on disk, through a bank switching technique. Clever and quite original...
+
+Two 3&amp;quot;1/2 or one 5&amp;quot;1/4 (200 KB?) floppy drives were built-in the system (max disk size was 800 KB - DS DD according to the manual). The monitor shipped with the Bosman 8 was a monochrome Neptun 159. There were also two more types of 12 ''monochrome monitors developed for it - an &amp;quot;M4902&amp;quot; and a &amp;quot;M4801&amp;quot; that was capable of working with a CGA or Hercules type display. 
+
+The whole system was apparently available in two colour versions: a bright gray model and dark gray model, but the differences are unclear (anyone can help?).
+
+It run on a CPM/R operating system and the manual says it's compatible with CP/M
+2.2. 
+
+___________
+
+Contributors: Tomasz Droszcz (info &amp;amp; picture)
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>512 x 256</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/gze-unimor_bosman-8_1s.jpg</image>
+        <keyboard>full stroke keyboard with numeric keypad and kind of colored function keys</keyboard>
+        <language>Unknown</language>
+        <links/>
+        <manufacturer>G.Z.E. Unimor</manufacturer>
+        <media>1 x 5''1/4 floppy disk drive or 2 x 3</media>
+        <name>Bosman 8</name>
+        <numGames></numGames>
+        <origin>Poland</origin>
+        <peripherals>Printers, additional disk drives</peripherals>
+        <ports>ZDG (ex: Robotron 1152) printer connector (DB25 female), Monitor output (DB9 male), V-24 serial connector (DB25 male), Terminal connector (DB9 female)</ports>
+        <power>Built-in power supply (+5v, +12v, -12v)</power>
+        <price>1 300 000 zl (Poland, 1987)</price>
+        <production></production>
+        <ram>60 KB free for user</ram>
+        <rom>16 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BOSMAN 8&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/gze-unimor_bosman-8_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MAIN UNIT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/gze-unimor_bosman-8_unit.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;REAR&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;From left to right: &amp;lt;br&amp;gt; - Terminal: connects to the terminal keyboard&amp;lt;br&amp;gt; - V-24 connector (mainly for printers)&amp;lt;br&amp;gt; - Monitor: connects to the terminal monitor&amp;lt;br&amp;gt; - Drukarka: printer connector, ex: Robotron 1152&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/gze-unimor_bosman-8_rear.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;THE MOTHERBOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Very clean...&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/gze-unimor_bosman-8_mobo_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INSIDE THE KEYBOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;We can clearly see here that this is more than a simple keyboard, but a real terminal, which manage all display features.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/gze-unimor_bosman-8_inside-keyboard.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INTERCONNECTION SCHEME&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Here we can clearly see that the Bosman 8 was conceived to use the monitor and the keyboard of a &amp;quot;classic&amp;quot; terminal.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/gze-unimor_bosman-8_connection-scheme.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MEMORY MAP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The Bosman 8 is using the floppy disk drive as a virtual memory. Apart from the original 64 KB RAM, 7 more 60 KB banks stored on disk can be accessed through a memory switching technique...&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/gze-unimor_bosman-8_memory-map.jpg</link>
+            </shot>
+        </screenshots>
+        <size>Unknown</size>
+        <sound>Built-in beeper</sound>
+        <speed>4 MHz</speed>
+        <text>80 x 25</text>
+        <type>Professional Computer</type>
+        <vram>Unknown</vram>
+        <year>1987</year>
+    </computer>
+</computers>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<games>
+    <game>
+        <developer>Thinking Rabbit</developer>
+        <genre>Puzzle</genre>
+        <name>Sokoban</name>
+        <players></players>
+        <publisher>Sega</publisher>
+        <releases>
+            <release>
+                <code></code>
+                <country></country>
+                <date></date>
+                <price></price>
+            </release>
+            <release>
+                <code>C-56</code>
+                <country>JP</country>
+                <date>1985</date>
+                <price>&amp;Acirc;&amp;yen;4,300</price>
+            </release>
+            <release>
+                <code>?</code>
+                <country>TW</country>
+                <date>198x</date>
+                <price>NT$?</price>
+            </release>
+        </releases>
+        <romSize>32KB</romSize>
+        <shots>http://segaretro.org/images/e/ed/Soukoban_SG_title.png</shots>
+        <shots>http://segaretro.org/images/e/e5/Soukoban_SG1000_JP_Box.jpg</shots>
+        <shots>http://segaretro.org/images/c/c6/Soukoban-SG-JP-Cardback.jpg</shots>
+        <shots>http://segaretro.org/images/c/cb/Soukoban-SG-JP-Card.jpg</shots>
+        <shots>http://segaretro.org/images/6/6e/SoukobanSGJPManual.pdf</shots>
+        <systems>SG-1000</systems>
+    </game>
+</games>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;STICKER&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This is a promotional adhesive sticker of the RC 700 Piccolo... What a visionary thought!&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/Regnecentralen_rc700_sticker.jpg</link>
+            </advert>
+        </adverts>
+        <builtInGames>None</builtInGames>
+        <colors>Monochrome</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Z80A</cpu>
+        <description>
+Regnecentralen was a governmental agency founded in 1955 in order to build and run DASK (the first Danish computer), and for doing research in the computer field.
+
+The RC 702 Piccolo (RC 700 was the series) was thus used by most schools in Denmark. It was equiped with a Z80A microprocessor, could be shipped with one or two built-in 5&amp;quot; floppy disc drive and ran CP/M.
+
+The system supported CP/M and UCSD PASCAL, but was usually shipped with RC COMAL-80, a programming language which was used extensively in Danish schools for many years. COMAL was quite popular as a teaching language, especially in Scotland.
+
+
+________
+
+Pictures &amp;amp; info from Henrik Schmidt
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>A graphic expansion board could be installed (More info?)</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/Regnecentralen_rc700_1.jpg</image>
+        <keyboard>RC-721 full-stroke limited keyboard. An extended version with numeric keypad was also available</keyboard>
+        <language>None</language>
+        <links>
+            <link>http://www.datamuseum.dk/site_dk/rc/</link>
+        </links>
+        <manufacturer>Regnecentralen</manufacturer>
+        <media>5.25'' floppy disk driveOptional 8'' floppy disk drive</media>
+        <name>RC 700 Piccolo</name>
+        <numGames></numGames>
+        <origin>Denmark</origin>
+        <peripherals>RC-602 or RC-603 dot matrix printer</peripherals>
+        <ports>Monitor output, Keyboard connector, Parallel connector, Terminal  &amp;amp; Printer serial (V24) connectors, External disk drive connector, Fuse, Monitor power</ports>
+        <power>PSU Built-in</power>
+        <price>About $3500</price>
+        <production></production>
+        <ram>48 KB (expandable to 64 KB)</ram>
+        <rom>2 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;REAR&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;From left to right: &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; - Video monitor output,&amp;lt;br&amp;gt; - Keyboard connector,&amp;lt;br&amp;gt; - Parallel port,&amp;lt;br&amp;gt; - Printer (serial) port,&amp;lt;br&amp;gt; - Terminal (serial) port,&amp;lt;br&amp;gt; - External disk drive (Model RC762) connector,&amp;lt;br&amp;gt; - (below:) Power output for monitor (Model RC752)&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Regnecentralen_rc700_rear.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MOTHER BOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Regnecentralen_rc700_mobo.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SYSTEM DIAGRAM&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Regnecentralen_rc700_diagram.gif</link>
+            </shot>
+        </screenshots>
+        <size></size>
+        <sound>Beeper</sound>
+        <speed>4 Mhz</speed>
+        <text>Unknown</text>
+        <type>Professional Computer</type>
+        <vram></vram>
+        <year>1980</year>
+    </computer>
+</computers>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>None</builtInGames>
+        <colors>8 shades of gray</colors>
+        <controllers></controllers>
+        <coprocessor>None</coprocessor>
+        <cpu>16-bit SPGY-1001 (custom Bandai  manufactured CPU based on the NEC V30 MZ line of processor, the v30 microcode is compatible with x86 instructions)</cpu>
+        <description>
+The WonderSwan was developed by Yokoi Gunpei (known as the father of the Nintendo Game Boy). A low price point and extremely low battery consumption is considered to be the original vision of Yokoi. Sadly, Yokoi died in a car accident before seeing a completed WonderSwan. 
+
+Most of the games for the WonderSwan were based on Japanese Anime series. The system had no success outside of the Japanese domestic market, mainly beacause it was not ditributed and marketed efficiently. One of the system's interesting features is the control layout allows for games to be played in either vertical or horizontal position. 
+
+Other than the original WonderSwan's lack of color support it was a brilliantly engineered system. Shame it didn't have success outside of Japan. 
+
+___________
+
+Author : Yuki Itada
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>The first WonderSwan emulator</description>
+                <link>http://cygne.emuunlim.com/</link>
+                <name>Cygne</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Excellent WonderSwan emulator</description>
+                <link>http://calice.emu-france.com/oswan/index.html</link>
+                <name>OSwan</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Another WonderSwan emulator by the Boycott Advance team</description>
+                <link>http://www.zophar.net/ws.html</link>
+                <name>WonderScott</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Very good WonderSwan emulator</description>
+                <link>http://www.zophar.net/ws.html</link>
+                <name>WScamp</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>WonderSwan emulator for the PlayStation Portable (PSP) !</description>
+                <link>http://pspupdates.qj.net/category/Wonderswan/cid/769</link>
+                <name>eSwan</name>
+                <platform>Other platform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>FSTN fixed resolution LCD display 224 x 144 mono</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/bandai_wonderswan-blue_1s.jpg</image>
+        <keyboard>integrated into system chassis (11 software addressable buttons, 1</keyboard>
+        <language>None</language>
+        <links>
+            <link>http://cygne.emuunlim.com/files/wstech21.txt</link>
+            <link>http://www.bandai-asia.com/wonderswan/</link>
+            <link>http://www.planet-pockets.de/?show=articlelist&amp;amp;id=68</link>
+            <link>http://www.j-fan.com/swansong/</link>
+            <link>http://www.wonderswan.co.uk/</link>
+            <link>http://wonderwitch.qute.co.jp/</link>
+            <link>http://jekyll.hp.infoseek.co.jp/english/</link>
+        </links>
+        <manufacturer>Bandai</manufacturer>
+        <media>proprietary ROM cartridges with the ability to have a small amount of EEPROM for game saves (max 16 MB)</media>
+        <name>WonderSwan</name>
+        <numGames></numGames>
+        <origin>Japan</origin>
+        <peripherals></peripherals>
+        <ports>Accessory port (allows system communication and headphone adapter)</ports>
+        <power>1 AA battery (30 hours autonomy!) or Rechargeable Battery Pack</power>
+        <price>4800 yen (Japan, 1999)</price>
+        <production>December 2000 (replaced by WonderSwan Color)</production>
+        <ram>16 KB</ram>
+        <rom>1 KB save EEPROM</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SKELETON BLUE WONDERSWAN&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/bandai_wonderswan-blue_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SKELETON BLACK WONDERSWAN&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Skeleton Black WonderSwan playing Space Invaders&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/bandai_wonderswan-black_1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>74.3 mm x 121 mm x 24.3 mm / 110 gr</size>
+        <sound>4 channel stereo 4/8 bit sample size audio (mono through systems internal speaker)</sound>
+        <speed>3.072 MHz</speed>
+        <text></text>
+        <type></type>
+        <vram>shared with system RAM</vram>
+        <year>April 1999</year>
+    </computer>
+</computers>

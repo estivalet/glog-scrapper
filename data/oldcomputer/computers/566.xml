@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MEMORY BOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Vector Graphics also sold various cards for any S-100 systems. This one is a 8 Kb. static RAM card solded for $265 in kit version and $350 assembled.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/VectorGraphics_Vector1_Advert_2.jpg</link>
+            </advert>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;1977 ADVERT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/VectorGraphics_Vector1_Advert_1.jpg</link>
+            </advert>
+        </adverts>
+        <builtInGames>None</builtInGames>
+        <colors>Monochrome</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Intel 8080A</cpu>
+        <description>
+The Vector 1 was a clone of the ALTAIR 8800 based on the common S-100 bus structure and the Intel 8080A microprocessor. It was sold under kit or assembled versions.
+
+Vector Graphics said it offered a stronger cabinet and a well-designed power supply. To reduce selling price, front panel didn't offer any switch or control led. In its basic version, the computer could be connected to a tape recorder and a serial terminal and offered a bootstrap ROM monitor.
+_______________________</description>
+        <emulators/>
+        <graphics></graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/VectorGraphics_Vector1_System_1.jpg</image>
+        <keyboard>Depends on the video terminal used</keyboard>
+        <language>None</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=799</link>
+            <link>computer.asp?st=1&amp;amp;c=797</link>
+            <link>computer.asp?st=1&amp;amp;c=247</link>
+            <link>http://www.vectorgraphics.org.uk</link>
+            <link>http://h-net.msu.edu/cgi-bin/wa?A0=VECTOR-GRAPHIC</link>
+        </links>
+        <manufacturer>Vector Graphics</manufacturer>
+        <media>None</media>
+        <name>Vector 1</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals>S-100 bus cards</peripherals>
+        <ports>18 S-100 bus connectors</ports>
+        <power>Built-in PSU 8 Volts 18 Amp. and 16 Volts 2.5 Amp.</power>
+        <price>Unknown</price>
+        <production>Unknown</production>
+        <ram>1 Kb. expandable to 64 Kb.</ram>
+        <rom>512 bytes (Bootstrap)</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;1+ VERSION&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The 1+ is no more than the 1 version in which has been added an housing for a 5''1/4 F.D. drive.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Vector_Vector1Plus_System_1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>Unknown</size>
+        <sound>No built-in speaker</sound>
+        <speed>2 Mhz</speed>
+        <text>Commonly 80 characters x 25 lines</text>
+        <type>Professional Computer</type>
+        <vram></vram>
+        <year>August 1976</year>
+    </computer>
+</computers>

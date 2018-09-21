@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>assembler interpreter</builtInGames>
+        <colors>No</colors>
+        <controllers></controllers>
+        <coprocessor>unknown</coprocessor>
+        <cpu>CPU board with 112 standard TTL ICs</cpu>
+        <description>
+Little is known about this early computer from german company Triumph Adler. Hopefully, Rudolf L. Sch&amp;ouml;rger who worked there at the time, sent us some very precious information (in German):
+
+&amp;quot;1973 begann bei Triumph-Adler die Serienproduktion der TA 1000.
+
+Ich war damals im Pr&amp;uuml;ffeld t&amp;auml;tig. Nur mit einem Oszillografen ausger&amp;uuml;stet, mu&amp;szlig;te ich defekte CPUs reparieren. Das ging nur deshalb, weil an die TA1000 ein Testtablau anschlie&amp;szlig;bar war. Mit diesem konnten auf der Hardwareebene alle Funktionen eines Debuggers ausgef&amp;uuml;hrt werden. 
+
+Insgesamt habe ich 6 Jahre an der TA 1000 gearbeitet. Erst im Pr&amp;uuml;ffeld, dann als Service-Techniker, dann als Programmierer. Daneben habe ich zwei IO-Karten gebaut. Je eine f&amp;uuml;r einen 3-Farben-Strichcodeleser und einen OCR-Schriftscanner. F&amp;uuml;r beide habe ich die Treiber und die Anwendungssoftware geschrieben.
+
+Ich bin stolz darauf, von Anfang an dabei gewesen zu sein. Mit einem Computer, der all das konnte, was ein Desktop-Computer von IBM oder Appel erst 10 Jahre sp&amp;auml;ter konnte. Der einzige Nachteil der TA 1000 bestand nur darin, so gro&amp;szlig; und schwer zu sein wie ein &amp;quot;Desk&amp;quot;.
+
+Die CPU war eine Platine 28cm mal 30cm gro&amp;szlig; mit 112 Standart-TTL ICs best&amp;uuml;ckt. Es war eine 8Bit CPU mit 16 Bit Adresse. Der Betriebssystemspeicher war eine extra Platine mit EPROMS vom Typ 1701 best&amp;uuml;ckt.  Als Memory gab es eine doppelbreite Platine mit 4 KByte Kernspeicher. Am Anfang gab es noch IO-Platinen f&amp;uuml;r Tastatur, Nadeldrucker, Lochstreifenleser und Lochkartenleser, dann Kassettenband-Laufwerke. Sp&amp;auml;ter kamen noch Karten f&amp;uuml;r 8 Zoll Floppydisk, SRAM Memory, verschiedene Drucker, Magnetstreifen-Buchungskarten und eine IO-Karte zum Anschlu&amp;szlig; eines externen DF&amp;Uuml;-Modems ( dies wurde von der Post gestellt ). Sp&amp;auml;ter gab es dann kurz vor Einstellung der Serie noch ein Display.
+
+Das Betriebssystem war eigentlich nur ein Interpreter des vorcompilieren Assemblercodes. Von den 4 kByte Memory brauchte das Beriebssystem f&amp;uuml;r sich 1 KByte, so da&amp;szlig; f&amp;uuml;r die Anwendungssoftware nur 3 kByte &amp;uuml;brig blieben. Aber es war zur Zufriedenheit aller Anwender m&amp;ouml;glich alle n&amp;ouml;tigen Programme f&amp;uuml;r die B&amp;uuml;roarbeit zu erstellen. Allerdings konnte immer nur ein Programm laufen.
+
+Die Software wurde am Anfang noch in Assembler geschrieben, auf Lochkarten gestanzt und eingelesen. Das fertige Programm wurde auf Magnetbandkassette gespeichert. Durch das Ausn&amp;uuml;tzen von IO-Wartezeiten konnte man konnte man parallelaufende Tasks programmieren. Da es aber keine &amp;Uuml;nterst&amp;uuml;tzung durch das Betriebssystem gab wurde sowas so gut wie nie benutzt. Sp&amp;auml;ter gab es einen Cobol-Compiler. Sein Erfolg war aber nicht toll, da die Programme zu gro&amp;szlig; f&amp;uuml;r den teueren Speicher wurden.
+
+Die TA 1000 war durchaus ein Erfolg auf dem deutschen B&amp;uuml;romarkt, das Konkurenzprodukt von Olivetti hatte das Nachsehen. Viele TA 1000er wurden bei Steuerberatern eingesetzt, die &amp;uuml;ber DF&amp;Uuml; mit ihrem Rechenzentrum DATEV verbunden waren. Viele Gemeindeverwaltungen waren mit dem Rechenzentrum AKDB verbunden. Auch die Deutsche Bundesbahn hat viele TA 1000er an ihren Fahrkartenschaltern eingesetzt.&amp;quot;
+
+Ron Powell, who worked for Triumph Adler in Sydney, Australia on the TA 1000 series as a tech, and later a programmer, also sent us this interesting testimony: 
+
+&amp;quot;The first model was a TA 1000. This was released in about 1975 ? and I attended a training course in Nuremberg, Germany for six weeks. The course was in German !!! with some rough translation done by an Italian so most of my knowledge was picked up by tinkering and reading logic and circuit diagrams. 
+
+The TA 1000 was built before floppy disks were in production even though we tried some prototypes. The first model was equiped with data cassettes (same size as audio cassettes). All machines had three cassette drives. We developed commercial applications - billing (invoicing where I come from), payroll etc. We had to design &amp;amp; develop all applications from scratch because anything else was in German. The proceedure was to do data entry and capture the transaction details on cassette. This cassette was then sorted into account number order using a three tape sort. Next the customer masterfile cassette was read together with the sorted transaction cassette, the invoices printed and a new masterfile written to the third cassette with updated balance details etc. Of course there were occasional read errors during this process so we had to write some pretty complex code at a low level to get around this problem. 
+
+The programming language was pretty much identical to IBM 360/370 assembler (e.g. MVC A,B,L = move L characters from B to A - or was it from A to B ?) which meant that only one typo would cause catastrophic results and probably send the system into an endless loop.&amp;quot;
+
+________
+
+Contributors : Rudolf L. Sch&amp;ouml;rger, Ron Powell
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>unknown</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/triumph-adler_TA-1000_moya_1s.jpg</image>
+        <keyboard>unknown</keyboard>
+        <language>assembler interpreter</language>
+        <links>
+            <link>http://home.afrika.net/admen1.htm</link>
+        </links>
+        <manufacturer>Triumph Adler</manufacturer>
+        <media>unknown</media>
+        <name>TA-1000</name>
+        <numGames></numGames>
+        <origin>Germany</origin>
+        <peripherals>unknown</peripherals>
+        <ports>unknown</ports>
+        <power>unknown</power>
+        <price>unknown</price>
+        <production></production>
+        <ram>4 KB</ram>
+        <rom>unknown</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;TA-1000&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;from spanish commercial flyer&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/triumph-adler_TA-1000_moya_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;TA-1000 IN ACTION&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/triumph-adler_ta1000_1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>unknown</size>
+        <sound>unknown</sound>
+        <speed>unknown</speed>
+        <text>unknown</text>
+        <type>Professional Computer</type>
+        <vram></vram>
+        <year>1973</year>
+    </computer>
+</computers>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>MCL extended Basic</builtInGames>
+        <colors>16 ?</colors>
+        <controllers></controllers>
+        <coprocessor>TMS 9129 (video display unit)</coprocessor>
+        <cpu>Z80A</cpu>
+        <description>
+This is a rare case of a home computer planned and produced in Italy.
+
+This somewhat obscure computer is &amp;quot;almost&amp;quot; a MSX 1 machine without bearing any MSX logo. The only difference seems to be that instead of MSX Basic it has a &amp;quot;MCL extended Basic&amp;quot;.
+
+MSX-1 modules are known to be usable on this machine without problems. The computer looks very much like an ordinary keyboard. It seems that this machine has a very tight relation to the courses of the &amp;quot;2f&amp;quot; computer school. The manufacturer, Frael (Florence, Italy) belongs to the same company as &amp;quot;2f&amp;quot; and
+both are still existing today.
+
+The first version occurred in 1987, the second in 1988, distinguishable only by the motherboards and serial numbers (see the following examples):
+
+1987: AE/821
+1988: 08971
+
+This machine seems to be not only obscure, but also rather rare.
+
+________
+
+Contributors : Fritz Hohl
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>256 x 192 dots</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/frael_bruc100_1s.jpg</image>
+        <keyboard>Full-stroke keyboard, 107 keys</keyboard>
+        <language>MCL extended Basic</language>
+        <links>
+            <link>http://retrocomputing.altervista.org/macchine/bruc100/bruc100.html</link>
+        </links>
+        <manufacturer>Frael</manufacturer>
+        <media></media>
+        <name>Bruc 100</name>
+        <numGames></numGames>
+        <origin>Italy</origin>
+        <peripherals></peripherals>
+        <ports>2 Joystick sockets, cartridge slot, Tape-recorder, TV output, Monitor &amp;amp; Audio output, Centronics interface</ports>
+        <power>Built-in power supply unit</power>
+        <price>Unknown</price>
+        <production>1990 (assumed)</production>
+        <ram>64 KB (28815 bytes free)</ram>
+        <rom>32 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BRUC 100&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/frael_bruc100_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;REAR&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;From left to right: &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; - power button,&amp;lt;br&amp;gt; - power cord connector,&amp;lt;br&amp;gt; - TV output,&amp;lt;br&amp;gt; - monitor &amp;amp; audio output (DIN 7 PIN),&amp;lt;br&amp;gt; - user port (50 PIN),&amp;lt;br&amp;gt; - Centronics interface (14 PIN),&amp;lt;br&amp;gt; - tape interface (DIN 7 PIN)&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/frael_bruc100_rear.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MOTHER BOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/frael_bruc100_mobo.jpg</link>
+            </shot>
+        </screenshots>
+        <size>Unknown</size>
+        <sound>General Instruments AY-3-8910 Programmable Sound Generator;  channels, 8 octaves</sound>
+        <speed>3.5 MHz</speed>
+        <text>40 chars. x 24 lines</text>
+        <type>Home Computer</type>
+        <vram>16 KB</vram>
+        <year>1987</year>
+    </computer>
+</computers>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Hexadecimal monitor</builtInGames>
+        <colors></colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Z80 (LH-0080 Sharp version)</cpu>
+        <description>
+In 1978, the Sharp parts division, in charge of semiconductor sales, became one of the first second source distributor of Zilog CIE. In order to promote the LH-0080 (Sharp Z80) and associated chips, the division thought up and sold two training cards based on the LH-0080 processor and the LH-0081 PIO chip. These two cards were the SM-B-80TE and the SM-B-80TC. 
+The major difference between these two models is the keyboard that is here separated from the main board. Still, the keys and display arrangements are exactly the same as the 80TE. It could also be connected to the 80TE system. 
+Programs entered could be recorded on a cassette tape. A a second I/O connector, managed by a Sharp Z80 PIO allowed the user to connect peripheral devices like a printer. The board could be a part of a larger computer made of several cards mounted onto a backplane due to a second large 100-pin connector (S-100?).
+Thanks to Ohishi Nuboaki and his Sharp MZ dedicated 
+
+
+</description>
+        <emulators/>
+        <graphics></graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/Sharp_SM-B-80T_System_1.jpg</image>
+        <keyboard>Mechanical 25 keys - Hexadecimal and function keys</keyboard>
+        <language>Hexadecimal monitor</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=556</link>
+            <link>computer.asp?st=1&amp;amp;c=701</link>
+        </links>
+        <manufacturer>Sharp</manufacturer>
+        <media>Cassette interface (1200 bauds)</media>
+        <name>SM-B-80TC</name>
+        <numGames></numGames>
+        <origin>Japan</origin>
+        <peripherals></peripherals>
+        <ports>100-pin expansion connector, 2 x Z80 PIO interface connectors</ports>
+        <power>External 5V / 2A power supply unit</power>
+        <price>Unknown</price>
+        <production></production>
+        <ram>1 KB static RAM expandable to 3 KB (2114 chips)</ram>
+        <rom>1 KB expandable to 2 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MOTHERBOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Sharp_SM-B-80T_MotherBoard_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;KEYBOARD - DISPLAY MODULE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Sharp_SM-B-80T_DisplayUnit_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;DISPLAY CLOSE-UP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Data's were displayed as 16-bit, 4-digit hexadecimal values.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Sharp_SM-B-80T_Display_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;THE BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Japanese box.&amp;lt;br&amp;gt; It seems that the system was never sold outside Japan.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Sharp_SM-B-80T_Box_1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>27 (W) x 19(D) cm. Keyboard: 13.9(W) x 19(D) cm.</size>
+        <sound></sound>
+        <speed>2.4576 Mhz.</speed>
+        <text>8 x 7 segment Led display</text>
+        <type>Home Computer</type>
+        <vram></vram>
+        <year>1977</year>
+    </computer>
+</computers>

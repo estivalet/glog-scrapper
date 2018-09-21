@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>CD Player + Memory Card manager</builtInGames>
+        <colors>16.7 million palette, 32768 on screen</colors>
+        <controllers></controllers>
+        <coprocessor>GTE (Geometry Transformation Engine), Data Decompression Engine (MDEC), GPU, SPU</coprocessor>
+        <cpu>32 bit MIPS R3000A</cpu>
+        <description>
+After Sony and Nintendo's collaboration on the Super CD-ROM came to an end, Sony continued their research and decided to make a stand alone console. A deal was reached with Nintendo to allow the Play Station (as it was called then) to play SNES cartridges. This feature was dropped from the final design, and the name changed to PlayStation.
+
+A powerful machine, the PlayStation featured 3D graphics capabilities which at the time were remarkable. Games like Tomb Raider made 3D game worlds popular and effectively put an end to the 2D shoot 'em ups and platformers which had been around since the late '70s and early '80s. 
+
+Early units suffered from problems with the laser mechanism. The CD tray was made from plastic and over a period of time would wear away resulting in games no longer working. A common solution was to turn the console on its side or even upside down to relieve stress on the laser's motor. Later units had a metal tray to prevent this problem. 
+
+Even to this day the PlayStation is often wrongly referred to as the PSX, the correct term being PS. PSX was the name given to the PlayStation based arcade hardware and later a Japanese only version of the PS2, which was capable of digital video recording and featured either a 160 GB or 250 GB hard drive.
+ 
+A redesigned machine named PSone was released in 2000. This smaller version lacked the serial port but was otherwise fully compatible with older games. The PS and PSone achieved combined sales of more than 102 million units between them, making the PlayStation the first ever console to break the 100 million mark. In the process PlayStation became a household name, ended Nintendo's domination of the market and fought off competition from Sega's Saturn and Dreamcast, which no doubt had an influence on Sega's decision to pull out of the console hardware business.
+
+______________
+
+Contributors: Ste (text &amp;amp; info)
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>The best Playstation emulator out there!</description>
+                <link>http://www.epsxe.com/</link>
+                <name>ePSXe</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Great speed and compatibility. Easy to use.</description>
+                <link>http://psxemulator.gazaxian.com</link>
+                <name>pSX</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>256x224 to 640x480</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/sony_playstation_1s.jpg</image>
+        <keyboard>Original - 8-way d-pad, 8 buttons + Start + SelectDual Analog - 8-way d-pad, 10 buttons + Start + Select, two analogue sticksDualShock had the same layout but was able to vibrate</keyboard>
+        <language>CD Player + Memory Card manager</language>
+        <links/>
+        <manufacturer>Sony</manufacturer>
+        <media>CD-ROMs</media>
+        <name>PlayStation</name>
+        <numGames></numGames>
+        <origin>Japan</origin>
+        <peripherals></peripherals>
+        <ports>Expansion port, Serial port, AV out, 2 Memory Card slots, 2 controller ports</ports>
+        <power>PSU built-in</power>
+        <price>$299.99 (U.S.A. 1995), &amp;pound;299.99 (U.K. 1995)</price>
+        <production>2000 (PS), 2006 (PSone)</production>
+        <ram>2 MB main, 512 KB sound</ram>
+        <rom>512 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;PLAYSTATION&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/sony_playstation_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;PSONE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/sony_psone_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;PSONE - PROMOTIONAL PICTURE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/sony_psone_2.jpg</link>
+            </shot>
+        </screenshots>
+        <size>260mm x 185mm x 45mm / 1.5 KgPSOne: 193mm x 144mm x 38mm</size>
+        <sound>16 bit, 24 channel PCM</sound>
+        <speed>33.8688 MHz</speed>
+        <text></text>
+        <type></type>
+        <vram>1 MB</vram>
+        <year>1994 (Japan) - 1995 (USA &amp;amp; Europe)</year>
+    </computer>
+</computers>

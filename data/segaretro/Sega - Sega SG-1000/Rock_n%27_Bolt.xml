@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<games>
+    <game>
+        <developer>Activision,  Sega</developer>
+        <genre>Puzzle</genre>
+        <name>Rock n' Bolt</name>
+        <players>1-2 (alternating)</players>
+        <publisher>Sega</publisher>
+        <releases>
+            <release>
+                <code></code>
+                <country></country>
+                <date></date>
+                <price></price>
+            </release>
+            <release>
+                <code>C-54</code>
+                <country>JP</country>
+                <date>1985</date>
+                <price>&amp;Acirc;&amp;yen;4,300</price>
+            </release>
+            <release>
+                <code>?</code>
+                <country>TW</country>
+                <date>198x</date>
+                <price>NT$?</price>
+            </release>
+        </releases>
+        <romSize>32kB</romSize>
+        <shots>http://segaretro.org/images/6/65/Rocknbolt_Title.png</shots>
+        <shots>http://segaretro.org/images/0/00/Rocknbolt_SG1000_JP_Box.jpg</shots>
+        <systems>SG-1000</systems>
+    </game>
+</games>

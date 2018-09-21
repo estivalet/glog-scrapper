@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>None</builtInGames>
+        <colors>Monochrome</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>80C86, CMOS version of the 8086</cpu>
+        <description>
+The GridLite was less innovative than the earlier Grid versions and was comparable to many other laptops of the time. However, its 4.77 MHz clock rate clearly compromised its performance front of its main 7 MHz competitors, the Toshiba T-1100 Plus, and the Zenith Z-171.
+
+One of its strong points was a new blue/yellow supertwist LCD screen which offered superior contrast and could be viewed from 45 degrees off to the side. The second original feature consisted in eight ROM sockets which allowed to put up to 1 MB of ROM software in the machine, including specific GridLite ROM cartridges. 
+
+One peculiarity of this ROM area was that both ROM software and 3.5&amp;quot; built-in floppy disk drive were called A:. This allowed, for example, the system to boot on the MS-DOS in ROM and automatically call the Autoexec.bat, Config.sys or any application file from the diskette.
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>320 or 640 x 200 dots</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/Grid_GridLite_System_s1.jpg</image>
+        <keyboard>71 keys including 12 function keys</keyboard>
+        <language>None</language>
+        <links/>
+        <manufacturer>Grid</manufacturer>
+        <media>3.5'' 720 KB DS/DD floppy disk drive. Optional second external FDD</media>
+        <name>GridLite</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals>640 KB RAM expansion ($600)External 3.5'' FDD ($295)Ni-Cd battery ($175)512 KB EMS RAM ($295), 1 MB EMS RAM ($395)Hayes compatible modem 1200-baud ($395), 2400-baud ($595)</peripherals>
+        <ports>RS-232C serial, Parallel, External 3.5'' FDD, RGB video, Modem jack</ports>
+        <power>External AC adaptor or Ni-Cd battery (3 to 4 hours lifetime)</power>
+        <price>$1750 (128 KB version)</price>
+        <production>Unknown</production>
+        <ram>128 KB up to 640 KB on board, up to 1 MB external EMS</ram>
+        <rom>Up to 1 MB</rom>
+        <screenshots/>
+        <size>34 (W) x 28.5 (D) x 7.1 (H) cm / 4.5 kg</size>
+        <sound>Beeper</sound>
+        <speed>4.77 MHz</speed>
+        <text>80 chars. x 25 lines</text>
+        <type>Professional Computer</type>
+        <vram>16 KB</vram>
+        <year>1987</year>
+    </computer>
+</computers>

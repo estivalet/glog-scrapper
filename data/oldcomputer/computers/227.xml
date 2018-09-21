@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;US AD (JULY, 1983)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/spectravideo_SV318_ad_us_1.jpg</link>
+            </advert>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FRENCH AD (DEC.1983)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Valric-Laurène was the french importer of the Spectravideo SV-318.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/spectravideo_sv-318_ad_valric-laurene_1.jpg</link>
+            </advert>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FRENCH AD (DEC.1983)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/spectravideo_sv-318_ad_les-bornes_2.jpg</link>
+            </advert>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FRENCH ADVERT.&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/spectravideo_sv318_advert_bornes.jpg</link>
+            </advert>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;GERMAN AD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/spectravideo_sv318_german-ad_1.jpg</link>
+            </advert>
+        </adverts>
+        <builtInGames>SV Microsoft Basic</builtInGames>
+        <colors>16</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Zilog Z80</cpu>
+        <description>
+The Spectravideo SV-318 has characteristics very close to the MSX machines (same video, sprites, sound, I/O, etc.). It was even sold as an MSX computer in some places, but it is not fully MSX compliant and can't use MSX programs. 
+
+Notice that instead of using cursor keys, the Spectravideo uses a small joystick, which emulates cursor keys.
+
+The photo above shows the SV318 with its expansion base. This provides 64 KB RAM, a 80 column video and a floppy disk controller and its floppy drive (5.25&amp;quot;), with all these peripherals, the SV318 can run under CP/M.
+
+A more professional version of the SV318 was launched a while later: the SV-328 (which has 80 KB RAM and a numeric keyboard and the SV-728 case).
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <link>http://www.acc.umu.se/~yarin/sviemu/</link>
+                <name>SVI-318 / SVI-328 emulator</name>
+                <platform>MS DOS emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Excellent free MSX emulator that can reproduce MSX, MSX2, MSX2+, and Turbo-R. The emulator also supports the SVI318/328, and ColecoVision systems ! </description>
+                <link>HTTP://WWW.BLUEMSX.COM</link>
+                <name>blueMSX</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>256 x 192 / 64 x 48</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/spectravideo_sv318_side1.jpg</image>
+        <keyboard>71 keys, calculator type keyboard</keyboard>
+        <language>SV Microsoft Basic</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=228</link>
+            <link>http://www.samdal.com/spectravideo.htm</link>
+        </links>
+        <manufacturer>Spectravideo</manufacturer>
+        <media></media>
+        <name>SV 318</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals>Expansion box, disk-drives, printer, Coleco adaptor</peripherals>
+        <ports>CVBS &amp;amp; RF output, cartridge slot, expansion port, tape</ports>
+        <power></power>
+        <price></price>
+        <production></production>
+        <ram>32 kb (12 kb free with Basic)</ram>
+        <rom>32 kb</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FRONT VIEW&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/spectravideo_sv318_face.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SIDE VIEW&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/spectravideo_sv318_side2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;REAR VIEW&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;We can spot the two expansion connectors and the RGB video output (DIN) on the right.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/spectravideo_sv318_rear.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INSIDE SV-318&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;A traditional and clear design despite some cheeseparing: the keyboard cable, rigid and without connectors must be carefully handled during a disassembling, the graphic circuit cooler is coarsely glued. The left part, much more packed, is the video interface module which can differ, depending of the country where the computer was sold.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;  &amp;lt;b&amp;gt;(1)&amp;lt;/b&amp;gt; Integrated joystick or arrows keypad when the stick is removed.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(2)&amp;lt;/b&amp;gt; SIO 8255 circuit in charge of interfaces management (internal and external joysticks, cassette...).&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(3)&amp;lt;/b&amp;gt; Sound generator AY-3-8910 chipset. (3 voices, 8 octaves and white noises for special effects), same as MSX standard.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(4)&amp;lt;/b&amp;gt; 16 memory chips holding 32 Kb. of RAM memory.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(5)&amp;lt;/b&amp;gt; Texas Instruments TMS 9929 video chipset with its glued cooler, same as MSX standard.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(6)&amp;lt;/b&amp;gt; Spectrvideo cassette recorder connector. A standard recorder can't be used.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(7)&amp;lt;/b&amp;gt; RGB video out connector.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(8)&amp;lt;/b&amp;gt; Z80 microprocessor.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(9)&amp;lt;/b&amp;gt; Expansion connector for Spectravideo expansion units.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(10)&amp;lt;/b&amp;gt; Two ROM circuits holding the Microsoft Basic interpreter.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(11)&amp;lt;/b&amp;gt; Connector and housing for ROM cartridges.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Spectravideo_SV318_Inside.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;LUXURIOUS BASIC MANUAL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Spectravideo_SV318_Manual_1.jpg</link>
+            </shot>
+        </screenshots>
+        <size></size>
+        <sound>3 channels, 8 octaves</sound>
+        <speed>3.6 MHz</speed>
+        <text>40 x 24</text>
+        <type>Home Computer</type>
+        <vram>16 kb</vram>
+        <year>1983</year>
+    </computer>
+</computers>

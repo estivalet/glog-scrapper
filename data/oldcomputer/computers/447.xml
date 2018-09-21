@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Basic</builtInGames>
+        <colors>Monochrome</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Z80A</cpu>
+        <description>
+The Laser 50 was a small and cheap computer, nearly pocket sized. It was sold as an educational computer (it's written on it), and in France it was sold in a suitcase along with an introductory cartoon-book....
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>80 x 7 dots</graphics>
+        <hardwares/>
+        <hardwareDescription>There were the following extensions available :
+
+- 4 colors plotter PP-40I
+- Thermic printer TP-20
+- 16k RAM expansion
+- Tape Recorder</hardwareDescription>
+        <image>http://www.old-computers.com/museum/photos/VideoTech_Laser50_System_s1.jpg</image>
+        <keyboard>QWERTY, 46 typewriter keys + 4 function keysCTRL, SHIFT, SPACE, RETURN and ACC (Accent) key with Led built-in</keyboard>
+        <language>Basic</language>
+        <links/>
+        <manufacturer>Video Technology</manufacturer>
+        <media></media>
+        <name>Laser 50 / One</name>
+        <numGames></numGames>
+        <origin>Hong Kong</origin>
+        <peripherals>4 colors plotter PP-40IThermic printer TP-2016 kb RAM expansionTape recorder</peripherals>
+        <ports>Tape-recorder jack, Memory expansion ports, Parallel printer port</ports>
+        <power>4 x UM3 (''AA'') batteriesor 6v DC, 15mA, 22mW with external PSU</power>
+        <price>Unknown</price>
+        <production></production>
+        <ram>2192 bytes (expandable to 18 kb )</ram>
+        <rom>12 kb</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;LARGER VIEW&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/VideoTech_Laser50_System_s2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SIDE VIEWS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The Laser 50 is the size of a &amp;quot;big&amp;quot; pocket computer.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/VideoTech_Laser50_Sides_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;DISPLAY CLOSE-UP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/VideoTech_Laser50_Display_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;CLOSE-UP #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/VideoTech_Laser50_Case_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BOTTOM SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Two trap doors allow to insert batteries and memory expansion module.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/VideoTech_Laser50_Underneath_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;REAR SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;From left to right:&amp;lt;br&amp;gt; • Parallel printer flat connector&amp;lt;br&amp;gt; • external supply and tape recorder jacks.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/VideoTech_Laser50_RearSide_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;OPENED&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The build is of poor quality. Single sided printed circuits with lots of straps, no connectors but only soldered and glued leads and flat cables.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/VideoTech_Laser50_Opened_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;THE ELECTRONICS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The electronics is composed of only 3 ICs. Two Toshiba chipsets (T7812 &amp;amp; T7813) hold the Z80 CPU, the BASIC interpreter and manage the keyboard, display and printer interface. Strangely, each chipset manages half of the LCD display. The third IC is a 4 KB RAM 5116.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(1)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; The twin Toshiba chipsets&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(2)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; LCD display connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(3)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Printer and external supply jacks&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(4)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; 5116 RAM chip, here a Sharp version&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(5)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Keyboard's rubber sheet. Each &amp;quot;bubble&amp;quot; corresponds to a key.  &amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/VideoTech_Laser50_Circuitry_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;USER MANUAL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The manual provides clear and detailed information about the built-in Basic.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/VideoTech_Laser50_Manual_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;THE BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/VideoTech_Laser50_Box_1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>27.5 (W) x 16.3 (D) x 4.2 (H) cm / 700g</size>
+        <sound>Beeper (1 voice, 3 octaves)</sound>
+        <speed>3,58 Mhz</speed>
+        <text>1 line x 16 chars.</text>
+        <type>Home Computer</type>
+        <vram></vram>
+        <year>1985</year>
+    </computer>
+</computers>

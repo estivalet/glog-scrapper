@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Spectrum BASIC interpreter</builtInGames>
+        <colors>8</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Z80A</cpu>
+        <description>
+This was a Slovak Spectrum clone made by Didaktik Skalica Ltd. in communism times (1987). It offered 80 KB RAM.
+
+As all Z80A based computers, it was not possible to address more than 64k. So the Gama computers used a bank switching technique, with two 32k additional RAMs. There was even a LED on the case, which indicated if the RAM have been switched or not!
+
+The Gama computers had a built-in paralel i8255 interface. They used the original Ferranti ULA and had russian made memory chips.
+
+The Gama computers were not fully compatible with the original Sinclair Spectrum due to some system variables differences.
+
+In fact several models were made.
+
+- The first one was black and, as it was made in 1987, it is often called Gama'87. It had a bank switching bug : if you switched the banks and the RAMTOP variable was above 32768, then the computer simply crashed...
+
+- In 1988, the Gama'88 was launched (grey case). It's main difference is that the bank switching bug was repaired.
+
+- One year later, the Gama'89 (guess why) was released because the '88 model was still quite buggy. Some bugs in ROM were corrected and hardware was a little bit changed, so the compatibility was improved. It has only latin character set and a print routine was implemented in ROM. The Gama'99 was the last and the best model of the Gama serie, it was manufactured up to 1992.
+_______________________</description>
+        <emulators/>
+        <graphics>256 x 192 dots</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/Didaktik_Gamma_System_1.jpg</image>
+        <keyboard>Full-stroke keyboard, Sinclair style, 40 keys, reset button</keyboard>
+        <language>Spectrum BASIC interpreter</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=964</link>
+            <link>computer.asp?st=1&amp;amp;c=953</link>
+            <link>computer.asp?st=1&amp;amp;c=459</link>
+            <link>computer.asp?st=1&amp;amp;c=776</link>
+            <link>computer.asp?st=1&amp;amp;c=945</link>
+            <link>computer.asp?st=1&amp;amp;c=916</link>
+            <link>http://www.tk90x.com.br</link>
+            <link>http://www.kompaktservis.cz</link>
+            <link>http://www.homecomputer.de/pages/f_sinclair.html</link>
+            <link>http://www.algonet.se/~rsm/zx/zxclones.html</link>
+            <link>http://tarjan.uw.hu/zxclones_en.htm</link>
+        </links>
+        <manufacturer>Didaktik</manufacturer>
+        <media>None</media>
+        <name>Gama</name>
+        <numGames></numGames>
+        <origin>Slovakia</origin>
+        <peripherals></peripherals>
+        <ports>i8255 interface, expansion bus, TV and monitor output, tape-recorder sockets</ports>
+        <power>External PSU</power>
+        <price> 6000,- Kcs (K&amp;egrave;s) (1987, Czechoslovakia)</price>
+        <production>Unknown</production>
+        <ram>80 KB (16 KB + 2 x 32 KB)</ram>
+        <rom>16 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;GREY VERSION&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Didaktik_Gama_GreySystem_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SIDE VIEW&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Didaktik_Gama_GreySide_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;GREY KEYBOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Didaktik_Gama_GreyKeyboard_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BLACK KEYBOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Didaktik_Gamma_Keyboard_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;REAR CONNECTORS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;From left to right:&amp;lt;br&amp;gt;&amp;lt;br&amp;gt; • Parallel I/O connector&amp;lt;br&amp;gt; • Spectrum compatible I/O Bus connector&amp;lt;br&amp;gt; • DIN plug used simultaneously for external power supply and tape recorder connexions&amp;lt;br&amp;gt; • Monochrome composite video output&amp;lt;br&amp;gt; • TV aerial output. &amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Didaktik_Gama_GreyRear_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INSIDE EXPLAINED&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;(1)&amp;lt;/b&amp;gt; TV aerial output connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(2)&amp;lt;/b&amp;gt; Monochrome composite monitor output connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(3)&amp;lt;/b&amp;gt; DIN plug used simultaneously for external power supply and tape recorder connexions! (see the P.S.U. picture)&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(4)&amp;lt;/b&amp;gt; Ferranti ULA chipset (Same as Sinclair original version)&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(5)&amp;lt;/b&amp;gt; Spectrum compatible I/0 connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(6)&amp;lt;/b&amp;gt; Z80 microprocessor labelled ZILOG&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(7)&amp;lt;/b&amp;gt; Sinclair Operating System and BASIC interpreter 16 KB ROM&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(8)&amp;lt;/b&amp;gt; Parallel interface (unusual) connector&amp;lt;br&amp;gt;   &amp;lt;b&amp;gt;(9)&amp;lt;/b&amp;gt; 8255 Input/Output dedicated chip&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(10)&amp;lt;/b&amp;gt; 64 KB japanese RAM chips bank&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(11)&amp;lt;/b&amp;gt; 16 KB East-European RAM chips bank&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(12)&amp;lt;/b&amp;gt; Power LED (green), Bank switching LED (red) and reset switch&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(13)&amp;lt;/b&amp;gt; The keyboard cable is soldered on both sides. It is thus impossible to disconnect the keyboard from the motherboard&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(14)&amp;lt;/b&amp;gt; TV RF modulator&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Didaktik_Gamma_Inside_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INSIDE GREY VERSION&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The desing of the motherboard is slightly different from the black one.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Didaktik_Gama_GreyInside_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FERRANTI ULA  CLOSEUP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/didaktik80_inside.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INSIDE CLOSEUP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/didaktik80_inside_2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;THE BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Didaktik_Gama_Box_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;IN ITS BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Inside its cardoard box, the Gama was enclosed into a white plastic case.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Didaktik_Gama_GreyPlasticBox_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;USER MANUALS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Didaktik_Gama_Manuals_s1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>27 (W) x 16.5 (D) x 3.6 (H) cm</size>
+        <sound>Beeper (1 voice, 5 octaves)</sound>
+        <speed>Unknown</speed>
+        <text>32 columns x 24 lines</text>
+        <type>Home Computer</type>
+        <vram></vram>
+        <year>1987</year>
+    </computer>
+</computers>

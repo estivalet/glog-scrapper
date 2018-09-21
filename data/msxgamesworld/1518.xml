@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<games>
+    <game>
+        <capturas>
+            <captura>images/capturas/Soukoban (ASCII, 1984) (1).png</captura>
+            <captura>images/capturas/Soukoban (ASCII, 1984) (2).png</captura>
+            <captura>images/capturas/Soukoban (ASCII, 1984) (3).png</captura>
+            <captura>images/capturas/Soukoban (ASCII, 1984) (4).png</captura>
+            <captura>images/capturas/Contra (Konami, 1989) (3).png</captura>
+        </capturas>
+        <caratulas>
+            <caratula>images/caratulas/Soukoban (ASCII, 1984) (ROM Pack).jpg</caratula>
+            <caratula>images/caratulas/Soukoban (ASCII, 1984) (ROM Pack, box back and cartridge).jpg</caratula>
+            <caratula>images/caratulas/Soukoban (ASCII, 1984) (ROM Pack, box front).jpg</caratula>
+            <caratula>images/caratulas/Soukoban (ASCII, 1984) (Cover complete, Tape pack).jpg</caratula>
+            <caratula>images/caratulas/Soukoban (ASCII, 1984) (Tape pack, Tape).jpg</caratula>
+            <caratula>images/caratulas/Soukoban (ASCII, 1984) (ROM Pack, box front).jpg</caratula>
+        </caratulas>
+        <control>Keyboard Joystick</control>
+        <country></country>
+        <developer>Thinking Rabbit/ASCII</developer>
+        <format>ROM cartridge</format>
+        <generation>MSX</generation>
+        <languages>Japanese</languages>
+        <name>Soukoban</name>
+        <players>1</players>
+        <price>4800 JPY</price>
+        <productId>00240</productId>
+        <publisher>ASCII</publisher>
+        <region></region>
+        <releases>
+            <release>
+                <format>Beecard</format>
+                <price>2800</price>
+                <productCode>20138</productCode>
+                <publisher>ASCII</publisher>
+                <year>1984</year>
+            </release>
+            <release>
+                <format>Disk</format>
+                <publisher>Zemina</publisher>
+            </release>
+            <release>
+                <format>Disk</format>
+                <productCode>J18</productCode>
+                <publisher>Sharp-Epcom</publisher>
+            </release>
+        </releases>
+        <remakes/>
+        <requires></requires>
+        <sound>PSG</sound>
+        <type>Puzzle</type>
+        <typeOfLicense></typeOfLicense>
+        <url>http://msxgamesworld.com/gamecard.php?id=1518</url>
+        <year>1984</year>
+    </game>
+</games>

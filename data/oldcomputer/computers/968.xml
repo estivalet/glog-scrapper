@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>one or two 3.5'' floppy discs depending models; single speed CD-ROM, optional hard-drive</builtInGames>
+        <colors>16 M colors palette - up to 32768 on screen</colors>
+        <controllers></controllers>
+        <coprocessor>80387 arithmetic coprocessor</coprocessor>
+        <cpu>Intel 80386dx</cpu>
+        <description>
+Very little is known about this Japanese system. Help welcome !!
+
+It apparently had some success in Japan, with great game conversions. Based on the IBM PC architecture, it had excellent sound and graphic features.
+
+It has the barebone of a classic IBM PC system but was conceived from the start as a real familial multimedia system. Graphic resolutions go from 360x240 to 640x480 with 256 colors simultaneously on screen from a color palette of 16.7 millions colors. Most of these graphic modes have two graphic pages. Up to 1024 sprites can be created, with 16x16 pixels size each.
+
+The sound features are excellent too. It can play stereo CDs of course, thanks to its built-in CD-ROM drive. It also has 8 PCM (Pulse Code Modulation) stereo voices, thanks to a Sega chipset, which is generally used for special effect sounds. A Yamaha FM chipset is also included and offers 6 FM channels, mostly used for melodies...
+
+The FM Towns is delivered with a joypad, a microphone and a mouse. The operating system, Town OS, is graphical and use windows, scrollers, icons, etc. The system is somehow compatible with other IBM PC systems, using a special version of DOS + DOS Extender. It can even run Windows !
+
+Where does the name FM Towns come from? In those days, Fujitsu named its PC products after nobel-prized scientists. So, the codename of the first model of FM TOWNS is thus &amp;quot;Townes&amp;quot;, in honour of Charles Hard Townes, one of the winners of the 1964 Nobel Prize in Physics. But the word &amp;quot;TOWNES&amp;quot; could be pronounced &amp;quot;Tau-Ness&amp;quot;, so to be clear that it has to be pronounced &amp;quot;Townz&amp;quot;, the letter &amp;quot;e&amp;quot; was removed from the codename before production. The word &amp;quot;FM&amp;quot; comes from &amp;quot;Fujitsu Micro&amp;quot;. 
+
+It was followed by the FM Towns II.
+_______________________</description>
+        <emulators>
+            <emulator>
+                <description>Windows emulator</description>
+                <link>http://fmbochs.emuvibes.com/</link>
+                <name>FM Towns Bochs Emulator</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>UNZ Emulator &amp;amp; info</description>
+                <link>http://members.at.infoseek.co.jp/townsemu/index.html</link>
+                <name>UNZ Emulator &amp;amp; info</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>from 256 x 256up to 640 x 480up to 1024 sprites (16x16)</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/fujitsu_fmtowns_1.jpg</image>
+        <keyboard>Full stroke 123 (!) keys with function keys and numeric keypad</keyboard>
+        <language></language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=384</link>
+            <link>computer.asp?st=1&amp;amp;c=126</link>
+            <link>http://assembler.roarvgm.com/FM_towns_computers/fm_towns_computers.html</link>
+            <link>http://homepage2.nifty.com/ftowns/db/sdb.html</link>
+            <link>http://homepage2.nifty.com/ftowns/</link>
+            <link>http://ktj.dip.jp/towns/index_e</link>
+        </links>
+        <manufacturer>Fujitsu</manufacturer>
+        <media>one or two 3.5'' floppy discs depending models; single speed CD-ROM, optional hard-drive</media>
+        <name>FM Towns</name>
+        <numGames></numGames>
+        <origin>Japan</origin>
+        <peripherals>Unknown</peripherals>
+        <ports>SCSI</ports>
+        <power>Built-in power supply unit</power>
+        <price>Unknown</price>
+        <production>Unknown</production>
+        <ram>1 or 2 MB, depending models (max 64 MB)</ram>
+        <rom>Unknown</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FM TOWNS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/fujitsu_fmtowns_2.jpg</link>
+            </shot>
+        </screenshots>
+        <size>Unknown</size>
+        <sound>6 channel FM, 8 channel PCM</sound>
+        <speed>16 MHz</speed>
+        <text>Unknown</text>
+        <type>Home Computer</type>
+        <vram>Unknown</vram>
+        <year>February 1989</year>
+    </computer>
+</computers>

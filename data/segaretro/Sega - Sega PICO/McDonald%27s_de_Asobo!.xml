@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<games>
+    <game>
+        <developer>Sega Toys</developer>
+        <genre>Ethics</genre>
+        <name>McDonald's de Asobo!</name>
+        <players>1</players>
+        <publisher>Sega Toys</publisher>
+        <releases>
+            <release>
+                <code></code>
+                <country></country>
+                <date></date>
+                <price></price>
+            </release>
+            <release>
+                <code>HPC-6079</code>
+                <country>JP</country>
+                <date>1999-07-15</date>
+                <price>&amp;Acirc;&amp;yen;4,980</price>
+            </release>
+            <release>
+                <code>HPC-6125</code>
+                <country>JP (10th Anniversary)</country>
+                <date>2003-06</date>
+                <price>&amp;Acirc;&amp;yen;2,980</price>
+            </release>
+        </releases>
+        <romSize>2MB</romSize>
+        <shots>http://segaretro.org/images/b/bc/MdA_title.png</shots>
+        <shots>http://segaretro.org/images/1/1e/McDdA_Pico_JP_Box.jpg</shots>
+        <shots>http://segaretro.org/images/1/12/MdA_pico_jp_manual.pdf</shots>
+        <shots>http://segaretro.org/images/b/bc/McDdA_Pico_JP_Box_10th.jpg</shots>
+        <systems>Sega Pico</systems>
+    </game>
+</games>

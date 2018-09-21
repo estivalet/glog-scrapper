@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>One or two 5''1/4 800 KB FDD, 5 to 20 MB hard disk</builtInGames>
+        <colors>monochrome</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Motorola MC 68000</cpu>
+        <description>
+The Micromega was built by Thomson (in France) and System Fortune Corp in Great Britain (see this entry for more info).
+
+Two other floppy drives can be connected and four hard disks (5, 10, or 20 MB).
+It can be used on a network with several users: 3 computers can be linked by one rs232 port.
+
+It ran under UNIX and an optional Z80 card was available, so it also could run under CP/M.
+
+_________
+
+Grosminet (France) recalls:
+I worked on this computer in the 80s in a french government ministry where it was used for word processing and custom applications based on the Informix database. French ambassies either had Micromegas (for large ones) or Bull PC clones (for the small ones) that would enable them to run the software we wrote based on the Informix database, as this RDBMS was available on Unix (Micromega) and MS-DOS (Bull Micral 30). That was portability and was not so frequent by these days.
+
+The Micromegas worked well, even if made of low quality plastic case. It used a very old version of Unix, &amp;quot;version 7&amp;quot; (v7 came before System III, the ancestor of System V, the first &amp;quot;modern&amp;quot; Unix). The Operating System would display &amp;quot;Thomson Micromega&amp;quot; but having a deeper look at system files, you would find many comments with &amp;quot;Fortune systems&amp;quot;.
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>800 x 480 (optional high resolution graphic card)</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/thomson_micromega32_2.jpg</image>
+        <keyboard>Full-stroke 99 keys with numeric keypad and 16 function keys</keyboard>
+        <language></language>
+        <links/>
+        <manufacturer>Thomson</manufacturer>
+        <media>One or two 5''1/4 800 KB FDD, 5 to 20 MB hard disk</media>
+        <name>MICROMEGA 32</name>
+        <numGames></numGames>
+        <origin>France</origin>
+        <peripherals>External hard disk, cartridge tape-recorder</peripherals>
+        <ports>External hard-disk unit, Serial RS232, monochrome display</ports>
+        <power>Built-in power supply unit</power>
+        <price>Unknown</price>
+        <production></production>
+        <ram>256 KB (up to 2 MB)</ram>
+        <rom>Unknown</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;ANOTHER PICTURE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/thomson_micromega32_1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>Total system weight : 24 Kgs</size>
+        <sound>Beeper</sound>
+        <speed>6 Mhz</speed>
+        <text>24 lines x 80 chars</text>
+        <type>Professional Computer</type>
+        <vram>Unknown</vram>
+        <year>1983</year>
+    </computer>
+</computers>

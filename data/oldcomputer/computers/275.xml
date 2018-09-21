@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>None</builtInGames>
+        <colors>256</colors>
+        <controllers></controllers>
+        <coprocessor>Sinclair ULA gate array chip</coprocessor>
+        <cpu>Motorola MC 68008</cpu>
+        <description>
+This strange mixture between telephone and computer is actually a Sinclair QL (slightly modified, of course). It is based on the QL motherboard, but with some improvements, namely, ruggedized (in other words, more reliable) Microdrives.
+
+ICL also added some software in ROM: diary, address and phone book, communication software and a terminal emulator. It has a built-in modem and a speech synthesizer.
+
+According to ICL, each executive should have this computer on his desktop !
+
+Two rebadged versions were sold in UK (Merlin Tonto) and Australia (Telecom Computerphone).
+_______________________</description>
+        <emulators>
+            <emulator>
+                <link>http://www.geocities.com/SiliconValley/Heights/1296/winql.html</link>
+                <name>Q-Emulator for Windows 95</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>(Available for Linux)</description>
+                <link>http://web.inter.nl.net/hcc/A.Jaw.Venema/</link>
+                <name>QLAY - SINCLAIR QL EMULATOR for Windows95, DOS</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <link>http://www.geocities.com/SiliconValley/Heights/1296/q-emulator.html</link>
+                <name>QEmulator</name>
+                <platform>Apple emulator</platform>
+            </emulator>
+            <emulator>
+                <link>http://www.geocities.com/SiliconValley/Bay/2602/uqlx_main.html</link>
+                <name>UQLX Homepage</name>
+                <platform>Unix / Linux emulator</platform>
+            </emulator>
+            <emulator>
+                <description>The QL Emulator for Atari ST/TT/Falcon</description>
+                <link>http://rand.thn.htu.se/~johan/qlem.html</link>
+                <name>QLem</name>
+                <platform>Atari emulator</platform>
+            </emulator>
+            <emulator>
+                <link>http://users.aol.com/autismuk/sinclair.htm</link>
+                <name>Sinclair Emulation Homepage</name>
+                <platform>Other platform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>256 x 256 (8 colors) / 512 x 256 (4 colors)</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/icl_opd_1.jpg</image>
+        <keyboard>Full stroke 73-key with numeric keypad</keyboard>
+        <language>None</language>
+        <links>
+            <link>http://www.presshere.com/html/pw8412.htm</link>
+            <link>news:comp.sys.sinclair</link>
+        </links>
+        <manufacturer>ICL</manufacturer>
+        <media>Two microdrives</media>
+        <name>OPD - One Per Desk</name>
+        <numGames></numGames>
+        <origin>United Kingdom</origin>
+        <peripherals>Dual 3.5'' Floppy disc drive unit, Terminal adapter, various software in ROM cartridges</peripherals>
+        <ports>RS232 (2), QL Network (2), Joystick (2), ROM extension, RAM extension</ports>
+        <power>Power is supplied by the monitor</power>
+        <price>Unknown</price>
+        <production></production>
+        <ram>128 KB (extensible to 640 KB)</ram>
+        <rom>From 128 KB to 352 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INSIDE THE OPD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Worth noticing : &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; - 2 free locations for Telephony and RomPack modules &amp;lt;br&amp;gt; - The loudspeaker for the telephone and the speech synthesis&amp;lt;br&amp;gt; - 2 integrated microdrives &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; All elements are assembled without any screw, only plastic clips.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/ICL_OPD_inside_UC_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;REAR&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The back of the OPD reveals only 2 removable modules (Telephony and RomPack modules) and two connectors (Video/Power supply and parallel printer). &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(1)&amp;lt;/b&amp;gt; Double disk drive unit with a connector for an optional second unit&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(2)&amp;lt;/b&amp;gt; Small cartridge used to connect the disk drive through the RomPack module.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(3)&amp;lt;/b&amp;gt; RomPack module which can house 4 ROM cartridges. Three original ICL cartridges contains the telecommunication software&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(4)&amp;lt;/b&amp;gt; Connector for a serial printer&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(5)&amp;lt;/b&amp;gt; Monitor and power supply connector (the power is supplied by the monitor).&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(6)&amp;lt;/b&amp;gt; Telephony module. It handles a classic phone line and a second line for data transfer.&amp;lt;br&amp;gt;  &amp;lt;b&amp;gt;(7-8)&amp;lt;/b&amp;gt; Phone cords.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/ICL_OPD_backside_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;OPD MOTHERBOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;ICL used the Sinclair QL's mother board and transformed it deeply to make it compatible with the specific features of the OPD. The Sinclair Basic ROM were replaced by the operating system of the OPD. The BASIC has thus to be loaded from a disk or MicroDrive tape. &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(1)&amp;lt;/b&amp;gt; Monitor and power supply connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(2)&amp;lt;/b&amp;gt; Parallel printer connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(3)&amp;lt;/b&amp;gt; ROM holding the OPD operating system&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(4)&amp;lt;/b&amp;gt; Motorola 68008 8/16 bit microprocessor running at 7,5 Mhz.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(5)&amp;lt;/b&amp;gt; 128 Kb RAM.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(6)&amp;lt;/b&amp;gt; Keyboard connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(7)&amp;lt;/b&amp;gt; Telephony Module Connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(8)&amp;lt;/b&amp;gt; Input/Output Sinclair chipsets&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(9)&amp;lt;/b&amp;gt; Microdrives connector&amp;lt;br&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/ICL_OPD_MotherBoard_1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>44 (W) x 26.5 (D) x 6.8 (H) cm</size>
+        <sound>TI TMP5220C speech synthesiser / built-in loudspeaker</sound>
+        <speed>7.5 MHz</speed>
+        <text>42 / 64 / 84  chars. x 24 lines</text>
+        <type>Professional Computer</type>
+        <vram>32 KB</vram>
+        <year>1984</year>
+    </computer>
+</computers>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Spectrum Basic interpreter</builtInGames>
+        <colors>16 (8 colours in normal or bright modes)</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>MMN-80 an East European clone version of the Z80-A</cpu>
+        <description>
+Few information about this computer, a Romanian Sinclair ZX-Spectrum clone made from 1988 by Electronica CIE and sold only in Romania in blue or red case colour version. In fact, the colors only differed on the keyboard marquee, the case color being the same. On the red version the background of the keys is darker than on the blue version.
+
+The CIP-03 had a built-in Spectrum compatible BASIC interpreter in ROM. But instead of the original Sinclair copyright text at boot, it shows simply a &amp;quot;BASIC S&amp;quot; string on the center of the bottom line on the screen.
+
+The computer had no joystick interface built in, it could been however purchased separately (in contrast, other romanian Spectrum clones had built-in joystick port.) The keyboard had switches instead of the membrane of the original ZX Spectrum. Though it had a clumsy feeling while typing, it did not wear out easily. The computer had an internal speaker of about 0.5 watts which  gave a very loud noise while loading programs, and there were no way to control the volume...
+
+Apparently the CIP-03 is the most common of all Romanian ZX Spectrum clones.
+
+There was another version called CIP-02 which had only 2 KB ROM containing a copy utility program. The advantage was that the RAM available for copying was 60 KB, more than enough for copying a full 48k program.
+
+The BASIC interpreter was available on cassette tape and needed to be loaded each time the computer was powered on (but not reseted as the 0-16 KB area was protected from interrupts).
+
+__________
+
+Contributors: Sz&amp;aacute;sz Edu&amp;aacute;rd Istv&amp;aacute;n (info)
+
+Calin Popescu, the designer of the CIP-03 sent us this line:
+I was the engineer who led the entire process - from design to manufacture - of this Spectrum clone at Electronica Bucuresti. I think we manufactured about 15000 units until I left Romania in 1993. The production continued for a while after that but I do not have more info. I do have own one protptype.
+
+Geroge Sauciuc from Romania adds:
+The CIP-03 was used in public schools, for informatics classes. this mashine was delivery with tape recorder, external power supply unit, and with one programs tape (all Romanian programs because at this period, all programs must be made in Romania). 
+
+
+Liviu A. Stefanescu reports:
+I am the RF designer ( electrical schematics final version after few revisions, PCB prototyping, several pilot runs, volume production) of the UHF modulator used in the HC models 85 and later. The UHF modulator was transforming the video composite signal into a TV channel signal specific to the standard D/K, usually one of the channels 25..30 , manufactured by I. Electronica was similar to the one used for computers HC85 and later HC models produced by ICE-Pipera. The modulator was a stand alone module that was being added on the Main board as needed. Some versions were not delivered with TV modulator. 
+
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>256 x 192 pixels</graphics>
+        <hardwares/>
+        <hardwareDescription></hardwareDescription>
+        <image>http://www.old-computers.com/museum/photos/Electronica_C1P_System_1.jpg</image>
+        <keyboard>Mechanical 40 keys</keyboard>
+        <language>Spectrum Basic interpreter</language>
+        <links/>
+        <manufacturer>Electronica</manufacturer>
+        <media></media>
+        <name>CIP-03</name>
+        <numGames></numGames>
+        <origin>Romania</origin>
+        <peripherals></peripherals>
+        <ports>Tape recorder, Expansion bus, Composite video, TV aerial, AC adaptor</ports>
+        <power>External power supply unit 5V 3A Central polarity: Plus</power>
+        <price>15000 lei (almost $500)</price>
+        <production></production>
+        <ram>64 KB</ram>
+        <rom>16 KB  (Spectrum O.S. and BASIC)</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BLUE VERSION&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Electronica_C1P_System_2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;RED VERSION&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The red version with the impressive power supply unit&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Electronica_C1P_SystemRed_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;RED AND BLUE VERSIONS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Electronica_C1P_2colours_2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;RIGHT SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Electronica_C1P_System_3.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BACK SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;(1)&amp;lt;/b&amp;gt; Power supply jack&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(2)&amp;lt;/b&amp;gt; Expansion/Bus connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(3)&amp;lt;/b&amp;gt; Tape recorder DIN plug&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(4)&amp;lt;/b&amp;gt; Composite video monitor DIN plug&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(5)&amp;lt;/b&amp;gt; RF modulator output&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(6)&amp;lt;/b&amp;gt; Reset switch   &amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Electronica_C1P_Back_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;KEYBOARD CLOSE-UP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Each key features the same functions as the original ZX-Spectrum&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Electronica_C1P_Keyboard_2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;UNCOVERED KEYBOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;A true mechanical keyboard, much more convenient for quick typing than the original Spectrum one, even if key switches are real simple and so is the 'feeling'.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt; Keys are covered with a transparent red (red version) or black (blue version) plastic cover.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Electronica_C1P_Keyboard_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;CIP MOTHERBOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;About 20 standard chips (most 74-family) are here used in place of the Spectrum ULA custom chip. &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(1)&amp;lt;/b&amp;gt; RF modulator. Produces TV aerial compatible signals&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(2)&amp;lt;/b&amp;gt; System Reset switch&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(3)&amp;lt;/b&amp;gt; Composite video monitor DIN plug&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(4)&amp;lt;/b&amp;gt; Tape recorder DIN plug&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(5)&amp;lt;/b&amp;gt; Keyboard connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(6)&amp;lt;/b&amp;gt; MMN-80 processor (Z80-A clone)&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(7)&amp;lt;/b&amp;gt; Expansion/Bus connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(8)&amp;lt;/b&amp;gt; Power supply jack plug&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(9)&amp;lt;/b&amp;gt; 16 KB EPROM holding the Spectrum BASIC interpreter&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(10)&amp;lt;/b&amp;gt; 64 KB RAM chips (East European MMN 4164)  &amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Electronica_C1P_Motherboard_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MOTHERBOARD CLOSE-UP #1&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;RF modulator area. All the chips used were produced in East European countries. &amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Electronica_C1P_MB_Closeup_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MOTHERBOARD CLOSE-UP #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Processor and memory chips area&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Electronica_C1P_MB_Closeup_2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;USER MANUAL COVER&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;User manual explains all the Spectrum BASIC commands with many example programs, as well as major internal memory addresses meaning. Le BASIC interpreter is called S-BASIC.&amp;lt;br&amp;gt; 'calculator pentru instruire' means 'computer for teaching'&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Electronica_C1P_ManualCover_1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>32.5 (W) x 28(D) x 5.5 (H) cm.</size>
+        <sound>Beeper (10 octaves)</sound>
+        <speed>3.5 Mhz.</speed>
+        <text>32 columns x 24 lines</text>
+        <type>Home Computer</type>
+        <vram></vram>
+        <year>1988</year>
+    </computer>
+</computers>

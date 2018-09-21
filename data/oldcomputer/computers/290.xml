@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Built-in 3.5'' disk drive</builtInGames>
+        <colors>16 / 16 - 256 / 16 among 512 / 131072</colors>
+        <controllers></controllers>
+        <coprocessor>Video chip must be compatible with the Yamaha VG9938 or V9958, sound chip must be compatible with the General Instruments AY8910</coprocessor>
+        <cpu>R800 - Z80A downwards compatible but  5 to 10 times faster than a Z80</cpu>
+        <description>
+Here is the last MSX computer ever made. It is the successor of the MSX 2+ and thus has many characteristics in common. New features include: a new PCM sound chip which can produce digitized sound up to 44 KHz (in assembly language) and a new Z80 downward compatible R800 processor. The user can select the CPU (Z80 or R800) by software.
+
+Panasonic was the only company to produce MSX 2 Turbo R systems: the FS A1. Two versions of the FS A1 were presented, the FS A1 ST and the FS A1 GT. The GT has 512 KB RAM, a MIDI interface and MSX View in ROM (MSX View is the Graphic User Interface compatible with MSX-DOS).
+
+Panasonic stopped the production of the Turbo R when they launched the 3DO game system in 1992. They failed with this system and never returned to MSX.
+Lot of extensions, however, were produced by third-party companies to enhance the Turbo R, among them, an OPL4 Sound Card, a hi-res card (Yamaha V9990) with lot of hardware sprites and IDE or SCSI interfaces.
+
+David Heremans reports:
+There is a mixed mode where you can have +4096 colors
+simultaneously with an extra 16 indexed colors so that still pictures in
+full color can be displayed while the index palatte of 16 redefinable colors
+can be used for all kind of effects. But trying to display that would
+probably be a litle long for the small space reserved for it on the
+page.
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>Excellent free MSX emulator that can reproduce MSX, MSX2, MSX2+, and Turbo-R. The emulator also supports the SVI318/328, and ColecoVision systems !</description>
+                <link>http://www.bluemsx.com/</link>
+                <name>BlueMSX</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>This new MSX emulator can reproduce, among many other MSX, MSX2and  MSX2+ machines, both Panasonic Turbo-R models. Be sure to get the catapult frontend and the system roms from FUNET. </description>
+                <link>http://openmsx.sourceforge.net/</link>
+                <name>openMSX - The MSX emulator that aims for perfection.</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>64 x 48 / 256 x 192 / 256 x 212 / 512 x 212 / 512 x 424</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/msx_turbo_r.JPG</image>
+        <keyboard></keyboard>
+        <language></language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=627</link>
+            <link>computer.asp?st=1&amp;amp;c=775</link>
+            <link>http://www.file-hunter.com/</link>
+            <link>http://www.chez.com/msxfr/turbor.html</link>
+            <link>http://www.faq.msxnet.org/msxtr.html</link>
+        </links>
+        <manufacturer>MSX</manufacturer>
+        <media>Built-in 3.5'' disk drive</media>
+        <name>MSX Turbo R</name>
+        <numGames></numGames>
+        <origin>Japan</origin>
+        <peripherals></peripherals>
+        <ports>Joystick(2), Cartridge(2), RGB, Composite Video, Centronics, External Audio, MIDI (GT version)</ports>
+        <power>Built-in power supply unit</power>
+        <price>ST: $87,800 Yen (Japan, 1990)GT: $99,800 Yen (Japan, 1990)</price>
+        <production></production>
+        <ram>from 256 KB to 512 KB + 32 KB SRAM up to 4 MB with some soldering</ram>
+        <rom>80 KB (Basic) 80KB (MSX Disk Basic) 16KB (MSX-MUSIC Basic) 496KB (MSX View)</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;THE PANASONIC FS A1ST&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+                <link>http://www.old-computers.com/museum/photos/a1st.jpg</link>
+            </shot>
+        </screenshots>
+        <size>425(W) x 292(D) x 89(H)mm / 3.4Kg</size>
+        <sound>AY-8910 + YM-2413 chip (9 channels of music) + PCM = 13 available channels!</sound>
+        <speed>3.579545 MHz (Z80 mode), 7.16 MHz (R800 mode - equivalent to a 28.64MHz  Z80 CPU)</speed>
+        <text>80 x 25 / 40 x 25 / 32 x 25</text>
+        <type>Home Computer</type>
+        <vram>128 KB (up to 192 KB)</vram>
+        <year>1991</year>
+    </computer>
+</computers>

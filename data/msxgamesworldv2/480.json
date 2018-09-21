@@ -1,0 +1,54 @@
+{
+  "name": "Yab-Yum",
+  "url": "http://www.msxgamesworld.com/gamecard.php?id=480",
+  "MGW ID": "480",
+  "Type": "Game",
+  "License": "Amateur",
+  "Developed by": "Tom Gerritsen",
+  "Released by": "Tom Gerritsen",
+  "Year of release": "1985",
+  "Generation": "MSX",
+  "Genre": "Adult",
+  "Format": "Unknown",
+  "Sound": "PSG",
+  "Number of players": "1",
+  "Languages": "Dutch",
+  "Controls": [
+    "Keyboard",
+    "Joystick"
+  ],
+  "Region": "Europe",
+  "Country": "The Netherlands",
+  "capturas": [
+    "images/capturas/Yab-Yum (Tom Gerritsen, 1985) 001.png",
+    "images/capturas/Yab-Yum (Tom Gerritsen, 1985) 002.png",
+    "images/capturas/Yab-Yum (Tom Gerritsen, 1985) 003.png"
+  ],
+  "releases": [
+    {
+      "Publisher": " WlCracks",
+      "Year": [
+        "",
+        "2018"
+      ],
+      "Format": [
+        "ROM image",
+        ""
+      ],
+      "Notes": [
+        "Its basically a C64 like intro demo for YabYum. The original game doesn't work in ROM, doesn't work on MSX2 and higher and starting the game requires keyboard. I wanted to fix and patch that, for easy use with e.g. a Retropie with joystick without using a keyboard. Also a English translated option is available.",
+        "",
+        "",
+        "",
+        "\nWorks fine for me on all emulators. MSX hardware tested with Megaflashroms etc. (It is designed to work in ROM!! So i know it wont work on other methods).",
+        "",
+        "",
+        "",
+        "\nMade in SDCC, C and ASM. The intro is ment as an parody on C64 intros, don't take it to seriously."
+      ]
+    }
+  ],
+  "packs": [
+    "Tape GameCase"
+  ]
+}

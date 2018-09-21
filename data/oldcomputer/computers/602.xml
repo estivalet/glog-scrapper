@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>8085 Assembler, monitor</builtInGames>
+        <colors>Monochrome</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>8085</cpu>
+        <description>
+Not much is known about this UK single board computer, also called PT-502. It was available only on loan to Open University students. The purpose was to teach electronic and computer engineers students how to conceive and build a microprocessor based system. The system was delivered with a peripheral board and a complete course enabling students to experiment both software and hardware problems. 
+
+More info needed about Model 2 and Model 1 (PT-501) systems
+
+Kerry J. Morris reports:
+Oh yes, I remember it well..... (H)ome (E)lectronic (K)it compu(TOR) (!) or something similar.
+I used one myself, as a part of my OU (Open University) studies c. 1986,
+for the course 'TM222 - The Digital Computer'. I think they must have
+originally been developed around 1981.
+A bit clunky, I recall, but a great way of learning about
+microprocessor-based systems. In fact, I continued to use the HEKTOR
+user manual as a convenient and well written 8085 assembly language
+reference for about 10 years afterwards!
+I seem to remember that a few years ago, when the OU revised the courses
+which used HEKTOR, and wanted to replace the (by then) ageing
+technology, they gave students the opportunity to buy a HEKTOR system
+for a minimal sum (but I can't recall exactly how much).
+Since they were only for use with a few specialised OU courses, and were
+loaned to the students for the duration of the course, they are probably
+a bit of a rarity (at least compared to some systems), with perhaps no
+more than a few thousand ever made?
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>Character graphics only</graphics>
+        <hardwares>
+            <hardware type="TM222">
+                <items>
+                    <item>
+                        <description>Hektor Peripheral Board||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;HEKTOR PERIPHERAL BOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/hektor_peripheral_board.jpg</photo>
+                    </item>
+                </items>
+            </hardware>
+        </hardwares>
+        <image>http://www.old-computers.com/museum/photos/Open_Hektor_System_1.jpg</image>
+        <keyboard>Full-stroke 60 keys</keyboard>
+        <language>8085 Assembler, monitor</language>
+        <links/>
+        <manufacturer>Open University, UK</manufacturer>
+        <media></media>
+        <name>Hektor 2</name>
+        <numGames></numGames>
+        <origin>United Kingdom</origin>
+        <peripherals>Expansion board</peripherals>
+        <ports>TV/RF output, composite video, cassette port, 40-pin interface for external peripheral board</ports>
+        <power>External PSU</power>
+        <price>Unknown, available only on loan to Open University students</price>
+        <production></production>
+        <ram>4 KB</ram>
+        <rom>8 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BOXED SYSTEM&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Open_Hektor_Boxed_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MOTHERBOARD EXPLAINED&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;(1)&amp;lt;/b&amp;gt; Seems to be an I/O port plug&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(2)&amp;lt;/b&amp;gt; Tape recorder DIN plug and remote relay&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(3)&amp;lt;/b&amp;gt; Hektor peripheral board 40-pin connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(4)&amp;lt;/b&amp;gt; 8155 I/O chip. Designed for use with 8085 processor. Features 256 bytes of RAM, a timer and I/O ports&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(5)&amp;lt;/b&amp;gt; 8085-A  processor running at 3.072 Mhz. Here a Toshiba version&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(6)&amp;lt;/b&amp;gt; 2 x 2332 chips holding 8 KB of ROM (Monitor and assembler)&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(7)&amp;lt;/b&amp;gt; Thomson SFF-93364 video chip&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(8)&amp;lt;/b&amp;gt; 5-volt power regulator&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(9)&amp;lt;/b&amp;gt; 1 KB video RAM 4118 chip&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(10)&amp;lt;/b&amp;gt; 4 KB main RAM memory - 4 x 4118 chips&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(11)&amp;lt;/b&amp;gt; TV aerial signals modulator&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(12)&amp;lt;/b&amp;gt; Composite video RCA connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(13)&amp;lt;/b&amp;gt; External power supply DIN plug and switch&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Open_Hektor_BoardExpl_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;PERIPHERAL BOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This board, used in conjunction with the Experiments books, enabled the student to use a microcomputer development system and then, design its own microprocessor-based product.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(1)&amp;lt;/b&amp;gt; Opto-detector disc&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(2)&amp;lt;/b&amp;gt; motor&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(3)&amp;lt;/b&amp;gt; Fan&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(4)&amp;lt;/b&amp;gt; Heater bulbs and thermistor&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(5)&amp;lt;/b&amp;gt; Heater control knob&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(6)&amp;lt;/b&amp;gt; General analog knob&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(7)&amp;lt;/b&amp;gt; Data switches and LEDs&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(8)&amp;lt;/b&amp;gt; Ball pins and connecting wires&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(9)&amp;lt;/b&amp;gt; 8155 I/O chip dedicated to various board instruments &amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Open_Hektor_ExpBoard_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;COURSE FOR ENGINEERS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Besides the usual User Manual, the Open University provided a complete course intended for computer engineers students.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Open_Hektor_Manuals_1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>30.5(W) x 26(D) cm. (mother board only)</size>
+        <sound>Simple tone facility, played through TV speaker</sound>
+        <speed>3.024 MHz (using a 6.048 MHz crystal)</speed>
+        <text>16 lines of 64 characters</text>
+        <type>Home Computer</type>
+        <vram></vram>
+        <year>? 1981</year>
+    </computer>
+</computers>

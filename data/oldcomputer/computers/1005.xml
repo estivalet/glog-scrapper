@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>None</builtInGames>
+        <colors>Monochrome</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>68HC000, low-power version of the Motorola 68000</cpu>
+        <description>
+The Mac Portable was Apple's first attempt to produce a portable version of a desktop Macintosh computer. The machine was partially engineered by Alan Kay (designer of the Dynabook), and was the first laptop computer with a GUI interface, along with Atari Stacy.
+
+Apple launched the Mac Portable at the same time as the Mac IIci.  This marketing tactic could be considered questionable given the fact that the IIci featured a 68030 processor running at 25 MHz while the Portable version offered a 68000 (in actual fact, a low-power 68HC000) running at 16 MHz.
+
+This is likely the reason that Portable sales never reached the volume that Apple was hoping for; this despite the fact that the machine was twice as fast as a Mac SE and nearly as fast as a Mac II.
+
+Despite its weight, the Mac Portable was well-designed.  It featured an advanced active-matrix LCD screen, up to 9 MB of SRAM, a 1.44MB floppy disk drive and an optional 40MB 3.5-inch hard disk drive.  Its lead-acid battery -- responsible for most of the machine's weight -- offered 8 to 10 hours of autonomy which was quite an achievement at that time.
+
+18 months after the Portable was first launched, Apple replaced the LCD screen with a backlit version, replaced the SRAM chips with less expensive versions, and offered a lower retail price.  The machine was eventually discontinued six months later, but the system icon made for this computer became the icon for all Mac portables for several years to come.
+
+Note also that the Macintosh Portable was used in space, not without some problems... (see the video).
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>Demonstration version of a commercial software (MS DOS &amp;amp; Win95)</description>
+                <link>http://www.ardi.com/</link>
+                <name>Executor</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>A commercial Software which emulates the Atari ST/TT and the Mac 128/Plus/2 (Win95 / Win NT)</description>
+                <link>http://www.emulators.com/</link>
+                <name>Gemulator</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Same as Apple lisa emulator for unix but ported to windows</description>
+                <link>http://lisa.sunder.net/</link>
+                <name>LisaEm</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>PearPC is an architecture-independent PowerPC platform emulator capable of running most PowerPC operating systems.</description>
+                <link>http://pearpc.sourceforge.net/</link>
+                <name>PearPC</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>good 68K Emulator For Windows</description>
+                <link>http://www.emulators.com/</link>
+                <name>SoftMac</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Demo version of a commercial software (Linux / NextStep)</description>
+                <link>http://www.ardi.com/</link>
+                <name>Executor</name>
+                <platform>Unix / Linux emulator</platform>
+            </emulator>
+            <emulator>
+                <link>http://www.leb.net/vmac/</link>
+                <name>vMac - The Virtual Macintosh Emulator Project</name>
+                <platform>Other platform emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Basilisk II is an Open Source 68k Macintosh emulator. Good emulator, runs on several platforms, even Amiga</description>
+                <link>http://basilisk.cebix.net/</link>
+                <name>Basilisk II</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Mini vMac, a spin off of the program vMac,  emulates a Macintosh Plus and Macintosh SE. So far it works on Macintosh OS, Microsoft Windows, and the X Window System. </description>
+                <link>http://minivmac.sourceforge.net/</link>
+                <name>Mini vMac</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>640 x 400 dots</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/Apple_MacPortable_System_s1.jpg</image>
+        <keyboard>Typewriter 80-key with numeric keypadA trackball could replace the numeric keypad on left or right side.</keyboard>
+        <language>None</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=265</link>
+            <link>computer.asp?st=1&amp;amp;c=271</link>
+            <link>computer.asp?st=1&amp;amp;c=1043</link>
+            <link>computer.asp?st=1&amp;amp;c=160</link>
+            <link>computer.asp?st=1&amp;amp;c=282</link>
+            <link>computer.asp?st=1&amp;amp;c=161</link>
+            <link>computer.asp?st=1&amp;amp;c=162</link>
+            <link>http://www.apple-history.com/</link>
+            <link>http://www.applefritter.com</link>
+            <link>http://www.cmq.qc.ca/cmq.html</link>
+            <link>http://home.earthlink.net/~gamba2/index.html</link>
+            <link>http://www.jagshouse.com/</link>
+            <link>http://www.lowendmac.com</link>
+            <link>http://www.MacForumz.com</link>
+            <link>http://www.macdebate.com</link>
+            <link>http://www.d4.dion.ne.jp/~motohiko/</link>
+            <link>news:comp.sources.mac</link>
+            <link>news:comp.sys.mac.advocacy</link>
+            <link>news:comp.sys.mac.announce</link>
+            <link>news:comp.sys.mac.apps</link>
+            <link>news:comp.sys.mac.comm</link>
+            <link>news:comp.sys.mac.digest</link>
+            <link>news:comp.sys.mac.hardware.misc</link>
+            <link>news:comp.sys.mac.misc</link>
+            <link>news:comp.sys.mac.programmer.help</link>
+            <link>news:comp.sys.mac.programmer.info</link>
+            <link>news:comp.sys.mac.programmer.misc</link>
+            <link>news:comp.sys.mac.system</link>
+        </links>
+        <manufacturer>Apple</manufacturer>
+        <media>1.44 MB floppy disk, optional 40 MB hard disk</media>
+        <name>MACINTOSH Portable</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals></peripherals>
+        <ports>Serial, Parallel, SCSI, 2xADB</ports>
+        <power>6.5V 5A lead-acid battery</power>
+        <price>$6,500</price>
+        <production>October 1991</production>
+        <ram>1 MB up to 9 MB of SRAM</ram>
+        <rom>256 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;LARGE VIEW&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The machine could be delivered with either a numeric keypad or a trackball.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Apple_MacPortable_System_s2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;LEFT SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Apple_MacPortable_LeftSide_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;TOP VIEW&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Apple_MacPortable_TopView_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;CLOSED&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Apple_MacPortable_Closed_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;REAR SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;From left to right:&amp;lt;br&amp;gt;     • Video Output Connector - video output in a proprietry format.  Required an expensive external adaptor box to process the video into a useful format.&amp;lt;br&amp;gt;     • External Floppy Drive Connector&amp;lt;br&amp;gt;     • SCSI Port&amp;lt;br&amp;gt;     • Blanking plate for optional internal modem socket&amp;lt;br&amp;gt;     • ADB Port (mini-DIN)&amp;lt;br&amp;gt;     • Serial Printer Port (mini-DIN)&amp;lt;br&amp;gt;     • Serial Modem Port (mini-DIN)&amp;lt;br&amp;gt;     • Sound Output Jack&amp;lt;br&amp;gt;     • Power jack. Power is supplied by an external AC adaptor. The computer can be switched on only if the AC adaptor is connected and the internal battery is sufficiently charged.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Apple_MacPortable_RearSide_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INSIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(1)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; 40 MB Conner pre-formatted hard disk drive.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(2)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Optional modem card and RAM card slots.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(3)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Battery cover.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Apple_MacPortable_Inside_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;APPLE CARRYING BAG&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Apple_MacPortable_Bag_s1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>38.8 (W) * 37.7 (D) * 10.3 (H) cm / 7.1 kg</size>
+        <sound>8bit stereo output</sound>
+        <speed>16 MHz</speed>
+        <text>bitmap character fonts</text>
+        <type>Portable</type>
+        <vram></vram>
+        <year>September 1989</year>
+    </computer>
+</computers>

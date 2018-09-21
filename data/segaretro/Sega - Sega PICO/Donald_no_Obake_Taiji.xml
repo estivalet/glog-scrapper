@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<games>
+    <game>
+        <developer>Sega</developer>
+        <genre>Educational: Language</genre>
+        <name>Donald no Obake Taiji</name>
+        <players>1</players>
+        <publisher>Sega</publisher>
+        <releases>
+            <release>
+                <code></code>
+                <country></country>
+                <date></date>
+                <price></price>
+            </release>
+            <release>
+                <code>HPC-6005</code>
+                <country>JP</country>
+                <date>1993</date>
+                <price>&amp;Acirc;&amp;yen;3,980</price>
+            </release>
+            <release>
+                <code>HPC-6062</code>
+                <country>JP (Hajimema Series1)</country>
+                <date>1998</date>
+                <price>&amp;Acirc;&amp;yen;2,980</price>
+            </release>
+        </releases>
+        <romSize>512KB</romSize>
+        <shots>http://segaretro.org/images/4/45/DnOT_pico_jp_title.png</shots>
+        <shots>http://segaretro.org/images/3/38/DnOT_Pico_JP_Box.jpg</shots>
+        <shots>http://segaretro.org/images/1/1b/DnOT_Pico_JP_Box_HS.jpg</shots>
+        <shots>http://segaretro.org/images/9/9b/DnOT_pico_jp_manual_hs.pdf</shots>
+        <systems>Sega Pico</systems>
+    </game>
+</games>

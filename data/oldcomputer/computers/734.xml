@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>None</builtInGames>
+        <colors>16, 4 or 2 among 256, depending of the video mode</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Z80 (later 8088)</cpu>
+        <description>
+The Tiki-100 was a Norwegian educational, professional, homecomputer system that was quite popular in schools.
+
+Acutally they first used the name Kontiki-data, and named the first few models Kontiki-100, but had to change the name to Tiki after the Thor Heyerdahl Society, wich owned the rights to the Kontiki name, threatened with a lawsuit.
+
+Five models were available, featuring one or two 80 KB, 200 KB or 800 KB 5'' floppy disc drives. An optional 20MB Winchester harddrive was also available.
+The Tiki-100 could read various disk formats, like Scandis, IBM-PC, Osborne, and ABC-800. The 80 KB format was the same as used in some Xerox-systems.
+The operating-system was called TIKO, and was compatible with CP/M 2.2. It was first called KP/M, but was renamed at the same time as the computer changed the name from Kontiki-100 to Tiki-100.
+
+One could also install an optional Intel-8088 processor-board, adding an extra 256 KB ram to the main 64 KB. A 16-bit operating system called TIKOS was used together with the i8088 board, and managed both the i8088 and Z80 at the same time. TIKOS was developed from CP/M-86, and was compatible with it. MS-DOS 2.11 was also available.
+
+The Tiki-100 had 3 (maybe more?) graphics modes, but no text-mode as it used
+bitmapped graphics only.
+A separate network hub was available that allowed up to 8 (not sure) computers to be connected in a star topology. One of the standard Tiki's serial ports was used for the network, in high speed mode. The server was a Tiki-100 that ran MP/M.
+
+Several programs were developed for the Tiki-100. Most common were: BRUM (a simple wordprocessor), Tiki-Kalk (Spreadsheet), Tiki-BAS (Database),WordStar and SuperCalc and a little snake-type game called Pyton.
+
+ A simple terminal program was also imbedded in the OS, and made it possible to
+connect to a BBS through a 300 or 1200 bps modem. A serial terminal could be
+used to acces the Tiki-100 via one of the serial ports.
+
+Program languages like: C, Fortran, Cobol, BASIC, Pascal was also available.
+
+Thanks to Jon Andre Finnerud and Jorn E.Haugan for information and pictures.
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>TIKI-100 emulator (Amiga &amp;amp; Windows)</description>
+                <link>http://djupdal.org/tiki/emulator/</link>
+                <name>TIKI-100_emul V1.1</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>256 x 256, 512 x 256, 1024 x 256</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/Tiki_100_System_1.jpg</image>
+        <keyboard>Full -stroke QWERTY 92 keys with numeric keypad, arrows and function keys</keyboard>
+        <language>None</language>
+        <links>
+            <link>http://djupdal.org/tiki/</link>
+        </links>
+        <manufacturer>Tiki-Data</manufacturer>
+        <media>1 or 2 5'' FDD - 80, 200, 400 or 800 KB - Optional hard disk</media>
+        <name>Tiki-100</name>
+        <numGames></numGames>
+        <origin>Norway</origin>
+        <peripherals>3 internal expansion slots</peripherals>
+        <ports>2 x Serial ports, 1 x Parallel, Audio out, Analog  and TTL video RGB, composite video, RF modulator</ports>
+        <power>Built-in linear power supply unit</power>
+        <price>12000 NOK (1984, Norway)</price>
+        <production></production>
+        <ram>64 KB</ram>
+        <rom>8 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SYSTEME&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;With monochrome monitor&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Tiki_100_System_2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SYSTEM DIAGRAM&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Tiki_100_Diagram_1.jpg</link>
+            </shot>
+        </screenshots>
+        <size></size>
+        <sound>3-channel/8-octave buildt-in AY-3-8912. Built-in speaker &amp;amp; volume knob</sound>
+        <speed>4 Mhz (Z80), 6 Mhz. (8088)</speed>
+        <text>None</text>
+        <type>Professional Computer</type>
+        <vram>16 KB</vram>
+        <year>April 1984</year>
+    </computer>
+</computers>

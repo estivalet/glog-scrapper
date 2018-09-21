@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MOTOROLA AD.&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;In fact, this advert didn't promote the Macintosh II computer but the 68020 microprocessor.&amp;lt;br&amp;gt; Advert said:&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;#666666&amp;quot;&amp;gt; ...While Apple's choice of the MC 68020 was a smart move, there's no licence on genius: the 68020 is the microprocessor of choice in advanced business system design by such industry leaders as Altos, Alpha Micro, Casio, C.Itoh, Fujitsu, Honneywell Bull, NEC, NCR, Olivetti, Plexus, Ricoh, Sanyo, Sharp, TI, Toshiba and Unisys...&amp;lt;/font&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/Apple_MacII_Advert_1.jpg</link>
+            </advert>
+        </adverts>
+        <builtInGames>None</builtInGames>
+        <colors>16 or 256 among 16.7 millions</colors>
+        <controllers></controllers>
+        <coprocessor>Motorola 68881 (numeric coprocessor)</coprocessor>
+        <cpu>Motorola MC 68020</cpu>
+        <description>
+The Apple Macintosh II was launched in 1987 at the same time as the Macintosh SE. It was considered &amp;quot;revolutionary&amp;quot; because, for the first time, the Macintosh was expandable thanks to its internal slots and had colours (the previous Macintoshes all had monochrome displays). The Mac II also marked Apple's entry into the realm of serious computing. 
+
+It used a more classic keyboard (which looked like a PC keyboard) and proprietary RGB monitor (see 'Read more' section). The internal SCSI hard disk could be replaced with an 80 MB disk. It could run under A/UX (The Apple version of Unix System V version 2).
+
+The Macintosh II was followed in September 1988 by the Macintosh IIx. The IIx had the same specifications as the Mac II. It used a 68030 CPU and a 68882 FPU instead of the 68020 and the 68881, an 1.44 MB 3.5&amp;quot; floppy drive and removable system ROMs for easier updates.
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>Demonstration version of a commercial software (MS DOS &amp;amp; Win95)</description>
+                <link>http://www.ardi.com/</link>
+                <name>Executor</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Demonstration version of a commercial software (MS DOS &amp;amp; Win95)</description>
+                <link>http://www.ardi.com/</link>
+                <name>Executor</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>A commercial Software which emulates the Atari ST/TT and the Mac 128/Plus/2 (Win95 / Win NT)</description>
+                <link>http://www.emulators.com/</link>
+                <name>Gemulator</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>A commercial Software which emulates the Atari ST/TT and the Mac 128/Plus/2 (Win95 / Win NT)</description>
+                <link>http://www.emulators.com/</link>
+                <name>Gemulator</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Same as Apple lisa emulator for unix but ported to windows</description>
+                <link>http://lisa.sunder.net/</link>
+                <name>LisaEm</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>PearPC is an architecture-independent PowerPC platform emulator capable of running most PowerPC operating systems.</description>
+                <link>http://pearpc.sourceforge.net/</link>
+                <name>PearPC</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>good 68K Emulator For Windows</description>
+                <link>http://www.emulators.com/</link>
+                <name>SoftMac</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>A Mac 128 Emulator for MS DOS / Win97 (available for OS/2 too)</description>
+                <link>http://www.leb.net/vmac</link>
+                <name>vMAC (Virtual MAC)</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>A Mac 128 Emulator for Macintosh !!!</description>
+                <link>http://www.leb.net/vmac</link>
+                <name>vMAC (Virtual MAC)</name>
+                <platform>Apple emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Demo version of a commercial software (Linux / NextStep)</description>
+                <link>http://www.ardi.com/</link>
+                <name>Executor</name>
+                <platform>Unix / Linux emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Demo version of a commercial software (Linux / NextStep)</description>
+                <link>http://www.ardi.com/</link>
+                <name>Executor</name>
+                <platform>Unix / Linux emulator</platform>
+            </emulator>
+            <emulator>
+                <description>for HP-UX and Solaris</description>
+                <link>http://www.mae.apple.com/</link>
+                <name>Macintosh Application Environment (MAE)</name>
+                <platform>Unix / Linux emulator</platform>
+            </emulator>
+            <emulator>
+                <link>http://www.uni-mainz.de/~bauec002/SSMain.html</link>
+                <name>The Official ShapeShifter Home Page</name>
+                <platform>Amiga OS emulator</platform>
+            </emulator>
+            <emulator>
+                <link>http://www.leb.net/vmac/</link>
+                <name>vMac - The Virtual Macintosh Emulator Project</name>
+                <platform>Other platform emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Basilisk II is an Open Source 68k Macintosh emulator. Good emulator, runs on several platforms, even Amiga</description>
+                <link>http://basilisk.cebix.net/</link>
+                <name>Basilisk II</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Mini vMac, a spin off of the program vMac,  emulates a Macintosh Plus and Macintosh SE. So far it works on Macintosh OS, Microsoft Windows, and the X Window System. </description>
+                <link>http://minivmac.sourceforge.net/</link>
+                <name>Mini vMac</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>640 x 480 (The MAC II uses a NUBUS video card, this card could be replaced with any other more powerful one).</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/apple_mac2.jpg</image>
+        <keyboard>Full stroke 81 keys with numeric keypad and cursor keysOptional extended 105 key keyboard with 15 function keys ($229!)</keyboard>
+        <language>None</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=265</link>
+            <link>computer.asp?st=1&amp;amp;c=271</link>
+            <link>computer.asp?st=1&amp;amp;c=1043</link>
+            <link>computer.asp?st=1&amp;amp;c=282</link>
+            <link>computer.asp?st=1&amp;amp;c=1005</link>
+            <link>computer.asp?st=1&amp;amp;c=161</link>
+            <link>computer.asp?st=1&amp;amp;c=162</link>
+            <link>http://www.apple-history.com/</link>
+            <link>http://www.applefritter.com</link>
+            <link>http://www.cmq.qc.ca/cmq.html</link>
+            <link>http://www.cmq.qc.ca/Groupes.html</link>
+            <link>http://www.everythingmac.com/</link>
+            <link>http://home.earthlink.net/~gamba2/index.html</link>
+            <link>http://www.jagshouse.com/</link>
+            <link>http://www.lowendmac.com</link>
+            <link>http://www.MacForumz.com</link>
+            <link>http://www.macdebate.com</link>
+            <link>http://www.nerdworld.com/cgi-bin/page.cgi?MACINTOSH_COMPUTERS/503</link>
+            <link>http://www.d4.dion.ne.jp/~motohiko/</link>
+            <link>ftp://ftp.amug.org/pub/info-mac/</link>
+            <link>ftp://ezinfo.ethz.ch/mac.dir/</link>
+            <link>ftp://ftp.luth.se/pub/mac/</link>
+            <link>ftp://daemon.ncsa.uiuc.edu/Info-Mac-Binaries/</link>
+            <link>ftp://ftp.center.osaka-u.ac.jp/info-mac/</link>
+            <link>ftp://sumex-aim.stanford.edu/info-mac/</link>
+            <link>ftp://src.doc.ic.ac.uk/packages/info-mac/</link>
+            <link>ftp://ftp.technion.ac.il/pub/unsupported/mac/</link>
+            <link>ftp://ftp.ucs.ubc.ca/pub/mac/info-mac/</link>
+            <link>ftp://wwwhost.ots.utexas.edu/mac/main.html</link>
+            <link>ftp://wuarchive.wustl.edu/systems/mac/info-mac/</link>
+            <link>news:comp.sources.mac</link>
+            <link>news:comp.sys.mac.advocacy</link>
+            <link>news:comp.sys.mac.advocacy</link>
+            <link>news:comp.sys.mac.announce</link>
+            <link>news:comp.sys.mac.apps</link>
+            <link>news:comp.sys.mac.comm</link>
+            <link>news:comp.sys.mac.digest</link>
+            <link>news:comp.sys.mac.hardware.misc</link>
+            <link>news:comp.sys.mac.misc</link>
+            <link>news:comp.sys.mac.programmer.help</link>
+            <link>news:comp.sys.mac.programmer.info</link>
+            <link>news:comp.sys.mac.programmer.misc</link>
+            <link>news:comp.sys.mac.system</link>
+        </links>
+        <manufacturer>Apple</manufacturer>
+        <media>1 or 2 3.5'' floppy disc drives</media>
+        <name>MACINTOSH II</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals>20 to 80 MB SCSI hard disk</peripherals>
+        <ports>Six Internal NUBUS slots (10 MHz, 32 bits), ADB (2 : Keyboard, mouse), RS232/422 (2), Disk, Monitor</ports>
+        <power>Self configuring switching power supply unit</power>
+        <price>$3769 (1 x 800 KB FDD, 1 MB of RAM)Hard discs: 20 MB ($999), 40 MB ($1599), 80 MB ($2699)</price>
+        <production></production>
+        <ram>1 MB, up to 8 MB on board and 2 GB via NuBus add-on slots</ram>
+        <rom>256 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MAIN BOARD EXPLAINED&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(1)&amp;lt;/Font&amp;gt;&amp;lt;/b&amp;gt; SCSI, VIA1, VIA2, SCC and ADB chips&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(2)&amp;lt;/Font&amp;gt;&amp;lt;/b&amp;gt; 1 to 8 MB RAM in SIMM modules&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(3)&amp;lt;/Font&amp;gt;&amp;lt;/b&amp;gt; 256 KB toolbox ROM&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(4)&amp;lt;/Font&amp;gt;&amp;lt;/b&amp;gt; Memory management custom chip&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(5)&amp;lt;/Font&amp;gt;&amp;lt;/b&amp;gt; Motorola 68020 processor&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(6)&amp;lt;/Font&amp;gt;&amp;lt;/b&amp;gt; Custom gate array chip&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(7)&amp;lt;/Font&amp;gt;&amp;lt;/b&amp;gt; 68881 floating-point coprocessor&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(8)&amp;lt;/Font&amp;gt;&amp;lt;/b&amp;gt; Apple Sound chip&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(9)&amp;lt;/Font&amp;gt;&amp;lt;/b&amp;gt; Internal floppy disk connectors&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(10)&amp;lt;/Font&amp;gt;&amp;lt;/b&amp;gt; NuBus control logic&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(11)&amp;lt;/Font&amp;gt;&amp;lt;/b&amp;gt; NuBus tranceivers&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(12)&amp;lt;/Font&amp;gt;&amp;lt;/b&amp;gt; NuBus slots&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(13)&amp;lt;/Font&amp;gt;&amp;lt;/b&amp;gt; Internal SCSI connector&amp;lt;br&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Apple_MacII_MainBoard_s1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>47.4 (W) x 36.4 (D) x 14 (H) cm / 12 Kg</size>
+        <sound>Apple sound chip - 4 voices 1 channel. Can drive external stereo equipment</sound>
+        <speed>15.66 MHz</speed>
+        <text></text>
+        <type>Professional Computer</type>
+        <vram></vram>
+        <year>1987</year>
+    </computer>
+</computers>

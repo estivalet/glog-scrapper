@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FRENCH ADVERT (1984)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;quot;I clicked&amp;quot;... &amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/coleco_colecovision_advert_click.jpg</link>
+            </advert>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FRENCH ADVERT (1984)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/coleco_colecovision_advert_forthefirsttime.jpg</link>
+            </advert>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FRENCH ADVERT (1984)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/coleco_colecovision_advert_steeringwheel.jpg</link>
+            </advert>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FRENCH ADVERT (1984)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This is an advert from the ILLEL store&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/coleco_colecovision_advert_illel.jpg</link>
+            </advert>
+        </adverts>
+        <builtInGames>Cartridges (8K/16K/24K/32K)</builtInGames>
+        <colors>16</colors>
+        <controllers></controllers>
+        <coprocessor>Texas Instruments TMS9928A (Video display unit), Texas Instruments SN76489AN (Sound generator)</coprocessor>
+        <cpu>Z80A</cpu>
+        <description>
+After the success of their Telstar pong systems in the late 70's, Coleco decided to re-enter the videogame market, inspired by the success of cartridge based systems like the Atari VCS and Mattel Intellivision.
+
+As the Colecovision was released later than these competitors, it was possible for the Coleco engineers to put more hardware in the box while keeping the cost acceptable. The Colecovision is thus powered by a Z80A cpu running at 3.58 MHz. It has 8 KB RAM, 16 KB VRAM, three-channel sound and a powerful video display unit (Texas Instruments TMS9928A) offering 16 colors, 32 sprites and a 256x192 resolution. The result is that when the system was finaly released in summer 1982, it was immediately considered the most technologicaly advanced home console. The games simply had arcade-quality graphics!
+
+But even with this technological superiority, Coleco had to face the competition of Atari big arcade hits licenses and Intellivision realistic sports simulations. Coleco did not have enough money to compete with Atari for big licenses, so they secured licenses for small games with strong followings like Mr DO, Lady Bug, Cosmic Avenger and Venture. And Coleco's good relations with Sega resulted in a Zaxxon cartridge that sported excellent 3D effects.
+
+But the best was to come: one february 1, 1982 Coleco and Nintendo signed an agreement which gave six-months exclusive license for Donkey-Kong! Their excellent version was thus exlusively sold as a pack-in with Colecovision as an incentive to purchase the system, and it worked! The Colecovision was an instant success.
+
+Coleco marketed different add-ons for their console. The Expansion Module #1 is an Atari VCS adapter wich enables the Colecovision to play Atari cartridges! Coleco sold 150,000 Atari adapters in just two months... Atari sued Coleco for $850 million, but lost the case.
+
+The Expansion Module #2 is a complete driving controller with steering wheel, acceleration pedal and gear shift. It was shipped with Sega's classic racing game Turbo. The Expansion Module #3 is the ADAM computer.
+
+A rollet controller was also sold to play games like Slither. The Super Action joysticks, a massive and complete controller, was used to play sports games like Super Action Baseball and Rocky Super Action Boxing.
+
+Colecovision was a great success, selling over six millions units in just three years. Unfortunately, the ColecoVision suffered the same fate as the rest in the great video game shake-out of 1984. Coleco's unsuccessful bug-ridden ADAM computer only complicated the problem, and Coleco stopped production of the ColecoVision in 1984.
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>A great Colecovision emulator for DOS. Also comes with a Coleco ADAM emulator.</description>
+                <link>http://www.komkon.org/~dekogel/adamem.html</link>
+                <name>ADAMEm</name>
+                <platform>MS DOS emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Excellent free MSX emulator that can reproduce MSX, MSX2, MSX2+, and Turbo-R. The emulator also supports the SVI318/328, and ColecoVision systems !</description>
+                <link>HTTP://WWW.BLUEMSX.COM</link>
+                <name>blueMSX</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Nice emulator. There is even a Java emulator on the website!</description>
+                <link>http://www.classicgaming.com/vcoleco/</link>
+                <name>Virtual Colecovision</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Multi-plateform emulator (Unix, Windows, MacOS, MSDOS, OS/2)</description>
+                <link>http://fms.komkon.org/ColEm/</link>
+                <name>COLEM</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+            <emulator>
+                <description>The famous MESS emulator emulates the Colecovision</description>
+                <link>http://www.mess.org</link>
+                <name>MESS</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>259 x 192</graphics>
+        <hardwares>
+            <hardware type="CONTROLLERS">
+                <items>
+                    <item>
+                        <description>Amiga Power-Stick||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;AMIGA POWER-STICK&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/coleco_colecovision_amiga_joystick.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Spectravideo joystick||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SPECTRAVIDEO JOYSTICK&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/coleco_colecovision_spectravideo_joystick.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Wico joystick||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;WICO JOYSTICK&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/coleco_colecovision_wico_joystick.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Unknown brand||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;UNKNOWN BRAND&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This is not a new controller. You just attach a small red joystick on top of the original coleco one... and there you go!&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/coleco_colecovision_topaddon_joystick.jpg</photo>
+                    </item>
+                </items>
+            </hardware>
+            <hardware type="EXPANSION MODULE #1">
+                <items>
+                    <item>
+                        <description>Atari VCS 2600 adapter||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;ATARI VCS 2600 ADAPTER&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This in fact more than a simple adapter. This module incorporates all the hardware of the Atari 2600 systems, thus enabling the Colecovision to play Atari VCS cartridges! You can even use Atari joysticks.&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/coleco_colecovision_2600_1.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Front||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FRONT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;We can spot here the two Atari-standard controller connectors.&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/coleco_colecovision_2600_front.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Rear||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;REAR&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This is the connector used to connect the module to the Colecovision system.&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/coleco_colecovision_2600_rear.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Close-up||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;CLOSE-UP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;There are exactly the same buttons found on the original Atari VCS system: Display color/black&amp;amp;white, Left &amp;amp; Right player difficulty, Reset, Select.&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/coleco_colecovision_2600_closeup.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Connected||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;CONNECTED&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/coleco_colecovision_2600_complete.jpg</photo>
+                    </item>
+                </items>
+            </hardware>
+            <hardware type="EXPANSION MODULE #2">
+                <items>
+                    <item>
+                        <description>Driving Controller||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;DRIVING CONTROLLER&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/coleco_colecovision_racing-module_1.jpg</photo>
+                    </item>
+                </items>
+            </hardware>
+            <hardware type="ROLLER CONTROLLER">
+                <items>
+                    <item>
+                        <description>Track-ball||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;TRACK-BALL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/coleco_colecovision_roller-controller_1.jpg</photo>
+                    </item>
+                </items>
+            </hardware>
+            <hardware type="SUPER ACTION CONTROLLERS">
+                <items>
+                    <item>
+                        <description>The ultimate controller ?||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;THE ULTIMATE CONTROLLER ?&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;For some people this is the ultimate controller: a nice joystick, a 12-button keypad, a knob and 4 buttons. The whole thing designed perfectly. If you haven't tried them already, you have to!&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/coleco_colecovision_superaction_1.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Top||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;TOP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/coleco_colecovision_superaction_up.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Side view||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SIDE VIEW&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/coleco_colecovision_superaction_side.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Rear||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;REAR&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/coleco_colecovision_superaction_rear.jpg</photo>
+                    </item>
+                </items>
+            </hardware>
+        </hardwares>
+        <image>http://www.old-computers.com/museum/photos/coleco_colecovision_3s.jpg</image>
+        <keyboard>2 controllers with joystick, 12-button keypad and two fire buttons</keyboard>
+        <language></language>
+        <links>
+            <link>http://www.colecovision.com/</link>
+            <link>http://coleco.free.fr/</link>
+            <link>http://www.classicgaming.com/colecofaq/</link>
+            <link>http://coleco.freeservers.com/</link>
+            <link>http://my.ohio.voyager.net/~ngsippel/cv.html</link>
+            <link>http://perso.wanadoo.fr/rogue/colecovision.htm</link>
+            <link>http://en.wikipedia.org/wiki/Colecovision</link>
+        </links>
+        <manufacturer>Coleco</manufacturer>
+        <media>Cartridges (8K/16K/24K/32K)</media>
+        <name>Colecovision</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals>Atari VCS 2600 adapter, Driving module, ADAM computer, Trackball, Super joysticks</peripherals>
+        <ports>Power in, Cartridge slot, Video output, Expansion connector, 2 x controller connectors</ports>
+        <power>External power supply</power>
+        <price>$195 (USA, september 1982)</price>
+        <production>1984</production>
+        <ram>8 KB</ram>
+        <rom></rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;COLECOVISION&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/coleco_colecovision_3.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;COLECOVISION&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/coleco_colecovision_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FRONT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/coleco_colecovision_front.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;REAR&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Left is the video/audio output connector, and right is the power in connector.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/coleco_colecovision_rear.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;LEFT SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The controllers are stored in their housing...&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/coleco_colecovision_side.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;RIGHT SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The button at the fore ground is the reset button.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/coleco_colecovision_side_2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;EXPANSION CONNECTOR&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This expansion connector was used by different expansions like the ADAM computer or the VCS 2600 adapter.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/coleco_colecovision_front_2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;TOP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;We can clearly see the controllers housing on the left. Bottom rigth are the on/off switch, cartridge slot and reset button.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/coleco_colecovision_top.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;CONTROLLER&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The Colecovision controller is composed of a &amp;quot;mushroom&amp;quot; joystick, 12-button keypad and fire buttons on each side (they both have the same function).&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/coleco_colecovision_controller.jpg</link>
+            </shot>
+        </screenshots>
+        <size>38 x 24 x 7 cm</size>
+        <sound>3 tone channels, 1 noise (Texas Instruments SN76489AN)</sound>
+        <speed>3.58 MHz</speed>
+        <text></text>
+        <type></type>
+        <vram>16 KB (8 x 4116 memory chips)</vram>
+        <year>June 1982</year>
+    </computer>
+</computers>

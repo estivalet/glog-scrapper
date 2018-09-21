@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>4 built in programs (Gunfight, Checkmate, Calculator, Scribbling)</builtInGames>
+        <colors>8 (Basic cartridge : 2)</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Z80</cpu>
+        <description>
+In September 1977, Bally, the famous pinball tables manufacturer, announced shortly after the Atari 2600, the Bally Professional Arcade. The first versions were shipped in early 1978 for $299. 
+
+This video game system featured a Z80 processor, three built-in games (Gunfight, Checkmate, Scribbler), a calculator with numeric keypad and up to four controllers that were a unique combination of joystick and paddle, which resembled the grip of a revolver.
+
+Furthermore, a BASIC cartridge gave this system the ability to save programs to a cassette tape. For about 6 months, it was thus the world's cheapest computer.
+
+Even though is was slightly superior to the competition (Atari VCS), the unit was too expensive and the sales  remainded at a low level. 
+In 1982, Bally withdrew the system and sold the rights to Astrovision Inc., a group of users who had enjoyed the system. The console was then reintroduced as the Bally Computer System. The same year, the company changed its name - and the system name - to Astrocade.
+
+After that, Astrocade tried to keep the system alive and marketed it as a video game console for several years. In 1985, the game consoles market crashed and finally, the Astrocade company closed their doors and the Astrocade system disappeared.
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>MESS emulates the Astrocade</description>
+                <link>http://www.mess.org/</link>
+                <name>MESS emulator</name>
+                <platform>Other platform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>160 x 102 (Basic cartridge : 160 x 88)</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/bally_astrocade_1.jpg</image>
+        <keyboard>2 pistol shaped controllers with 1 trigger and a short 8 directions joystick / analogic knob</keyboard>
+        <language>4 built in programs (Gunfight, Checkmate, Calculator, Scribbling)</language>
+        <links>
+            <link>http://groups.yahoo.com/group/ballyalley/</link>
+            <link>http://www.ballyalley.com</link>
+            <link>http://www.digitpress.com/emu/astrocade.htm</link>
+            <link>http://www.dsplib.com/astrocade/index.html</link>
+            <link>http://www.glankonian.com/~lance/Ballyfaq.html</link>
+        </links>
+        <manufacturer>Bally</manufacturer>
+        <media>Cartridges</media>
+        <name>Astrocade</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals>2 additional controllers, audio cassette interface, RAM expansions, Computer expansion, light-pen</peripherals>
+        <ports>Cartridge slot, 4 controller connectors, Expansion port, Light pen connector</ports>
+        <power></power>
+        <price>$299 (USA, 1977)</price>
+        <production>1985</production>
+        <ram>4 KB</ram>
+        <rom>8 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;ASTROCADE BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/bally_astrocade_box.jpg</link>
+            </shot>
+        </screenshots>
+        <size>15'' (W) x 10 3/4'' (D) x 4 3/4'' (H)</size>
+        <sound>3 voices + noise &amp;amp; vibrato</sound>
+        <speed>3.579 MHz</speed>
+        <text></text>
+        <type></type>
+        <vram></vram>
+        <year>September 1977</year>
+    </computer>
+</computers>

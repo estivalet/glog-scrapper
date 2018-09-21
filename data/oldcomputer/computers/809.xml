@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>None</builtInGames>
+        <colors>Monochrome</colors>
+        <controllers></controllers>
+        <coprocessor>None</coprocessor>
+        <cpu>Z80-A</cpu>
+        <description>
+Transam was based in London and have moved on from their original business as a manufacturer of  cheap hobby-type boards to computers design in 1982.
+
+The main unit of the Tuscan computer had a ten-slot S-100 backplane and integral single or dual floppy disk drives. The system came with a CPU board based around the Z80 processor, a video board with composite and UHF TV video outputs, and a memory board holding 8 KB of RAM and 8 KB of Monitor ROM.
+
+Several additional board could expand the system to 64 KB of RAM, 16 KB of ROM (including a 8 KB BASIC), and add interfaces or graphic capabilities as well.
+
+Transam, trough their TCL subsidiary was also well known for implementation of high level languages, especially PASCAL. These and others could be used on this computer.
+
+
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>Depends on the graphic video board used</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/Transam_Tuscan_System_1.jpg</image>
+        <keyboard>Full stroke 66 keys - a numeric keypad location was provided</keyboard>
+        <language>None</language>
+        <links/>
+        <manufacturer>Transam</manufacturer>
+        <media>1 or 2 x 5'' 190 KB floppy disc drives</media>
+        <name>Tuscan S-100</name>
+        <numGames></numGames>
+        <origin>United Kingdom</origin>
+        <peripherals>All the range of S-100 boerds</peripherals>
+        <ports>Unknown</ports>
+        <power>Built-in power supply unit</power>
+        <price>24 KB RAM, single floppy disc: &amp;pound;1200  60 KB RAM, dual floppy disc: &amp;pound;1700</price>
+        <production></production>
+        <ram>8 KB up to 64 KB</ram>
+        <rom>8 KB up to 16 KB</rom>
+        <screenshots/>
+        <size></size>
+        <sound></sound>
+        <speed>2 or 4 MHz.</speed>
+        <text>64 chars. x 16 lines</text>
+        <type>Professional Computer</type>
+        <vram></vram>
+        <year>June 1980</year>
+    </computer>
+</computers>

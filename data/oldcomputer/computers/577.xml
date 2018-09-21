@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;U.S. ADVERT (1980)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Advert said:&amp;lt;br&amp;gt;&amp;lt;br&amp;gt; &amp;lt;font color=&amp;quot;#666666&amp;quot;&amp;gt;The facts speak for themselves. The QUAY 500 SERIES offers more for the money than North Star Horizon computers...&amp;lt;br&amp;gt;&amp;lt;br&amp;gt; ...The bottom line is simple. There is a new star in the computer field. The 500 SERIES by Quay. It outshines all of the competition.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/font&amp;gt;  A little pretentious tone!&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/Qua_500_Advert_1.jpg</link>
+            </advert>
+        </adverts>
+        <builtInGames>None</builtInGames>
+        <colors></colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Z-80A</cpu>
+        <description>
+The QUAY 500 was a clone of the North Star Horizon offering some technical improvements compared to its competitor: a standalone single-board instead of a backplane and several S-100 boards,  Direct Memory Access for better disk access performance, on-board expansion capabilities for additional parallel and serial port and higher disk capacity.
+
+The 500 model was sold with two 200 KB double density 5&amp;quot;1/4 floppy drives, the 520 model with two quad density 400 KB drives.
+
+In spite of these technical advantages and a price 20% lower than North Star's similar models, the Quay 500 series do not seem to have been marketed for long.  
+
+Phillip Good comments:
+The Quay computer was not sold to consumers but to OEM's who would package it around some kind of accounting package and sell it to professionals--accountants, dentists, physicians, and so forth for use in their offices.  Its wooden case was intended and succeeded in making it look professional in contrast to the rinky tink plastic and metal contraptions which are standard today.
+ 
+
+
+</description>
+        <emulators/>
+        <graphics></graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/quay_520_front_s.jpg</image>
+        <keyboard>Depends on the terminal used</keyboard>
+        <language>None</language>
+        <links/>
+        <manufacturer>QUAY Corporation</manufacturer>
+        <media>Dual 200 KB or 400 KB floppy drives</media>
+        <name>500 Series</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals>RS232C &amp;amp; TTY serial port compatible product</peripherals>
+        <ports>Disc Drive Expansion connector, 3 x Serial Ports, Parallel printer connector</ports>
+        <power>Built-in P.S.U.</power>
+        <price>Model 500 : $2500Model 520 : $4600 list (but usually sold to OEM's for 30%-40%  -  $3200 less)</price>
+        <production>1989</production>
+        <ram>32 KB expandable up to 64 KB</ram>
+        <rom></rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MODEL 520&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/quay_520_front.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;LEFT SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/quay_520_l-side_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;REAR&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;From left to right: &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; - big fan&amp;lt;br&amp;gt; - disc drive expanson connector&amp;lt;br&amp;gt; - 3 x serial ports&amp;lt;br&amp;gt; - parallel line printer connector&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/quay_520_rear.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INSIDE MODEL 520&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/quay_520_inside.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MODEL 500&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Quay_500_System_1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>16&amp;quot; x 18&amp;quot; x 6&amp;quot;</size>
+        <sound></sound>
+        <speed>4 Mhz.</speed>
+        <text>Video terminal</text>
+        <type>Professional Computer</type>
+        <vram></vram>
+        <year>1980</year>
+    </computer>
+</computers>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>None</builtInGames>
+        <colors></colors>
+        <controllers></controllers>
+        <coprocessor>None</coprocessor>
+        <cpu>Z80-A (or B)</cpu>
+        <description>
+Shelton Instruments were the people behind the original design of the Nascom 1. They were based in London.
+
+Sig-Net was a totally new concept, whereby a series of boards - processor, interface, memory, etc. - were interconnected by flexible wires.
+
+Each board had its own power supply and many variations of computer could be evolved from the basic system components.
+
+The Sig-Net 200 series computer had a number of these modules housed in an enclosure that can have two integral floppy disc drives. The system came with 64 KB of RAM and up to 4 KB of ROM. There were two RS232 interfaces and a 4-channel real-time clock.A hard disk controller could be connected on-board.
+
+The system was indefinitely expandable, even to a multi-processor system, using Sig-Net modules. CP/M 2.2 operating system came with the computer allowing the vast CP/M library of software to be used.
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>A graphic card was available - Features unknown</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/Shelton_Signet_System_1.jpg</image>
+        <keyboard>Depending on the video terminal used</keyboard>
+        <language>None</language>
+        <links/>
+        <manufacturer>Shelton Instruments</manufacturer>
+        <media>1 to 4  200, 400 or 800 KB 5'' floppy disc drives</media>
+        <name>Sig-Net</name>
+        <numGames></numGames>
+        <origin>United Kingdom</origin>
+        <peripherals>Optional 7 MB hard disk (&amp;pound;3300 + &amp;pound;600 for the controller)</peripherals>
+        <ports>2 x Serial RS232, 1 x Parallel Centronics</ports>
+        <power>Built-in power supply unit + one power supply per card</power>
+        <price>Basic version (200/2) about $2900 + video terminal</price>
+        <production></production>
+        <ram>64 KB to 128 KB (one-processor system)</ram>
+        <rom>4 KB</rom>
+        <screenshots/>
+        <size>Unknown</size>
+        <sound>Beeper</sound>
+        <speed>4 MHz.</speed>
+        <text></text>
+        <type>Professional Computer</type>
+        <vram></vram>
+        <year>1981</year>
+    </computer>
+</computers>

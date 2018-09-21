@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>None</builtInGames>
+        <colors></colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Intel 8080 - IMSAI PCS 80/30 came with</cpu>
+        <description>
+The PCS 80 came with a lot of peripherals: line and character printers, CRT terminals, intelligent keyboards, ACR storage, 8&amp;quot; and 5.25&amp;quot; floppy disks and with several languages: TTY BASIC with OS, 4K, 8K and 12K BASIC, audio cassette BASIC with OS, &amp;amp; a scientifically oriented disk BASIC and level 2 Fortran IV compiler.
+
+Greg Bober stil have an extended working configuration including:
+ External 5.25&amp;quot; quad density 380Kb Micropolis floppy with BASIC,
+ Faster memory &amp;amp; &amp;quot;I&amp;quot; tempgrade CPU, speed could goto 7MHz,
+ 58K 10MHz RAM,
+ Custom boot operating system,
+ 64K of extended RAM/ported PROM containing the DOS &amp;amp; BASIC operating
+system to have 1 second versus 30 second floppy boot up,
+ Extrernal 12&amp;quot; monitor since 24x80 is hard to see on tiny screen,
+ Spare parts.
+Numerous photos of his system may be seen here.
+
+
+ 
+
+
+</description>
+        <emulators/>
+        <graphics></graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/imsai0.jpg</image>
+        <keyboard>Video terminal</keyboard>
+        <language>None</language>
+        <links/>
+        <manufacturer>IMSAI</manufacturer>
+        <media></media>
+        <name>PCS 80</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals>Floppy drives inteface, Single or dual 8'' drives in a separate housing same size as main frame unit</peripherals>
+        <ports>Serial ports (2) - Parallel Port (1) - Monitor - S100 Bus (8 expansion slots)</ports>
+        <power>built-in 28AMP power supply unit</power>
+        <price></price>
+        <production></production>
+        <ram>2.25 KB (up to 64 KB thanks to RAM boards, there are 4K, 16K, 32K and 64K memory expansion boards).</ram>
+        <rom>3 KB (Including monitor)</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;THE PCS-80 COMPONENTS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Imsai_PCS80_Components_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;THE PCS 80 MODEL 15&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/imsai_pcs80_model15_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;THE PCS-80 MODEL 30&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Imsai_PCS80_Mod30_1.jpg</link>
+            </shot>
+        </screenshots>
+        <size></size>
+        <sound></sound>
+        <speed>3 MHz</speed>
+        <text>12x40, 12x80, 24x40 and 24x80 (128 characters of either 5x7 or 7x10 dot matirx fonts)</text>
+        <type>Professional Computer</type>
+        <vram></vram>
+        <year>1977</year>
+    </computer>
+</computers>

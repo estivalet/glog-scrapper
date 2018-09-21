@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;JAPANESE ADVERT (1991)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This japanese advert indicates that there were at least 3 different models sold...&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/sega_teradrive_jap-ad_1.jpg</link>
+            </advert>
+        </adverts>
+        <builtInGames>3.5'' disk-drive, 30 MB hard drive</builtInGames>
+        <colors>64 among 512 (Megadrive Mode) / 256 among 262144 (S/VGA Modes)</colors>
+        <controllers></controllers>
+        <coprocessor>Megadrive customchips (?)</coprocessor>
+        <cpu>Intel 80286 + Motorola MC68000 + Zilog Z80A (used for sound system)</cpu>
+        <description>
+What a strange computer ! It was built by IBM (like the Atari Jaguar few years later) in Japan for Sega, and was sold only there.
+
+It is an IBM PC AT compatible system mixed with a Sega Megadrive (Genesis) console. On the front panel, one can find a Megadrive cartridge slot, two joystick connectors, a reset button, a MD/PC switch, a volume slider, a headphone output, a power button, keyboard/mouse connectors (PS/2) and one 3.5'' disk drive.
+
+Three models were released, a low-end Model 1, with 640k RAM and no HD, a Model 2 with two floppies and no HD and 1MB RAM, and the high-end Model 3, with one floppy, 2.5MB RAM and a 30MB drive. All three shipped with the same software and accessories.
+
+Amstrad made later a similar computer called MegaPC.
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>320 x 244 (Megadrive VDP Mode) / 320 x 200 (MCGA) / 640 x 480 (VGA)</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/sega_teradrive_1.jpg</image>
+        <keyboard>Full-stroke professional keyboard. 106 keys with function keys, cursor keys and numeric keypad</keyboard>
+        <language></language>
+        <links>
+            <link>http://assembler.roarvgm.com/teradrive/teradrive.html</link>
+            <link>http://www1.odn.ne.jp/~caa09810/old_pc/pc_tera.htm</link>
+            <link>http://nfg.2y.net/games/teradrive/</link>
+            <link>http://www.ai.wakwak.com/~ex4/kb/main_sega_teradrive.htm</link>
+        </links>
+        <manufacturer>Sega</manufacturer>
+        <media>3.5'' disk-drive, 30 MB hard drive</media>
+        <name>Teradrive</name>
+        <numGames></numGames>
+        <origin>Japan</origin>
+        <peripherals></peripherals>
+        <ports>RGB analog vide output, composite video output, 1 ISA slot, mouse, keyboard, serial (2) &amp;amp; parallel (1) ports, headphone output, 2 joystick ports</ports>
+        <power>Built-in PSU</power>
+        <price>148,000&amp;yen; (Mod.1), 188,000 &amp;yen; (Mod.2), 248,000 (Mod.3)  (Japan, 1991)</price>
+        <production></production>
+        <ram>2.5 MB (512 KB onboard + two 1 MB SIMM RAMs)</ram>
+        <rom>128 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MAIN UNIT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/sega_teradrive_main-unit.jpg</link>
+            </shot>
+        </screenshots>
+        <size>36 (W) x 33.4 (D) x 8 (H) cm / 5.6 to 6.2 Kg according to versions</size>
+        <sound>FM Sound / PCM Sound (Megadrive) - Beeper (PC)</sound>
+        <speed>10 MHz (80286) / 10 MHz (68000) / 3.58 MHz (Z80A)</speed>
+        <text>40 or 80 chars x 25 lines</text>
+        <type>Home Computer</type>
+        <vram>256 KB</vram>
+        <year>May 1991</year>
+    </computer>
+</computers>

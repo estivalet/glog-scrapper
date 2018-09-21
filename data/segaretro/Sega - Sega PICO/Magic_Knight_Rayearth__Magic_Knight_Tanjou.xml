@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<games>
+    <game>
+        <developer>Sega</developer>
+        <genre>Misc.</genre>
+        <name>Magic Knight Rayearth: Magic Knight Tanjou</name>
+        <players>1</players>
+        <publisher>Sega</publisher>
+        <releases>
+            <release>
+                <code></code>
+                <country></country>
+                <date></date>
+                <price></price>
+            </release>
+            <release>
+                <code>HPC-6022</code>
+                <country>JP</country>
+                <date>1995-06-24</date>
+                <price>&amp;Acirc;&amp;yen;4,980</price>
+            </release>
+        </releases>
+        <romSize>1MB</romSize>
+        <shots>http://segaretro.org/images/b/b9/MKRMKT_title.png</shots>
+        <shots>http://segaretro.org/images/f/fb/MKRMKT_Pico_JP_Box.jpg</shots>
+        <shots>http://segaretro.org/images/2/21/MKRMKT_pico_jp_manual.pdf</shots>
+        <systems>Sega Pico</systems>
+    </game>
+</games>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Basic</builtInGames>
+        <colors>monochrom</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Zilog Z80 A</cpu>
+        <description>
+The SBS 8000 is an early japanese system. The most remarkable feature of the SBS 8000 is its originaly shaped case. It looks like the keyboard had been placed in an area cut with a knife.
+
+There are in fact two models of the SBS 8000. The basic model has only 16k or 32k RAM and a Basic language built-in (Super-Basic). The 12&amp;quot; monochrome monitor sold with it, could display 16 x 64 characters.
+
+The Super Basic was 100% compatible with the one in the TRS-80 (only higher resolution with the graphics), and had some very neat additions like 8 different programs in memory that you could call between. In fact to get it run you had to have a bootstrap disk.
+
+A later model, refered as SBS 8000A, offers more memory (64k RAM) and can run CP/M v2. Of course it is interesting if used with the optional drives (5.25&amp;quot; FDD/184k, 8&amp;quot; FDD/1,2Mb, or 12.5Mb HD). A large range of programming languages and software is then available : Pascal/M, Cobol 80, Fortran, Basic 80, Macro 80, Mumps, Wordstar, etc. The monochrome monitor delivered with this model can display 80 x 24 characters.
+
+Can you tell us more about the SBS 8000 ?
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>128 x 96</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/sbs-8000_2.jpg</image>
+        <keyboard>Full-stroke keyboard with numeric keypad. 8 programmable keys</keyboard>
+        <language>Basic</language>
+        <links/>
+        <manufacturer>SBS</manufacturer>
+        <media></media>
+        <name>SBS 8000</name>
+        <numGames></numGames>
+        <origin>Japan</origin>
+        <peripherals>optional 8'' FDD (1.2Mb)  or 5.25'' FDD (184k), 12.5 Mb hard disk, digital tapes, printers (80 or 132 columns)</peripherals>
+        <ports>RS 232/V24, Centronics, monitor</ports>
+        <power>Built-in PSU</power>
+        <price>16k model : 1578  (France, january 1980)32k model : 1721  (France, january 1980)</price>
+        <production></production>
+        <ram>16 , 32 or 64 kb</ram>
+        <rom>24 kb (Basic 16k + Operating System)</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SBS 8000&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/sbs8000_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;8'' FLOPPY DISKS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Notice that the monitor and part of the computer has been redrawn over the picture !&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/sbs-8000_disks_1.jpg</link>
+            </shot>
+        </screenshots>
+        <size></size>
+        <sound>Unknown</sound>
+        <speed>Unknown</speed>
+        <text>64 x 16, 80 x 24</text>
+        <type>Professional Computer</type>
+        <vram></vram>
+        <year>1979</year>
+    </computer>
+</computers>

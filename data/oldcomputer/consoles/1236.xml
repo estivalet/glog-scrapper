@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>CD Player</builtInGames>
+        <colors>16.7 Million Available Colors</colors>
+        <controllers></controllers>
+        <coprocessor>32 bit RISC Hitachi SuperH-1, Custom VDP1 &amp;amp; VDP2 32-bit video display processors, 11.3 MHz Motorola 68EC000, custom SCU (Saturn Control Unit) @ 14.3 MHz, 4 bit Hitachi MCU (SMPC)</coprocessor>
+        <cpu>Two Hitachi SuperH-2 7604 32-Bit RISC processors</cpu>
+        <description>
+After spending two years developing the successor to the Mega Drive/Genesis, Sega launched the Saturn in November 1994.
+
+The console had two CPUs, two GPUs, and a number of other processors which made it difficult to program for and the quality of the software programming varied considerably. A number of games used only one CPU in order to simplify the task, others made full use of the Saturns power. For example, Virtua Fighter 2 used a different CPU for each character during a fight. However, the PlayStation's far higher sales figures and simpler architecture lead to developers favouring Sony's machine and the Saturn received less than a third of the games that the PS enjoyed
+
+Outside of Japan the first overseas models got a redesigned controller (MK-80100). Most people agreed that this was the worst controller that Sega had ever sold their customers. Not only was the d-pad quite inaccurate but the L+R triggers were also difficult to use, often requiring them to be pressed down from the top edge rather than pulled towards the user. Eventually, a version of the original Japanese controller (MK-80116) made it's way overseas for later models of the console.
+
+Although quite successful in Japan the Saturn was far less popular in the U.S. and Europe, finishing the fifth generation race behind both the PlayStation and the Nintendo 64. Sega discontinued the Saturn in 1998 hoping to get a head start in the next gen battle with their new contender, the Dreamcast.
+
+There were a number of variations of the console during its lifespan, a brief summary of the differences follows:
+
+Japan
+
+Sega Saturn (HST-0001/HST-3200): First Japanese model. Has a grey case, black cartridge flap, blue oval buttons and a drive access light. Early models use BIOS revision 1.00, later models use revision 1.01. Comes with a black controller which has a coloured bottom row of buttons, a red start button and red L+R buttons.
+
+Sega Saturn (unknown): Second Japanese model. Almost white case, same colour as the Dreamcast but with a grey cartridge flap. During production the buttons changed colour from purple to grey and also changed shape from oval to round. Uses the 1.01 BIOS. Comes with a light grey controller with a coloured bottom row of buttons and red L+R buttons.
+
+Sega Skeleton Saturn (HST-3220): Limited edition of around 50,000 consoles. Has a translucent grey case and controller, round black buttons and a pink CD door button. CD door has &amp;quot;This Is Cool&amp;quot; written on it. Uses the 1.01 BIOS. Has compatibility problems with some software.
+
+Sega Derby Saturn (unknown): Limited edition produced to promote the game Derby Stallion. Has a translucent greenish blue case, round black buttons and a pink CD door button. Comes with the same controller as the Skeleton Saturn. Uses the 1.01 BIOS. Has compatibility problems with some software.
+
+U.S.A.
+
+Sega Saturn (MK-80000): First U.S. model. Has a black case, oval buttons and a drive access light. Early models use BIOS revision 1.00a, later models use revision 1.01a.
+
+Sega Saturn (MK-80000A): Second U.S. model. Has a black case, round buttons and no drive access light. Uses the 1.01a BIOS.
+
+Sega Saturn (MK-80001): Third U.S. model. Has a black case, round buttons and no drive acces light. Slightly modified motherboard layout. Uses the 1.01a BIOS.
+
+Europe
+
+Sega Saturn (MK-80200-50): First European model. Has a black case, black oval buttons and a drive access light. Early models use BIOS revision 1.00a, later models use revision 1.01a.
+
+Sega Saturn (MK-80200A-50: Second European model. Has a black case, round grey buttons and no drive access light. Uses the 1.01a BIOS.
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>Nice Saturn emulator. One of the best</description>
+                <link>http://satourne.consollection.com/</link>
+                <name>Satourne</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Another Saturn emulator project</description>
+                <link>http://saturnin.consollection.com/</link>
+                <name>Saturnin</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Japanese emulator</description>
+                <link>http://www7a.biglobe.ne.jp/~phantasy/ssf</link>
+                <name>SSF</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Yabause is a Sega Saturn emulator under GNU GPL. It currently runs on FreeBSD, GNU/Linux, Mac OS X and Windows</description>
+                <link>http://yabause.sourceforge.net/</link>
+                <name>Yabause</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>320x224, 640x224, and 720x576</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/sega_saturn_2s.jpg</image>
+        <keyboard>8-way d-pad, 8 buttons + Start</keyboard>
+        <language>CD Player</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=1275</link>
+            <link>computer.asp?st=1&amp;amp;c=1276</link>
+            <link>http://www.sega.co.jp/archive/segahard/ss/</link>
+            <link>http://sega-saturn.dcemu.co.uk/</link>
+            <link>http://www.saurianunderground.com/saturn/</link>
+            <link>http://www.eidolons-inn.net/tiki-index.php?page=SegaBase+Saturn</link>
+            <link>http://en.wikipedia.org/wiki/Sega_saturn</link>
+        </links>
+        <manufacturer>Sega</manufacturer>
+        <media>CD-ROM</media>
+        <name>Saturn</name>
+        <numGames></numGames>
+        <origin>Japan</origin>
+        <peripherals></peripherals>
+        <ports>2 controller ports, cartridge slot, internal expansion port, high-speed serial communication port, Composite video output, Stereo audio output</ports>
+        <power>Power supply built-in</power>
+        <price></price>
+        <production>1998</production>
+        <ram>2 MB main (1 MB DRAM + 1 MB SDRAM), 512 KB sound</ram>
+        <rom>512 KB BIOS</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SEGA SATURN&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/sega_saturn_2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;THE SYSTEM ITSELF&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/sega_saturn_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;OPEN LID&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/sega_saturn_3s.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;REAR&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/sega_saturn_rear.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;DETAIL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/sega_saturn_detail.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;PAD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/sega_saturn_pad_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/sega_saturn_box_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BOX - OTHER SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/sega_saturn_box_2.jpg</link>
+            </shot>
+        </screenshots>
+        <size>260 x 230 x 83 mm</size>
+        <sound>22.6 MHz Yamaha FH1 DSP sound processor (SCSP), 32 PCM channels, 8 FM channels</sound>
+        <speed>28.63 MHz</speed>
+        <text></text>
+        <type></type>
+        <vram>1.5 MB</vram>
+        <year>November 1994</year>
+    </computer>
+</computers>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;JAPANESE ADVERT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/mitsubishi_multi16_advert1_s.gif</link>
+            </advert>
+        </adverts>
+        <builtInGames>None</builtInGames>
+        <colors>2 for monochrome versions (MP-1601S,1602S,1622), 8 for colour versions (MP-1605S,MP-1625)</colors>
+        <controllers></controllers>
+        <coprocessor>Socket for an optional 8087 math coprocessor</coprocessor>
+        <cpu>Intel 8088</cpu>
+        <description>
+Multi16 was Japanese first 16-bit personal computer. This machine is known as first Shift-JIS code machine.
+
+Shift-JIS code is Chineese character's code defined by Microsoft.  It met great success and became Japanese standard.
+
+Multi-16 could be equipped with an optional hard disk unit. It was
+only 10 MBytes and costed over $4,000!
+
+Thanks to Nomura Hisayuki for this information
+
+
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>640 x 400 dots</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/mitsubishi_multi16_1.jpg</image>
+        <keyboard>Full stroke 95 keys with 10 function keys and numeric keypad</keyboard>
+        <language>None</language>
+        <links>
+            <link>http://www3.wind.ne.jp/toragiku/kopa.htm</link>
+        </links>
+        <manufacturer>Mitsubishi</manufacturer>
+        <media>2 x 5.25'' disk-drives</media>
+        <name>Multi 16</name>
+        <numGames></numGames>
+        <origin>Japan</origin>
+        <peripherals>6 expansion slots (5 available. 1 used for the FDD controler), RS232 and GPIB cards</peripherals>
+        <ports>Parallel printer</ports>
+        <power>Built-in power supply unit</power>
+        <price>from 530,000  to  1,130,000 yen</price>
+        <production></production>
+        <ram>128 KB (MP-1601S) or 256 KB (MP-1625) up to 576 KB</ram>
+        <rom>4 KB</rom>
+        <screenshots/>
+        <size>49 (W) x 61.6 (D) x 62 (H) cm. /  26 Kg</size>
+        <sound>No sound</sound>
+        <speed>4.5 MHz.</speed>
+        <text>80 x 25 or 80 x 20 for ASCII characters. 40 x 25 or 40 x 20 for Chineese characters</text>
+        <type>Professional Computer</type>
+        <vram>32 KB (Monochrome) or 96 KB (Colour version)</vram>
+        <year>1981</year>
+    </computer>
+</computers>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<games>
+    <game>
+        <developer>Compile</developer>
+        <genre>Sports</genre>
+        <name>Champion Billiards</name>
+        <players>1-2 (alternating)</players>
+        <publisher>Sega</publisher>
+        <releases>
+            <release>
+                <code></code>
+                <country></country>
+                <date></date>
+                <price></price>
+            </release>
+            <release>
+                <code>C-71</code>
+                <country>JP</country>
+                <date>1986</date>
+                <price>&amp;Acirc;&amp;yen;4,300</price>
+            </release>
+            <release>
+                <code>?</code>
+                <country>TW</country>
+                <date>198x</date>
+                <price>NT$?</price>
+            </release>
+        </releases>
+        <romSize>32kB</romSize>
+        <shots>http://segaretro.org/images/f/f2/ChampionBilliards_title.png</shots>
+        <shots>http://segaretro.org/images/4/4e/ChampionBilliards_SG1000_JP_Box.jpg</shots>
+        <shots>http://segaretro.org/images/b/b6/ChampionBilliardsSGJPCardBack.jpg</shots>
+        <shots>http://segaretro.org/images/a/a2/ChampionBilliardsSGJPCardFront.jpg</shots>
+        <shots>http://segaretro.org/images/9/95/ChampionBilliardsSGJPManual.pdf</shots>
+        <systems>SG-1000</systems>
+    </game>
+</games>

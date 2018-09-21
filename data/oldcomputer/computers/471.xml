@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Basic</builtInGames>
+        <colors>Black &amp;amp; white</colors>
+        <controllers></controllers>
+        <coprocessor>NSC 801</coprocessor>
+        <cpu>NSC 800 - Z80 low power clone  from National Semiconductors</cpu>
+        <description>
+This is an obscure computer, not very well known. It's a rugged field computer, conceived to be used outdoor, and resistant to extreme conditions (it was used in the British Army for example).
+
+In 1981, responding to a request from Severn Trent Water, DVW designed and manufactured the first rugged handheld computer - the Husky, dramatically featured on the BBC TV programme 'Tomorrow's World'. This caught the attention of the UK Ministry of Defence, who subsequently awarded DVW a contract to supply the MOD with rugged handheld computers as part of the Rapier missile project.
+
+Husky (it will become the name of the company some years later) has become since a familiar name in the niche market for rugged field hardware.
+
+The Husky was the first, or at least one of the first real portable computer. And as it was waterproof against accidental immersion and rugged, it was very expensive (~5600 Euros).
+
+The Husky had a small LCD screen (32 x 4) and a flat membrane keyboard, just like the Sinclair ZX-81.
+
+It has a basic interpreter, an onboard clock (unsurprisingly lacking in
+millennium compliency), onboard routines for communicating through what
+looks like a serial port interface, as well as a menu option for &amp;quot;cloning husky&amp;quot;.
+This must be used to clone multiple Husky systems that will all be used for the same purpose,
+rather than re-entering the BASIC code for each unit.
+
+The unit stores programmed entered into the basic interpreter in some kind
+of solid state memory which must be powered by the backup battery (since when you take the backup battery out, you lose the basic code).
+
+In 1983, the Husky Hunter is launched. DVW changes its name to Husky Computers Limited and moves to the Courtaulds site in Coventry.
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>Unknown</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/dvw-microelectronics_husky_1.jpg</image>
+        <keyboard>Flat membrane keyboard (40 keys)</keyboard>
+        <language>Basic</language>
+        <links>
+            <link>http://www.itronix.co.uk/uk/</link>
+        </links>
+        <manufacturer>DVW Micro-electronics</manufacturer>
+        <media>Battery backup</media>
+        <name>Husky</name>
+        <numGames></numGames>
+        <origin>United Kingdom</origin>
+        <peripherals></peripherals>
+        <ports>Serial port, Barecode reader</ports>
+        <power>Batteries</power>
+        <price>5335  (France, 83)</price>
+        <production></production>
+        <ram>32 KB</ram>
+        <rom>16 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;IN USE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/dvw_husky_main.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;ARMY GREEN VERSION&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Husky_DVW_BrownVersion_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;GREEN VERSION #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Husky_DVW_BrownVersion_2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;GREEN VERSION #3&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Husky_DVW_BrownVersion_3.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;GREEN VERSION #4&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Husky_DVW_BrownVersion_4.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;WHITE VERSION&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Husky_DVW_System_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;RIGHT SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/dvw_husky_r-side_2_150908.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BOTTOM&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;(1)&amp;lt;/b&amp;gt; This strap allows the user to fasten the system on his arm&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(2)&amp;lt;/b&amp;gt; DB25 connectors. Allows the Husky to be connected to various mainframes thanks to several internal data transfer protocoles.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(3)&amp;lt;/b&amp;gt; Barcode reader connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(4)&amp;lt;/b&amp;gt; Programs and data battery backup housing&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Husky_DVW_SystemBottom_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;LCD DISPLAY&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;Top pict&amp;lt;/b&amp;gt;: Welcome display at power on.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;Bottom pict&amp;lt;/b&amp;gt;: A system menu offers 6 submenus:&amp;lt;br&amp;gt;   - &amp;lt;b&amp;gt;1&amp;lt;/b&amp;gt; - VDU simulation. Husky can be used as a terminal&amp;lt;br&amp;gt;   - &amp;lt;b&amp;gt;2&amp;lt;/b&amp;gt; - Cloning Husky. An easy way to transfer programs and data into other Husky's&amp;lt;br&amp;gt;   - &amp;lt;b&amp;gt;3&amp;lt;/b&amp;gt; - Special facilities. Barcode type selection&amp;lt;br&amp;gt;   - &amp;lt;b&amp;gt;4&amp;lt;/b&amp;gt; - Initialise communications. Serial communication setup&amp;lt;br&amp;gt;   - &amp;lt;b&amp;gt;5&amp;lt;/b&amp;gt; - Initialise Clock. Time and date&amp;lt;br&amp;gt;   - &amp;lt;b&amp;gt;6&amp;lt;/b&amp;gt; - Basic Interpreter    &amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Husky_DVW_Display_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SYSTEM OPENED&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Upper memory board is fitted with 32 KB of RAM. A second 32 KB bank could be added. &amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Husky_DVW_Inside_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SYSTEM OPENED #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;No connectors are used, only soldered rigid flat cables. Maintenance should'nt be really easy.&amp;lt;br&amp;gt; The right memory board is normally superposed on the main board&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Husky_DVW_Opened_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MAINBOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Only standard low power IC are used.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(1)&amp;lt;/b&amp;gt; NSC 800 processor from National Semiconductors. A low power version of the Z80&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(2)&amp;lt;/b&amp;gt; NSC 810 provides I/O ports, a timer and buffer RAM&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(3)&amp;lt;/b&amp;gt; 32 KB ROM (4 x 2732 chips) holding the BASIC interpreter and system routines&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(4)&amp;lt;/b&amp;gt; 32 chars x 4 lines LCD display provided by Epson&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(5)&amp;lt;/b&amp;gt; Clock battery backup&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(6)&amp;lt;/b&amp;gt; Power and barcode reader connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(7)&amp;lt;/b&amp;gt; Serial connector&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Husky_DVW_MainBoard_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MAINBOARD CLOSE-UO&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Husky_DVW_MainBoard_2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;WATERPROOF CASE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Note the black seal and silicon pointing at the back of the keyboard and display glass.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Husky_DVW_Etancheite_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;CASE #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The very robust case is made of two thick aluminium parts.&amp;lt;br&amp;gt; The copper cylinder is the main batteries housing.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Husky_DVW_Case_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;LEATHER SATCHEL  #1&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Husky_DVW_Bag_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;LEATHER SATCHEL #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/dvw_husky_sacoche.jpg</link>
+            </shot>
+        </screenshots>
+        <size>24 x 19.5 x 4 cm / 2kg</size>
+        <sound>Beeper</sound>
+        <speed>Unknown</speed>
+        <text>32 chars x 4 lines (LCD screen)</text>
+        <type>Portable</type>
+        <vram></vram>
+        <year>1981</year>
+    </computer>
+</computers>

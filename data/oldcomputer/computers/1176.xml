@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>None</builtInGames>
+        <colors>Monochrome blueish LCD display</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Intel 80286</cpu>
+        <description>
+The Yamaha C1 was released in 1987 and is basically a 80286 processor 
+based PC with 8 built in MIDI ports for use in applications where there 
+are many MIDI instruments to address.
+
+By 1987 some machines which were capable of responding on multiple MIDI channels were appearing, and some earlier machines could only function in &amp;quot;omni&amp;quot; mode which meant that they needed a whole 16 channel port to themselves or they would play every time a note intended for another instrument was sent.
+
+Since MIDI information is fairly 'slow' in respect to what even a about 10Mhz computer can handle 8 output ports with buffers wasn't a difficult thing to pull off for even an old 286 apparently.
+
+Various DOS applications were included, among them the Voyetra Sequencer which was set up to run all 8 ports.
+
+__________
+
+Contributors : Bob Weigel (picture, info), Gareth Qually (info, specs)
+
+Javier Z. reports:
+Yamaha C1 Music Computer was used by Kraftwerk in &amp;quot;Electric Cafe&amp;quot;.
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>CGA, 640 x 400</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/Yamaha_C1_System_s1.jpg</image>
+        <keyboard>88 keys with numeric keypad and arrow keys</keyboard>
+        <language>None</language>
+        <links/>
+        <manufacturer>Yamaha</manufacturer>
+        <media>3.5'' Floppy disc drive (1.44 MB) + 20 MB hard disk</media>
+        <name>C1</name>
+        <numGames></numGames>
+        <origin>Japan</origin>
+        <peripherals></peripherals>
+        <ports>Time Code In, Time Code Out (both via RCA ports), 2 x serial ports, Expansion Card Slot, 8 x MIDI OUT ports, 2 x MIDI IN ports, 1 x MIDI THRU port, Digital RGB out port, CGA or Monochrome (Hercules compatible) mode</ports>
+        <power>Built-in power supply</power>
+        <price>Unknown</price>
+        <production></production>
+        <ram>640 Kbytes main, 512 Kbytes extension</ram>
+        <rom>64 Kbytes</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;LARGE VIEW&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Yamaha_C1_System_s2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;C1 BAG &amp;amp; ORIGINAL DISKETTES&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Yamaha_C1_Bag_s1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>394(W) x 382(D) x 82(H) mm / 8.2 kg (18 lb 2 oz)</size>
+        <sound>Buzzer</sound>
+        <speed>switchable clock 10/8 MHz</speed>
+        <text>40 or 80 columns x 25 lines</text>
+        <type>Portable</type>
+        <vram></vram>
+        <year>1987</year>
+    </computer>
+</computers>

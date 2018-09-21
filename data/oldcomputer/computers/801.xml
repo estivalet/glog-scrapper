@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Microsoft Pen Services for Windows</builtInGames>
+        <colors>16-level grayscale</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>AMD AM-386 SXLV</cpu>
+        <description>
+Long before the tablet PC craze of fall 2002, there was the Toshiba T100X Dynapad. The T100X was a &amp;quot;pen-based computer&amp;quot; (This was before the term &amp;quot;tablet PC&amp;quot; existed) which ran on a 25MHz 386 AMD CPU. It shipped with 4MB RAM and had a 40MB hard disk drive for storage. It did not include an internal floppy disk drive, but a separate external floppy disk drive could be purchased.
+
+Similar to most modern tablet PCs, the T100X did not have a built-in keyboard, and mouse pointing was done with a stylus. However it did contain ports to connect an external keyboard and serial mouse. It also contained two Type II PCMCIA slots, but it has been said configuring PCMCIA devices to work properly was often difficult. A parallel port adaptor was also included.
+
+The display consisted of a backlit 9.5&amp;quot; grayscale touch-sensitive LCD with a standard VGA resolution of 640x480 pixels at a color depth of 16 shades of gray.
+
+The T100X was often shipped with Windows 3.1, along with specialized drivers (Microsoft Pen Services for Windows 3.x) to enable pen and handwriting support in applications, and to allow the stylus to function as the mouse.
+
+The T100X weighed approximately 3.3 pounds, amazingly lightweight for portable PCs of the time (This was back when notebook computers easily weighed at least 8
+pounds).
+
+Thanks to Torin Darkflight for info and pictures.
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>640x480 VGA</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/Toshiba_T100X_System_1.jpg</image>
+        <keyboard>None built-in, an onscreen virtual keyboard was available</keyboard>
+        <language>Microsoft Pen Services for Windows</language>
+        <links>
+            <link>http://www.geocities.com/SiliconValley/Vista/4927/t100x_links.html</link>
+        </links>
+        <manufacturer>Toshiba</manufacturer>
+        <media>40MB 2.5'' hard-drive</media>
+        <name>T100-X  Dynapad</name>
+        <numGames></numGames>
+        <origin>Japan</origin>
+        <peripherals>Unknown</peripherals>
+        <ports>Serial, Keyboard, FDD (For external floppydrive), Two PCMCIA Type II slots, Parallel/LPT adaptor</ports>
+        <power>NiMH battery or external AC adaptor</power>
+        <price>Unknown</price>
+        <production></production>
+        <ram>4 MB standard, expandable to 20 MB maximum</ram>
+        <rom></rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INSIDE DYNAPAD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Toshiba_T100X_Inside_1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>Screen 9.5'' diagonal/ 270 x 39 x 210 mm (WxDxH) / Weight: 3.3 pounds</size>
+        <sound>Standard PC speaker</sound>
+        <speed>25MHz</speed>
+        <text></text>
+        <type>Portable</type>
+        <vram></vram>
+        <year>1993</year>
+    </computer>
+</computers>

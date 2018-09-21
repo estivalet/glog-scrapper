@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>None</builtInGames>
+        <colors>Monochrome</colors>
+        <controllers></controllers>
+        <coprocessor>optional Intel 8087 math co-processor, optional Z80 board for CP/M compatibility</coprocessor>
+        <cpu>Intel 8088 (16-bit cpu)</cpu>
+        <description>
+The DOT was a portable IBM PC compatible computer.  It was the last portable computer developed by Computer Devices Incorporated (CDI) back in 1981-1983. It followed the example of the Osborne systems, its main competitors. But while most other transportable systems were powered by 8-bit microprocessors, the DOT used a &amp;quot;powerful&amp;quot; 16-bit Intel 8088.
+
+It has a wide built-in 5 x 9&amp;quot; green monochrome display which can display up to 1056 x 254 pixels or 132 x 25 characters. There are 256 characters from the original IBM PC character set for compatibility, as well as 256 more characters for double size displays. The DOT features a real time clock. One or two (depending models) 3.5'' Sony disk drives were mounted inside the system (287 KB each).
+
+An optional Zilog Z80 expansion board allowing to run CP/M 2.2 was also available.
+
+There is also an optional thermal printer (160 cps) mounted on top of the monitor, which can print everything displayed on the screen. It can also be remotely operated through 1200 baud line. Here are the Printer characteristics :
+
+- Print method: Thermal, with a 5 x 10 dot matrix 
+- Print speed: 160 characters per second bidirectional 
+- Paper: 8 3/4 &amp;quot; wide, thermal paper; 150' or 100' roll with last 5' color coded 
+- Line length (characters): 80/132 columns, selectable 
+- Automatic carriage return and line feed: At 81st or 137th column 
+ - Character spacing: Vertical - 6 lines per inch Horizontal 80 column: 10 . 7 characters/inch 132 column: 18.4 characters/inch 
+- Graphics density: Vertical - 64 dots per inch Horizontal - 64 or 128 dots per inch 
+- Paper feeds : friction drive, 30 line feeds per second
+
+This is some of the software available: MS-DOS, CP/M (optional), assembler, Basic, Fortran, Cobol, Pascal, C, macro-assembler, Pearl, Record Manager, terminal emulation (TTY, IBM 3101, 327x, 3780, VT100), mailing, Volkswriter (wordprocessor), Multiplan, Time Manager, Project Manager...
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>40 x 16 / 40 x 25 / 320 x 200 / 640 x 200 / 512 x 254 / 1024 x 254 / 1056 x 254</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/dot_computer.jpg</image>
+        <keyboard>Full-stroke 89 keys with numeric keypad and 10 function keys</keyboard>
+        <language>None</language>
+        <links/>
+        <manufacturer>Computer Devices Incorporated</manufacturer>
+        <media>one or two  3.5'' floppy disk drives (287 KB each); average acces time: 365 ms; transfer rate: 500 KB/s</media>
+        <name>DOT</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals>Embedded printer, 2 x Serial RS-232 ports, Z80 card, built-in 300/1200 bauds modem, IBM 3780 &amp;amp; 327x compatible boards</peripherals>
+        <ports>Two expansion slots, two RS232/V24 ports, external monitor, parallel port optional</ports>
+        <power>Built-in power supply unit, 100w</power>
+        <price>From $2995 to $3997, depending upon options</price>
+        <production></production>
+        <ram>64 KB or 128KB of main user RAM expandable to 256KB on a single board (optional 64K OEM unit). Up to 704KB of main memory with an expander board. 2KB of static RAM memory for terminal configuration</ram>
+        <rom>24 KB or 64 KB depending models</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;THE DOT COMPUTER&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/dot2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;THE DOT LOGO&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+                <link>http://www.old-computers.com/museum/photos/dot3.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;HAPPY GUY&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/cdi_dot_ad_2.jpg</link>
+            </shot>
+        </screenshots>
+        <size>46 x 38 x 19 cm / 19 Kg</size>
+        <sound>Beeper</sound>
+        <speed>5 Mhz</speed>
+        <text>40 columns x 25 or 16 lines / 80 x 25-16 / 132 x 25-16</text>
+        <type>Pocket</type>
+        <vram>32 KB</vram>
+        <year>may 1983</year>
+    </computer>
+</computers>

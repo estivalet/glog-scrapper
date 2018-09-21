@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>ROM Monitor</builtInGames>
+        <colors></colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Intel 8086</cpu>
+        <description>
+The SDK-86 (System Design Kit) was the first available computer using the Intel 8086 microprocessor. It was sold as a single board kit at a cheaper price than a single 8086 chip! because Intel thought that the success of a microprocessor depends on its evaluation by as many users as possible. All major components were socketed and the kit could be assembled by anyone having a limited technical knowledge thanks to a clear and complete assembly manual. The system could be used with the on-board keyboard and display or connected to a serial video terminal. 
+The internal ROM monitor offered the following commands:
+S  (Substitute Memory): Displays / Modifies memory locations
+X  (Examine / Modify registers) : Displays / Modifies 8086 registers
+D  (Display memory): Displays memory content
+M  (Move): Moves block of memory data
+I  (Port Input): Receives data from input port
+O  (Port Output): Send data to input port
+G  (Go): Execute user program
+N  (Single Step): Execute single program instruction
+R  (Read File): Read object file from tape to memory
+W  (Write File): Writes block of memory to tape.
+
+
+
+ 
+
+
+</description>
+        <emulators/>
+        <graphics></graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/Intel_sdk86_board_1.jpg</image>
+        <keyboard>Hexadecimal 24 keys</keyboard>
+        <language>ROM Monitor</language>
+        <links/>
+        <manufacturer>Intel</manufacturer>
+        <media></media>
+        <name>SDK-86</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals></peripherals>
+        <ports>Processor bus, Parallel and Serial I/O</ports>
+        <power>+ 5V, -12V external AC adaptor</power>
+        <price>$780</price>
+        <production></production>
+        <ram>2 KB expandable to 4 KB</ram>
+        <rom>8 KB (Monitor)</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;DOCUMENTATION&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;SDK_86 documentation included&amp;lt;br&amp;gt;&amp;lt;br&amp;gt; - Assembly manual&amp;lt;br&amp;gt; - User's manual and user's guide&amp;lt;br&amp;gt; - 8086 reference guide&amp;lt;br&amp;gt; - Monitor listing&amp;lt;br&amp;gt; - System schematics. &amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Intel_sdk86_Manual_2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;DOCUMENTATION DETAIL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Detail of a construction step in the assembly documentation&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Intel_sdk86_Manual_1.jpg</link>
+            </shot>
+        </screenshots>
+        <size></size>
+        <sound></sound>
+        <speed>2.5 or 5 Mhz (jumper selectable)</speed>
+        <text>8-digit led</text>
+        <type>Home Computer</type>
+        <vram></vram>
+        <year>1979</year>
+    </computer>
+</computers>

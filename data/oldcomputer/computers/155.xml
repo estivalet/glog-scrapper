@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FRENCH ADVERT (SEPT. 83)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;quot;The incredible Secam color micro-computer !&amp;quot;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/vtech_laser200_fr-advert_2.jpg</link>
+            </advert>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FRENCH ADVERT (JULY 84)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;''The Laser 200, a Secam color micro-computer really very suprising''&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/vtech_laser200_advert_couleur-secam.jpg</link>
+            </advert>
+        </adverts>
+        <builtInGames>Microsoft Basic</builtInGames>
+        <colors>8</colors>
+        <controllers></controllers>
+        <coprocessor>Motorola 6847 (video processor)</coprocessor>
+        <cpu>Zilog Z80 A</cpu>
+        <description>
+The Laser 200 / 210 was sold worldwide under different brands (Dick Smith, Texet, Salora, etc...). Maybe the most popular of these &amp;quot;foreign models&amp;quot; was the VZ-200 sold by Dick Smith Electronics.
+
+The Laser 200 is the successor of the poor Laser 110 and was followed by the Laser 310.
+
+It was a good choice if you wanted to buy a cheap computer for initiation.
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>The emulator is written in Borland C++. It emulates a VZ200/300 with 34k RAM</description>
+                <link>http://www.powerup.com.au/~intertek/VZ200/vz.htm</link>
+                <name>VZEM</name>
+                <platform>MS DOS emulator</platform>
+            </emulator>
+            <emulator>
+                <description>The VZ-200 has been added to this multi-emulator</description>
+                <link>http://www.gstsoftware.co.nz/</link>
+                <name>Emulator2001</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Emulator for the NTSC version of this computer</description>
+                <link>http://www.geocities.com/EMUCOMPBOY/</link>
+                <name>James's VZ 200 emulator</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Play your VZ games in Windows</description>
+                <link>http://vzalive.bangrocks.com/emulators/</link>
+                <name>WinVZ</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Emulates a lot of systems for all platforms.</description>
+                <link>http://www.mess.org/</link>
+                <name>MESS Project</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>128 x 64, 4 colors (Mode 1)</graphics>
+        <hardwares/>
+        <hardwareDescription>The following extensions were available:
+
+- 4 colours printer
+- 16k RAM
+- 64k RAM
+- Light Pen
+- Joystick
+- DR10 Tape recorder
+- DR30 Tape recorder
+- DD20 5&amp;quot;1/4 disk drive</hardwareDescription>
+        <image>http://www.old-computers.com/museum/photos/vtech_laser200_2.jpg</image>
+        <keyboard>QWERTY, 45 rubber keysBasic instructions and graphic symbols</keyboard>
+        <language>Microsoft Basic</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=1117</link>
+            <link>computer.asp?st=1&amp;amp;c=157</link>
+            <link>computer.asp?st=1&amp;amp;c=1113</link>
+            <link>computer.asp?st=1&amp;amp;c=979</link>
+            <link>computer.asp?st=1&amp;amp;c=980</link>
+            <link>http://www.fortunecity.com/skyscraper/laser/184/</link>
+            <link>http://utenti.lycos.it/STEVE75/laser.html</link>
+            <link>http://vz200.tripod.com/</link>
+            <link>http://www.trickynz.com/VZ200.html</link>
+            <link>http://www.vtech.com</link>
+            <link>http://vzalive.bangrocks.com/</link>
+            <link>http://www.vz200-online.de.vu/</link>
+            <link>http://www.geocities.com/Baja/Dunes/6771/vz/</link>
+            <link>http://games.groups.yahoo.com/group/vzemu/</link>
+        </links>
+        <manufacturer>Video Technology</manufacturer>
+        <media></media>
+        <name>LASER 200 / 210</name>
+        <numGames></numGames>
+        <origin>Hong Kong</origin>
+        <peripherals></peripherals>
+        <ports>Tape-recorder (600 bauds)RF video outComposite video out (DIN)Memory upgrade portExpansion port</ports>
+        <power>10-12v, 800ma</power>
+        <price>$99 USD196  (France, december 84)</price>
+        <production>1985</production>
+        <ram>2 KB (Laser 200) / 6 KB (Laser 210/ VZ 200 / Salora Fellow)Up to 64 KB with memory addons</ram>
+        <rom>16 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;DICK SMITH VZ-200&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Same case as the Laser 200, but with more memory (8k).&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/vtech_vz200_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;THE LASER 210&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Same case as the Salora Fellow, different from the Laser 200.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/vtech_laser210.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;THE SALORA FELLOW&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Different case from the Laser 200, but the same one as the Laser 210.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/vtech_salora_fellow.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;THE LASER 200&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/vtech_laser200.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;REAR OF THE LASER 200&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;From left to right: &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; Power supply | Tape-recorder | Monitor | Memory expansion port | Peripheral port | Video output&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/vtech_laser200_back.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INSIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;A poor quality manufacturing&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/VideoTech_Laser200_Inside_1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>29 x 17 x 4 cm / 800 gr</size>
+        <sound>1 voice, 3 octaves</sound>
+        <speed>3.58 MHz</speed>
+        <text>32 x 16, 8 colors (Mode 0)</text>
+        <type>Home Computer</type>
+        <vram>2 KB</vram>
+        <year>November 1983</year>
+    </computer>
+</computers>

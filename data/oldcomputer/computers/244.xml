@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;US ADVERT, NOV. 1985&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/Tandy_Model4D_Advert_s1.jpg</link>
+            </advert>
+        </adverts>
+        <builtInGames>None</builtInGames>
+        <colors>Monochrome green phosphore</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Zilog Z80</cpu>
+        <description>
+The TRS-80 model 4 (ref 26-1068/69) was one of the last models of the TRS-80 series (and perhaps the less known). It ran at 4 MHz and displayed 80 columns x 24 lines in Model 4 mode, but was fully compatible with the TRS-80 model 3 and in Model 3 mode actually displayed 64x16 and ran at the Model 3's 2 MHz.
+
+It had 64 or 128 KB RAM, the 64 upper KB being used as a ram disk. It had one or two 5.25&amp;quot; floppy disk (184 KB each) and ran under TRSDOS 6.0 or 1.3, LDOS or CP/M.
+
+A transformation kit &amp;quot;TRS80 model III -&amp;gt; model IV&amp;quot; was available.
+
+The Model 4 was followed by the Model 4D (ref. 26-1070). The only difference being double sided drives -384 KB, instead of single sided drives.
+
+A portable version of the Model IV called Model 4P (ref. 26-1080) was also marketed few time after.
+_______________________</description>
+        <emulators>
+            <emulator>
+                <description>This program emulates a complete TRS-80</description>
+                <link>http://discover-net.net/~dmkeil/trs80/model4.htm</link>
+                <name>David Keil's TRS-80 Model III/4/4P Emulator Page</name>
+                <platform>MS DOS emulator</platform>
+            </emulator>
+            <emulator>
+                <description>This page offers shareware versions of a TRS-80 Model 4 emulator and a TRS-80 Model 1-2 emulator</description>
+                <link>http://www.arrowweb.com/mkr/</link>
+                <name>Matthew Reed's TRS-80 Emulator Web Site</name>
+                <platform>MS DOS emulator</platform>
+            </emulator>
+            <emulator>
+                <description>This TRS-80 Model III/4 Emulator is a commercial product </description>
+                <link>http://www.vavasour.ca/jeff/trs80.html#model4</link>
+                <name>TRS-80 Model III/4 Emulator</name>
+                <platform>MS DOS emulator</platform>
+            </emulator>
+            <emulator>
+                <link>http://www.arrowweb.com/mkr/</link>
+                <name>Model 4 Emulator</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <link>http://www.research.digital.com/SRC/personal/Tim_Mann/trs80.html</link>
+                <name>XTRS for Unix / X</name>
+                <platform>Unix / Linux emulator</platform>
+            </emulator>
+            <emulator>
+                <description>xtrs is a Radio Shack TRS-80 Model I/III/4/4P emulator for Unix and the X Window System</description>
+                <link>http://www.tim-mann.org/xtrs.html</link>
+                <name>xtrs: TRS-80 Model I/III/4 Emulator for Unix</name>
+                <platform>Unix / Linux emulator</platform>
+            </emulator>
+            <emulator>
+                <description>With this Java emulator, you'll be able to write a BASIC program directly in your browser!</description>
+                <link>http://www.vavasour.ca/jeff/trs80.html#simulator</link>
+                <name>TRS-80 Level I BASIC in a browser </name>
+                <platform>Other platform emulator</platform>
+            </emulator>
+            <emulator>
+                <description>A complete list of TRS-80 emulators for various platforms !</description>
+                <link>http://www.trs-80.com/trs80-e.htm</link>
+                <name>Ira Goldklang's TRS-80 Revived Pages </name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+            <emulator>
+                <description>MESS emulator also emulates a TRS-80 systems</description>
+                <link>http://www.mess.org</link>
+                <name>MESS</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>None</graphics>
+        <hardwares>
+            <hardware type="NETWORK">
+                <items>
+                    <item>
+                        <description>Remote Unit Active|||Serial# 26-1210|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;REMOTE UNIT ACTIVE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;Serial# 26-1210&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This rare unit is meant for teachers to control up to 16 TRS-80 Model 1 from a another TRS-80 equiped with min-disk. All the controled TRS-80 model 1 must be equiped with Level II. &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; It cost 2895fr (France, 1981)&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/tandy_trs80-m1_remote-unit-active.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Network II box|||p/n 26-1211|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;NETWORK II BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;p/n 26-1211&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This box allowed up to 16 TRS computer to be networked. Three network boxes were released by Tandy (I, II and III).&amp;lt;br&amp;gt; The Network II required verbal communication between the server operator and the remote user, and data transfer had to be completed one user  at a time.&amp;lt;br&amp;gt; The network III allowed automated control of the network so that users could easily access programs and data stored on the server's storage device.&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Tandy_Network2_s1.jpg</photo>
+                    </item>
+                </items>
+            </hardware>
+            <hardware type="PRINTERS">
+                <items>
+                    <item>
+                        <description>DMP-200||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;DMP-200&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;80-column, 100 cps dot matrix printer.&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/tandy_trs80_dmp200-printer_1.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Daisy Wheel Printer II|||Serial# 26-1158|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;DAISY WHEEL PRINTER II&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;Serial# 26-1158&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This is a high-quality printer meant to be used with wordprocessors. Some interchangeable daisy-wheels were available (Courrier, Elite, Madeleine). It could print 163 characters per line (34cm), at a 43 cps rate. &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; It cost 9595fr (France, 1981)&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/tandy_trs80-m1_daisy-wheel-printer-2_1.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Line Printer I |||Ref# 26-7017|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;LINE PRINTER I &amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;Ref# 26-7017&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This printer was a custom version of the Oki Microline 80.&amp;lt;br&amp;gt; Printed lower and upper case on paper rolls or listing paper (24cm wide) from 40 to 80 columns/line, at a speed rate of 28 lines/minute. &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; It cost 716 Euros in 1981 (France).&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Tandy_Model1_LinePrinter1_s1.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Line Printer III|||Serial# 26-1156|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;LINE PRINTER III&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;Serial# 26-1156&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This printer can print lower and upper case, at a speed rate of 120 c/s, on paper up to 38cm wide. It is conceived for intensive use ! &amp;lt;br&amp;lt;&amp;lt;br&amp;gt; It cost 9950fr in 1981 (France).  &amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/tandy_trs80-m1_line-printer-3_1.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Line Printer VI|||Serial# 26-1166|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;LINE PRINTER VI&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;Serial# 26-1166&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This large printer can print lower and upper case, graphic characters and symbols at a speed rate of 100 c/s ! This is definately a professional printer. &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; It cost 5495fr in 1981 (France).&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/tandy_trs80-m1_line-printer-6_1.jpg</photo>
+                    </item>
+                    <item>
+                        <description>TP-10 Thermal Printer|||Box|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;TP-10 THERMAL PRINTER&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;Box&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/tandy_trs80_tp-10_thermal-printer_box.jpg</photo>
+                    </item>
+                </items>
+            </hardware>
+            <hardware type="STORAGE">
+                <items>
+                    <item>
+                        <description>Exatron |||Stringy Floppy  drive|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;EXATRON &amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;Stringy Floppy  drive&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The Exatron Stringy Floppy (ESF) was a low-cost data—storage system that fitted the gap, between cassettes and disk drives.&amp;lt;br&amp;gt; The system was based on a miniature endless—loop tape cartridge called a &amp;quot;wafer&amp;quot;.&amp;lt;br&amp;gt; The amount of data that could be recorded on a wafer depended on the length of tape in it, typically, a 50—foot wafer could hold at least 40 KB of programs or data.  &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;Matt&amp;lt;/b&amp;gt; reports to us:&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;#666666&amp;quot;&amp;gt; A curiousity about the model 1, CPU SPEED had a direct relatonship with STORAGE CAPACITY. if you doubled the clock speed of your MODEL 1 CPU you doubled the amount of data you could store on your stringy floppies. this is a feat that no other computer no matter how many ghz you have in your PC can do today without using compression.&amp;lt;/font&amp;gt; &amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Tandy_Model3_ExatronWafer_s1.jpg</photo>
+                    </item>
+                </items>
+            </hardware>
+        </hardwares>
+        <image>http://www.old-computers.com/museum/photos/Tandy_Model4_Running_s1.jpg</image>
+        <keyboard>Typewriter style 83 keys with numeric keypad</keyboard>
+        <language>None</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=1302</link>
+            <link>computer.asp?st=1&amp;amp;c=242</link>
+            <link>computer.asp?st=1&amp;amp;c=1083</link>
+            <link>computer.asp?st=1&amp;amp;c=409</link>
+            <link>computer.asp?st=1&amp;amp;c=243</link>
+            <link>computer.asp?st=1&amp;amp;c=18</link>
+            <link>computer.asp?st=1&amp;amp;c=766</link>
+            <link>HTTP://WWW.8BIT-MICRO.COM</link>
+            <link>http://freespace.virgin.net/david.sampson/</link>
+            <link>http://www.trs-80.com/</link>
+            <link>http://ganley.org/software/trs80.html</link>
+            <link>http://personal.nbnet.nb.ca/mclays/trsmod1.html</link>
+            <link>http://www.RadioShackCatalogs.com</link>
+            <link>http://www.kjsl.com/trs80</link>
+            <link>http://www.tim-mann.org/trs80.html</link>
+            <link>news:comp.sys.tandy</link>
+        </links>
+        <manufacturer>Tandy Radio Shack</manufacturer>
+        <media>One or Two 5.25'' disk-drives</media>
+        <name>TRS 80 MODEL 4</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals></peripherals>
+        <ports>Tape (500 or 1500 bauds), Centronics, I/O ports compatible with Model III, Serial (4D)</ports>
+        <power>Built-in power supply unit</power>
+        <price>From $1990. In later years the price came down to about $1000By 1990 the Model 4D was being closed out at $599</price>
+        <production></production>
+        <ram>64 KB (up to 128 KB)</ram>
+        <rom>14 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FIRST VERSION&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Two Model 4 versions were released. One can recognize them at the surface from the different arrangement of the arrow keys.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Tandy_Model4_System_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SECOND VERSION&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The second version had an improved gate-array mainboard and a new location for the serial port.&amp;lt;br&amp;gt; The arrow keys are now clustered to the right of the keyboard.&amp;lt;br&amp;gt; This version features a second 3.5&amp;quot; DS DD 720 KB floppy drive (Tandy option). &amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Tandy_Model4_SystemUS_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MODEL 4 PLATE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Tandy_Model4_Plate_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BOTH KEYBOARD VERSIONS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Tandy_Model4_Keyboards_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;KEYBOARD CLOSE-UP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The red button is the Reset switch&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Tandy_Model4_KeybCloseUp_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SIDE VIEW&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Tandy_Model4_SideView_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;TOP VIEW&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Tandy_Model4_TopView_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FRONT PANEL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Both FDD drives were Tandon Single-sided, single density models.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Tandy_Model4_FDDs_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BOTTOM SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(1)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Parallel printer connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(2)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Serial connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(3)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Expansion port connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(4)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Video adjustment&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(5)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Tape recorder DIN socket&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Tandy_Model4_BottomView_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INSIDE #1&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The mainboard is mounted vertically at the back.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Tandy_Model4_Inside_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INSIDE #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The top cover holds the CRT and its electronics. A fan has been added on top of the CRT.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Tandy_Model4_TopCover_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MAINBOARD, 1ST VERSION&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The fist mainboard version used only standard chips. It had 64 KB of RAM. Provision was made for a second 64 KB RAM bank.&amp;lt;br&amp;gt; The separate floppy-disk controller card was located behind the mainboard as well as a smal sound generator circuit.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Tandy_Model4_Mainboard_s2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MAINBOARD, 2ND VERSION&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The second &amp;quot;gate array&amp;quot; version included the floppy-disk controller, the sound generator and buzzer and a second serial port.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(1)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Power connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(2)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Video connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(3)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Tape recorder connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(4)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; 128 KB RAM chips (16x4164 equivalents)&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(5)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; WDC1865 UART, serial port controller&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(6)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; WD1773 floppy-disk controller&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(7)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; BIOS ROMs&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(8)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Z80 CPU socket. In this machine, the CPU chip was replaced by a RAM expansion piggy-back card &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; Other chips were custom made for Tandy and had unknown part numbers.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Tandy_Model4_Mainboard_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;RAM CARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This RAM card is inserted on the Z80 CPU socket and provides up to 1 MB of extra RAM (2 x 512 KB DIP modules) used as a virtual floppy-disk drive.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Tandy_Model4_RamCard_s1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>47.5 (W) x 52 (D) x 31 (H) cm</size>
+        <sound>Built-in speaker</sound>
+        <speed>4 MHz</speed>
+        <text>64 x 16 / 32 x 16 / 64 x 40 / 80 x 24</text>
+        <type>Professional Computer</type>
+        <vram></vram>
+        <year>1983</year>
+    </computer>
+</computers>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;JAPANESE ADVERT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/toshiba_pasopia_ad1.jpg</link>
+            </advert>
+        </adverts>
+        <builtInGames>Model PA7010 : T-BASICModel PA7012 : OA-BASIC</builtInGames>
+        <colors>8 (black, blue, red, purple, green, cyan, yellow and white)</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Z80A</cpu>
+        <description>
+This is the first home-computer made by Toshiba and was quite powerful for 1981 : 64k RAM, 80 columns, 640 x 200 high resolution and large expansion possibilities.
+
+There were two models : the PA7010 with the T-BASIC built-in, and the PA7012 with the OA-BASIC built-in.
+The advantage of the OA-BASIC is that it can use indexed sequential access methods to handle files, and has an automatic load / run function for launching programs. It can also handle Chinese characters directly within BASIC. Finally it has a Terminal mode.
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>160 x 100, 640 x 200</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/toshiba_pasopia_1.jpg</image>
+        <keyboard>Full-stroke keyboard, JIS standard, 90 keys, separated numeric keypad, 8 function keys (16 functions)</keyboard>
+        <language>Model PA7010 : T-BASICModel PA7012 : OA-BASIC</language>
+        <links>
+            <link>http://member.nifty.ne.jp/s-kato/pasopia.html</link>
+        </links>
+        <manufacturer>Toshiba</manufacturer>
+        <media></media>
+        <name>PASOPIA</name>
+        <numGames></numGames>
+        <origin>Japan</origin>
+        <peripherals>Disk-drives, RAM expansions, printers</peripherals>
+        <ports>Video out, Tape interface (1600 baud), RS232c, Parallel connector, Expansion bus</ports>
+        <power>AC100V +- 10%, 50 / 60Hz</power>
+        <price>163 000 yens (September 81, Japan)</price>
+        <production></production>
+        <ram>64 kb</ram>
+        <rom>32 kb</rom>
+        <screenshots/>
+        <size>420  x 253  x 99.5 mm</size>
+        <sound>3 octaves (speaker built-in)</sound>
+        <speed>4 Mhz</speed>
+        <text>80 x 20, 80 x 25, 36 x 24, 36 x 19</text>
+        <type>Home Computer</type>
+        <vram>16 kb</vram>
+        <year>1981</year>
+    </computer>
+</computers>

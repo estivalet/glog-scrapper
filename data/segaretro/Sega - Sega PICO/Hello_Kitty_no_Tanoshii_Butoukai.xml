@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<games>
+    <game>
+        <developer>Sega</developer>
+        <genre>Drawing and manual arts</genre>
+        <name>Hello Kitty no Tanoshii Butoukai</name>
+        <players>1</players>
+        <publisher>Sega</publisher>
+        <releases>
+            <release>
+                <code></code>
+                <country></country>
+                <date></date>
+                <price></price>
+            </release>
+            <release>
+                <code>HPC-6002</code>
+                <country>JP</country>
+                <date>1993-06-26</date>
+                <price>&amp;Acirc;&amp;yen;3,980</price>
+            </release>
+            <release>
+                <code>HPC-6061</code>
+                <country>JP (Hajimema Series2)</country>
+                <date>1998</date>
+                <price>&amp;Acirc;&amp;yen;</price>
+            </release>
+            <release>
+                <code></code>
+                <country>BR</country>
+                <date>199x</date>
+                <price>$</price>
+            </release>
+        </releases>
+        <romSize>512KB</romSize>
+        <shots>http://segaretro.org/images/2/27/HKnTB_title.png</shots>
+        <shots>http://segaretro.org/images/1/13/HKnTB_Pico_JP_Box.jpg</shots>
+        <shots>http://segaretro.org/images/9/9c/HKnTB_pico_jp_manual.pdf</shots>
+        <shots>http://segaretro.org/images/0/06/HKnTB_Pico_JP_Box_HS.jpg</shots>
+        <shots>http://segaretro.org/images/9/9c/HKnTB_pico_jp_manual.pdf</shots>
+        <shots>http://segaretro.org/images/a/a1/HKNC_Pico_BR_Box_Front.jpg</shots>
+        <systems>Sega Pico</systems>
+    </game>
+</games>

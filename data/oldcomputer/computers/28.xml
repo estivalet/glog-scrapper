@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;AMIGA POSTERS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/Commodore_Amiga_1000_Posters.jpg</link>
+            </advert>
+        </adverts>
+        <builtInGames>one 3.5'' disk-drive, double sided double density, 880k formatted storage capacity</builtInGames>
+        <colors>up to 64 colors among 4096 (EHB mode)The Amiga can display 4096 colors simultaneously (HAM mode)</colors>
+        <controllers></controllers>
+        <coprocessor>3 : Denise (video), Agnus (memory manager, blitter &amp;amp; copper), Paula (sound and disk access)</coprocessor>
+        <cpu>Motorola MC68000</cpu>
+        <description>
+The inventor of the Amiga 1000 was Jay Miner, who created the Atari 800 many years before. He wanted to make the most powerful computer ever, then he joined a small Californian company called Amiga. He used the principle of the three coprocessors (again) to help the main processor.
+
+At the beginning, the Amiga had only 64 kilobytes of RAM! The original &amp;quot;Amiga&amp;quot; called the Lorraine was meant to be a game machine with some computer capabilities.
+
+Atari initially invested the money in the Amiga Corp. to do the R&amp;amp;D on the Amiga computer line.  Naturally, when the design was finished, Amiga Corp. gave Atari the choice to purchase the technology.  Atari passed in favor of their own project. Amiga Corp. then offered the technology to Commodore, Inc., who were quite pleased to purchase it, seeing that their own 16-bit computer was so far from reaching the shelf.
+After the loss of a major legal battle for control of the Amiga chip set design, Atari launched the ST series (Sixteen-Thirty-two)  as a competitor for the upcoming Amiga.
+
+The operating system (AmigaDOS) was done by MetaComCo, a British company who specialized in the 68000 processor (they also made languages for the Sinclair QL). It is a fully multitasking system which looks like UNIX with a graphical user interface.
+It was the very first personal computer with great graphics and sound capabilities with a GUI environment.
+The Amiga BASIC was written by Microsoft (like most other versions of BASIC), but the first models were shipped with a non-Microsoft BASIC called ABasiC.
+
+The Amiga 1000 was to lose popularity one year later with the creation of its two main successors: the Amiga 500 and the Amiga 2000.
+
+There were two versions of the Amiga 1000. The first one sold only in the USA, had a NTSC display and no EHB video mode. Later versions would have this built in. The second one had a PAL display, the enhanced video modes (EHB) and was built in Germany.
+
+The official name for the A1000 was the Commodore Amiga. It was only when the A2000 was launched that they officially began to refer to the machine by its model number.
+
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>Complete but commercial Amiga emulator</description>
+                <link>http://www.amigaforever.com/</link>
+                <name>Amiga Forever</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Powerful commercial emulators</description>
+                <link>http://amigaosxl.haage-partner.de/index-e.html</link>
+                <name>AMIthlon &amp;amp; AmigaXL</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Probably better at some games than UAE, but not as versatile.</description>
+                <link>HTTP://FELLOW.SOURCEFORGE.NET</link>
+                <name>WinFellow</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>The best Amiga emulator ? :-)</description>
+                <link>http://www.winuae.net/</link>
+                <name>WinUAE</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>UAE for Mac OS X</description>
+                <link>http://maxuae.de/</link>
+                <name>Max UAE</name>
+                <platform>Apple emulator</platform>
+            </emulator>
+            <emulator>
+                <description>AmigaSYS is a pre-installed full Amiga OS for WinUAE</description>
+                <link>http://amigasys.fw.hu/</link>
+                <name>AmigaSYS</name>
+                <platform>Unix / Linux emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Amiga Emulator for Pocket PC</description>
+                <link>http://pocketinsanity.sourceforge.net/</link>
+                <name>Pocket UAE</name>
+                <platform>Other platform emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Standard UAE enhanced with features from WinUAE.</description>
+                <link>http://www.rcdrummond.net/uae/</link>
+                <name>Experimental UAE</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+            <emulator>
+                <description>MESS now emulates the Commodore Amiga</description>
+                <link>http://www.mess.org</link>
+                <name>MESS</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+            <emulator>
+                <description>(Ubiquitous Amiga Emulator) for BeOS, Mac OS, Linux, NextStep, MSDOS, OS/2 and Win95/NT : Homepage.</description>
+                <link>http://www.freiburg.linux.de/~uae/</link>
+                <name>UAE</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>320 x 200 and 320x400 (32 colors), 640 x 200 and 640 x 400 (16 colors)</graphics>
+        <hardwares>
+            <hardware type="AUDIO">
+                <items>
+                    <item>
+                        <description>MIDI Gold 500 |||by Golden Hawk Technology|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MIDI GOLD 500 &amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;by Golden Hawk Technology&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This is a MIDI interface for the Amiga 500, 2000, or 3000... &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; It features :&amp;lt;br&amp;gt; - one MIDI In&amp;lt;br&amp;gt; - two MIDI Out&amp;lt;br&amp;gt; - one switchable Out/Thru&amp;lt;br&amp;gt; - one MIDI/Serial Switch&amp;lt;br&amp;gt; - one Out/Thru Switch&amp;lt;br&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/commodore_amiga_golden-hawk-midi-interface.jpg</photo>
+                    </item>
+                </items>
+            </hardware>
+            <hardware type="CARDS">
+                <items>
+                    <item>
+                        <description>Amiga 1300|||Genlock|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;AMIGA 1300&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;Genlock&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/commodore_amiga1000_1300-genlock.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Memory expansion board||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MEMORY EXPANSION BOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;2 / 4 / 6 / 8 MB expansion card here fitted with 2 MB.&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Commodore_Amiga1500_MemBoard_1.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Video board||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;VIDEO BOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This board featured 2 MB of RAM and allowed the Amiga to be connected to a standard VGA monitor. All the video modes could be displayed, including the interlace one.&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Commodore_Amiga1500_VideoBoard_1.jpg</photo>
+                    </item>
+                </items>
+            </hardware>
+            <hardware type="DRIVES">
+                <items>
+                    <item>
+                        <description>A570 CD-ROM||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;A570 CD-ROM&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/amiga_cdrom_a570_1.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Hard Disk card||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;HARD DISK CARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;40 MB SCSI card from SUPRA CORP.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt; Additional SCSI devices could be connected in chain trough the back connector&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Commodore_Amiga1500_HDBoard_1.jpg</photo>
+                    </item>
+                </items>
+            </hardware>
+        </hardwares>
+        <image>http://www.old-computers.com/museum/photos/commodore_amiga1000_3.jpg</image>
+        <keyboard>full-size typewriter style, 89 keys, 10 function keys and numeric keypad</keyboard>
+        <language></language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=628</link>
+            <link>computer.asp?st=1&amp;amp;c=624</link>
+            <link>computer.asp?st=1&amp;amp;c=63</link>
+            <link>computer.asp?st=1&amp;amp;c=907</link>
+            <link>computer.asp?st=1&amp;amp;c=30</link>
+            <link>computer.asp?st=1&amp;amp;c=32</link>
+            <link>computer.asp?st=1&amp;amp;c=65</link>
+            <link>computer.asp?st=1&amp;amp;c=1260</link>
+            <link>computer.asp?st=1&amp;amp;c=64</link>
+            <link>computer.asp?st=1&amp;amp;c=1261</link>
+            <link>computer.asp?st=1&amp;amp;c=106</link>
+            <link>http://www.randelshofer.ch/animations/</link>
+            <link>http://amiga.emugaming.com/</link>
+            <link>http://www.virtualpast.de/</link>
+            <link>http://www.cucug.org/amiga.html</link>
+            <link>http://www.amigart.com</link>
+            <link>HTTP://WWW.BACK2ROOTS.ORG/</link>
+            <link>http;//www.lemonamiga.com</link>
+            <link>http://amiga.multigraph.com/</link>
+            <link>http://www.netbsd.org/Ports/amiga/index.html</link>
+            <link>http://www.old-computer-mags.com/</link>
+            <link>http://www.recordedamigagames.org</link>
+            <link>http://www.retropack.co.uk/</link>
+            <link>http://ourworld.compuserve.com/homepages/MikeWebb/amhome.html</link>
+            <link>http://www.amiga-hardware.com/</link>
+            <link>http://eab.abime.net/</link>
+            <link>http://www.amiga.org/</link>
+            <link>news:comp.binaries.amiga</link>
+            <link>news:comp.sources.amiga</link>
+            <link>news:comp.sys.amiga.advocacy</link>
+            <link>news:comp.sys.amiga.announce</link>
+            <link>news:comp.sys.amiga.announce</link>
+            <link>news:comp.sys.amiga.emulations</link>
+            <link>news:comp.sys.amiga.games</link>
+            <link>news:comp.sys.amiga.hardware</link>
+            <link>news:comp.sys.amiga.marketplace</link>
+            <link>news:comp.sys.amiga.misc</link>
+            <link>news:comp.sys.amiga.programmer</link>
+            <link>news:comp.sys.amiga.programmer</link>
+        </links>
+        <manufacturer>Commodore</manufacturer>
+        <media>one 3.5'' disk-drive, double sided double density, 880k formatted storage capacity</media>
+        <name>AMIGA 1000</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals></peripherals>
+        <ports>RGB, RF &amp;amp; composite video ouputs, external floppy disk port, Centronics, RS232c, Expansion port, stereo sound, Atari Compatible joysticks (2), RAM expansion port, keyboard connector</ports>
+        <power>120V, 90 Watts, 60Hz, 1A nominal</power>
+        <price>&amp;pound;1700 (UK, 1985) - $1500 (USA, 1986) - &amp;pound;1285 (UK, Nov. 1986, 512K RAM)</price>
+        <production>January 1987</production>
+        <ram>256kb, upgradable to  512k internally. Extensible to 8.5 MB with extension card (512 KB CHIP RAM + 8 MB FAST RAM) and to 10 MB</ram>
+        <rom>8 KB (The Kickstart isn't in ROM but loaded at the boot in RAM, where it takes 256 KB)</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;AMIGA 1000&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/commodore_amiga1000_2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;REAR&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/commodore_amiga1000_rear.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/commodore_amiga-1000_box.jpg</link>
+            </shot>
+        </screenshots>
+        <size>4.25'' x 17.75'' x 13''  / 13 lbs</size>
+        <sound>Four 8 bit PCM voices, 9 octaves</sound>
+        <speed>7.16 mHz</speed>
+        <text>60 x 32 / 80 x 32</text>
+        <type>Home Computer</type>
+        <vram></vram>
+        <year>July 1985</year>
+    </computer>
+</computers>

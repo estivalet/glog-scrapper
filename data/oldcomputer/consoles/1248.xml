@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>None</builtInGames>
+        <colors>32,768 palette, 256 on screen</colors>
+        <controllers></controllers>
+        <coprocessor>1.024 MHz Sony SPC700, Picture Processor Unit</coprocessor>
+        <cpu>Nintendo 5A22, based on 65c816</cpu>
+        <description>
+Nintendo's follow up the NES arrived 1990. Bundled with the classic Super Mario World the console proved an instant hit in Japan, selling out within hours and going on to outsell Sega's Mega Drive. Between them the Super Famicom and SNES acheived combined sales of almost 50 million units world-wide.
+
+With well over 750 games released, owners certainly had plenty of choice. One of the biggest sales boosts came from a near arcade perfect version of Street Fighter II, released at the peak of the games popularity.
+
+Around the time of the Mega CD, Nintendo planned a CD-ROM add-on with the aid of Phillips and Sony. Artists impressions were published in magazines but the device was never manufactured. Phillips went on to create the CD-i while Sony's efforts would result in the PlayStation.
+
+A number of peripherals were released, most notably 1994's Super Game Boy. This allowed the use of the wide selection of Game Boy games, which could be displayed with colour borders. The games themselves could also be displayed in colour, and a number of four colour palettes were available to select from.
+
+1995 saw the launch of the Satellaview, a modem which connected to the expansion port. Users were able to download games which were released in instalments.
+
+Production of the Super Famicom eventually came to an end in 2003, after an incredible 13 years of official support.
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>One of the best SNES emulator available, if not the best. Available for many platforms</description>
+                <link>http://www.snes9x.com/</link>
+                <name>Snes9x</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+            <emulator>
+                <description>The other leading SNES emulator (Win, DOS &amp;amp; Linux)</description>
+                <link>http://www.zsnes.com/</link>
+                <name>ZSnes</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>256x224 - 512x448 max</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/nintendo_super-famicom_1s.jpg</image>
+        <keyboard>8-way d-pad, 6 buttons + Select + Start</keyboard>
+        <language>None</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=1226</link>
+            <link>computer.asp?st=1&amp;amp;c=1249</link>
+        </links>
+        <manufacturer>Nintendo</manufacturer>
+        <media>Cartridge, 2 to 48 Megabits</media>
+        <name>Super Famicom</name>
+        <numGames></numGames>
+        <origin>Japan</origin>
+        <peripherals>Super GameBoy, Super Scope (Light gun), Satellaview, SNES Mouse, Super Multitap (8 player adapter)</peripherals>
+        <ports>Cartridge, power adapter, RF out, AV out, 2 controller ports, expansion port</ports>
+        <power>External power supply unit, 10v DC</power>
+        <price>&amp;yen;25,000</price>
+        <production>2003</production>
+        <ram>128 KB</ram>
+        <rom></rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/nintendo_super-famicom_box_1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>Unknown</size>
+        <sound>8 channel Sony S-SMP, 3 channel Sony/Nintendo S-DSP</sound>
+        <speed>3.579545 MHz (Switchable by software to 2.68 MHz or 1.79 MHz)</speed>
+        <text></text>
+        <type></type>
+        <vram>64 KB</vram>
+        <year>November 1990</year>
+    </computer>
+</computers>

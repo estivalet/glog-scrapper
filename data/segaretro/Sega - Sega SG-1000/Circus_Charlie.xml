@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<games>
+    <game>
+        <developer>Konami</developer>
+        <genre>Action</genre>
+        <name>Circus Charlie</name>
+        <players>1-2 (alternating)</players>
+        <publisher>Aaronix</publisher>
+        <releases>
+            <release>
+                <code></code>
+                <country></country>
+                <date></date>
+                <price></price>
+            </release>
+            <release>
+                <code>R-112</code>
+                <country>TW</country>
+                <date>198x</date>
+                <price>NT$?</price>
+            </release>
+        </releases>
+        <romSize>32kB</romSize>
+        <shots>http://segaretro.org/images/2/22/CircusCharlie_SG1000_TW_Title.png</shots>
+        <systems>SG-1000</systems>
+    </game>
+</games>

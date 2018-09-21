@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FRENCH ADVERT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;quot;You hesitate between two standards.&amp;quot;&amp;lt;br&amp;gt; &amp;quot;Rank Xerox doesn't.&amp;quot;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/xerox_16-8_ad_1.jpg</link>
+            </advert>
+        </adverts>
+        <builtInGames>One or Two 5.25'' or 8'' disk-drives</builtInGames>
+        <colors>Unknown</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Zilog Z80A @ 4 Mhz (8-bit)8086 @ 4,77 Mhz (16-bit)</cpu>
+        <description>
+The &amp;quot;best of both worlds&amp;quot;. The Xerox 8 / 16 belongs to a family which appeared at the end of the 8 bit era, when MS-DOS began to be a standard for the 16-bit systems. It has two CPUs, the Z80 allows the use of CP/M and the 8086 is for MS DOS and CP/M 86. This computer was actually two computers sharing certain resources, like the display, the power supply and the floppies but essentially seperate.
+This computer was one of the first, if not the first PC-sized computer that had concurrent processing (not time share, but real honest to goodness concurrent processing). One could start a task on either operating system, say a spread sheet, and then hot key over to the other processor and perform another task, all while the other &amp;quot;side&amp;quot; was working at full speed at it's task. Because the 16/8 was actually two computers in one, both sides worked at full capacity and did not share ram or other system resources required for processing data: they worked at full speed regardless of whether or not the other side was in use. Only the &amp;quot;active side&amp;quot; had access to the video, floppies and the hard drive (if avaialble), but with dual floppies, one floppy could be assigned for the 8 bit side and one for the 16 bit side. In that instance, each side would access the its assigned floppy when brought to the active side. 
+
+The 16/8 is made of four units :
+- a 12'' monochrom monitor, housing the whole hardware of the system, like in the Apple Macintosh,
+- the keyboard, very complete,
+- the disks (two 5''1/4 disks, a hard-disk (5 MB, later 10 MB) was optional),
+- an expansion box meant to house the different expansion boards.
+
+There was also a Diablo printer in option. The whole system thus took quite some room on your desktop!
+
+After the presentation of the first 16/8 in 1983, Xerox launched a new version in 1984, faster, more compact and sold with a hard-disk.
+
+Unfortunately the 16/8 was a bit obsolete as the 8-bit professional systems were dying slowly and the 16/8 wasn't offering much more than an IBM PC launched a few years before. The price of the system wasn't even attractive.
+Xerox stopped the production of all its micro-computers at the start of the year 1985.
+
+This computer is the direct successor of the Xerox 820 series, which could be almost converted into a Xerox 8/16 with a special 8086 board.
+
+Dale Carpenter adds:
+Several things, an 820-II has an extra expansion slot on the motherboard. if you put the 16-bit card into that slot your 820-II is now a 16/8.
+Your picture shows a rectangular box called an EM-II (expansion module - II) to add it to a 16/8 you remove the 16-bit card and install it in the card cage in the center of the EM-II then install the card with 2 wide ribbon cables attached(coming from the EM-II) into the expansion slot on the motherboard.
+The EM-II has either 1 hard drive, 1 floppy or 1 of each. The system supported the external drives also, the dual 5.25&amp;quot; and 8&amp;quot; boxes.
+One final note not mentioned: all of the 8&amp;quot; drive boxes had an expansion plug on the back you could daisey chain up to 4 drive units onto any of the 820, 820-II and 16/8 machines.
+
+___________
+
+Thanks to chrism3667 for the picture
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>640 x 256</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/xerox_8-16_2.jpg</image>
+        <keyboard>Full-stroke keyboard with numeric and editing keypads, arrow keys, 12 function keys</keyboard>
+        <language></language>
+        <links/>
+        <manufacturer>Xerox</manufacturer>
+        <media>One or Two 5.25'' or 8'' disk-drives</media>
+        <name>8 / 16</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals>Memory expansion, Graphical board, printer, hard-disk, mouse</peripherals>
+        <ports>Serial 9600 bauds, Internal Expansion Slot, External Floppy Connector</ports>
+        <power>PSU built-in</power>
+        <price>from 4575  to 8390  (France, 1984)</price>
+        <production>1985</production>
+        <ram>64 KB (Z80) + 128 KB (8086)</ram>
+        <rom>4 KB Bootstrap</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;COMPLETE SYSTEM&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/xerox_16-8_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BOOT SCREENSHOT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/xerox_8-16_boot.jpg</link>
+            </shot>
+        </screenshots>
+        <size></size>
+        <sound>Beeper</sound>
+        <speed>4 Mhz (Z80A) and 4,77 Mhz (8086)</speed>
+        <text>80 x 25 / 40 x 25</text>
+        <type>Professional Computer</type>
+        <vram></vram>
+        <year>1983</year>
+    </computer>
+</computers>

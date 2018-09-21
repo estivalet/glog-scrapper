@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Microsoft BASIC</builtInGames>
+        <colors>Monochrome</colors>
+        <controllers></controllers>
+        <coprocessor>None</coprocessor>
+        <cpu>6502</cpu>
+        <description>
+Ohio Scientific, based in Ohio, USA, were the makers of the Superboard II. The Challenger 1P and Challenger IIP-MF were essentially cased versions of this single board system with integrated keyboard, a single 5Volt power supply and the first 6502 version of Microsoft BASIC interpreter.
+
+An optional floppy disk controller and a extra 24K of ram for this unit was available using a 610 expansion board.
+
+The C1P-MF was an upgraded version of the C1P having 20 KB of RAM and one 90 KB floppy disc drive. Memory could be upgraded up to 32 KB.
+
+The Superboard and its derivatives had good user support and many programs were available.
+
+_______________________
+
+Some additional information from Mark Alsing:
+
+It had basic keyclick sound capability that could be added by popultaing components (resitors and caps) on the main board.An RS-232 interface could also be added this way and there was a cut-out on the back to mount a DB-25 connector for it. Video output was composite and required an RF modulator to display output on a regular TV. I had a MicroVerter box that put the output on ch. 13 or 14.
+
+
+Ken Jordan, a game developer who got his start on the OSI-C1P,  reports :
+
+The text mode was really 32 x 32, but because of TV overscan only 24 x 24 was used.As was common, I soldered Atari joysticks to the numeric keys to allow gaming (there was a standard for this mod).
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>Only built-in graphic characters</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/OhioScient_Challenger1P_System_1.jpg</image>
+        <keyboard>Full stroke 53 keys</keyboard>
+        <language>Microsoft BASIC</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=572</link>
+            <link>computer.asp?st=1&amp;amp;c=46</link>
+            <link>computer.asp?st=1&amp;amp;c=47</link>
+            <link>computer.asp?st=1&amp;amp;c=860</link>
+        </links>
+        <manufacturer>OHIO Scientific</manufacturer>
+        <media></media>
+        <name>Challenger 1P</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals>24 KB memory board, floppy discs</peripherals>
+        <ports>Tape recorder (input/output jacks for 300 baud Kansas City Standard tape storage), Composite video</ports>
+        <power>Built-in 5V power supply unit</power>
+        <price>About $350</price>
+        <production></production>
+        <ram>4 KB (static) expandable to 8 KB on board</ram>
+        <rom>8 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BACK SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/OhioScient_Challenger1P_Back_1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>Unknown</size>
+        <sound>No sound</sound>
+        <speed>1 MHz.</speed>
+        <text>24 chars. x 24 lines</text>
+        <type>Home Computer</type>
+        <vram>1 KB</vram>
+        <year>1979</year>
+    </computer>
+</computers>

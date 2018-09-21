@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>None</builtInGames>
+        <colors>Monochrome</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Motorola 68000</cpu>
+        <description>
+The Concept system was intended to be an individual diskless workstation operating within a Local Area Network (LAN). Each user could use the ressources of the computer and share both data and peripheral devices, including mass storage devices. The network connected computers offered some attractive cost advantages and allowed several people to work simultaneously on the same task.
+  
+Users' data were shared through the Corvus OmniNet networking system which was the core product of Corvus Company and the first affordable and reliable network system for small computers. OmniNet could handle up to 63 workstations with a maximum cable length of 1200 metres.  The theoretical speed was at 1 MB per second. The Omninet interface was designed by Corvus, used a 6502 processor and NEC custom chips. An Omninet card was available during two years for IBM-PC, Apple II and S-100 BUS systems.As the Concept featured four Apple II compatible slots, the lan card was inserted in one of them in the first systems, then Omninet was on the motherboard of the Corvus. 
+ 
+The graphic bitmap display could be rotated and switch from portrait mode for the word processor to landscape mode for the spreadsheet. Software and hardware handled the change smoothly! The user could choose between several supplied type fonts or/and create his own caracter sets. Like the Apple Lisa, the display could be divided into independant windows, each with its own attributes. However, no mouse was used
+
+The Concept ran CCOS, its own operating system (Corvus Concept Operating System), or P-System, the Java-like O.S. of the early 80'. A word processor (EdWord) and a spreadsheet (Logicalc) were available. They were specially adapted to the graphic features specific to the Concept. Several developpement tools could also be used: PASCAL and FORTRAN-77 compilers, 68000 assembler and a CP/M emulator.
+
+Corvus manufactured several hard-disk drives, from 6 MB to 40 MB, and a stange mirror unit that allowed the user to backup a drive to a real video recorder using real video tapes - there was even a Panasonic (?) video recorder that the system knew how to drive remotely so it managed and recorded tapes, all by itself - pretty magic to watch in those days!! It could store up to 200 MB at the speed of 600 KB per minute. There were at least two versions of Corvus Bank Tape, the CBT-100 and the CBT-200 certified 100 and 200 Megabyte.
+
+A second backup unit called The Bank also used video type tape, but it was built into a special (roughly square) cartridge that popped out of the top and held the tape in a continuos loop so there was no rewinding or stuff to do.
+
+Like many other original computers, the Concept has sunk into oblivion in 1984, mainly due to the IBM-PC advent.
+
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>707 * 479 dots</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/Corvus_Concept_System_1.jpg</image>
+        <keyboard>Full-stroke 91 keys with 10 function keys and numeric keypad</keyboard>
+        <language>None</language>
+        <links/>
+        <manufacturer>Corvus Systems</manufacturer>
+        <media>None</media>
+        <name>Concept</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals>Shared 6 to 40 MB hard-disks, VHS tapes backup</peripherals>
+        <ports>2 x RS-232 - 4 x Apple II compatible slots - 1 x RS 422</ports>
+        <power>Built-in power supply</power>
+        <price>$4995 (256 KB) - $5995 (512 KB)</price>
+        <production></production>
+        <ram>256 KB expandable to 512 KB</ram>
+        <rom>4 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;TWO CONCEPT'S AT WORK&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Two Concept's linked to a 6 MB hard-disk drive (center) via an Omninet local-area network. An 8&amp;quot; F.D. drive is connected to a controller board installed in the Apple II compatible expansion slot of the Concept on the right. The video display on the right is set up in the portrait format, almost the exact size and shape of a sheet of paper. The monitor on the left has been rotated 90 degrees for viewing in the landscape format. &amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Corvus_Concept_System_2.jpg</link>
+            </shot>
+        </screenshots>
+        <size>35 Kgs</size>
+        <sound>Sound generator</sound>
+        <speed>8 Mhz.</speed>
+        <text>90 chars x 63 lines (Portrait mode)117 chars x 47 lines (Landscape mode)</text>
+        <type>Professional Computer</type>
+        <vram>VRAM was mapped in main memory. So each pixel on screen was a bit in the main memory</vram>
+        <year>1982</year>
+    </computer>
+</computers>

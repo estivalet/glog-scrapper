@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<games>
+    <game>
+        <developer></developer>
+        <genre>Educational</genre>
+        <name>The Muppets On The Go!</name>
+        <players>1</players>
+        <publisher>Sega</publisher>
+        <releases>
+            <release>
+                <code></code>
+                <country></country>
+                <date></date>
+                <price></price>
+            </release>
+            <release>
+                <code>49046</code>
+                <country>US</country>
+                <date>1996-03</date>
+                <price>$?</price>
+            </release>
+        </releases>
+        <romSize>512KB</romSize>
+        <shots>http://segaretro.org/images/d/dd/TMotG_title.png</shots>
+        <shots>http://segaretro.org/images/2/2a/TMotG_Pico_US_Box_Front.jpg</shots>
+        <shots>http://segaretro.org/images/c/c6/TMotG_Pico_US_Cart_Page1.jpg</shots>
+        <systems>Sega Pico</systems>
+    </game>
+</games>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Basic</builtInGames>
+        <colors>Monochrom LCD display</colors>
+        <controllers></controllers>
+        <coprocessor>CMOS 7508 4bit : handles housekeeping, clock, battery, etc.</coprocessor>
+        <cpu>uPD 70008 (Z80 compatible )</cpu>
+        <description>
+This computer is the successor of the HX-20.
+
+The main cosmetic difference is a wider screen that can be adjusted to the right angle.
+
+There are 2 ROM slots under the machine to implement additional ROM programs.
+
+On the right of the LCD display can be plugged a tape-recorder, a plotter, RAM expansions, a lot of things or ... nothing.
+
+A lot of peripherals were available for this little computer (see hardware page), at least in japan.
+
+The PX-4 was logically followed by the PX-8.
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>240 x 64</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/epson_hx40_1.jpg</image>
+        <keyboard>Full-stroke keyboard (chicklet keyboard available)</keyboard>
+        <language>Basic</language>
+        <links>
+            <link>http://www.discordia.org.uk/px4/</link>
+            <link>http://page.freett.com/tata93/hc40.htm</link>
+        </links>
+        <manufacturer>Epson</manufacturer>
+        <media>Microcasette</media>
+        <name>PX 4 / HC 40</name>
+        <numGames></numGames>
+        <origin>Japan</origin>
+        <peripherals>Printers, plotters, tape-recorder, ROM &amp;amp; RAM expansion, barcode reader, EPROM burner, replacement keyboard, modem and more...</peripherals>
+        <ports>Serial, RS232c, cassette, cartridge port, printer (parallel) port, expansion port, sound in &amp;amp; out</ports>
+        <power>Built-in battery which can last for 4 hours</power>
+        <price>1590 FF (France, january 1988)</price>
+        <production></production>
+        <ram>64 KB : 64 Kbit CMOS D-RAM x 8</ram>
+        <rom>96 KB : 256 K-bit CMOS ROM X 3</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;JAPANESE USER MANUAL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Hello sweety !&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/epson_hc40_manual_p1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>A4 size</size>
+        <sound>Beeper</sound>
+        <speed>3.6864 MHz</speed>
+        <text>40 x 8</text>
+        <type>Portable</type>
+        <vram></vram>
+        <year>1984</year>
+    </computer>
+</computers>

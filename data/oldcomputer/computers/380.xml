@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>F-Basic available on disk</builtInGames>
+        <colors>16</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>MBL 6809E</cpu>
+        <description>
+The FM-11 AD2 is an evolution of the FM-11 AD. It is delivered with the OS-9 operating system.
+
+There was also a FM-11 AD2+ model with enhanced features like 256 KB RAM instead of 128 KB.
+
+Torsten Dittel, from Germany, adds:
+Looks like the FM11 AD2 had an HD63C09EP from Hitachi installed. It was a
+PIN/Code compatible CMOS/3MHz version of the MC68B09E from Motorola. For licensing reasons Hitachi kept as a &amp;quot;secret&amp;quot; that it has a special
+native mode with additional instructions/registers/capabilities and more
+speed. I don't think these features were used in the stock OS-9 Level II
+installed.
+With our CoCo3s and the CPU changed to an HD63C09EP we use a
+special OS-9 version called NitrOS9 to take advantage of this native
+mode.
+
+Gern, from Japan, reports:
+I've owned FM-11AD2, used for 3 years. Here I wanna introduce unique aspect of this wonderful machine.
+One of the interesting feature of FM-11 series is CPU cards. All FM-11 without BS model equipped a couple of CPU slots and one is filled with 6809. Z80 and 8088 CPU card was available from FUJITSU. 68000 card was available from third party. CP/M-80/86 was available for each CPU cards. (But everytime system boots from 6809 ;-)
+FM-11BS might be only model come with 8088.
+After ST/AD/EX line-up, AD2 and BS replaced, then AD2+ followed. OS-9 was packaged with AD2/AD2+. AD2+ is supposed to be the longest one which FUJITSU manufactured because amazing multitask was appropriate for many  industrial devices. When I was noticed from final lots of FM-11AD2+ from FUJITSU, over 2 following generation FM series were extinct.
+
+
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>640 x 400, 640 x 200</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/fujitsu_fm11ad2_1.jpg</image>
+        <keyboard>Complete professional keyboard with function keys and separated numeric keypad (JIS standard). 98 keys.</keyboard>
+        <language>F-Basic available on disk</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=1217</link>
+            <link>computer.asp?st=1&amp;amp;c=381</link>
+            <link>computer.asp?st=1&amp;amp;c=379</link>
+        </links>
+        <manufacturer>Fujitsu</manufacturer>
+        <media>1 or 2 x 5.25'' disk drives (2DD, 320 KB), optional 10 MB hard disk</media>
+        <name>FM 11 AD 2</name>
+        <numGames></numGames>
+        <origin>Japan</origin>
+        <peripherals></peripherals>
+        <ports>Tape-recorder interface (1600 baud), parallel/Centronics connector, RS-232c, RGB video output, Composite video output, TV (RF) video output, light-pen interface, 7 expansion slots</ports>
+        <power>Built-in PSU</power>
+        <price></price>
+        <production></production>
+        <ram>128 KB (up to 1 MB)</ram>
+        <rom>24 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FM 11 AD2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/fujitsu_fm11ad2.jpg</link>
+            </shot>
+        </screenshots>
+        <size>464 (W) x 360 (D) x 153 (H) mm / 13 kg</size>
+        <sound>Unknown</sound>
+        <speed>2 Mhz</speed>
+        <text>40 x 20, 40 x 25, 80 x 20, 80 x 25</text>
+        <type>Home Computer</type>
+        <vram>192 KB</vram>
+        <year>1984</year>
+    </computer>
+</computers>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Microsoft Extended Basic</builtInGames>
+        <colors>512</colors>
+        <controllers></controllers>
+        <coprocessor>Video Display Processor Yamaha V9938</coprocessor>
+        <cpu>Z80A</cpu>
+        <description>
+This was a small MSX 2 computer it had &amp;quot;only&amp;quot; 64 KB of VRAM (the minimum required in MSX2 specifications) and no floppy drive usually found on MSX2 computers.
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>Excellent free MSX emulator</description>
+                <link>http://www.bluemsx.com/</link>
+                <name>BlueMSX</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>The excellent fMSX, but ported onto the GamePark GP32 handheld console.</description>
+                <link>HTTP://WWW.RETRODEV.INFO/</link>
+                <name>fMSX32</name>
+                <platform>Other platform emulator</platform>
+            </emulator>
+            <emulator>
+                <description>This new MSX emulator can reproduce, among many other MSX, MSX2and  MSX2+ machines, both Panasonic Turbo-R models. Be sure to get the catapult frontend and the system roms from FUNET. </description>
+                <link>http://openmsx.sourceforge.net/</link>
+                <name>openMSX - The MSX emulator that aims for perfection.</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>up to 512 x 424 with 16 colors chosen from a 512 colors palette</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/canon_v25_3s.jpg</image>
+        <keyboard>QWERTY, mechanical keyboardSame keyboard as Canon V-20, with 4 big cursor keys on right</keyboard>
+        <language>Microsoft Extended Basic</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=618</link>
+            <link>computer.asp?st=1&amp;amp;c=619</link>
+            <link>computer.asp?st=1&amp;amp;c=862</link>
+            <link>computer.asp?st=1&amp;amp;c=773</link>
+            <link>computer.asp?st=1&amp;amp;c=281</link>
+            <link>computer.asp?st=1&amp;amp;c=137</link>
+            <link>computer.asp?st=1&amp;amp;c=854</link>
+            <link>computer.asp?st=1&amp;amp;c=790</link>
+            <link>computer.asp?st=1&amp;amp;c=662</link>
+            <link>computer.asp?st=1&amp;amp;c=288</link>
+            <link>http://www.faq.msxnet.org</link>
+        </links>
+        <manufacturer>Canon</manufacturer>
+        <media></media>
+        <name>V-25</name>
+        <numGames></numGames>
+        <origin>Japan</origin>
+        <peripherals></peripherals>
+        <ports></ports>
+        <power></power>
+        <price></price>
+        <production></production>
+        <ram>64 kb</ram>
+        <rom>32 kb</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;CANON V-25&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/canon_v25_3.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;REAR&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/canon_v25_rear.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;KEYBOARD CLOSE-UP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/canon_v25_keyboard.jpg</link>
+            </shot>
+        </screenshots>
+        <size></size>
+        <sound>General Instrument AY-2-8910 sound generator3 voices, 8 octaves</sound>
+        <speed>3,6 Mhz ?</speed>
+        <text>40 x 24 or 80 x 24</text>
+        <type>Home Computer</type>
+        <vram>64 kb</vram>
+        <year>1984 ?</year>
+    </computer>
+</computers>

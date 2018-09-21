@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;GERMAN ADVERT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This is a German advertisement for the BIT-60 and BIT-90 models. Atari VCS-2600 cartridges are scattered in front of the BIT-60, to show that the BIT-60 is really compatible with the VCS-2600 ! But strangely enough, there is no picture displayed on the TV. Were these models really  working ? ;-)&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/bit-corp_bit60-90_ad_1.jpg</link>
+            </advert>
+        </adverts>
+        <builtInGames>Basic</builtInGames>
+        <colors>128 colors</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>MOS 6502</cpu>
+        <description>
+This obscure computer is said to be compatible with the Atari VCS 2600 game system. This feature is typical of eastern countries such has Korea or Honk-Kong where copyrights were not very respected. The Laser 2001 for example is also known to accept Colecovision and Atari cartridges through a special extension. The Hanimex Pencil II was also supposed to accept Colecovision cartridges. And indeed, the cartridge slot of the BIT-60 seems very similar to the VCS-2600 one !
+
+It seems that there has been at least two different version of the BIT-60 (see more pictures section). The one picture here with a chicklet keyboard, two joystick ports on the front side and two buttons on the left of the cartridge slot (start &amp;amp; select ?), and a later model with a different case, a mechanical keyboard and no more joystick ports on the front...
+
+The BIT-60 and its brother the BIT-90 had no success and disappeared quickly surely because of copyright issues.
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>196 x 156</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/bit-corp_bit60_chicklet.jpg</image>
+        <keyboard>QWERTY, full-stroke keyboard (47 keys) or chicklet keyboard (46 keys) depending models</keyboard>
+        <language>Basic</language>
+        <links/>
+        <manufacturer>Bit Corporation</manufacturer>
+        <media></media>
+        <name>BIT 60</name>
+        <numGames></numGames>
+        <origin>Korea</origin>
+        <peripherals>Memory expansion</peripherals>
+        <ports>Cartridge slot, TV aerial (HF modulator) video output, 2 x joystick ports (Atari standard), cassette interface</ports>
+        <power>External PSU</power>
+        <price>Unknown</price>
+        <production></production>
+        <ram>2 kb (up to 32 kb)</ram>
+        <rom>8 kb</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MECHANICAL KEYBOARD MODEL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This model is different from the early one, as it has a mechanical keyboard. The two joystick connectors cannot be seen at the front anymore...&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/bit-corp_bit-60_1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>Unknown</size>
+        <sound>2 channels</sound>
+        <speed>1 Mhz</speed>
+        <text>26 x 24</text>
+        <type>Home Computer</type>
+        <vram></vram>
+        <year>1983</year>
+    </computer>
+</computers>

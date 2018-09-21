@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Catridges</builtInGames>
+        <colors>yes (at least 4)</colors>
+        <controllers></controllers>
+        <coprocessor>CDP1861 video display chipset</coprocessor>
+        <cpu>RCA 1802</cpu>
+        <description>
+The Soundic Victory MPT-02 is a clone of one of the first home videogame systems, the RCA Studio II (see this entry for more info).
+
+In opposition to the Studio II, the Victory MPT-02 has detachable controllers. Those controllers are composed of 10 buttons labeled from 0 to 9. More surprising, the Victory MPT-02 is the only Studio II clone system to offer alternative joysticks: real ones, with a stick and a fire button... more practical for action games.
+
+It is interesting to notice that MPT-02 systems are Studio RCA 2 software-compatible, MPT-03 are Emerson Arcadia 2001 software-compatible and MPT-04/05 systems are Interton VC-4000 software-compatible systems... It is not clear yet who is at the origin of the MPT systems (help welcome), but it might be well Soundic.
+
+If you want to learn more about the RCA Studio II and its clones, click here.
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>Nice emulator with some games to download</description>
+                <link>http://www.classicgaming.com/studio2/</link>
+                <name>Winstem</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Elf, Elf II, Super ELF and Studio II emulator (Windows compilation also available)</description>
+                <link>http://www.elf-emulation.com/emulator.html</link>
+                <name>RCS Elf Emulator</name>
+                <platform>Unix / Linux emulator</platform>
+            </emulator>
+            <emulator>
+                <description>MESS also emulates the RCA Studio II</description>
+                <link>http://www.mess.org</link>
+                <name>MESS</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>64 x 32 (theoretical maximum of 64 x 128 is possible)</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/soundic_mpt02_1.jpg</image>
+        <keyboard>Two built-in keypads (10 keys: numbers from O to 9) + two joysticks</keyboard>
+        <language></language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=1163</link>
+            <link>computer.asp?st=1&amp;amp;c=728</link>
+            <link>http://www.old-computers.com/magazine/view.asp?r=2&amp;amp;a=5</link>
+            <link>http://www.classicgaming.com/studio2/faq.htm</link>
+            <link>http://www.classicgaming.com/studio2/</link>
+        </links>
+        <manufacturer>Soundic</manufacturer>
+        <media>Catridges</media>
+        <name>Victory MPT-02</name>
+        <numGames></numGames>
+        <origin>Hong Kong</origin>
+        <peripherals></peripherals>
+        <ports>Cartridge slot, video output &amp;amp; power in</ports>
+        <power>external power supply (6v DC, 600 mA  - -(o- +)</power>
+        <price>Unknown</price>
+        <production></production>
+        <ram>512 bytes (normally 256 bytes display RAM, 256 bytes program RAM)</ram>
+        <rom>2 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;VICTORY HOME TV PROGRAMMER&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/soundic_victory-mpt02_r-side_3m.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;RIGHT SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/soundic_victory-mpt02_r-side_m.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;WITH DETACHED CONTROLLER&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/soundic_victory-mpt02_r-side_2m.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;TOP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/soundic_victory-mpt02_top_m.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FRONT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/soundic_victory-mpt02_front_m.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;CONTROLLERS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/soundic_mpt02_joysticks.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;CONTROLLER CLOSE-UP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The joystick is in fact an add-on which can be clipped onto the keypad controller&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/soundic_victory-mpt02_controller_m.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;JOYSTICK&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/soundic_victory-mpt02_joystick_m.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;JOYSTICK CLIPPED&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;... onto the keypad controller&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/soundic_victory-mpt02_controller-flipped_m.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;REAR&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/soundic_victory-mpt02_rear_m.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/soundic_mpt02_box_1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>Unknown</size>
+        <sound></sound>
+        <speed>1.78 MHz</speed>
+        <text></text>
+        <type></type>
+        <vram></vram>
+        <year>? 1978</year>
+    </computer>
+</computers>

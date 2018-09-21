@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Cartidges</builtInGames>
+        <colors>52</colors>
+        <controllers></controllers>
+        <coprocessor>PPU (Picture Processing Unit)</coprocessor>
+        <cpu>NMOS 6502 (8-bit)</cpu>
+        <description>
+This is a Famicom compatible handheld system. It is the ultimate handheld system for all Famicom fans!
+
+The Game Axe is a complete hand-held system with volume &amp;amp; brightness knobs, two controller connectors and even Audio/Video IN and OUT ports! Thus it is possible to use the Game Axe on a TV (NTSC) like a &amp;quot;normal&amp;quot; console. You can then turn off the LCD screen thanks to a LCD toggle switch. With the A/V IN port you can connect any video source to watch on the LCD screen. Just imagine how useful this can be! The only thing the Game Axe lacks when compared to a Famicom, is the the expansion port.
+
+You can play almost every games produced for the Famicom (some unlicenced ones won't work). American and European NES game can be played by using a special 60-72 pin converter.
+
+There were in fact two versions of the Game Axe, the FC-812 and the FC-868 (Super Game Axe). The FC-812 was produced from 1995 until 1997, it had a 3&amp;quot; (7.26cm) screen, ared power led and a characteristic white border around it. The FC-868 was produced from 1997 until present. It has a 4&amp;quot;(10.2cm) screen and a green power LED. This is the most common version found nowadays.
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>160 x 192 with 16 colors, 64 sprites (8 x 8 pixels, or 8 x 16)</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/redant_game-axe_1.jpg</image>
+        <keyboard>8-directions standard digital joypad. 4 buttons (A, B, Turbo A, Turbo B). START, SELECT</keyboard>
+        <language></language>
+        <links>
+            <link>http://tsuru.tri6.net/sp/pachi/mdpachi.htm</link>
+            <link>http://www.redant.com.tw/</link>
+            <link>http://members.fortunecity.com/davidlevine/ga.htm</link>
+        </links>
+        <manufacturer>Redant</manufacturer>
+        <media>Cartidges</media>
+        <name>Game Axe</name>
+        <numGames></numGames>
+        <origin>Ta&amp;iuml;wan</origin>
+        <peripherals></peripherals>
+        <ports>DC in, Famicom Cartridge slot, A/V Out (NTSC), A/V In, 2 x controller connectors, phone</ports>
+        <power>6 AA batteries, or 9 volts DC, center-negative polarity, between 500-1000mA</power>
+        <price></price>
+        <production></production>
+        <ram>16 KB</ram>
+        <rom></rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FIRST VERSION&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This FC-812 model was the first Game Axe produced. The 3” screen (smaller than the 4&amp;quot; screen of the second version) has a characteristic white border around it and the power LED is red.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/redant_game-axe_fc812.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FRONT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/redant_game-axe_front.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BACK&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/redant_game-axe_back.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/redant_game-axe_side.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SYSTEM &amp;amp; BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/redant_game-axe_box-system_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/redant_game-axe_box.jpg</link>
+            </shot>
+        </screenshots>
+        <size></size>
+        <sound>pAPU (pseudo-Audio Processing Unit), 4 analog channels, 1 digital channel</sound>
+        <speed>1.8 MHz</speed>
+        <text></text>
+        <type></type>
+        <vram>16 KB</vram>
+        <year>1995</year>
+    </computer>
+</computers>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>None</builtInGames>
+        <colors></colors>
+        <controllers></controllers>
+        <coprocessor>None</coprocessor>
+        <cpu>Motorola 6800</cpu>
+        <description>
+The Altair 680 appeared about one year after the successful Altair 8800 was launched. With this model, MITS attempted to offer a new system based on the well known Motorola 6800 processor and then cover a large market share in small computer business.
+
+The computer was available in kit or assembled form, It was smaller than the 8800 but kept the same design of front panel and switches. It featured 1 KB of RAM (4 times the 8800 RAM) and 1 KB of ROM with support for a serial terminal and punch tape reader.
+
+For $420, customer got an assembled system with no display and no mass storage devices. program had to be entered each time the system was switched on using binary address and data switches. At power off, all of the RAM content was definitly lost. In fact, in order to get a really usable system with terminal or Teletype and tape or floppy disc storage, user had to invest about $2000, a fortune at the time.
+
+First available programming language was the BASIC 2.0 the young Micro-Soft company ported from the Intel 8080 to the 6800.
+
+As the Altair 680 wasn't the first and cheaper 6800 based system, it didn't meet a great success. It was followed by the 680B and the 680B Turnkey where all front panel switches were replaced with an unique power key.
+ 
+
+
+</description>
+        <emulators/>
+        <graphics></graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/Mits_Altair680_FrontPanel_1.jpg</image>
+        <keyboard>27 address, data and control switches</keyboard>
+        <language>None</language>
+        <links>
+            <link>http://www.virtualaltair.com/</link>
+        </links>
+        <manufacturer>MITS</manufacturer>
+        <media>None in basic version</media>
+        <name>Altair 680</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals>Memory board, I/O board</peripherals>
+        <ports>Serial port</ports>
+        <power>Built_in power supply unit</power>
+        <price>Kit form: about $300, assembled: $420</price>
+        <production></production>
+        <ram>1 KB</ram>
+        <rom>1 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SYSTEM&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Mits_Altair680_System_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BACK SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Basic version only featured one serial connector.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Mits_Altair680_Back_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INSIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/mits_altair-680_inside.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FRONT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/mits_altair-680_front_2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;POPULAR ELECTRONICS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The November 1975 issue of Popular Electronics showed a first version of the Altair 680 and explained in an article how to build it.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Mits_Altair680_PopularElectronics_1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>28 (W) x 28 (D) x 12 (H) cm.</size>
+        <sound></sound>
+        <speed>500 KHz.</speed>
+        <text>Depends on the video terminal used</text>
+        <type>Professional Computer</type>
+        <vram></vram>
+        <year>October 1975</year>
+    </computer>
+</computers>

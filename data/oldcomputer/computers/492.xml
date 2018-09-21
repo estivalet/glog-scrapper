@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>None</builtInGames>
+        <colors>LCD display : monochromeColor option : 8 colors simultaneously out of a palette of 16</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>lntel 8086</cpu>
+        <description>
+This stylishly designed computer had a speech recognition feature along with a microphone clipped on the left side of the LCD screen. 
+
+An article published in Personal Computer World in November 1984 explained how the voice recognition system works : 
+&amp;quot;The voice system on the Portable allows you to have a vocabulary file of up to 4096 words. However, only 64 words can be held in RAM at any one time, so a fair amount of shuffling is necessary with large vocabularies. 
+Before the system can understand your commands, it is necessary to create a vocabulary file and train the system to understand your voice. The Portable is supplied with a program which allows this to be done.
+The first thing to do is to create a vocabulary disk file. You can have as many of these as you like. The training program prompts for a name and then opens a diskfile underthat namewith a .VOC extension. Next you enter the words you want to use, along with an optional command which you want the machine to respond to. Once you have entered all the words, you can go into training mode. To do this you speak the words into the microphone and the program records the voice patterns. The more times you repeat each word the better the result. 
+After you have trained all the words you can go on to see how well the machine understands you.&amp;quot; 
+
+The keyboard had no leads - it communicates with the main unit through infrared signals. But if you put an object in between the keyboard and the main unit, communication stops ! It was the same membrane keyboard as used with the Apricot F1.
+
+There was also an optional and quite innovative trackball available, but a classic Microsoft mouse could also be used through the serial port. 
+The Apricot Portable shipped with the 'Activity' front-end to the operating system, an enhanced version of the one delivered with the Apricot F1. It was quite &amp;quot;Mac&amp;quot; influenced with icon-based navigation and even a built-in icon editor ! 
+
+The Apricot Portable was supplied with a great deal of bundled software : SuperWriter, SuperCalc, SuperPlanner, ACT Diary, ACT Sketch and an interactive tutorial. 
+
+The built-in disk-drive located at the right-hand side of the main unit was a Sony 3.5'' disk-drive, double-sided, 720k. ACT also supplied a little external 10 MB Rodime 3.5'' hard disk called an MSD (Mass Storage Device).
+
+The large LCD was the first full 25-line liquid crystal screen to be mounted on a portable computer. It was made in Japan by Hitachi, but ACT wasn't happy with the controller, so it designed its own (very fast) display controller chip. It's possible to adjust the contrast by holding down the CTRL and UP-ARROW or DOWN-ARROW keys together, but the angle of the display is fixed and cannot be tilted.
+
+But the Apricot Portable can also be connected to an external monitor and with the colour option, can display 640 x 256 pixels in eight colours from a palette of 16. In addition it is also possible to display data on both displays at the same time. For example, when using Supercalc 3 you could display the spreadsheet model on the LCD at the same time as displaying graphs or pie charts on the monitor ! 
+The Apricot Portable could only be powered by mains power, there was no battery option available at all. Quite strange for a &amp;quot;portable&amp;quot; computer... 
+
+The Apricot Portable did not meet with great success and was considered rather as a gadget, given its LCD screen and voice recognition features, but lacking real compatibility with other Apricot computers, in addition to its limited portability. 
+
+The price was cut down in 1985, and a new version with 512k RAM was sold. The 256k model was then called FP-256, and the 512k model FP-512.
+
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>Commercial emulator that emulates PC/Xi/Xen, the `F' Series, and the Apricot FP Portable</description>
+                <link>http://www.ansible.demon.co.uk/ai/ape.html</link>
+                <name>APE Plus : Apricot Emulator</name>
+                <platform>MS DOS emulator</platform>
+            </emulator>
+            <emulator>
+                <description>QDAE is a Quick and Dirty Apricot Emulator for Linux, Windows and MacOS X. This version emulates the Apricot F1; it may support other F-series Apricots as well.</description>
+                <link>http://www.seasip.info/Unix/QDAE/</link>
+                <name>QDAE</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>LCD screen : 640 x 200External monitor : 640 x 256 (8 colors simultaneously out of a palette of 16)</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/act_apricot-portable_r-side.jpg</image>
+        <keyboard>infrared membrane keyboard, 92 keys, 10 function keys and numeric keypad (same keyboard as the Apricot F1)</keyboard>
+        <language>None</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=495</link>
+            <link>computer.asp?st=1&amp;amp;c=493</link>
+            <link>computer.asp?st=1&amp;amp;c=499</link>
+            <link>computer.asp?st=1&amp;amp;c=501</link>
+            <link>computer.asp?st=1&amp;amp;c=500</link>
+            <link>http://www.actapricot.org/home/</link>
+            <link>http://groups.yahoo.com/group/actapricot/</link>
+        </links>
+        <manufacturer>ACT</manufacturer>
+        <media>one Sony 3.5'' disk-drive, double-sided, 720k</media>
+        <name>Apricot Portable</name>
+        <numGames></numGames>
+        <origin>United Kingdom</origin>
+        <peripherals>ACT's modem card, memory expansion, 10Mb external hard-disk, infrared mouse/trackball</peripherals>
+        <ports>Centronics parallel, RS232 serial,RGB monitor, Apricot-compatible expansion slot</ports>
+        <power>Internal PSU</power>
+        <price>256k model : &amp;pound;1965 (UK, november 84)256k model : 3450  (France, april 85)512k model : 4413  (France, april 85)</price>
+        <production></production>
+        <ram>256k, up to 1024k</ram>
+        <rom>32k</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;APRICOT PORTABLE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Next to it is the infra-red trackball.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/act_apricot_portable_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;WHITE KEYBOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This Apricot Portable had a white keyboard. This computer used the same keyboard as the Apricot F1 hence it's possible to find Apricot Portable systems with Apricot F1 keyboards mounted !  &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; Notice that the trackball is also white instead of the black one normally sold with the Portable. Even the microphone clipped on right side of the LCD screen is white...&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/act_apricot-portable_white-keyb.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;CLOSED&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/act_apricot_portable_closed.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;REAR&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/act_apricot_portable_rear.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INSIDE EXPLAINED&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;In spite of several original innovations (speech recognition, infra-red data transmissions), the internal design of the Apricot Portable remained very traditional for the time. No specialized components were used to simplify the two electronic boards, which were heavily loaded with traditional circuits. Like all ACT models, this portable computer had, however great proven reliability.  &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(1)&amp;lt;/b&amp;gt; Liquid crystal display which can be used in text and graphic modes.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(2)&amp;lt;/b&amp;gt; The integrated microphone makes it possible to memorize 63 english commands which can be then used in software provided with the system.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(3)&amp;lt;/b&amp;gt; The 256 KB RAM is made up of 32 x 4164 memory chips (64000 x 1 bit cells). &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(4)&amp;lt;/b&amp;gt; Motherboard using a great number of standard circuits.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(5)&amp;lt;/b&amp;gt; Sony 720 KB double-sided, double-density 3.5&amp;quot; disk drive. ACT was one of the first manufacturers to use this disk format.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(6)&amp;lt;/b&amp;gt; This interface board manages all inputs/outputs (Serial, Parallel, infra-red, keyboard, disk drive, interfaces).&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(7)&amp;lt;/b&amp;gt; These 2 ROMs hold the BIOS of the machine and basic routines for the MS-DOS and CP/M 86 operating systems.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(8)&amp;lt;/b&amp;gt; INTEL 8086 CPU running at 5 MHz, a true 16 bit microprocessor.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/s_Apricot_Port_Inside.jpg</link>
+            </shot>
+        </screenshots>
+        <size>45 (W) x 20 (W) x 17.2 (H) cm / 5.8 kg</size>
+        <sound>Beeper, Key click</sound>
+        <speed>5 Mhz</speed>
+        <text>80 chars. x 25 lines (LCD screen)</text>
+        <type>Transportable</type>
+        <vram>128k with the color option</vram>
+        <year>1984</year>
+    </computer>
+</computers>

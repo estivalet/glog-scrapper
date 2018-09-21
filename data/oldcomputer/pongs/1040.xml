@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <batteries></batteries>
+        <builtInGames>one (pong)</builtInGames>
+        <buttons></buttons>
+        <colors>Black &amp;amp; white</colors>
+        <controllers></controllers>
+        <coprocessor>Unknown</coprocessor>
+        <cpu>Unknown</cpu>
+        <description>
+Very interesting and early pong system but sadly nearly nothing is known about it. It is the UK version of the Entex Gameroom Tele-Pong (USA).
+
+It might be an analogic pong, using no dedicated chipset. The controllers are weird : two knobs for each player, integrated into the plastic case. One for vertical movements and the other for horizontal movements. Two other knobs at the top of the case are used to set V-Hold and H-Hold values of the display. Another control (dial or push button) seems to be used to choose between channel 26 or 31 on the TV.
+
+The score is not displayed on TV, but there is a way to keep track of each player's score thanks to two numbered wheels built-in the case.
+
+_____________
+
+Steve Challis recalls :
+I had one of these as a young child. From what I can remember it used descrete TTL /analog logic chips. And there were quite a few of them on one large PCB. It had sound provided by an inbuilt modulator to the TV set. The back was made of cardboard which also housed the battery holder.
+ 
+
+
+</description>
+        <emulators/>
+        <graphics></graphics>
+        <gun></gun>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/binatone_tv-game-unit_1.jpg</image>
+        <keyboard>4 built-in knobs. Two for each player (vertical &amp;amp; horizontal movement ?)</keyboard>
+        <language>one (pong)</language>
+        <links/>
+        <manufacturer>Binatone</manufacturer>
+        <media></media>
+        <name>TV Game Unit (model n&amp;deg; 01 / 4990)</name>
+        <numGames></numGames>
+        <origin>United Kingdom</origin>
+        <peripherals>No</peripherals>
+        <ports>RF TV video output</ports>
+        <power>Unknown</power>
+        <price>&amp;pound;23.95 (UK, 197?)</price>
+        <production></production>
+        <ram>On the system himself</ram>
+        <rom></rom>
+        <screenshots/>
+        <size>Unknown</size>
+        <sound>Unknown</sound>
+        <speed>Unknown</speed>
+        <switches></switches>
+        <text></text>
+        <type></type>
+        <vram></vram>
+        <year>? 1976</year>
+    </computer>
+</computers>

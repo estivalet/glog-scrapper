@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>MSX Basic V4.0 + Japanese text editor, a spread sheat and a sample program</builtInGames>
+        <colors>16 / 16 - 256 / 16 among 512 / 19268</colors>
+        <controllers></controllers>
+        <coprocessor>S1990 MSX-ENGINE,  TC8566AF disk controller</coprocessor>
+        <cpu>8-bit Zilog Z80A and 16-bit RISC R800 (DAR800-X0G)</cpu>
+        <description>
+Due to lack of interest in marketing of MSX-machines and growing interest in game consoles and powerful PC alike computers (for word processing purposes mainly), companies were not so enthusiastic about creating a new MSX-machine. The biggest software supporters of MSX deserted to Nintendo and other computers/game machines. Sony chose to make their own game console as well ASCII in cooperation with Yamaha and Panasonic created the 3DO (Three Dimensional Objects) game console. 
+
+This system is a MSX Turbo R. It is one of the last MSX computer ever made. It is the successor of the MSX 2+ systems and thus has many characteristics in common. New features include a new PCM sound chip which can sample sound up to 15 KHz and replay up to 22 kHz. There is an internal microphone for the PCM unit. There is also an additional CPU, the R800 wich is a 16-bit RISC processor. The user can select the CPU (Z80 or R800) by software. 6 LEDs are placed on the case (Power, Caps-lock, Kana-lock, Pause, CPU mode, FDD in use). The system was delivered with a painting program on disk.
+
+Panasonic stopped the production of the Turbo R when they launched the 3DO game system in 1992. They failed with this system and never returned to MSX.
+Lot of extensions, however, were produced by third-party companies to enhance the Turbo R, among them, an OPL4 Sound Card, a VGA card with lot of hardware sprites and IDE or SCSI interfaces.
+
+The FS-A1 ST will be followed by the FS-A1 GT.
+
+________
+
+Source : The Ultimate MSX FAQ
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>Excellent free MSX emulator that can reproduce MSX, MSX2, MSX2+, and Turbo-R. The emulator also supports the SVI318/328, and ColecoVision systems !</description>
+                <link>http://www.bluemsx.com/</link>
+                <name>BlueMSX</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>This new MSX emulator can reproduce, among many other MSX, MSX2and  MSX2+ machines, both Panasonic Turbo-R models. Be sure to get the catapult frontend and the system roms from FUNET. </description>
+                <link>http://openmsx.sourceforge.net/</link>
+                <name>openMSX - The MSX emulator that aims for perfection.</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>64 x 48 / 256 x 192 / 256 x 212 / 512 x 212 / 512 x 424</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/panasonic_turboR-A1-ST_1.jpg</image>
+        <keyboard>Full-stroke keyboard, JIS standard layout, 91 keysbuilt-in software selector switch, reset button, disk removal button, auto-fire speed adjustment knob, Pause button</keyboard>
+        <language>MSX Basic V4.0 + Japanese text editor, a spread sheat and a sample program</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=627</link>
+            <link>computer.asp?st=1&amp;amp;c=290</link>
+            <link>http://www.file-hunter.com/</link>
+            <link>http://www.chez.com/msxfr/turbor.html</link>
+            <link>http://www.faq.msxnet.org/msxtr.html</link>
+        </links>
+        <manufacturer>Panasonic</manufacturer>
+        <media>Built-in 3.5'' disk drive (720 KB)</media>
+        <name>FS A1 ST</name>
+        <numGames></numGames>
+        <origin>Japan</origin>
+        <peripherals></peripherals>
+        <ports>Joystick (2), Cartridge (2), RGB/CVBS (NTSC) output, Composite Video, Centronics, Microphone connector, User port</ports>
+        <power>100V&amp;plusmn;10% 50/60Hz, 22w</power>
+        <price>About $500 in Japan, about $700 in Europe (unofficial import)</price>
+        <production></production>
+        <ram>256 KB (expandable to 512 KB or even 1 MB internally) + 16kB SRAM for backup (used internally)</ram>
+        <rom>32 KB (BASIC/BIOS ROM)  + 32 KB (SUBROM MSX-BASIC V4.0) + 16 KB (FM-Basic ROM) + 16 KB (MSX Disk ROM) + 16 KB (Kanji Basic) + 2MB ROM (Japanese text editor, a spread sheat and a sample program) + MSX-JE ROM (with approx. 32000 characters)</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FS-A1 ST&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/panasonic_turboR-A1-ST_2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BIGGER PICTURE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/panasonic_fs-a1st_3.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;REAR&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/panasonic_fs-a1st_rear.jpg</link>
+            </shot>
+        </screenshots>
+        <size>425 (W) x 292 (D) x 89 (H) mm / 3.4 Kg</size>
+        <sound>MSX MUSIC (Yamaha YM-2413 OPLL)  + PCM synthesizer 8-bit (sample rate 16kHz) + Internal microphone for the PCM unit</sound>
+        <speed>Z80A: 3.579545 MHz / R800: 28.636360 MHz</speed>
+        <text>80 x 25 / 40 x 25 / 32 x 25</text>
+        <type>Home Computer</type>
+        <vram>128 KB</vram>
+        <year>? 1990</year>
+    </computer>
+</computers>

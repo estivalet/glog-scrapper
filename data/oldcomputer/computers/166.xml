@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Machine-code (through TANBUG)</builtInGames>
+        <colors>Monochrome</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>6502</cpu>
+        <description>
+This computer is what is the ZX-80 to the ZX-Spectrum, but for the Oric 1. Tangerine developped this computer before they became Oric and produced the Oric-1.
+It was mainly sold in kit, without the complete keyboard shown in the photo, but with a little hexadecimal keyboard.
+
+The unextended Microtan 65 couldn't use Basic (Basic65) due to its RAM limitation (1kb), so only machine-code was usable.
+
+Te 1kb ROM contained TANBUG, a monitor which allowed to enter machine code programs. But with the unextended Microtan65, there was no way to save your work (not tape facility), so you had to re-type your program each time you switched-on the computer !
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>Microtan 65 emulator for Windows by David A. Brown</description>
+                <link>http://www.zillion.freeuk.com/cs/tann/tan65.html</link>
+                <name>Tangerine Microtan 65 Emulator</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Multiplatform multi-system emulator</description>
+                <link>http://mess.emuverse.com/</link>
+                <name>MESS emulator project</name>
+                <platform>Other platform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>64 x 64 with graphic characters</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/tangerine_microtan-65_1.jpg</image>
+        <keyboard>Hewadecimal keyboard in basic version</keyboard>
+        <language>Machine-code (through TANBUG)</language>
+        <links>
+            <link>http://www.geoff.org.uk/?microtan</link>
+            <link>http://oric.ifrance.com/oric/microtan.html</link>
+            <link>http://en.wikipedia.org/wiki/Tangerine_MICROTAN_65</link>
+            <link>http://www.microtan.UKPC.net</link>
+        </links>
+        <manufacturer>Tangerine</manufacturer>
+        <media></media>
+        <name>MICROTAN 65</name>
+        <numGames></numGames>
+        <origin>United Kingdom</origin>
+        <peripherals></peripherals>
+        <ports>Bus, Tape, Monitor</ports>
+        <power></power>
+        <price>From $82 (single board version)</price>
+        <production></production>
+        <ram>1 kb (up to 48k)</ram>
+        <rom>1 kb (TANBUG v1), upgradable to 14kb</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;COMPLETE SYSTEM IN RACK&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Tangerine_Microtan_SystemRack_1.jpg</link>
+            </shot>
+        </screenshots>
+        <size></size>
+        <sound></sound>
+        <speed>0.75 MHz</speed>
+        <text>32 x 16</text>
+        <type>Home Computer</type>
+        <vram></vram>
+        <year>1979</year>
+    </computer>
+</computers>

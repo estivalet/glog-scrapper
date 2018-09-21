@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;NEWBURRY BROCHURE #1&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;First Newburry brochure cover&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/Grundy_Newbrain_Leaflet_3.jpg</link>
+            </advert>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;NEWBURRY BROCHURE #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;According to this brochure, Newbury had four models:&amp;lt;br&amp;gt;&amp;lt;br&amp;gt; Model M: Main Only&amp;lt;br&amp;gt; Model MB: Main and with Batteries and display&amp;lt;br&amp;gt; Model MD: Mains only with display&amp;lt;br&amp;gt; Model MBS: Main and with Batteries and display with special low power consumption.  &amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/Grundy_Newbrain_Leaflet_Newburry_Inside.jpg</link>
+            </advert>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;NEWBURRY BROCHURE #3&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/Grundy_Newbrain_Leaflet_5.jpg</link>
+            </advert>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;NEWBRAIN BROCHURE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The first Newbrain brochure only offered two models:&amp;lt;br&amp;gt;&amp;lt;br&amp;gt; Model AD: with display&amp;lt;br&amp;gt; Model A:  without Display &amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/Grundy_Newbrain_Leaflet_4.jpg</link>
+            </advert>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;ADVERT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;New Brain complet package with FDD´s and peripherals... (the dot matrix printer was connected to the RS232 port)... The main box you see in the photo is the &amp;quot;school network controller&amp;quot; that permitted that &amp;quot;n&amp;quot; computers were plugged in as a network sharing one &amp;quot;5Mb hard drive&amp;quot;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/newbrain_completo.jpg</link>
+            </advert>
+        </adverts>
+        <builtInGames>Basic interpreter</builtInGames>
+        <colors>Monochrome</colors>
+        <controllers></controllers>
+        <coprocessor>COP 240 (I/O)</coprocessor>
+        <cpu>Zilog Z80 A</cpu>
+        <description>
+&amp;quot;When the NewBrain was announced to the world, in 1980, the design concept was significantly in advance of anything that had been seen in the field of handheld computing.&amp;quot; (Dick Pountain - Personal Computer World)
+
+In fact, the company that created it, Newburry Labs, sold the desing to its current owner, Grundy Business Systems Ltd.
+It also seems that a small part of the original design came from Sinclair Radionics which designed later the ZX-80.
+
+At one time, the NewBrain was in line to be the BBC computer, but design problems and the change in ownership caused the BBC to look elsewhere.
+
+In 1982, the machine was advertised as a compact but powerful microcomputer with advanced hardware and software features.
+
+The NewBrain AD, which contains a 1-line, 16-character fluorescent display, was complemented by a no-display cheaper version sold &amp;pound;30 less, the NewBrain A. There was no reset button and no ON/OFF switch either. A third model, called Newbrain M included a battery-backup option (and the LCD screen) so it can be used as a handheld computer.
+
+An expansion interface was available, providing 2 serial ports, 2 parallels, 1 DAC, 1 joystick port, and a light pen port.
+A network was also available and allowed to connect 24 computers together through RS-232/V24 bidirectional serial ports.
+The New Brain used a special management memory system which allows to expand memory up to 2 Mb (IMPRESSIVE!).
+The character set contained 512 letters, numbers and graphics as well as VideoText symbols. The Character set was divided into two 256-character banks, only one of which could be selected at a time.
+An optional VideoText module enabled NewBrains owners to access British TeleText and Prestel services
+It could run under CP/M. 
+
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>From 256 x 10 to 640 x 220 pixels</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/grundy_newbrain_ad.jpg</image>
+        <keyboard>QWERTY, calculator style, 62 keys</keyboard>
+        <language>Basic interpreter</language>
+        <links>
+            <link>http://en.wikipedia.org/wiki/Grundy_NewBrain</link>
+            <link>http://www.binarydinosaurs.co.uk/Museum/Grundy/gerald.php</link>
+        </links>
+        <manufacturer>Grundy</manufacturer>
+        <media></media>
+        <name>NEW BRAIN</name>
+        <numGames></numGames>
+        <origin>United Kingdom</origin>
+        <peripherals>Expansion interface featuring 2 serial ports, 2 parallels, 1 DAC, 1 joystick port, and a light pen port.</peripherals>
+        <ports>Tape (two - 1200 bauds); RGB, UHF, RS232c (two - 9600 bauds, one was used as a printer one was cut down in lacking an 'in' line.), Z80 Bus</ports>
+        <power>External power supply unit</power>
+        <price>$325 - &amp;pound;229</price>
+        <production></production>
+        <ram>32 KB</ram>
+        <rom>29 KB (8 KB for Basic, 4 KB for graphics, 4 KB for OS/characters set/editor)</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;THE FIRST NEWBRAIN&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This is the first model of the Newbrain, without the 1 line display of the Newbrain AD.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/grundy_newbrain.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;NEWBRAIN AD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Notice the 1 Line x 16 characters display.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/newbrain_ad_0.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;EXPANSION &amp;amp; CONNECTION SCHEME&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/newbrain_connection_scheme.jpg</link>
+            </shot>
+        </screenshots>
+        <size></size>
+        <sound>unknown</sound>
+        <speed>4 MHz</speed>
+        <text>80 columns x 25-30 lines / 40 columns x 25-30 lines</text>
+        <type>Home Computer</type>
+        <vram></vram>
+        <year>1980</year>
+    </computer>
+</computers>

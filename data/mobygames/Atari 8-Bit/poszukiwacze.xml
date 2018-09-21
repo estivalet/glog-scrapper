@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<games>
+    <game>
+        <alsoFor></alsoFor>
+        <country></country>
+        <covers/>
+        <description>&lt;i&gt;Poszukiwacze&lt;/i&gt; is a puzzle solving game. The player competes with the computer in a search of a treasure. The treasure may be one of the five objects hidden in one of five different places. Alternating with the computer the player tries to guess what is the treasure and where it's hidden, by choosing a row (type of object) and a column (location) on a grid. The player has knowledge of four rows/columns where the treasure definitely can't be found, and the computer player has knowledge of four others. When choosing a spot the player chooses a grid square by pointing the intersection of the vertical and horizontal lines. &lt;br&gt;&lt;br&gt;If the computer knows that the chosen spot isn't the right one (because it's in one of the wrong rows/columns known to the computer), the player is told so. Otherwise the player is asked if he wants to check whether the chosen location contains treasure. The player wins if he &amp;quot;checks&amp;quot; the location that contains treasure. The player loses if he agrees to &amp;quot;check&amp;quot; a wrong location, fails to &amp;quot;check&amp;quot; the right location, or if the computer finds the treasure first. </description>
+        <developedBy>ArFilm Studio Ltd.</developedBy>
+        <genre>Strategy/Tactics</genre>
+        <misc></misc>
+        <name>Poszukiwacze</name>
+        <nonSport></nonSport>
+        <perspective></perspective>
+        <publishedBy>ArFilm Studio Ltd.</publishedBy>
+        <releases>
+            <release>
+                <country> Poland</country>
+                <developer>ArFilm Studio Ltd.</developer>
+                <publisher>ArFilm Studio Ltd.</publisher>
+                <releaseDate>1989</releaseDate>
+            </release>
+            <release>
+                <country> Worldwide</country>
+                <developer>ArFilm Studio Ltd.</developer>
+                <publisher>ArSoft Corporation</publisher>
+                <releaseDate>2008</releaseDate>
+            </release>
+        </releases>
+        <releaseDate></releaseDate>
+        <released>1989</released>
+        <screenshots>
+            <shot>/images/shots/l/720521-poszukiwacze-atari-8-bit-screenshot-title-screen.png</shot>
+            <shot>/images/shots/l/720522-poszukiwacze-atari-8-bit-screenshot-choose-the-starting-player.png</shot>
+            <shot>/images/shots/l/720523-poszukiwacze-atari-8-bit-screenshot-choosing-the-field.png</shot>
+            <shot>/images/shots/l/720526-poszukiwacze-atari-8-bit-screenshot-checking.png</shot>
+            <shot>/images/shots/l/720529-poszukiwacze-atari-8-bit-screenshot-we-have-the-winner.png</shot>
+        </screenshots>
+        <sport></sport>
+        <theme></theme>
+        <url>http://www.mobygames.com//game/atari-8-bit/poszukiwacze</url>
+    </game>
+</games>

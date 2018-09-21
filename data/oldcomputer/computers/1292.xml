@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FRENCH ADVERT (MAY 1980)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/ordisor_pcc2000_pub_1.jpg</link>
+            </advert>
+        </adverts>
+        <builtInGames>Unknown</builtInGames>
+        <colors>Unknown</colors>
+        <controllers></controllers>
+        <coprocessor>Unknown</coprocessor>
+        <cpu>Intel 8085</cpu>
+        <description>
+PCC 2000 is an obscure professional computer released in 1980. It was marketed by Ordisor in France, (a company belonging to the group Sofragem) but the machine was in fact imported from U.S.A. The PCC 2000 was designed there in 1978 by Pertec, the company which merged with MITS by the end of 1976.
+
+The only information source we have for the french version is an advert from may 1980. Looking at the picture, the PCC seems to be conceived as a monobloc machine, where the display and two 8&amp;quot; floppy disk drives are built-in the main case. The keyboard (AZERTY here) with its separated numeric and editing keypads is not detachable.
+
+The system is powered by an Intel 8085 microprocessor and offers 64 KB RAM. The whole thing was apparently delivered with an extended Basic language, which has DOS commands built-in to control the disk drives.
+
+Options advertised were: 
+- CP/M, Cobol, Fortran, Basic compiler languages
+- 10 MB hard disk
+- wordprocessor software
+- multi-terminals
+- multi-tasking
+
+As you can see we don't much about this system, help is largely welcomed.
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>Unknown</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/ordisor_pcc2000_1s.jpg</image>
+        <keyboard>Full-stroke AZERTY keyboard with editing and numeric keypads. 12 function keys</keyboard>
+        <language>Unknown</language>
+        <links>
+            <link>http://datareign.co.uk/doku.php?id=1978_pertec_pcc-2000</link>
+        </links>
+        <manufacturer>Ordisor</manufacturer>
+        <media>2 x 8'' floppy disk-drives (500 KB/axis)</media>
+        <name>PCC 2000</name>
+        <numGames></numGames>
+        <origin>France</origin>
+        <peripherals>10 MB hard disks, floppy disk drives, dumb terminals, printers</peripherals>
+        <ports>Unknown</ports>
+        <power>Built-in power supply</power>
+        <price>Unknown</price>
+        <production>Unknown</production>
+        <ram>64 KB (up to 1MB)</ram>
+        <rom>Unknown</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;PCC 2000&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/ordisor_pcc2000_1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>Unknown</size>
+        <sound>Unknown</sound>
+        <speed>3 Mhz</speed>
+        <text>Unknown</text>
+        <type>Professional Computer</type>
+        <vram></vram>
+        <year>1980</year>
+    </computer>
+</computers>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>None</builtInGames>
+        <colors>512 palette, 482 on screen (241 background &amp;amp; 241 sprite)</colors>
+        <controllers></controllers>
+        <coprocessor>16 bit HuC6260 Video Color</coprocessor>
+        <cpu>8 bit HuC6280A</cpu>
+        <description>
+Not a new console, this was simply a re-release of the PC Engine, this time in a black case and with composite AV output.
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>Frequently updated Japanese emulator </description>
+                <link>http://www.ouma.jp/ootake/</link>
+                <name>Ootake</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Commercial but excellent NEC PC Engine emulator. A must.</description>
+                <link>http://www.magicengine.com/</link>
+                <name>Magic Engine</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>usually 256x240, 512x240 max.</graphics>
+        <hardwares>
+            <hardware type="CONTROLLERS">
+                <items>
+                    <item>
+                        <description>Pachinko Controller||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;PACHINKO CONTROLLER&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This is a pachinko controller for the PC Engine.  The angled part which sticks out between the two main sections of the controller is a slider to adjust the angle of the pachinko balls as they come out. &amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/nec_pce_pachinko-controller.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Turbo pad||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;TURBO PAD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/nec_turbografx_turbopad.jpg</photo>
+                    </item>
+                </items>
+            </hardware>
+        </hardwares>
+        <hardwareDescription></hardwareDescription>
+        <image>http://www.old-computers.com/museum/photos/nec_pce-coregrafx_1s.jpg</image>
+        <keyboard>8-way d-pad, 2 buttons + Run + Select</keyboard>
+        <language>None</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=1245</link>
+            <link>computer.asp?st=1&amp;amp;c=1231</link>
+            <link>computer.asp?st=1&amp;amp;c=1232</link>
+            <link>computer.asp?st=1&amp;amp;c=1238</link>
+            <link>computer.asp?st=1&amp;amp;c=1239</link>
+            <link>computer.asp?st=1&amp;amp;c=1234</link>
+            <link>computer.asp?st=1&amp;amp;c=1243</link>
+            <link>computer.asp?st=1&amp;amp;c=1240</link>
+            <link>http://www.necstasy.net/fr/</link>
+            <link>http://pcenginefx.com/</link>
+            <link>http://www.pcengine.co.uk/</link>
+            <link>http://www.turbografx.net/</link>
+            <link>http://www.atari7800.com/turbo/</link>
+            <link>http://pcengine.cjb.net/</link>
+        </links>
+        <manufacturer>NEC</manufacturer>
+        <media>HuCard</media>
+        <name>CoreGrafx</name>
+        <numGames></numGames>
+        <origin>Japan</origin>
+        <peripherals>PC Engine CD-ROM&amp;sup2;, Super System Card, Arcade Card Pro, 6 button gamepad</peripherals>
+        <ports>HuCard slot, AV out, gamepad port</ports>
+        <power>Unknown</power>
+        <price>Unknown</price>
+        <production>Unknown</production>
+        <ram>8 KB</ram>
+        <rom></rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;COREGRAFX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/nec_pce-coregrafx_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/nec_pce-coregrafx_box.jpg</link>
+            </shot>
+        </screenshots>
+        <size>Unknown</size>
+        <sound>6 PSG channels</sound>
+        <speed>7.16 MHz (Switchable by software to 1.79 MHz)</speed>
+        <text></text>
+        <type></type>
+        <vram>64 KB</vram>
+        <year>1989</year>
+    </computer>
+</computers>

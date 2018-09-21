@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<games>
+    <game>
+        <capturas>
+            <captura>images/capturas/Bruce Lee (Comptiq, 1985) (1).png</captura>
+            <captura>images/capturas/Bruce Lee (Comptiq, 1985) (2).png</captura>
+            <captura>images/capturas/Bruce Lee (Comptiq, 1985) (3).png</captura>
+            <captura>images/capturas/Bruce Lee (Comptiq, 1985) (4).png</captura>
+            <captura>images/capturas/ninja_1158(1).png</captura>
+        </capturas>
+        <caratulas>
+            <caratula>images/caratulas/Bruce Lee (Comptiq, 1985) (Cover) (Tape release by Dro Soft).jpg</caratula>
+            <caratula>images/caratulas/Bruce Lee (Comptiq, 1985) (Front cover) (ROM release by Comptiq).jpg</caratula>
+            <caratula>images/caratulas/Bruce Lee (Comptiq, 1985) (Back cover) (ROM release by Comptiq).jpg</caratula>
+            <caratula>images/caratulas/Bruce Lee (Comptiq, 1985) (Front cover) (ROM release by Comptiq).jpg</caratula>
+        </caratulas>
+        <control>Keyboard Joystick</control>
+        <country></country>
+        <developer>Comptiq</developer>
+        <format>ROM cartridge</format>
+        <generation>MSX</generation>
+        <languages>English</languages>
+        <name>Bruce Lee</name>
+        <players>1</players>
+        <price>5900 JPY</price>
+        <productId></productId>
+        <publisher>Comptiq</publisher>
+        <region></region>
+        <releases>
+            <release>
+                <depLegal>M-35551-1988</depLegal>
+                <format>Tape</format>
+                <price>395 ESP</price>
+                <productCode>4 MT 139</productCode>
+                <publisher>Dro Soft</publisher>
+                <region>Europe/Spain</region>
+                <year>1988</year>
+            </release>
+            <release>
+                <format>ROM cartridge</format>
+                <productCode>GC042</productCode>
+                <publisher>Al Alamiah</publisher>
+                <year>1985</year>
+            </release>
+        </releases>
+        <remakes>
+            <remake>http://planetflibble.com/blitz/</remake>
+        </remakes>
+        <requires></requires>
+        <sound>PSG</sound>
+        <type>Action</type>
+        <typeOfLicense></typeOfLicense>
+        <url>http://msxgamesworld.com/gamecard.php?id=846</url>
+        <year>1985</year>
+    </game>
+</games>

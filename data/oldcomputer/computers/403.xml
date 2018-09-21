@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>N88-Basic</builtInGames>
+        <colors>8 colors</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>8086-2</cpu>
+        <description>
+The PC-9801E belongs to the famous NEC PC-98xx family. This is not an IBM PC compatible system. Its architecture is original.
+
+Unlike the PC-9801F, the PC-9801 has no built-in disk drives.
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>640 x 400 / 640 x 200</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/pc9801e.jpg</image>
+        <keyboard>Complete full-stroke keyboard with function keys, numeric keypad, editing keys</keyboard>
+        <language>N88-Basic</language>
+        <links>
+            <link>http://euc.jp/articles/pc9800.en.html</link>
+            <link>http://www.risingstuff.com/forums/viewtopic.php?f=36&amp;amp;t=1366</link>
+        </links>
+        <manufacturer>NEC</manufacturer>
+        <media>Two external 8'' (or 5.25''?) floppy drives (optional)</media>
+        <name>PC 9801 E</name>
+        <numGames></numGames>
+        <origin>Japan</origin>
+        <peripherals></peripherals>
+        <ports>Floppy Disk Drive, RS-232C, Printer, C-bus slot x 6</ports>
+        <power>Built-in PSU</power>
+        <price>215,000 Yens (Japan, 1983)</price>
+        <production></production>
+        <ram>128 KB (up to 640 KB)</ram>
+        <rom>256 KB (N88-Basic + Kanji)</rom>
+        <screenshots/>
+        <size></size>
+        <sound>Beeper</sound>
+        <speed>5 / 8 MHz (selectable)</speed>
+        <text>80 x 24</text>
+        <type>Home Computer</type>
+        <vram>12 KB (text), 192 KB (video)</vram>
+        <year>1983</year>
+    </computer>
+</computers>

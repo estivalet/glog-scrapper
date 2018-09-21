@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>None</builtInGames>
+        <colors>256</colors>
+        <controllers></controllers>
+        <coprocessor>Socket for an optional 68882 math coprocessor</coprocessor>
+        <cpu>Motorola 68030</cpu>
+        <description>
+The Macintosh Color Classic (aka Performa 250) had same footprint as the original Macintosh. It was the first mac using a 10&amp;quot; (9&amp;quot; viewable) colour monitor (Sony CRT) and the last of the original all-in-one Macintosh line to be sold in the US market. 
+
+Its main board had the same design as the Mac LC II, featuring a 16 MHz 68030 CPU. Sadly, its address bus was limited to 16 bit and allowed only 10 MB of maximum RAM.
+
+The Color Classic could emulate the Apple II thank to an expansion card inserted into its PDS slot.
+
+An improved version, called Color Classic II (aka Performa 275) was launched in late 1993 in Canada then in Japan. It had the same motherboard as the LC/Performa 550 with a 33 MHz CPU, a 32-bit bus and up to 36 MB of available RAM.
+
+Some people call the LC/Performa 550 the &amp;quot;Fat Color Classic II&amp;quot; because of the wider monitor.
+
+____________
+
+Jeremy Dilatush adds:
+This machine's color graphics were *slow* so I usually ran mine in black and white mode.  Yes, it made a major difference.
+
+Gwion Mainwaring reports:
+There are PPC Upgrades available and this will make your Color Classic a lot faster so you could run Mac OS 8 or 9. OS9 would be a bit slow. But i think you can only run OS 9 on a Color Classic II.
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>Demonstration version of a commercial software (MS DOS &amp;amp; Win95)</description>
+                <link>http://www.ardi.com/</link>
+                <name>Executor</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>A commercial Software which emulates the Atari ST/TT and the Mac 128/Plus/2 (Win95 / Win NT)</description>
+                <link>http://www.emulators.com/</link>
+                <name>Gemulator</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Same as Apple lisa emulator for unix but ported to windows</description>
+                <link>http://lisa.sunder.net/</link>
+                <name>LisaEm</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>PearPC is an architecture-independent PowerPC platform emulator capable of running most PowerPC operating systems.</description>
+                <link>http://pearpc.sourceforge.net/</link>
+                <name>PearPC</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>good 68K Emulator For Windows</description>
+                <link>http://www.emulators.com/</link>
+                <name>SoftMac</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Demo version of a commercial software (Linux / NextStep)</description>
+                <link>http://www.ardi.com/</link>
+                <name>Executor</name>
+                <platform>Unix / Linux emulator</platform>
+            </emulator>
+            <emulator>
+                <link>http://www.leb.net/vmac/</link>
+                <name>vMac - The Virtual Macintosh Emulator Project</name>
+                <platform>Other platform emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Basilisk II is an Open Source 68k Macintosh emulator. Good emulator, runs on several platforms, even Amiga</description>
+                <link>http://basilisk.cebix.net/</link>
+                <name>Basilisk II</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Mini vMac, a spin off of the program vMac,  emulates a Macintosh Plus and Macintosh SE. So far it works on Macintosh OS, Microsoft Windows, and the X Window System. </description>
+                <link>http://minivmac.sourceforge.net/</link>
+                <name>Mini vMac</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>512 x 384 dots. Could be expanded to 640 x 480 with significant hardware modifications.</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/Apple_ClassColor_Running_s1.jpg</image>
+        <keyboard>Typewriter type 82 key with numeric keypad and arrow keys</keyboard>
+        <language>None</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=265</link>
+            <link>computer.asp?st=1&amp;amp;c=271</link>
+            <link>computer.asp?st=1&amp;amp;c=160</link>
+            <link>computer.asp?st=1&amp;amp;c=282</link>
+            <link>computer.asp?st=1&amp;amp;c=1005</link>
+            <link>computer.asp?st=1&amp;amp;c=161</link>
+            <link>computer.asp?st=1&amp;amp;c=162</link>
+            <link>http://www.apple-history.com/</link>
+            <link>http://www.applefritter.com</link>
+            <link>http://www.cmq.qc.ca/cmq.html</link>
+            <link>http://home.earthlink.net/~gamba2/index.html</link>
+            <link>http://www.jagshouse.com/</link>
+            <link>http://www.lowendmac.com</link>
+            <link>http://www.MacForumz.com</link>
+            <link>http://www.macdebate.com</link>
+            <link>http://www.d4.dion.ne.jp/~motohiko/</link>
+            <link>news:comp.sources.mac</link>
+            <link>news:comp.sys.mac.advocacy</link>
+            <link>news:comp.sys.mac.announce</link>
+            <link>news:comp.sys.mac.apps</link>
+            <link>news:comp.sys.mac.comm</link>
+            <link>news:comp.sys.mac.digest</link>
+            <link>news:comp.sys.mac.hardware.misc</link>
+            <link>news:comp.sys.mac.misc</link>
+            <link>news:comp.sys.mac.programmer.help</link>
+            <link>news:comp.sys.mac.programmer.info</link>
+            <link>news:comp.sys.mac.programmer.misc</link>
+            <link>news:comp.sys.mac.system</link>
+        </links>
+        <manufacturer>Apple</manufacturer>
+        <media>3.5</media>
+        <name>Macintosh Color Classic</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals>PDS expansion slot</peripherals>
+        <ports>2 x ADB, 2 x serial, SCSI, sound In/Out</ports>
+        <power>Built in switching power supply unit</power>
+        <price>$1,390 </price>
+        <production>May 1994</production>
+        <ram>4 MB up to 10 MB (although 12 MB could sit in the slots)</ram>
+        <rom>1 MB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FRONT VIEW&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Volume and brightness adjustments are located on the front panel.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Apple_ClassColor_FrontView_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;RUNNING SYSTEM&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The Color Classic is running Maelstrom game.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Apple_ClassColor_Running_s2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;TOP VIEW&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Apple_ClassColor_TopView_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SIDE VIEW&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Apple_ClassColor_SideView_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FRONT PANEL CLOSE-UP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Apple_ClassColor_FrontCloseup_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;REAR CONNECTORS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(1)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Two ADB ports - Mini-Din sockets&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(2)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Two Serial ports - Printer and modem&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(3)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; SCSI DB25 connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(4)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Sound input jack&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(5)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Sound output jack&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(6)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; The rear panel can be easily opened to slide out the motherboard&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(7)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; CRT horizontal and vertical centering&amp;lt;br&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Apple_ClassColor_Rearside_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INSIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(1)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Analog board holding the power supply unit and the video circuitry&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(2)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Intermediate bay which supports the floppy drive, the hard disk drive and the speaker&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(3)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Motherboard&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Apple_ClassColor_Inside_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MOTHERBOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(1)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Sound chip&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(2)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; SCSI chip&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(3)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; PDS expansion slot&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(4)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Socket for the optional 68882 math coprocessor&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(5)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Motorola 68030 CPU&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(6)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Custom Apple chipset in charge of memory management and various I/O&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(7)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; 1 MB ROM chips&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(8)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Video chip and its associated 256 KB RAM&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(9)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; 4 MB on-board RAM chips&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(10)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; SIMM socket for the video RAM expansion&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(11)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; SIMM sockets for the main RAM expansion&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Apple_ClassColor_Mainboard_s1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>25.15 (W) x 36.8 (H) x 32 (D) / 11 kg</size>
+        <sound>Mono 16-bit - Built-in speaker - sound output jack</sound>
+        <speed>16 MHz</speed>
+        <text>No text mode. Bit mapped characters</text>
+        <type>Professional Computer</type>
+        <vram>256 KB up to 512 KB (specific SIMM secket)</vram>
+        <year>February 1993</year>
+    </computer>
+</computers>

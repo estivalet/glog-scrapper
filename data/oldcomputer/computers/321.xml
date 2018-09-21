@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>JR Basic 5.0 and Extended Basic</builtInGames>
+        <colors>8</colors>
+        <controllers></controllers>
+        <coprocessor>MN1544 and MN1542</coprocessor>
+        <cpu>Zilog Z80A + MN1800A (6802 compatible)</cpu>
+        <description>
+The successor of the JR 200. Almost everything was changed, the computer has two CPUs to keep the compatibility with the previous models (JR-200). This machine has also a superimposition feature.
+
+In fact it seems to be a mix between a JR-200 and a Sharp X1 system... quite strange ! But apparently this model was never really marketed.
+
+A handheld model called JR 800 was launched few time later, but it was not compatible with the previous JR computers.
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>640 x 200 / 320 x 200 / 640 x 400</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/jr300.jpg</image>
+        <keyboard>Full stroke keyboard, 98 keys, 6 function keys, separated numeric keypad</keyboard>
+        <language>JR Basic 5.0 and Extended Basic</language>
+        <links>
+            <link>http://dec.sakura.ne.jp/~hayashi/jr/index.html</link>
+        </links>
+        <manufacturer>Matsushita</manufacturer>
+        <media>None</media>
+        <name>National JR 300</name>
+        <numGames></numGames>
+        <origin>Japan</origin>
+        <peripherals>JR-F01 5''1/4 disk units, JR-F02 additional disk-drive, JR-F03 3''1/2 disk-drives, JR-F04 additional 3''1/2 diks-drive, JR-P01 Graphic printer, RQ-8300 &amp;amp; RQ-8200 tape-recorders</peripherals>
+        <ports>RGB video output, Monitor, Audio out, Expansion, Tape (600/2400 bauds), Centronics, Joysticks,</ports>
+        <power>AC100V 50/60Hz</power>
+        <price>159000 yens</price>
+        <production></production>
+        <ram>82 kb</ram>
+        <rom>40 kb (Basic : 16k)</rom>
+        <screenshots/>
+        <size>Keyboard : 390 &amp;times; 198 &amp;times; 38 mm / 1.6kgMain unit : 390 &amp;times; 350 &amp;times; 80 mm / 4.8 Kg</size>
+        <sound>3 channels, 8 octaves (Yamaha 8910)</sound>
+        <speed>4 Mhz (Z80A)</speed>
+        <text>80 x 25 / 40 x 25 / 32 x 24</text>
+        <type>Home Computer</type>
+        <vram>52 kb</vram>
+        <year>1984</year>
+    </computer>
+</computers>

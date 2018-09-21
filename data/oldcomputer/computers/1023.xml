@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>8K ROM Monitor</builtInGames>
+        <colors>Monochrome</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>8085A</cpu>
+        <description>
+Also very little information about the Hektor III. The case and keyboard were  the same as the Hektor II but the electronic board was completely redrawn to support up to 64 KB of RAM and ROM. 
+
+Several I/O connectors allowed to connect an extension card, a light pen, a 1200/75 baud modem, a parallel printer and even a mouse.
+
+The Hektor III was also loaned to the students for the duration of the Open University course, hence its rarity.
+
+Thanks to Ian Hall for all the pictures.
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>640 x 240 dots</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/OpenUniv_Hektor3_System_s1.jpg</image>
+        <keyboard>Full-stroke 60 keys</keyboard>
+        <language>8K ROM Monitor</language>
+        <links/>
+        <manufacturer>Open University, UK</manufacturer>
+        <media>None</media>
+        <name>Hektor 3</name>
+        <numGames></numGames>
+        <origin>United Kingdom</origin>
+        <peripherals>Expansion board, 1200/75-baud modem, Mouse</peripherals>
+        <ports>TV/RF output, composite video, cassette port, 40-pin interface for an external peripheral board, 24-pin I/O controller, configurable for use as a parallel printer port. light pen connector</ports>
+        <power>External PSU. Could be powered from a 12V car battery.</power>
+        <price>Unknown, available only on loan to Open University students</price>
+        <production></production>
+        <ram>64 KB</ram>
+        <rom>8 KB up to 64 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;HEKTOR III&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/OpenUniv_Hektor3_System_s2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;LEFT SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;One can see the Serial and tape recorder DIN sockets, and the expansion connector.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/OpenUniv_Hektor3_LeftSide_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;REAR SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The Hektor III could be connected to a composite monochrome monitor or to a TV set through a built-in RF modulator.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/OpenUniv_Hektor3_RearSide_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;OPENED&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/OpenUniv_Hektor3_Opened_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MAIN BOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/OpenUniv_Hektor3_Mainboard_s1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>27,5 (W) x31 (D) x5 (H) cm / 1.5 kg</size>
+        <sound>Built-in speaker</sound>
+        <speed>3.024 MHz</speed>
+        <text>80x24, 40x24 and 73x35.</text>
+        <type>Home Computer</type>
+        <vram></vram>
+        <year>1983</year>
+    </computer>
+</computers>

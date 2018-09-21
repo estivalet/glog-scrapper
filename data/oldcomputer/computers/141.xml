@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>1 or 2 x  5''1/4 flexible disc drives</builtInGames>
+        <colors>monochrome</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Motorola 68000</cpu>
+        <description>
+The Hewlett Packard HP 9000 is the ancestor of the actual HP9000 station!
+
+The RAM can be extended by blocks of 128 Kb. It is possible to add one or two processors (its power is then brought to 1.7 mips or 2.5 mips). It runs under HP-UX (Unix) and is sold with a database (image 9000), a 3D graphic program (graph 9000), as well as the BASIC, Pascal, FORTRAN and C programming languages.
+
+There was a later variant with a 68010 processor that supported HP-UX (the HP version of Unix). It was called the 9836U. There were color versions of both, the 9836C and the 9836CU.
+
+Marks Simms reports that the system HP that was sold as the first 32-bit microcomputer was the 9020. It was based on HP's proprietary processor architecture. The 9020 was a desktop system, but was much larger than the 9836 and had only one floppy drive. It only ran HP-UX.
+
+After these products had been launched, HP decided to give the HP 9000 name to all its technical computers and the 9836 became the HP 9000 model 236 and the 9020 became the HP 9000 model 520. Add the series 300, 700 and 800 and the term HP 9000 becomes almost meaningless.
+
+The Series 200 included the HP-9816, HP-9826, HP-9836, and HP-9836C. The HP-9836 was mainly used for CAE applications, and high-technology (of that time !) in general.
+
+Alan Barrow reports :
+The 9020 was HP's 32 bit workstation prior to the switch to motorola processors. The 9020 started like the 9836 as basic, but was quickly refocused to HP-UX. It then became the 9000 Series 500. The later 9030 and 9050 offered more expansion and utilized CIO bus cards later used in the first S800's. 
+
+The Series 500 was a true multi user unix environment and was used both in workstation and mini-computer type environment.
+
+One more family note: some of the S200's unix executables would work on the Integral in character mode as well. In fact, they would also work on the S300's in 16 bit mode, I believe. HP did a good job of trying to maintain compatability via standards.
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>Unknown</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/hp_hp9836_1.jpg</image>
+        <keyboard>full stroke keyboard with numeric keypad and function keys</keyboard>
+        <language></language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=938</link>
+            <link>computer.asp?st=1&amp;amp;c=879</link>
+            <link>computer.asp?st=1&amp;amp;c=930</link>
+            <link>computer.asp?st=1&amp;amp;c=1068</link>
+            <link>computer.asp?st=1&amp;amp;c=950</link>
+            <link>http://www.hpmuseum.net</link>
+            <link>http://www.classiccmp.org/hp/9800.htm</link>
+        </links>
+        <manufacturer>Hewlett Packard</manufacturer>
+        <media>1 or 2 x  5''1/4 flexible disc drives</media>
+        <name>HP-9836</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals></peripherals>
+        <ports>Centronics, RS232c, HP IB</ports>
+        <power>Built-in power supply</power>
+        <price>Unknown</price>
+        <production></production>
+        <ram>512 KB (up to 2.5 MB)</ram>
+        <rom>Unknown</rom>
+        <screenshots/>
+        <size>Unknown</size>
+        <sound>Unknown</sound>
+        <speed>8 MHz</speed>
+        <text>80 x 25</text>
+        <type>Professional Computer</type>
+        <vram></vram>
+        <year>1983</year>
+    </computer>
+</computers>

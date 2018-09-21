@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;GERMAN ADVERT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This is a German advertisement for the BIT-60 and BIT-90 models. Atari VCS-2600 cartridges are scattered in front of the BIT-60 to show that the it is really compatible with the VCS-2600 ! But strangely enough, there is no picture displayed on the TV. Were these models really  working ? ;-)&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/bit-corp_bit60-90_ad_1.jpg</link>
+            </advert>
+        </adverts>
+        <builtInGames>Basic</builtInGames>
+        <colors>16</colors>
+        <controllers></controllers>
+        <coprocessor>Texas Instruments TMS-9929 (Video Generator)</coprocessor>
+        <cpu>Zilog Z80A</cpu>
+        <description>
+This computer had a completely rubber keyboard a bit like the ZX-Spectrum. Basic statements and graphic symbols could be accessed via combinations of &amp;quot;function&amp;quot; keys such as CTRL, BASIC, FCTN and a special symbol key.
+
+The BIT-90 could display 16 colors and 32 sprites, with a high-resolution of 256 x 192 pixels.
+
+Like its little brother the BIT-60, the BIT 90 could directly accept Colecovision cartridges, and Atari 2600 cartridges through a special interface. 
+The BIT-90 is also supposed to be a Sega SC-3000 clone with which it bears a striking resemblance.
+
+The BIT-90, like the BIT-60 seems to have been available in different colored models, at least one white and one grey.
+Surely due to legal problems, this computer didn't last long.
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>64 x 48 (semi-graphic mode), 256 x 192</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/bit-corp_bit90_chicklet.jpg</image>
+        <keyboard>Rubber keyboard, 66 keys with Basic statements and graphic symbolsESC, CAPS LOWER, SHIFT (x2), CTRL, BASIC, FCTN, RETURN, BS (backspace), DEL, INS, RETURN, RST (Reset), arrow keys, symbol key</keyboard>
+        <language>Basic</language>
+        <links/>
+        <manufacturer>Bit Corporation</manufacturer>
+        <media></media>
+        <name>BIT 90</name>
+        <numGames></numGames>
+        <origin>Korea</origin>
+        <peripherals>Memory expansion</peripherals>
+        <ports>Cardridge slot, Cassette interface (2400 bauds), RGB video output, RF TV output, Audio output, 2 x Joystick port (Atari standard), Expansion Bus</ports>
+        <power>External PSU</power>
+        <price>Unknown</price>
+        <production></production>
+        <ram>18 kb (up to 64 kb), 1k left for programming</ram>
+        <rom>24 kb</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BIT-90&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/bit-corp_bit-90_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;ANOTHER PICTURE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/bit-corp_bit-90_3.jpg</link>
+            </shot>
+        </screenshots>
+        <size>Unknown</size>
+        <sound>3 voices, 5 octaves</sound>
+        <speed>3.85 MHz</speed>
+        <text>32 x 24 with 16 colors</text>
+        <type>Home Computer</type>
+        <vram></vram>
+        <year>? 1983</year>
+    </computer>
+</computers>

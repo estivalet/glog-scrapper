@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>BASIC interpreter</builtInGames>
+        <colors>8</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>6502</cpu>
+        <description>
+The TK-2000 was a clone of the Apple IIc for its Electronics part; and a copy of the Atari 1200XL for the casing part.
+
+For copyright reasons, Microdigital preferred to say that it was compatible with the Multitech MPF-II, an obscure Taiwanese computer which was somewhat compatible with the Apple II; but also added in its brochure that &amp;quot;a major part of Apple DOS software is compatible with the TK-2000&amp;quot; :-)
+
+On top of Apple II features, the TK-2000 offered 64 KB of RAM, a sound generator, a PAL/M TV/RF modulator, a parallel printer connector and the ability to connect simulteneously two tape recorders. On the other hand, there were no expansion slots; which resulted in compatibility problems with Apple software that used original Apple hardware I/O.
+
+Picture from http://cobit.mma.com.br. Thanks to Ericson Benjamim for his help.
+_______________________</description>
+        <emulators>
+            <emulator>
+                <description>TK2000 Emulator in Java</description>
+                <link>http://tk2000.sourceforge.net/</link>
+                <name>TK2000 II Color Computer Emulator</name>
+                <platform>Other platform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>40x48 x 8 colors, 280x192 x 6 colors and 280x192 x 6 colors with text</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/Microdigital_KT2000_System_s1.jpg</image>
+        <keyboard>Full stroke 54 key with arrow keys</keyboard>
+        <language>BASIC interpreter</language>
+        <links>
+            <link>http://www.tk90x.com.br/TK2000.html</link>
+        </links>
+        <manufacturer>Microdigital</manufacturer>
+        <media>None</media>
+        <name>TK-2000</name>
+        <numGames></numGames>
+        <origin>Brazil</origin>
+        <peripherals>All Apple II expansion cards &amp;amp; peripherals</peripherals>
+        <ports>1 expansion slot, rf and composite video (PAL-M), 2 joystick, tape recorder In/Out, 1 parallel.</ports>
+        <power>external power supply unit (110/220V)</power>
+        <price>Unknown</price>
+        <production>1988</production>
+        <ram>64 KB or 128 KB (Model II)</ram>
+        <rom>16 KB</rom>
+        <screenshots/>
+        <size>37.6 (W) x 32 (D) x 6.7 (H) cm</size>
+        <sound>TV (by RF out)</sound>
+        <speed>1.2 MHz</speed>
+        <text>40 chars. x 24 lines</text>
+        <type>Professional Computer</type>
+        <vram>1 KB (Text mode) or 8 KB (Graphics mode)</vram>
+        <year>1984</year>
+    </computer>
+</computers>

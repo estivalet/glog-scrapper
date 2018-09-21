@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<games>
+    <game>
+        <capturas>
+            <captura>images/capturas/Roller Ball (HAL Laboratory, 1984) (1).png</captura>
+            <captura>images/capturas/Roller Ball (HAL Laboratory, 1984) (2).png</captura>
+            <captura>images/capturas/Roller Ball (HAL Laboratory, 1984) (3).png</captura>
+            <captura>images/capturas/target_plus_0001.png</captura>
+        </capturas>
+        <caratulas>
+            <caratula>images/caratulas/Roller Ball (HAL Laboratory, 1984) (Cover front, English).jpg</caratula>
+            <caratula>images/caratulas/Roller Ball (HAL Laboratory, 1984) (Cover back, English).jpg</caratula>
+            <caratula>images/caratulas/Roller Ball (HAL Laboratory, 1984) (Cover spin, English).jpg</caratula>
+            <caratula>images/caratulas/Roller Ball (HAL Laboratory, 1984) (Cover front, Japanese).jpg</caratula>
+            <caratula>images/caratulas/Roller Ball (HAL Laboratory, 1984) (Cover back, Japanese).jpg</caratula>
+            <caratula>images/caratulas/Roller Ball (HAL Laboratory, 1984) (Cover spin, English).jpg</caratula>
+        </caratulas>
+        <control>Keyboard Joystick</control>
+        <country></country>
+        <developer>HAL Laboratory</developer>
+        <format>ROM cartridge</format>
+        <generation>MSX</generation>
+        <languages>English</languages>
+        <name>Roller Ball</name>
+        <players>1</players>
+        <price></price>
+        <productId>HM-015</productId>
+        <publisher>Gradiente</publisher>
+        <region></region>
+        <releases>
+            <release>
+                <format>Disk</format>
+                <productCode>74600110700</productCode>
+                <publisher>Gradiente</publisher>
+            </release>
+            <release>
+                <format>Disk</format>
+                <productCode>HX-S116</productCode>
+                <publisher>Toshiba</publisher>
+            </release>
+        </releases>
+        <remakes/>
+        <requires></requires>
+        <sound>PSG</sound>
+        <type>Bar games - Pinball</type>
+        <typeOfLicense></typeOfLicense>
+        <url>http://msxgamesworld.com/gamecard.php?id=215</url>
+        <year>1984</year>
+    </game>
+</games>

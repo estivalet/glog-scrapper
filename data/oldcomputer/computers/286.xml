@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Microsoft BASIC</builtInGames>
+        <colors>16</colors>
+        <controllers></controllers>
+        <coprocessor>Socket for a 8087 math co-processor</coprocessor>
+        <cpu>Intel 8088</cpu>
+        <description>
+The IBM PC XT is the successor of the IBM PC. The XT stands for EXtended Technology and was introduced in early 1983. It has enhanced features: CGA graphic card, hard disk, more memory, and no more tape port (!). But it wasn't very innovative.
+
+There are in fact two versions of the XT motherboard. The first one can accept from 64k to 256k RAM, whereas the later one has support for 640K RAM max, the 101-key keyboard, a 3.5'' FDD and a few other details...
+
+In addiditon to the removal of the cassette port, the XT also had eight 8-bit ISA expansion slots VS the PC's five. The XT's slots were also positioned closer together, the same spacing all PCs still use today. This made old PC's totally worthless because you couldn't buy an XT clone board and drop it into a PC case. Eight slots was a huge boon to the &amp;quot;power user&amp;quot; who had previously found himself having to pick and choose what upgrades to install in the paltry five slots of the PC.
+
+The 5160 was replaced with the PC XT S (20 MB Hard disk, slim size floppy disk unit, 640 KB RAM), then with the PC XT 286.
+
+Richard Warr reports:
+This was the machine that launched my career as a software consultant. I spent months programming Supercalc II spreadsheets on a 128k model before we got the go-ahead to upgrade to a massive 256k and run Lotus 1-2-3!
+Although the original system board was supposed to take only 256k it was possible to overcome this by installing a multiplexer and soldering a couple of jumper cables, allowing use of 256k chips instead of 64k ones. I actually did this to a machine owned by General Electric and got the RAM up to 640k.
+When you did run out of slots you could buy an expansion unit which looked just the same as the base. As just about every function required a card this was often necessary.
+
+There was a version of this machine called the 3270PC, especially designed to emulate a mainframe terminal. In 1985 I made a decision to buy a couple of these in preference to the new ATs. We'd never need the extra speed offered by a 6MHz machine(!). Fortunately I kept my job.
+
+About expansion abilities, Derek Brewer specifies:
+The IBM XT could, with the color monitor, be upgraded to the later EGA graphics card. The system can also, with a controller board upgrade and IBM DOS 3.30, be fitted with a 20-30Mb Hard Disk. The only limitation is when upgrading to EGA the system will only recognize a card with less than 32kb of VRAM.
+
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>CGA modes : 320 x 200 / 640 x 200</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/ibm_pc_xt.jpg</image>
+        <keyboard>Full-stroke keyboard with numeric keypad and function keys84 or 101 keys</keyboard>
+        <language>Microsoft BASIC</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=861</link>
+            <link>computer.asp?st=1&amp;amp;c=274</link>
+            <link>computer.asp?st=1&amp;amp;c=183</link>
+            <link>computer.asp?st=1&amp;amp;c=19</link>
+            <link>computer.asp?st=1&amp;amp;c=185</link>
+            <link>computer.asp?st=1&amp;amp;c=446</link>
+            <link>computer.asp?st=1&amp;amp;c=260</link>
+            <link>computer.asp?st=1&amp;amp;c=195</link>
+            <link>computer.asp?st=1&amp;amp;c=1274</link>
+            <link>http://www.fingerlinge.de/bernd/ibmxt</link>
+        </links>
+        <manufacturer>IBM</manufacturer>
+        <media>One 5.25'' FDD, 360k (3.5'' on later models)10Mb or 20Mb hard-disk</media>
+        <name>PC XT - Model 5160</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals>Numerous IBM and third-parties expansion cards, i.e. the QuadRam 512 KB RAM card</peripherals>
+        <ports>eight internal slots (five 8 bit ISA), RS232c, Centronics</ports>
+        <power>PSU built-in</power>
+        <price>$8000 (Complete version with 640 KB RAM, 10 MB HDD, colour display)</price>
+        <production>Unknown</production>
+        <ram>From 64k to 640k, depending on models</ram>
+        <rom>64 kb</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;PC/XT CASE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The well known IBM PC/XT case.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/IBM_XT_Case_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FRONT VIEW&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/IBM_XT_FrontView_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;IBM LOGO&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/IBM_XT_Logo_s1.jpg</link>
+            </shot>
+        </screenshots>
+        <size></size>
+        <sound>Tone Generator</sound>
+        <speed>4.77 MHz</speed>
+        <text>80 x 24 / 40 x 24</text>
+        <type>Professional Computer</type>
+        <vram></vram>
+        <year>1983</year>
+    </computer>
+</computers>

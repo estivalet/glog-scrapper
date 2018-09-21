@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<games>
+    <game>
+        <capturas>
+            <captura>images/capturas/Yie Ar Kung Fu (Konami, 1985) (1).png</captura>
+            <captura>images/capturas/Yie Ar Kung Fu (Konami, 1985) (2).png</captura>
+            <captura>images/capturas/Yie Ar Kung Fu (Konami, 1985) (3).png</captura>
+            <captura>images/capturas/Yie Ar Kung Fu (Konami, 1985) (4).png</captura>
+            <captura>images/capturas/wingofarugisu_ingles(7).png</captura>
+        </capturas>
+        <caratulas>
+            <caratula>images/caratulas/Yie Ar Kung Fu (Konami, 1985) (European release) (Box front).jpg</caratula>
+            <caratula>images/caratulas/Yie Ar Kung Fu (Konami, 1985) (European release) (Box back).jpg</caratula>
+            <caratula>images/caratulas/Yie Ar Kung Fu (Konami, 1985) (European release) (Box spin).jpg</caratula>
+            <caratula>images/caratulas/Yie Ar Kung Fu (Konami, 1985) (Japanese release) (Box front).jpg</caratula>
+            <caratula>images/caratulas/Yie Ar Kung Fu (Konami, 1985) (Japanese release) (Box back).jpg</caratula>
+            <caratula>images/caratulas/Yie Ar Kung Fu (Konami, 1985) (Japanese release) (Box spin).jpg</caratula>
+            <caratula>images/caratulas/Yie Ar Kung Fu (Konami, 1985) (Alternative Japanese release) (Box front).jpg</caratula>
+            <caratula>images/caratulas/Yie Ar Kung Fu (Konami, 1985) (Alternative Japanese release) (Box back).jpg</caratula>
+            <caratula>images/caratulas/Yie Ar Kung Fu (Konami, 1985) (Clover release) (Cartridge).jpg</caratula>
+            <caratula>images/caratulas/Yie Ar Kung Fu (Konami, 1985) (Italian release in tape).jpg</caratula>
+            <caratula>images/caratulas/Yie Ar Kung Fu (Konami, 1985) (Sharp-Epcom release) (Cartridge).jpg</caratula>
+            <caratula>images/caratulas/Yie Ar Kung Fu (Konami, 1985) (Japanese release) (Box front).jpg</caratula>
+        </caratulas>
+        <control>Keyboard Joystick</control>
+        <country></country>
+        <developer>Konami</developer>
+        <format>ROM cartridge  (16Kb)</format>
+        <generation>MSX</generation>
+        <languages>English</languages>
+        <name>Yie Ar Kung-Fu</name>
+        <players>1</players>
+        <price>4800 JPY</price>
+        <productId>RC-725</productId>
+        <publisher>Konami</publisher>
+        <region></region>
+        <releases>
+            <release>
+                <format>ROM cartridge (16Kb)</format>
+                <price>4800 JPY - Japan</price>
+                <productCode>GPM-108</productCode>
+                <publisher>Casio</publisher>
+                <region>Asia/Japan</region>
+                <year>1985</year>
+            </release>
+            <release>
+                <format>ROM cartridge (16Kb)</format>
+                <publisher>Clover</publisher>
+                <region>Asia/South Korea</region>
+                <year>1985</year>
+            </release>
+            <release>
+                <format>ROM cartridge (16Kb)</format>
+                <productCode>J25</productCode>
+                <publisher>Sharp-Epcom</publisher>
+                <region>South America/Brazil</region>
+            </release>
+            <release>
+                <format>Tape</format>
+                <productCode>MSA 056</productCode>
+                <publisher>Unknown</publisher>
+                <region>Europe/Italy</region>
+            </release>
+        </releases>
+        <remakes/>
+        <requires></requires>
+        <sound>PSG</sound>
+        <type>Fighting</type>
+        <typeOfLicense></typeOfLicense>
+        <url>http://msxgamesworld.com/gamecard.php?id=290</url>
+        <year>1985</year>
+    </game>
+</games>

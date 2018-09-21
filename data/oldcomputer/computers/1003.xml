@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Basic interpreter</builtInGames>
+        <colors>Monochrome LCD</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>HD61913 CMOS VLSI</cpu>
+        <description>
+The Tandy PC-4 Was a rebadged version of the Casio PB-100.
+Apart from the brand/model plate, the design and features was identical to the original Casio model.
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>None</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/Tandy_PC4_System_s1.jpg</image>
+        <keyboard>53 keys with numeric keypad</keyboard>
+        <language>Basic interpreter</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=937</link>
+            <link>computer.asp?st=1&amp;amp;c=967</link>
+            <link>http://www.RadioShackCatalogs.com</link>
+        </links>
+        <manufacturer>Tandy Radio Shack</manufacturer>
+        <media></media>
+        <name>TRS 80 PC-4</name>
+        <numGames></numGames>
+        <origin>Japan</origin>
+        <peripherals>1 kB RAM PACK,  cassette interface, mini thermal printer (from Tandy or Casio)</peripherals>
+        <ports>12-pin expansion port for printer and cassette interface11-pin internal slot for memory module</ports>
+        <power>2 x CR-2032 lithium batteries</power>
+        <price>Unknown</price>
+        <production>Unknown</production>
+        <ram>1 KB (544 bytes for Basic programs) up to 2 KB</ram>
+        <rom>12 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;PROMOTIONAL BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Tandy_PC4_Box_s1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>165 (W) x 71 (D) x 10 (H) mm / 116 g (with batteries)</size>
+        <sound>None</sound>
+        <speed>455 kHz ceramic resonator used as system clock</speed>
+        <text>1 line x 12 chars plus a 4 digit seven segment display part</text>
+        <type>Pocket</type>
+        <vram></vram>
+        <year>1982</year>
+    </computer>
+</computers>

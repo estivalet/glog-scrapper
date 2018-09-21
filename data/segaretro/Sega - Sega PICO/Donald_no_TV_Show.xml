@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<games>
+    <game>
+        <developer>Sega</developer>
+        <genre>Educational: Language</genre>
+        <name>Donald no TV Show</name>
+        <players>1</players>
+        <publisher>Sega</publisher>
+        <releases>
+            <release>
+                <code></code>
+                <country></country>
+                <date></date>
+                <price></price>
+            </release>
+            <release>
+                <code>HPC-6033</code>
+                <country>JP</country>
+                <date>1995-12</date>
+                <price>&amp;Acirc;&amp;yen;3,980</price>
+            </release>
+        </releases>
+        <romSize>1MB</romSize>
+        <shots>http://segaretro.org/images/4/45/DnTS_title.png</shots>
+        <shots>http://segaretro.org/images/2/2a/DnTVS_Pico_JP_Box.jpg</shots>
+        <shots>http://segaretro.org/images/7/74/DnTS_pico_jp_manual.pdf</shots>
+        <systems>Sega Pico</systems>
+    </game>
+</games>

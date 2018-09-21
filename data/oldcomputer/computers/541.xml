@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Unknown</builtInGames>
+        <colors>Yes</colors>
+        <controllers></controllers>
+        <coprocessor>Optional</coprocessor>
+        <cpu>80286 (16-bit CPU)</cpu>
+        <description>
+After IBM produced the PC/AT, NCR introduced their AT clone and called it the NCR PC8. It was primarly produced in Augsburg Germany.
+
+It was 80286 based and clocked the CPU at 8 MHz max. With the PC8, NCR offered their NCR-DOS, but also a UNIX variant (Xenix).
+
+The system was bundled with NCR-DOS, GW-BASIC, Getting Started booklet, On-line NCR HELP, NCR User Interface, and User Diagnostics.
+
+Better pictures needed !
+
+Ryan May reports :
+The PC8 had several varieties.  The PC8 on NCRs site was always refered to by a tier number and a model number, NCR themselves rarely use the PCX to identify a unit.
+
+Both units I got had a stock 20mb MFM hard drive (NCR labled), two
+5.25&amp;quot; HD floppies, and 640kb RAM on the system board (though there were checkboxs on the front panel of the unit for 256kb, 512kb, 1512kb).
+There was a front panel you could fold down that had a checklist of
+all the possible items that could be installed in the unit. Also under the front panel was a volume control for the pcspeaker.
+
+Both units also had a 15&amp;quot; NGA?? (NCR proprietary video) monitor. I really
+wanted to use the screens because they were very high quality. I ran all
+sorts of diagnostics and nothing seemed to know what they where, all said
+CGA and the only video mode that I could get to work was CGA. BUT!!
+By appearance, in text mode the screens appeared to be VGA or even SVGA in
+the 80x25 text mode. I have never seen monitors that where that clear.
+They where 16 color or possibly 64 color ttl.
+One utility I used thought the screens where 640x400, which is what I
+assume to be correct. The text (in text mode) looked like Modern, it was
+very thin and very clear/smooth, much different than I am used to.
+
+Omer van der Horst Jansen reports :
+The PC8 was designed before thumbscrews were common in PC case design. To help you to open the case it came with a nifty NCR-branded screwdriver that could be flipped for use with Phillips and regular screws. My PC8 has been dead for almost a decade but I'm still using that screwdriver every day!
+
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>640 x 400</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/ncr_pc8_1.jpg</image>
+        <keyboard>Advanced mechanical keyboard. 30 function keys. Seperate command and cursor keys.</keyboard>
+        <language>Unknown</language>
+        <links/>
+        <manufacturer>NCR</manufacturer>
+        <media>Integrated 5.25'' 1.2M flex disk drive on basic system and integrated 20MB or 30MB fixed disk on enhanced systems.Up to 128MB fixed disk capacity with optional 64MB disks.</media>
+        <name>PC8</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals></peripherals>
+        <ports>Parallel / Centronics port, RS232 serial port, 8 x PC/AT-compatible expansion slots.</ports>
+        <power>PSU built-in</power>
+        <price></price>
+        <production></production>
+        <ram>256 kb, 512kb, 640 kb or 1512 kb depending on models. (640 KB max. on the main processor board)</ram>
+        <rom>Unknown</rom>
+        <screenshots/>
+        <size></size>
+        <sound>Beeper?</sound>
+        <speed>6/8 Mhz</speed>
+        <text>80 x 25</text>
+        <type>Professional Computer</type>
+        <vram>Unknown</vram>
+        <year>1986</year>
+    </computer>
+</computers>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FRENCH ADVERT (DEC. 1985)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;quot;9990 francs the TO9. Colors included&amp;quot; &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; &amp;quot;Thomson. All the world in a present&amp;quot;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/thomson_to9_advert_couleurs-comprises.jpg</link>
+            </advert>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FRENCH ADVERT (APRIL 1987)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;quot;You're never so well served than by yourself...&amp;quot; &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; &amp;quot;...create your own micro-server on Thomson.&amp;quot;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/thomson_to9_advert_microserveur_1.jpg</link>
+            </advert>
+        </adverts>
+        <builtInGames>One 3.5'' disk-drive</builtInGames>
+        <colors>from 2 to 16 among 4096</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Motorola 6809 e</cpu>
+        <description>
+The Thomson TO9 had a short career and was quickly replaced with the Thomson TO9 plus.
+
+It was designed to be a &amp;quot;super&amp;quot; Thomson TO 7-70 and has lost of its characteristics. Some options were available : RS232c and joystick connector, modem or genlock. Notice that the very first version of the TO 9 (never marketed) had a 5.25&amp;quot; floppy disk drive.
+
+Contrary to the next Thomson series which have a sophisticated memory management, the TO 9 upper 64 KB ram are used as a ramdisk.
+
+It is provided with several utilities in ROM : two basics, a word processor (paragraphe) and a data base (fiche &amp;amp; dossiers), there were some problems with these utilities which couldn't be easy updated.
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>Thomson MO5 emulator for PC</description>
+                <link>http://dcmo5.free.fr/</link>
+                <name>DCMO5</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Easy to use emulator, to run MO5 games without knowing MO5 commands</description>
+                <link>HTTP://DCMO5.FREE.FR</link>
+                <name>DCMO5 Gamer Edition</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Thomson MO5NR, Thomson MO6 and Olivetti Prodest PC128 emulator for PC</description>
+                <link>http://dcmo6.free.fr/</link>
+                <name>DCMO6</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Universal 8-bit Thomson emulator for Windows. Emulates Thomson MO5, MO5E, MO5NR, MO6, T9000, TO7/70, TO8, TO8D, TO9, TO9+ and Olivetti Prodest PC128  !</description>
+                <link>http://dcmoto.free.fr/</link>
+                <name>DCMOTO</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Thomson T9000, TO7/70, TO8, TO8D emulator for Windows</description>
+                <link>http://dcto7.free.fr/</link>
+                <name>DCTO7 and DCTO8</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>No, you are not dreaming. This is a TO-7/70 emulator for the Dreamcast game system !</description>
+                <link>http://www.jplang.fr.st/</link>
+                <name>TODC</name>
+                <platform>Other platform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>320 x 200 (16 colors) / 640 x 200 (2 colors) / 320 x 200 (4 colors) / 160 x 200</graphics>
+        <hardwares>
+            <hardware type="DISK DRIVES">
+                <items>
+                    <item>
+                        <description>3.5'' FD unit|||Ref. DD09-350|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;3.5'' FD UNIT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;Ref. DD09-350&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Thomson_To9_FDunit35_1.jpg</photo>
+                    </item>
+                    <item>
+                        <description>5.25'' disk drive|||320 KB model|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;5.25'' DISK DRIVE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;320 KB model&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This 5.25'' disk-drive offers a 320 KB capacity (40 tracks &amp;gt; 16 sectors &amp;gt; 256 bytes) and a built-in controller.&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/thomson_to7_diskdrive_2.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Disk Controller|||CD 90-351|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;DISK CONTROLLER&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;CD 90-351&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This interface was used to connect a disk drive or a Quick Disc Drive (QDD) to a TO-7, TO-7/70, MO5 or MO6.&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/thomson_to7_disk-interface.jpg</photo>
+                    </item>
+                </items>
+            </hardware>
+            <hardware type="JOYSTICK EXPANSIONS">
+                <items>
+                    <item>
+                        <description>Joystick module||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;JOYSTICK MODULE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Dual Atari compatible joysticks module&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Thomson_To9_JoyModule_1.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Music &amp;amp; Game Module|||CM 90-112|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MUSIC &amp;amp; GAME MODULE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;CM 90-112&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This module offers two joystick connectors (Videopac joysticks can be used) and adds three channels to the TO-7  or MO-5 (resulting in a total of 4 voices). Sadly, these new sound features were scarcely used in games...&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/thomson_to7_joy-interface.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Music &amp;amp; Game Module #2||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MUSIC &amp;amp; GAME MODULE #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Thomson_MO5_MusicEtJeu_s1.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Ordi 94|||Joystick Interface|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;ORDI 94&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;Joystick Interface&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This interface enables Atari joysticks to be used with TO-7, TO-7/70 and MO5. It was sold by Ordivisuel under the name Ordi 94.&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/thomson_to7_joy-atari.jpg</photo>
+                    </item>
+                </items>
+            </hardware>
+            <hardware type="PRINTERS">
+                <items>
+                    <item>
+                        <description>Printer PR-90 080||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;PRINTER PR-90 080&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;80 columns dot-matrix printer which was a rebadged version of the Seikosha GP-80&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Thomson_TO7_Imp_PR90-080.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Printer PR-90 600||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;PRINTER PR-90 600&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;80-column 9-pin dot matrix printer. A rebadged version of the Seikosha SP-1000 with graphics capabilities&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Thomson_To9_ImpPR90_600_1.jpg</photo>
+                    </item>
+                </items>
+            </hardware>
+        </hardwares>
+        <image>http://www.old-computers.com/museum/photos/Thomson_To9_System_1.jpg</image>
+        <keyboard></keyboard>
+        <language></language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=12</link>
+            <link>computer.asp?st=1&amp;amp;c=167</link>
+            <link>computer.asp?st=1&amp;amp;c=838</link>
+            <link>computer.asp?st=1&amp;amp;c=868</link>
+            <link>computer.asp?st=1&amp;amp;c=853</link>
+            <link>computer.asp?st=1&amp;amp;c=11</link>
+            <link>computer.asp?st=1&amp;amp;c=643</link>
+            <link>computer.asp?st=1&amp;amp;c=238</link>
+            <link>computer.asp?st=1&amp;amp;c=240</link>
+            <link>http://membres.lycos.fr/amito8/data/Accueil.html</link>
+            <link>http://lair.thomsonistes.org/</link>
+            <link>http://gfournier.free.fr/</link>
+            <link>http://dcmoto.free.fr/</link>
+            <link>http://forumthomson2001.free.fr/forum01.htm</link>
+            <link>http://www.multimania.com/tonews/</link>
+            <link>http://nostalgies.thomsonistes.org/</link>
+            <link>http://wiki.forler.ch</link>
+            <link>http://www.logicielsmoto.com/home.php</link>
+        </links>
+        <manufacturer>Thomson</manufacturer>
+        <media>One 3.5'' disk-drive</media>
+        <name>TO 9</name>
+        <numGames></numGames>
+        <origin>France</origin>
+        <peripherals></peripherals>
+        <ports>Light Pen, Joystick, Mouse, Centronics, Cardridge, Audio, Bus slots (3)</ports>
+        <power></power>
+        <price></price>
+        <production></production>
+        <ram>128 KB (107 KB for the user)</ram>
+        <rom>136 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;ANOTHER VIEW&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Thomson_To9_System_2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;TOP VIEW&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Thomson_To9_TopView_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MAIN UNIT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;With external 3.5&amp;quot; FDD unit&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Thomson_To9_System_3.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FRONT PANEL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;From left to right:&amp;lt;br&amp;gt; • ROM cartridges housing&amp;lt;br&amp;gt; • Reset switch&amp;lt;br&amp;gt; • Keyboard RJ11 plug&amp;lt;br&amp;gt; • Light pen DIN plug&amp;lt;br&amp;gt; • Tape recorder DIN plug&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Thomson_To9_FrontPanel_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;KEYBOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Thomson_To9_Keyboard_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;REAR SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;&amp;lt;b&amp;gt;(1)&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt; TV aerial output, not installed on this French version&amp;lt;br&amp;gt; &amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;&amp;lt;b&amp;gt;(2)&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt; Sound output&amp;lt;br&amp;gt; &amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;&amp;lt;b&amp;gt;(3)&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt; Scart connector. A TV set or colour moniteur could be used in RGB mode&amp;lt;br&amp;gt; &amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;&amp;lt;b&amp;gt;(4)&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt; Printer connector&amp;lt;br&amp;gt; &amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;&amp;lt;b&amp;gt;(5)&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt; Connector for an external floppy drive unit&amp;lt;br&amp;gt; &amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;&amp;lt;b&amp;gt;(6)&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt; I/O module connectors (Serial interface, joysticks,...)&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Thomson_To9_Rear_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MONITOR REAR SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The Thomson monitor offered a headphone output as well as numerous screen adjustments, among them one adjustment for each RGB colour.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Thomson_To9_RearMonitor_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INSIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The case was originally designed to receive a 5.25&amp;quot; floppy drive. The 5.25&amp;quot; housing have been adapted to receive a 3.5&amp;quot; drive just before mass production. &amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Thomson_To9_Inside_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MAINBOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;&amp;lt;b&amp;gt;(1)&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt; 128 KB RAM chips (16x4464)&amp;lt;br&amp;gt; &amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;&amp;lt;b&amp;gt;(2)&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt; Custom Thomson gate array chip&amp;lt;br&amp;gt; &amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;&amp;lt;b&amp;gt;(3)&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt; FDD controller chips. They have probably been changed at the last time, when Thomson designers chose a 3.5&amp;quot; FDD instead of a 5.25&amp;quot;&amp;lt;br&amp;gt; &amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;&amp;lt;b&amp;gt;(4)&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt; External FDD connector&amp;lt;br&amp;gt; &amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;&amp;lt;b&amp;gt;(5)&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt; Printer connector&amp;lt;br&amp;gt; &amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;&amp;lt;b&amp;gt;(6)&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt; BASICs and file management ROMs&amp;lt;br&amp;gt; &amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;&amp;lt;b&amp;gt;(7)&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt; Motorola MC6809EP processor&amp;lt;br&amp;gt; &amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;&amp;lt;b&amp;gt;(8)&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt; Motorola 6821 PIA chip&amp;lt;br&amp;gt; &amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;&amp;lt;b&amp;gt;(9)&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt; Monitor ROM&amp;lt;br&amp;gt; &amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;&amp;lt;b&amp;gt;(10)&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt; Reset switch&amp;lt;br&amp;gt; &amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;&amp;lt;b&amp;gt;(11)&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt; Motorola 6850 ACIA chip in charge of keyboard and light pen management&amp;lt;br&amp;gt; &amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;&amp;lt;b&amp;gt;(12)&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt; 6846 PIA/timer and ROM chip used, inter alia, for ROM cartridge and keyboard management&amp;lt;br&amp;gt; &amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;&amp;lt;b&amp;gt;(13)&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt; ROM cartridges connector&amp;lt;br&amp;gt; &amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;&amp;lt;b&amp;gt;(14)&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt; Switching power supply unit&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Thomson_To9_MainBoard_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BOOT SCREEN&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;When the T09 is switched on, the boot screen offers several options:&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;[1]&amp;lt;/b&amp;gt; &amp;quot;Fiches et Dossiers&amp;quot; database&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;[2]&amp;lt;/b&amp;gt; &amp;quot;Paragraphe&amp;quot; word processor&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;[3]&amp;lt;/b&amp;gt; Microsoft BASIC 128 KB&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;[4]&amp;lt;/b&amp;gt; Microsoft BASIC 1.0, TO7 compatible&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;[5]&amp;lt;/b&amp;gt; User adjustments&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;[6]&amp;lt;/b&amp;gt; Diskette files management&amp;lt;br&amp;gt;&amp;lt;br&amp;gt; If a ROM cartridge is inserted, an additional option allows to run the ROM program.  &amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Thomson_To9_BootScreen_1.jpg</link>
+            </shot>
+        </screenshots>
+        <size></size>
+        <sound>three channels, 7 octaves</sound>
+        <speed>1 MHz</speed>
+        <text>40 x 24 / 80 x 24</text>
+        <type>Home Computer</type>
+        <vram></vram>
+        <year>1985</year>
+    </computer>
+</computers>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>MSX Basic V2.0 + DESKPAC software</builtInGames>
+        <colors>512</colors>
+        <controllers></controllers>
+        <coprocessor>Video Display Processor : V9938 (MSX-VIDEO)</coprocessor>
+        <cpu>Zilog Z80A</cpu>
+        <description>
+The Panasonic FS-A1 is a MSX2 system. There are two versions: red or black case.
+
+There is DESKPAC software built-in which starts automatically when the system is booted. It offers several interesting utilities : world time clock, chronometer, alarm, calculator, calendar and diary (see software section for screenshots). From here you can also choose to go directly to MSX Basic v2.0.
+
+Concerning audio and music, the FS A1 is equiped with an AY-8910-3 chipset (or the YM2149 variant/clone) which is the very typical 3-voice square wave PSG with whitenoise. The computer is equiped with a pause button which hangs the system at will!
+
+Some times later, the FS A1 MK2 (MaKe 2) will be released, offering some improvements (which ones?) like a numeric keypad above the cursor keys.
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>Excellent free MSX emulator</description>
+                <link>http://www.bluemsx.com/</link>
+                <name>BlueMSX</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>The excellent fMSX, but ported onto the GamePark GP32 handheld console.</description>
+                <link>HTTP://WWW.RETRODEV.INFO/</link>
+                <name>fMSX32</name>
+                <platform>Other platform emulator</platform>
+            </emulator>
+            <emulator>
+                <description>This new MSX emulator can reproduce, among many other MSX, MSX2and  MSX2+ machines, both Panasonic Turbo-R models. Be sure to get the catapult frontend and the system roms from FUNET. </description>
+                <link>http://openmsx.sourceforge.net/</link>
+                <name>openMSX - The MSX emulator that aims for perfection.</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>64 x 48 / 256 x 192 / 256 x 212 / 512 x 212Interlace mode: 256 x 424, 512 x 424</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/panasonic_fs-a1_3.jpg</image>
+        <keyboard>Full-stroke keyboard with 5 function keys and 4 arrow keys.</keyboard>
+        <language>MSX Basic V2.0 + DESKPAC software</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=619</link>
+            <link>computer.asp?st=1&amp;amp;c=862</link>
+            <link>computer.asp?st=1&amp;amp;c=773</link>
+            <link>computer.asp?st=1&amp;amp;c=281</link>
+            <link>computer.asp?st=1&amp;amp;c=137</link>
+            <link>computer.asp?st=1&amp;amp;c=854</link>
+            <link>computer.asp?st=1&amp;amp;c=790</link>
+            <link>computer.asp?st=1&amp;amp;c=662</link>
+            <link>computer.asp?st=1&amp;amp;c=288</link>
+            <link>computer.asp?st=1&amp;amp;c=430</link>
+            <link>http://www.faq.msxnet.org</link>
+        </links>
+        <manufacturer>Panasonic</manufacturer>
+        <media></media>
+        <name>FS A1</name>
+        <numGames></numGames>
+        <origin>Japan</origin>
+        <peripherals></peripherals>
+        <ports>Joysticks, Cartridge(2), Tape(1200/2400 baud), RGB, Composite Video, Centronics, External Audio</ports>
+        <power>External power supply (9V, 1.2A DC for main operation and 18V 0.17A AC)</power>
+        <price>29 800 yen (Japan, 1986)</price>
+        <production></production>
+        <ram>64 KB</ram>
+        <rom>64 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BLACK CASE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/panasonic_fs-a1_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;RED CASE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/panasonic_fsa1_red_2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;RED CASE - REAR&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/panasonic_fs-a1_red_rear.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;REAR #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/panasonic_fsa1_red_rear_2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/panasonic_fsa1_red_side_2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/panasonic_fs-a1_box.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FS A1 MK2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The MK2 model offers a numeric keypad and some other minor changes (which ones by the way?)&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/panasonic_fs-a1-mk2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MK2 AND ITS DOC&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/panasonic_fs-a1-mk2_2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FS A1 MK2 BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/panasonic_fsa1mk2_box_1.jpg</link>
+            </shot>
+        </screenshots>
+        <size></size>
+        <sound>AY-8910-3 chipset (or the YM2149 variant/clone) offering 3-voice square wave PSG with whitenoise.</sound>
+        <speed>3.58 MHz</speed>
+        <text>40 x 24 / 32 x 24</text>
+        <type>Home Computer</type>
+        <vram>128 KB</vram>
+        <year>1986</year>
+    </computer>
+</computers>

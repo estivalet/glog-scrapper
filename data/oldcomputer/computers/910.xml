@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Enhanced Sinclair BASIC</builtInGames>
+        <colors>Monochrome</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Z80A</cpu>
+        <description>
+The CP-200 and CP-200S computers were Brazilian clones of the Sinclair ZX81.
+
+However, to compete with the original model and local ZX81 clones, CP-200 models featured several enhancements.
+
+The larger case housed the power supply unit and a slightly better rubber keyboard. Basic versions had 16 KB of RAM as well as a joystick interface cabled in parallel with some keyboard keys. The BASIC interpreter also had some improvements and additional commands.
+
+The CP-200 also had one very unique characteristic being that the video display was inverted (white on black instead of black on white for the ZX-81). Any key pressed on the keyboard generated a &amp;quot;beep&amp;quot; sound coming from the buzzer (his only function).
+
+The bus connector wasn't strictly Sinclair compatible (pinout was different), but an adaptor card (?) allowed all Sinclair and third companies peripherals to be used with both CP-200 models.
+
+The CP-200s was the same computer but with a redesigned motherboard in a new smaller (hence the &amp;quot;s&amp;quot;?) plastic case. The goal was maybe to reduce the production costs.
+
+____________
+
+Contributed to this article : Paolo F. Pugno, Oscar Arthur Koepke
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>64 x 44 (big) dots</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/Prologica_CP200_system_s2.jpg</image>
+        <keyboard>43-key rubber keyboard</keyboard>
+        <language>Enhanced Sinclair BASIC</language>
+        <links/>
+        <manufacturer>Prologica</manufacturer>
+        <media>None</media>
+        <name>CP-200</name>
+        <numGames></numGames>
+        <origin>Brazil</origin>
+        <peripherals>All Sinclair extensions and peripherals</peripherals>
+        <ports>RF TV video output (channel 3 VHF), tape recorder In/Out, Bus connector, joystick</ports>
+        <power>Built-in power supply unit</power>
+        <price>Unknown</price>
+        <production></production>
+        <ram>16 KB</ram>
+        <rom>8 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;CP-200S&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Prologica_CP200S_system_s2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;CP-200&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Prologica_CP200_system_s3.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;CP-200 #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Same model with a different Prologica label&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Prologica_CP200_system_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;KEYBOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Although better than the original ZX-81's, the small and spongy keys doesn't allow fast typing.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Prologica_CP200_Keyboard_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;LEFT &amp;amp; RIGHT SIDES&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The expansion connector (not Sinclair compatible) is located on the left side, covered by a plastic lid.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Prologica_CP200_Sides_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;REAR SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Prologica_CP200_Rear_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;PROLOGICA LABEL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Prologica_CP200_Label_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MOTHERBOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The ULA custom chip of the ZX81 is here remplaced by about 25 standard logic chips. &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(1)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Expansion connector, not Sinclair compatible&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(2)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; 16 KB ROM chips, hold the BASIC interpreter&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(3)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; 16 KB RAM chips - 8 x NS MM5290, 4116 equivalent&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(4)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Tape interface connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(5)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; RF UHF modulator&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(6)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Video connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(7)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; +5V, +12V, -12V power regulators&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(8)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Buzzer&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(9)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Zilog Z80A processor. &amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Prologica_CP200_Mainboard_s1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>approx. 18 (W) x 10 (D) x 3 (H) in / 2 lbs</size>
+        <sound>No sound</sound>
+        <speed>3.25 MHz</speed>
+        <text>32 chars x 24 lines</text>
+        <type>Home Computer</type>
+        <vram>Unknown</vram>
+        <year>1982</year>
+    </computer>
+</computers>

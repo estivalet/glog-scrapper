@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>None</builtInGames>
+        <colors>8</colors>
+        <controllers></controllers>
+        <coprocessor>Signetics 2637 (Audio &amp;amp; video processing unit)</coprocessor>
+        <cpu>Signetics 2650A</cpu>
+        <description>
+The Intervision 3001 is one of the many systems &amp;quot;software-compatible&amp;quot; with the Emerson Arcadia 2001. It is almost the same system as the Intervision 2001.
+
+In fact the differences are not yet known (help welcome!). Must be minor internal changes or strategic commercial decisions to use 3001 instead of 2001... This remains a mystery until now.
+
+Though the 3001 is entirely compatible with the 2001 (can use the same cartridges), some games were specificaly released with &amp;quot;For use with Intervision 3001 Home Video Centre&amp;quot; labels on their boxes.
+
+On the electronic board of the Intervision 3001 can be found this inscription : &amp;quot;M1800 11-0253-10 Rev A&amp;quot;. Several systems of the &amp;quot;Arcadia family&amp;quot; are based on this generic M1800 electronic board. This shows that the hardware was conceived by one company (in Hong Kong ?) and then sent to others companies for assembly and specific marketing (see Voltmace Database story for another example of the phenomenon). But the name of original company is not known until now, and no generic M1800 system has been found so far. Some game boxes labeled with &amp;quot;can be used with M1800 system&amp;quot; exist, but there was always a sticker upon it replacing M1800 with the name of another system. Thus even with the games, it looks like the parent company sent ready to be marketed games &amp;amp; boxes where each company had to put their own sticker upon them.
+
+Soundic seems to be such a company which built MPT-x systems and then sold them to other companies to do their own marketing. Many obscure consoles are in fact based on MPT-x electronic board. MPT-02 were RCA Studio II clones, MPT-03 were &amp;quot;Arcadia 2001 clones&amp;quot; and MPT-04 &amp;amp; MPT-05 were &amp;quot;Interton VC-4000 clones&amp;quot;.
+
+The Intervision 3001 is a rare machine! One was found in spain and another in Switzerland where the 2001 model was distributed too. The Intervision 2001 was also sold in Finland so it wouldn't be a surprise to discover a 3001 model there too one day.
+
+See the Intervision 2001 entry for more info about the system itself...
+
+________
+
+Thanks to www.lomasretro.com for the pictures
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>DOS emulator written by Paul Robson</description>
+                <link>http://users.aol.com/mk14emu/arcadia.htm</link>
+                <name>2001 - The Emerson Arcadia 2001 Emulator </name>
+                <platform>MS DOS emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Nice Arcadia 2001 emulator for Windows (also emulates Interton VC-4000 and clones!)</description>
+                <link>http://www.gstsoftware.co.nz/</link>
+                <name>Emulator2001 by Gavin Turner</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Arcadia 2001, Interton VC 4000, Elektor TVGC emulator!</description>
+                <link>http://members.optusnet.com.au/jrjacobs76/</link>
+                <name>WinArcadia</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Arcadia 2001, Interton VC 4000, Elektor TVGC emulator!</description>
+                <link>http://members.optusnet.com.au/jrjacobs76/</link>
+                <name>AmiArcadia</name>
+                <platform>Amiga OS emulator</platform>
+            </emulator>
+            <emulator>
+                <description>MESS also emulates Arcadia 2001 &amp;amp; compatible systems</description>
+                <link>http://www.mess.org</link>
+                <name>MESS</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>128 x 208 / 128 x 104</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/intervision_3001_1s.jpg</image>
+        <keyboard>Two detachable controllers made of a screwable analog joystick and a 14-buttons keypad</keyboard>
+        <language>None</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=1191</link>
+            <link>computer.asp?st=1&amp;amp;c=835</link>
+            <link>computer.asp?st=1&amp;amp;c=1178</link>
+            <link>computer.asp?st=1&amp;amp;c=1181</link>
+            <link>computer.asp?st=1&amp;amp;c=1177</link>
+            <link>computer.asp?st=1&amp;amp;c=829</link>
+            <link>computer.asp?st=1&amp;amp;c=1185</link>
+            <link>computer.asp?st=1&amp;amp;c=1223</link>
+            <link>http://www.digitpress.com/faq/arc2001.txt</link>
+            <link>http://amigan.classicgaming.gamespy.com/</link>
+            <link>http://amigan.classicgaming.gamespy.com/gg/</link>
+            <link>http://www.old-computers.com/magazine/view.asp?r=2&amp;amp;a=8</link>
+            <link>http://lomasretro.dyndns.org/varios/intervisionpage/index.html</link>
+            <link>http://www.retrogames.co.nz/</link>
+        </links>
+        <manufacturer>Intervision</manufacturer>
+        <media>Cartridges</media>
+        <name>3001 - Home Video Centre</name>
+        <numGames></numGames>
+        <origin>Hong Kong</origin>
+        <peripherals>None</peripherals>
+        <ports>RF video output, Power in</ports>
+        <power>External power supply unit  : 9v DC, 750mA    - -(o- +</power>
+        <price>Unknown</price>
+        <production></production>
+        <ram>1024 bytes</ram>
+        <rom>None in the conventional sense, though there was some built into the processor chips.</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INTERVISION 3001&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/intervision_3001_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;REAR LABEL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/intervision_3001_rear-label.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;ELECTRONIC BOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;1&amp;lt;/b&amp;gt; - Signetics 2637 audio &amp;amp; video processing unit&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;2&amp;lt;/b&amp;gt; - Signetics 2650A microprocessor&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;3&amp;lt;/b&amp;gt; - Cartridge slot&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;4&amp;lt;/b&amp;gt; - MM2114N-L RAM chips&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;5&amp;lt;/b&amp;gt; - UHF video converter&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;6&amp;lt;/b&amp;gt; - Left controller internal connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;7&amp;lt;/b&amp;gt; - Right controller internal connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;8&amp;lt;/b&amp;gt; - Switch board (control buttons) wires&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/intervision_3001_mobo.jpg</link>
+            </shot>
+        </screenshots>
+        <size>Unknown</size>
+        <sound>Single channel beeper</sound>
+        <speed>3.58 Mhz</speed>
+        <text></text>
+        <type></type>
+        <vram></vram>
+        <year>? 1982</year>
+    </computer>
+</computers>

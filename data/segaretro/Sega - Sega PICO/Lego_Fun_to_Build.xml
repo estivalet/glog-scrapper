@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<games>
+    <game>
+        <developer>Sega</developer>
+        <genre>Drawing and manual arts</genre>
+        <name>Lego Fun to Build</name>
+        <players>1</players>
+        <publisher>Sega</publisher>
+        <releases>
+            <release>
+                <code></code>
+                <country></country>
+                <date></date>
+                <price></price>
+            </release>
+            <release>
+                <code>HPC-6032</code>
+                <country>JP</country>
+                <date>1995-12</date>
+                <price>&amp;Acirc;&amp;yen;</price>
+            </release>
+        </releases>
+        <romSize>1MB</romSize>
+        <shots>http://segaretro.org/images/a/ad/LegoFunToBuild_title.png</shots>
+        <shots>http://segaretro.org/images/0/03/LegoFunToBuild_Pico_JP_Box.jpg</shots>
+        <shots>http://segaretro.org/images/b/b3/LFTB_pico_jp_manual.pdf</shots>
+        <systems>Sega Pico</systems>
+    </game>
+</games>

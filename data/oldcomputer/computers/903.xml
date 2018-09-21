@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>None</builtInGames>
+        <colors>Monochrome</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Z80A</cpu>
+        <description>
+After having launched a home computer, the Einstein, Tatung tried to tackle the small business market with this PC-2000 system. Ease of use, attractive price and expandability were their main desing criteria.
+
+The PC-2000 was actually a standard CP/M based machine. However, a large range of powerful options could be added whitch impressively increased system capabilities:
+ The serial interface board contained 14 RS232 serial ports and the PC-2000 could add up to 2 complete boards.
+ The TTL I/O board had 64 Input/Output lines and again the PC-2000 could take 2 complete boards.
+ The virtual disk board had a capacity of 256 KB and the PC-2000 could take up to 8 of them. 
+ On the hard-disk card, up to 4 set of 5.25&amp;quot; or 8&amp;quot; drives were possible.
+ Furthermore, Internal connectors allowed a colour graphic board and a dual 8&amp;quot; floppy disc controller to be connected.
+
+Despite these unusual abilities and a good manufacturing quality, the PC-2000 was a real flop and very few of them were sold.
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>Text only in basic version</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/Tatung_PC5000_System_1.jpg</image>
+        <keyboard>Full stroke 85 keys with 6 function keys and numeric keypad</keyboard>
+        <language>None</language>
+        <links/>
+        <manufacturer>Tatung</manufacturer>
+        <media>2 x 1 MB 5.25'' floppy disc drives</media>
+        <name>PC-2000</name>
+        <numGames></numGames>
+        <origin>Ta&amp;iuml;wan</origin>
+        <peripherals>Graphics display and board, Serial board, I/O board, FD/HD controllers</peripherals>
+        <ports>Parallel Centronics, Serial RS232</ports>
+        <power>Built-in power supply unit</power>
+        <price>&amp;pound;1950 (U.K., 1984, monochrome version)</price>
+        <production></production>
+        <ram>64 KB</ram>
+        <rom>2 KB</rom>
+        <screenshots/>
+        <size>45 (W) x 42.8 (D) x 62 (H) (CPU + monitor)</size>
+        <sound>Beeper</sound>
+        <speed>4 MHz</speed>
+        <text>80 chars x 25 lines (9 x 12 resolution)</text>
+        <type>Professional Computer</type>
+        <vram>4 KB</vram>
+        <year>1984</year>
+    </computer>
+</computers>

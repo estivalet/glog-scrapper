@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;US AD. MAY 1983&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Advert said:&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;#666666&amp;quot;&amp;gt; Before you start hunting from store to store for the ideal microcomputer, consider this: You won't find it.&amp;lt;br&amp;gt; That's because the world's most versatile micro is available only from the manufacturer. It's Lobo MAX-80 And, dollar for dollar, feature for feature, there isn't another system that even comes close....&amp;lt;/font&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/Lobo_Max80_Advert_1.jpg</link>
+            </advert>
+        </adverts>
+        <builtInGames>None</builtInGames>
+        <colors>Monochrome</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Z80-B</cpu>
+        <description>
+Max-80 has been, along with the LNW-80, one of the two major Tandy TRS-80 Mod. III compatible computers.
+
+It could run LDOS TRS-80 software three times faster. Nevertheless numerous internal differences made it incompatible as far as hardware was concerned: serial and parallel ports, disk interface and no tape connector.
+
+The system also ran CP/M operating system. the early versions were
+shipped with 2.2 version, next ones with version 3. It could accept any 5&amp;quot; or 8&amp;quot; disk units of any capacity, including the new and rare (at that time) Sony 3.5&amp;quot; units.
+_______________________</description>
+        <emulators/>
+        <graphics>None</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/Lobo_Max80_System_1.jpg</image>
+        <keyboard>Full-stroke 76 keys with numeric keypad</keyboard>
+        <language>None</language>
+        <links/>
+        <manufacturer>Lobo Drives International</manufacturer>
+        <media></media>
+        <name>MAX-80</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals></peripherals>
+        <ports>F.D.D. interface (3.5'', 5.25'' and 8''), H.D.D. interface (ST-406/512), Parallel Centronics, 2 x Serial RS-232C</ports>
+        <power>Built-in power supply</power>
+        <price>$820</price>
+        <production></production>
+        <ram>64 KB expandable to 128 KB</ram>
+        <rom>Unknown</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;LOBO PRICE LIST &amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;December 1982 price list&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Lobo_Max80_Pricelist_1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>Unknown</size>
+        <sound>Beeper</sound>
+        <speed>5 Mhz.</speed>
+        <text>64 columns x 16 or 32 lines for TRS-80 mode80 columns x 25 lines for CP/M mode (or a special LDOS mode)</text>
+        <type>Professional Computer</type>
+        <vram></vram>
+        <year>1982</year>
+    </computer>
+</computers>

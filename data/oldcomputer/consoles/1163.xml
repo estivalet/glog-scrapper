@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>5 built-in games</builtInGames>
+        <colors>Color display</colors>
+        <controllers></controllers>
+        <coprocessor>CDP1861 video display chipset</coprocessor>
+        <cpu>RCA 1802</cpu>
+        <description>
+The Mustang 9016 is one of the few RCA Studio II clones. You sould read its entry for more info about the Mustang itself.
+
+The Mustang 9016 is thus a programmmable console which looks like a pong system, the most popular systems when the RCA Studio appeared. Like the Studio II, the Mustang 9016 seems to also have 5 built in games: Bowling, Freeway (car racing), Patterns, Doodles, and Math (any confirmation would be nice).
+
+The controllers are quite basic: only two numeric keypads built-in the system, labeled &amp;quot;A&amp;quot; for left player and &amp;quot;B&amp;quot; for right player. The numeric keypads are composed of ten keys numbered from 0 to 9. Arrows are also drawn next to the keys to indicate that &amp;quot;4&amp;quot; is for left, &amp;quot;6&amp;quot; for right, &amp;quot;2&amp;quot; for up, &amp;quot;3&amp;quot; for up-right, etc. &amp;quot;0&amp;quot; is thus often used as the fire button (depending on games of course).
+
+Some years after RCA Studio II was released, color clone systems like the Mustang 9016 appeared in Europe.  They were clearly marketed as cheap systems for people who couldn't afford more &amp;quot;modern&amp;quot; systems like the Colecovision or Vectrex.  They include the Soundic MPT-02 Victory, Hanimex MPT-02, Mustang 9016 Telespiel Computer, Conic M-1200 and the Sheen 1200 Micro Computer.  Some have modifications from the original RCA Studio II such as detachable controllers or even color graphics.  There were also some new cartridges produced for these systems, such as Concentration Match for the MPT-02 systems. The Mustang 9016 has no detachable controllers but offers color display.
+
+It is interesting to notice that MPT-02 systems are Studio RCA 2 software-compatible, MPT-03 are Emerson Arcadia 2001 software-compatible and MPT-04/05 systems are Interton VC-4000 software-compatible systems...
+
+If you want to learn more about the RCA Studio II and its clones, click here.
+The RCA Cosmac VIP computer is also quite related to the RCA Studio II and clones.
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>Nice emulator with some games to download</description>
+                <link>http://www.classicgaming.com/studio2/</link>
+                <name>Winstem</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Elf, Elf II, Super ELF and Studio II emulator (Windows compilation also available)</description>
+                <link>http://www.elf-emulation.com/emulator.html</link>
+                <name>RCS Elf Emulator</name>
+                <platform>Unix / Linux emulator</platform>
+            </emulator>
+            <emulator>
+                <description>MESS also emulates the RCA Studio II</description>
+                <link>http://www.mess.org</link>
+                <name>MESS</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>64 x 32 (theoretical maximum of 64 x 128 is possible)</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/mustang_9016_1s.jpg</image>
+        <keyboard>Two built-in keypads (10 keys: numbers from 0 to 9)</keyboard>
+        <language>5 built-in games</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=728</link>
+            <link>computer.asp?st=1&amp;amp;c=1221</link>
+            <link>http://www.old-computers.com/magazine/view.asp?r=2&amp;amp;a=5</link>
+            <link>http://www.classicgaming.com/studio2/faq.htm</link>
+            <link>http://www.classicgaming.com/studio2/</link>
+        </links>
+        <manufacturer>Mustang</manufacturer>
+        <media>Cartridges</media>
+        <name>9016 Telespiel Computer</name>
+        <numGames></numGames>
+        <origin>Germany</origin>
+        <peripherals></peripherals>
+        <ports>Cartridge slot, video output &amp;amp; power in</ports>
+        <power>Unknown</power>
+        <price>Unknown</price>
+        <production></production>
+        <ram>512 bytes (normally 256 bytes display RAM, 256 bytes program RAM)</ram>
+        <rom>2 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MUSTANG 9016&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/mustang_9016_1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>Unknown</size>
+        <sound>Single channel buzzer</sound>
+        <speed>1.78 MHz</speed>
+        <text></text>
+        <type></type>
+        <vram></vram>
+        <year>19??</year>
+    </computer>
+</computers>

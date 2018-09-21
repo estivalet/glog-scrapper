@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>BASIC interpreter</builtInGames>
+        <colors>monochrome grey LCD</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Sharp SC61860 CMOS 8-bit</cpu>
+        <description>
+The Seiko MC-2200 was a clone of the Sharp PC-1245. Besides, it was made by Sharp.
+
+The main differences were the case color, black instead of grey and brown for the Sharp, and the location of the 16-character display which was slightly moved to the right. The internal electronics was identical to the PC-1245's
+
+The tape-printer interface was also the same as the Sharp CE-125 but with black and grey colors
+
+This rare machine seems not to have met a great success.
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>None</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/Seiko_MC2200_System_s4.jpg</image>
+        <keyboard>52 keys, QWERTY calculator type with numeric keypad</keyboard>
+        <language>BASIC interpreter</language>
+        <links/>
+        <manufacturer>Seiko</manufacturer>
+        <media>Memory safe guard</media>
+        <name>MC-2200</name>
+        <numGames></numGames>
+        <origin>Japan</origin>
+        <peripherals>MP-220 micro-cassette printer interface + original Sharp peripherals</peripherals>
+        <ports>Proprietary 11-pin expansion bus</ports>
+        <power>6 volts, 2 x CR 2032 lithium cells</power>
+        <price>Unknown</price>
+        <production></production>
+        <ram>2.2 KB - 1486 bytes available for BASIC programs</ram>
+        <rom>24 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;LARGE VIEW&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Seiko_MC2200_System_s2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BOTH SIDES&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Contrast adjustment on the right side,&amp;lt;br&amp;gt; 11-pin expansion connector on the left side.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Seiko_MC2200_Sides_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BOTTOM SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Seiko_MC2200_BackSide_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;WITH PRINTER-CASSETTE INTERFACE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Seiko_MC2200_Printer_s2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;PRINTING EXAMPLE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Seiko_MC2200_Printing_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;IN CASE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Seiko_MC2200_Case_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;THE BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Seiko_MC2200_Box_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;COMPUTER &amp;amp; PRINTER MANUALS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Seiko_MC2200_Manuals_s1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>135 (W) x 70 (D) x 9.5 (H) mm / 115 g with batteries</size>
+        <sound>CPU controlled piezo buzzer, fixed frequency and duration via BASIC statement</sound>
+        <speed>576 KHz</speed>
+        <text>LCD display - 1 line x 16 char. 5x7 dot matrix</text>
+        <type>Pocket</type>
+        <vram></vram>
+        <year>1984</year>
+    </computer>
+</computers>

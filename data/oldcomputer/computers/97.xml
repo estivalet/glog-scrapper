@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Commodore BASIC 3.5 - Built-in machine code monitor (12 commands)</builtInGames>
+        <colors>121 (15 colours x 8 luminances + black)</colors>
+        <controllers></controllers>
+        <coprocessor>TED (video &amp;amp; sound)</coprocessor>
+        <cpu>7501</cpu>
+        <description>
+The Commodore 16 belongs to the Commodore 264 series (with the Commodore C116 and Plus/4). It was designed to replace the Commodore VIC 20, but it was not compatible with the VIC-20, nor with the C64.
+
+It had the same characteristics as the Commodore Plus/4 : same graphic resolution, same sound system, same CPU and speed, just less memory.
+It featured a version of the original 6502 CPU named 7501, and a new video chip named TED. With 16 colours, and 16 shades of colour, it had an amazing 128 colours available.
+But it had no hardware sprites like the ones on the VIC II chip, so animated games and collision detection were very hard to do.
+
+It featured a powerful basic language (contrary to the VIC-20 or the C64) which makes graphics and sounds easy to program. 
+
+The C16, like the Commodore Plus/4 was a commercial failure and had little success.
+
+It seems that the first C16s had the two control ports labelled JOY 0 and JOY 1 instead of JOY 1 and JOY 2, just as a hint for collectors :-)
+
+Note that as well as the C116, the C16 lacks a user port.
+Final assembly was done in Mexico by a company named Sigma.
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <link>http://minus4.plus4.net/</link>
+                <name>Minus4 - Plus4 Emulator for DOS &amp;amp; Windows</name>
+                <platform>MS DOS emulator</platform>
+            </emulator>
+            <emulator>
+                <link>http://www.scotch.demon.co.uk/</link>
+                <name>Mike Dailly's PC +4 emulator</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <link>http://www.ping.at/members/tomking/A4/</link>
+                <name>Tom Koenig's +4 Emulator</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>C16 / Plus4 emulator for Windows &amp;amp; DOS, developed by Zsolt Prievara</description>
+                <link>http://winemu.emuunlim.com/</link>
+                <name>WinEMU</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>PLUS/4 Emulator for Windows</description>
+                <link>http://YAPE.PLUS4.NET</link>
+                <name>YAPE</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <link>http://www.ping.at/members/tomking/A4/</link>
+                <name>Tom Koenig's Amiga +4 Emulator</name>
+                <platform>Amiga OS emulator</platform>
+            </emulator>
+            <emulator>
+                <description>VICE emulates a bunch of 8-bit Commodore computers including the Plus 4</description>
+                <link>http://www.viceteam.org/</link>
+                <name>VICE</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>320 x 200 / 320 x 160 (with 5 lines of text) / 160 x 200 / 160 x 160 (with 5 lines of text)</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/Commodore_16_System_s2.jpg</image>
+        <keyboard>66 keys with 4 function keys and 4 cursor keys</keyboard>
+        <language>Commodore BASIC 3.5 - Built-in machine code monitor (12 commands)</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=1125</link>
+            <link>computer.asp?st=1&amp;amp;c=194</link>
+            <link>http://plus4.emucamp.com/</link>
+            <link>http://YAPE.PLUS4.NET</link>
+            <link>http://www.commodore16.com/</link>
+            <link>news:comp.binaries.cbm</link>
+            <link>news:comp.binaries.cbm</link>
+            <link>news:comp.sys.cbm</link>
+        </links>
+        <manufacturer>Commodore</manufacturer>
+        <media>Cassette unit. Provision for 5.25</media>
+        <name>C16</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals></peripherals>
+        <ports>Tape, Cardridge, Joystick (2), serial, Composite Video, TV</ports>
+        <power></power>
+        <price>&amp;pound;129.99 (C16 starter pack)</price>
+        <production></production>
+        <ram>16 KB (12 KB free for user)</ram>
+        <rom>32 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;C16 HIGH RESOLUTION&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Commodore_16.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;C16&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;C16 case and keyboard are quite the same as the C64, except black and grey colours.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Commodore_16_System_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;C16 CLOSE-UP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Commodore_16_KeybCloseUp_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INSIDE THE C16&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The C16 is very similar to the Vic 20... but, unfortunately, is not compatible with it concerning joysticks, cassette recorder and, most important, software.&amp;lt;br&amp;gt; In fact, the Commodore 16 is only compatible with the Plus/4, both systems being supposed to replace the aging Vic 20 and Commodore 64.&amp;lt;br&amp;gt; From a technical point of view, many standard circuits are replaced with the single TED chip and the keyboard is better than those of its great brothers.  &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(1)&amp;lt;/b&amp;gt; The 7501 processor uses a 6502 compatible instruction set but can manage more than 64 Kb of memory.&amp;lt;br&amp;gt;  &amp;lt;b&amp;gt;(2)&amp;lt;/b&amp;gt; Along with the CPU, the TED circuit manages the whole system and holds the machine language monitor. &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(3)&amp;lt;/b&amp;gt; This small component is a quartz which synchronizes the microprocessor and the other circuits. &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(4)&amp;lt;/b&amp;gt; ROM chip holding version 3.5 of the Commodore Basic language. &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(5)&amp;lt;/b&amp;gt; ROM chip holding the Commodore 0perating System called Kernel. &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(6)&amp;lt;/b&amp;gt; Circuit in charge of inputs/outputs management (keyboard, cassette, interfaces...)&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(7)&amp;lt;/b&amp;gt; 16 Kb. RAM hold in two 4416 memory chips (16000 cells of 4 bits each).    &amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Commodore_16_Mainboard_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;C16 REAR VIEW&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;(1)&amp;lt;/b&amp;gt; Joystick 1 &amp;amp; 2 miniDIN plugs&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(2)&amp;lt;/b&amp;gt; Reset switch&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(3)&amp;lt;/b&amp;gt; Power jack and switch. Power is supplied by an external AC adaptor&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(4)&amp;lt;/b&amp;gt; Memory expansion and ROM cartridges connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(5)&amp;lt;/b&amp;gt; Video TV/RF output jack&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(6)&amp;lt;/b&amp;gt; RGB video DIN output&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(7)&amp;lt;/b&amp;gt; Serial interface DIN plug&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(8)&amp;lt;/b&amp;gt; Tape recorder MiniDIN plug&amp;lt;br&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Commodore_16_Back_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Commodore_16_Box_1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>40.7 (W) x 20.4 (D) x 7.7 (H) cm</size>
+        <sound>two channels; 4 octaves + white noise</sound>
+        <speed>0.89 MHz or 1.76 MHz</speed>
+        <text>40 chars.  x 25 lines</text>
+        <type>Home Computer</type>
+        <vram></vram>
+        <year>1984</year>
+    </computer>
+</computers>

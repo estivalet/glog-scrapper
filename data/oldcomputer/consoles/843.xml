@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>None</builtInGames>
+        <colors>512 palette, 64 on screen</colors>
+        <controllers></controllers>
+        <coprocessor>Zilog Z80 @ 3.58 MHz (NTSC), 3.55 MHz (PAL)</coprocessor>
+        <cpu>Motorola 68000</cpu>
+        <description>
+The Mega Drive II is basically just a re-designed Mega Drive. 
+
+The Mega Drive II was much smaller and squarer then the original Mega Drive. It did not have the headphone jack, volume control or RF TV output. The A/V port changed to a custom multi out port that now provided stereo sound to T.V's (previously only mono was output by the Mega Drive, the headphone jack had to be used for stereo sound). The power lead port was made smaller and a different AC adapter was used. Finaly the power switch was changed to a push button. 
+
+Both the original Mega Drive and the Mega Drive II could be connected to a Sega CD and 32X add-ons. The Mega CD was even remodeled to better fit the Mega Drive II. A specific version of the Mega Adapter/Master System Converter was also designed.
+
+________
+
+Adapted from Miles Mason's Genesis 2/Megadrive II text
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>Excellent Genesis emulator</description>
+                <link>http://gens.consolemul.com/</link>
+                <name>Gens</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Kega is a Sega SG1000, SC3000, Master System, Game Gear, Genesis/Megadrive and SegaCD/MegaCD emulator for Win9x/ME/2000/XP</description>
+                <link>http://www.eidolons-inn.net/kega/</link>
+                <name>KEGA</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Sega Megadrive emulator</description>
+                <link>http://emu.makii.pl/pokazpliki.php3?tematy=smd</link>
+                <name>Wgens</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>256x224, 320x224 (NTSC), 256x240, 320x240 (PAL)</graphics>
+        <hardwares>
+            <hardware type="ACTION CHAIR">
+                <items>
+                    <item>
+                        <description>the action chair||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;THE ACTION CHAIR&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The action chair is a rare item. Connected to a Genesis/Megadrive, it acts as a controller! When you lean backward/forward it tells the Genesis to go down/up and when you lean left/right it tells to go left/right. Two handles on each side offer two buttons each, resulting in 4 buttons : START, SELECT, A &amp;amp; B. &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; The Action Chair is basically a chair mounted on a controller. It is thus possible to play all games with it, though it is more convenient to play games like After Burner II, Space Harrier II, Super Thunder Blade, Hang on, Road Rash, Super Monaco GP, etc.&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/sega_action-chair.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Documentation|||Page 1|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;DOCUMENTATION&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;Page 1&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/sega_action-chair_doc_1.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Documentation|||Page 2|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;DOCUMENTATION&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;Page 2&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/sega_action-chair_doc_2.jpg</photo>
+                    </item>
+                </items>
+            </hardware>
+            <hardware type="MEGA CD II">
+                <items>
+                    <item>
+                        <description>The unit||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;THE UNIT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This is the second version of the Mega CD, especially designed to be used with the Genesis / Megadrive II system.  &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; The MegaCD was released in 1991 in Japan, in 1992 in the USA and in 1993 in Europe. This very expensive addon was meant to fight the Nintendo SNES which was just released, and alternatively the NEC CD based systems...  &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; The main interest of the MegaCD was that if enabled bigger games and FMV movies/music. Despite this, movie based games were often boring, offering very little interaction with the player. Finaly there were not a lot of games produced for the MegaCD. &amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/megacd_II_seul_icn.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Picture #2||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;PICTURE #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/megacd_II_seul_profil_icn.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Genesis / Megadrive II fitted on the MegaCD II||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;GENESIS / MEGADRIVE II FITTED ON THE MEGACD II&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/megacd_II_side_icn.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Close up||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;CLOSE UP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/megacd_II_close_icn.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Close up #2||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;CLOSE UP #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/megacd_II_profil_icn.jpg</photo>
+                    </item>
+                </items>
+            </hardware>
+        </hardwares>
+        <hardwareDescription></hardwareDescription>
+        <image>http://www.old-computers.com/museum/photos/md_II_s.jpg</image>
+        <keyboard>8-way d-pad, 3 buttons + Start</keyboard>
+        <language>None</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=837</link>
+            <link>computer.asp?st=1&amp;amp;c=1250</link>
+            <link>computer.asp?st=1&amp;amp;c=1251</link>
+            <link>computer.asp?st=1&amp;amp;c=1247</link>
+            <link>computer.asp?st=1&amp;amp;c=1233</link>
+            <link>computer.asp?st=1&amp;amp;c=1237</link>
+            <link>http://www.gamefaqs.com/console/genesis/</link>
+            <link>http://www.gamewinners.com/GEN/</link>
+            <link>http://www.gamesx.com/avpinouts/genesisav.htm</link>
+            <link>http://www.genesiscollective.com/</link>
+            <link>http://codes.ign.com/</link>
+            <link>http://www.classicgaming.com/museum/faqs/megadfaq.shtml</link>
+            <link>http://www.sega.co.jp/archive/segahard/32x/</link>
+            <link>http://www.sega.co.jp/archive/segahard/md/</link>
+            <link>http://www.sega.co.jp/archive/segahard/mcd/</link>
+            <link>http://www.classicgaming.com/museum/faqs/segacdfaq.shtml</link>
+            <link>http://www.classicgaming.com/thedump/genesis/</link>
+            <link>http://www.billnkaz.demon.co.uk/segalist.htm</link>
+            <link>http://www.vgmusic.com/music/console/sega/genesis/</link>
+            <link>http://www.zophar.net/genesis.html</link>
+            <link>news:rec.games.video.sega</link>
+        </links>
+        <manufacturer>Sega</manufacturer>
+        <media>Cartridge</media>
+        <name>Mega Drive II</name>
+        <numGames></numGames>
+        <origin>Japan</origin>
+        <peripherals>Mega CD II, 32X, Mega Adapter/Master System Converter</peripherals>
+        <ports>Cartridge, RF out, AV out, power adapter, Expansion port, 2 controller ports</ports>
+        <power>9/10v DC depending on model</power>
+        <price>&amp;pound;100 with Sonic compilation (UK, 1993)&amp;pound;120 with Mega Games 6 (UK, 1993)</price>
+        <production>1997</production>
+        <ram>64 KB main, 8 KB secondary, 8 KB sound</ram>
+        <rom></rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SEGA MEGADRIVE II&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/md_II.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FRONT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/md_II_face.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FRONT #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/md_II_face2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;TOP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/md_II_top.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;POWER BUTTON&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/md_II_power.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/megadrive_II_box.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BOX - BACK&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/megadrive_II_box_back.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;GENESIS II BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/sega_genesis2_box_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;GENESIS II BOX  # 2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/sega_genesis2_box_2.jpg</link>
+            </shot>
+        </screenshots>
+        <size>Unknown</size>
+        <sound>Texas Instruments SN76489, 4 channel PSG + Yamaha YM2612, 6 channel FM</sound>
+        <speed>7.67 MHz (NTSC), 7.61 MHz (PAL)</speed>
+        <text></text>
+        <type></type>
+        <vram>64 KB</vram>
+        <year>1993 (Japan) 1994 (Europe)</year>
+    </computer>
+</computers>

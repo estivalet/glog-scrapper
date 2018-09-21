@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>APL language</builtInGames>
+        <colors>No</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Intel 8008</cpu>
+        <description>
+Based on the MCM 70 / 700 (see this entry for more info), the MCM 800 followed in 1976.
+
+It was faster, included 16 KB RAM (instead of 8 KB for the 700), and included the ability to drive an external monitor.
+
+Among other things, MCM 800s were used in one of the first french industrial network called Gixinet (along with ARCnet). This was a token-bus type network developped by the Gixi company.
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>Unknown</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/mcm_800_1s.jpg</image>
+        <keyboard>Full stroke keyboard, 70 keys, numeric keypad</keyboard>
+        <language>APL language</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=346</link>
+            <link>http://en.wikipedia.org/wiki/MCM/70</link>
+            <link>http://www.cse.yorku.ca/museum/collections/MCM/MCM.htm</link>
+        </links>
+        <manufacturer>MCM Computers</manufacturer>
+        <media>Unknown</media>
+        <name>MCM 800</name>
+        <numGames></numGames>
+        <origin>Canada</origin>
+        <peripherals>printer, floppy disk driven, plotter, card reader, RS232 interface</peripherals>
+        <ports>expansion bus, external monitor</ports>
+        <power>Unknown</power>
+        <price>Cnd $9800 (Canada, 1976)MCM 782: Cnd $4950</price>
+        <production>Unknown</production>
+        <ram>16 KB</ram>
+        <rom>Unknown</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MCM 800&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;used on a Gixinet network&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/mcm_800_1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>Unknown</size>
+        <sound>Unknown</sound>
+        <speed>Unknown</speed>
+        <text>Unknown, built-in alphanumeric plasma display (1 line)</text>
+        <type>Professional Computer</type>
+        <vram></vram>
+        <year>1976</year>
+    </computer>
+</computers>

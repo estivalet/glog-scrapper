@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>5''1/4 disk-drive (320k) (second disk-drive and hard-disk optional)</builtInGames>
+        <colors>yes</colors>
+        <controllers></controllers>
+        <coprocessor>optional 8087 arithmetic co-processor</coprocessor>
+        <cpu>Intel 8086</cpu>
+        <description>
+Basicaly, the TI PPC was the transportable version of the TI PC, with which it was entirely compatible.
+
+It was one of the few transportable systems to be available with an optional built-in color monitor, back in 1983. The standard version had a classic 9'' monochrome monitor built-in.
+
+Unfortunately the advantages of the PC Portable compared to IBM's offer was not obvious. It was not really compatible (IBM disks could be read, and that was basically all) and IBM expansion cards could not be used.
+Despite this lack of real compatibility, some software were adapted to the TI Portable PC like for instance, Lotus 1-2-3 or VisiOn.
+A few programming languages were available: Basic, Pascal, C-Basic, Cobol and RM-Cobol.
+
+The graphical possibilities were quite different and significantly better than for the IBM PC, with for example, a maximum resolution is of 720 x 300 pixels. To make a IBM PC graphic program to run on a TI PC you would have to use BIOS or DOS calls.
+
+The TI PPC had only 64k RAM that could be expanded up to 768k using quite expensive memory cards.
+
+Like its desktop brother, the PC Portable could eventually be equiped with a voice recognition feature (for almost the price of the computer itself !) that allowed to control the basic functions of the computer and some softwares, as a diary and a phone book. With the optional hard-disk installed, it was possible to store up to 8 hours of speech.
+
+Another interesting feature was its Ethernet card indoduced in 1983, designed by a young company called 3COM.
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>720 x 300 max.</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/texas-instrument_ti-pc-portable_2.jpg</image>
+        <keyboard>QWERTY full-stroke keyboard with arrow keys and separated numeric keypad</keyboard>
+        <language></language>
+        <links/>
+        <manufacturer>Texas Instruments</manufacturer>
+        <media>5''1/4 disk-drive (320k) (second disk-drive and hard-disk optional)</media>
+        <name>Portable Professional Computer (PPC)</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals>Second 5''1/4 disk-drive, 10Mb or 20Mb hard-drive, RAM expansion cards, Voice recognition card, Ethernet, card (released ?)</peripherals>
+        <ports>Parallel/Centronics port, 5 expansion slots (non IBM compatible), 4 x serial ports (optional)</ports>
+        <power>Built-in PSU</power>
+        <price>64k model : 2965$ (USA, november 1983)64k model : 3765  (France, 1984)</price>
+        <production></production>
+        <ram>64k (up to 768k)</ram>
+        <rom></rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;PPC&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/ti_ppc_2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;DETAIL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/ti_ppc_detail.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;CLOSED&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/ti_ppc_closed.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;REAR&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/ti_ppc_rear.jpg</link>
+            </shot>
+        </screenshots>
+        <size>47 x 42 x 19 cm12 kg with the monochrom monitor14 kg with the color monitor</size>
+        <sound>Beeper</sound>
+        <speed>5 Mhz</speed>
+        <text>80 x 25</text>
+        <type>Transportable</type>
+        <vram></vram>
+        <year>November 1983</year>
+    </computer>
+</computers>

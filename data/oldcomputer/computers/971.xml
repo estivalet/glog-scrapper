@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>None</builtInGames>
+        <colors>Monochrome blue and white or 8 colours (at least) display</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Intel 80186</cpu>
+        <description>
+The ICON workstation and LEXICON file server were originally designed by Cemcorp, the Canadian Educational Microprocessor Corporation, specifically for use in Canadian schools. They were first produced by Burroughs then took the name of Unisys when Burrough and Sperry merged to form Unisys. 
+
+Up to about 20 diskless workstations got everything off of the central file-server. They ran QNX, a flavour of Unix operating system with optional GUI shell. The workstations offered a graphical interface including windows, pick-areas, and a tracker/cursor that responded to the user through manipulation of a trackball located onto the keyboard. Two versions of the GUI interface were available, called Ambience and ICONLook, as well as a file manager called House. 
+
+The Lexicon were 80186-based servers. They contained 1 or 2 8-inch floppy drives and a 70 MB hard disk. Standard programming languages (Basic, Pascal, Fortran, C) came from Watcom. A word processor and a spreadsheet were also available.
+
+However, the LEXICON-ICON systems were very expensive and suffered from a lack of educational software. They were replaced with IBM PC and AT systems and were quickly forgotten.
+
+There were also Icon II and Icon III computers, see the link section for more information.
+_______________________</description>
+        <emulators/>
+        <graphics>Unknown</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/Unisys_Icon_System_s1.jpg</image>
+        <keyboard>Full stroke keyboard with function keys and numeric keypad</keyboard>
+        <language>None</language>
+        <links>
+            <link>http://en.wikipedia.org/wiki/Unisys_ICON</link>
+            <link>http://www.100megspopup.com/redawa/BIC/BIC3.html</link>
+        </links>
+        <manufacturer>Unisys</manufacturer>
+        <media>None in the ICON workstation.5.25'' floppy disk drive + 10 MB hard disk in the file server</media>
+        <name>Icon</name>
+        <numGames></numGames>
+        <origin>Canada</origin>
+        <peripherals>Unknown</peripherals>
+        <ports>Parallel printer connector, video port</ports>
+        <power></power>
+        <price>About C$2.500 (ICON workstation)</price>
+        <production></production>
+        <ram>384 KB - 1 MB in ICON-II second version</ram>
+        <rom>Unknown</rom>
+        <screenshots/>
+        <size>Unknown</size>
+        <sound>Speech synthesis system</sound>
+        <speed>Unknown</speed>
+        <text>Unknown</text>
+        <type>Professional Computer</type>
+        <vram></vram>
+        <year>1983</year>
+    </computer>
+</computers>

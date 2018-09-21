@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;UK ADVERT, OCT. 1983&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/Fortune_3216_Advert_s1.jpg</link>
+            </advert>
+        </adverts>
+        <builtInGames>None</builtInGames>
+        <colors>Monochrome</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Motorola 68000</cpu>
+        <description>
+When the 32:16 was launched, Fortune Systems Corp. advertised that it was the first integrated Unix-based system for $5000. Actually, the cheaper version was a single floppy disc, single user system that was never sold. A practical small business multiuser configuation, called System 10, and including a 10 MB hard disk and 512 KB of RAM costed about $9000.
+ 
+The system could support up to 4 four-port serial terminal controllers and several other peripheral controllers: storage modules, Parallel interfaces, high resolution graphic board and Ethernet network board. The keyboard was a close cousin of the Wang word-processing system one. Keys was well arranged and color coded. The system came with different hard-disk storage options, 5, 10, 20 or even 70 MB on latest models.
+
+The Fortune 32:16 was a true multiuser multitasking Unix based system offering services that was a length ahead over CP/M's. However, both Unix and Fortune was new to most of the dealers and users. Fortune offered them training courses in hardware, operating system and application software. 
+
+A wide range of high quality business application software was available, as well as programming  languages, like a very extended BASIC able to convert code written in other BASICs (AppleSoft, MBASIC, CBASIC, TRS-80 BASIC), PASCAL, FORTRAN 77, COBOL and, of course, C language.
+
+The 32:16 was also built and sold in France by Thomson under the name of Micromega 32
+
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>optional High resolution graphic card</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/Fortune_3216_System_1.jpg</image>
+        <keyboard>Full-stroke 99 keys with numeric keypad and 16 function keys</keyboard>
+        <language>None</language>
+        <links/>
+        <manufacturer>Fortune</manufacturer>
+        <media>One or two 5''1/4 800 KB FDD -  Hard disk from 5 to 70 MB - optional tape unit</media>
+        <name>32:16</name>
+        <numGames></numGames>
+        <origin>United Kingdom</origin>
+        <peripherals>External hard disk, cartridge tape,</peripherals>
+        <ports>External hard-disk unit, Serial RS232 (up to 16), monochrome display</ports>
+        <power>Built-in power supply unit</power>
+        <price>from $5000 to about $15000 according to hardware configuration</price>
+        <production></production>
+        <ram>from 256 KB, to 2 MB (4 x 256 KB  + 1 MB)</ram>
+        <rom>unknown</rom>
+        <screenshots/>
+        <size>Total system weight : 24 Kgs</size>
+        <sound>Beeper</sound>
+        <speed>6 Mhz</speed>
+        <text>80 chars. x 24 lines</text>
+        <type>Professional Computer</type>
+        <vram></vram>
+        <year>1982</year>
+    </computer>
+</computers>

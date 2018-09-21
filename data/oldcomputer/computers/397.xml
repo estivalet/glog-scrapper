@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>N-BASIC, N80-BASIC, N80SR-BASIC</builtInGames>
+        <colors>8</colors>
+        <controllers></controllers>
+        <coprocessor>None</coprocessor>
+        <cpu>PD780C-1  Z80 compatible</cpu>
+        <description>
+The PC-8001 MKII SR was the last one of PC-8001 Series. In 1985, PC-8801 series took the place of the PC-8001 series along with a large amount of available software, so this computer didn't meet a large success. 
+
+This machine displayed not only Katakana but also Hiragana characters, a Kanji-ROM was available as optional extra. 
+_______________________</description>
+        <emulators>
+            <emulator>
+                <description>Japanese emulator</description>
+                <link>http://retropc.net/cisc/m88/</link>
+                <name>M88 emulator</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Japanese emulator</description>
+                <link>http://home.highway.ne.jp/soltin/pc88win.html</link>
+                <name>PC88 Emulator</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Multiplatform emulator</description>
+                <link>http://www.117.ne.jp/~show/pc8801/pc88emu2.html</link>
+                <name>QUASI88</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>640 x 200 dots (8 colours) max.</graphics>
+        <hardwares>
+            <hardware type="PC-80S31">
+                <items>
+                    <item>
+                        <description>Dual 5.25'' floppy discs unit||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;DUAL 5.25'' FLOPPY DISCS UNIT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Dual 5.25&amp;quot; Double-side, double-density 320 KB floppy drive unit. &amp;lt;br&amp;gt; The unit uses the 8255 parallel interface. It can be also used with PC-8001/mkII, PC-8801 Series, PC-9801/E/F/M etc.&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Nec_PC8001MK2SR_FDunit-s1.jpg</photo>
+                    </item>
+                </items>
+            </hardware>
+        </hardwares>
+        <image>http://www.old-computers.com/museum/photos/Nec_PC8001MK2SR_System-s1.jpg</image>
+        <keyboard>83-key typewriter style, with 5 function keys and a numeric keypad</keyboard>
+        <language>N-BASIC, N80-BASIC, N80SR-BASIC</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=178</link>
+            <link>computer.asp?st=1&amp;amp;c=396</link>
+            <link>computer.asp?st=1&amp;amp;c=398</link>
+            <link>computer.asp?st=1&amp;amp;c=399</link>
+            <link>computer.asp?st=1&amp;amp;c=400</link>
+            <link>computer.asp?st=1&amp;amp;c=401</link>
+        </links>
+        <manufacturer>NEC</manufacturer>
+        <media>None</media>
+        <name>PC 8001 MK 2 SR</name>
+        <numGames></numGames>
+        <origin>Japan</origin>
+        <peripherals></peripherals>
+        <ports>Tape recorder, Printer, Serial RS232C, Floppy drives (PC-80S31), Digital RGB, B/W CRT, Audio Line Output</ports>
+        <power>Built-in power supply unit</power>
+        <price>108,000 yen</price>
+        <production></production>
+        <ram>64 KB</ram>
+        <rom>N80SR-BASIC 40 KB, N80-BASIC 32 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;LARGE VIEW&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Nec_PC8001MK2SR_System-s2.jpg</link>
+            </shot>
+        </screenshots>
+        <size>44 (W) x 29.5 (D) x 8.5 (H) / 3 kg</size>
+        <sound>3 FM channels, 3 PSG channels. Same as PC-8801FE (YM2203)</sound>
+        <speed>4 MHz</speed>
+        <text>80 columns x 25 lines (8 colours) max.</text>
+        <type>Home Computer</type>
+        <vram>Graphics 48 KB - Text 3 KB</vram>
+        <year>1985</year>
+    </computer>
+</computers>

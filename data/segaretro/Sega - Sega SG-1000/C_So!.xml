@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<games>
+    <game>
+        <developer>Compile</developer>
+        <genre>Action</genre>
+        <name>C_So!</name>
+        <players>1</players>
+        <publisher>Sega</publisher>
+        <releases>
+            <release>
+                <code></code>
+                <country></country>
+                <date></date>
+                <price></price>
+            </release>
+            <release>
+                <code>C-64</code>
+                <country>JP</country>
+                <date>1985</date>
+                <price>&amp;Acirc;&amp;yen;4,300</price>
+            </release>
+            <release>
+                <code>?</code>
+                <country>TW</country>
+                <date>198x</date>
+                <price>NT$?</price>
+            </release>
+        </releases>
+        <romSize>32kB</romSize>
+        <shots>http://segaretro.org/images/e/e2/C_So_Title.png</shots>
+        <shots>http://segaretro.org/images/d/de/C_So_SG1000_JP_Box_Back.jpg</shots>
+        <shots>http://segaretro.org/images/b/b9/C_So_SG1000_JP_Box.jpg</shots>
+        <shots>http://segaretro.org/images/d/df/CSo_SG1000_JP_Card.jpg</shots>
+        <systems>SG-1000</systems>
+    </game>
+</games>

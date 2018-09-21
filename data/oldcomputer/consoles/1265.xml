@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>None</builtInGames>
+        <colors>Palette: 4096On screen: 146</colors>
+        <controllers></controllers>
+        <coprocessor>Zilog Z80 @ 3.072 MHz</coprocessor>
+        <cpu>Toshiba TLCS900H</cpu>
+        <description>
+Following the surprise withdrawal of the Neo Geo Pocket, SNK immediately launched the Neo Geo Pocket Color (NGPC). 
+
+The NGPC was available in six different colours. Internally the hardware was almost identical to the earlier Neo Geo Pocket, but now featured a colour display. 
+
+Again SNK released ports of their arcade games, but the most notable game must surely be Sonic The Hedgehog - Pocket Adventure, which was the first ever Sonic game to be released on non-Sega hardware. 
+
+The packaging for the games varied in different regions. In Japan and Europe games came in hard plastic cases, similar to those of the Mega Drive, but in the U.S. they were packaged in flimsy cardboard boxes. 
+
+Sales of the system were steady, if unspectacular, and this was the most successful Game Boy competitor since the Game Gear. But anticipation of Nintendo's new Game Boy Advance hampered sales and after SNK was bought by Pachinko manufacturer Aruze in 2000 the NGPC was withdrawn from the U.S. and European markets. The unsold units were recalled by SNK and repackaged for sale in Asia where the NGPC continued to be sold. 
+
+In 2003 the NGPC began to appear in the U.S. again. The system usually comes shrink wrapped with six games which have no boxes or instructions. These bundles have also appeared in the U.K. where they can occasionally be found in certain retro oriented games shops. At the moment it is unknown if these bundles are also available in mainland Europe.
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>Neo Geo Pocket &amp;amp; Pocket Color emulator. Good compatability but no longer updated.</description>
+                <link>http://www.emuxhaven.net/~neopop/</link>
+                <name>NeoPop</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>160x152</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/snk_ngpc_1s.jpg</image>
+        <keyboard>8-way thumbstick, 2 buttons + Option</keyboard>
+        <language>None</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=1264</link>
+        </links>
+        <manufacturer>SNK</manufacturer>
+        <media>Cartridge, 4 MB max + 512 KB to 2 MB flash</media>
+        <name>Neo Geo Pocket Color</name>
+        <numGames></numGames>
+        <origin>Japan</origin>
+        <peripherals>Link cable, Dreamcast link cable</peripherals>
+        <ports>Cartridge slot, 5 pin serial port</ports>
+        <power>2x AA batteries or power adapter</power>
+        <price>$69.95 (U.S.A. 1999)</price>
+        <production>Unknown</production>
+        <ram>12 KB main, 4 KB sound</ram>
+        <rom>64 Kb</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;NEO-GEO POCKET COLOR&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/snk_ngpc_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;COLOR VARIATIONS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/snk_ngpc_color-variations.jpg</link>
+            </shot>
+        </screenshots>
+        <size>Unknown</size>
+        <sound>6 channel PSG, stereo output</sound>
+        <speed>6.144 MHz</speed>
+        <text></text>
+        <type></type>
+        <vram></vram>
+        <year>1999</year>
+    </computer>
+</computers>

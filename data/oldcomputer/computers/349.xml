@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>One 3.5'' disk-drive</builtInGames>
+        <colors>Monochrome</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Zilog Z80 + Intel 8086</cpu>
+        <description>
+Thanks to Michael Hoyle for this information:
+
+The HeadStart had two models. HeadStart VPU and HeadStart ATS.
+
+The VPU was an impressive machine. It was a portable or a desktop machine.
+Notice the picture has a smaller keyboard that snapped on the front bezel
+and a handle on the back. No customers ordered the portable version.
+
+The VPU had a Z-80 and an 8086 and could support up to 1MB RAM. Inside the
+computer consisted of three circuit boards. Two (over the top of the CRT)
+was the processor and the RAM. The 1MB RAM took up a whole board.
+
+The unit had a 3&amp;frac12;&amp;quot; diskette drive that read Intertec's proprietary formats. The
+machine could convert CP/M 2.2 format and MS-DOS 2.1 format data. The
+machine had a coaxial network board (proprietary protocols) that connected
+one of two server machines. A 10/20MB and a 50 MB.
+
+The machine was not popular because of:
+- CP/M was dying, no one thought 3&amp;frac12;&amp;quot; drives would be accepted (I think this
+was the first to install 3&amp;frac12;&amp;quot; drives),
+- IBM compatibility (Lotus 123) was a huge issue.
+
+The IBM compatible ATS was created to answer these objections. The diskette was dropped out and an external 5&amp;frac14; drive was added. The machine was sold with IBM PC-DOS 3.1 OS. It ran Lotus 123 and others and was very fast. It
+maintained the local area network capability. The ATS downfall was
+monochrome video, an external drive and no hard drive.
+
+Intertec stopped production of the HeadStart in 1984 and the company reduced
+itself to 12 employees. Service of the HeadStart continued however. A
+Netherlands company picked up the HeadStart name illegally (I remember a
+wrestler was used as the spokesperson for them). The legal issues were
+resolved out of court.
+
+Intertec was a public company. The name was changed to Wells American
+Corporation around 1985.
+In 1985 Wells American began production of the A*Star. The A*Star was an IBM XT compatible that was exactly like the IBM. It used the 80286 and the speed could be switched: A*Star I 6/8 MHz, A*Star II 6/8/10/12/14/16 MHz. The
+A*Star used PC-DOS 3.x OS and would accept any of the IBM add-ons. Top
+memory was 1MB. The proprietary network was included with the A*Star I and
+was promoted as network ready. Wells American added an ISA bus NIC to allow
+IBM compatibles to access the HeadStart file servers. 
+
+The successful A*Star was sold directly to the enduser and was the first to
+break the $1000 barrier. The A*Star was never updated beyond the 80286 by
+Wells American. A*Star's were sold with a 30 day money back guarantee,
+on-site serviced by RCA/GE Computer services and guaranteed compatibility
+with IBM software and hardware add-ons.
+
+After the A*Star, Wells American designed a dual bus 80286/80386 machine
+called the CompuStar I. This machine was a floor standing tower and was
+designed with the first processor local bus. A separate motherboard held the
+bus interface circuitry. The bus architecture could have been a combination
+of Microchannel or ISA. Only ISA was ordered as microchannel was a flop. The
+CompuStar had a single board processor (proprietary design) that was
+interchangeable. An 80286 machine could be switched to an 80386 in 10 min.
+The case was built from extruded aluminum and was a hefty design. &amp;quot;The Robb
+Report&amp;quot; picked the CompuStar I as the &amp;quot;Ultimate&amp;quot; computer and it received
+the highest rating given to any hardware product by &amp;quot;Infoworld&amp;quot; magazine for
+the year it was reviewed. 386 processor speeds reached 16/20/25MHz.
+
+The CompuStar II in contrast was a very small machine. It had
+interchangeable processor boards but only the ISA bus. It could mount 3 half
+height 5&amp;frac14; drives and a 3&amp;frac12; fixed drive. Each of the CompuStar machines could
+hold up to 16MB RAM. 80386 Processor speeds were 16/20/25/33 MHz.
+
+With the recession of 1988/9 the expensive CompuStar sales slowed and Wells
+American could not keep up financially, declaring bankruptcy.
+The A*Star and CompuStar trademarks were sold to CornerStone Technologies,
+Inc., in SC. The A*Star is still manufactured by CornerStone.
+
+I was the production manager when the A*Star was first produced and then
+became the Product Manager for the A*Star and CompuStar lines. I am the
+President of CornerStone Technologies, Inc. so I have been building the
+A*Star since 1985.
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>Unknown</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/intertec_headstart_1.jpg</image>
+        <keyboard></keyboard>
+        <language></language>
+        <links/>
+        <manufacturer>Intertec</manufacturer>
+        <media>One 3.5'' disk-drive</media>
+        <name>HEADSTART</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals></peripherals>
+        <ports>One RS 449/RS 232 compatible serial port - Centronics - External Data Bus - Coaxial Communication Interface - External disk I/O interface - Optional network print spooling interface</ports>
+        <power>Built-in PSU</power>
+        <price>Unknown</price>
+        <production>1984</production>
+        <ram>128 KB to 1MB depending on model. All models are expandable to 1MB</ram>
+        <rom>Unknown</rom>
+        <screenshots/>
+        <size></size>
+        <sound></sound>
+        <speed>Unknown</speed>
+        <text>80 x 25 - 132 x 25 on a 12</text>
+        <type>Professional Computer</type>
+        <vram></vram>
+        <year>Unknown</year>
+    </computer>
+</computers>

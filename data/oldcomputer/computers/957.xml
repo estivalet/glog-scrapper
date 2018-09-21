@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>None</builtInGames>
+        <colors>4096 (at least in welcome screen)</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Zilog Z80A</cpu>
+        <description>
+At the time when the Amstrad GX 4000 game console and the CPC+ computers were launched, Amstrad had designed this metallic box to be used by dealers as a demonstration model. It was mainly used in the UK by Dixons chain dealers. Of course, very few models were produced.
+
+When opening the front side of the sturdy aluminium case, one finds a metal plate covering the main board, actually a CPC 464+ motherboard, and a daughterboard holding 13 cartridge connectors. The first connector always holds a custom main cartridge which controls the CSD system. Twelve connectors remain free for standard game cartridges. The two boards are connected together through the cartridge and parallel ports of the motherboard.
+
+When the cartridges are inserted and the front cover is closed, a superb Welcome picture appears on the screen with a 4096-colour wave background. It is then possible to select a cartridge and run a game, or let the machine run all the games successively. A timer then allows the user to select how long each game will be played.
+
+Thanks to Charles da Silva and his site for information and pictures.
+
+Charles also adds:
+As Roland Perry told me, Amstrad used not only CPC 464+ motherboards but also GX-4000 PCBs. In fact, they used whatever they could find.
+Another interesting thing is that the CSD was delivered to dealers in a nice wooden stand, like the ones we can find today for the Sony PS2 or Microsoft Xbox.
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>160 x 200 x 16 colours, 320 x 200 x 4 colours, 640 x 200 x 2 colours</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/Amstrad_csd_System_1.jpg</image>
+        <keyboard>No keyboard</keyboard>
+        <language></language>
+        <links/>
+        <manufacturer>Amstrad</manufacturer>
+        <media>None</media>
+        <name>CSD</name>
+        <numGames></numGames>
+        <origin>United Kingdom</origin>
+        <peripherals></peripherals>
+        <ports>None</ports>
+        <power>Built-in power supply unit</power>
+        <price>Amstrad probably gave them to dealers</price>
+        <production></production>
+        <ram>64 Kb</ram>
+        <rom>32 KB + Main ROM cartridge</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INSIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(1)&amp;lt;/font&amp;gt; Game cartridges&amp;lt;br&amp;gt; &amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(2)&amp;lt;/font&amp;gt; Main cartridge&amp;lt;br&amp;gt; &amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(3)&amp;lt;/font&amp;gt; Daughterboard holding the cartridge connectors&amp;lt;br&amp;gt; &amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(4)&amp;lt;/font&amp;gt;  CPC-464+ mainboard&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Amstrad_csd_Opened_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BOOT SCREEN&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The boot screen allows a game cartridge to be selected. If no game is selected, the machine will run all the games successively.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Amstrad_csd_BootScreen_1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>Unknown</size>
+        <sound>3 stereo voices, 8 octaves +1 white noise channel</sound>
+        <speed>4 MHz</speed>
+        <text>Not used</text>
+        <type>Professional Computer</type>
+        <vram></vram>
+        <year>1990</year>
+    </computer>
+</computers>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Power Basic  and simple assembler/disassember.</builtInGames>
+        <colors>16</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>TMS 9995 (16 bit)</cpu>
+        <description>
+The information we have about this computer is sketchy.
+O.S. was a powerful graphical BASIC interpreter modded from the TI basic.
+Forth language was also available but not widely used.
+Cortex had a mode to give 256 K RAM. ROM was copied into RAM at start-up and then swiched off allowing boot code and basic to be altered at start-up.
+Cortex was followed by the Cortex II which was just a re cased version with same style as early apple/dragon 32 beige/yellow plastic sloping cases, but using same main board and disk drives.
+
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>256 x 192</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/powertran_cortex_1.jpg</image>
+        <keyboard>Full-strok keyboard with numeric keypad</keyboard>
+        <language>Power Basic  and simple assembler/disassember.</language>
+        <links>
+            <link>http://www.powertrancortex.com/</link>
+            <link>ftp://whtech.com/Powertran%20Cortex</link>
+        </links>
+        <manufacturer>Powertran Cybernetics</manufacturer>
+        <media>Optional 5.25'' FDD (worked off a TMS9909 FDC. The Basic included a 'Boot' command which would boot the disk.)</media>
+        <name>CORTEX</name>
+        <numGames></numGames>
+        <origin>United Kingdom</origin>
+        <peripherals></peripherals>
+        <ports>Serial RS-232C, Tape recorder port, optional Parallel printer card made by the Cortex User Group, Ebus extension bus that would take cards from the TI990 series minicomputer.</ports>
+        <power></power>
+        <price>&amp;pound;249 + vat  (later &amp;pound;199 + vat) for a kit of self assemby parts. Construction details in 'Electronics today international' magazine</price>
+        <production></production>
+        <ram>64 KB</ram>
+        <rom>24 KB</rom>
+        <screenshots/>
+        <size>Unknown</size>
+        <sound>built in speaker with primitive sound function</sound>
+        <speed>3 MHz (12 MHz crystal)</speed>
+        <text>40 x 25</text>
+        <type>Professional Computer</type>
+        <vram>16 KB</vram>
+        <year>1983</year>
+    </computer>
+</computers>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Forth</builtInGames>
+        <colors>Black &amp;amp; white 9'' display</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Motorola 68000</cpu>
+        <description>
+In 1987 Canon USA Inc. released a new computer named the Canon Cat. This computer was targeted at low-level clerical workers such as secretaries. After six months on the market and with 20,000 units sold, Canon discontinued the Cat. 
+
+The Cat featured an innovative text based user interface that did not rely upon a mouse, icons, or graphics. The key person behind the Cat was Jef Raskin, an eclectic gadgeteer, who began the design of the Cat during his work on the first Macintosh project at Apple Computer in 1979. 
+
+The Cat was a 17 pound desktop computer system containing a built in 9&amp;quot; black-and-white bit-mapped monitor, a single 3.5-inch 256K floppy disk drive, and an IBM Selectric-style keyboard. It came with an extensive collection of applications stored in ROM. These applications supported word processing, spell checking, mail merging, calculator functions, communications, data retrieval, and programming in the FORTH or 68000 assembly languages. Also present in the ROM was a spelling dictionary based on the 90,000 word American Heritage Dictionary. System setup information and a small personal user dictionary were stored in 8K of battery backed up RAM. 
+
+The Cat's user interface made this computer unique. The user interface was based on a simple text editor in which all data was seen as a long stream of text broken into pages. Special keyboard keys allowed the user to invoke various functions. An extra key titled &amp;quot;Use Front&amp;quot; acted as a control key. You pressed Use Front and then a special key to activate a specific feature. For example, the L key was marked Disk, the J key was marked Print, and the N key was marked Explain (Cat's context sensitive help facility). Other commands existed to let you change the system's various parameters (Setup key) and reverse your last action (Undo key).
+
+Contributors: David Patterson (editor), John J. Diamond (editor)
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>Unknown</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/canon_cat_2.jpg</image>
+        <keyboard>Monobloc system. Full-stroke keyboard (compatible with IBM Selectric), 49 keys. Special keys: LEAP (left &amp;amp; right), USE FRONT, DOCUMENT/PAGE, PERM SPACE/TAB, UNDO, ERASE, LOCK, SHIFT (x2)</keyboard>
+        <language>Forth</language>
+        <links>
+            <link>http://www.jagshouse.com/swyft.html</link>
+            <link>http://www.digibarn.com/collections/systems/canon-cat/page_01.htm</link>
+            <link>http://perso.wanadoo.fr/fabrice.montupet/autrever.htm</link>
+            <link>http://jef.raskincenter.org/home/index.html</link>
+            <link>http://en.wikipedia.org/wiki/Canon_Cat</link>
+        </links>
+        <manufacturer>Canon</manufacturer>
+        <media>3.5'' floppy disk drive (256 KB)</media>
+        <name>CAT</name>
+        <numGames></numGames>
+        <origin>Japan</origin>
+        <peripherals></peripherals>
+        <ports>Centronics parallel port, RS-232C serial port (DB-25 connector), 2 x RJ-11 jacks (for telephone connections)</ports>
+        <power>PSU built-in, 120v</power>
+        <price>$1495 (USA, 1987)</price>
+        <production>Six months later</production>
+        <ram>256 KB</ram>
+        <rom>256 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;CANON CAT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/canon_cat_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;CANON CAT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;...running word processor program&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/canon_cat_running_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/canon_cat_side.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;REAR&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/canon_cat_rear.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;KEYBOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/canon_cat_keyboard.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;PRESSE RELEASE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Picture of the Canon Cat press release in USA.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Canon_Cat_PressRelease_1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>27.18 X 33.78 X 45.21 cm  (10.7 X 13.3 X 17.8 inches) / 7.71 kg (17 lbs.)</size>
+        <sound>Unknown</sound>
+        <speed>5 MHz</speed>
+        <text>Unknown</text>
+        <type>Professional Computer</type>
+        <vram></vram>
+        <year>1987</year>
+    </computer>
+</computers>

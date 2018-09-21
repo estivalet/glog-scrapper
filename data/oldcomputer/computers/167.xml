@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>2 Microsoft BASIC interpreters - MO5 compatible and BASIC 128</builtInGames>
+        <colors>from 2 to 16 among 4096</colors>
+        <controllers></controllers>
+        <coprocessor>Custom Thomson gate array chip</coprocessor>
+        <cpu>Motorola MC 6809e</cpu>
+        <description>
+The Thomson MO 6 was the successor of the Thomson MO 5. This machine was widely used in French schools. It was compatible with the MO 5 and the other members of its family (TO 7, TO 8, TO 9 and TO 9 plus).
+
+It has two versions of BASIC on ROM, one to be compatible with MO5 and BASIC 128 (both made by Microsoft). Almost all memory (101 KB) was accessible with BASIC thanks to a transparent 16 KB bank switching mechanism. An optional 3.5&amp;quot; floppy disk drive (640 KB) was available.
+
+It had a short life because soon after it was launched, the TO 8 came and challenged to it.
+
+The MO5 was also sold in Italy by Olivetti under the name  Prodest PC-128
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>Thomson MO5 emulator for PC</description>
+                <link>http://dcmo5.free.fr/</link>
+                <name>DCMO5</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Easy to use emulator, to run MO5 games without knowing MO5 commands</description>
+                <link>HTTP://DCMO5.FREE.FR</link>
+                <name>DCMO5 Gamer Edition</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Thomson MO5NR, Thomson MO6 and Olivetti Prodest PC128 emulator for PC</description>
+                <link>http://dcmo6.free.fr/</link>
+                <name>DCMO6</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Universal 8-bit Thomson emulator for Windows. Emulates Thomson MO5, MO5E, MO5NR, MO6, T9000, TO7/70, TO8, TO8D, TO9, TO9+ and Olivetti Prodest PC128  !</description>
+                <link>http://dcmoto.free.fr/</link>
+                <name>DCMOTO</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Thomson T9000, TO7/70, TO8, TO8D emulator for Windows</description>
+                <link>http://dcto7.free.fr/</link>
+                <name>DCTO7 and DCTO8</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>No, you are not dreaming. This is a TO-7/70 emulator for the Dreamcast game system !</description>
+                <link>http://www.jplang.fr.st/</link>
+                <name>TODC</name>
+                <platform>Other platform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>8 modes, from 160 x 200 to 640 x 200 dots</graphics>
+        <hardwares>
+            <hardware type="DISK DRIVES">
+                <items>
+                    <item>
+                        <description>5.25'' disk drive|||320 KB model|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;5.25'' DISK DRIVE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;320 KB model&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This 5.25'' disk-drive offers a 320 KB capacity (40 tracks &amp;gt; 16 sectors &amp;gt; 256 bytes) and a built-in controller.&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/thomson_to7_diskdrive_2.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Disk Controller|||CD 90-351|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;DISK CONTROLLER&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;CD 90-351&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This interface was used to connect a disk drive or a Quick Disc Drive (QDD) to a TO-7, TO-7/70, MO5 or MO6.&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/thomson_to7_disk-interface.jpg</photo>
+                    </item>
+                </items>
+            </hardware>
+            <hardware type="JOYSTICK EXPANSIONS">
+                <items>
+                    <item>
+                        <description>Joystick module||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;JOYSTICK MODULE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Dual Atari compatible joysticks module&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Thomson_To9_JoyModule_1.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Music &amp;amp; Game Module|||CM 90-112|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MUSIC &amp;amp; GAME MODULE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;CM 90-112&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This module offers two joystick connectors (Videopac joysticks can be used) and adds three channels to the TO-7  or MO-5 (resulting in a total of 4 voices). Sadly, these new sound features were scarcely used in games...&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/thomson_to7_joy-interface.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Music &amp;amp; Game Module #2||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MUSIC &amp;amp; GAME MODULE #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Thomson_MO5_MusicEtJeu_s1.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Ordi 94|||Joystick Interface|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;ORDI 94&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;Joystick Interface&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This interface enables Atari joysticks to be used with TO-7, TO-7/70 and MO5. It was sold by Ordivisuel under the name Ordi 94.&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/thomson_to7_joy-atari.jpg</photo>
+                    </item>
+                </items>
+            </hardware>
+            <hardware type="PRINTERS">
+                <items>
+                    <item>
+                        <description>Printer PR-90 080||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;PRINTER PR-90 080&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;80 columns dot-matrix printer which was a rebadged version of the Seikosha GP-80&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Thomson_TO7_Imp_PR90-080.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Printer PR-90 600||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;PRINTER PR-90 600&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;80-column 9-pin dot matrix printer. A rebadged version of the Seikosha SP-1000 with graphics capabilities&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Thomson_To9_ImpPR90_600_1.jpg</photo>
+                    </item>
+                </items>
+            </hardware>
+        </hardwares>
+        <image>http://www.old-computers.com/museum/photos/mo6.jpg</image>
+        <keyboard>Full stroke 69 key with 5 function keys and arrow keys</keyboard>
+        <language>2 Microsoft BASIC interpreters - MO5 compatible and BASIC 128</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=12</link>
+            <link>computer.asp?st=1&amp;amp;c=838</link>
+            <link>computer.asp?st=1&amp;amp;c=868</link>
+            <link>computer.asp?st=1&amp;amp;c=853</link>
+            <link>computer.asp?st=1&amp;amp;c=11</link>
+            <link>computer.asp?st=1&amp;amp;c=643</link>
+            <link>computer.asp?st=1&amp;amp;c=238</link>
+            <link>computer.asp?st=1&amp;amp;c=239</link>
+            <link>computer.asp?st=1&amp;amp;c=240</link>
+            <link>http://membres.lycos.fr/amito8/data/Accueil.html</link>
+            <link>http://lair.thomsonistes.org/</link>
+            <link>http://gfournier.free.fr/</link>
+            <link>http://dcmoto.free.fr/</link>
+            <link>http://forumthomson2001.free.fr/forum01.htm</link>
+            <link>http://www.multimania.com/tonews/</link>
+            <link>http://nostalgies.thomsonistes.org/</link>
+            <link>http://wiki.forler.ch</link>
+            <link>http://www.logicielsmoto.com/home.php</link>
+        </links>
+        <manufacturer>Thomson</manufacturer>
+        <media>Tape recorder</media>
+        <name>MO 6</name>
+        <numGames></numGames>
+        <origin>France</origin>
+        <peripherals>3.5'' floppy disc drive</peripherals>
+        <ports>Light Pen, Joystick, Mouse, Centronics, Cartridge, External Audio, Bus, RGB</ports>
+        <power>Built-in power supply unit</power>
+        <price>Unknown</price>
+        <production>Unknown</production>
+        <ram>128 KB</ram>
+        <rom>64 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MAINBOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;font color = &amp;quot;red&amp;quot;&amp;gt;(1)&amp;lt;/font&amp;gt; Two ROM chips holding two versions of Microsoft BASIC&amp;lt;br&amp;gt; &amp;lt;font color = &amp;quot;red&amp;quot;&amp;gt;(2)&amp;lt;/font&amp;gt; ROM cartridges connector&amp;lt;br&amp;gt; &amp;lt;font color = &amp;quot;red&amp;quot;&amp;gt;(3)&amp;lt;/font&amp;gt; TV aerial modulator&amp;lt;br&amp;gt; &amp;lt;font color = &amp;quot;red&amp;quot;&amp;gt;(4)&amp;lt;/font&amp;gt; I/O are managed by Two 6821P PIA chips &amp;lt;br&amp;gt; &amp;lt;font color = &amp;quot;red&amp;quot;&amp;gt;(5)&amp;lt;/font&amp;gt; EF-9369P graphics video chip&amp;lt;br&amp;gt; &amp;lt;font color = &amp;quot;red&amp;quot;&amp;gt;(6)&amp;lt;/font&amp;gt; Keyboard connectors&amp;lt;br&amp;gt; &amp;lt;font color = &amp;quot;red&amp;quot;&amp;gt;(7)&amp;lt;/font&amp;gt; Four 41464 (64 cells x 4 bits) chips hold 128 Kb of RAM&amp;lt;br&amp;gt; &amp;lt;font color = &amp;quot;red&amp;quot;&amp;gt;(8)&amp;lt;/font&amp;gt; Custom gate array chip made by Texas Instruments&amp;lt;br&amp;gt; &amp;lt;font color = &amp;quot;red&amp;quot;&amp;gt;(9)&amp;lt;/font&amp;gt; Motorola 6809EP processor&amp;lt;br&amp;gt; &amp;lt;font color = &amp;quot;red&amp;quot;&amp;gt;(10)&amp;lt;/font&amp;gt; Power supply unit&amp;lt;br&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Olivetti_PCS128_Mainboard_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/thomson_mo6_box_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BOX - REAR&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/thomson_mo6_box_2.jpg</link>
+            </shot>
+        </screenshots>
+        <size>36 (W) x 31(D) x 8.5 (H) cm</size>
+        <sound>3 channels, 7 octaves</sound>
+        <speed>1 MHz</speed>
+        <text>40 or 80 chars x 25 lines</text>
+        <type>Home Computer</type>
+        <vram>Unknown</vram>
+        <year>Unknown 1986</year>
+    </computer>
+</computers>

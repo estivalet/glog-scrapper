@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <batteries></batteries>
+        <builtInGames>Squash, Pelote Basque (squash 2 playes), Football, Tennis</builtInGames>
+        <buttons></buttons>
+        <colors>Black &amp;amp; white</colors>
+        <controllers></controllers>
+        <coprocessor>Power on/off, Bat size big/small, Ball speed hi/low, Ball angle 20&amp;deg;/40&amp;deg;</coprocessor>
+        <cpu>TMS-1965-NC from Texas-Instruments</cpu>
+        <description>
+A cool french pong. At the end of the 70s, SEB, a well known french kitchen ustensils manufacturer, decided to sell its own pong system, just like the other companies. The design is very original with this particular black round shaped case and the flashy orange sliders and switches!
+
+The chipset is not the classic AY-3-8500 from General Instrument but the TMS-1965 from Texas-Instrument. It offers the same 4 basic games.
+
+A few other models followed this one, offering separated controllers and lightgun (model 751), and later even colour display (model 752).
+ 
+
+
+</description>
+        <emulators/>
+        <graphics></graphics>
+        <gun></gun>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/seb_telescore_750_1.jpg</image>
+        <keyboard>Two built-in sliders</keyboard>
+        <language>Squash, Pelote Basque (squash 2 playes), Football, Tennis</language>
+        <links/>
+        <manufacturer>SEB Loisirs</manufacturer>
+        <media></media>
+        <name>Telescore (Model 750)</name>
+        <numGames></numGames>
+        <origin>France</origin>
+        <peripherals>No</peripherals>
+        <ports>RF TV video output (UHF Channel 36/38)</ports>
+        <power></power>
+        <price>Unknown</price>
+        <production></production>
+        <ram>On screen + two sliders on case (from 0 to 10)</ram>
+        <rom></rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;CIRCUIT BOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/seb_telescore_750_mobo.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/seb_telescore_750_box.jpg</link>
+            </shot>
+        </screenshots>
+        <size></size>
+        <sound>Built-in speaker</sound>
+        <speed>Reset</speed>
+        <switches></switches>
+        <text></text>
+        <type></type>
+        <vram></vram>
+        <year>1977</year>
+    </computer>
+</computers>

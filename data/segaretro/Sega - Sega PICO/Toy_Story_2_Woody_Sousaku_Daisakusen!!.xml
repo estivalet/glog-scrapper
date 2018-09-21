@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<games>
+    <game>
+        <developer>Sega</developer>
+        <genre>Action</genre>
+        <name>Toy Story 2 Woody Sousaku Daisakusen!!</name>
+        <players>1</players>
+        <publisher>Sega Toys</publisher>
+        <releases>
+            <release>
+                <code></code>
+                <country></country>
+                <date></date>
+                <price></price>
+            </release>
+            <release>
+                <code>HPC-6090</code>
+                <country>JP</country>
+                <date>2000-08</date>
+                <price>&amp;Acirc;&amp;yen;3,980</price>
+            </release>
+            <release>
+                <code>HPC-6127</code>
+                <country>JP (10th Anniversary)</country>
+                <date>2003-07-14</date>
+                <price>&amp;Acirc;&amp;yen;2,980</price>
+            </release>
+            <release>
+                <code></code>
+                <country>KR</country>
+                <date>200x</date>
+                <price>&amp;acirc;&amp;copy;</price>
+            </release>
+        </releases>
+        <romSize>2MB</romSize>
+        <shots>http://segaretro.org/images/6/61/TS2WSD_title.png</shots>
+        <shots>http://segaretro.org/images/e/e8/TS2WSD_Pico_JP_Box.jpg</shots>
+        <shots>http://segaretro.org/images/4/40/TS2WSD_pico_jp_manual.pdf</shots>
+        <shots>http://segaretro.org/images/6/6b/TS2WSD_Pico_JP_Box_10th.jpg</shots>
+        <shots>http://segaretro.org/images/a/a0/TS2WSD_Pico_KR_Box.jpg</shots>
+        <systems>Sega Pico</systems>
+    </game>
+</games>

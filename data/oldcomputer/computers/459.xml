@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Basic</builtInGames>
+        <colors>8</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Z80A</cpu>
+        <description>
+Little is known about this Slovak clone of the ZX Spectrum.
+
+One of its particularity is that it has a separated reset button and two joystick ports (1 Kempston + 1 Sinclair). But both joystick ports have non-standard connectors.
+
+The ULA (video chip) is different from the one used in the original Spectrum. It's a russian circuitry, and it results in the screen being square instead of rectangle. Because of these russian ICs, the Diaktik M was actually much more compatible with Russian Spectrum clones (like the Pentagons) than with original ZX Spectrum.
+
+The Didaktik M seems to be sold as a 64 KB RAM computer but only 48 KB is available. 
+
+Two models of the Didaktik M were produced (90 &amp;amp; 91). The Didaktik Kompakt is in fact the same computer with a built-in floppy drive on the right side of the unit.
+
+A 3 channel sound interface with ACB stereo called &amp;quot;Melodik&amp;quot; was also available, as well as a 3.5&amp;quot; external floppy drive called D80.
+
+Didaktik M and Kompakt are still sold online here!
+
+Richard reports to us:
+There was external 5.25&amp;quot; floppy drive produced called Didaktik D40. I think it was able to take memory snapshots with a snapshot key located on the connector to the floppy. Later there was Didaktik M Kompakt produced which had 3.5&amp;quot; floppy integrated on the right side of the unit. I used this computer to play games, was fun.
+
+Predseda (Czech Rep.) adds:
+It has one of the most uncomfortable keyboards ever. Keys are unnacuratelly attached to the computer&amp;acute;s body and it makes their pressing really painful. Quick typing on its keyboard is really impossible, you must press each key separatelly and with special care.
+
+and Petr adds:
+It has 4MHz CPU, different from original Spectrum and must be braked - some instructions has another size of tact. RAM is 64 KB but only 48 KB is used. There is no difference between slow and fast memory. This computer is much more compatible with Russian Spectrum clones than with original ZX Spectrum.
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>256 x 192</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/Didaktik_M_System_1.jpg</image>
+        <keyboard>QWERTY mechanical keyboardwith separated arrow keysand many functions per key just like the spectrum</keyboard>
+        <language>Basic</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=463</link>
+            <link>computer.asp?st=1&amp;amp;c=964</link>
+            <link>computer.asp?st=1&amp;amp;c=953</link>
+            <link>computer.asp?st=1&amp;amp;c=776</link>
+            <link>computer.asp?st=1&amp;amp;c=945</link>
+            <link>computer.asp?st=1&amp;amp;c=916</link>
+            <link>http://www.tk90x.com.br</link>
+            <link>http://www.kompaktservis.cz</link>
+            <link>http://www.homecomputer.de/pages/f_sinclair.html</link>
+            <link>http://www.algonet.se/~rsm/zx/zxclones.html</link>
+            <link>http://tarjan.uw.hu/zxclones_en.htm</link>
+        </links>
+        <manufacturer>Didaktik</manufacturer>
+        <media></media>
+        <name>M</name>
+        <numGames></numGames>
+        <origin>Czechoslovakia</origin>
+        <peripherals></peripherals>
+        <ports>Expansion busSinclair Joystick portKempston joystick portVideo output</ports>
+        <power>Unknown</power>
+        <price>Approx. 100 </price>
+        <production></production>
+        <ram>64 KB (48 KB used), up to 128 KB</ram>
+        <rom>Didaktik M ROM 91</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;DIDAKTIK M&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Ditaktik M48 with its power supply unit &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;Jan Hlavaty's&amp;lt;/b&amp;gt; experience:&amp;lt;br&amp;gt; It was my first micro-computer. I bought it for 4000 CZK in 1996. It had an external power suply with same design as the main computer.&amp;lt;br&amp;gt; Games and aplications were recorded on magnetic tapes. We could use any tape recorder and connect it to the right connector. I also had the Tesla SP-201T cassete tape-memory unit along with a dot-matrix printer which required carbon-paper for printing! Then I bought a regular Elta cassete player and then a floppy disk drive unit (3500,- CZK!).&amp;lt;br&amp;gt; I played many ZX-spectrum compatible games. Many games were made in Czech Republic, the cost for one cassette game was about 350,- CZK.&amp;lt;br&amp;gt; Restart of the system was done by pressing CAPS SHIFT + RESET buttons. Each key featured 3 to 4 specific commands which was switched with the SYMBOL SHIFT or CAPS SHIFT buttons.  &amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Didaktik_M_WithPSU_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;THE BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/didaktik_box.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;USER'S MANUAL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/didaktik_doc.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;KEYBOARD CLOSE-UP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Didaktik_M_Keyboard_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;OPENED&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/didaktik_opened_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MOTHERBOARD EXPLAINED&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;(1)&amp;lt;/b&amp;gt; TV aerial RF modulator&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(2)&amp;lt;/b&amp;gt; TV aerial output plug&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(3)&amp;lt;/b&amp;gt; Composite monochrome monitor output plug&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(4)&amp;lt;/b&amp;gt; External power supply unit DIN plug&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(5)&amp;lt;/b&amp;gt; Tape recorder DIN plug&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(6)&amp;lt;/b&amp;gt; Z80A microprocessor labelled Zilog&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(7)&amp;lt;/b&amp;gt; Spectrum compatible I/O connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(8)&amp;lt;/b&amp;gt; 16 KB ROM chip holding Spectrum O.S. and BASIC interpreter&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(9)&amp;lt;/b&amp;gt; Russian version of the Spectrum ULA (specialised chipset)&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(10)&amp;lt;/b&amp;gt; Joystick connectors. Sinclair (right) or Kempston (left) compatible&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(11)&amp;lt;/b&amp;gt; 64 KB russian chips RAM bank&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Didaktik_M_Inside_3.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;REAR CONNECTORS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;(1)&amp;lt;/b&amp;gt; Sinclair joystick type connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(2)&amp;lt;/b&amp;gt; Kempston joystick type connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(3)&amp;lt;/b&amp;gt; Spectrum compatible system bus connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(4)&amp;lt;/b&amp;gt; Tape recorder DIN plug&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(5)&amp;lt;/b&amp;gt; Power supply DIN plug&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(6)&amp;lt;/b&amp;gt; Monochrome composite video output plug&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(7)&amp;lt;/b&amp;gt; TV aerial output plug&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Didaktik_M_Back_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INSIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The CPU and the ROM&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/didaktik_inside_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INSIDE #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/didaktik_inside_2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;RUSSIAN ULA CHIPSET&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The russian version of the Sinclair Spectrum dedicated chipset. The original version was made by Ferranti in Italy. &amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Didaktik_M_ULA_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;RUSSIAN RAM CHIPS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;64 KB russian RAM chips&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Didaktik_M_RamChips_1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>Unknown</size>
+        <sound>Beeper, 1 voice, 5 octaves</sound>
+        <speed>4 MHz</speed>
+        <text>32 x 22</text>
+        <type>Home Computer</type>
+        <vram>16 KB</vram>
+        <year>1990</year>
+    </computer>
+</computers>

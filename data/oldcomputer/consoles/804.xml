@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Unknown</builtInGames>
+        <colors>Yes</colors>
+        <controllers></controllers>
+        <coprocessor>Motorola MC 6847 video controller</coprocessor>
+        <cpu>None ? (MC6801 microcontroller in each cartridge)</cpu>
+        <description>
+This is an extremely rare and obscure japanese system released by Gakken in 1983. Very little is known about this weird console...
+
+The most striking feature is the T-shaped controller! The unique fire button is placed on the left of the controller so that it can be pressed by the thumb (if you are right handed). Thus you can play this system with only one hand. In fact, you left hand will naturally want to grip the kind of handle placed at the left of the system... There is the START button there, that you can easily press with your other thumb.
+
+On the system itself, one can find a PAUSE button, a red power LED and power on/off switch.
+
+While &amp;quot;Compact Vision&amp;quot; is written on the box, cartridges, etc., the translation of the japanese name (also found on the box, cartridges, etc.) would be something like &amp;quot;TV Boy&amp;quot;...
+
+Games were sold on cartridge. The number of released ones is not known by us, but looking at the box of the system, it seems that at least 6 games were available.
+
+Though we have little information about this system, we know that its video processor is a Motorola MC 6847. Indeed, looking at the screenshots, the colors, resolution and overall feeling, it sounds familiar to systems like Laser 200, Tandy MC-10 or Dragon 32...
+
+From the MESS emulator team:
+&amp;quot;The Gakken has nothing in it except a 6847, one 2k ram and some logic. The cart contains only 1 chip, a MC6801 microcontroller. It's the main CPU + ROM + RAM. We have no idea how to dump it or even if it's possible. It has 4k maskROM, but at $300 per chip decapping isn't feasible.&amp;quot;
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>Unknown</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/gakken_compact-vision_1.jpg</image>
+        <keyboard>T-shaped controller with one fire button</keyboard>
+        <language>Unknown</language>
+        <links>
+            <link>http://www.game-nostalgia.net/tvboy/tvboy.html</link>
+        </links>
+        <manufacturer>Gakken</manufacturer>
+        <media>Cartridges</media>
+        <name>Compact Vision TV-Boy</name>
+        <numGames></numGames>
+        <origin>Japan</origin>
+        <peripherals></peripherals>
+        <ports>TV video output, ...</ports>
+        <power>Unknown</power>
+        <price>8,800 yen (Japan, 1983)</price>
+        <production></production>
+        <ram>2 KB</ram>
+        <rom>Unknown</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;DOCUMENTATION&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/gakken_compact-vision_doc.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/gakken_tvboy_box_5.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/gakken_compact-vision_box_front.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BOX FRONT #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/gakken_tv-boy_box-front_2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BOX (SIDE 1)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/gakken_compact-vision_box_bottom.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BOX (SIDE 2)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/gakken_compact-vision_box_side.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INSIDE THE BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/gakken_tvboy_in-box.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INSIDE THE BOX #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/gakken_tv-boy_inside-box_2.jpg</link>
+            </shot>
+        </screenshots>
+        <size></size>
+        <sound>Yes</sound>
+        <speed></speed>
+        <text></text>
+        <type></type>
+        <vram>Unknown</vram>
+        <year>october 1983</year>
+    </computer>
+</computers>

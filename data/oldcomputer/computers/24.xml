@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>3.5'' disk-drive</builtInGames>
+        <colors>4096</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Motorola MC 68000</cpu>
+        <description>
+The Atari STe is the successor of the Atari STf (The 'e' stands for 'enhanced') and is almost fully compatible with the STf.
+
+In september 1986, Atari decided to make a successor to the STf. They planned to equip it with enhanced video features : Atari said then that the STe will have a 640 x 400 with 16 colors among 4096 and a 320 x 200 with 256 colors among 4096 graphic modes. Unfortunately, eventually, the STe will have none of these graphic modes.
+
+The new features are :
+- a new version of the OS (&amp;quot;Rainbow&amp;quot; TOS 1.6 and later, 1.62),
+- a Blitter chip to quick perform memory moves (it is the the Mega STf one),
+- the video chip (Shifter) has been enhanced: the STe can perform, as the Amiga, hardware scrolling in all directions and it is possible to write into the video counters. It also handle 4096 colors instead of 512, unfortunately, it can only display a maximum of 16 of them (without trick).
+- 'phase lock' of the video output to an external video source permitting direct linking to genlocking device.
+- It has enhanced sound features too: two 8 bit PCM (Pulse Coded Modulation) channels which can replay stereo sound at 6.25, 12.5, 25, or 50 KHz and which can be mixed with the 3 FM channels.
+
+Despite its new and interesting features, the Atari STe was a flop in the marketplace. The STf market was too important and the software editors (especially game editors) didn't sell STe versions of their products.
+
+Not long after this, Atari launched the Mega STe to replace the Mega STf.
+
+There was an interesting variation on the STe in the R&amp;amp;D labs of Atari, called the STe+, which had an AMD 286 chip and a small IDE hard drive built in.  Quite why this was abandoned nobody really knows, but a number of working prototypes were found in Atari's Mexico office when Atari finally blinked out of existence and have appeared on ebay from time to time.
+
+_______________________
+
+Contributors: Malcolm Ramage.
+</description>
+        <emulators>
+            <emulator>
+                <description>Pretty good emulator</description>
+                <link>http://www.pacifist.fatal-design.com/</link>
+                <name>Pacifist !</name>
+                <platform>MS DOS emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Demo of Gemulator, a commercial product from BraSoft.</description>
+                <link>http://www.emulators.com/</link>
+                <name>Emulators Online</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <link>http://www.emulators.com/gemul8r.htm</link>
+                <name>Gemulator</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <link>http://www.application-systems.de/magicpc/index.html</link>
+                <name>MagiCPC</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>The best Atari ST emulator</description>
+                <link>http://www.pacifist.fatal-design.com/</link>
+                <name>Pacifist</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>The best Atari ST Emulator !</description>
+                <link>http://saint.atari.org</link>
+                <name>SainT</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Excellent emulator for 1040/520 STE !</description>
+                <link>http://steem.atari.st/</link>
+                <name>Steem</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>The Atari ST Emulator for Linux/X windows</description>
+                <link>http://www.complang.tuwien.ac.at/nino/stemu.html</link>
+                <name>STonX Homepage</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Demo of Magic, a commercial emulator for PC/Windows and Macintosh.</description>
+                <link>http://www.ataricentral.com/</link>
+                <name>Toad Computers' Atari Central</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>A good Atari GEM Emulator !</description>
+                <link>http://www.aixit.com/tos2win/</link>
+                <name>Tos2Win</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <link>http://www.geocities.com/SiliconValley/Vista/4448/</link>
+                <name>TOSBOX Atari emulation homepage</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>An emulator for Win95 / Win NT</description>
+                <link>http://www.winston.fatal-design.com/</link>
+                <name>WinSTon</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <link>http://www.application-systems.de/magicmac/index.html</link>
+                <name>MagiCMac</name>
+                <platform>Apple emulator</platform>
+            </emulator>
+            <emulator>
+                <link>http://users.skynet.be/sky39147/</link>
+                <name>NoSTalgia &amp;amp; PowerST</name>
+                <platform>Apple emulator</platform>
+            </emulator>
+            <emulator>
+                <link>http://users.skynet.be/sky39147/</link>
+                <name>NoSTalgia The AtariST Emulator for the Macintosh</name>
+                <platform>Apple emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Demo of Magic, a commercial emulator for PC/Windows and Macintosh.</description>
+                <link>http://www.ataricentral.com/</link>
+                <name>Toad Computers' Atari Central</name>
+                <platform>Apple emulator</platform>
+            </emulator>
+            <emulator>
+                <link>http://www.complang.tuwien.ac.at/nino/stonx.html</link>
+                <name>STonX Homepage</name>
+                <platform>Unix / Linux emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Written in Java !</description>
+                <link>http://www.atari-st.lovely.net/</link>
+                <name>Atari ST Emulator </name>
+                <platform>Other platform emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Multiplatform project</description>
+                <link>HTTP://ARANYM.ATARI.ORG</link>
+                <name>ARAnyM</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Hatari is an Atari ST emulator for Linux, BSD, BeOS, Mac OS X and other systems that are supported by the SDL library. More precisely, Hatari is an adaption of the WinSTon source code to the SDL library.</description>
+                <link>http://hatari.sourceforge.net/</link>
+                <name>Hatari</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>320 x 200 (16 colors) / 640 x 200 (4 colors) / 640 x 400 (monochrome)</graphics>
+        <hardwares>
+            <hardware type="&amp;gt; DISK-DRIVES">
+                <items>
+                    <item>
+                        <description>SF-354|||Single density disk-drive |||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SF-354&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;Single density disk-drive &amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/atari_st_sf354-diskdrive_1.jpg</photo>
+                    </item>
+                    <item>
+                        <description>SF-314|||Disk-drive|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SF-314&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;Disk-drive&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/atari_st-disk-drive_sf314.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Cumana Drive||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;CUMANA DRIVE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Atari_520_CumanaDrive_1.jpg</photo>
+                    </item>
+                </items>
+            </hardware>
+            <hardware type="&amp;gt; HARD-DRIVES">
+                <items>
+                    <item>
+                        <description>Supradrive|||20 Mb hard-disk|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SUPRADRIVE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;20 Mb hard-disk&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/atari_supradrive_20mb.jpg</photo>
+                    </item>
+                    <item>
+                        <description>170Mb Quantum hard-drive||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;170MB QUANTUM HARD-DRIVE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This unit has an ICD Host Adapter.&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/atari_st_quamtum_hd170.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Atari Megafile 30||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;ATARI MEGAFILE 30&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This hard-drive has a 30Mb capacity.&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/atari_st_megafile30_1.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Inside the Megafile 30||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INSIDE THE MEGAFILE 30&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;(1)&amp;lt;/b&amp;gt; Seagate MFM 30 MB hard-disk Type ST-238&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(2)&amp;lt;/b&amp;gt; Power supply&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(3)&amp;lt;/b&amp;gt; Logical board&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(4)&amp;lt;/b&amp;gt; Power and disk access LED's&amp;lt;br&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Atari_MegaST_InsideMegaFile_1.jpg</photo>
+                    </item>
+                </items>
+            </hardware>
+            <hardware type="&amp;gt; MISC">
+                <items>
+                    <item>
+                        <description>Atari universal modem||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;ATARI UNIVERSAL MODEM&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The SX212 modem was one of the rare Atari peripherals that could be used with all the Atari computers range, from the 400/800 series up to the Falcon. It had both the Atari I/O ports for the 8-bit systems and a standard RS-232 connector for ST's&amp;lt;br&amp;gt;&amp;lt;br&amp;gt; It was a 300/1200 baud modem compatible with the well-known Hayes 'AT' commands.&amp;lt;br&amp;gt; Cable and software was sold separately, depending of the computer used. &amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Atari_520_ModemSX212_1.jpg</photo>
+                    </item>
+                    <item>
+                        <description>SML-804|||Laser printer|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SML-804&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;Laser printer&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The SLM-804 was actually a Kyocera F1000 printer but without neither on-board processor and memory nor buttons other than the on/off switch. It was first delivered with the Mega ST but could be connected on all of the ST series computers through a dedicated interface box.&amp;lt;br&amp;gt; The printer used the processing power and the RAM memory of the ST computer for printing at 8 pages per minute and 300 DPI. The paper tray held 250 sheets.&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Atari_MegaST_SLM804printer_s1.jpg</photo>
+                    </item>
+                    <item>
+                        <description>SMLC-804|||Laser printer interface|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SMLC-804&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;Laser printer interface&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This interface allowed the SML-804 printer to be connected to any Atari ST holding at least 1 MB RAM.&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Atari_MegaST_SLMCinterface_s1.jpg</photo>
+                    </item>
+                </items>
+            </hardware>
+        </hardwares>
+        <image>http://www.old-computers.com/museum/photos/atari_1040_ste_with_box.jpg</image>
+        <keyboard>Full-stroke keyboard with editing and numeric keypads</keyboard>
+        <language></language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=922</link>
+            <link>computer.asp?st=1&amp;amp;c=272</link>
+            <link>computer.asp?st=1&amp;amp;c=25</link>
+            <link>computer.asp?st=1&amp;amp;c=20</link>
+            <link>computer.asp?st=1&amp;amp;c=125</link>
+            <link>computer.asp?st=1&amp;amp;c=270</link>
+            <link>computer.asp?st=1&amp;amp;c=635</link>
+            <link>computer.asp?st=1&amp;amp;c=165</link>
+            <link>computer.asp?st=1&amp;amp;c=164</link>
+            <link>computer.asp?st=1&amp;amp;c=283</link>
+            <link>computer.asp?st=1&amp;amp;c=225</link>
+            <link>computer.asp?st=1&amp;amp;c=269</link>
+            <link>computer.asp?st=1&amp;amp;c=245</link>
+            <link>http://members.aol.com/ashinfo/index.html</link>
+            <link>http://www.best.com/~hmk/</link>
+            <link>http://rzserv2.fh-lueneburg.de:8080/Demo_Scene</link>
+            <link>http://www.fortunecity.com/skyscraper/cache/369/index.html</link>
+            <link>http://www.qnx.com/~chrish/Atari/index.html</link>
+            <link>http://www.atarimusic.net/</link>
+            <link>http://wwwbrauer.in.tum.de/~brandtf/ataridemos.html</link>
+            <link>http://www.chebucto.ns.ca/Services/PDA/atari.shtml</link>
+            <link>http://www.atari.nu/</link>
+            <link>http://www.atari.org/</link>
+            <link>http://web.cnam.fr/Comp/Atari/</link>
+            <link>http://www.ast.univie.ac.at/~wasi/PI/stuart_lyster/stlib.htm</link>
+            <link>http://hem1.passagen.se/carebear/</link>
+            <link>http://www.centek.fr</link>
+            <link>http://www.dhs.nu/</link>
+            <link>http://www.users.zetnet.co.uk/aseabrook/a_index.htm</link>
+            <link>http://www.emulators.com/</link>
+            <link>http://www.dtek.chalmers.se/~d2cg/gem/</link>
+            <link>http://www.atari.st/</link>
+            <link>http://www.kingx.com/kingx/medusa/thes.html</link>
+            <link>http://www.earth.ox.ac.uk/~steve/mintos.html</link>
+            <link>HTTP://MUSIQUE.ATARI.ORG</link>
+            <link>http://www.nest.demon.co.uk/index.htm</link>
+            <link>http://www.dtek.chalmers.se/~d2cg/oaesis/</link>
+            <link>http://www.oxo.ch/</link>
+            <link>http://www.http://www.geocities.com/SiliconValley/Vista/3015</link>
+            <link>http://www.plopbox.net/</link>
+            <link>http://atariki.krap.pl</link>
+            <link>http://my.blackpoint.ch/stab/</link>
+            <link>http://www.atarimuseum.com/</link>
+            <link>http://www.megacom.net/~q-funk/ST/</link>
+            <link>http://atariwebring.home.ml.org/</link>
+            <link>http://b.webring.com/hub?ring=atari</link>
+            <link>http://www.megacom.net/~q-funk/</link>
+            <link>http://www.atari.org</link>
+            <link>http://inet.uni-c.dk/~netop/atari.htm</link>
+            <link>http://www.vanc.igs.net/~roughley/tos_main.htm</link>
+            <link>http://www.umich.edu/~archive/atari/</link>
+            <link>news:comp.sys.atari.advocacy</link>
+            <link>news:comp.sys.atari.announce</link>
+            <link>news:comp.sys.atari.programmer</link>
+            <link>news:comp.sys.atari.st</link>
+            <link>news:comp.sys.atari.st.tech</link>
+            <link>news:fr.comp.sys.atari</link>
+        </links>
+        <manufacturer>Atari</manufacturer>
+        <media>3.5'' disk-drive</media>
+        <name>520 / 1040 STe</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals></peripherals>
+        <ports>Cardridge, Midi (in, out), Centronics, RS232c, Hard Disk, Floppy disk, RGB, Joystick, mouse,  2 x analogue controllers, Stereo RCA jacks</ports>
+        <power>Built-in PSU</power>
+        <price>520 STE : 396  (France, dec.1989)</price>
+        <production></production>
+        <ram>4 x SIMM sockets - From 512 KB up to 4 Mb</ram>
+        <rom>192 KB (256 KB in later versions)</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;THE STE PROTOTYPE (?)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Someone from Atari France gave us this photo and told us it was the case of the Atari STe prototype.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt; This case was designed by Ira Velinsky, Director of Industrial Design at Atari, who made the cases of the Commodore 500 / 600 / 700 series and the Commodore Ultimax.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt; The &amp;quot;Macintosh-like&amp;quot; unit on the right is the PS3000, a prototype combination of a SC1224 Monitor and a SF354 disk drive.&amp;lt;br&amp;gt; One of this case (one the right) looked like the Macintosh ! &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;Malcolm Ramage&amp;lt;/b&amp;gt; adds:&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;#666666&amp;quot;&amp;gt; The prototype was of the eST, an MC68020 prototype, which may have been an early version of the TT030.&amp;lt;br&amp;gt; Not much information exists about this machine, only a few pictures have been leaked and it's not known if any functioning hardware still exists.&amp;lt;/font&amp;gt; &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; Although this information was disclosed by several magazines, it was told us by &amp;quot;someone&amp;quot; that this case was only an exercise in style for a future Atari machine. No card was developed to fit this case.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/atari_ste_proto.jpg</link>
+            </shot>
+        </screenshots>
+        <size></size>
+        <sound>3 voices + 1 noise channel, 8 octaves + two 8 bit PCM channels</sound>
+        <speed>8 mHz</speed>
+        <text>40 or 80 chars.  x 25 lines (bitmapped graphics)</text>
+        <type>Home Computer</type>
+        <vram></vram>
+        <year>1990</year>
+    </computer>
+</computers>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<games>
+    <game>
+        <capturas>
+            <captura>images/capturas/Lonesome Tank (MIA, 1983) 001.png</captura>
+            <captura>images/capturas/Lonesome Tank (MIA, 1983) 002.png</captura>
+            <captura>images/capturas/Lonesome Tank (MIA, 1983) 003.png</captura>
+            <captura>images/capturas/Viking (Jose Luis Tur, 2005) (8).png</captura>
+        </capturas>
+        <caratulas>
+            <caratula>images/caratulas/Lonesome Tank (MIA, 1983) 001.jpg</caratula>
+            <caratula>images/caratulas/Lonesome Tank (MIA, 1983) 002.jpg</caratula>
+            <caratula>images/caratulas/Lonesome Tank (MIA, 1983) 002.jpg</caratula>
+        </caratulas>
+        <control>Keyboard Joystick</control>
+        <country>Japan</country>
+        <developer>MIA</developer>
+        <format>Tape</format>
+        <generation>MSX</generation>
+        <languages>English</languages>
+        <name>Lonesome Tank</name>
+        <players>1</players>
+        <price>3,500 JPY - Japan Yen</price>
+        <productId>MF-4 / MX-14</productId>
+        <publisher>MIA</publisher>
+        <region>Asia</region>
+        <releases>
+            <release>
+                <format>Tape</format>
+                <price>1,900 ESP - Spain Pesetas</price>
+                <publisher>Sony</publisher>
+                <region>Europe/Spain</region>
+            </release>
+            <release>
+                <format>Tape</format>
+                <publisher>EPI</publisher>
+                <region>America/Argentina</region>
+            </release>
+        </releases>
+        <remakes/>
+        <requires></requires>
+        <sound>PSG</sound>
+        <type>Action</type>
+        <typeOfLicense></typeOfLicense>
+        <url>http://msxgamesworld.com/gamecard.php?id=709</url>
+        <year>1983</year>
+    </game>
+</games>

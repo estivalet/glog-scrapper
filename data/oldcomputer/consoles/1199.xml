@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;UK ADVERT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Teleplay advert for the Teleng Colourstars&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/teleng_colourstars_ad-teleplay.jpg</link>
+            </advert>
+        </adverts>
+        <builtInGames>None</builtInGames>
+        <colors>Yes</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>None. Chipsets are located in each cartridge</cpu>
+        <description>
+This is a typical system using catridges based on the different chipsets developped by General Instruments in the late 70s. Each GI chips was able to generate several games, ball games for a start, then later car racing, motorcycle, submarines, tanks and shooting games.
+
+The system has two detachable controllers with one analog joystick and one fire button each. A big numbered dial in the middle of the control panel is used to select the different games offered by each cartridge (10 being the maximum). Three option switches (A,B,C), a power switch and a RESET button can also be found.
+
+The original fact with the Teleng Colourstars is its unusual design. First, it looks like a classic pong systems, but when looking closer, there is a cartridge slot on the right side of the system (unusual placement for a cartridge slot).
+
+Seven games seem to have been released for the Teleng Coloustars: Ball/Paddle, Submarines, Space War, Wipe out, Stunt Cycle, Tank Battle and Road Race.
+
+The Tank Battle game produced by the AY-3-8710 chip from General Instruments, is often missing from available cartridges for this type of systems (based upon GI chips). There is one good reason. All the other games use analog controllers whereas the Tank Battle must be played with digital controllers (like direction buttons for example). And all these video-game systems were designed with analog controllers and no numeric ones. However, some systems, like the Teleng Colourstars (and the Polycon PG-7, Prinztronic Micro 5500 or SHG Blackpoint) offered optional digital controllers (pads with 5 buttons: directions and fire) with the Tank Battle cartridge...
+
+The Stunt Cycle cartridge can normally be played with default controllers as it only require vertical movements for acceleration, but Teleng offered with the cartridge a special one made of a simple vertical slider, which is quite uncommon for this type of system.
+
+The Teleng Colourstars was also marketed as the Mercury Commander, Sovriegn, Replay and Teleplay
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>Unknown (very blocky)</graphics>
+        <hardwares/>
+        <hardwareDescription></hardwareDescription>
+        <image>http://www.old-computers.com/museum/photos/teleng_colourstars_1s.jpg</image>
+        <keyboard>Two detachable controllers with analog joysticks and a fire button</keyboard>
+        <language>None</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=725</link>
+            <link>computer.asp?st=1&amp;amp;c=743</link>
+            <link>computer.asp?st=1&amp;amp;c=880</link>
+            <link>computer.asp?st=1&amp;amp;c=757</link>
+            <link>computer.asp?st=1&amp;amp;c=738</link>
+            <link>computer.asp?st=1&amp;amp;c=1128</link>
+            <link>computer.asp?st=1&amp;amp;c=1267</link>
+            <link>computer.asp?st=1&amp;amp;c=748</link>
+            <link>computer.asp?st=1&amp;amp;c=750</link>
+            <link>computer.asp?st=1&amp;amp;c=786</link>
+            <link>computer.asp?st=1&amp;amp;c=761</link>
+            <link>computer.asp?st=1&amp;amp;c=984</link>
+            <link>http://www.old-computers.com/magazine/view.asp?r=2&amp;amp;a=4</link>
+        </links>
+        <manufacturer>Teleng</manufacturer>
+        <media>Cartridges</media>
+        <name>Colourstars</name>
+        <numGames></numGames>
+        <origin>United Kingdom</origin>
+        <peripherals></peripherals>
+        <ports>Power in, TV RF video output, light gun connectors</ports>
+        <power>External power supply (9v, 200ma, - -(o- + ) or 6 x AA/HP2 batteries</power>
+        <price>Kit : &amp;pound;28.90 (UK)Assembled : &amp;pound;35.90 (UK)</price>
+        <production></production>
+        <ram></ram>
+        <rom></rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;TELENG COLOURSTARS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/teleng_colourstars_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;DEFAULT CONTROLLERS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/teleng_colourstars_controllers.jpg</link>
+            </shot>
+        </screenshots>
+        <size>Unknown</size>
+        <sound>yes, built-in speaker</sound>
+        <speed></speed>
+        <text></text>
+        <type></type>
+        <vram></vram>
+        <year>? Unknown</year>
+    </computer>
+</computers>

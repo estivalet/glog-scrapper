@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>two 5.25'' DS/DD half-height floppy drives (390 KB)</builtInGames>
+        <colors>built-in 9'' non-glare green phosphor screen</colors>
+        <controllers></controllers>
+        <coprocessor>Motorola 6845 (video controler)</coprocessor>
+        <cpu>Z80A</cpu>
+        <description>
+This is the Kaypro 4 released in 1984, usually refered as Kaypro 4/84, as opposed to the Kaypro IV released one year earlier, and refered as Kaypro IV '83.
+
+The main differences between the Kaypro 4 '84 and the Kaypro IV '83 were :
+- A faster CPU, Zilog Z80A running at 4Mhz,
+- A real time clock which can be used by programs (uses National MM58167),
+- A better built-in monitor resulting in a very sharp display. The character matrix has also evolved from 5 x 7 on the Kaypro II and IV '83 to 8 x 16 pixels on the Kaypro 4 '84,
+- the system had rudimentary graphics through graphical characters resulting in a virtual 160 x 100 resolution,
+- characters could be displayed using two brightness levels and reverse attribute,
+- the new prompt was a blinking square,
+- like on modern keyboards, J and F keys were slightly different in shape from the other keys, so it was possible to spot them while staring at the screen,
+- there was a built-in modem (300 baud, Bell System 103 compatibility, uses Texas Instruments TMS99537/TMS99532),
+- the system had two DS/DD half-height floppy drives (390 kb)
+
+The system was bundled with Wordstar, dBase II, MicroPlan, Microsoft Basic, S-Basic, SuperCalc, C-Basic and CP/M 2.2 !
+
+In 1984, in order to be compatible with IBM software, a special version was marketed with an Intel 8088 CPU in addition of the Z80A. It was called Kaypro 4 Plus 88!
+_______________________</description>
+        <emulators/>
+        <graphics>virtual 160 x 100 through graphical characters</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/Kaypro_4_System_s1.jpg</image>
+        <keyboard>Detachable, 72 key typewriter style keyboard with 18 programmable keys.</keyboard>
+        <language></language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=831</link>
+            <link>computer.asp?st=1&amp;amp;c=148</link>
+            <link>computer.asp?st=1&amp;amp;c=954</link>
+            <link>computer.asp?st=1&amp;amp;c=550</link>
+            <link>computer.asp?st=1&amp;amp;c=549</link>
+            <link>computer.asp?st=1&amp;amp;c=278</link>
+        </links>
+        <manufacturer>Kaypro</manufacturer>
+        <media>two 5.25'' DS/DD half-height floppy drives (390 KB)</media>
+        <name>Kaypro 4</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals></peripherals>
+        <ports>Two RS-232C serial ports, one Centronics-type parallel port, communication socket (built-in modem) RJ11C modular telephone jack</ports>
+        <power>Built-in power supply unit</power>
+        <price>About $3500</price>
+        <production>1985</production>
+        <ram>64 KB</ram>
+        <rom>2 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;LARGE VIEW&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Kaypro_4_System_s2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SIDE VIEWS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Kaypro_4_BothSides_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;CLOSED&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;When closed, the Kaypro rests on its keyboard.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Kaypro_4_Closed_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;REAR PANEL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(1)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Reset switch&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(2)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Phone cord RJ11 connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(3)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Parallel printer connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(4)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; First serial port&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(5)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Second serial port intended for a serial printer&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(6)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Keyboard RJ11 connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(7)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Display brightness knob.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Kaypro_4_RearPanel_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;OPENED&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;All the Kaypro series - from Kaypro 1 to Kaypro 16 has the same internal layout.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Kaypro_4_Opened_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MOTHERBOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(1)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Signetics 6545 video chipset&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(2)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; 2 x Z80 SIO chips in charge on one serial port each&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(3)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Built-in modem circuitry&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(4)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Real-time clock IC (MM58167) powered by the rechargeable battery that is soldered on the board&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(5)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Zilog Z80 PIO in charge of the parallel interface&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(6)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Western Digital floppy-disc controller chipset&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(7)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Zilog Z80A processor&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(8)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; System ROM. Allows the system to load the OS from the diskette when switched on&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(9)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; 64 KB user RAM (8 x 4164)&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(10)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Custom chip dedicated to the memory management&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(11)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; 4 KB Video RAM chips (2x2116)&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(12)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Character generator ROM&amp;lt;br&amp;gt; &amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Kaypro_4_MainBoard_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;DISMANTLED&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Dismantling a Kaypro computer is quite easy, provided that you carefully write down the location of each connector and the way they are connected.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Kaypro_4_Dismantled_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MANUALS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Kaypro shipped its computers with a large bunch of software and manuals.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Kaypro_4_Manuals_s1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>46 (W) x 41.5 (D) x 21.5 (H) cm / 15kg</size>
+        <sound>No sound</sound>
+        <speed>4 Mhz</speed>
+        <text>80 chars x 25 lines</text>
+        <type>Transportable</type>
+        <vram>2 KB</vram>
+        <year>1984</year>
+    </computer>
+</computers>

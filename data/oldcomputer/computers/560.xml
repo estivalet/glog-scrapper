@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;U.S. ADVERT (1979)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Advert said:&amp;lt;br&amp;gt;&amp;lt;br&amp;gt; &amp;lt;font color=&amp;quot;#666666&amp;quot;&amp;gt;You may not have thought of all the reasons for buying a personal computer. There are exciting games, of course, but what about financial management, household records, even income tax? You need a versatile, sophisticated machine that's as limitless as your imagination. You need the Compucolor ll...&amp;lt;/font&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/Compucolor_ll_Advert_1.jpg</link>
+            </advert>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;NEW ZELAND AD. (1980)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Advert says:&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;#666666&amp;quot;&amp;gt; The renaissance machine is a &amp;quot;one-of-a-kind&amp;quot; system for the &amp;quot;one-of-a-kind&amp;quot; person who demands and will not settle for anything less than, the best.&amp;lt;/font&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/Compucolor_ll_Advert_s2.jpg</link>
+            </advert>
+        </adverts>
+        <builtInGames>CompuColor Basic</builtInGames>
+        <colors>8 colors</colors>
+        <controllers></controllers>
+        <coprocessor>Intel CRT controller</coprocessor>
+        <cpu>Intel 8080A</cpu>
+        <description>
+The CompuColor II, also called the &amp;quot;Renaissance Machine&amp;quot;, is said to be the first home-computer available with a colour display. ISC (Intelligent Systems Corp), who was a large color computer manufacturer, conceived the CompuColor II built into a RCA color TV chassis (sans tuner assembly). The main problem of the system was that the machine had *no* RFI (Radio Frequency Interference) shielding what-so-ever and the FCC was soon on their butts. They planned to redesign the system but then prefered to stop production...
+
+The first Compucolor system (model 8001) was in fact an 8080 based terminal (model 8001) and was later followed by the CompuColor II (model 8051), with BASIC and a floppy interface. It seems like the system was sold by ISC, Compucolor and Intecolor; but in which order ? Any idea someone ?
+
+Different models with different keyboards were available. The one pictured here is the Deluxe model with a full implemented keyboard. There were models with 16, 32 or 48 kb RAM. Later models seemed to have a built-in 300 baud modem. Apparently, you could not format the 5.25&amp;quot; disks yourself, surely because Intecolor wanted to make money by selling these preformated disks... But many users ended up by writing their own formating programs.
+
+The system was very vulnerable to certain hardware tinkering. Tampering with the addresses that accessed the hardware registers could wipe out all the RAM (it did something fatal to the refresh logic). It used an Intel CRT controller for screen processing. Altering the number of scanlines to too high a value could kill the CRT.
+
+The ROM contained a ripped-off version of Microsoft BASIC and a simplistic file system. Microsoft found out about them, and forced ISC to become a Microsoft distributor. They also collected royalties on all machines sold up to that time.
+
+The disk drive was originally designed to use an 8-track tape cartridge for storage (yes, you read that right!). When that proved to unreliable, they switched to a 5.25 inch disk drive. They didn't change the file system, which still thought it was a tape drive. When you deleted a file, it re-packed all remaining files back to the front of the disk. Used the 8K of screen RAM for a buffer to do it, which led to some psychedelic I/O.
+
+Some games were available, such as the famous Star-Trek, Othello, Chess, Black Jack, Tic Tac Toe, etc.
+
+Thanks to the Computer Closet Collection for the picture.
+Thanks to Woodside for some information.
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>128 x 128</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/intecolor_compucolor2_1.jpg</image>
+        <keyboard>Full-stroke keyboard with colorful keys! Separate numeric keypad, function keys and arrow keys</keyboard>
+        <language>CompuColor Basic</language>
+        <links>
+            <link>http://www.computercloset.org/CompuColorII.htm</link>
+            <link>http://www.trailingedge.com/~dlw/comp/wtemplate.html?compucolor2</link>
+        </links>
+        <manufacturer>ISC (Intelligent Systems Corp)</manufacturer>
+        <media>5.25'' disk-drive (51,2 kb, 40 tracks, average access time 400ms, transfer rate 76,8 Kb/s), built-in the monitor</media>
+        <name>CompuColor II</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals>Additional disk drive</peripherals>
+        <ports>Keyboard, monitor, serial port, external disk drive</ports>
+        <power>Built-in PSU</power>
+        <price>$1495 (USA, 1980)16k model: 1770  (France, 1980)32k model: 2103  (France, 1980)</price>
+        <production></production>
+        <ram>16, 32 or 48 kb depending on models</ram>
+        <rom>16 kb</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;COMPUCOLOR II&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The long flat cable is used to connect the keyboard to the monitor.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/intecolor_compucolor2_2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;48 KB MODEL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/compucolor_II_3.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;16 KB MODEL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Notice the keyboard which is simpler than the 48 kb model one.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/intecolor_compucolor2_3.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;16 KB MODEL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/compucolor_16k-model_2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SOMEONE PLAYING OTHELLO GAME&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;from front cover of a Deutch magazine (Radio Bulletin)&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/compucolor_othello_someoneplaying.jpg</link>
+            </shot>
+        </screenshots>
+        <size></size>
+        <sound></sound>
+        <speed></speed>
+        <text>40 x 24, 64 x 32</text>
+        <type>Home Computer</type>
+        <vram></vram>
+        <year>1977</year>
+    </computer>
+</computers>

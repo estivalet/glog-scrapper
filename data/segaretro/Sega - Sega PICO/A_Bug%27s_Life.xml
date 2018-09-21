@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<games>
+    <game>
+        <developer>Sega Toys</developer>
+        <genre>Misc.</genre>
+        <name>A Bug's Life</name>
+        <players>1</players>
+        <publisher>Sega Toys</publisher>
+        <releases>
+            <release>
+                <code></code>
+                <country></country>
+                <date></date>
+                <price></price>
+            </release>
+            <release>
+                <code>HPC-6080</code>
+                <country>JP</country>
+                <date>1999-12-02</date>
+                <price>&amp;Acirc;&amp;yen;3,980</price>
+            </release>
+            <release>
+                <code>HPC-6080</code>
+                <country>KR</country>
+                <date>xxxx</date>
+                <price>&amp;acirc;&amp;copy;</price>
+            </release>
+        </releases>
+        <romSize>2MB</romSize>
+        <shots>http://segaretro.org/images/4/47/ABL_title.png</shots>
+        <shots>http://segaretro.org/images/b/b0/Bugslife_pico_jp_cover.jpg</shots>
+        <shots>http://segaretro.org/images/9/9a/Bugslife_pico_jp_manual.pdf</shots>
+        <shots>http://segaretro.org/images/8/8e/ABugsLife_Pico_KR_cover.jpg</shots>
+        <shots>http://segaretro.org/images/9/9f/ABugsLife_pico_kr_manual.pdf</shots>
+        <systems>Sega Pico</systems>
+    </game>
+</games>

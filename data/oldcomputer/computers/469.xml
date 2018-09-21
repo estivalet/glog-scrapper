@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FRENCH AD (JAN. 1980)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/sord_m-serie_ad_gepsi.jpg</link>
+            </advert>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;M-170 ADVERT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/Sord_M170_Advert_1.jpg</link>
+            </advert>
+        </adverts>
+        <builtInGames>ROM monitor</builtInGames>
+        <colors>8 colours</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Z80</cpu>
+        <description>
+The M-170 computer was originaly sold as a home computer but, as it was a very reliable system, many companies used it as a small business system. It was derived from the M-100, M-110 home systems.
+
+Basic version was supplied with a Hitachi monitor, an external power supply unit and a cassette recorder (the M-170 could manage two tape recorders simultaneously). There was no programming langage built in the computer, only a monitor including 19 commands. One of them allowed the user to load the Sord BASIC interpreter.
+
+The ACE version used from one to three 5.25&amp;quot; - 143 KB floppy drives units with a more advanced BASIC interpreter, and a graphic display card. A FORTRAN compiler was also available.
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>ACE version: 320 x 256 monochrome or 160 x 256</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/Sord_M170_System_1.jpg</image>
+        <keyboard>Full-stroke keyboard. 56 keys + 18 function and numeric keypad</keyboard>
+        <language>ROM monitor</language>
+        <links/>
+        <manufacturer>Sord</manufacturer>
+        <media></media>
+        <name>M 170</name>
+        <numGames></numGames>
+        <origin>Japan</origin>
+        <peripherals>2 x tape recorders - 1 to 3 x 5''1/4 disk-drives</peripherals>
+        <ports>S-100 bus, Parallel I/O, Serial (300 to 9600 baud), A/D converter, 2 x tape recorder, color or B/W monitor</ports>
+        <power>External power supply unit 5V/4A, 12V/0.5A (or built in the ACE extension)</power>
+        <price>Basic version: 1500  </price>
+        <production>Unknown</production>
+        <ram>16 KB or 32 KB (Model B)</ram>
+        <rom>4 KB (Monitor program)</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;M110 BLOC DIAGRAM&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Taken from the Sord leaflet&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Sord_M170_Diagram_1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>unknown</size>
+        <sound>Two octaves tone generator</sound>
+        <speed>2 MHz (a few cranked it up to 4)</speed>
+        <text>64 chars. x 24 lines.</text>
+        <type>Professional Computer</type>
+        <vram></vram>
+        <year>May 1978</year>
+    </computer>
+</computers>

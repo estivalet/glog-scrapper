@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<games>
+    <game>
+        <developer>Jaleco,  Sega</developer>
+        <genre>Action</genre>
+        <name>Pop Flamer</name>
+        <players></players>
+        <publisher>Sega</publisher>
+        <releases>
+            <release>
+                <code></code>
+                <country></country>
+                <date></date>
+                <price></price>
+            </release>
+            <release>
+                <code>G-1019</code>
+                <country>JP</country>
+                <date>1983</date>
+                <price>&amp;Acirc;&amp;yen;4,300</price>
+            </release>
+            <release>
+                <code>?</code>
+                <country>EU</country>
+                <date>1983</date>
+                <price>&amp;Acirc;&amp;pound;?</price>
+            </release>
+            <release>
+                <code>G-1019</code>
+                <country>AU</country>
+                <date>1983</date>
+                <price>$?</price>
+            </release>
+            <release>
+                <code>?</code>
+                <country>NZ</country>
+                <date>1984</date>
+                <price>$?</price>
+            </release>
+            <release>
+                <code>?</code>
+                <country>TW</country>
+                <date>198x</date>
+                <price>NT$?</price>
+            </release>
+        </releases>
+        <romSize>16kB</romSize>
+        <shots>http://segaretro.org/images/4/41/PopFlamer_Title.png</shots>
+        <shots>http://segaretro.org/images/9/97/PopFlamer_SG1000_JP_Box_Back.jpg</shots>
+        <shots>http://segaretro.org/images/b/b3/PopFlamer_SG1000_JP_Box_Front.jpg</shots>
+        <shots>http://segaretro.org/images/2/22/PopFlamer_SG1000_JP_Cart.jpg</shots>
+        <shots>http://segaretro.org/images/1/17/PopFlamer_SG1000_AU_Box.jpg</shots>
+        <systems>SG-1000</systems>
+    </game>
+</games>

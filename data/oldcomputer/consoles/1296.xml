@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Rocket Patrol game built-in the system</builtInGames>
+        <colors>8</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Motorola 6800</cpu>
+        <description>
+The APF M1000 was released in 1978. It's a Video game system cart based, 
+comes with 2 non-detachables joysticks with a numeric keypad on each ones
+(look likes a mini-calculator with a joystick), has &amp;quot;Reset&amp;quot; &amp;amp; &amp;quot;Power&amp;quot; 
+buttons on the unit. Only could be played on a Color TV only. This system
+seems to have been the pack-in unit with Imagination Machine.
+
+The APF MP1000 was released in 1978. This system is basically the same
+as the M1000 model and both systems does come with built-in game called 
+&amp;quot;Rocket Patrol&amp;quot;.
+
+Both of these systems had the ability to be expanded to the Imagination 
+Machine &amp;amp; both can play each other cartridges.
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>emulator by Enrique Collado</description>
+                <link>http://www.tcp.com/lgreenf/apfpage.htm</link>
+                <name>APF Imagination Machine Emulator </name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>APF Imagination Machine emulator from emucompboy</description>
+                <link>http://www.geocities.com/emucompboy/</link>
+                <name>Virtual APF</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>MESS now emulates the APF Imagination Machine for many platforms</description>
+                <link>http://www.mess.org/</link>
+                <name>MESS</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>256 x 192 pixels / 32 x 16 characters</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/apf_m1000_1s.jpg</image>
+        <keyboard>Two 8-directions self-centered joysticks and 12-keys keypad</keyboard>
+        <language>Rocket Patrol game built-in the system</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=584</link>
+            <link>http://tech.groups.yahoo.com/group/apf_consoles_and_computers/</link>
+            <link>http://hcvgm.org/index.html</link>
+            <link>http://www.nausicaa.net/~lgreenf/apfpage.htm</link>
+            <link>http://www.digitpress.com/faq/apf.txt</link>
+            <link>http://en.wikipedia.org/wiki/APF_Imagination_Machine</link>
+        </links>
+        <manufacturer>APF</manufacturer>
+        <media>Cartridges</media>
+        <name>M1000 / MP1000</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals>Imagination Machine computer addon</peripherals>
+        <ports>sound output, expansion connector, cartridge slot</ports>
+        <power>7.5V AC/0.8 Amp or 12V DC/0.5 amp</power>
+        <price></price>
+        <production></production>
+        <ram>1 KB</ram>
+        <rom></rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MP 1000 SYSTEM&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/apf_m1000_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SIDE VIEW&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/apf_m1000_side_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BOTTOM LABEL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/apf_m1000_label_1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>Unknown</size>
+        <sound>yes, but unknown specifications (built-in speaker)</sound>
+        <speed>3.5 MHz</speed>
+        <text></text>
+        <type></type>
+        <vram></vram>
+        <year>1977</year>
+    </computer>
+</computers>

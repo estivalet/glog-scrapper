@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Pole Position II (USA) - cartridge; Asteroids (Europe)  in system memory; 32-in-1 (Australia and New Zealand) - cartridge</builtInGames>
+        <colors>16 hues, 8 luminances each, 128 colors. 256 colors possible, 16 on screen at once.</colors>
+        <controllers></controllers>
+        <coprocessor>TIA (sound chip), Maria (graphics), Riot (I/O)</coprocessor>
+        <cpu>6502c (custom, not 65C02)</cpu>
+        <description>
+The Atari 7800 ProSystem was originally scheduled for release in late 1984, as the follow-up to Ataris misguided 5200 SuperSystem, but didnt see release until 1986, when it retailed for approximately $140 (USA). Instead of competing with comparatively weaker systems like the 5200 and Colecos ColecoVision, the later release date for the 7800 brought direct competition from the more robust Nintendo Entertainment System (NES), released in late 1985, and the Sega Master System (SMS), which, like the ProSystem, was released in 1986.
+
+In late 1984, despite having had successful showings at trade events, an extensive and enthusiastic preview in one of the top video and computer game magazines of the day (Electronic Games), retail orders already taken, and warehouses full of stock, Atari management decided to shelve the system and its launch games in favor of their computer line when it became apparent to them - and seemingly everyone else in the industry - that the videogame depression had become an irreversible crash. Also put on the shelf was a redesigned Atari 2600 (VCS), dubbed the Atari 2600jr, due to its diminutive size. These moves have often been criticized in hindsight, but for those around at the time, it was clear that videogames were being supplanted by low cost and powerful personal computers as the more flexible game machines of choice, and a game system in the traditional sense simply wouldnt be financially sustainable.
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>This multi-system emulator, can emulate the Atari 7800</description>
+                <link>http://www.mess.org/</link>
+                <name>MESS</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>320 x 200</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/atari_7800_1.jpg</image>
+        <keyboard>1 detachable joystick with 2 fire buttons (USA); 2 detachable controllers including a pad and 2 fire buttons each (Europe)</keyboard>
+        <language>Pole Position II (USA) - cartridge; Asteroids (Europe)  in system memory; 32-in-1 (Australia and New Zealand) - cartridge</language>
+        <links>
+            <link>http://www.atariage.com/7800/faq/index.html?SystemID=7800</link>
+            <link>http://www.atariage.com/</link>
+            <link>http://www.bigfishusa.com/7800/index.html</link>
+            <link>http://atarihq.com/danb/a7800.shtml</link>
+            <link>http://cat.asw.cz/~kubecj/7800tech.htm</link>
+            <link>http://www.atari7800.org/</link>
+            <link>http://www.atarimuseum.com/</link>
+        </links>
+        <manufacturer>Atari</manufacturer>
+        <media>Cartridge, 32 KB Maximum</media>
+        <name>7800 ProSystem</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals>All Atari 2600 peripherals; Atari XEGS Model XG-1 Light Gun; Unreleased: Keyboard (which would allow use of Atari 8-bit computer peripherals, but not software), High Score Cartridge, Dual Controller Holder and 5200 Compatibility Module</peripherals>
+        <ports>RF TV video output, 2 x controller ports, expansion port (not on all system revisions)</ports>
+        <power>External power supply unit, 9v DC 1A</power>
+        <price></price>
+        <production>1992</production>
+        <ram>4 KB</ram>
+        <rom>4 KB (BIOS)</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;LEFT SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/atari_7800_l-side_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;7800 (EUROPEAN MODEL)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/atari_7800pal_1b.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FRONT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/atari_7800pal_front.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FRONT PORTS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;These are the joystick ports and option switches&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/atari_7800pal_front_2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BOTTOM&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/atari_7800pal_bottom.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;RIGHT SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/atari_7800pal_r-side.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;RIGHT SIDE #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/atari_7800pal_r-side_2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;CONTROLLER PAD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/atari_7800pal_controller_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;JOYSTICK UNSCREWED&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/atari_7800pal_controller_2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;US BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/atari_7800_us-box_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;EUROPEAN BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/atari_7800pal_box_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;EUROPEAN BOX - BOTTOM&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/atari_7800pal_box_2.jpg</link>
+            </shot>
+        </screenshots>
+        <size></size>
+        <sound>2 channels; POKEY sound chip option in cartridges (for additional or replacement 4 channels)</sound>
+        <speed>1.79 MHz</speed>
+        <text></text>
+        <type></type>
+        <vram></vram>
+        <year>1984, 1986 (full launch)</year>
+    </computer>
+</computers>

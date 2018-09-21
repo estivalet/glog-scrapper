@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FRENCH ADVERT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;quot;TO8D, the smart present&amp;quot;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/thomson_to8d_advert_cadeau-fute.jpg</link>
+            </advert>
+        </adverts>
+        <builtInGames>BASIC 512 &amp;amp; BASIC 1.0 MICROSOFT</builtInGames>
+        <colors>4096</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Motorola 6809e</cpu>
+        <description>
+The Thomson TO 8 is the successor of the Thomson TO 7/TO 7/70. This machine was, like the Thomson MO 5 very used in french schools. It was compatible with the TO 7 and the other members of its family (Thomson MO 6, Thomson TO 9 and Thomson TO 9 plus). It has three basics on ROM : The Basic 1.0 of the TO7, The Basic 512 and the Basic DISK. Almost all memory (235 KB) was accessible with basic thanks to a transparent 16 KB bank switching mechanism and up to 17 programs can be loaded simultaneously in memory and it is possible to switch between them. An optional 3.5&amp;quot; floppy disk drive (640 KB) was available.
+
+A new version of the TO 8 was launched few times after, the Thomson TO 8D, this computer had the same characteristics but had a built-in 3.5&amp;quot; floppy disk drive.
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>Thomson MO5 emulator for PC</description>
+                <link>http://dcmo5.free.fr/</link>
+                <name>DCMO5</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Easy to use emulator, to run MO5 games without knowing MO5 commands</description>
+                <link>HTTP://DCMO5.FREE.FR</link>
+                <name>DCMO5 Gamer Edition</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Thomson MO5NR, Thomson MO6 and Olivetti Prodest PC128 emulator for PC</description>
+                <link>http://dcmo6.free.fr/</link>
+                <name>DCMO6</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Universal 8-bit Thomson emulator for Windows. Emulates Thomson MO5, MO5E, MO5NR, MO6, T9000, TO7/70, TO8, TO8D, TO9, TO9+ and Olivetti Prodest PC128  !</description>
+                <link>http://dcmoto.free.fr/</link>
+                <name>DCMOTO</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Thomson T9000, TO7/70, TO8, TO8D emulator for Windows</description>
+                <link>http://dcto7.free.fr/</link>
+                <name>DCTO7 and DCTO8</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>TO8 emu for Mac OS</description>
+                <link>http://www.bannister.org/software/teo.htm</link>
+                <name>TEO</name>
+                <platform>Apple emulator</platform>
+            </emulator>
+            <emulator>
+                <description>TO-8 emulator for Linux by Jérôme Thoen</description>
+                <link>http://www.multimania.com/jth/emuto8.html</link>
+                <name>EmuTO8</name>
+                <platform>Unix / Linux emulator</platform>
+            </emulator>
+            <emulator>
+                <description>TO-8 emulator for MS-DOS, Windows and Linux</description>
+                <link>http://thomson.rcroms.com/teo_home.html</link>
+                <name>TEO</name>
+                <platform>Other platform emulator</platform>
+            </emulator>
+            <emulator>
+                <description>No, you are not dreaming. This is a TO-7/70 emulator for the Dreamcast game system !</description>
+                <link>http://www.jplang.fr.st/</link>
+                <name>TODC</name>
+                <platform>Other platform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>160 x 200 (16 or 5 colors), 320 x 200 (2, 3, 4 or 16 colors), 640 x 200 (2 colors)</graphics>
+        <hardwares>
+            <hardware type="DISK DRIVES">
+                <items>
+                    <item>
+                        <description>5.25'' disk drive|||320 KB model|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;5.25'' DISK DRIVE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;320 KB model&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This 5.25'' disk-drive offers a 320 KB capacity (40 tracks &amp;gt; 16 sectors &amp;gt; 256 bytes) and a built-in controller.&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/thomson_to7_diskdrive_2.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Disk Controller|||CD 90-351|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;DISK CONTROLLER&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;CD 90-351&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This interface was used to connect a disk drive or a Quick Disc Drive (QDD) to a TO-7, TO-7/70, MO5 or MO6.&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/thomson_to7_disk-interface.jpg</photo>
+                    </item>
+                </items>
+            </hardware>
+            <hardware type="JOYSTICK EXPANSIONS">
+                <items>
+                    <item>
+                        <description>Joystick module||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;JOYSTICK MODULE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Dual Atari compatible joysticks module&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Thomson_To9_JoyModule_1.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Music &amp;amp; Game Module|||CM 90-112|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MUSIC &amp;amp; GAME MODULE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;CM 90-112&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This module offers two joystick connectors (Videopac joysticks can be used) and adds three channels to the TO-7  or MO-5 (resulting in a total of 4 voices). Sadly, these new sound features were scarcely used in games...&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/thomson_to7_joy-interface.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Music &amp;amp; Game Module #2||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MUSIC &amp;amp; GAME MODULE #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Thomson_MO5_MusicEtJeu_s1.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Ordi 94|||Joystick Interface|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;ORDI 94&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;Joystick Interface&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This interface enables Atari joysticks to be used with TO-7, TO-7/70 and MO5. It was sold by Ordivisuel under the name Ordi 94.&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/thomson_to7_joy-atari.jpg</photo>
+                    </item>
+                </items>
+            </hardware>
+            <hardware type="PRINTERS">
+                <items>
+                    <item>
+                        <description>Printer PR-90 080||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;PRINTER PR-90 080&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;80 columns dot-matrix printer which was a rebadged version of the Seikosha GP-80&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Thomson_TO7_Imp_PR90-080.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Printer PR-90 600||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;PRINTER PR-90 600&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;80-column 9-pin dot matrix printer. A rebadged version of the Seikosha SP-1000 with graphics capabilities&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Thomson_To9_ImpPR90_600_1.jpg</photo>
+                    </item>
+                </items>
+            </hardware>
+        </hardwares>
+        <image>http://www.old-computers.com/museum/photos/thomson_to8_1s.jpg</image>
+        <keyboard>AZERTY full-stroke keyboard, upper and lower case, 81 keys</keyboard>
+        <language>BASIC 512 &amp;amp; BASIC 1.0 MICROSOFT</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=12</link>
+            <link>computer.asp?st=1&amp;amp;c=167</link>
+            <link>computer.asp?st=1&amp;amp;c=838</link>
+            <link>computer.asp?st=1&amp;amp;c=868</link>
+            <link>computer.asp?st=1&amp;amp;c=853</link>
+            <link>computer.asp?st=1&amp;amp;c=11</link>
+            <link>computer.asp?st=1&amp;amp;c=643</link>
+            <link>computer.asp?st=1&amp;amp;c=239</link>
+            <link>computer.asp?st=1&amp;amp;c=240</link>
+            <link>http://membres.lycos.fr/amito8/data/Accueil.html</link>
+            <link>http://lair.thomsonistes.org/</link>
+            <link>http://gfournier.free.fr/</link>
+            <link>http://dcmoto.free.fr/</link>
+            <link>http://forumthomson2001.free.fr/forum01.htm</link>
+            <link>http://www.multimania.com/tonews/</link>
+            <link>http://nostalgies.thomsonistes.org/</link>
+            <link>http://wiki.forler.ch</link>
+            <link>http://matthias.dejouvencel.free.fr/thomson/</link>
+            <link>http://www.logicielsmoto.com/home.php</link>
+        </links>
+        <manufacturer>Thomson</manufacturer>
+        <media>TO-8D: 3.5'' disk-drive (640kb)</media>
+        <name>TO 8 - TO 8D</name>
+        <numGames></numGames>
+        <origin>France</origin>
+        <peripherals></peripherals>
+        <ports>Memory expansion bus (256kb), expansion connector, external disk-drive, Centronics for printer, Video output (SCART), UHF video out (export models), 2 joystick/mouse connectors, light-pen, audio output, cassette interface, cartridge slot</ports>
+        <power>PSU built-in</power>
+        <price></price>
+        <production></production>
+        <ram>256 kb (up to 512 kb)</ram>
+        <rom>80 kv (BASIC 512, BASIC 1.0 MICROSOFT)</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;TO 8&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/thomson_to8_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;TO-8D&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/to8d.jpg</link>
+            </shot>
+        </screenshots>
+        <size></size>
+        <sound>4 channels, 7 octaves (6 bits DAC)</sound>
+        <speed>1 MHz</speed>
+        <text>40 x 25 (16 colors) / 80 x 25 (2 colors)</text>
+        <type>Home Computer</type>
+        <vram>16 kb</vram>
+        <year>1986</year>
+    </computer>
+</computers>

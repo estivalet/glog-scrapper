@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Sharp BASIC interpreter</builtInGames>
+        <colors>Monochrome LCD</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Sharp CMOS SC61860 (8 bits)</cpu>
+        <description>
+As the PC-1401 family was rather successful, Sharp released an 
+update three years later.
+
+The two new models were named PC-1403 and PC-1403H. 
+The differences were not large, but very helpful. They had a better display, 
+with  24 instead of 16 characters on the same display area, and lowercase 
+letters could now be used. Thus, there was an additional SML key to switch 
+between uppercase and lowercase entry mode.
+Moreover, matrix calculation functions had been added, such as addition, multiplication, inversion and determinant. They could be used in calculator mode only.
+
+The hardware was based on a later incarnation of the SC61860 CPU, paced at 768 
+kHz. The RAM had also been expanded, with 8 KB in the PC-1403 (D4364G 8k x 8 
+static RAM), and generous 32 KB in the PC-1403H (D43256AG 32k x 8 static RAM). 
+The new functions also required a larger ROM (72 KB, LZ92K32 plus SC6976T).
+
+Thanks again to Roman von Wartburg for this information.
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>PC-12xx, 14xx &amp;amp; 13xx emulator</description>
+                <link>http://sourceforge.jp/projects/poems/</link>
+                <name>POEMS</name>
+                <platform>Unix / Linux emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Emulates nearly all Sharp pocket computers!</description>
+                <link>http://pockemul.free.fr/</link>
+                <name>PockEmul</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>None</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/Sharp_PC1403H_System_S1.jpg</image>
+        <keyboard>77 keys, QWERTY calculator type with numeric key-pad and math function keys</keyboard>
+        <language>Sharp BASIC interpreter</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=936</link>
+            <link>computer.asp?st=1&amp;amp;c=1135</link>
+            <link>computer.asp?st=1&amp;amp;c=1091</link>
+            <link>computer.asp?st=1&amp;amp;c=466</link>
+            <link>computer.asp?st=1&amp;amp;c=1170</link>
+            <link>computer.asp?st=1&amp;amp;c=965</link>
+            <link>computer.asp?st=1&amp;amp;c=184</link>
+        </links>
+        <manufacturer>Sharp</manufacturer>
+        <media></media>
+        <name>PC-1403 (H)</name>
+        <numGames></numGames>
+        <origin>Japan</origin>
+        <peripherals>CE-126P thermal printer and tape interface</peripherals>
+        <ports>Proprietary 11-pin expansion bus</ports>
+        <power>6 volts, 2 x CR 2032 lithium cells</power>
+        <price></price>
+        <production></production>
+        <ram>PC-1403: 8 KB - PC-1403H: 32 KB</ram>
+        <rom>72 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;LARGE VIEW&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Sharp_PC1403H_System_S2.jpg</link>
+            </shot>
+        </screenshots>
+        <size>170 (W) x 72 (D) x 9.5 (H) mm / 150 g (with batteries and hard cover)</size>
+        <sound>CPU controlled piezo buzzer, fixed frequency and duration via BASIC statement</sound>
+        <speed>768 kHz</speed>
+        <text>1 line x 24 chars. (LCD screen), 5x7 dot matrix</text>
+        <type>Pocket</type>
+        <vram></vram>
+        <year>1986</year>
+    </computer>
+</computers>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Basic</builtInGames>
+        <colors>16 colors from a palette of 4096</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Zilog Z80A</cpu>
+        <description>
+The Mupid was followed by the Mupid 2 which had a better keyboard, and which supported the CEPT Prestel standard instead of the national Austrian one. At their time, the Austrian post office even replaces Mupid 1 by Mupid 2s for free (I wonder what they did with all these returned Mupid 1 models). 
+
+There were 3 Mupid 2 models:
+- C2D (German version of the square tin case with separate keyboard) According to some rumor, these models did not went into sales.
+- C2D2 (German version of the compact case labelled &amp;quot;Komfort MUPID&amp;quot;)
+- C2A2 (Austrian version of the compact case)
+- In addition there was a Mupid card for early PCs. 
+
+Apart from the floppy disc drive, there was one additional option for the Mupid 2.
+
+The so-called &amp;quot;Permanent Memory&amp;quot; upgraded a normal Mupid 2 to a &amp;quot;Komfort Mupid&amp;quot; (it seems that all German C2D2 models were Komfort Mupids). This option consists of a battery-buffered 128 KB CMOS memory that costed an enormous 420 Euro (currently about 650$). This memory allowed either:
+- to store and reload existing Prestel pages without additional costs
+- to store BASIC programs or graphics without other external memory
+- to be used as a RAM disc (this even allowed to run CP/M without a floppy disc) 
+
+_________
+
+Contributors: Fritz Hohl
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>240 x 320</graphics>
+        <hardwares/>
+        <hardwareDescription></hardwareDescription>
+        <image>http://www.old-computers.com/museum/photos/mupid_mupid2_1s.jpg</image>
+        <keyboard>fullstroke keyboard, 77 keys with numeric keypad</keyboard>
+        <language>Basic</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=1112</link>
+            <link>http://much.iicm.edu/projects/overview.htm/</link>
+        </links>
+        <manufacturer>Mupid</manufacturer>
+        <media></media>
+        <name>Mupid 2</name>
+        <numGames></numGames>
+        <origin>Austria</origin>
+        <peripherals>External 5.25'' floppy drive unit</peripherals>
+        <ports>SCART video/audio output,, 2 x joystick connectors (DIN6), Tape interface (DIN8), Modem (DB25), Serial connector (DB9), External disk drive connector(DIN8)</ports>
+        <power>Built-in PSU</power>
+        <price>$7,900</price>
+        <production></production>
+        <ram>64 KB</ram>
+        <rom>16 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MUPID C2A2 CLOSE-UP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/mupid2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MUPID C2A2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/mupid1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MUPID II&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/mupid_mupid2_1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>Unknown</size>
+        <sound>4 voices, built-in speaker</sound>
+        <speed>3 MHz</speed>
+        <text>40 x 25</text>
+        <type>Home Computer</type>
+        <vram>64 KB</vram>
+        <year>1983</year>
+    </computer>
+</computers>

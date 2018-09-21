@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<games>
+    <game>
+        <developer>Sega</developer>
+        <genre>Arithmetic</genre>
+        <name>Mickey no Yukai na Bouken</name>
+        <players>1</players>
+        <publisher>Sega</publisher>
+        <releases>
+            <release>
+                <code></code>
+                <country></country>
+                <date></date>
+                <price></price>
+            </release>
+            <release>
+                <code>HPC-6001</code>
+                <country>JP</country>
+                <date>1993-06-26</date>
+                <price>&amp;Acirc;&amp;yen;3,980</price>
+            </release>
+            <release>
+                <code></code>
+                <country>KR</country>
+                <date>199x</date>
+                <price>&amp;acirc;&amp;copy;</price>
+            </release>
+        </releases>
+        <romSize>512KB</romSize>
+        <shots>http://segaretro.org/images/d/d2/MYB_pico_jp_title.png</shots>
+        <shots>http://segaretro.org/images/8/88/MnYnB_Pico_JP_Box.jpg</shots>
+        <shots>http://segaretro.org/images/5/5b/MnYnB_pico_jp_manual.pdf</shots>
+        <systems>Sega Pico</systems>
+    </game>
+</games>

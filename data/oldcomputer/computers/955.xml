@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Sinclair BASIC</builtInGames>
+        <colors>16</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>UA800 (Russian Z80A clone)</cpu>
+        <description>
+Many Spectrum clones were designed and manufactured in the Soviet Union or Russia, among them Spektr 48, Moskva, Robik and Sprinter. Some of them  greatly surpassed the features of the original Sinclair Spectrum.
+
+The Hobbit was one of the most famous Speccy clones. It was a quite powerful system, mainly used in education, and also known in some Western European countries.
+
+Like in many Eastern clones, the processor was a Russian version of the Z80A (UA800). However, the Hobbit had several powerful additional features: CP/M mode, Shadow mode allowing numerous BASIC extensions, various EEPROM configurations with additional languages like LOGO, Pascal, C or FORTH, network capabilities...
+
+The early version of the Hobbit was a very limited edition and stoped being manufactured around early 1990. But at that time, another manufacturer called InterCompex changed it into the later version with numeric keypad and more features.
+
+The Rage Hard magazine wrote about the Hobbit: &amp;quot;The Hobbit is a Soviet Spectrum clone that does everything Uncle Clive built into the original Speccy, plus lot of the things he forgot...&amp;quot; :-)
+
+After switching on the Hobbit, you could see classic Sinclair screen, but in the Russian Cyrillic language. Furthermore, there was a special key allowing the user to switch between the Cyrillic or Latin alphabets.
+
+One of the most amazing features was something like the early RAID system. In a Hobbit network, if some Hobbit in the network crashed during work, the &amp;quot;master&amp;quot; Hobbit could recover files and data from it.
+
+Thanks to Vladimir Kopacek for information and Dimitri Kokken for the picture
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>256 x 192 dots</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/Hobbit_System_1.jpg</image>
+        <keyboard>Full stroke 88 keys with function keys and numeric keypad. 33 reprogrammable keys, supports cyrillic/roman/arabic alphabets</keyboard>
+        <language>Sinclair BASIC</language>
+        <links/>
+        <manufacturer>Hobbit</manufacturer>
+        <media>None</media>
+        <name>Hobbit</name>
+        <numGames></numGames>
+        <origin>Russia</origin>
+        <peripherals>Up to 4 5.25'' FDD, tape recorder, printer, joystick, lightpen, mouse, HDD with special patch, later version came with built in 3,5'' FDD</peripherals>
+        <ports>System bus, Parallel, Serial RS232, 3 joystick ports (1 x Kepston, 2 x Sinclair), socket for language ROMs, TV out, TTL monitor out</ports>
+        <power>External power supply unit - 5v, 1.5A, 220-240v</power>
+        <price>About $170 equivalent</price>
+        <production></production>
+        <ram>64 Kb (could be switched in 48 Kb mode)</ram>
+        <rom>16 Kb</rom>
+        <screenshots/>
+        <size></size>
+        <sound></sound>
+        <speed>3.58 MHz</speed>
+        <text>32 chars. x 24 lines  (80 x 24 in CP/M mode)</text>
+        <type>Professional Computer</type>
+        <vram>6.5 Kb</vram>
+        <year>1990</year>
+    </computer>
+</computers>

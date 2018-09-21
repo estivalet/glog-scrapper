@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Word processor</builtInGames>
+        <colors>Monochrome</colors>
+        <controllers></controllers>
+        <coprocessor>second Z80 handling keyboard/display</coprocessor>
+        <cpu>Zilog Z80A</cpu>
+        <description>
+We don't know much about this strange French computer. It was designed by Patrick Jossier, an award winning French designer, to be used as a word processing computer and only few were sold.
+
+This computer was dedicated to word processing (with a 80*25 text resolution), had a 'hidden' CP/M OS launching the text processor at start. Main CPU was Z80/4MHz, the other Z80 was dedicated to keyboard/display, almost like an 'integrated terminal'.
+
+This computer was 100% french made, from hardware to software (except for the OS).
+
+The system pictured here is Logystem Ecritext 2
+
+________
+
+Contributor: Jean-Yves Gaulier
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>None</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/logystem_ecritext_1.jpg</image>
+        <keyboard>Full-stroke professional keyboard with numeric keypad</keyboard>
+        <language>Word processor</language>
+        <links/>
+        <manufacturer>Logystem</manufacturer>
+        <media>From one to three 5.25'' disk-drives</media>
+        <name>ECRITEXT</name>
+        <numGames></numGames>
+        <origin>France</origin>
+        <peripherals>Unknown</peripherals>
+        <ports>Unknown</ports>
+        <power>Built-in power supply</power>
+        <price>Unknown</price>
+        <production></production>
+        <ram>64 KB</ram>
+        <rom>Unknown</rom>
+        <screenshots/>
+        <size>Unknown</size>
+        <sound>Unknown</sound>
+        <speed>4 MHz</speed>
+        <text>80 x 25</text>
+        <type>Transportable</type>
+        <vram></vram>
+        <year>? 1982</year>
+    </computer>
+</computers>

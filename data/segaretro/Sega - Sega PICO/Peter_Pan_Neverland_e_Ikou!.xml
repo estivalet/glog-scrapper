@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<games>
+    <game>
+        <developer>Sega</developer>
+        <genre>Educational</genre>
+        <name>Peter Pan Neverland e Ikou!</name>
+        <players>1</players>
+        <publisher>Sega</publisher>
+        <releases>
+            <release>
+                <code></code>
+                <country></country>
+                <date></date>
+                <price></price>
+            </release>
+            <release>
+                <code>HPC-6047</code>
+                <country>JP</country>
+                <date>1997-09</date>
+                <price>&amp;Acirc;&amp;yen;3,980</price>
+            </release>
+            <release>
+                <code>HPC-6124</code>
+                <country>JP (10th Anniversary)</country>
+                <date>2003-06</date>
+                <price>&amp;Acirc;&amp;yen;2,980</price>
+            </release>
+        </releases>
+        <romSize>1MB</romSize>
+        <shots>http://segaretro.org/images/d/db/PPNeI_title.png</shots>
+        <shots>http://segaretro.org/images/1/1f/PPNeI_Pico_JP_Box.jpg</shots>
+        <shots>http://segaretro.org/images/2/24/PPNeI_pico_jp_manual.pdf</shots>
+        <shots>http://segaretro.org/images/0/0f/PPNeI_Pico_JP_Box_10th.jpg</shots>
+        <systems>Sega Pico</systems>
+    </game>
+</games>

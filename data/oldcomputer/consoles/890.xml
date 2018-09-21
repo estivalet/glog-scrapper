@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;PROMOTIONAL LEAFLET&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/fairchild_channelf_leaflet_1.jpg</link>
+            </advert>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;PROMOTIONAL LEAFLET #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/fairchild_channelf_leaflet_2.jpg</link>
+            </advert>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;PROMOTIONAL LEAFLET #3&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/fairchild_channelf_leaflet_3.jpg</link>
+            </advert>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;PROMOTIONAL PICTURE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This is a promotional picture for the Channel F System II.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/fairchild_channelf_sys2_promo-pic.jpg</link>
+            </advert>
+        </adverts>
+        <builtInGames>Hockey,Tennis</builtInGames>
+        <colors>8, only four different colors per line, unless black/white palette were chosen, then only these two colors on the whole line.</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Fairchild F8</cpu>
+        <description>
+The Channel F was the first programmable video game system, having plug-in cartridges containing ROM and microprocessor code rather than dedicated circuits. Not a very popular or entertaining system, it was nonetheless important at the time for having a number of original features which were copied by later more successful systems. 
+
+Unique to the console is a `hold' button that allowed the player freeze the game and also change either the time, the speed or both during the course of the game, without altering the score.  Another feature which was used for the Hockey game was `overtime' which allowed one minute of extra play should there be a tie-break in the score.
+
+Detached controllers were just starting to appear on `pong' units as opposed to having them directly on the unit itself.  The Channel F controllers which were attached to the unit with dedicated wires, were gripped by the whole hand and enabled movement in all directions, including the twisting left and right for `paddle' movement. There was no firebutton, the joystick had 8 way digital movement, forward/backwards, left/right, pull knob down/pull up and twist counter-/clockwise. 
+
+Fairchild released twenty-six different cartridges for the system, with up to four games being on each cartridge. The games included sports, such as Hockey, Tennis and Baseball, educational, such as Maths Quiz, board games, such as Checkers, and shooting games, such as Space War. The cartridges had labels that contained the game instructions on them and each were given a sequential number. In this respect Fairchild started a trend in trying to boost game sales by numbering them and so appealing to consumers who wanted to complete their collection.
+
+The Channel F console's popularity lowered when the Atari released their VCS in 1977 as the VCS had much better graphics, games and sound. Fairchild responded to the Atari VCS by changing the name of their console to the `Fairchild Channel F' from it's original name of the `Fairchild Video Entertainment System', but this did not raise flagging sales.
+
+In 1978, Zircon International Inc. bought the rights for the Channel F and released it as the Channel F System 2. This new system had some minor modifications : slightly different cosmetic design, sound output through TV speakers and the controller holders at the back of the unit. But this new model did not succeed either, as this time, Atari VCS, Intellivision and Odyssey&amp;sup2; were already on the market...
+
+In Sweden this console was sold as the Luxor Video Entertainment System.
+
+________
+
+Contributors: Abi Waddell, Fredric CJ Blaholtz, Bj&amp;ouml;rn Roman
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>This famous emulator, emulates the Channel F</description>
+                <link>http://www.mess.org</link>
+                <name>MESS</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics></graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/fairchild_channel-f_1.jpg</image>
+        <keyboard>Two `grip-stick' controllers attached to main unit with dedicated wires. 8 way digital movement, forward/backwards, left/right, pull knob down/pull up and twist counter-/clockwise</keyboard>
+        <language>Hockey,Tennis</language>
+        <links>
+            <link>http://www.classicgaming.com/museum/faqs/chffaq.shtml</link>
+            <link>http://www.fndcollectables.com/CHANNEL_F_INFO/channel_f_info.html</link>
+            <link>http://www.chris-hind.co.uk/mem01.html</link>
+            <link>http://w5.nuinternet.com/s660100106/</link>
+            <link>http://www.thepong.com/</link>
+            <link>http://videogames.org/html/ChannelFStuff/ChannelFIndex.html</link>
+            <link>http://en.wikipedia.org/wiki/Fairchild_Channel_F</link>
+        </links>
+        <manufacturer>Fairchild</manufacturer>
+        <media>Cartridges</media>
+        <name>Channel F</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals></peripherals>
+        <ports>TV out</ports>
+        <power>External power supply unit</power>
+        <price>$170 (USA, 1976)</price>
+        <production>1978</production>
+        <ram>64 bytes</ram>
+        <rom></rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;CONTROL PANEL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/fairchild_channelf_panel-control.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INSERTING A CARTRIDGE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/fairchild_channelf_zoom_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;HOLDING THE CONTROLLER&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/fairchild_channelf_controller_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;CHANNEL F SYSTEM II&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/fairchild_channelf_sys2_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SYSTEM II WITH BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/fairchild_channelf_sys2_2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This is the box of the &amp;quot;Video Entertainment System&amp;quot;, the first model.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/fairchild_channelf_box_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BOX #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Box of the &amp;quot;Channel F&amp;quot;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/fairchild_channelf_box_2.jpg</link>
+            </shot>
+        </screenshots>
+        <size></size>
+        <sound>First models : played through the console, built-in speakerSystem II : played through TV</sound>
+        <speed>2 MHz</speed>
+        <text></text>
+        <type></type>
+        <vram></vram>
+        <year>1976</year>
+    </computer>
+</computers>

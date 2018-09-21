@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Basic</builtInGames>
+        <colors>Black &amp;amp; white</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>NEC D780C-1 (Z80A clone)</cpu>
+        <description>
+The TONEL PC is another system based on the Lambda 8300 but marketed by another third company. It's a Sinclair ZX-81 with more RAM (2 KB!) and a &amp;quot;better&amp;quot; keyboard...
+
+We don't know exactly where this system was distributed and what was the real name of the brand...
+
+See Lambda 8300 entry for more info.
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>Excellent emulator emulating nearly all ZX computers (80, 81, Spectrums, Timex, etc.). As well as emulating the machines themselves, numerous addon cards are supported, including hi-res graphics, custom character sets, sound and colour cards.</description>
+                <link>http://www.chuntey.com/eightyone/</link>
+                <name>EightyOne</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Timex 1000 / ZX81 Emulator for DOS</description>
+                <link>ftp://oak.oakland.edu/SimTel/msdos/emulator/ts1000-c.zip</link>
+                <name>Timex Sinclair 1000</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Sinclair ZX81 Emulator (with Visual Basic sources). Excellent emulator</description>
+                <link>http://freestuff.grok.co.uk/vb81/</link>
+                <name>VB81</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>The best ZX emulator for PC compatibles</description>
+                <link>http://www.delhez.demon.nl/</link>
+                <name>X-Tender</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <link>http://www.maxon.de/homes/r_kurz/</link>
+                <name>ZX 81 Homepage</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <link>http://www.w-4.de/~kurz/</link>
+                <name>ZX81</name>
+                <platform>Apple emulator</platform>
+            </emulator>
+            <emulator>
+                <description>And other ZX-81 emulators there...</description>
+                <link>http://www.zx81.nl/</link>
+                <name>XZ81</name>
+                <platform>Unix / Linux emulator</platform>
+            </emulator>
+            <emulator>
+                <link>http://www.hh.schule.de/hhs/mjaap/ftp/zx81_v21.zip</link>
+                <name>ZX-81 Emulator 2.1</name>
+                <platform>Atari emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Java emulator</description>
+                <link>http://home.clara.net/rsergeant/</link>
+                <name>Java ZX81 Emulator</name>
+                <platform>Other platform emulator</platform>
+            </emulator>
+            <emulator>
+                <description>With this JAVA emulator, you'll be able to run a Timex/Sinclair 1000 in your browser window </description>
+                <link>http://www.vavasour.ca/jeff/trs80.html#ts1000</link>
+                <name>Timex/Sinclair 1000 Emulator (Java)</name>
+                <platform>Other platform emulator</platform>
+            </emulator>
+            <emulator>
+                <description>ZX-81 Emulator for the SonyEricsson P800 Smart Phone</description>
+                <link>http://www.tlienhard.com/ap800.shtml</link>
+                <name>zx81emu</name>
+                <platform>Other platform emulator</platform>
+            </emulator>
+            <emulator>
+                <description>MESS emulates the ZX-81, Lambda 8300, Power 3000 and other clones !</description>
+                <link>http://www.mess.org</link>
+                <name>MESS</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>64 x 48 (through semi-graphic symbols)</graphics>
+        <hardwares>
+            <hardware type="MEMORY EXPANSIONS">
+                <items>
+                    <item>
+                        <description>64 KB|||from Suntroncis|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;64 KB&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;from Suntroncis&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Suntronics T/S 1000 &amp;amp; ZX81 64K Memory Pack (Male Socket on Back, Female Socket on Front).&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/timex_1000-suntronics-64k_1.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Timex Sinclair 1016|||16k RAM extension|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;TIMEX SINCLAIR 1016&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;16k RAM extension&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/timex_sinclair-1000_16kram-1016.JPG</photo>
+                    </item>
+                </items>
+            </hardware>
+        </hardwares>
+        <hardwareDescription></hardwareDescription>
+        <image>http://www.old-computers.com/museum/photos/tonel_pc_1s.jpg</image>
+        <keyboard>Flat membrane rubber keyboard, 42 keys, QWERTY</keyboard>
+        <language>Basic</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=477</link>
+            <link>computer.asp?st=1&amp;amp;c=925</link>
+            <link>computer.asp?st=1&amp;amp;c=928</link>
+            <link>computer.asp?st=1&amp;amp;c=1179</link>
+            <link>computer.asp?st=1&amp;amp;c=1168</link>
+            <link>computer.asp?st=1&amp;amp;c=262</link>
+            <link>computer.asp?st=1&amp;amp;c=263</link>
+            <link>http://zx81.achromic.co.uk/</link>
+            <link>http://www.8bit.ht.st/</link>
+            <link>http://web.ukonline.co.uk/sinclair.zx81/</link>
+            <link>http://james.istop.com/zx81/</link>
+            <link>http://www.nvg.ntnu.no/sinclair/computers/zx81/zx81.htm</link>
+            <link>http://www.xs4all.nl/~echorod/zx/index.htm</link>
+            <link>http://zx81.atspace.com/</link>
+            <link>http://www.ts1000.us/</link>
+            <link>http://www.zebrasystems.com/zebrasystems/zx81/index.html</link>
+            <link>http://www.zx81stuff.org.uk/</link>
+            <link>http://zx81.tlienhard.com/</link>
+            <link>http://www.honneamise.u-net.com/zx81/</link>
+            <link>http://www.imarshall.karoo.net/zx81/zx81technical.htm</link>
+            <link>http://www.zx81.de/webring/index.htm</link>
+            <link>http://www.zx81.de/</link>
+            <link>http://www.zx81.de/</link>
+            <link>news:comp.sys.sinclair</link>
+        </links>
+        <manufacturer>Tonel</manufacturer>
+        <media></media>
+        <name>PC</name>
+        <numGames></numGames>
+        <origin>Europe</origin>
+        <peripherals>16 KB &amp;amp; 32 KB RAM memory upgrades, Color Kit expansion, joystick, printer</peripherals>
+        <ports>DC Power in, Tape interface (EAR &amp;amp; MIC), Composite video output, RF TV video output, expansion bus, joystick connector</ports>
+        <power>External power supply (12v)  - -(o- +</power>
+        <price>Unknown</price>
+        <production></production>
+        <ram>2 KB</ram>
+        <rom>8 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;TONEL PC&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/tonel_pc_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;REAR&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/tonel_pc_rear.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;LOGO&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/tonel_pc_logo.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;OPENED&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/tonel_pc_opened.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;ROM CHIPSET&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/tonel_pc_rom.jpg</link>
+            </shot>
+        </screenshots>
+        <size>295 x 150 x 55 mm / 700 gr</size>
+        <sound>1 voice sound generator</sound>
+        <speed>3,25 MHz</speed>
+        <text>32 x 24</text>
+        <type>Home Computer</type>
+        <vram></vram>
+        <year>? 1983</year>
+    </computer>
+</computers>

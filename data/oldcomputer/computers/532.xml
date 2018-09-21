@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FRENCH ADVERT (1983)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This advert dated september 1983 says : &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; &amp;quot;&amp;lt;b&amp;gt;Orchidée : the fabulous computer&amp;lt;/b&amp;gt; (!)&amp;lt;br&amp;gt; With Orchidee, discover you can drive a formula 1 computer and never open the hood. Orchidee offers power and speed of a real professional computer with, as a gift, a lot of innovations never yet combined : interchangeable processors, including the fabulous IAPX 186, removable software cartridges, mouse, light pen. Whether you are a computer specialist or not, you have a fabulous professional tool.&amp;quot;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/symag_orchidee_pub_1.jpg</link>
+            </advert>
+        </adverts>
+        <builtInGames>One or two 5''1/4 floppy-discs (1Mb)10 Mb Hard-disk (optional)</builtInGames>
+        <colors>8 (optional)</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Z80 (4 Mhz) or Intel 80186 (8 Mhz)</cpu>
+        <description>
+The last computer made by Symag presents an original concept : using the same central unit, user can choose between several processors. Back then, the Symag chairman said : &amp;quot;No other computer in the world combines as much innovative features&amp;quot;. And indeed, on the paper, the Orchydee was very promising, being, for example, power-cut proof.
+
+The basic model is provided with either an 8 bits Z80 microprocessor, or a 16 bits 80186, thus allowing the system to be used with 8 bits and 16 bits O.S. (CP/M, CP/M86 or MS-DOS). Each microprocessor is delivered in a cartridge to be inserted in front of the computer. Smaller ROM software cartridges can also be inserted into this bigger cartridge. The 80186 version of the Orchidee is partially compatible with PC standard.
+
+The Orchyd&amp;eacute;e was first presented at the SICOB show (Paris, France) in october 83, but in june 84 not a single computer has been sold ! Indeed in may 84, the Symag loss are equal to 4 millions FF, for a turnover of 25 millions FF instead of the 38 millions FF planned. This brutal change is officialy due to a subcontractor failing, which prevented the Orchyd&amp;eacute;e from being produced. The failure concerns the main case of the Orchyd&amp;eacute;e. Christian Coeur, the Sales Manager, says : &amp;quot;We have been betrayed by one of our suppliers who couldn't fulfill our quality requests. It was then necessary to find another subcontractor to replace the first one&amp;quot;.
+
+Another official explanation was : &amp;quot;Before the SICOB 83 we had 4 persons working nights and days on the Orchyd&amp;eacute;e and thanks to them we could present the project on time at the Show. But after that we employed 15 persons who were finishing work at 5.00 PM (!), and the four guys of the beginning were on the road to promote the product. Realize the we had 50 millions francs worth of placed orders, and we didn't fulfilled any !&amp;quot;
+
+But unofficialy, the true explanation is that all the innovative features announced could not be totally realised in laboratories :
+- first, only one ROM cartridge out of the many promised was effetively produced, and it was only used to start the MOTUS wordprocessor, which was partially stored on a floppy disk (!).
+- Symag encountered many technical problems conceiving the promised high-resolution monochrom monitor, and the solution was only found after the company went bankrupt.
+- Symag had also quite a lot of difficulties to implement the 80186 cpu working at 8 Mhz, and the first Orchyd&amp;eacute;es equiped with this CPU were only delivered after the bankruptcy.
+- the 13Mb hard-disk : Symag chosed a common controler (hard-disk &amp;amp; floppies) which creates 8 sectors per track on the floppies, whereas the controler implemented on the models without the hard-disk, creates 9 sectors per track. The result is that floppies created on one model couldn't be read by an other ! Symag had to send technicians to modify the ROMs of each Orchyd&amp;eacute;es sold (not that many you will tell me)...
+- the power-cut security feature : Symag promised a way to save the work in progress in case of power cut. In fact only 256 bytes could be saved, which was of course not enough to save the user work in progress.
+
+Thus, whereas the production should have started from january 84, it is still not operative in june 84. The objective of 1000 Orchyd&amp;eacute;es produced in 1984 is logicaly reduced to 500, and investors start to be more than upset.
+
+Moreover, the original concept of the Orchyd&amp;eacute;e will not be enough to insure commercial success compared to cheaper PC &amp;amp; compatible computers, and the Symag company, based in Grenoble (France), will collapse a few months later. Indeed in June 1984 Symag goes bankrupt and while the company is restructured in a 3 companies holding, Control Data is chosen to produce 60 Orchyd&amp;eacute;es a month from September. Only high-end models with hard-disks and color monitors will be produced.
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>768 x 576 pixels</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/symag_orchidee_1.jpg</image>
+        <keyboard>Full-stroke keyboard with numeric keypad and 10 function keys</keyboard>
+        <language></language>
+        <links/>
+        <manufacturer>SYMAG Informatique</manufacturer>
+        <media>One or two 5''1/4 floppy-discs (1Mb)10 Mb Hard-disk (optional)</media>
+        <name>Orchid&amp;eacute;e</name>
+        <numGames></numGames>
+        <origin>France</origin>
+        <peripherals>12'' color monitor ($1228), 11.2 Mb 5.25'' hard-disk ($1633), Light Pen ($258), Mouse ($331), 8 colors graphic card ($1456)</peripherals>
+        <ports>1 x Serial RS232, 1 x Parallel Centronics, IEEE488, SCSI</ports>
+        <power>Built-in PSU</power>
+        <price>from $6252  to $8858 depending models (France, september 1983)</price>
+        <production></production>
+        <ram>256 Kb, expandable to 1Mb</ram>
+        <rom></rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;THE ORCHIDÉE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This black &amp;amp; white picture shows the mouse and the light-pen.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/symag_orchidee_nb_1.jpg</link>
+            </shot>
+        </screenshots>
+        <size></size>
+        <sound></sound>
+        <speed></speed>
+        <text>25 lines x 80 char.</text>
+        <type>Professional Computer</type>
+        <vram></vram>
+        <year>September 1983</year>
+    </computer>
+</computers>

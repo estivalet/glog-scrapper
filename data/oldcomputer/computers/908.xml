@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>only machine code entered through the hexadecimal keyboard</builtInGames>
+        <colors>Red!</colors>
+        <controllers></controllers>
+        <coprocessor>1861 video chip</coprocessor>
+        <cpu>RCA 1802</cpu>
+        <description>
+The SuperElf single-board computer was made by Quest Electronics. It was an improvement of the Netronics Elf and Elf II training boards, also based on the RCA 1802, one of the first RISC microprocessors.
+
+The board also featured an 1861 video chip that was closely tied ot the 1802 to generate a video image of 128x64 dots.
+
+Two, four or six 7-segment Led display could be used.
+Its hexadecimal keyboard allowed programs to be entered and controlled more efficiently thanks to 8 function keys:
+I - Input
+L - Load mode
+R - Reset
+G - Go (run mode)
+W - Wait (processor clock could be stopped)
+M - enable Monitor ROM
+S - Single step
+P - Protect memory
+
+The main board had connections for a speaker (and a circuit to drive the speaker). Sound was entirely software driven as the hardware simply had a single digital output bit (Q) tied to an LED and also to the speaker.
+
+An optional expansion board could be added, providing serial port (software driven), cassette interface (also software driven), 1 KB ROM monitor, optional 2K tiny basic, 4 KB RAM.  2 S-100 slots where additional static memory or a video board could be used. Along with a Super Monitor, there where two versions of pitman's tiny basic, one that used the 1861 video chip and another that used a 64 characters x16lines s-100 video board. 
+
+The cassette's output used the same 'Q' output used for audio on the main board, which meant that you heard all of your data as it was written out to cassette.
+
+The 9 LEDs along the left side of the keypad indicate the state of the 'Q' output, the current operating mode (Load, Reset, Run, Wait) as well as the current state of the CPU (Fetch, Execute, DMA, Interrupt).
+
+
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>Emulation of 1802-based computer now on Mac OS X</description>
+                <link>http://www.tinyelf.com/</link>
+                <name>TinyELF for MacOS</name>
+                <platform>Apple emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Elf, Elf II, Super ELF and Studio II emulator (Windows compilation also available)</description>
+                <link>http://www.elf-emulation.com/emulator.html</link>
+                <name>RCS Elf Emulator</name>
+                <platform>Unix / Linux emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Emulates an Elf computer on PalmOS systems. The Elf is quite similar to the Cosmac VIP.</description>
+                <link>http://www.cosmacelf.com/tinyelf.htm</link>
+                <name>TinyELF for PalmOS</name>
+                <platform>Other platform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics></graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/RCA_Cosmac_SuperElf_System_2.jpg</image>
+        <keyboard>24 keys with 8 function keys</keyboard>
+        <language>only machine code entered through the hexadecimal keyboard</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=543</link>
+            <link>http://groups.yahoo.com/group/rcacosmac/</link>
+            <link>http://www.cosmacelf.com/</link>
+            <link>http://www.elf-emulation.com</link>
+        </links>
+        <manufacturer>RCA</manufacturer>
+        <media>tape recorder</media>
+        <name>SuperElf</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals>4 KB RAM card, S-100 bus</peripherals>
+        <ports>External power transformer, optional expansion connector</ports>
+        <power>Power regulation on board</power>
+        <price>$119 (with 256 bytes RAM)</price>
+        <production></production>
+        <ram>256 bytes</ram>
+        <rom>Unknown</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;ELECTRONIC BOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/RCA_Cosmac_SuperElf_System_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;STANDARD QUEST WOODEN BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/quest_super-elf_case_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;METAL BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;Mike Riley&amp;lt;/b&amp;gt; from &amp;lt;a href=&amp;quot;http://www.elf-emulation.com&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;www.elf-emulation.com&amp;lt;/a&amp;gt; relates : &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; ''I was told that this case is one of a kind, Quest only sold the expanded metal cases and never went beyond the prototype with this basic metal case''&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/quest_super-elf_case_2.jpg</link>
+            </shot>
+        </screenshots>
+        <size>Unknown</size>
+        <sound>speaker hooked to Q output - shared with Q LED.  (Twiddle Q output at a fixed frequency - get that frequency out)</sound>
+        <speed>1.79 MHz</speed>
+        <text>2 to 6 7-segment Led display (on all the time)</text>
+        <type>Home Computer</type>
+        <vram></vram>
+        <year>1978</year>
+    </computer>
+</computers>

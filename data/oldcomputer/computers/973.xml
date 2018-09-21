@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>None</builtInGames>
+        <colors></colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Vacuum tubes array</cpu>
+        <description>
+In March 1951, The Eckert and Mauchly Computer Co. of Philadelphia delivered the UNIVAC 1 (Universal Automatic Computer) to the U.S. Census Bureau. The machine was put into service on June 14, 1951. It was retired on October 3, 1963 after 73,000 hours of operation. In the meantime, Remington Rand (now Unisys Corp.) sold 45 UNIVAC 1 machines to U.S. government agencies and private-industry.
+
+Although it was not the first commercial computer (The Ferranti Mark I was delivered a few months earlier), the Univac 1 is considered the first modern digital computer and marked the real beginning of the computer industry. For five years, this was the best large scale computer in use for data processing. Technically, it was the first where the program and data were stored in the same memory space, data and programs were fetched from memory, manipulated in registers, and results returned to memory. Every computer since the Univac 1 has used some variation of that architecture.
+
+The beast was really imposing, It weighted more than 13 tons, held 5200 vacuum tubes and used 125 Kwatts of electricity. A simple addition instruction took about 100 microseconds (about 200,000 times slower than a Pentium III), time for a divide instruction was of 3,600 microseconds. Large magnetic tape units and card puncher/readers were used for data input, storage and output. Results could also be printed on a high-speed printer (600 lines per minute).
+
+The first computer game was created on the Univac. It was called NIM and allowed humans to compete against the machine in a mathematical contest.
+In 1952, the Univac also correctly predicted that Eisenhower would win in the Eisenhower-Stevenson presidential race, but the news media decided not to make the prediction public.
+
+Thanks to Andy Davis for the picture.
+
+__________
+
+William F. Steagall reports:
+I was a junior engineer at Eckert-Mauchly Computer Corp. My role in designing UNIVAC was small, but I did make a contribution to it. 
+One clarification I would offer is that during the 1952 elections, the program we ran to forecast the victor in the presidential election had Eisenhower as winner as soon as the first few votes came in. Dramatic efforts were made to reduce the prediction of 100 to one for Eisenhower, but we never got the forecast below about 20 to one. 
+We had wonderful fun doing our jobs. 
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>Univac I &amp;amp; II emulator !</description>
+                <link>http://www.ingerman.org/niche.htm#UNIVAC</link>
+                <name>UNIVAC simulator</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics></graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/Remington_Univac1_System_s1.jpg</image>
+        <keyboard>Binary, control and ASCII keyboards</keyboard>
+        <language>None</language>
+        <links>
+            <link>http://www.thocp.net/hardware/univac.htm</link>
+            <link>http://www.computermuseum.li/Testpage/UNIVAC-1-FullView-B.htm</link>
+            <link>http://mywebpage.netscape.com/reitery2k/univac1.htm</link>
+        </links>
+        <manufacturer>Remington Rand</manufacturer>
+        <media>Magnetic tapes</media>
+        <name>Univac 1</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals></peripherals>
+        <ports></ports>
+        <power></power>
+        <price>$750,000 FOB factory.High-speed line printer:  $185,000 </price>
+        <production>Unknown</production>
+        <ram>1000 words of 72 bits in delay lines</ram>
+        <rom></rom>
+        <screenshots/>
+        <size>4,25 (W) x 2,45 (D) x 2,60 (H) meters, floor space: 943 cubic feet / 13.1 tons</size>
+        <sound></sound>
+        <speed>1,905 operations per second</speed>
+        <text></text>
+        <type>Professional Computer</type>
+        <vram></vram>
+        <year>March 1951</year>
+    </computer>
+</computers>

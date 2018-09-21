@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;US ADVERT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Advert for Instructor 50, Byte March 1979, Page 45.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/Byte (Ad for Instructor 50)(March 1979, Page 45).jpg</link>
+            </advert>
+        </adverts>
+        <builtInGames>Hexadecimal Monitor</builtInGames>
+        <colors>None</colors>
+        <controllers></controllers>
+        <coprocessor>Signetics 2656</coprocessor>
+        <cpu>Signetics 2650</cpu>
+        <description>
+The Instructor 50 was a small system designed to teach the use and programmation of the Signetics 2650 CPU. But it was also a real micro-computer with a tape interface to save and load programs, and a S-100 compatible expansion bus.
+
+It actually belonged to a second generation training computers: unlike its predecessors, it wasn't just a raw electronic board, but offered a real plastic case, S-100 bus, tape-interface, etc....
+
+The built-in display was only a eight-digit, seven-segment LED display... When turned on it displays &amp;quot;HELLO&amp;quot;. The keyboard was made of an hexadecimal keypad (16 keys) and function keypad (12 keys). Interaction is also made through 8 parallel I/O switches and their corresponding LEDs.
+
+The only software built-in the system was the monitor (called User System Executive or USE), used to program the Instructor 50. Of course, programmation was made in hexadecimal through a simplistic assembler.
+
+The 2 KB ROM was used to store the monitor. RAM was 640 bytes, but 128 bytes were used by the monitor, leaving 512 bytes for programmation. But having 14 address lines, the 2650 CPU was capable of addressing 32K bytes !
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>emulates the Emerson Arcadia 2001 console family, the Interton VC 4000 console family, the Elektor TV Games Computer and the Signetics Instructor 50 computer</description>
+                <link>http://amigan.classicgaming.gamespy.com/</link>
+                <name>WinArcadia</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>emulates the Emerson Arcadia 2001 console family, the Interton VC 4000 console family, the Elektor TV Games Computer and the Signetics Instructor 50 computer </description>
+                <link>http://amigan.classicgaming.gamespy.com/</link>
+                <name>AmiArcadia</name>
+                <platform>Amiga OS emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>None</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/Signetics_Instr50_System_s1.jpg</image>
+        <keyboard>1 hexadecimal keypad + 1 function keypad</keyboard>
+        <language>Hexadecimal Monitor</language>
+        <links>
+            <link>http://amigan.classicgaming.gamespy.com/</link>
+        </links>
+        <manufacturer>Signetics</manufacturer>
+        <media>None</media>
+        <name>Instructor 50</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals></peripherals>
+        <ports>Tape interface, S100 compatible expansion bus</ports>
+        <power>External power supply (5V or 8V depending on models)</power>
+        <price>350$ (USA, 1978)</price>
+        <production></production>
+        <ram>128 bytes (used by the monitor) + 512 bytes (free for the user)</ram>
+        <rom>2 KB (monitor)</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INSTRUCTOR 50&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Signetics_Instr50_System_s2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;EARLY MODEL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Early models were labeled ''Signetics 2650 Instructor''&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/signetics_instructor-50_3.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;KEYBOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The right keypad allows to enter Hexadecimal data, the left one manages the ROM monitor - program Run/Stop, breakpoints, CPU registers and memory contents.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Signetics_Instr50_Keyboard_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;I/O SWITCHES&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Each parallel I/O line has its own switch and LED.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Signetics_Instr50_Keyboard_s2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;2650 INSTRUCTIONS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;All the 2650 instructions along with their Hex codes are printed onto the user panel.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Signetics_Instr50_Keyboard_s3.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BACK SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;S100 connector and AC adaptor jack.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Signetics_Instr50_Rear_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;UNDERNEATH&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Signetics_Instr50_Underneath_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SIGNETICS LABEL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Signetics_Instr50_Label_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MOTHERBOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(1)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; 512 Bytes RAM chips (4x2112)&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(2)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; 2656 chip, holds the clock generator, 2 KB ROM (Monitor), 128 bytes RAM and I/O decoding&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(3)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Signetics 2650 CPU&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(4)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Parallel lines decoder&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(5)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Tape recorder jacks&amp;lt;br&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Signetics_Instr50_Mainboard_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;RUNNING&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Signetics_Instr50_Mainboard_s2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MANUALS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Complete set of Signetics and Instructor 50 manuals, along with the Instructor demo cassette.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Signetics_Instr50_Manuals_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;LOGIC DIAGRAM&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Signetics_Instr50_Diagram_s1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>35 (W) x 25 (D) x 7.5 (H) cm / 1.1 kg</size>
+        <sound>None</sound>
+        <speed>895 kHz</speed>
+        <text>LED display - 1 line of 8 characters</text>
+        <type>Professional Computer</type>
+        <vram></vram>
+        <year>1978</year>
+    </computer>
+</computers>

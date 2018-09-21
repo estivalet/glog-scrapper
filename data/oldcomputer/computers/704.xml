@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>48K Spectrum BASIC and 128K Spectrum ZX+3 BASIC  with +3 DOS (probably)</builtInGames>
+        <colors>8</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>MMN-80. East European clone of the Z80-A</cpu>
+        <description>
+The CIP-04 seems to be a clone of the Sinclair Spectrum +3.
+
+However, despite similar or higher technical features (256 KB of RAM, 64 KB of ROM, built-in Floppy Disk Drives), the system was not compatible with all Spectrums because of its 3.5&amp;quot; FDD instead of the 3&amp;quot; Spectrum model (though the 3.5&amp;quot; FDD was a better choice).
+
+The 64 KB of ROM probably hold the 48K Spectrum BASIC, 128K Spectrum ZX+3 BASIC and CP/M operating system
+
+Additional information from Grecu Cristi:
+The CIP-04 is very close to Sinclair ZX Spectrum +3, probably the only +3 clone from Romania. It's ROM software is almost identical; but at power-on the message is &amp;quot;(c)&amp;quot; instead &amp;quot;(c) Amstrad...&amp;quot;.
+The menu is identical, with loader, 128 BASIC, Calculator and 48K basic. It has the AY-3-8912 sound chip, the video connector is also used for sound output.
+The disk is managed through +3DOS, a method cloned from Amstrad's +3. The disk is 3,5&amp;quot;, single sided, double density, 40 tracks. It's somekind silly to use 720K floppies, and use only 1/4 of its capacity! But I think this is also cloned from +3. The controller chip is a CM609P, a russian clone of the 8272. Being a total clone, I bet it can also run CP/M.
+It has a one-direction parallel port, providing 8 data lines, STROBE and ACK. No PIO was used, it is probably controlled by soft. It also has a serial connector, but no UART is used. Also probably driven by software. Transistors were used instead of the classic MC-1488. Very unprofessional!
+Joystick connector: Two Sinclair joystics. Uses keys 1..0.
+Memory: Although near the keyboard is said BIG, &amp;quot;256 kbytes&amp;quot;, from the 128K basic interpretor we may access only 128 KB. The memory consists of eight K565RU7G, 256 Kbits each. So indeed, it has 256  Kbytes!
+Two M27C256B (64 KB) hold the ROM software, just like the +3. I also saw about 5 more ROMs, MN74L287, 256*4 bits each. I don't know what are those good for.
+Something stupid: The expansion bus is very close to the power supply jack, so there is no space to plug in a peripheral. Not even the original Electronica's joystick interface.
+Power supply issues: It needs 5V, plus on the central pin. Careful: Like all the CIPs, it hasn't internal stabiliser. +12V is provided inside for the serial interface and other chips.
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>256 x 192</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/Electronica_CIP256_System_2.jpg</image>
+        <keyboard>Full-stroke keyboard, QWERTY, 40 keys (same as CIP-64)</keyboard>
+        <language>48K Spectrum BASIC and 128K Spectrum ZX+3 BASIC  with +3 DOS (probably)</language>
+        <links/>
+        <manufacturer>Electronica</manufacturer>
+        <media>3.5'' disk drive</media>
+        <name>CIP-04</name>
+        <numGames></numGames>
+        <origin>Romania</origin>
+        <peripherals>All Sinclair/Spectrum extensions using the expansion bus connector</peripherals>
+        <ports>TV/RF, Composite video, tape recorder, serial and parallel ports, expansion bus connector, DC in, joystick</ports>
+        <power>External Power supply unit (5V - 2A)</power>
+        <price>5000 lei (Romania, 1992)</price>
+        <production>1994</production>
+        <ram>256 KB</ram>
+        <rom>64 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;REAR CONNECTORS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;(1)&amp;lt;/b&amp;gt; Joyctick DB9 connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(2)&amp;lt;/b&amp;gt; Power supply jack plug. An external PSU supply the power&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(3)&amp;lt;/b&amp;gt; Expansion/Z80 bus connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(4)&amp;lt;/b&amp;gt; Parallel interface DB 25 connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(5)&amp;lt;/b&amp;gt; Serial port DIN plug&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(6)&amp;lt;/b&amp;gt; Tape recorder DIN plug&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(7)&amp;lt;/b&amp;gt; Composite video DIN plug&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(8)&amp;lt;/b&amp;gt; TV modulator output&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(9)&amp;lt;/b&amp;gt; Reset switch&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Electronica_CIP256_Back_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INSIDE CIP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Like the CIP-64, this version doesn't use any ULA custom chip, but only standard East European chips.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(1)&amp;lt;/b&amp;gt; RF/TV aerial modulator&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(2)&amp;lt;/b&amp;gt; Composite video DIN plug&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(3)&amp;lt;/b&amp;gt; Tape recorder DIN plug&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(4)&amp;lt;/b&amp;gt; Serial port DIN plug&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(5)&amp;lt;/b&amp;gt; Parallel port DB25 connector &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(6)&amp;lt;/b&amp;gt; FDD controller chip&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(7)&amp;lt;/b&amp;gt; MMN-80 processor (Z80-A clone)&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(8)&amp;lt;/b&amp;gt; Expansion/Z80 Bus connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(9)&amp;lt;/b&amp;gt; 2 x 27C256 ROM chips (32 KB x 2)&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(10)&amp;lt;/b&amp;gt; Joystick DB9 connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(11)&amp;lt;/b&amp;gt; 8 East European memory chips holding 256 KB of RAM&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Electronica_CIP256_Inside_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MOTHERBOARD CLOSE-UP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Electronica_CIP256_MotherBoard.jpg</link>
+            </shot>
+        </screenshots>
+        <size>32.5(W) x 27.5(D) x 7(H) cm.</size>
+        <sound>AY-3-8912 3 voice + white noise sound generator</sound>
+        <speed>3.5469 MHz</speed>
+        <text>32 x 24</text>
+        <type>Home Computer</type>
+        <vram></vram>
+        <year>1992</year>
+    </computer>
+</computers>

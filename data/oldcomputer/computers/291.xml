@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>MSX-BASIC V3.0</builtInGames>
+        <colors>19268</colors>
+        <controllers></controllers>
+        <coprocessor>Yamaha V9958 Video Display Processor</coprocessor>
+        <cpu>Zilog Z80</cpu>
+        <description>
+After Microsoft left the MSX project in 1986, ASCII continued alone. They presented a new improvement of the MSX 2 standard in 1988.
+
+No great enhancements, the MSX 2+ has 19268 colors instead of 512, some more graphic / KANJI resolutions and the FM-PAC cartridge is included, providing 9 channels of FM sound without drums or 6 channels FM sound with 5 FM drums.
+
+MSX2+ computers were only produced by Panasonic, Sony and Sanyo (the one pictured here is the Panasonic FS A1 WSX). There were only available in Japan...
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>Excellent emulator for Windows</description>
+                <link>http://www.bluemsx.com/</link>
+                <name>BlueMSX</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>This new MSX emulator can reproduce, among many other MSX, MSX2and  MSX2+ machines, both Panasonic Turbo-R models. Be sure to get the catapult frontend and the system roms from FUNET. </description>
+                <link>http://openmsx.sourceforge.net/</link>
+                <name>openMSX - The MSX emulator that aims for perfection.</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>Same as MSX2 specs, plus 256 &amp;times; 212/424Additional KANJI screen modes (Japanese text screen modes): 40x24, 32x24, 256x192, 64x48</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/panasonic_fs-a1wsx_1.jpg</image>
+        <keyboard>Full-stroke keyboard</keyboard>
+        <language>MSX-BASIC V3.0</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=626</link>
+            <link>computer.asp?st=1&amp;amp;c=621</link>
+            <link>computer.asp?st=1&amp;amp;c=778</link>
+            <link>computer.asp?st=1&amp;amp;c=779</link>
+            <link>http://www.file-hunter.com/</link>
+            <link>http://www.faq.msxnet.org/msx2p.html</link>
+        </links>
+        <manufacturer>MSX</manufacturer>
+        <media>720 KB 3,5'' floppy drive built in</media>
+        <name>MSX 2+</name>
+        <numGames></numGames>
+        <origin>Japan</origin>
+        <peripherals></peripherals>
+        <ports>Joystick(1 or 2), Cardridge(2), Tape(1200/2400 bauds), RGB video output, CVBS/RF video output, Centronics, Sound output</ports>
+        <power>Built-in PSU</power>
+        <price></price>
+        <production></production>
+        <ram>at least 64 KB</ram>
+        <rom>32 KB (Basic &amp;amp; BIOS) + 16 KB (SUB ROM &amp;gt; MSX-BASIC V3.0) + 16 KB (KANJI BASIC ROM + KANJI ROM) + 16 KB (DISK ROM)</rom>
+        <screenshots/>
+        <size></size>
+        <sound>FM-PAC (OPLL YM-2413) - 9 channel FM synthesizer</sound>
+        <speed>3.58 MHz</speed>
+        <text>40 x 24 / 32 x 24</text>
+        <type>Home Computer</type>
+        <vram>64 KB or 128 KB (up to 192 KB)</vram>
+        <year>1988</year>
+    </computer>
+</computers>

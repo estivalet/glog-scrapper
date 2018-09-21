@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames></builtInGames>
+        <colors>512</colors>
+        <controllers></controllers>
+        <coprocessor>Video Display Processor : V9938 (MSX-VIDEO)</coprocessor>
+        <cpu>Zilog Z80A or equivalent</cpu>
+        <description>
+After the (relative) success of the MSX 1 computer (in Japan, Europe and South America), Microsoft and ASCII presented its successor. The main new feature was the very enhanced graphic modes, no other computers were able to display such graphics! The 128 KB VRAM was very impressive! It had a battery-backed clock and a new MMU (to handle more than the Z80 64KB limit). 
+The MSX 2 standard, like the MSX 1, was designed by ASCII, the new operating system MSX DOS 2.0 was designed by Microsoft (it's almost a copy of MS-DOS 3.3). A while after launching the MSX 2 standard, Microsoft abandoned the project, but several manufacturers took it over.
+
+John van Poelgeest adds:
+As the MSX2 and MSX2+ computers were very alike, it did not take long to have a MSX2 computer rebuilt with the MSX2+ VDP (V9958 from Yamaha) and the BIOS chips from the MSX2+, making the MSX2 computer a fully compatible MSX2+. The one thing lacking was the MSX-Music (FM-Pac), but this could be added by using a cartridge.
+
+Toby comments:
+Note that MSX-DOS 2 did not ship with any MSX2 by default. It was developed later and sold as an external cartridge (with the kernel) and 3.5&amp;quot; diskette (containing the OS files). The only computer to ship with MSX-DOS 2 was the MSX turboR (both the ST and the GT) which had MSX-DOS version 2.3x built in.
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <link>http://www.komkon.org/~dekogel/fmsx.html</link>
+                <name>fMSX for MS DOS Homepage</name>
+                <platform>MS DOS emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Excellent free MSX emulator</description>
+                <link>http://www.bluemsx.com/</link>
+                <name>BlueMSX</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>A Bresilian MSX Emulator written in 100% assembler</description>
+                <link>http://www.lsi.usp.br/~ricardo/brmsx.htm</link>
+                <name>BrMSX</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>A MSX1 and MSX2 Emulator</description>
+                <link>http://ftp.castel.nl/msx/</link>
+                <name>CompuJunk's MSX Emulator</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>A MSX Emulator for Win95 and Win NT + Direct X</description>
+                <link>http://members.ping.at/lexlechz/msx.html</link>
+                <name>RuMSX</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>An other MSX 1 emulator for Win 95 / Win NT</description>
+                <link>http://www.msxnet.org/vmsx/</link>
+                <name>Virtual MSX</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <link>http://www.emulation.net/msx/index.html</link>
+                <name>fMSX for MAC OS Homepage</name>
+                <platform>Apple emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Demo version</description>
+                <link>ftp://peon.net/pub/mirrors/ar/msx/amimsx23.lha</link>
+                <name>AmiMSX</name>
+                <platform>Amiga OS emulator</platform>
+            </emulator>
+            <emulator>
+                <description>MSX 1 Emulator for Atari ST/TT/Falcon</description>
+                <link>ftp://ftp.funet.fi/pub/msx/stemu/msx0-012.zip</link>
+                <name>MSX-Emulator</name>
+                <platform>Atari emulator</platform>
+            </emulator>
+            <emulator>
+                <description>fMSX is a portable MSX emulator ported on : Amiga OS, Mac OS, MS DOS, OS/2, Sony Playstation, Risc OS, Towns OS, Unix / X, Win95 / NT, X68K.</description>
+                <link>http://www.komkon.org/fms/fMSX</link>
+                <name>fMSX official Homepage</name>
+                <platform>Other platform emulator</platform>
+            </emulator>
+            <emulator>
+                <description>The excellent fMSX, but ported onto the GamePark GP32 handheld console.</description>
+                <link>HTTP://WWW.RETRODEV.INFO/</link>
+                <name>fMSX32</name>
+                <platform>Other platform emulator</platform>
+            </emulator>
+            <emulator>
+                <description>This new MSX emulator can reproduce, among many other MSX, MSX2and  MSX2+ machines, both Panasonic Turbo-R models. Be sure to get the catapult frontend and the system roms from FUNET. </description>
+                <link>http://openmsx.sourceforge.net/</link>
+                <name>openMSX - The MSX emulator that aims for perfection.</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>64 x 48 / 256 x 192 / 256 x 212 / 512 x 212</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/</image>
+        <keyboard></keyboard>
+        <language></language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=618</link>
+            <link>computer.asp?st=1&amp;amp;c=619</link>
+            <link>computer.asp?st=1&amp;amp;c=862</link>
+            <link>computer.asp?st=1&amp;amp;c=773</link>
+            <link>computer.asp?st=1&amp;amp;c=281</link>
+            <link>computer.asp?st=1&amp;amp;c=137</link>
+            <link>computer.asp?st=1&amp;amp;c=854</link>
+            <link>computer.asp?st=1&amp;amp;c=790</link>
+            <link>computer.asp?st=1&amp;amp;c=662</link>
+            <link>computer.asp?st=1&amp;amp;c=430</link>
+            <link>http://www.faq.msxnet.org</link>
+        </links>
+        <manufacturer>MSX</manufacturer>
+        <media></media>
+        <name>MSX 2</name>
+        <numGames></numGames>
+        <origin>Japan</origin>
+        <peripherals></peripherals>
+        <ports>Joystick(1 or 2), Cartridge(2), Tape(1200/2400 baud), RGB, Composite Video, Centronics, External Audio</ports>
+        <power></power>
+        <price></price>
+        <production></production>
+        <ram>at least 64 KB</ram>
+        <rom>48 KB</rom>
+        <screenshots/>
+        <size></size>
+        <sound>3 channels, 8 octaves</sound>
+        <speed>3.58 MHz</speed>
+        <text>40 x 24 / 32 x 24</text>
+        <type>Home Computer</type>
+        <vram>at least 64 KB</vram>
+        <year>1985</year>
+    </computer>
+</computers>

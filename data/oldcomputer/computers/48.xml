@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Unknown</builtInGames>
+        <colors>Unknown</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>8085</cpu>
+        <description>
+The EX3000 Computer, a typical success(?) saga of the early personal computer days.
+
+The Extensis Corp. EX3000 computer pulled together four emerging technologies; multiprocessor supercomputers, 8 bit microprocessors, the S100 bus standard and multiprocessor, multitasking multiuser operating systems.
+
+The hardware of the EX3000 system consists of subsystems and boards. Three subsystems were provided :
+
+FOS100 &amp;gt; Floppy disk subsystem (from one to four MB) 
+MTS100 &amp;gt; Multiple terminal system with 8 or more independant RS232c serial interfaces 
+TPS100 &amp;gt; Terminal / Operator Processor Subsystem with keyboard, CRT, RS232c and expanded video attributes.
+
+And the following boards were included in the EX3000 :
+
+RM64A    &amp;gt; Memory board with 16 KB RAM 
+MM16     &amp;gt; Memory Management board with bankswitching up to 1 MB. 
+MPU8085  &amp;gt; 8085 Central processor with onboard PROM 
+MPU800   &amp;gt; Optional Z80 CPU with onboard PROM 
+
+The operating system, EMOS, is a multi tasking, multi users operating system which provides memory protection for each user. It can handle the two processors simultaneously. Several languages were developped for this operating system : Extended Basic, Cobol and ANSI Fortran.
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>Unknown</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/extensis.jpg</image>
+        <keyboard>Unknown</keyboard>
+        <language>Unknown</language>
+        <links>
+            <link>http://www.tomshardware.com/2007/02/23/weird_and_wonderful_pcs_and_pc_mods/page5.html</link>
+        </links>
+        <manufacturer>Extensis</manufacturer>
+        <media>None (in standard)</media>
+        <name>EX3000</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals>Unknown</peripherals>
+        <ports>Several cards (see lower)</ports>
+        <power>Unknown</power>
+        <price>Unknown</price>
+        <production></production>
+        <ram>16 KB (up to 64 KB)</ram>
+        <rom>16 KB</rom>
+        <screenshots/>
+        <size>Unknown</size>
+        <sound>Unknown</sound>
+        <speed>Unknown</speed>
+        <text>80 x 24</text>
+        <type>Home Computer</type>
+        <vram></vram>
+        <year>1977</year>
+    </computer>
+</computers>

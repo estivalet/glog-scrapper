@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FRENCH ADVERT (1979)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/heathkit_h8_advert_2.jpg</link>
+            </advert>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;U.S. ADVERT (1980)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;At the time of this advert (September 1980), Heathkit introduced a music synthetiser board, a speech lab, a color graphic board, a color monitor and Microsoft BASIC and FORTRAN languages. &amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/Heathkit_H8_Advert_1.jpg</link>
+            </advert>
+        </adverts>
+        <builtInGames>Octal editor</builtInGames>
+        <colors></colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Intel 8080 A</cpu>
+        <description>
+This early computer was to be used with a terminal for better control.
+
+A lots of expansion boards were available for this computer. Memory boards were available in 4K, 8K, and 16K (note: 4k memory board was 8k half populated.)
+
+The H8 was sold with software: Benton Harbor BASIC, the HASL-8 2 pass assembler, TED-8 Line oriented text editor and BUG-8 terminal console debugger.
+_______________________</description>
+        <emulators>
+            <emulator>
+                <description>Nice designed emulator</description>
+                <link>http://davidwallace2000.home.comcast.net/h8/The_Heathkit_H8_Digital_Computer.htm</link>
+                <name>Virtual H8 Project</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>A H8 emulator for the Mac</description>
+                <link>http://davidwallace2000.home.comcast.net/h8/project8080_archive/heath8080a_intro.htm</link>
+                <name>Project 8080</name>
+                <platform>Apple emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics></graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/heathkit_h8_1.jpg</image>
+        <keyboard>16--key Octal</keyboard>
+        <language>Octal editor</language>
+        <links>
+            <link>http://parse.com/~ddunfield/museum/h8/index.htm</link>
+            <link>http://davidwallace2000.home.comcast.net/</link>
+        </links>
+        <manufacturer>Heathkit</manufacturer>
+        <media>Optional ECP-3801 Cassette Recorder / Player</media>
+        <name>H8</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals></peripherals>
+        <ports>Serial IO (H8-4) and Cassette Interface (H8-5)</ports>
+        <power>Built-in power supply unit</power>
+        <price>From $499</price>
+        <production>Unknown</production>
+        <ram>256 bytes (upgradable with memory boards)</ram>
+        <rom>1 KB in basic version</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;COMPLETE SYSTEM&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Complete system with H9 terminal and paper tape reader / punch expansion&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/heathkit_h8_complete-system_2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;COMPLETE SYSTEM #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Here is a Heathkit H8 computer with a terminal and a floppy-drive.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/heathkit_h8_2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INSIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;We can see here the different boards of the computer. The second board from bottom is a 64k RAM expansion board.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/heathkit_h8_inside.jpg</link>
+            </shot>
+        </screenshots>
+        <size>Unknown</size>
+        <sound>Built-in speaker</sound>
+        <speed>2.048 MHz</speed>
+        <text>N/A - Small display on the front panel displays the registers content.</text>
+        <type>Professional Computer</type>
+        <vram></vram>
+        <year>September 1977</year>
+    </computer>
+</computers>

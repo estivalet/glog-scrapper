@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Basic</builtInGames>
+        <colors>8</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>CM630 - Bulgarian copy of the 6502</cpu>
+        <description>
+The Pravetz 8D was a Bulgarian clone of the Oric Atmos featuring a Bulgarian version of the 6502 processor called CM630, 16 KB of ROM and 48 KB of RAM
+
+The keyboard was almost the same as the original Atmos version, including a MK key, similar to the CTRL key, a C/L key allowing to display Cyrillic or Latin alphabets, and cursor keys. As in Pravets 82 (etc), the original lowercase characters were replaced by cyrillic characters and the C/L lock key, was the CAPS LOCK key of the Oric Atmos.
+
+Like the original Atmos, The 8D had two modes of recording : Fast mode at 2400 bits/sec. and slow mode at 300 bits/sec.
+
+The computer also featured a parallel Centronics interface and a user port. Pravetz provided a local dot matrix printer called &amp;quot;Petritch&amp;quot; but the popular Epson printers could be also connected to the 8D.
+
+The &amp;quot;D&amp;quot; after Pravets 8 stays for &amp;quot;&amp;Auml;&amp;icirc;&amp;igrave;&amp;agrave;&amp;oslash;&amp;aring;&amp;iacute;&amp;quot; (Domashen = For home use), and the idea was, that it should be used without having to buy any peripherals - monitor (which couldn't be connected through composite video to a Pravets 8D without modification) and FDD (cassete recorder used instead).
+
+Floppy drives, modem and joysticks were also available. Floppy disk drives  were very hard to find (in fact they appeared only in the early nineteens). They were a modification of the Pravetz 82 FDDs but with a built-in controller, making them two times bigger. Probably that was one of the reasons why Pravetz 8D never achieved the popularity ot Pravetz 8 (despite of the 3 times lower price).
+
+There were in fact two ways to have floppy disk drives for the Pravetz 8D. One was indeed to use Pravetz 82 FDD and to develop an additional controller + power supply (the schematic and firmware were published in &amp;quot;Computer for you&amp;quot; magazine). There was an operating system called DOS 8D, developed in Bulgaria by Borislav Zahariev.
+
+Later, Pravetz factory decided to develop special FDD for the 8D, which was bundled with the controller and the power supply in a box twice bigger than the normal Apple ][ floppy. It came out on market when the production of the computer itself was finished! It used also modified version of DOS 8D for DIY floppy.
+
+The computer was very well crafted and the survived systems often look as new.
+
+___________
+
+Contributed to this page : Bozhidar Stefanov, Jordan,  anonymous visitor
+
+Peter Petrov reports:
+
+ROM
+There are several rom images of the basic in Pravetz. If you wand disk emulation you need 8DControllerROM and use CALL#320 command.
+
+RAM
+With Basic you have 48 K RAM to work, but with this little schematics you can use additional 16K. The signals that you need for proper work are these.
+One trigger is used to form MAP signal, but second is free to use additional thing. If you realise schematis of disk controller below you can use these schematics together to load 8DDOS v2.10 in additional RAM.
+You must use write operation in these adresses to use the controller:
+
+#380 - writing in additional RAM - additional thing is off
+#381 - writing and reading in additional RAM - additional thing is off
+#382 - writing in additional RAM - additional thing is on
+#383 - writing and reading in additional RAM - additional thing is on
+for &amp;quot;additional thing&amp;quot; see Disk controller section
+
+So, if you realise this little controller you can use:
+FOR I = #C000 TO #CFFF : POKE I,0 : NEXT - clearing first 4K of additional RAM
+or you can move the basic interpreter in additional memory and use:
+POKE #381,0
+to go in RAM interpreter and make changes in it.
+
+DISK CONTROLLER
+
+If you have Apple ][ floppy drive and disk controller you can use this schematics to connect them to your Pravetz (Oric). The schematics is from two parts:
+buffers
+controller
+The signals for proper work of the controller are here:
+You can change the signal Q with changing the resistors of monovibrator 74LS123.
+The record of EPROM is here:
+You must write it from addres #20 of the EPROM.
+
+Connecting RAM controller and disk controller:
+you can connect these controllers by this way:
+pin 9 of 74LS74 is connecting to A8 addres bar of 2716 EPROM, so the &amp;quot;additional thing&amp;quot; is second page of the EPROM, where is the program of loading DOS 8D v.2.1 into additional RAM. (The record of the EPROM above is exatly for first and second page).
+
+SOFTWARE
+
+The versions of the DOS I have are:
+Dos 8D v1.0 - you can use it if you realise only the schematics of the disk controller, but this versions loads in normal RAM, so it is unusable with long games.
+Dos 8D v.2.1 - you can use it if you realise the two schematics and connect them. So - dos loads in additional RAM  and you can use all the programs you have.
+You can use regular Oric software in Pravetz 8D, but you have not regular letters. You have cyrillic letters instead. Changing of the keyboard maps is with Ctrl-T.
+There are some games for Pravetz like SnakeByte, Tetris (exellent clone) and other. Most of them are from Bulgarian computer magazine &amp;quot;Computer for you&amp;quot;. There is 80 column text editor, Disk copier program and the most beautiful - Borislav Zahariev ported BigMac Assembler from Apple ][ to Pravetz, so you can use if you realise schematics above. Soon I hope you will see this software here.
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>240 x 200 (+ 3 text lines)</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/Pravetz_8D_system_1.jpg</image>
+        <keyboard>Full stroke 57 keys Qwerty + cyrillic</keyboard>
+        <language>Basic</language>
+        <links>
+            <link>http://www.sofiaprint.com/pravetz8d_bul/Pravetz%208D_bul.html</link>
+        </links>
+        <manufacturer>Pravetz</manufacturer>
+        <media></media>
+        <name>8D</name>
+        <numGames></numGames>
+        <origin>Bulgaria</origin>
+        <peripherals>floppy disk unit, modem, dot matrix printer</peripherals>
+        <ports>Power supply, Expansion port, Printer/Centronics port, Tape-recorder DIN plug, RGB video out, RF TV out</ports>
+        <power>Built-in power supply unit</power>
+        <price>420 levs (Bulgaria, 1985)</price>
+        <production>1989</production>
+        <ram></ram>
+        <rom></rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;PRAVETZ 8D&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Pravetz_8D_system_3.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;CLOSE-UP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Notice that the keyboard allows to use Latin or Cyrillic alphabet&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Pravetz_8D_system_2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;REAR CONNECTORS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Pravetz_8D_system_rear.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BOOT SCREEN&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Pravetz_8D_system_boot.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INSIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The hardware design was really close to the Atmos one. The same ULA chip (copy?) was used. Contrary to the Atmos, the PSU was located inside the case.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Pravetz_8D_Inside_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;ARMENIAN SUPPORT LANGUAGE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;A tape program allows the use of specific Armenian characters.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Pravetz_8D_Armenian_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;ARMENIAN TRANSLATION&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Only for Armenian language specialists...... &amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Pravetz_8D_Armenian_2.jpg</link>
+            </shot>
+        </screenshots>
+        <size>35 (W) x 25 (D) cm</size>
+        <sound>Programmable Sound Generator AY-3-8912 (from General Instruments)3 voices, 8 octaves + white noise</sound>
+        <speed>1 mHz</speed>
+        <text>40 columns  x 28 lines</text>
+        <type>Home Computer</type>
+        <vram></vram>
+        <year>1985</year>
+    </computer>
+</computers>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>None</builtInGames>
+        <colors></colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>6502</cpu>
+        <description>
+Little information about this C2 system composed of a computer case and a separate floppy drives case.
+
+The system pictured is a C2-OEM-4. [OEM] means it could be bought by other computer companies that could put their own brand label on the case. [4] means dual case version.
+
+The main system was based on an 8 slot backplane (ref. 580), a 6502 processor board, along with a floppy disc controller and a serial port for the video terminal (ref. 505), and 3 x 16 KB static RAM boards (ref. 520). Ohio Scientific and various third companies provided several additional Memory and I/O boards for this system. 
+
+The floppy case had two Siemens single sided 8&amp;quot; 275 KB drives. With single sided drives user could copy to both sides of the floppy by removing the disk, turning it over and use the back side. 
+
+OSI delivered a specific operating system called OS-65U along with Business BASIC, a powerful BASIC interpreter, and various demonstration programs. 
+_______________________</description>
+        <emulators/>
+        <graphics></graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/OhioScient_C2_System_1.jpg</image>
+        <keyboard>Depending on the video terminal used</keyboard>
+        <language>None</language>
+        <links/>
+        <manufacturer>OHIO Scientific</manufacturer>
+        <media>2 x 8'' 275 KB floppy drives</media>
+        <name>C2</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals>Various OSI cards</peripherals>
+        <ports>Serial</ports>
+        <power>Built-in power supply unit</power>
+        <price>Unknown</price>
+        <production></production>
+        <ram>48 KB (Depends on the configuration)</ram>
+        <rom>Unknown</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INSIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;(1)&amp;lt;/b&amp;gt; 6002 CPU board. Also features a floppy disc controller and serial port&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(2)&amp;lt;/b&amp;gt; 16 KB RAM boards&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(3)&amp;lt;/b&amp;gt; D&amp;amp;N Micro Products IO-1600 board that, when fully populated, had 8 KB of additional RAM, a Parallel Centronics printer port, a Diablo parallel printer port, four RS-232 serial I/O ports and one RS-232 serial printer port with handshaking&amp;lt;br&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/OhioScient_C2_Inside_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FD UNIT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/OhioScient_C2_FDUnit_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;DEMO DISK&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;General menu of the demonstration disk delivered with the operating system.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/OhioScient_C2_SampleScreen_1.jpg</link>
+            </shot>
+        </screenshots>
+        <size></size>
+        <sound>No sound</sound>
+        <speed>1 MHz.</speed>
+        <text>80 chars x 25 lines  (Standard video terminal)</text>
+        <type>Professional Computer</type>
+        <vram></vram>
+        <year>Unknown</year>
+    </computer>
+</computers>

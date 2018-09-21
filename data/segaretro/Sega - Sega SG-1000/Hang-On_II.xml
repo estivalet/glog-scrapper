@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<games>
+    <game>
+        <developer>Sega</developer>
+        <genre>Racing</genre>
+        <name>Hang-On II</name>
+        <players>1</players>
+        <publisher>Sega</publisher>
+        <releases>
+            <release>
+                <code></code>
+                <country></country>
+                <date></date>
+                <price></price>
+            </release>
+            <release>
+                <code>C-60</code>
+                <country>JP</country>
+                <date>1985</date>
+                <price>&amp;Acirc;&amp;yen;4,300</price>
+            </release>
+            <release>
+                <code>?</code>
+                <country>TW</country>
+                <date>198x</date>
+                <price>NT$?</price>
+            </release>
+        </releases>
+        <romSize>32kB</romSize>
+        <shots>http://segaretro.org/images/a/a4/HangOn2_Title.png</shots>
+        <shots>http://segaretro.org/images/d/d5/HangOn2_SG1000_JP_Box.jpg</shots>
+        <shots>http://segaretro.org/images/0/0d/Hang-On2_SG_JP_Cardback.jpg</shots>
+        <shots>http://segaretro.org/images/e/e2/Hang-On2_SG_JP_Card.jpg</shots>
+        <shots>http://segaretro.org/images/1/1a/HangOn2SGJPManual.pdf</shots>
+        <systems>SG-1000</systems>
+    </game>
+</games>

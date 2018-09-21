@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Microsoft Basic</builtInGames>
+        <colors>Monochrome</colors>
+        <controllers></controllers>
+        <coprocessor>Motorola 6847 video processor</coprocessor>
+        <cpu>Z80A</cpu>
+        <description>
+The Laser 100/110 was the first model of the Laser 100/200/300 family.
+
+The ROM was nearly identical to the one of the Tandy Radio-Shack TRS-80 Color Computer, with only minor changes. It's so close that when people write Laser emulators, they use TRS-80 CoCo ROM documentations (Laser detailed documentations are hard to find, especially about the ROM itslef).
+
+The Basic was a Microsoft Basic just slightly modified to avoid lawsuits, some statements being stored in the ROM but not available on the machine!
+
+Like the most of the Vtech products, the Laser 100/110 was &amp;quot;cheaply&amp;quot; conceived: chicklet keyboard, plastic case, light-weight... It was produced to compete against the first wave of micro-computers like the famous Sinclair ZX-81.
+
+The difference between the Laser 100 and the Laser 110 must be the RAM size (like the Laser 200 and 210), though very little information on the Laser 100 is available.
+
+The biggest difference with its big brother the Laser 200 was that it only had a black &amp;amp; white display. 
+
+An obscure VZ-100 version was also released but this wasn't the same machine as the VZ series sold in Australia and New-Zealand by Dick Smith Electronics.
+_______________________</description>
+        <emulators/>
+        <graphics>128 x 64  dots (Mode 1)</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/VideoTech_Laser110_System_s1.jpg</image>
+        <keyboard>QWERTY, 45 rubber keysBasic instructions and graphic symbols</keyboard>
+        <language>Microsoft Basic</language>
+        <links/>
+        <manufacturer>Video Technology</manufacturer>
+        <media></media>
+        <name>LASER 100/110</name>
+        <numGames></numGames>
+        <origin>Hong Kong</origin>
+        <peripherals></peripherals>
+        <ports>Tape-recorder (600 bauds), RF tv out, Composite video out, Memory upgrade port, Expansion port</ports>
+        <power>External 9V AC adaptor</power>
+        <price>Unknown</price>
+        <production></production>
+        <ram>Laser 100 = 2 KB or 8 KB?Laser 110 = 4 KB or 8 KB ?Upgradable to 64 KB</ram>
+        <rom>16 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;LARGE VIEW&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/VideoTech_Laser110_System_s2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;KEYBOARD CLOSE-UP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The spongy keyboard doesn't allow fast typing.&amp;lt;br&amp;gt; Most of the keys have 4 functions: letter, graphic symbol and two Basic commands.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/VideoTech_Laser110_Keyboard_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INSIDE #1&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The Laser 100-200 series were probably the most poorly manufactured computers ever seen. Glue was used instead of connectors for the keyboard cable, the main power condenser was also sticked to the case. Notice also the mass of solder used to join the metallic cover with other components.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/VideoTech_Laser110_Inside_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INSIDE #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Except for the Motorola 6847 video chip, all  other main chips are located below the metallic protection which is soldered to the main board. Not really easy for servicing.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/VideoTech_Laser110_Inside_s2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;REAR SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;From left to right:&amp;lt;br&amp;gt; • 9V external AC adaptor jack&amp;lt;br&amp;gt; • Tape recorder jack&amp;lt;br&amp;gt; • Composite video jack&amp;lt;br&amp;gt; • Memory expansion connector&amp;lt;br&amp;gt; • Peripheral connector&amp;lt;br&amp;gt; • RF/TV output&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/VideoTech_Laser110_RearSide_s1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>29 (W) x 17 (D) x 4 (H) cm / 800g</size>
+        <sound>Beeper, 1 voice &amp;amp; 3 octaves</sound>
+        <speed>3,58 Mhz</speed>
+        <text>32 columns x 16 lines (Mode 0)</text>
+        <type>Home Computer</type>
+        <vram></vram>
+        <year>1983</year>
+    </computer>
+</computers>

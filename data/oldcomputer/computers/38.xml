@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;PROMOTIONAL PICTURE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/microkey_primo_promo-pic_1.jpg</link>
+            </advert>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;PRIMO ADVERT #1&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/Primo_A32_Advert_2.jpg</link>
+            </advert>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;DEMO TAPE INLAY #1&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/microkey_primo_promo-pic_2.jpg</link>
+            </advert>
+            <advert>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;DEMO TAPE INLAY #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/adverts/microkey_primo_promo-pic_3.jpg</link>
+            </advert>
+        </adverts>
+        <builtInGames>BASIC interpreter</builtInGames>
+        <colors>Monochrome</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>U880A (GDR Z80A)</cpu>
+        <description>
+The Primo computer series was manufactured by Microkey Kftt. (Kutat&amp;aacute;si Fejleszt&amp;eacute;si Termel&amp;eacute;si T&amp;aacute;rsul&amp;aacute;s), and was originaly developed to be a school computer in Hungary.
+The system was sold in various memory configurations:
+A-32: 16K ROM 16K RAM
+A-48: 16K ROM 32K RAM 
+A-64: 16K ROM 48K RAM 
+B-64: 16K ROM 48K RAM
+Other differences were:
+A type did not have built-in joystick and serial ports.
+B type could works togewther with the Commodore VC1541 
+floppy drive unit (external software had to be load for this from tape).
+B type also featured a full stroke keyboard (capacitive was not a 
+perfect way for quick typing).
+
+There was a colour prototype as well, called pro PRIMO.
+
+Thanks to Viktor Varga for information and pictures.
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>DOS emulator</description>
+                <link>http://www.primo.homeserver.hu/</link>
+                <name>PrimoEMU</name>
+                <platform>MS DOS emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Windows based emulator</description>
+                <link>http://www.primo.homeserver.hu/</link>
+                <name>Ultimo</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>192 x 256 dots</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/Primo_A32_System_1.jpg</image>
+        <keyboard>Membrane keyboard</keyboard>
+        <language>BASIC interpreter</language>
+        <links>
+            <link>http://www.primo.homeserver.hu</link>
+        </links>
+        <manufacturer>Microkey KFFT</manufacturer>
+        <media></media>
+        <name>PRIMO A-32</name>
+        <numGames></numGames>
+        <origin>Hungary</origin>
+        <peripherals></peripherals>
+        <ports></ports>
+        <power>External power supply unit</power>
+        <price></price>
+        <production></production>
+        <ram>16 KB (up to to 32 KB)</ram>
+        <rom>16 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;PRIMO-B&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The Primo-B has a mechanical keyboard.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/microkey_primo-b_1.jpg</link>
+            </shot>
+        </screenshots>
+        <size></size>
+        <sound>Beeper</sound>
+        <speed>2.5 MHz (up to 3.5 MHz with some hacking)</speed>
+        <text>16 lines x 42 characters</text>
+        <type>Home Computer</type>
+        <vram></vram>
+        <year>1984</year>
+    </computer>
+</computers>

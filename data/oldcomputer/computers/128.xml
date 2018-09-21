@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Microsoft BASIC</builtInGames>
+        <colors>8 (text mode), 4 (graphic mode)</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Zilog Z80</cpu>
+        <description>
+The Colour Genie was the successor of the Genie 1, Genie 2 and Genie 3. It was intended to compete with the Tandy Color Computer although it was not at all compatible with its model (Z80 microprocessor instead of a Motorola 6809 in the CoCo)
+
+The graphic resolution wasn't as good as the CoCo, furthermore it was not possible to mix characters and graphics.
+
+However, the machine was reliable and solidly built. It featured a good mechanical keyboard and even a little level display located above the keyboard, which allowed to set the recording level of the tape recorder to improve reliability when writing onto a tape.
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description> the Colour Genie emulator by Jürgen Buchmüller</description>
+                <link>http://www.pullmoll.de/cgenie/cgeniee.htm</link>
+                <name>EACA EG 2000 Colour Genie emulator</name>
+                <platform>MS DOS emulator</platform>
+            </emulator>
+            <emulator>
+                <description>A Colour Genie emulator is included into MESS</description>
+                <link>http://mess.emuverse.com/</link>
+                <name>MESS project</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>160 x 102 dots</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/Eaca_EG2000_System_s1.jpg</image>
+        <keyboard>Typewriter style, 63 keys with 4 function keys</keyboard>
+        <language>Microsoft BASIC</language>
+        <links/>
+        <manufacturer>Eaca</manufacturer>
+        <media></media>
+        <name>COLOUR GENIE / EG-2000</name>
+        <numGames></numGames>
+        <origin>Hong Kong</origin>
+        <peripherals>Light-pen, parallel printer, floppy disc drives</peripherals>
+        <ports>RS232, Joystick (2), Light Pen, RGB, Audio</ports>
+        <power>Built-in power supply unit</power>
+        <price>1100  in 1982, about 350  in 1985</price>
+        <production></production>
+        <ram>16 KB, 32 KB with memory expansion</ram>
+        <rom>16 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;LARGE VIEW&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Eaca_EG2000_System_s2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;EG-2000 WITH JOYSTICKS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Joysticks were devilered by pair in a dedicated plastic case which was connected to the computer.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/EACA_EG2000_Joystick_2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;RIGHT SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Parallel printer flat connector, light pen and Serial port DIN sockets.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Eaca_EG2000_RightSide_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;REAR CONNECTORS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;From left to right:&amp;lt;br&amp;gt; • Tape recorder DIN socket&amp;lt;br&amp;gt; • 50-pin expansion connector mainly intended for the floppy drive unit&amp;lt;br&amp;gt; • RF/TV aerial cable&amp;lt;br&amp;gt; • Audio and composite video output jacks&amp;lt;br&amp;gt; • Power switch and cable.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Eaca_EG2000_RearSide_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;TAPE GAUGE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Only EACA computers offered this gauge which was very convenient to ensure a reliable file tranfer from the tape recorder.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Eaca_EG2000_Gauge_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MODEL PLATE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Usually, personal computers offered cheap plastic plate where was mentioned the model name. The EG-2000 metal plate is one of the nicer ever seen on a home computer. Characters are embossed and each character of the model name is painted in a different colour.  &amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Eaca_EG2000_Logo_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;UNDERNEATH PLATE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Eaca_EG2000_Label_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INSIDE #1&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The Colour Genie was initially marketed as a 16 KB RAM model, and later with 32 KB, which explains the second 16 KB RAM card mounted above the first one. The card holding the Basic language ROM is also separated from the main board. This is probably due to the late choice of the Microsoft Basic version.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(1)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Video RAM card mounted vertically&amp;lt;br&amp;gt;  &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(2)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; RF/TV modulator&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(3)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Second 16 KB RAM card&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(4)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; 16 KB ROM card (4 x 2732 EPROM chips) holding the Microsoft Basic interpreter&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(5)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Z80 processor running at 2.2 MHz&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(6)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; AY-9810,  three channel sound generator programmable chipset&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(7)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Video 6845 chipset in charge of text and graphics display &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(8)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Power supply unit&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Eaca_EG2000_Mainboard_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INSIDE #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The three RAM and ROM add-on cards&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Eaca_EG2000_Mainboard_s2.jpg</link>
+            </shot>
+        </screenshots>
+        <size>43.5 (W) x 28 (D) x 8 (H) cm /</size>
+        <sound>3 channels (AY-8910)</sound>
+        <speed>2.2 MHz</speed>
+        <text>40 columns x 25 lines</text>
+        <type>Home Computer</type>
+        <vram></vram>
+        <year>1982</year>
+    </computer>
+</computers>

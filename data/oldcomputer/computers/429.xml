@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>Microsoft Extended Basic</builtInGames>
+        <colors>16</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Z80A</cpu>
+        <description>
+This is a very compact MSX-1 computer, it was meant to be portable... It has only 16k of RAM.
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <link>http://www.komkon.org/~dekogel/fmsx.html</link>
+                <name>fMSX for MS DOS Homepage</name>
+                <platform>MS DOS emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Excellent free MSX emulator</description>
+                <link>http://www.bluemsx.com/</link>
+                <name>BlueMSX</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>A Bresilian MSX Emulator written in 100% assembler</description>
+                <link>http://www.lsi.usp.br/~ricardo/brmsx.htm</link>
+                <name>BrMSX</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>A MSX1 and MSX2 Emulator</description>
+                <link>http://ftp.castel.nl/msx/</link>
+                <name>CompuJunk's MSX Emulator</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>A MSX Emulator for Win95 and Win NT + Direct X</description>
+                <link>http://members.eunet.at/lexlechz/msx.html</link>
+                <name>RuMSX</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <link>http://www.emulation.net/msx/index.html</link>
+                <name>fMSX for MAC OS Homepage</name>
+                <platform>Apple emulator</platform>
+            </emulator>
+            <emulator>
+                <description>fMSX is a portable MSX emulator ported on : Amiga OS, Mac OS, MS DOS, OS/2, Sony Playstation, Risc OS, Towns OS, Unix / X, Win95 / NT, X68K.</description>
+                <link>http://www.komkon.org/fms/fMSX</link>
+                <name>fMSX official Homepage</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+            <emulator>
+                <description>This new MSX emulator can reproduce, among many other MSX, MSX2and  MSX2+ machines, both Panasonic Turbo-R models. Be sure to get the catapult frontend and the system roms from FUNET.</description>
+                <link>http://openmsx.sourceforge.net/</link>
+                <name>openMSX - The MSX emulator that aims for perfection.</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>256 x 192, 32 sprites</graphics>
+        <hardwares>
+            <hardware type="MEMORY EXPANSIONS">
+                <items>
+                    <item>
+                        <description>National CF-2131|||16 KB RAM expansion|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;NATIONAL CF-2131&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;16 KB RAM expansion&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/national_cf2131_16k-cart.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Casio OR-216 - 16 KB RAM expansion|||Box|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;CASIO OR-216 - 16 KB RAM EXPANSION&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;Box&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/casio_or216_16kbramexpansion_box.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Philips RAM expansion||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;PHILIPS RAM EXPANSION&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;RAM expansion and LOGO language cartridges.&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Philips_VG8020_Cartridges_s1.jpg</photo>
+                    </item>
+                    <item>
+                        <description>MEGA RAM DISK 256|||from DDX (Brazil)|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MEGA RAM DISK 256&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;from DDX (Brazil)&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This is the famous Megaram cartridge made in Brzail, used to play all Konami cracked Megarom games.6401999243&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/msx_megaram256-ddx_1.jpg</photo>
+                    </item>
+                </items>
+            </hardware>
+            <hardware type="MISC">
+                <items>
+                    <item>
+                        <description>Panasonic  FS-IFA1 &amp;amp; FW-RSU1W|||Scanner/Printer interface|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;PANASONIC  FS-IFA1 &amp;amp; FW-RSU1W&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;Scanner/Printer interface&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The FS-IFA1 is the printer/scanner interface (left on the picture) and the FW-RSU1W is the handheld scanner (right on the picture). These expansions are for MSX2 systems.&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/msx_FS-IFA1_FW-RSU1W.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Sony HBI-232|||RS232c cartridge|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SONY HBI-232&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;RS232c cartridge&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Used to connect serial printers.&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/sony_msx_rs232c-cartridge.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Yamaha mouse #1||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;YAMAHA MOUSE #1&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This mouse was compatible with all MSX systems. It connects to the first Joystick port.&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Yamaha_Mouse_s2.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Yamaha mouse #2||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;YAMAHA MOUSE #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Brand new!&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Yamaha_Mouse_s1.jpg</photo>
+                    </item>
+                </items>
+            </hardware>
+            <hardware type="PRINTERS">
+                <items>
+                    <item>
+                        <description>Philips VW0020|||80-col dot-matrix printer|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;PHILIPS VW0020&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;80-col dot-matrix printer&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This printer was a rebadged version of the Seikosha GP-500.&amp;lt;br&amp;gt;  It was a 80-column, 50 CPS model with a 7x5 dot matrix head.&amp;lt;br&amp;gt;  Commodore and Atari used same hardware basis for their MPS-801 and 1029 printers. &amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Philips_VG8020_PrinterVW0020_s1.jpg</photo>
+                    </item>
+                </items>
+            </hardware>
+            <hardware type="TAPE RECORDERS">
+                <items>
+                    <item>
+                        <description>Sanyo PHC-DR II|||Side|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SANYO PHC-DR II&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;Side&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/sanyo_phc-drII_side_1.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Sanyo PHC-DR II|||Front|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SANYO PHC-DR II&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;Front&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/sanyo_phc-drII_front_1.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Sanyo DR-202||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SANYO DR-202&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The ADSS system allowed to quickly search a specific program in a cassette tape and load it. Seach time for a C60 cassette was less than 1 minute.&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Sanyo_Phc28_DR202tapeDrive_s1.jpg</photo>
+                    </item>
+                    <item>
+                        <description>National RQ-8030|||tape-recorder|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;NATIONAL RQ-8030&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;tape-recorder&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/national_tape_rq8030.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Bit-corder||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BIT-CORDER&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Cassete recorder dedicated to Hit-Bit MSX systems, though it could be used with any home computers.&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Sony_HB201_BitCorder_1.jpg</photo>
+                    </item>
+                </items>
+            </hardware>
+        </hardwares>
+        <image>http://www.old-computers.com/museum/photos/canon_v8.jpg</image>
+        <keyboard>QWERTY mechanical keyboard4 separated cursor keys</keyboard>
+        <language>Microsoft Extended Basic</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=788</link>
+            <link>computer.asp?st=1&amp;amp;c=432</link>
+            <link>computer.asp?st=1&amp;amp;c=585</link>
+            <link>computer.asp?st=1&amp;amp;c=1012</link>
+            <link>computer.asp?st=1&amp;amp;c=587</link>
+            <link>computer.asp?st=1&amp;amp;c=441</link>
+            <link>computer.asp?st=1&amp;amp;c=88</link>
+            <link>computer.asp?st=1&amp;amp;c=443</link>
+            <link>computer.asp?st=1&amp;amp;c=807</link>
+            <link>computer.asp?st=1&amp;amp;c=832</link>
+            <link>computer.asp?st=1&amp;amp;c=425</link>
+            <link>computer.asp?st=1&amp;amp;c=588</link>
+            <link>computer.asp?st=1&amp;amp;c=589</link>
+            <link>computer.asp?st=1&amp;amp;c=426</link>
+            <link>computer.asp?st=1&amp;amp;c=581</link>
+            <link>computer.asp?st=1&amp;amp;c=848</link>
+            <link>computer.asp?st=1&amp;amp;c=783</link>
+            <link>computer.asp?st=1&amp;amp;c=887</link>
+            <link>computer.asp?st=1&amp;amp;c=851</link>
+            <link>computer.asp?st=1&amp;amp;c=437</link>
+            <link>computer.asp?st=1&amp;amp;c=784</link>
+            <link>computer.asp?st=1&amp;amp;c=436</link>
+            <link>computer.asp?st=1&amp;amp;c=833</link>
+            <link>computer.asp?st=1&amp;amp;c=438</link>
+            <link>computer.asp?st=1&amp;amp;c=580</link>
+            <link>computer.asp?st=1&amp;amp;c=1056</link>
+            <link>computer.asp?st=1&amp;amp;c=435</link>
+            <link>computer.asp?st=1&amp;amp;c=582</link>
+            <link>computer.asp?st=1&amp;amp;c=431</link>
+            <link>computer.asp?st=1&amp;amp;c=782</link>
+            <link>computer.asp?st=1&amp;amp;c=583</link>
+            <link>computer.asp?st=1&amp;amp;c=886</link>
+            <link>computer.asp?st=1&amp;amp;c=90</link>
+            <link>computer.asp?st=1&amp;amp;c=578</link>
+            <link>computer.asp?st=1&amp;amp;c=444</link>
+            <link>computer.asp?st=1&amp;amp;c=1084</link>
+            <link>computer.asp?st=1&amp;amp;c=301</link>
+            <link>computer.asp?st=1&amp;amp;c=422</link>
+            <link>computer.asp?st=1&amp;amp;c=433</link>
+            <link>computer.asp?st=1&amp;amp;c=434</link>
+            <link>computer.asp?st=1&amp;amp;c=859</link>
+            <link>computer.asp?st=1&amp;amp;c=464</link>
+            <link>computer.asp?st=1&amp;amp;c=858</link>
+            <link>computer.asp?st=1&amp;amp;c=576</link>
+            <link>computer.asp?st=1&amp;amp;c=229</link>
+            <link>computer.asp?st=1&amp;amp;c=575</link>
+            <link>computer.asp?st=1&amp;amp;c=428</link>
+            <link>computer.asp?st=1&amp;amp;c=300</link>
+            <link>computer.asp?st=1&amp;amp;c=250</link>
+            <link>computer.asp?st=1&amp;amp;c=251</link>
+            <link>computer.asp?st=1&amp;amp;c=857</link>
+            <link>computer.asp?st=1&amp;amp;c=482</link>
+            <link>computer.asp?st=1&amp;amp;c=777</link>
+            <link>computer.asp?st=1&amp;amp;c=442</link>
+            <link>computer.asp?st=1&amp;amp;c=440</link>
+            <link>computer.asp?st=1&amp;amp;c=439</link>
+            <link>http://www.baboo.net/baboo.shtml</link>
+            <link>http://www.file-hunter.com/</link>
+            <link>http://www.caetano.eng.br/msxsoft/</link>
+            <link>http://www.moai-tech.com/</link>
+            <link>http://www.faq.msxnet.org/hardware.html</link>
+            <link>http://www.msx.org/</link>
+            <link>http://dynamo.geol.msu.ru/MSX/</link>
+            <link>http://www.msxgamesbox.com</link>
+            <link>http://www.msxmuseumbox.com</link>
+            <link>http://www.faq.msxnet.org</link>
+            <link>ftp://ftp.funet.fi/pub/msx</link>
+            <link>news:comp.sys.msx</link>
+        </links>
+        <manufacturer>Canon</manufacturer>
+        <media></media>
+        <name>V-8</name>
+        <numGames></numGames>
+        <origin>Japan</origin>
+        <peripherals></peripherals>
+        <ports></ports>
+        <power></power>
+        <price></price>
+        <production></production>
+        <ram>16 kb</ram>
+        <rom>32 kb ?</rom>
+        <screenshots/>
+        <size></size>
+        <sound>General Instrument AY-2-8910 sound generator3 voices, 8 octaves</sound>
+        <speed>3,6 Mhz ?</speed>
+        <text>24 x 40</text>
+        <type>Home Computer</type>
+        <vram></vram>
+        <year>1983?</year>
+    </computer>
+</computers>

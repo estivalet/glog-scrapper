@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <batteries></batteries>
+        <builtInGames>6 games</builtInGames>
+        <buttons></buttons>
+        <colors>Yes</colors>
+        <controllers></controllers>
+        <coprocessor>Speed slow/fast, Angle 40&amp;deg;/20&amp;deg;, Game selection, Paddle size, Power on/off, Auto/manual service</coprocessor>
+        <cpu>AY-3-8550 from General Instruments</cpu>
+        <description>
+This pong from Philips is a bit special. It uses the unusual AY-3-8550 from General Instruments. This chips offers 4 classic pong games (Tennis, Squash, Squash practice, Football) and 2 shooting games. The paddles can be moved verticaly AND horizontaly, hence the analog joysticks (instead of the classic sliders). The display is in color.
+
+There is a female DIN plug at the bottom-right part of the case. It is used to connect an optional light-gun to play the two shooting games.
+
+There are switches to control the different options like ball speed, paddle size, angle 20&amp;deg;/40&amp;deg;, manual/auto service. There are two buttons: reset and serve. There is even a TV channel selection knob to adjust the picture on the TV.
+
+The Las Vegas ES-2208 is in fact one of the Las Vegas pong systems from Philips. Here is the list:
+
+- Las Vegas Tele-Spiel ES-2203 (6 games, black &amp;amp; white display, vertical movements)
+- Las Vegas Tele-Spiel ES-2204 (6 games, color display, vertical movements)
+- Las Vegas Tele-Spiel ES-2208 (6 games, color display, vertical &amp;amp; horizontal movements)
+- Las Vegas Tele-Spiel ES-2218 (8 games, color display, vertical &amp;amp; horizontal movements)
+
+There was also a:
+- Travem&amp;uuml;nde Tele-Spiel ES-2207 (4 games, black &amp;amp; white display, vertical movements)
+ 
+
+
+</description>
+        <emulators/>
+        <graphics></graphics>
+        <gun></gun>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/philips_lasvegas-es2208_1.jpg</image>
+        <keyboard>2 analog joysticks</keyboard>
+        <language>6 games</language>
+        <links>
+            <link>http://www.pong-story.com/spiel08.htm</link>
+        </links>
+        <manufacturer>Philips</manufacturer>
+        <media></media>
+        <name>Las Vegas ES-2208</name>
+        <numGames></numGames>
+        <origin>Europe</origin>
+        <peripherals>Yes, optional</peripherals>
+        <ports>RF TV video output, Light-gun (female DIN connector)</ports>
+        <power>9v DC</power>
+        <price></price>
+        <production></production>
+        <ram>On screen</ram>
+        <rom></rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;UNIT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/philips_las-vegas_es2208_2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INSIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The motherboard is quite basic with all the switches, the sound speaker and the AY-3-8550 chip from General Instrument.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/philips_lasvegas-es2208_inside_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;PADDLES&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/philips_las-vegas_es2208_paddles.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/philips_las-vegas_es2208_box.jpg</link>
+            </shot>
+        </screenshots>
+        <size></size>
+        <sound>Built-in speaker</sound>
+        <speed>Reset, Service</speed>
+        <switches></switches>
+        <text></text>
+        <type></type>
+        <vram></vram>
+        <year>1977</year>
+    </computer>
+</computers>

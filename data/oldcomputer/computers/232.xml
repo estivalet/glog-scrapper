@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>None</builtInGames>
+        <colors>monochrome built-in display</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Intel 8085</cpu>
+        <description>
+Two models were available: the Toshiba T200 C-5 with only one floppy disk unit (250 KB) and a hard disk (5 MB), and the T200 C-20 with a double floppy disk unit, one hard disk (10 MB) and one streamer (10 MB). It was possible to connect up to 16 hard disks (140 MB max)!
+
+It was sold with accounting software running an OS called Toshiba Business Basic which was different to the CPM OS with MBasic etc.
+
+_______________________
+
+David Gimeno i Ayuso reports :
+The Toshiba T200 had 64KB RAM and 32KB ROM, which was copied to RAM after startup, so leaving only 32KB RAM available. Its size was around 60x40x40 cm. It may weight from 15 kg to 30 kg (or 66 lb) but not too much more because one young and not too strong man could carry it. And finally, its price in Spain for the 2 floppy system, was 666,000 pta (currently 4,002.74 or $4,962.20), including the WTZ80 printer. T200 floppies could use diskettes up to 640KB. They worked with double-sided, 80 tracks, 16 sectors of 256 bytes each. This printer was an 80 columns non-optimized printer (it printed moving its head side-to-side of the printing area, no matter how much characters it should print), 100 cps, tractor only and 10,12,17 pitches with corresponding 5, 6, 8.5 expanded pitches. And I'm thinking the paper tractor was both pull only and push'n'pull, but I'm unsure about that.
+
+Thomas Fusco's memories:
+I have very fond memories of this machine. I operated one of these at a small company in New Jersey from 1986 through 1989. Our unit was made in 1981. A sales rep later told us that the IBM PC rendered this machine (and many similar ones) obsolete, and it was discontinued soon after. The configuration was a bit different than listed on this page, comprising two 5 1/4&amp;quot; floppy drives employing single-sided, 360K diskettes with no hard drive. The computer booted from the left &amp;quot;A&amp;quot; drive (the failure of which finally retired the system to a dark corner of the warehouse where it may still be to this day). The printer that came with it was not the one pictured, but a Toshiba 1281 wide carriage daisy wheel, which, although quite noisy, produced great output. Each key was individually hard-wired so that the cable connecting the keyboard to the main unit was near the diameter of your thumb. When powered up, the green monochrome screen displayed C/PM, but would boot a version of DOS from the A: floppy on which we ran WordStar. 
+
+I remember the unit as weighing more than the 15kg (33 lbs) listed. The T200 had a big brother called the T250 that looked almost identical except it was significantly bigger, sporting a larger display and dual 8&amp;quot; floppy drives (the literature I saw listed the T250's main unit weight at 135 lbs!). 
+
+In 1989, I placed a support call to Toshiba concerning some minor question. When I told the man what I had, he asked me to hold on for a moment, after which you could hear him yelling to others in the background, &amp;quot;Hey, guess what this guy has? A T200!&amp;quot; followed by a barrage of laughter. He returned and told me that mine was one of only about ten known in the world to still be in use (which made me quite proud), and referred me to an &amp;quot;old-timer downstairs&amp;quot; who might know something about this system (and who actually proved to be quite helpful).
+
+Up until the A: drive's demise, this machine ran absolutely flawlessly for the three years I used it, with not one problem or glitch ever....zero, zip, ziltch. Try that with a Wintel machine!
+
+Lorenzo Garcia (from Spain) adds:
+The Toshiba T200 was the first computer model that I used as a profesional computer programer. The T200 was fitted with an &amp;quot;operating sistem / Basic interpreter&amp;quot; called &amp;quot;Business Basic&amp;quot;. Business Basic sintax included sentences to manage &amp;quot;indexed files&amp;quot;. That feature was innovative at the time and very useful for business applications development.After a cuple of years, the IBM PC and clones phased out this supperb piece of techonolgie.
+ 
+
+
+</description>
+        <emulators/>
+        <graphics>Unknown</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/toshiba_t200_1.jpg</image>
+        <keyboard>Full-stroke keyboard</keyboard>
+        <language>None</language>
+        <links/>
+        <manufacturer>Toshiba</manufacturer>
+        <media>Change according models</media>
+        <name>T 200</name>
+        <numGames></numGames>
+        <origin>Japan</origin>
+        <peripherals>unknown</peripherals>
+        <ports>RS232c, Centronics</ports>
+        <power>Built-in power supply unit</power>
+        <price>System + WTZ80 printer. : 666,000 pta (Spain, 1980)</price>
+        <production></production>
+        <ram>64 KB</ram>
+        <rom>32 KB</rom>
+        <screenshots/>
+        <size>60 x 40 x 40 cm / 15 Kg</size>
+        <sound>Built-in loudspeaker. One canal output</sound>
+        <speed>2 MHz</speed>
+        <text>80 columns x 24 lines</text>
+        <type>Home Computer</type>
+        <vram></vram>
+        <year>1980</year>
+    </computer>
+</computers>

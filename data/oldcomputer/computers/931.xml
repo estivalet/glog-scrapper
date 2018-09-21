@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>RISC OS</builtInGames>
+        <colors>4 greys or 16 greys or 16 colours or 256 greys or 256 colours or 32K colours or 16M colours.The cursor always retains the same blue colour no matter what mode is used.</colors>
+        <controllers></controllers>
+        <coprocessor>-</coprocessor>
+        <cpu>ARM 7500 32 bit RISC</cpu>
+        <description>
+This machine replaced the A4000/A5000 series and was a lower-cost alternative to the RISC PC.  The styling was similar, featuring a very strong but lightweight ABS case with the floppy and CD drive in different places and without the clever stackable case design.
+ 
+Acorn made the A7000 a very neat system, reducing cost by using far fewer components on the motherboard. 4MB is built into the mainboard with a single 72-pin slot for standard off-the-shelf PC RAM. Gone is the non-standard Acorn 3-button mouse used since the first Archimedes model, which was expensive and difficult to find if broken or lost, instead a standard PS2 unit is supplied. The only slightly annoying quirk is that you cant use the optional expansion slot backplane and optional CD drive at the same time as they occupy the same physical area of the small case. One surprise with this machine is the connector on the motherboard marked &amp;quot;Genlock&amp;quot;, designed for video editing/combining/overlaying hardware, such as the Millipede AlphaLock Studio. One person has even found a way to wire an Acorn A4 LCD into it.
+
+Like the RISC PC, it was usually supplied with a Microvitec multisync SVGA monitor (sometimes with an Acorn badge) which allowed for all the slightly weird screen resolutions that Acorns were capable of, which some PC monitors didnt like. 
+
+When the British supermarket Tesco launched its successful computers for schools charity fundraising scheme, it had the A7000 proudly displayed on its campaign posters. Unfortunately due to the increasing march of PC clones into schools this turned out to be the last all-new design Acorn computer released apart from the Phoebe/RISC PC II computer which was never released. 
+
+A improved A7000+ was released around 96/97. There was double the amount of onboard DRAM (now 8MB), and a 1.2GB Seagate hard drive. 
+
+Submitted by Asteroid
+_______________________</description>
+        <emulators>
+            <emulator>
+                <description>An excellent Windows-based Archimedes emulator, plays many games and has simple usage.</description>
+                <link>http://b-em.bbcmicro.com/arculator/</link>
+                <name>Arculator</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>An Emulator of Arm based Acorn machines for Windows 98/ME/2000/XP</description>
+                <link>http://www.red-squirrel.org/</link>
+                <name>Red Squirrel</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Excellent but commercial software - £30 </description>
+                <link>http://www.virtualacorn.co.uk/</link>
+                <name>Virtual Acorn</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Archie is an emulation of the Acorn Archimedes hardware (A3xx/A4xx/A3xxx) for DOS/Windows</description>
+                <link>http://www.geocities.com/siliconvalley/campus/5427/</link>
+                <name>ARCHIE</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>VGA video output. Numerous graphic modes. Up to 16M colours at 480x352, 32K colours at 800x600</graphics>
+        <hardwares>
+            <hardware type="CARDS">
+                <items>
+                    <item>
+                        <description>486 card||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;486 CARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Allowed Archimedes series computers to run 32-bit PC-DOS software.  It was delivered with a manual, a driver disk and PC-DOS 6.3&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Acorn_A39000_486card_1.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Graphics accelerator||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;GRAPHICS ACCELERATOR&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Graphics accelerator card (called &amp;quot;ColourCard&amp;quot;) for A3000, Archimedes and A5000.&amp;lt;br&amp;gt;  Company : Computer Concepts&amp;lt;br&amp;gt; Enhanced potential for Archimedes series including 15-bit desktop modes (i.e. 800*600 @ 256 colours).&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Acorn_A5000_ColorCard_1.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Cumana SCSI card||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;CUMANA SCSI CARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;16-bit SCSI-1 card&amp;lt;br&amp;gt;  Company: Cumana.&amp;lt;br&amp;gt; There are an external port for scanners/CD-ROM etc. and 2 internal ports for SCSI and Floptical drives.&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Acorn_A5000_SCSICard_1.jpg</photo>
+                    </item>
+                    <item>
+                        <description>Serial card||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;SERIAL CARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;From Atomwide's site:&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;#666666&amp;quot;&amp;gt; High speed serial card featuring three ports, each in the shape of a standard 9-pin ‘D’ plug. Each port on the card is capable of running at up to 460,800 bits per second, and employs a 16-byte FIFO buffer to reduce loading on the host computer’s processor, so improving communications reliability. All serial cards are standard single-width podules, and are fully compatible with Atomwide 6 and 8-slot RiscPC backplanes.&amp;lt;/font&amp;gt; &amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Acorn_A5000_SerialCard_1.jpg</photo>
+                    </item>
+                    <item>
+                        <description>MIDI card||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MIDI CARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Allowed Archimedes systems to interact with any midi sound device.&amp;lt;</description>
+                        <photo>http://www.old-computers.com/museum/hardware/Acorn_A4000_MidiCard_s1.jpg</photo>
+                    </item>
+                </items>
+            </hardware>
+        </hardwares>
+        <image>http://www.old-computers.com/museum/photos/Acorn_A7000_System_s1.jpg</image>
+        <keyboard>Full-stroke 102 keys PC-style</keyboard>
+        <language>RISC OS</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=31</link>
+            <link>computer.asp?st=1&amp;amp;c=75</link>
+            <link>computer.asp?st=1&amp;amp;c=697</link>
+            <link>computer.asp?st=1&amp;amp;c=707</link>
+            <link>computer.asp?st=1&amp;amp;c=706</link>
+            <link>computer.asp?st=1&amp;amp;c=709</link>
+            <link>computer.asp?st=1&amp;amp;c=710</link>
+        </links>
+        <manufacturer>Acorn Computer</manufacturer>
+        <media>3.5'' floppy disc, 420 MB or more hard disk, CD-ROM option</media>
+        <name>Archimedes A7000</name>
+        <numGames></numGames>
+        <origin>United Kingdom</origin>
+        <peripherals></peripherals>
+        <ports>Centronics, Serial, VGA, PS/2, 1 expansion slot</ports>
+        <power>Built-in 35W switching power supply unit</power>
+        <price>From &amp;pound;799</price>
+        <production></production>
+        <ram>4 MB</ram>
+        <rom>1MB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;RUNNING&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Acorn_A7000_Running_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FRONT VIEW&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Acorn_A7000_FrontView_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;REAR PANEL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;From left to right:&amp;lt;br&amp;gt;&amp;lt;br&amp;gt; • Power switch + connectors,&amp;lt;br&amp;gt; • Reset switch,&amp;lt;br&amp;gt; • Audio output jack (for speakers / headphones),&amp;lt;br&amp;gt; • Display port,&amp;lt;br&amp;gt; • Keyboard port,&amp;lt;br&amp;gt; • Mouse port,&amp;lt;br&amp;gt; • Optional network port,&amp;lt;br&amp;gt; • Parallel port,&amp;lt;br&amp;gt; • Serial port.&amp;lt;br&amp;gt;  Top blanking plate is for optional expansion cards, e.g. Podule cards.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Acorn_A7000_RearSide_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;A7000 OPENED&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The hard disk drive is located under the floppy disk drive.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Acorn_A7000_Opened_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;A7000 MOTHERBOARD EXPLAINED&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(1)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; 48-pin Network Interface connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(2)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; 16-pin Genlock connector (for video editing hardware and LCDs)&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(3)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Loudspeaker connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(4)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; CD-ROM audio connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(5)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Cirrus Logic PS7500FE &amp;quot;system on a chip&amp;quot;, comprised of the following components:&amp;lt;br&amp;gt;    • 32-bit ARM710 processor with FPU&amp;lt;br&amp;gt;    • 4kb of unified cache memory&amp;lt;br&amp;gt;    • Memory Management Unit (MMU)&amp;lt;br&amp;gt;    • EDO/Fast Page DRAM controller&amp;lt;br&amp;gt;    • CRT/LCD compatible graphics controller&amp;lt;br&amp;gt;    • CD-quality audio controller&amp;lt;br&amp;gt;    • PS/2 keyboard &amp;amp; mouse ports&amp;lt;br&amp;gt;    • 16-bit, PC-style I/O bus with 8 general-purpose I/O lines&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(6)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Motherboard DC power connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(7)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; LED power connector (supplies the Power and Hard disk activity LEDs)&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(8)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Fan connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(9)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Backplane interface connector (for Podule cards and similar devices)&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(10)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; 6-pin POST connector (what is this used for?)&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(11)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; 32 MHz crystal oscillator. The 7000+ has 48 MHz + 64 MHz oscillators - produce the clock speeds for the CPU and memory respectively in the PS7500FE.&amp;lt;br&amp;gt; • Reference: A7000 and A7000+ specification tables on &amp;lt;a href=&amp;quot;http://homepage.ntlworld.com/christopher.whytehead/RiscPC.html&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;this page&amp;lt;/a&amp;gt;:&amp;lt;br&amp;gt;  • &amp;lt;a href=&amp;quot;http://homepage.ntlworld.com/christopher.whytehead/Pics/A7000E.html&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;Fig. 1&amp;lt;/a&amp;gt;: Bottom crystal is not soldered in, so both CPU and memory clocks are delivered by the 64MHz crystal (left of PS7500FE). For the CPU, it is 64MHz divided by 2 = 32MHz. For the memory, it is 64MHz divided by 4 = 16MHz.&amp;lt;br&amp;gt; • &amp;lt;a href=&amp;quot;http://homepage.ntlworld.com/christopher.whytehead/Pics/A7000+5.html &amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;Fig. 2&amp;lt;/a&amp;gt;: 48MHz crystal (below PS7500FE) now soldered in, delivers 48MHz to CPU clock. So now the 64MHz crystal only supplies the memory clock, but at a higher speed - 64MHz divided by 2 = 32MHz.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(12)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; 2x 16 Mb (Megabit) ROM chips holding RISC OS 3.71&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(13)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; EDO/Fast Page DRAM slot (shown installed: 32MB EDO module)&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(14)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; 2x 2MB onboard RAM chips (the EDO module hides the second one). The 7000+ has 4x 2MB chips&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(15)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Jumper for clearing the NVRAM (a.k.a CMOS/RTC RAM) contents&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(16)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Floppy disk drive &amp;amp; IDE interface connectors&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(17)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; CMOS / RTC battery.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(18)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; SMC FDC37C665GT - controls the floppy disk, IDE, parallel &amp;amp; serial interfaces.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Acorn_A7000_Mainboard_s2.jpg</link>
+            </shot>
+        </screenshots>
+        <size></size>
+        <sound>8 voices synthesizer</sound>
+        <speed>32 MHz</speed>
+        <text>80 columns x 25 rows up to 132 x 32</text>
+        <type>Professional Computer</type>
+        <vram></vram>
+        <year>1995</year>
+    </computer>
+</computers>

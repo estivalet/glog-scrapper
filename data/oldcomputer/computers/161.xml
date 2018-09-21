@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>None</builtInGames>
+        <colors>Monochrome</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Motorola MC 68000</cpu>
+        <description>
+The Apple Macintosh SE was launched in 1987 at same time as the Macintosh II. It was an enhanced version of the Macintosh 128 and the Macintosh Plus. It had almost the same specifications as the latter, and unlike the Mac plus, it had an extension slot (which was not compatible with the NUBUS slots of the Macintosh II).
+
+A little trivia: the ROM used only 89 KB of the available 256 KB. So to fill the chip, Apple put the photos of the development team into the ROM. To see these photos, press the debug button then type: G 41D89A.
+
+The Mac 128, the 512k, the 512KE (same but with an 800K floppy drive), and the SE have the signatures of their developers molded as engravings on the inside of the case at the rear.
+_______________________</description>
+        <emulators>
+            <emulator>
+                <description>Demonstration version of a commercial software (MS DOS &amp;amp; Win95)</description>
+                <link>http://www.ardi.com/</link>
+                <name>Executor</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Demonstration version of a commercial software (MS DOS &amp;amp; Win95)</description>
+                <link>http://www.ardi.com/</link>
+                <name>Executor</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>A commercial Software which emulates the Atari ST/TT and the Mac 128/Plus/2 (Win95 / Win NT)</description>
+                <link>http://www.emulators.com/</link>
+                <name>Gemulator</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>A commercial Software which emulates the Atari ST/TT and the Mac 128/Plus/2 (Win95 / Win NT)</description>
+                <link>http://www.emulators.com/</link>
+                <name>Gemulator</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Same as Apple lisa emulator for unix but ported to windows</description>
+                <link>http://lisa.sunder.net/</link>
+                <name>LisaEm</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>PearPC is an architecture-independent PowerPC platform emulator capable of running most PowerPC operating systems.</description>
+                <link>http://pearpc.sourceforge.net/</link>
+                <name>PearPC</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>good 68K Emulator For Windows</description>
+                <link>http://www.emulators.com/</link>
+                <name>SoftMac</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>A Mac 128 Emulator for MS DOS / Win97 (available for OS/2 too)</description>
+                <link>http://www.leb.net/vmac</link>
+                <name>vMAC (Virtual MAC)</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>A Mac 128 Emulator for Macintosh !!!</description>
+                <link>http://www.leb.net/vmac</link>
+                <name>vMAC (Virtual MAC)</name>
+                <platform>Apple emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Demo version of a commercial software (Linux / NextStep)</description>
+                <link>http://www.ardi.com/</link>
+                <name>Executor</name>
+                <platform>Unix / Linux emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Demo version of a commercial software (Linux / NextStep)</description>
+                <link>http://www.ardi.com/</link>
+                <name>Executor</name>
+                <platform>Unix / Linux emulator</platform>
+            </emulator>
+            <emulator>
+                <description>for HP-UX and Solaris</description>
+                <link>http://www.mae.apple.com/</link>
+                <name>Macintosh Application Environment (MAE)</name>
+                <platform>Unix / Linux emulator</platform>
+            </emulator>
+            <emulator>
+                <link>http://www.uni-mainz.de/~bauec002/SSMain.html</link>
+                <name>The Official ShapeShifter Home Page</name>
+                <platform>Amiga OS emulator</platform>
+            </emulator>
+            <emulator>
+                <link>http://www.leb.net/vmac/</link>
+                <name>vMac - The Virtual Macintosh Emulator Project</name>
+                <platform>Other platform emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Basilisk II is an Open Source 68k Macintosh emulator. Good emulator, runs on several platforms, even Amiga</description>
+                <link>http://basilisk.cebix.net/</link>
+                <name>Basilisk II</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Mini vMac, a spin off of the program vMac,  emulates a Macintosh Plus and Macintosh SE. So far it works on Macintosh OS, Microsoft Windows, and the X Window System. </description>
+                <link>http://minivmac.sourceforge.net/</link>
+                <name>Mini vMac</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>512 x 342</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/Apple_MacSE_System_s2.jpg</image>
+        <keyboard>Typewriter style, 84 keys with numeric keypad</keyboard>
+        <language>None</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=265</link>
+            <link>computer.asp?st=1&amp;amp;c=271</link>
+            <link>computer.asp?st=1&amp;amp;c=1043</link>
+            <link>computer.asp?st=1&amp;amp;c=160</link>
+            <link>computer.asp?st=1&amp;amp;c=282</link>
+            <link>computer.asp?st=1&amp;amp;c=1005</link>
+            <link>computer.asp?st=1&amp;amp;c=162</link>
+            <link>http://www.apple-history.com/</link>
+            <link>http://www.applefritter.com</link>
+            <link>http://www.cmq.qc.ca/cmq.html</link>
+            <link>http://www.cmq.qc.ca/Groupes.html</link>
+            <link>http://www.everythingmac.com/</link>
+            <link>http://home.earthlink.net/~gamba2/index.html</link>
+            <link>http://www.jagshouse.com/</link>
+            <link>http://www.lowendmac.com</link>
+            <link>http://www.MacForumz.com</link>
+            <link>http://www.macdebate.com</link>
+            <link>http://www.d4.dion.ne.jp/~motohiko/</link>
+            <link>ftp://ftp.amug.org/pub/info-mac/</link>
+            <link>ftp://ezinfo.ethz.ch/mac.dir/</link>
+            <link>ftp://ftp.luth.se/pub/mac/</link>
+            <link>ftp://daemon.ncsa.uiuc.edu/Info-Mac-Binaries/</link>
+            <link>ftp://ftp.center.osaka-u.ac.jp/info-mac/</link>
+            <link>ftp://ftp.ucs.ubc.ca/pub/mac/info-mac/</link>
+            <link>ftp://wwwhost.ots.utexas.edu/mac/main.html</link>
+            <link>news:comp.sources.mac</link>
+            <link>news:comp.sys.mac.advocacy</link>
+            <link>news:comp.sys.mac.announce</link>
+            <link>news:comp.sys.mac.apps</link>
+            <link>news:comp.sys.mac.comm</link>
+            <link>news:comp.sys.mac.digest</link>
+            <link>news:comp.sys.mac.hardware.misc</link>
+            <link>news:comp.sys.mac.misc</link>
+            <link>news:comp.sys.mac.programmer.help</link>
+            <link>news:comp.sys.mac.programmer.info</link>
+            <link>news:comp.sys.mac.programmer.misc</link>
+            <link>news:comp.sys.mac.system</link>
+        </links>
+        <manufacturer>Apple</manufacturer>
+        <media>One or Two 3.5'' disk-drives,  20 to 80 MB HDD</media>
+        <name>MACINTOSH SE</name>
+        <numGames></numGames>
+        <origin>U.S.A.</origin>
+        <peripherals></peripherals>
+        <ports>Centronics, ADB (2 : Keyboard, mouse), RS232/422, Internal expansion slot (96-pin Eurodin)</ports>
+        <power>Built-in switching PSU</power>
+        <price>$3700</price>
+        <production>1989</production>
+        <ram>1 MB (up to 4 MB)</ram>
+        <rom>256 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;RUNNING SYSTEM&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Apple_MacSE_Running_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;LEFT SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Apple_MacSE_System_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;TOP VIEW&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Apple_MacSE_TopView_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;KEYBOARD CLOSE-UP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Apple_MacSE_Keyboard_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;BACK SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Connectors, from left to right:&amp;lt;br&amp;gt; • 2 ADB connectors for keyboard and mouse&amp;lt;br&amp;gt; • SCSI connector for external HDD&amp;lt;br&amp;gt; • Parallel printer connector&amp;lt;br&amp;gt; • 2 serial ports (Printer and modem)&amp;lt;br&amp;gt; • Sound output jack&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Apple_MacSE_BackSide_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;INSIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(1)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; 20 MB Hard disk drive&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(2)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Motherboard&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(3)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; 100W switching power supply unit&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(4)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Video board&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Apple_MacSE_Inside_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;MAIN BOARD EXPLAINED&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;(1)&amp;lt;/b&amp;gt; Internal SCSI connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(2)&amp;lt;/b&amp;gt; Internal floppy-disk connectors&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(3)&amp;lt;/b&amp;gt; SCSI chip&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(4)&amp;lt;/b&amp;gt; Apple Desktop Bus chip&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(5)&amp;lt;/b&amp;gt; Parallel chip (VIA)&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(6)&amp;lt;/b&amp;gt; 256 KB ROM chips. Holds system routines&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(7)&amp;lt;/b&amp;gt; Motorola 68000 processor&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(8)&amp;lt;/b&amp;gt; Peripheral card slot  (96-pin Eurodin)&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(9)&amp;lt;/b&amp;gt; 1 MB RAM in four 256k SIMM modules (could be replaced with 1 MB modules)&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(10)&amp;lt;/b&amp;gt; Custom gate array chip&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(11)&amp;lt;/b&amp;gt; Disk management chip (IWM)&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(12)&amp;lt;/b&amp;gt; Serial chip (SCC) and drivers&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(13)&amp;lt;/b&amp;gt; Sound chip&amp;lt;br&amp;gt; &amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Apple_MacSE_Mainboard_s1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;CARRYING BAG&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/Apple_MacSE_Bag_s1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>13.6 (H) x 9.6 (W) x 10.9 (D) in / 19.5 lb.</size>
+        <sound>8-bit mono sound chip</sound>
+        <speed>7.83 MHz</speed>
+        <text></text>
+        <type>Professional Computer</type>
+        <vram></vram>
+        <year>March 1987</year>
+    </computer>
+</computers>

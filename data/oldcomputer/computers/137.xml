@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>MSX Basic</builtInGames>
+        <colors>256</colors>
+        <controllers></controllers>
+        <coprocessor></coprocessor>
+        <cpu>Zilog Z80A</cpu>
+        <description>
+The Sony HIT BIT 700f was the successor of the Sony HIT BIT 500. It met the MSX 2 standard.
+
+It was sold as a semiprofessional computer; it came with a program on disk called HiBrid, which can be seen as a graphical shell around MSX-DOS. It had a saved CMOS memory, which held time, date, password or screen definition.
+
+It also came with a MSX-DOS floppy, the MSX operating system, made by Microsoft, which looks like CP/M.
+
+Ewout van Duursen reports:
+This computer has 256 KB RAM. But it only uses 64 KB in MSX-DOS. This was the only MSX2 on which you could play &amp;quot;Nemisis 2&amp;quot; from a disc (&amp;quot;Cracked from cartridge of coarse&amp;quot;). The memory was divided in 4 banks of 64 KB, Which where divided in 16 KB. The first 16 KB was used for BIOS. The next 16 KB was used for MSX-Basic. The next two banks where &amp;quot;free&amp;quot;, except for the last couples of bytes. You could switch banks by &amp;quot;peeking&amp;quot; at adress &amp;amp;hFFFF. To play most games you had to peek 255,-1 for proper memory configuration.
+
+More information from Bramman:
+ All hitbit series had a country code. The HB700f was the US version. I had a HBF700-D with a german keyboard.
+ The exact peek for games was poke -1,255. Which was irritating, because all other MSX's in Holland used Poke -1,170 (mostly Philips MSX's). On that peek the HB-700 rebooted, for every copied game the autoexec.bas had to be changed ;)
+ The 256 KB RAM was called 256 Memory Mapper. It was built-in the HB-700, but you could buy a separate one as a cartridge.
+ The machine was supplied with a GUI, installed separatly from the disk. This Gui looked alot like the Atari and Apple GUI's.
+ The MSX-DOS was in ROM. Normal MSX's I've seen had MSX-dos on a disk. On this one you could switch to normal MSX-basic with a command.
+
+Manuel Bilderbeek corrects and specifies:  
+- MSX-DOS and other OS's are always loaded from disk, never from ROM except for a few rare Russian Yamaha machines that have CP/M in ROM.
+- MSX-DOS can only handle 64kB RAM, because of the Z80 and CP/M.
+- There's no such thing as 4 banks of 64kB RAM, unless the author means the physical RAM chips, but I don't know about that.
+- This machine contains indeed 256kB RAM, and as is the case with all MSX machines with more than 64kB, it uses the memory  mapper mechanism, which works with blocks of 16kB that can be switched.
+- Under MSX-BASIC operation, the lower 32kB of the Z80 addressing space have the BIOS and BASIC ROM switched in, as with all MSX machines.
+- Address 0xFFFF is not for switching banks but for selecting the secundary slot of that slot. And one does not PEEK there to do that, but one POKEs.
+- The POKE that is mentioned should be POKE -1, 255. Here -1 is the same as 0xFFFF. This is to select the sub slot (3) with the RAM (memory mapper) in slot 3. Some old/bad software fails to select the RAM and hence this needs to be done from BASIC before loading. There's also a generic POKE to 0xFFFF to select the right subslot with the RAM that works on any MSX.
+- There never was a US version of this machine.
+- The 700F is the French version. The P is the PAL (international) version. D is the German version indeed.
+- Many external memory mapper cartridges to expand the RAM were sold.
+As you can see, most of this info is also valid for many other MSX machines.
+
+
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <link>http://www.komkon.org/~dekogel/fmsx.html</link>
+                <name>fMSX for MS DOS Homepage</name>
+                <platform>MS DOS emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Excellent free MSX emulator</description>
+                <link>http://www.bluemsx.com/</link>
+                <name>BlueMSX</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>A Bresilian MSX Emulator written in 100% assembler</description>
+                <link>http://www.lsi.usp.br/~ricardo/brmsx.htm</link>
+                <name>BrMSX</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>A MSX1 and MSX2 Emulator</description>
+                <link>http://ftp.castel.nl/msx/</link>
+                <name>CompuJunk's MSX Emulator</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>A MSX Emulator for Win95 and Win NT + Direct X</description>
+                <link>http://members.ping.at/lexlechz/msx.html</link>
+                <name>RuMSX</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>An other MSX 1 emulator for Win 95 / Win NT</description>
+                <link>http://www.msxnet.org/vmsx/</link>
+                <name>Virtual MSX</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <link>http://www.emulation.net/msx/index.html</link>
+                <name>fMSX for MAC OS Homepage</name>
+                <platform>Apple emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Demo version</description>
+                <link>ftp://peon.net/pub/mirrors/ar/msx/amimsx23.lha</link>
+                <name>AmiMSX</name>
+                <platform>Amiga OS emulator</platform>
+            </emulator>
+            <emulator>
+                <description>MSX 1 Emulator for Atari ST/TT/Falcon</description>
+                <link>ftp://ftp.funet.fi/pub/msx/stemu/msx0-012.zip</link>
+                <name>MSX-Emulator</name>
+                <platform>Atari emulator</platform>
+            </emulator>
+            <emulator>
+                <description>fMSX is a portable MSX emulator ported on : Amiga OS, Mac OS, MS DOS, OS/2, Sony Playstation, Risc OS, Towns OS, Unix / X, Win95 / NT, X68K.</description>
+                <link>http://www.komkon.org/fms/fMSX</link>
+                <name>fMSX official Homepage</name>
+                <platform>Other platform emulator</platform>
+            </emulator>
+            <emulator>
+                <description>The excellent fMSX, but ported onto the GamePark GP32 handheld console.</description>
+                <link>HTTP://WWW.RETRODEV.INFO/</link>
+                <name>fMSX32</name>
+                <platform>Other platform emulator</platform>
+            </emulator>
+            <emulator>
+                <description>This new MSX emulator can reproduce, among many other MSX, MSX2and  MSX2+ machines, both Panasonic Turbo-R models. Be sure to get the catapult frontend and the system roms from FUNET. </description>
+                <link>http://openmsx.sourceforge.net/</link>
+                <name>openMSX - The MSX emulator that aims for perfection.</name>
+                <platform>Multiplatform emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>9 graphic modes, the most used is 256 x 212 with 256 colors</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/sony_hbf700_1.jpg</image>
+        <keyboard>Full-stroke keyboard with separated keyboard</keyboard>
+        <language>MSX Basic</language>
+        <links>
+            <link>computer.asp?st=1&amp;amp;c=618</link>
+            <link>computer.asp?st=1&amp;amp;c=619</link>
+            <link>computer.asp?st=1&amp;amp;c=862</link>
+            <link>computer.asp?st=1&amp;amp;c=773</link>
+            <link>computer.asp?st=1&amp;amp;c=281</link>
+            <link>computer.asp?st=1&amp;amp;c=854</link>
+            <link>computer.asp?st=1&amp;amp;c=790</link>
+            <link>computer.asp?st=1&amp;amp;c=662</link>
+            <link>computer.asp?st=1&amp;amp;c=288</link>
+            <link>computer.asp?st=1&amp;amp;c=430</link>
+            <link>http://www.faq.msxnet.org</link>
+        </links>
+        <manufacturer>Sony</manufacturer>
+        <media>3'5 disk drive unit (720 KB double side, double density)</media>
+        <name>Hit-Bit F700</name>
+        <numGames></numGames>
+        <origin>Japan</origin>
+        <peripherals></peripherals>
+        <ports>RGB, 2 x cardridge slots, Centronics, Floppy Disk, Joystick, Mouse</ports>
+        <power>Built-in PSU</power>
+        <price>Unknown</price>
+        <production></production>
+        <ram>256 KB</ram>
+        <rom>64 KB</rom>
+        <screenshots>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;FRONT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/sony_f700_front_1.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;CLOSE-UP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Built-in disk drive, controller ports and keyboard connector.&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/sony_hb700s_front_2.jpg</link>
+            </shot>
+            <shot>
+                <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;amp;gt;&amp;amp;nbsp;REAR&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;</description>
+                <link>http://www.old-computers.com/museum/photos/sony_hb700s_rear_1.jpg</link>
+            </shot>
+        </screenshots>
+        <size>Unknown</size>
+        <sound>3 voices, 8 octaves</sound>
+        <speed>3.58 MHz</speed>
+        <text>40 x 25 / 80 x 25</text>
+        <type>Home Computer</type>
+        <vram>128 KB</vram>
+        <year>1985</year>
+    </computer>
+</computers>

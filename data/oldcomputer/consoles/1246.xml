@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computers>
+    <computer>
+        <adverts/>
+        <builtInGames>CD Player + VMU manager</builtInGames>
+        <colors>16.7 million</colors>
+        <controllers></controllers>
+        <coprocessor>VideoLogic PowerVR2 CLX2 GPU, 32 bit ARM7 RISC @ 45 MHz, Yamaha AICA sound processor @ 22.5 MHz</coprocessor>
+        <cpu>128 bit Hitachi SuperH-4 RISC</cpu>
+        <description>
+The Dreamcast, as it would come to be known, was the result of two competing development projects. Two teams, one from Japan and one from America, were tasked with creating a new console, mainly to get a head start in the next gen battle after the Saturn's lack of success. 
+
+The machines were quite similar with both teams settling on the Hitachi SH-4 for the CPU, the main difference being the choice of manufacturer for the graphics chip. The Japanese team went for a chip based on VideoLogic's PowerVR technology. This machine was codenamed White Belt, Guppy, and Katana. 3dfx was the company of choice for the American team. Using technology based on the Voodoo 2 chip these prototypes were codenamed Black Belt, Shark and Dural. This project came to an end when 3dfx revealed details of their deal with Sega, which lead to the Japanese team being given the go ahead to develop what would become the Dreamcast.
+
+When the Dreamcast launched in 1998 it was by far the most powerful console available, as was demonstrated by Soul Calibur which featured stunning animation and could easily have been mistaken for a tech demo. Early sales were very strong, with the console breaking records for pre-orders and first day sales. However, Sony's announcement of the PlayStation 2 in April 1999, almost a year before it launched, had a dramatic impact on sales. PlayStation had become a household name while Sega's image had been severely damaged by previous hardware such as the 32X and Mega CD. Sales slowed as both consumers and developers waited for the launch of the PS2.
+
+In January 2001 Sega announced that Dreamcast production would cease by March that year. This would be the end of Sega's presence in the home console business, although the company would continue as a software publisher and an arcade machine developer.
+
+Software was still developed by a number of companies including Sega who released their final Dreamcast game, Puyo Pop Fever, in February 2004. Independent games continued to be developed, the most recent being released in March 2007.
+
+The Dreamcast was pretty much developed around the Sega Model-3 arcade system board &amp;amp; stuck into a console.  The Model 3 arcade system was more familiar as the arcade machine that run games such as Daytona USA &amp;amp; Sega Rally in many amusement arcades in the mid 90's.  The Saturn was also based on an arcade system, known as the &amp;quot;Titan&amp;quot; or ST-V which was more familiar in arcades running familiar games such as Virtua Racing &amp;amp; early versions of Virtua Fighter.  it is also rumoured the dreamcast used a 3dfx Voodoo 2 graphics system in early versions.
+ 
+
+
+</description>
+        <emulators>
+            <emulator>
+                <description>The first Dreamcast emulator to play games. Good compatibility but no longer updated.</description>
+                <link>http://www.chanka.org/</link>
+                <name>Chankast</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+            <emulator>
+                <description>Promising new emulator. Decent compatibility already. (Website under construction)</description>
+                <link></link>
+                <name>NullDC</name>
+                <platform>Windows emulator</platform>
+            </emulator>
+        </emulators>
+        <graphics>Unknown</graphics>
+        <hardwares/>
+        <image>http://www.old-computers.com/museum/photos/sega_dreamcast_1.png</image>
+        <keyboard>8-way d-pad, analog stick, 4 buttons + 2x analog buttons + Start</keyboard>
+        <language>CD Player + VMU manager</language>
+        <links/>
+        <manufacturer>Sega</manufacturer>
+        <media>GD-ROM (proprietry disc format similar to CD-ROMs, developed by Sega &amp;amp; Yamaha)</media>
+        <name>Dreamcast</name>
+        <numGames></numGames>
+        <origin>Japan</origin>
+        <peripherals>VMU (Visual Memory Unit), Jump Pack</peripherals>
+        <ports>1 serial port, a detachable modem port and a detachable LAN port as well as the 4 controller ports</ports>
+        <power>PSU built-in</power>
+        <price>199$ (USA, 1999)</price>
+        <production>March 2001</production>
+        <ram>16 MB main, 2 MB sound, 512 KB Flash</ram>
+        <rom>2 MB</rom>
+        <screenshots/>
+        <size>189 x 195 x 76 mm</size>
+        <sound>64 channel PCM</sound>
+        <speed>200 MHz</speed>
+        <text></text>
+        <type></type>
+        <vram>8 MB</vram>
+        <year>1998 (Japan) 1999 (USA, Europe)</year>
+    </computer>
+</computers>
