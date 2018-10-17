@@ -1,0 +1,119 @@
+{
+  "url": "https://www.generation-msx.nl/software/sony-dempa-micomsoft-co-ltd/sensor-kid/1149/",
+  "originalTitle": "センサーキッド",
+  "translatedTitle": "Sensor Kid (English)",
+  "developedBy": "Sony\n                                     Dempa Micomsoft Co., LTD",
+  "year": "1988",
+  "system": "MSX 2",
+  "sound": "PSG",
+  "kind": "Program",
+  "inputDevicesSupported": "Keyboard",
+  "genre": "Tool",
+  "maxPlayers": "",
+  "maxSimultaneous": "",
+  "usesKanji": "",
+  "license": "",
+  "licence": "Commercial",
+  "language": "Japanese",
+  "note": "A cartridge that measures three environmental variables: sound, light and temperature. You can see the three cords for each type of measurement. \nIt also extends MSX BASIC with the following commands:\n\nCALL HIKARI(x) (light)\nCALL ONDO(x) (temperature)\nCALL OTO(x) (sound)\nCALL PORT0 (port 1)\nCALL PORT1 (port 2)",
+  "tagooDatabaseEntry": "Visit (japanese MSX database)",
+  "credits": "",
+  "mentions": [
+    {
+      "url": "/publication/msx-club-belgienederland/msx-club-magazine-30/214/",
+      "text": "MSX Club Magazine 30",
+      "description": "MSX Club Magazine 30\n                                                                on page 58                                                                 (review)"
+    }
+  ],
+  "conversions": [],
+  "releases": [
+    {
+      "title": "",
+      "productCode": "HBJ-H081C",
+      "pirated": "",
+      "publisher": "Sony",
+      "country": "Japan  (6,800 Yen)",
+      "media": "ROM "
+    },
+    {
+      "title": "",
+      "productCode": "",
+      "pirated": "",
+      "publisher": "",
+      "country": "",
+      "media": " "
+    }
+  ],
+  "medias": [
+    {
+      "url": "//images.generation-msx.nl/cover/31f3d255.png",
+      "type": "image",
+      "title": "Photo"
+    },
+    {
+      "url": "//images.generation-msx.nl/cover/00ec429b.png",
+      "type": "image",
+      "title": "Photo"
+    },
+    {
+      "url": "//images.generation-msx.nl/cover/8c1d5317.png",
+      "type": "image",
+      "title": "Photo"
+    },
+    {
+      "url": "//images.generation-msx.nl/cover/f5014d4a.jpg",
+      "type": "image",
+      "title": "Photo"
+    },
+    {
+      "url": "",
+      "type": "image",
+      "title": ""
+    },
+    {
+      "url": "//images.generation-msx.nl/software_title/d335d469.png",
+      "type": "image",
+      "title": "Title screen."
+    },
+    {
+      "url": "//images.generation-msx.nl/software_game/64cf5774.png",
+      "type": "image",
+      "title": "Game screen."
+    },
+    {
+      "url": "//images.generation-msx.nl/software_extra/f5b412f8.png",
+      "type": "image",
+      "title": ""
+    },
+    {
+      "url": "//images.generation-msx.nl/software_extra/b072b143.png",
+      "type": "image",
+      "title": ""
+    },
+    {
+      "url": "//images.generation-msx.nl/software_extra/ecc88327.png",
+      "type": "image",
+      "title": ""
+    },
+    {
+      "url": "//images.generation-msx.nl/software_extra/87f5d679.png",
+      "type": "image",
+      "title": ""
+    },
+    {
+      "url": "//images.generation-msx.nl/software_extra/5d962158.png",
+      "type": "image",
+      "title": ""
+    },
+    {
+      "url": "//images.generation-msx.nl/software_extra/979e7ee7.png",
+      "type": "image",
+      "title": ""
+    },
+    {
+      "url": "",
+      "type": "image",
+      "title": ""
+    }
+  ]
+}

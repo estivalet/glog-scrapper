@@ -245,21 +245,21 @@ public class MSXGamesWorldScriptV2 {
 	}
 
 	private void downloadImages() throws Exception {
-		String[] filess = new File("msxgamesworldv2").list();
+		String[] filess = new File("data/msxgamesworldv2").list();
 		String downloads = "";
 		for (String file : filess) {
 			System.out.println(file);
 			if (file.equals("images") || file.equals("processed")) {
 				continue;
 			}
-			String json = IOUtil.readFully(new FileInputStream("msxgamesworldv2/" + file));
+			String json = IOUtil.readFully(new FileInputStream("data/msxgamesworldv2/" + file));
 			JsonElement jelement = new JsonParser().parse(json);
 			JsonObject jobject = jelement.getAsJsonObject();
-			if (jobject.getAsJsonArray("capturas") == null) {
+			if (jobject.getAsJsonArray("caratulas") == null) {
 				continue;
 			}
-			for (int i = 0; i < jobject.getAsJsonArray("capturas").size(); i++) {
-				String captura = jobject.getAsJsonArray("capturas").get(i).toString().replaceAll("\"", "");
+			for (int i = 0; i < jobject.getAsJsonArray("caratulas").size(); i++) {
+				String captura = jobject.getAsJsonArray("caratulas").get(i).toString().replaceAll("\"", "");
 				String f = captura.substring(captura.lastIndexOf("/") + 1);
 				captura = captura.replaceAll(" ", "%20").replaceAll("&amp;", "&").replaceAll("&iacute;", "í");
 
@@ -272,38 +272,45 @@ public class MSXGamesWorldScriptV2 {
 				}
 				System.out.println(f + " -> " + folder);
 				System.out.println("-------->" + "http://www.msxgamesworld.com/" + captura);
-				URLGrabber ug = new URLGrabber("http://www.msxgamesworld.com/" + captura, "C:/Users/luisoft/git/glog-service/msxgamesworldv2/images/capturas/" + folder + "/" + f);
-				File ft = new File("C:/Users/luisoft/git/glog-service/msxgamesworldv2/images/capturas/" + folder + "/" + f);
+				URLGrabber ug = new URLGrabber("http://www.msxgamesworld.com/" + captura, "C:/Users/luisoft/git/glog-scrapper/data/msxgamesworldv2/images/caratulas/" + folder + "/" + f);
+				File ft = new File("C:/Users/luisoft/git/glog-scrapper/data/msxgamesworldv2/images/caratulas/" + folder + "/" + f);
 				if (ft.exists() && (ft.length() == 0 || ft.length() == 221)) {
-					System.out.println("delleting " + "C:/Users/luisoft/git/glog-service/msxgamesworldv2/images/capturas/" + folder + "/" + f);
+					System.out.println("delleting " + "C:/Users/luisoft/git/glog-scrapper/data/msxgamesworldv2/images/caratulas/" + folder + "/" + f);
 					System.out.println("DELETED->" + ft.delete());
+					downloads += "C:/Users/luisoft/apps/curl-7.61.1-win64-mingw/bin/curl -k \"" + "http://www.msxgamesworld.com/" + captura + "\" > \"" + f + "\"\n";
+					downloads += "timeout 15\n";
+				} else if (!ft.exists()) {
+					downloads += "C:/Users/luisoft/apps/curl-7.61.1-win64-mingw/bin/curl -k \"" + "http://www.msxgamesworld.com/" + captura + "\" > \"" + f + "\"\n";
+					downloads += "timeout 15\n";
+
 				}
 				// if (ug.saveURLBinary()) {
-				// System.out.println("saved " + "C:/Users/luisoft/git/glog-service/msxgamesworldv2/images/capturas/" + folder + "/" + f);
+				// System.out.println("saved " + "C:/Users/luisoft/git/glog-scrapper/msxgamesworldv2/images/capturas/" + folder + "/" + f);
 				// System.out.println("waiting");
 				// Thread.sleep(15000);
 				// }
-				downloads += "C:/Users/luisoft/apps/curl-7.61.1-win64-mingw/bin/curl -k \"" + "http://www.msxgamesworld.com/" + captura + "\" > \"" + f + "\"\n";
-				downloads += "timeout 15\n";
 			}
 		}
 		System.out.println("_-----------------------");
-		System.out.println(downloads);
+		// System.out.println(downloads);
 		IOUtil.write("c:/temp/download.bat", downloads);
 
 	}
 
 	public static void main(String[] args) throws Exception {
-		// URLGrabber ug = new URLGrabber("http://www.msxgamesworld.com/images/capturas/Fernando%20Martín%20Basket%20Master%20(Dinamic,%201986)%20002.png", "C:/Users/luisoft/git/glog-service/msxgamesworldv2/test.png");
+		// URLGrabber ug = new URLGrabber("http://www.msxgamesworld.com/images/capturas/Fernando%20Martín%20Basket%20Master%20(Dinamic,%201986)%20002.png", "C:/Users/luisoft/git/glog-scrapper/msxgamesworldv2/test.png");
 		// ug.saveURLBinary();
 		// System.exit(0);
 
-		// HttpDownloadUtility.downloadFile("http://www.msxgamesworld.com/images/capturas/Fernando%20Martín%20Basket%20Master%20(Dinamic,%201986)%20002.png", "C:/Users/luisoft/git/glog-service/msxgamesworldv2/");
+		// HttpDownloadUtility.downloadFile("http://www.msxgamesworld.com/images/capturas/Fernando%20Martín%20Basket%20Master%20(Dinamic,%201986)%20002.png", "C:/Users/luisoft/git/glog-scrapper/msxgamesworldv2/");
 		// System.exit(0);
 
 		// separate files into folders.
-		// String[] filesss = new File("msxgamesworldv2/images/capturas").list();
+		// String[] filesss = new File("data/msxgamesworldv2/images/capturas").list();
 		// for (String f : filesss) {
+		// if (new File("data/msxgamesworldv2/images/capturas/" + f).isDirectory()) {
+		// continue;
+		// }
 		// System.out.println(f);
 		// char ch = f.substring(0, 1).charAt(0);
 		// String folder = "";
@@ -312,10 +319,15 @@ public class MSXGamesWorldScriptV2 {
 		// } else {
 		// folder = String.valueOf(ch).toLowerCase();
 		// }
-		// new File("msxgamesworldv2/images/capturas/" + folder).mkdirs();
-		// Files.move(new File("msxgamesworldv2/images/capturas/" + f), new File("msxgamesworldv2/images/capturas/" + folder + "/" + f));
+		// new File("data/msxgamesworldv2/images/capturas/" + folder).mkdirs();
+		// Files.move(new File("data/msxgamesworldv2/images/capturas/" + f).toPath(), new File("data/msxgamesworldv2/images/capturas/" + folder + "/" + f).toPath(), StandardCopyOption.REPLACE_EXISTING);
 		// }
 		// System.exit(0);
+
+		// test only
+		MSXGamesWorldScriptV2 g2 = new MSXGamesWorldScriptV2();
+		System.out.println(g2.getGameMainSummary("http://www.msxgamesworld.com/gamecard.php?id=1171"));
+		System.exit(0);
 
 		// Download images.
 		MSXGamesWorldScriptV2 g = new MSXGamesWorldScriptV2();

@@ -53,7 +53,7 @@ public class URLGrabber {
 			httpcon.addRequestProperty("User-Agent", "Mozilla/4.0");
 			InputStream is = httpcon.getInputStream();
 
-			BufferedReader in = new BufferedReader(new InputStreamReader(is, "ISO-8859-1"));
+			BufferedReader in = new BufferedReader(new InputStreamReader(is, "UTF-8"));// "ISO-8859-1"));
 			String inputLine = "";
 			String s = "";
 			while ((inputLine = in.readLine()) != null) {

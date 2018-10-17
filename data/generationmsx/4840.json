@@ -1,0 +1,59 @@
+{
+  "url": "https://www.generation-msx.nl/software/walter-meester/interlacing/4840/",
+  "originalTitle": "Interlacing",
+  "translatedTitle": "",
+  "developedBy": "Walter Meester",
+  "year": "1990",
+  "system": "MSX 2",
+  "sound": "PSG",
+  "kind": "Demo",
+  "inputDevicesSupported": "Keyboard",
+  "genre": "",
+  "maxPlayers": "",
+  "maxSimultaneous": "",
+  "usesKanji": "",
+  "license": "",
+  "licence": "Pd/freeware",
+  "language": "",
+  "note": "The better MSX 2 drawing work, interlacing. A beautiful drawing - see MCM 34, page 51 - with also further explanation on how to create yourself such a beautiful drawing using interlacing.\nAlso the creator, Walter Meester, uses nice scroll effects. Use and operation of this is also to be found on the disk, in the form of a number of Basic-listings, and in these listings corresponding bits of machine code.\n\nit is possible by means of a small reset-proof piece of Arjen Schrijvers machine language to get text screen 6 in interlace mode on the screen. You can choose between ordinary letters, interlaced letters and lines. These choices are indicated by using the print#1 instruction, followed by a number of stars (*) that will determine the shape of the following information on the screen.\n\nThere are a number of additional error messages which are added to MSX-Basic, to an already very complete list of MSX error messages. The whole thing looks - apart from a few spelling mistakes - really very smart and also the speed is anything but slow. Highly recommended, only for MSX-2.",
+  "tagooDatabaseEntry": "",
+  "credits": "",
+  "mentions": [
+    {
+      "url": "/publication/mbi-publications/msx-dos-computer-magazine-35/263/",
+      "text": "MSX-DOS Computer Magazine 35",
+      "description": "MSX-DOS Computer Magazine 35\n                                                                 (other)"
+    }
+  ],
+  "conversions": [],
+  "releases": [
+    {
+      "title": "",
+      "productCode": "B17/3-01",
+      "pirated": "",
+      "publisher": "MSX Computer Magazine (NL)",
+      "country": "Netherlands  (10 NLG)",
+      "media": "Single Side Disk "
+    },
+    {
+      "title": "",
+      "productCode": "",
+      "pirated": "",
+      "publisher": "",
+      "country": "",
+      "media": " "
+    }
+  ],
+  "medias": [
+    {
+      "url": "",
+      "type": "image",
+      "title": ""
+    },
+    {
+      "url": "",
+      "type": "image",
+      "title": ""
+    }
+  ]
+}

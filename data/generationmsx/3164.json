@@ -1,0 +1,131 @@
+{
+  "url": "https://www.generation-msx.nl/software/steven-wallis/buster-block/3164/",
+  "originalTitle": "Buster Block",
+  "translatedTitle": "",
+  "developedBy": "Steven Wallis",
+  "year": "1985",
+  "system": "MSX",
+  "sound": "PSG",
+  "kind": "Game",
+  "inputDevicesSupported": "Keyboard, Joystick",
+  "genre": "Puzzle",
+  "maxPlayers": "",
+  "maxSimultaneous": "",
+  "usesKanji": "",
+  "license": "",
+  "licence": "Commercial",
+  "language": "English",
+  "note": "From the web site of one of the authors, Steve Wallis (http://www.socialiststeve.me.uk/games.htm):\n\nPush blocks onto monsters before they come and get you or even push blocks at you. Your energy decreases when you collide with a monster or block, and gradually all the time so you have to be quick! Complete one of 25 levels (arranged via four different routes which you can navigate in either order) and you gain back some energy plus bonus points. I based Buster Block on two games for the BBC Micro, Pingu and Rubble Trouble (which are really addictive), but provided 16 different kinds of blocks (including those which go round corners) and six kinds of monsters, and designed a maze of 400 rooms rather than having random screens. The MSX platform, on which I implemented Buster Block first, had very limited graphics (only two colours in a row of eight pixels apart from a small number of monochrome sprites), but they were well-suited to this game since blocks are easier to make multi-coloured than other objects. I did virtually the entire graphics in Buster Block, unlike our other games, because accommodating to the limitations of MSX graphics required a different kind of skill to simply being very good at art (which Sean was). [Sean?s only contributions to this game were the ASCII character set and logos.] The MSX platform provided the choice of pixel or (multi-coloured) character-mapped display facilities, which meant that there were fewer problems of slow-downs on the MSX in screens with a lot of monsters and blocks moving at once. The more limited memory capacity of the CPC-464 (64K in total) meant that I had to use up some of the screen memory for data and shrink the screen size, and the graphics on the top of the screen is only stored in the screen memory. The limit of four colours also affects the graphics quality, but I was so proud of this game that I didn\u0027t have the motivation to finish writing any more games afterwards.",
+  "tagooDatabaseEntry": "",
+  "credits": "",
+  "mentions": [],
+  "conversions": [],
+  "releases": [
+    {
+      "title": "",
+      "productCode": "MS-27",
+      "pirated": "",
+      "publisher": "Kuma Computers",
+      "country": "United Kingdom  (6.95 GBP)",
+      "media": "Tape "
+    },
+    {
+      "title": "",
+      "productCode": "",
+      "pirated": "",
+      "publisher": "Ace Software S.A.",
+      "country": "Spain ",
+      "media": "Tape "
+    },
+    {
+      "title": "",
+      "productCode": "",
+      "pirated": "",
+      "publisher": "",
+      "country": "",
+      "media": " "
+    }
+  ],
+  "medias": [
+    {
+      "url": "//images.generation-msx.nl/cover/48001c09.jpg",
+      "type": "image",
+      "title": "Front"
+    },
+    {
+      "url": "//images.generation-msx.nl/cover/2ff3996b.jpg",
+      "type": "image",
+      "title": "Back"
+    },
+    {
+      "url": "//images.generation-msx.nl/cover/97de835b.jpg",
+      "type": "image",
+      "title": "Media"
+    },
+    {
+      "url": "//images.generation-msx.nl/cover/c126f78f.png",
+      "type": "image",
+      "title": "Manual"
+    },
+    {
+      "url": "//images.generation-msx.nl/cover/4756c1b8.png",
+      "type": "image",
+      "title": "Front"
+    },
+    {
+      "url": "//images.generation-msx.nl/cover/7a82804b.png",
+      "type": "image",
+      "title": "Complete"
+    },
+    {
+      "url": "//images.generation-msx.nl/cover/05abebe6.png",
+      "type": "image",
+      "title": "Media"
+    },
+    {
+      "url": "//images.generation-msx.nl/cover/788c9ba8.png",
+      "type": "image",
+      "title": "Photo"
+    },
+    {
+      "url": "",
+      "type": "image",
+      "title": ""
+    },
+    {
+      "url": "//images.generation-msx.nl/software_title/561798ee.png",
+      "type": "image",
+      "title": "Title screen."
+    },
+    {
+      "url": "//images.generation-msx.nl/software_game/71c4566d.png",
+      "type": "image",
+      "title": "Game screen."
+    },
+    {
+      "url": "//images.generation-msx.nl/software_extra/5a63cd28.png",
+      "type": "image",
+      "title": "Loading screen"
+    },
+    {
+      "url": "//images.generation-msx.nl/software_extra/4be991a8.png",
+      "type": "image",
+      "title": ""
+    },
+    {
+      "url": "//images.generation-msx.nl/software_extra/36987205.png",
+      "type": "image",
+      "title": ""
+    },
+    {
+      "url": "//images.generation-msx.nl/software_extra/a96c8a1c.png",
+      "type": "image",
+      "title": ""
+    },
+    {
+      "url": "",
+      "type": "image",
+      "title": ""
+    }
+  ]
+}
