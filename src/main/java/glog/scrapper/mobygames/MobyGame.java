@@ -9,6 +9,7 @@ import javax.xml.bind.annotation.XmlRootElement;
 @XmlRootElement(name = "game")
 public class MobyGame {
 	private String name;
+	private String shortName;
 	private String description;
 	private String publishedBy;
 	private String developedBy;
@@ -24,6 +25,9 @@ public class MobyGame {
 	private String releaseDate;
 	private String url;
 	private String system;
+	private String visual;
+	private String gamePlay;
+	private String setting;
 	private List<MobyGameRelease> release = new ArrayList<MobyGameRelease>();
 	private List<String> shot = new ArrayList<String>();
 	private List<String> cover = new ArrayList<String>();
@@ -320,6 +324,38 @@ public class MobyGame {
 
 	public void setSystem(String system) {
 		this.system = system;
+	}
+
+	public String getShortName() {
+		return shortName;
+	}
+
+	public void setShortName(String shortName) {
+		this.shortName = shortName;
+	}
+
+	public String getVisual() {
+		return visual;
+	}
+
+	public void setVisual(String visual) {
+		this.visual = visual;
+	}
+
+	public String getGamePlay() {
+		return gamePlay;
+	}
+
+	public void setGamePlay(String gamePlay) {
+		this.gamePlay = gamePlay;
+	}
+
+	public String getSetting() {
+		return setting;
+	}
+
+	public void setSetting(String setting) {
+		this.setting = setting;
 	}
 
 }

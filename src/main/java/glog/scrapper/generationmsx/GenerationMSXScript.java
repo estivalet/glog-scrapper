@@ -3,6 +3,7 @@ package glog.scrapper.generationmsx;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
+import java.io.FileInputStream;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.PrintWriter;
@@ -13,9 +14,14 @@ import java.util.Set;
 
 import org.apache.commons.beanutils.BeanUtils;
 import org.apache.commons.io.FileUtils;
+import org.bson.Document;
 import org.w3c.dom.NodeList;
 
 import com.google.gson.Gson;
+import com.mongodb.MongoClient;
+import com.mongodb.MongoClientURI;
+import com.mongodb.client.MongoCollection;
+import com.mongodb.client.MongoDatabase;
 
 import glog.util.IOUtil;
 import glog.util.URLGrabber;
@@ -176,6 +182,23 @@ public class GenerationMSXScript {
 		//
 		// FileUtils.write(new File("data/generationmsx/" + name + ".json"), json, "UTF-8");
 		// }
+
+		// Store in mongodb.
+		int port_no = 27017;
+		String host_name = "localhost", db_name = "msxdb", db_coll_name = "generationmsx";
+		String client_url = "mongodb://" + host_name + ":" + port_no + "/" + db_name;
+		MongoClientURI uri = new MongoClientURI(client_url);
+		MongoClient mongo_client = new MongoClient(uri);
+		MongoDatabase db = mongo_client.getDatabase(db_name);
+		MongoCollection<Document> coll = db.getCollection(db_coll_name);
+		String[] files = new File("data/generationmsx").list();
+		for (String file : files) {
+			System.out.println(file);
+			String json = IOUtil.readFully(new FileInputStream("data/generationmsx/" + file));
+			Document doc = Document.parse(json);
+			coll.insertOne(doc);
+		}
+		System.exit(0);
 
 		String script = "";
 		for (String file : new File("data/generationmsx/").list()) {

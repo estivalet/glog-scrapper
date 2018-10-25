@@ -2,6 +2,7 @@ package glog.scrapper.mobygames;
 
 import java.io.BufferedWriter;
 import java.io.File;
+import java.io.FileInputStream;
 import java.io.FileWriter;
 import java.io.PrintWriter;
 import java.io.Writer;
@@ -10,7 +11,6 @@ import java.util.List;
 import java.util.Vector;
 
 import javax.xml.bind.JAXBContext;
-import javax.xml.bind.Marshaller;
 import javax.xml.bind.Unmarshaller;
 
 import org.apache.commons.beanutils.BeanUtils;
@@ -31,7 +31,7 @@ import glog.util.XPathParser;
  *
  */
 public class MobyGamesScript {
-	private static final String MOBY_URL = "http://www.mobygames.com/";
+	private static final String MOBY_URL = "https://www.mobygames.com/";
 	private static final String GAMES_URL = MOBY_URL + "browse/games/";
 	private static final String XPATH_GAMES_COUNT = "//td[@class='mobHeaderItems']";
 	private static final String XPATH_GAME_LINK = "//a[contains(@href,'/game/%param1%')]/@href";
@@ -79,7 +79,7 @@ public class MobyGamesScript {
 			}
 		}
 		for (String link : links) {
-			out.println(MOBY_URL + link);
+			out.println(link);
 		}
 		out.close();
 	}
@@ -94,6 +94,7 @@ public class MobyGamesScript {
 	private MobyGame getGameMainSummary(String url) throws Exception {
 		MobyGame game = new MobyGame();
 		game.setUrl(url);
+		game.setShortName(url.substring(url.lastIndexOf("/") + 1));
 		XPathParser xp = new XPathParser(url);
 		String name = xp.parse("//h1[@class='niceHeaderTitle']/a");
 		game.setName(name);
@@ -105,12 +106,12 @@ public class MobyGamesScript {
 		String description = contents.substring(i + 16, j);
 		game.setDescription(description);
 
-		String[] infos = { "Published by", "Developed by", "Released", "Also For", "Genre", "Perspective", "Theme",
-				"Non-Sport", "Sport", "Misc", "Country", "Release Date" };
-		String[] attrs = { "publishedBy", "developedBy", "released", "alsoFor", "genre", "perspective", "theme",
-				"nonSport", "sport", "misc", "country", "releaseDate" };
+		String[] infos = { "Published by", "Developed by", "Released", "Also For", "Genre", "Perspective", "Theme", "Non-Sport", "Sport", "Misc", "Country", "Release Date", "Visual", "Gameplay", "setting" };
+		String[] attrs = { "publishedBy", "developedBy", "released", "alsoFor", "genre", "perspective", "theme", "nonSport", "sport", "misc", "country", "releaseDate", "visual", "gamePlay", "setting" };
 		for (i = 0; i < infos.length; i++) {
 			String info = xp.parse("//div[.='" + infos[i] + "']/following::div[1]");
+			// The unicode character \u0160 is not a non-breaking space.
+			info = info.replaceAll("\u00A0", " ");
 			BeanUtils.setProperty(game, attrs[i], info);
 		}
 
@@ -140,74 +141,57 @@ public class MobyGamesScript {
 			NodeList publishers = xp.parseList("//h2[.='" + systemName + "']/following::div[.='Published by']");
 			for (int p = 1; p <= publishers.getLength(); p++) {
 
-				String publisherName = xp.parse(
-						"(//h2[.='" + systemName + "']/following::div[.='Published by'])[" + p + "]/following::a[1]");
+				String publisherName = xp.parse("(//h2[.='" + systemName + "']/following::div[.='Published by'])[" + p + "]/following::a[1]");
 
-				String currentSystem = xp.parse(
-						"(//h2[.='" + systemName + "']/following::div[.='Published by'])[" + p + "]/preceding::h2[1]");
+				String currentSystem = xp.parse("(//h2[.='" + systemName + "']/following::div[.='Published by'])[" + p + "]/preceding::h2[1]");
 				if (!currentSystem.equals(systemName)) {
 					continue;
 				}
 
-				String currentPub = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName
-						+ "\"]/following::div[.='Developed by']/preceding::div[.='Published by'][1]/following::a[1]");
+				String currentPub = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName + "\"]/following::div[.='Developed by']/preceding::div[.='Published by'][1]/following::a[1]");
 				String developerName = "";
 				if (currentPub.equals(publisherName)) {
-					developerName = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName
-							+ "\"]/following::div[.='Developed by']/following::a[1]");
+					developerName = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName + "\"]/following::div[.='Developed by']/following::a[1]");
 				}
 
-				currentPub = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName
-						+ "\"]/following::div[.='Country']/preceding::div[.='Published by'][1]/following::a[1]");
+				currentPub = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName + "\"]/following::div[.='Country']/preceding::div[.='Published by'][1]/following::a[1]");
 				String country = "";
 				if (currentPub.equals(publisherName)) {
-					country = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName
-							+ "\"]/following::div[.='Country']/following::span[1]");
+					country = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName + "\"]/following::div[.='Country']/following::span[1]");
 				}
 
 				if (country.equals("")) {
-					currentPub = xp.parse("(//h2[.='" + systemName + "']/following::a[.=\"" + publisherName
-							+ "\"]/following::div[.='Countries'])[1]/preceding::div[.='Published by'][1]/following::a[1]");
+					currentPub = xp.parse("(//h2[.='" + systemName + "']/following::a[.=\"" + publisherName + "\"]/following::div[.='Countries'])[1]/preceding::div[.='Published by'][1]/following::a[1]");
 					if (currentPub.equals(publisherName)) {
-						NodeList countriesList = xp
-								.parseList("(//h2[.='" + systemName + "']/following::a[.=\"" + publisherName
-										+ "\"]/following::div[.='Countries'])[1]/following-sibling::div[1]/span");
+						NodeList countriesList = xp.parseList("(//h2[.='" + systemName + "']/following::a[.=\"" + publisherName + "\"]/following::div[.='Countries'])[1]/following-sibling::div[1]/span");
 						for (int c = 0; c < countriesList.getLength(); c++) {
 							country += countriesList.item(c).getTextContent();
 						}
 					}
 				}
 
-				currentPub = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName
-						+ "\"]/following::div[.='Release Date']/preceding::div[.='Published by'][1]/following::a[1]");
+				currentPub = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName + "\"]/following::div[.='Release Date']/preceding::div[.='Published by'][1]/following::a[1]");
 				String releaseDate = "";
 				if (currentPub.equals(publisherName)) {
-					releaseDate = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName
-							+ "\"]/following::div[.='Release Date']/following-sibling::div[1]");
+					releaseDate = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName + "\"]/following::div[.='Release Date']/following-sibling::div[1]");
 				}
 
-				currentPub = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName
-						+ "\"]/following::div[.='EAN-13']/preceding::div[.='Published by'][1]/following::a[1]");
+				currentPub = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName + "\"]/following::div[.='EAN-13']/preceding::div[.='Published by'][1]/following::a[1]");
 				String ean13 = "";
 				if (currentPub.equals(publisherName)) {
-					ean13 = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName
-							+ "\"]/following::div[.='EAN-13']/following-sibling::div[1]");
+					ean13 = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName + "\"]/following::div[.='EAN-13']/following-sibling::div[1]");
 				}
 
-				currentPub = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName
-						+ "\"]/following::div[.='Comments']/preceding::div[.='Published by'][1]/following::a[1]");
+				currentPub = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName + "\"]/following::div[.='Comments']/preceding::div[.='Published by'][1]/following::a[1]");
 				String comments = "";
 				if (currentPub.equals(publisherName)) {
-					comments = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName
-							+ "\"]/following::div[.='Comments']/following-sibling::div[1]");
+					comments = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName + "\"]/following::div[.='Comments']/following-sibling::div[1]");
 				}
 
-				currentPub = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName
-						+ "\"]/following::div[.='Ported by']/preceding::div[.='Published by'][1]/following::a[1]");
+				currentPub = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName + "\"]/following::div[.='Ported by']/preceding::div[.='Published by'][1]/following::a[1]");
 				String portedBy = "";
 				if (currentPub.equals(publisherName)) {
-					portedBy = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName
-							+ "\"]/following::div[.='Ported by']/following::a[1]");
+					portedBy = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName + "\"]/following::div[.='Ported by']/following::a[1]");
 				}
 
 				MobyGameReleaseInfo releaseInfo = new MobyGameReleaseInfo();
@@ -242,7 +226,7 @@ public class MobyGamesScript {
 			NodeList shotLinks = xpath.parseList("//a[contains(@href,'/screenshots/')]/@href");
 			for (int i = 0; i < shotLinks.getLength(); i++) {
 				String l = shotLinks.item(i).getTextContent();
-				xpath = new XPathParser(MOBY_URL + l);
+				xpath = new XPathParser(l);
 				game.addScreenshot(xpath.parse("//img[contains(@src,'/images/shots/')]/@src"));
 			}
 		} catch (Exception e) {
@@ -263,7 +247,7 @@ public class MobyGamesScript {
 		NodeList shotLinks = xpath.parseList("//a[contains(@href,'/cover-art/')]/@href");
 		for (int i = 0; i < shotLinks.getLength(); i++) {
 			String l = shotLinks.item(i).getTextContent();
-			xpath = new XPathParser(MOBY_URL + l);
+			xpath = new XPathParser(l);
 			game.addCover(xpath.parse("//img[contains(@src,'/images/covers/')]/@src"));
 		}
 		return game;
@@ -299,11 +283,16 @@ public class MobyGamesScript {
 		game = this.getScreenshot(game);
 		this.addGame(this.getCoverArt(game));
 
-		JAXBContext jc = JAXBContext.newInstance(XMLWrapper.class, MobyGame.class);
-		Marshaller marshaller = jc.createMarshaller();
-		marshaller.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, true);
+		// JAXBContext jc = JAXBContext.newInstance(XMLWrapper.class, MobyGame.class);
+		// Marshaller marshaller = jc.createMarshaller();
+		// marshaller.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, true);
+		//
+		// return XMLUtil.marshal(marshaller, this.getGames(), "games");
 
-		return XMLUtil.marshal(marshaller, this.getGames(), "games");
+		Gson gson = new GsonBuilder().disableHtmlEscaping().setPrettyPrinting().create();
+		String json = gson.toJson(game, MobyGame.class);
+		return json;
+
 	}
 
 	/**
@@ -336,10 +325,18 @@ public class MobyGamesScript {
 	 */
 	public static void main(String[] args) throws Exception {
 		MobyGamesScript mgs = new MobyGamesScript("msx");
-		String[] files = new File("data/mobygames/MSX - MSX 1/").list();
-		for (String file : files) {
-			mgs.convertXMLtoJSON("data/mobygames/MSX - MSX 1/" + file);
+		// mgs.saveGamesLinksToFile();
+
+		String urls = IOUtil.readFully(new FileInputStream("data/mobygames/mobygames_msx.txt"));
+		for (String url : urls.split(System.getProperty("line.separator"))) {
+			System.out.println(url);
+			IOUtil.write(".", url.substring(url.lastIndexOf("/") + 1) + ".json", mgs.getGameInfo(url));
 		}
+
+		// String[] files = new File("data/mobygames/MSX - MSX 1/").list();
+		// for (String file : files) {
+		// mgs.convertXMLtoJSON("data/mobygames/MSX - MSX 1/" + file);
+		// }
 	}
 
 }

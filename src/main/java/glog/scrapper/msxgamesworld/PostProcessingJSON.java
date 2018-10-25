@@ -19,13 +19,13 @@ public class PostProcessingJSON {
 				"Number of players", "Region", "Country", "Genre", "caratulas", "publications" };
 		String[] nkeys = { "productId", "year", "languages", "format", "controls", "links", "releasedBy", "misc", "SRAM", "developedBy", "sound", "", "url", "type", "generation", "price", "series", "name", "shots", "players", "region",
 				"country", "genre", "titles", "publications" };
-		String[] files = new File("msxgamesworldv2").list();
+		String[] files = new File("data/msxgamesworldv2").list();
 		for (String file : files) {
 			if ("images".equals(file) || "processed".equals(file)) {
 				continue;
 			}
 			Gson gson = new Gson();
-			File jsonFile = Paths.get("c:/Users/luisoft/git/glog-service/msxgamesworldv2/" + file).toFile();
+			File jsonFile = Paths.get("c:/Users/luisoft/git/glog-scrapper/data/msxgamesworldv2/" + file).toFile();
 			JsonObject jsonObject = gson.fromJson(new FileReader(jsonFile), JsonObject.class);
 			for (int i = 0; i < okeys.length; i++) {
 				// get value from old key and replace by the new one
@@ -37,10 +37,11 @@ public class PostProcessingJSON {
 					}
 				}
 			}
+			jsonObject.addProperty("imported", false);
 			Gson gson2 = new GsonBuilder().setPrettyPrinting().create();
 			String json = gson2.toJson(jsonObject);
 			System.out.println(json);
-			IOUtil.write("c:/Users/luisoft/git/glog-service/msxgamesworldv2/processed/" + file, json);
+			IOUtil.write("c:/Users/luisoft/git/glog-scrapper/data/msxgamesworldv2/processed/" + file, json);
 		}
 
 		// list all keys.

@@ -325,27 +325,27 @@ public class MSXGamesWorldScriptV2 {
 		// System.exit(0);
 
 		// test only
-		MSXGamesWorldScriptV2 g2 = new MSXGamesWorldScriptV2();
-		System.out.println(g2.getGameMainSummary("http://www.msxgamesworld.com/gamecard.php?id=1171"));
-		System.exit(0);
+		// MSXGamesWorldScriptV2 g2 = new MSXGamesWorldScriptV2();
+		// System.out.println(g2.getGameMainSummary("http://www.msxgamesworld.com/gamecard.php?id=1171"));
+		// System.exit(0);
 
 		// Download images.
-		MSXGamesWorldScriptV2 g = new MSXGamesWorldScriptV2();
-		g.downloadImages();
-		System.exit(0);
+		// MSXGamesWorldScriptV2 g = new MSXGamesWorldScriptV2();
+		// g.downloadImages();
+		// System.exit(0);
 
 		// Store in mongodb.
 		int port_no = 27017;
-		String host_name = "localhost", db_name = "msxdb", db_coll_name = "games";
+		String host_name = "localhost", db_name = "msxdb", db_coll_name = "msxgamesworld";
 		String client_url = "mongodb://" + host_name + ":" + port_no + "/" + db_name;
 		MongoClientURI uri = new MongoClientURI(client_url);
 		MongoClient mongo_client = new MongoClient(uri);
 		MongoDatabase db = mongo_client.getDatabase(db_name);
 		MongoCollection<Document> coll = db.getCollection(db_coll_name);
-		String[] files = new File("msxgamesworldv2/processed").list();
+		String[] files = new File("data/msxgamesworldv2/processed").list();
 		for (String file : files) {
 			System.out.println(file);
-			String json = IOUtil.readFully(new FileInputStream("msxgamesworldv2/processed/" + file));
+			String json = IOUtil.readFully(new FileInputStream("data/msxgamesworldv2/processed/" + file));
 			Document doc = Document.parse(json);
 			coll.insertOne(doc);
 		}
