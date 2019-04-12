@@ -74,6 +74,7 @@ public class AtariManiaScript {
 	public static void main(String[] args) throws Exception {
 		AtariManiaScript ams = new AtariManiaScript();
 		ams.saveLinks();
+
 	}
 
 }

@@ -1,12 +1,19 @@
 package glog.scrapper.generationmsx;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class GenerationMSXGameRelease {
+	private String name;
 	private String title;
 	private String productCode;
 	private String pirated;
 	private String publisher;
-	private String country;
 	private String media;
+	private String manual;
+	private List<GenerationMSXGameMedia> medias = new ArrayList<GenerationMSXGameMedia>();
+	private List<String> countries = new ArrayList<String>();
+	private String description;
 
 	/**
 	 * @return the publisher
@@ -21,21 +28,6 @@ public class GenerationMSXGameRelease {
 	 */
 	public void setPublisher(String publisher) {
 		this.publisher = publisher;
-	}
-
-	/**
-	 * @return the country
-	 */
-	public String getCountry() {
-		return country;
-	}
-
-	/**
-	 * @param country
-	 *            the country to set
-	 */
-	public void setCountry(String country) {
-		this.country = country;
 	}
 
 	/**
@@ -75,6 +67,54 @@ public class GenerationMSXGameRelease {
 
 	public void setPirated(String pirated) {
 		this.pirated = pirated;
+	}
+
+	public List<GenerationMSXGameMedia> getMedias() {
+		return medias;
+	}
+
+	public void setMedias(List<GenerationMSXGameMedia> medias) {
+		this.medias = medias;
+	}
+
+	public void addMedia(GenerationMSXGameMedia media) {
+		this.medias.add(media);
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public String getDescription() {
+		return description;
+	}
+
+	public void setDescription(String description) {
+		this.description = description;
+	}
+
+	public String getManual() {
+		return manual;
+	}
+
+	public void setManual(String manual) {
+		this.manual = manual;
+	}
+
+	public List<String> getCountries() {
+		return countries;
+	}
+
+	public void setCountries(List<String> countries) {
+		this.countries = countries;
+	}
+
+	public void addCountry(String country) {
+		this.countries.add(country);
 	}
 
 }

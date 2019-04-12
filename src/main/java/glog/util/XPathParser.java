@@ -28,6 +28,14 @@ public class XPathParser {
 		this.xp = XPathFactory.newInstance().newXPath();
 	}
 
+	public XPathParser(String url, String contents) throws Exception {
+		this.pageContents = contents;
+		this.tagNode = new HtmlCleaner().clean(contents);
+		this.doc = new DomSerializer(new CleanerProperties()).createDOM(this.tagNode);
+		this.xp = XPathFactory.newInstance().newXPath();
+
+	}
+
 	public XPathParser(File url) throws Exception {
 		this.pageContents = IOUtil.getContents(url);
 		this.tagNode = new HtmlCleaner().clean(this.pageContents);

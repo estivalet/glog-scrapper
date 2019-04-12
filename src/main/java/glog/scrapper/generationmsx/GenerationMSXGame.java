@@ -32,6 +32,8 @@ public class GenerationMSXGame {
 	private String portedBy;
 	private List<GenerationMSXGameMentions> mentions = new ArrayList<GenerationMSXGameMentions>();
 	private List<String> conversions = new ArrayList<String>();
+	private List<String> seealso = new ArrayList<String>();
+	private List<String> group = new ArrayList<String>();
 	private List<GenerationMSXGameRelease> releases = new ArrayList<GenerationMSXGameRelease>();
 	private List<GenerationMSXGameMedia> medias = new ArrayList<GenerationMSXGameMedia>();
 
@@ -378,4 +380,29 @@ public class GenerationMSXGame {
 	public void setPortedBy(String portedBy) {
 		this.portedBy = portedBy;
 	}
+
+	public List<String> getSeealso() {
+		return seealso;
+	}
+
+	public void setSeealso(List<String> seealso) {
+		this.seealso = seealso;
+	}
+
+	public void addSeealso(String setSeealso) {
+		this.seealso.add(setSeealso);
+	}
+
+	public List<String> getGroup() {
+		return group;
+	}
+
+	public void setGroup(List<String> group) {
+		this.group = group;
+	}
+
+	public void addGroup(String group) {
+		this.group.add(group);
+	}
+
 }
