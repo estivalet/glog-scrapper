@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computer>
+    <adverts>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;FRENCH AD (DEC. 1982)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;quot;Intellivision video games. Realism goes past fiction&amp;quot;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/mattel_intellivision_ad-fr_2.jpg</link>
+        </advert>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;FRENCH AD (AUGUST 1983)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;quot;Intellivision video games. Intelligence is in the game&amp;quot;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/mattel_intellivision_ad-fr_3.jpg</link>
+        </advert>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;FRENCH AD (NOV. 1983)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;quot;Enter the game of computing&amp;quot;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/mattel_intellivision_ad-fr_1.jpg</link>
+        </advert>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;FRENCH FLYER&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;... featuring the Intellivoice&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/mattel_intellivision_poster-verso.jpg</link>
+        </advert>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;PROMOTIONAL PICTURE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/mattel_intellivision_promo-pic_1.jpg</link>
+        </advert>
+    </adverts>
+    <batteries></batteries>
+    <builtInGames>None</builtInGames>
+    <buttons></buttons>
+    <colors>16 color palette</colors>
+    <controllers></controllers>
+    <coprocessor></coprocessor>
+    <cpu>General Instrument CP1610</cpu>
+    <description>
+The Intellivision was developed by Mattel Electronics, a subsidiary of toy company Mattel (yes, the same people that make the famous &amp;quot;Barbie doll&amp;quot;), specifically to get a foot into the arriving and profitable market of electronic games. The Intellivision arrived in 1979 boasting technology that far outstripped any of the competitors, so much so that it was the first real challenge to Atari. Like Atari, Mattel also marketed their console to retailers as a rebadged unit. These models include the Radio Shack Tandyvision, the GTE-Sylvania Intellivision, and the Sears Super Video Arcade.
+
+Using a General Instruments CP1610 processor, Intellivision was the first 16-bit game console. The data bus was only 10 bits wide but the processor internally ran with 16 bits at 894.886 kHz with 1352 bytes of RAM. The games were stored on 4-8k ROM insertable cartridges. The strongest market for the device was in sports video games where it offered superior graphics and sound.
+
+By early 1982 Mattel had boasted a machine that sold over 2 million units, making them some $100 million US and a growing library of games that would eventually reach some 129 titles and more titles if you include 3rd party developers.
+
+Mattel also developed a ?System Changer?, an attachable device that allowed the direct play of Atari games that saw them as one of the first to successfully win a lawsuit against Atari who sued because of the invention.
+
+Intellivision was the second video game system with a Voice Synthesis module (?IntelliVoice?), and had what was probably the first Cable Modem in the form of ?PlayCable? that allowed users to download Intellivision games direct off a special TV channel.
+
+The Intellivision?s unique controllers allowed natural player movement in 16 directions with overlays used for each individual game, allowing the controller to be reprogrammable.
+
+After the arrival of IntelliVision II: Mattel would drop their attempt at the ?Keyboard Component? (the IntelliVision computer) for the ?ECS?, an updated design that attached to the system and also failed commercially due to poor design. Mattel then invested in the equally failed Aquarius home computer.
+
+On Jan 20, 1984, and after selling 6 million units and loosing $300 million, Mattel closed the Intellivision project when the ?video game crash? came into full force. The remaining inventory eventually falling to the hands of former Intellivision programmers who went on with the project in the form of INTV and on-line/CD-ROM versions of the classic Intellivision video games.
+
+____________
+
+Contributors: &amp;quot;Skel&amp;quot; (Derek McDonald)
+ 
+
+
+</description>
+    <emulators>
+        <emulator>
+            <description>many features including ECS, Intellivoice,CGC support, network play, menu system, box/overlay display and text manual reader</description>
+            <link>http://www.shiny-technologies.com/nostalgia.php</link>
+            <name>Nostalgia</name>
+            <platform>Windows emulator</platform>
+        </emulator>
+        <emulator>
+            <description>Intellivision emulator for Windows and PalmOS</description>
+            <link>http://bliss.kylesblog.com/</link>
+            <name>Bliss</name>
+            <platform>Multiplatform emulator</platform>
+        </emulator>
+        <emulator>
+            <description>More emulators at IntellivisionWorld</description>
+            <link>http://www.intellivisionworld.com/Download/List.asp?iwCat=1</link>
+            <name>IntellivisionWorld</name>
+            <platform>Multiplatform emulator</platform>
+        </emulator>
+        <emulator>
+            <description>Good emulator for Unix, Windows and MacOS</description>
+            <link>http://spatula-city.org/~im14u2c/intv/</link>
+            <name>jzINTV</name>
+            <platform>Multiplatform emulator</platform>
+        </emulator>
+    </emulators>
+    <graphics>160 x 196</graphics>
+    <gun></gun>
+    <hardwares>
+        <hardware type="ENTERTAINMENT COMPUTER SYSTEM">
+            <items>
+                <item>
+                    <description>Computer add-on|||White version|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;COMPUTER ADD-ON&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;White version&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Mattel was in a bind to compete with the increasing amount of game systems and computers entering the market so they set up competing internal engineering teams, each trying to either fix the Keyboard Component or replace it. The result was a new component system dubbed &amp;quot;the Entertainment Computer System&amp;quot; that proved to be was much smaller, sleeker, and easier to produce than the original Keyboard Component. Users who opted to keep their old &amp;quot;Keyboard Components&amp;quot; were offered the new system in exchange. In the end, however, the &amp;quot;ECS&amp;quot; was a retail flop. Although the original Keyboard Component offered some promise if it could have been fixed, the new one was designed to be cheap, not functional and simply could not compete with the likes of computers like the Commodore 64, never mind that it was totally incompatible to the older &amp;quot;Intellivision Keyboard Component&amp;quot;. &amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/mattel_intellivision_white_ecs.jpg</photo>
+                </item>
+                <item>
+                    <description>Right side||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;RIGHT SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Thanks to this connector it's possible to connect other Intellivision expansions&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/mattel_intellivision_ecs_r-side.jpg</photo>
+                </item>
+                <item>
+                    <description>Left side||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;LEFT SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The ECS is attached to the Intellivision master console thanks to this interface&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/mattel_intellivision_ecs_l-side.jpg</photo>
+                </item>
+                <item>
+                    <description>Keyboard|||White version|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;KEYBOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;White version&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/mattel_intellivision_ecs_keyboard.jpg</photo>
+                </item>
+                <item>
+                    <description>Opened lid||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;OPENED LID&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The connectors are used to attached the keyboard via a special &amp;quot;Y&amp;quot; cable.&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/mattel_intellivision_ecs_opened.jpg</photo>
+                </item>
+                <item>
+                    <description>Box||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/mattel_intellivision_ecs_box.jpg</photo>
+                </item>
+                <item>
+                    <description>Promotional picture|||Brown version|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;PROMOTIONAL PICTURE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;Brown version&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/mattel_intellivision_ecs_1.jpg</photo>
+                </item>
+                <item>
+                    <description>Italian promotional leaflet|||featuring also the music synthesizer|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;ITALIAN PROMOTIONAL LEAFLET&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;featuring also the music synthesizer&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/mattel_intellivision_ecs_ita_1.jpg</photo>
+                </item>
+                <item>
+                    <description>Italian promotional leaflet|||featuring also the music synthesizer|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;ITALIAN PROMOTIONAL LEAFLET&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;featuring also the music synthesizer&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/mattel_intellivision_ecs_ita_2.jpg</photo>
+                </item>
+            </items>
+        </hardware>
+        <hardware type="INTELLICART">
+            <items>
+                <item>
+                    <description>Download games||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;DOWNLOAD GAMES&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;3rd party developer Schell Electronics during the late 1990's developed the Intellicart to transfer Intellivision games from selected Internet sites and play them directly on their Intellivision unit. It connected via a 9pin serial connected to the back of a PC via a wire while it remained connected to the Intellivision via it's cartridge port. The device is no longer made.&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/mattel_intellivision_intellicart.jpg</photo>
+                </item>
+            </items>
+        </hardware>
+        <hardware type="INTELLIVOICE">
+            <items>
+                <item>
+                    <description>let your console speak !||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;LET YOUR CONSOLE SPEAK !&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The &amp;quot;Intellivoice&amp;quot; was launched in 1982 to much fanfare when it was introduced as the second voice synthesis system ever made for video games (The first was Magnavox's voice module for the Odyssey). Innovative for the time, &amp;quot;Intellivoice&amp;quot; produced speech when used with certain games, most of which would not work without the add-on component. The VSM was a large, brown cartridge that could be plugged into the Intellivision, at which point games specifically designed for the device could be inserted like a normal cartridge into the right side of the module. &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; More information available in the &amp;lt;a href=&amp;quot;http://www.old-computers.com/museum/doc.asp?c=1205&amp;amp;st=2&amp;quot;&amp;gt;READ MORE&amp;lt;/a&amp;gt; section.&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/mattel_intellivision_intellivoice.jpg</photo>
+                </item>
+            </items>
+        </hardware>
+        <hardware type="KEYBOARD COMPONENT">
+            <items>
+                <item>
+                    <description>turn your Intellivision into a real computer !||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;TURN YOUR INTELLIVISION INTO A REAL COMPUTER !&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Sometime before the failed Aquarius home computer scheme was hatched by Mattel, the Intellivision team had attempted to expand Intellivision into the growing home computer market by turning it into a full fledged computer dubbed as the &amp;quot;Intellivision Keyboard Component&amp;quot;, much in the same way Coleco was soon to do with their Adam computer. The unit featured a built-in cassette tape drive for loading and saving data. The Keyboard Component would plug into the cartridge slot on the Intellivision, and had an additional cartridge slot of its own to allow regular Intellivision game cartridges to be played in the usual way. It used the famous 6502 microprocessor as its base. This device was a promise made by Mattel way back in 1979 when they claimed the Intellivision could be upgraded to become a 64K computer.&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/mattel_intellivision_component-keyboard.jpg</photo>
+                </item>
+                <item>
+                    <description>Promotional picture||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;PROMOTIONAL PICTURE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/mattel_intellivision_component-keyboard_2.jpg</photo>
+                </item>
+                <item>
+                    <description>Promotional picture||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;PROMOTIONAL PICTURE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/mattel_intellivision_component-keyboard_3.jpg</photo>
+                </item>
+                <item>
+                    <description>Promotional picture||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;PROMOTIONAL PICTURE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/mattel_intellivision_component-keyboard_4.jpg</photo>
+                </item>
+                <item>
+                    <description>Promotional picture||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;PROMOTIONAL PICTURE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/mattel_intellivision_component-keyboard_5.jpg</photo>
+                </item>
+            </items>
+        </hardware>
+        <hardware type="MUSIC SYNTHESIZER">
+            <items>
+                <item>
+                    <description>Keyboard &amp;amp; box||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;KEYBOARD &amp;amp; BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The Intellivision Music Synthesizer was a real music keyboard providing 49 keys, 6 polifonic notes (it can play 6 notes at the same time). The keyboard demands the ECS component in order to work: it would be connected through a double 9 pin connector to the controller doors of the Mattel adapter. &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; The Music Synthesizer could be found in the traditional but rare color brown color typical of the first Intellivision model, or in the gray color of Intellivision II. &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; Unfortunately Mattel created only one game to take advantage of the musical add-on, that being &amp;quot;Melody Blaster&amp;quot;.&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/mattel_intellivision_piano-keyboard_2.jpg</photo>
+                </item>
+                <item>
+                    <description>Italian promotional leaflet||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;ITALIAN PROMOTIONAL LEAFLET&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/mattel_intellivision_synthe_1.jpg</photo>
+                </item>
+            </items>
+        </hardware>
+        <hardware type="PLAYCABLE">
+            <items>
+                <item>
+                    <description>attached to the Intellivision||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;ATTACHED TO THE INTELLIVISION&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The Intellivision was the first system to feature downloadable games (though without a storage device the games vanished once the machine was turned off). In 1981, General Instrument (manufacturer of the Intellivision's CPU) teamed up with Mattel to roll out the &amp;quot;PlayCable&amp;quot;, a device that allowed the downloading of Intellivision games via cable TV using what we would now call a primitive &amp;quot;Cable DSL Modem&amp;quot;. This device of course assumed the user had Cable TV, as in the Early 1980's most people still did not.&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/mattel_intellivision_playcable.jpg</photo>
+                </item>
+                <item>
+                    <description>Picture #2||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;PICTURE #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/mattel_intellivision_playcable_2.jpg</photo>
+                </item>
+                <item>
+                    <description>screenshot||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;SCREENSHOT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This screenshot is what appears when you turn the unit on since the Playcable service doesn't exist anymore (you bet!). This all you get...&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/mattel_intellivision_playcable_ss.jpg</photo>
+                </item>
+                <item>
+                    <description>label||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;LABEL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/mattel_intellivision_playcable_label.jpg</photo>
+                </item>
+            </items>
+        </hardware>
+        <hardware type="SYSTEM CHANGER">
+            <items>
+                <item>
+                    <description>play Atari 2600 games !||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;PLAY ATARI 2600 GAMES !&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The System Changer plugs into the Master Component and lets the owner play Atari VCS games. This new add-on is actually a VCS clone in a box complete with Atari joystick ports and game select/reset buttons. Spurred on by the System Changer, as well as Coleco's Expansion Module #1 Atari adapter for their own ColecoVision, Atari starts to threaten lawsuits. It is helpfully pointed out that clones of the Atari machine are legal due to the off-the-shelf components and un-copyrighted software contained in them. Atari backs off, opening up the floodgates for various versions of the VCS by other manufacturers. &amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/mattel_intellivision_system-changer.jpg</photo>
+                </item>
+            </items>
+        </hardware>
+        <hardware type="VIDEOPLEXER">
+            <items>
+                <item>
+                    <description>play 8 different games |||without changing cartridges|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;PLAY 8 DIFFERENT GAMES &amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;without changing cartridges&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Third party developer Compro created an Intellivision device knoiwn as &amp;quot;Videoplexer&amp;quot;, a gamer could plug in up to 8 games at a time at the same time instead of pulling each cartriudge out when finished.  Very few of these units were ever made. The device would sit connected to Intellivision's cartridge port with the games pluggged into any or all of the 8 cartridge slots, and the user would push a button corresponding the the game they wished to play.&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/mattel_intellivision_videoplexer_1.jpg</photo>
+                </item>
+            </items>
+        </hardware>
+    </hardwares>
+    <image>http://www.old-computers.com/museum/photos/mattel_intellivision_1s.jpg</image>
+    <keyboard>Twelve-button numeric keypad (0?9, Clear, and Enter) + 4 side-located action buttons (two of which are electronicaly the same) + 16-directions controller disk</keyboard>
+    <language>None</language>
+    <links>
+        <link>computer.asp?st=1&amp;amp;c=1209</link>
+        <link>computer.asp?st=1&amp;amp;c=1214</link>
+        <link>http://www.hotcom.com/intellivision</link>
+        <link>http://www.intellivisionworld.com/FAQ/#_Toc140592017</link>
+        <link>http://intvgn.roarvgm.com/</link>
+        <link>http://home.earthlink.net/~classic-videogames/intellivision/</link>
+        <link>http://www.intellivision.org/HomePage.asp</link>
+        <link>http://www.intellivisionlives.com/</link>
+        <link>http://www.intellivisionworld.com/</link>
+        <link>http://intvfunhouse.com/</link>
+        <link>http://en.wikipedia.org/wiki/Intellivision</link>
+    </links>
+    <manufacturer>Mattel Electronics</manufacturer>
+    <media>Cartridge</media>
+    <name>Intellivision</name>
+    <numGames></numGames>
+    <origin>U.S.A.</origin>
+    <peripherals>Intellivoice, System changer, Music synthesizer, Keyboard component, Computer system and more</peripherals>
+    <ports>Cartridge slot, video ouput (RF or RGB depending versions), power in</ports>
+    <power>Power supply built-in</power>
+    <price>$299 (USA, 1980)</price>
+    <production></production>
+    <ram>1352 bytes</ram>
+    <rom>7168 bytes</rom>
+    <screenshots>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;INTELLIVISION CONSOLE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/mattel_intellivision_2.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;TOP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/mattel_intellivision_top.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;CONTROLLER OUT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/mattel_intellivision_3.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;CONTROLLER &amp;amp; OVERLAY&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;A pair of plastic overlays were offered with each game. They could be slided into the controller to indicate the function of the different keys on the keypad.&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/mattel_intellivision_controller.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;CARTRIDGE INSERTED&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/mattel_intellivision_cart-port_2.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;CONTROLLER&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;16-directions controller disc + 12-buttons keypad + 4 lateral action buttons&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/mattel_intellivision_controller_2.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/mattel_intellivision_box.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;BOX - VERSO&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/mattel_intellivision_box_verso.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;PROMOTIONAL PICTURE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/mattel_intellivision_promo-picture_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;PROMOTIONAL PICTURE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/mattel_intellivision_promo-pic_2.jpg</link>
+        </shot>
+    </screenshots>
+    <size></size>
+    <sound>General Instrument AY-3-8914 (3 channels sound + 1 noise generator)</sound>
+    <speed>895 KHz</speed>
+    <switches></switches>
+    <text></text>
+    <type></type>
+    <vram></vram>
+    <year>1979</year>
+</computer>

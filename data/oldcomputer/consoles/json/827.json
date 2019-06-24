@@ -1,0 +1,195 @@
+{
+  "name": "TV-Boy",
+  "manufacturer": "Akor",
+  "type": "",
+  "origin": "France",
+  "year": "1992",
+  "production": "",
+  "language": "127 built-in games",
+  "keyboard": "",
+  "cpu": "MOS 6507 clone",
+  "speed": "1.19 MHz",
+  "coprocessor": "",
+  "ram": "128 bytes",
+  "vram": "",
+  "rom": "512 kbytes",
+  "text": "",
+  "graphics": "160x192 pixels with 5 sprites",
+  "colors": "Up to 128 colors (PAL)",
+  "sound": "Two 8 bits channels (mono)",
+  "size": "",
+  "ports": "TV-Boy I : RF TV out, 2 controller connectors (Atari)TV-Boy II : mini-DIN 4 video out (composite).",
+  "power": "4 AA batteries or 6V DC (positive tip) external PSU",
+  "price": "",
+  "description": "\nThis very classical system-in-a-paddle is a pirate Atari VCS 2600 clone with 127 built-in games (but no cartridge slot). Produced in China, it was released under several brands (NICS in the US, SystemA in UK...) all over the world. This system was sold until recently in France by a local company : AKOR.\n\nEverything you need to have fun playing good old 2600 games (excluding the TV set) is built in the system : CPU, games, control pad. While the second version (aka TV-Boy II) needs to be connected to the TV set via an A/V connection (SCART or standard RCA cable), the first one (TV-Boy I) includes a cheap wireless video transmission system : an antenna can be plugged into the RF Out connector, converting it in a (very) short range video emitter. You can also use a normal RF cable.\n\nThese two versions have a few other differences : the TV-Boy I has two Atari joysticks connectors which the TV-Boy II lacks (in two-player games, the pad controls both players at the same time...), and the version II has a better mother board design, probably in order to lower the production cost.\n\nThe system uses a bank switching technique and the 127 built-in games are accessed via an on-screen menu (the 128th program) so there is no dip switch as seen on some pirate x-in-one cartridges. This menu (that seems to be located at the lowest address of the ROM) is executed by default when the system starts and once a game is selected, there is no mean to come back, so one needs to restart the system to play another game.\n\nSeveral games have been hacked : the copyright marks and original publisher logos were removed, and some sprites have been modified. Most of them have been renamed.\n\nThe SystemA and NICS versions of TV boy II, does not have the A/V connection mentioned. It\u0027s a straight RF lead to the TV. They also have a small II printed to the right and above the TV Boy logo. The game list is also slightly different.\n\nA third version, the Super TV-Boy was released later, including the same games and specifications, but with a very different design.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TV-BOY I\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Notice the external joystick connector on the lower right.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/tvboy1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TV-BOY II\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/tv-boy-2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TV-BOY II DETAILS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/tvboy2detail.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BUTTONS CLOSE-UP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/tvboy2detailbtns.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DIRECTIONAL CROSS CLOSE-UP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/tvboy2detaildirect.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;EXTERNAL JOYSTICK CONNECTOR\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The TV-Boy I has two of these connectors.\u0026lt;br\u0026gt;Pirated games, bad quality components, VERY bad integration... the TV-Boy is a typical chinese low cost system.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/tvboy2detailconn.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TV-BOY I INTERNALS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The \u0026lt;b\u0026gt;A\u0026lt;/b\u0026gt; box is the RF modulator.\u0026lt;br\u0026gt; The black blocks on each side are Atari joystick connectors.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/tv_boy_1_inside.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TV-BOY II INTERNALS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Less components than the first version, better integration. Space was provided for Atari connectors and RF modulator, but they were not implemented on this SCART model.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/tvboy2internals.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MOTHER BOARD CLOSE-UP (SOLDER SIDE)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This close-up picture shows the bord revision number (the Super TV-Boy board is labelled \u0026quot;WS101C\u0026quot;)  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/tvboy2detailboard.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BOX\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is the french version of the box.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/tv_boy_box.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SYSTEMA TV-BOY\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/systema_tvboy.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;WHITE NICS TV-BOY\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www8.plala.or.jp/tvgamekan/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;TV GAME KAN\u0026lt;/a\u0026gt; for this picture.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/nics_white-tvboy.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT.\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;A genius at your reach...\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/tatung_einstein_advert_espacemicro.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SOL PRICE LIST\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;\u0026lt;u\u0026gt;Sol Systems price list (january 1977)\u0026lt;/u\u0026gt;\u0026lt;/b\u0026gt; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; (K) \u003d Kit   (A) \u003d Assembled\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Sol Terminal Computers\u0026lt;br\u0026gt; \u0026lt;/b\u0026gt;SOL-PC Single board (K) \u0026lt;b\u0026gt; $475\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; SOL-10 (K) \u0026lt;b\u0026gt; $795\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; SOL-20 (K) \u0026lt;b\u0026gt; $995\u0026lt;/b\u0026gt; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Memory Modules\u0026lt;/b\u0026gt; \u0026lt;br\u0026gt; PROM Resident Assembly Language (A) \u0026lt;b\u0026gt;$425\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; Interpretive Simulator (PROM option) (A) \u0026lt;b\u0026gt;$95\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; Text Editing (PROM option) (A) \u0026lt;b\u0026gt;$95\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; Erasable PROM module (K) \u0026lt;b\u0026gt;$65  \u0026lt;/b\u0026gt;(A) \u0026lt;b\u0026gt;$89\u0026lt;/b\u0026gt; \u0026lt;br\u0026gt; 4 Kb. low power static Ram (K) \u0026lt;b\u0026gt; $159\u0026lt;/b\u0026gt;  (A) \u0026lt;b\u0026gt; $195\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; 8 Kb. low power static Ram (K) \u0026lt;b\u0026gt;$295\u0026lt;/b\u0026gt;  (A) \u0026lt;b\u0026gt;$375\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; 16 Kb. Dynamic Ram  (A) \u0026lt;b\u0026gt;$529\u0026lt;/b\u0026gt; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Interface Modules\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; Parallel / Serial I/O Module  (K) \u0026lt;b\u0026gt;$149\u0026lt;/b\u0026gt;  (A) \u0026lt;b\u0026gt;$199\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; System cassette interface  (K) \u0026lt;b\u0026gt;$87 \u0026lt;/b\u0026gt; (A) \u0026lt;b\u0026gt;$119\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; Video Display Module  (K) \u0026lt;b\u0026gt;$199 \u0026lt;/b\u0026gt; (A) \u0026lt;b\u0026gt;$295\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; \u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Mass Storage System\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; Helios II Disk system  (K) \u0026lt;b\u0026gt;$1895\u0026lt;/b\u0026gt;  (A) \u0026lt;b\u0026gt;$2295\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Software\u0026lt;br\u0026gt; \u0026lt;/b\u0026gt;(C) \u003d Cassette  (P) \u003d Paper tape\u0026lt;br\u0026gt; Basic 5  (P) \u0026lt;b\u0026gt;$19.95\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; 8K Basic (C) \u0026lt;b\u0026gt;$29\u0026lt;/b\u0026gt;  (P) \u0026lt;b\u0026gt;$37\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; New 8080 Focal  (C) \u0026lt;b\u0026gt;$14.50\u0026lt;/b\u0026gt;  \u0026lt;br\u0026gt; Trek 80 Video game  (C) \u0026lt;b\u0026gt;$9.50\u0026lt;/b\u0026gt;  (P) \u0026lt;b\u0026gt;$14.50\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; GamePack 1  (C) \u0026lt;b\u0026gt;$9.50\u0026lt;/b\u0026gt;  (P) \u0026lt;b\u0026gt;$14.50\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; MathPack Video calculator  (C) \u0026lt;b\u0026gt;$14.50\u0026lt;/b\u0026gt;  (P) \u0026lt;b\u0026gt;$19.50\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; Assembler  (C) \u0026lt;b\u0026gt;$14.50\u0026lt;/b\u0026gt;  (P) \u0026lt;b\u0026gt;$19.50\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; ALS 8  (C) \u0026lt;b\u0026gt;$35\u0026lt;/b\u0026gt; (P) \u0026lt;b\u0026gt;$45\u0026lt;/b\u0026gt; \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/ProcessorTech_Sol_System_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT (DEC. 1979)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to David Wilson for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/acorn_system1_advert-dec1979.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0027\u0027PB 700, the extensible personal computer\u0027\u0027\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/casio_pb700_advert_extensible.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;XEROX RANGE, AUGUST 1985\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Xerox_6085_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN LEAFLET\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;The compact Personal Computer with versatile application possibilities.\u0026quot; \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;www.sharpmz.org\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sharp_MZ80A_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt;Most small system users think all microcomputers are created aqual. And they\u0027re right. If you want performance, convenience, styling, high technology and reliability (and who doesn\u0027t?) your micro usually has a price tag that looks mote like a mini. It seems big performance always means big bucks. But not so with the SuperBrain...\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Intertec_SuperBrain_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPANESE ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/smc777-3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (SEPT. 1987)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Arcades games in an armchair\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sega_sms_advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1977 ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/VectorGraphics_Vector1_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD #3 (1984)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The guy on the right is \u0026quot;Sidney\u0026quot;, a well known french break dancer back in 1984 !\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/acorn_electron_ad2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;NEWBRAIN BROCHURE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The first Newbrain brochure only offered two models:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Model AD: with display\u0026lt;br\u0026gt; Model A:  without Display \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;www.oldcomputers.freeserve.co.uk\u0026lt;/b\u0026gt;   \u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Grundy_Newbrain_Leaflet_4.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROMO PIC #6\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Thanks to its optional modem, the TO-7/70 could be connected to the Teletel communication network. This skilled photograph is browsing the Liberation (popular french newspaper) site. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; But there are still no cables shown here ! How the whole system is running ?!\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_to770_pub-libe.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SCARY...\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Can you believe it?! She is learning how to play flute (mini flute?) with her TO7... The father seems to be a kind of lunatic...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_to7_promotional-guide_musique.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DMS-15\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;January 1983 advert.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The DMS-15 is a DMS-3/F with a built-in 15 MB hard disk.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/DigitalMicrosys_DMS15_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Einstein\u0027s face probably means: Buy a ZX-81 and you will become a new genius...\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Karl_Heinz  -  www.sharpmz.org\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sinclair_ZX81_GermanAd_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (JUNE 1986)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;In 1986, the Alphatronic PC was bargained in many broker shops for a low price.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/triumph-adler_alphatronic_pc_pub_alpax.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPANESE ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/panasonic_fs-a1wx_advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (MAY 1984)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Multitech_MPF1_Advert_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROMO PIC #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_to770_promo_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. AD #1 (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The HHC advertising campain was not really attractive: black \u0026amp; white, lots of small characters texts, small pictures...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Panasonic_HHC_Advert2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH BROCHURE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Cover of a French Commodore-PC brochure.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0027Hats off to Commodore!\u0027  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Commodore_PCcomp_AdvertChapeau_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. AD (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;In this advert, Altos emphasized its software package offer.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt;You also get the new ALTOS ACCOUNTANT, a completely integrated business accounting system...\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; There\u0027s more. You get the unique ALTOS COMPUTER TUTOR, the self-teaching tutorial that provides simple, self paced, step-by-step training that make using the computer easy...\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Altos_System5_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/micronique_victor-lambda_ad1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [
+    {
+      "platform": "Multiplatform emulator",
+      "name": "Stella",
+      "link": "http://stella.sourceforge.net/",
+      "description": "Stella is a very good multi-platform Atari 2600 VCS emulator and has alredy been ported to AcornOS, AmigaOS, DOS, FreeBSD, IRIX, Linux, OS/2, MacOS, Unix, and Windows."
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d825"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/tv_boy_1et2.jpg",
+  "builtInGames": "127 built-in games",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

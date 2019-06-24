@@ -1,0 +1,87 @@
+{
+  "name": "VCS 2600",
+  "manufacturer": "Atari",
+  "type": "",
+  "origin": "U.S.A.",
+  "year": "July 1977",
+  "production": "",
+  "language": "None",
+  "keyboard": "2 joysticks with one fire button each",
+  "cpu": "6507",
+  "speed": "1.19 MHz",
+  "coprocessor": "",
+  "ram": "128 bytes",
+  "vram": "",
+  "rom": "4 KB max.",
+  "text": "",
+  "graphics": "160 x 192",
+  "colors": "128 colors (16 colors with 8 intensity levels each)",
+  "sound": "2 mono channels",
+  "size": "",
+  "ports": "Two controller connectors, Power in, RF TV output",
+  "power": "External power supply unit. 9VDC 500mA  - -(o- +",
+  "price": "",
+  "description": "\nA new generation of games was born in the summer of 1977, a new concept revolutionizing leisure will let small leading and foreseeing companies make billions of dollars. \n\nAlthough the Atari VCS is not the first video game console ever, it will become a star while beginning in November of 1977. Millions of young players will hold it as mankind?s best invention ever. The first console idea was developed in 1975 by Atari and Warner Bros, its parent company. \n\nInitially the console was set to come with an integrated ROM game, but at the last minute, Atari preferred a cartridge version. This game was ?Combat?. Most importantly, this first cartridge will allow console owners to wait a few months for the release of new games. A first series of 8 will be followed later by many, among them, the famous ?Space Invaders?, a title giving Atari global success and will cash in more then $100 millions. \n\nIn two years, Atari sold more than 25 million consoles and earn $5 billion in sales, mostly from cartridges and optional accessories. Many third companies will also encounter success, such as Namco and its ?Pacman?. \n\nIn 1982, the VCS becomes ?2600? until Atari is sold in 1984, followed by new versions ?5200? and ?7800?. However, the 2600 continued to be produced and new games will appear until 1991. The VCS/2600 console thus lived for 14 years, a record longevity never equaled since by any console or computer.\n\n________________\n\nBluekatt (from Netherlands) comments:\nthe atari\u0027s record has already been broken twice ( to a degree ) first by the nintendo famicom who went into production in japan in 1983 and went out of it in 2004 thats 21 years the other is the gameboy who has been running ever since 1989 in one form or another honorable mention is the playstation 1 who has also survived for 12 years one way or another for around 6 7 years as a hardware entity andnow as a integrated romchip and emulator calls in the ps 2 and 3\n \n\n\n",
+  "shot": [],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (DECEMBER 1981)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;At 12 years old, Nicolas discovered he was the terror of the aliens\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/atari_2600_ad_nicolas.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (JANUARY 1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;At 68 years old, taunt Rose discovered that she was an exceptionally gifted child\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/atari_2600_ad_tante-rose.jpg"
+    }
+  ],
+  "hardware": [
+    {
+      "type": "STARPATH SUPERCHARGER",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/atari_2600_pub_starpath-supercharger.jpg",
+          "description": "French ad (sept. 1983)||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (SEPT. 1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    }
+  ],
+  "emulator": [
+    {
+      "platform": "Multiplatform emulator",
+      "name": "MESS",
+      "link": "http://www.mess.org",
+      "description": "MESS also emulates the Atari 2600"
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "PC Atari Emulator",
+      "link": "http://www.classicgaming.com/pcae/",
+      "description": "MS-DOS \u0026amp; Windows emulator"
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "Stella",
+      "link": "http://stella.sourceforge.net/",
+      "description": "Maybe the most popular emulator"
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "Z26",
+      "link": "http://www.whimsey.com/z26/z26.html",
+      "description": "Popular emulator for DOS \u0026amp; Windows"
+    }
+  ],
+  "link": [
+    "http://www.atariage.com/",
+    "http://en.wikipedia.org/wiki/Atari_2600"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/atari_2600_1.jpg",
+  "builtInGames": "None",
+  "controllers": "",
+  "media": "Cartridges",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

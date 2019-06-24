@@ -26,6 +26,13 @@ import com.google.gson.GsonBuilder;
 import glog.util.XMLWrapper;
 import glog.util.XPathParser;
 
+/**
+ * TODO Add connectors information as in
+ * http://www.old-computers.com/museum/photos.asp?t=2&c=1082&st=1
+ * 
+ * @author lestivalet
+ *
+ */
 public class OldComputerScript {
 	private static final String OLD_COMPUTER_URL = "http://www.old-computers.com/museum/";
 	private List<OldComputer> computers;
@@ -152,7 +159,9 @@ public class OldComputerScript {
 							+ "]/descendant::td[3]/p/text()");
 					desc += "|||" + xp.parse("html/body/table[2]/tbody/tr[1]/td[3]/p[" + i + "]/following::table[" + j
 							+ "]/descendant::td[1]/a/@title");
-					desc = desc.substring(0, desc.indexOf("/title"));
+					if (desc.indexOf("/title") > 0) {
+						desc = desc.substring(0, desc.indexOf("/title"));
+					}
 					ochi.setDescription(desc);
 					ochi.setPhoto(OLD_COMPUTER_URL + xp.parse("html/body/table[2]/tbody/tr[1]/td[3]/p[" + i
 							+ "]/following::table[" + j + "]/descendant::td[1]/a/img/@src").replace("icones_", ""));
@@ -252,7 +261,7 @@ public class OldComputerScript {
 		new File("json/").mkdirs();
 
 		List<String> lines = FileUtils.readLines(new File(
-				"C:\\Users\\lestivalet\\Downloads\\glog-scrapper-master\\data\\oldcomputer\\oldcomputer_pong.txt"));
+				"C:\\Users\\lestivalet\\dev\\stuff\\glog-scrapper\\data\\oldcomputer\\oldcomputer_console.txt"));
 		for (String line : lines) {
 			OldComputerScript ocs = new OldComputerScript();
 			line = line.substring(line.indexOf("?c=") + 3, line.indexOf("&amp"));

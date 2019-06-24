@@ -1,0 +1,331 @@
+{
+  "name": "Genesis",
+  "manufacturer": "Sega",
+  "type": "",
+  "origin": "Japan",
+  "year": "August 1989",
+  "production": "1994",
+  "language": "None",
+  "keyboard": "8-way d-pad, 3 buttons + Start",
+  "cpu": "Motorola 68000",
+  "speed": "7.67 MHz",
+  "coprocessor": "Zilog Z80 @ 3.58 MHz",
+  "ram": "64 KB main, 8 KB secondary, 8 KB sound",
+  "vram": "64 KB",
+  "rom": "",
+  "text": "",
+  "graphics": "256x224, 320x224",
+  "colors": "512 palette, 64 on screen",
+  "sound": "Texas Instruments SN76489, 4 channel PSG + Yamaha YM2612, 6 channel FM",
+  "size": "28.5 (w) x 5 (h) x 22.5 (d) cm",
+  "ports": "RF out, AV out, power, headphone jack, EXT port (early units only), Expansion port, 2 controller ports",
+  "power": "9/10v DC depending on model",
+  "price": "$199.99 (U.S.A. 1989)",
+  "description": "\nThe Mega Drive was renamed Genesis for its 1989 American launch. \n\nLack of awareness of the TurboGrafx-16 left the NES as the Genesis\u0027 biggest competitor until the release of the SNES. By this time the Genesis had established a large user base and was able to outsell the SNES in America. Shortly after the release of Sonic The Hedgehog 2 (on Sonic 2\u0027s Day, which as you probably guessed was a Tuesday!) the Genesis held a massive 65% share of the market. \n\nHowever, the success of the console in the States, and as the Mega Drive in Europe, may well have contributed to Sega\u0027s downfall. Two misjudged pieces of hardware, the 32X and Sega CD put a huge dent in Sega\u0027s reputation, one so large that the company would never recover. \n\nA redesigned Genesis II was released in 1994. The smaller console was cheaper to produce, similar in concept to the Master System II.\n\n________\n\nTaneli Lukka from Filand adds :\n\nConnecting the 32X addon to the original Genesis/Mega Drive is very difficult because a special adapter cable is required to link the 32X unit and the MD console together. This happens because MD1 has a diffirent AV port than the MD2. This cable was very hard to get even when 32X was released (many people had to buy a MD2 unit to get their 32X working) and it\u0027s almost impossible to get your hands on one of these cables today.\n\nJames (UK) comments :\nI believe i have a seen two different versions which havent been mentioned here. the Mega Drive i own has a white piece of plastic around the power L.E.D, and no writing at all on the ring. it has no EXT port and all plastic feet and only mono sound from the a.v out port - i modified it for stereo by taking the output from the headphone port. The Mega Drive my uncle had was one of the first in the UK. That had a GREY piece of plastic around the led and had \u0027high definition audio\u0027 only written on the ring :)\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GENESIS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/genesis_face.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;RIGHT SIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/genesis_profil.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CLOSE UP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/genesis_profil2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LEFT SIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/genesis_profil3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;EUROPEAN MEGADRIVE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/md_eur_face.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MEGADRIVE - CLOSE-UP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/md_eur_profil.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MEGADRIVE - CONTROL PANEL\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The volume slider, on/off switch and Reset button.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/md_eur_buttons.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;POWER LED\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/megadrive_close.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BOTTOM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/megadrive_back.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPANESE MEGADRIVE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/md_jap_face.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPANESE MEGADRIVE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/md_jap_profil.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CONTROL PANEL\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/md_jap_buttons.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CLOSE-UP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/md_jap_profil2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LEFT SIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/md_jap_profil3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;VERSIONS COMPARISON\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;From top to bottom :\u0026lt;ul\u0026gt;  \u0026lt;li\u0026gt;European Megadrive\u0026lt;/li\u0026gt;  \u0026lt;li\u0026gt;Japanese Megadrive\u0026lt;/li\u0026gt;  \u0026lt;li\u0026gt;American Genesis\u0026lt;/li\u0026gt; \u0026lt;/ul\u0026gt; Just a few cosmetic differences...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/md_comparaison.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CONTROL PAD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/md_pad.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PAD - TOP VIEW\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/md_pad_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PAD - CLOSE-UP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/md_pad_buttons.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BOX\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/megadrive_box.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BOX - BACK\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/megadrive_box_back.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Picture courtesy of \u0026lt;a href\u003d\u0026quot;http://www.sbrowning.com/vintage\u0026quot;\u0026gt;Steve Browning, www.sbrowning.com/vintage\u0026lt;/a\u0026gt;.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/atari_400-800_advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH BROCHURE BACK\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Oric opens a full world to you\u0026quot;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Jacques Sorro\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Oric_Atmos_FrBrochure_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SILEX DOCUMENTATION\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/leanord_silex_doc1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN BROCHURE #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Volken\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Atari_MegaSTE_GermanDoc_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (1984)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/mb_vectrex_ad_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;With the Alice, change the level without changing the computer\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/matra_alice32_advert2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JACQUARD SYSTEMS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Jacquard_J500_Brochure_6.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TANDY BROCHURE COVER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Cover of a Tandy catalogue.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Tandy_Model1_Advert_6.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The memo from the company president:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; Your purchase request for six personal computers just reached my desk.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; What gives?\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; I thought you understood our grouth plans, Jack, but the computers you have recommanded are dead ends. They might do the job today, but what about tomorrow? They don\u0027t connect together to form any kind of functional system. The 8 bits aren\u0027t compatible with the 16 bits models. And I doubt the software that run on the computers you want will be of any use later when we\u0027re forced to buy computers that work together.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; You saved us a little now, Jack, but your decision will cost us a bundle as we grow into the future. We are growing, Jack, and I\u0027m sure that you want to be part of the growth.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; See me before you go home tonight.\u0026lt;br\u0026gt; Tom\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;/font\u0026gt; Cheer up Jack!\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Now the advert:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; If you don\u0027t want your boss to limit you growth, don\u0027t limit the growth of the company. Consider small business computers that can keep up with your business by giving you options for expansion in the future.\u0026lt;br\u0026gt; With Televideo Systems Inc. you get what no other small business computer can offer...\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Perhaps jack was right...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Televideo_TS802_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/tandy_1000series_ad_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;NEW ZEALAND REVIEW\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Review from a New Zealand magazine. Notice the prices in Australian$ at the bottom right of the page.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Murray Moffatt\u0026lt;/b\u0026gt; from New Zealand\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Semitech_PiedPiper_Advert_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The display says: \u0026quot;Personal computer Pravetz 82\u0026quot;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Bojidar Stefanov\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Pravetz_Imko_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT #3\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.cobit.kit.net\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;COB-Clube Old Bits\u0026lt;/a\u0026gt; for this picture.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/hotbit_hb8000_advert_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FIRST ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This painting was the first and the best known MITS Altair advert. It was created by Kim Behm who has since become a well-known artist. At the first beginning of the personal computers era, this advert seems to be saying: In a near future, everybody around the world will have access to a personal computer.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Altair_8800_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. AD. JUNE 1983\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/HP_Model16_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;RUSSIAN ADVERT - PAGE 1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Taras Ponomarev for this advert\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/agat_ad-elorg_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.K. AD. (1986)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; As the American magazine \u0027Byte\u0027 commented, \u0026quot;for some time to come the 1040STF will be the clear leader in price/performance.\u0026quot; \u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Atari_1040STF_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1980 ADVERT \u0026amp; PRICE LIST\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;Price list\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;  \u0026lt;b\u0026gt;VP-111  \u0026lt;/b\u0026gt;Low cost microcomputer  \u0026lt;b\u0026gt;$99\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;VP-114  \u0026lt;/b\u0026gt;Expansion kit for VP-111 (3 KB RAM, I/O port and connectors)  \u0026lt;b\u0026gt;$76\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;VP-711  \u0026lt;/b\u0026gt;Original VIP microcomputer \u0026lt;b\u0026gt;$199\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;VP-44    \u0026lt;/b\u0026gt;On board RAM expansion (4 x 2114 RAM chips)  \u0026lt;b\u0026gt;$36\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;VP-590  \u0026lt;/b\u0026gt;Color board  \u0026lt;b\u0026gt;$69\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;VP-595  \u0026lt;/b\u0026gt;Simple sound board (256 programmable frequencies) with speaker  \u0026lt;b\u0026gt;$30\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;VP-550  \u0026lt;/b\u0026gt;Super sound board (Synthetiser with two sound channels  \u0026lt;b\u0026gt;$49\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;VP-551  \u0026lt;/b\u0026gt;Super sound 4 channels expansion \u0026lt;b\u0026gt;$74\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;VP-570  \u0026lt;/b\u0026gt;4 KB RAM memory expansion board  \u0026lt;b\u0026gt;$95\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;VP-580  \u0026lt;/b\u0026gt;Two players keypad  \u0026lt;b\u0026gt;$20\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;VP-585  \u0026lt;/b\u0026gt;Keypad interface board  \u0026lt;b\u0026gt;$15\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;VP-560  \u0026lt;/b\u0026gt;Eprom board for two 2716 EPROMS  \u0026lt;b\u0026gt;$34\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;VP-565  \u0026lt;/b\u0026gt;2716 EPROM programmer with software  \u0026lt;b\u0026gt;$99\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;VP-575  \u0026lt;/b\u0026gt;Expansion board with 5 expansions sockets  \u0026lt;b\u0026gt;$59\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;VP-700  \u0026lt;/b\u0026gt;4 KB Tiny Basic  \u0026lt;b\u0026gt;$39\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;VP-701  \u0026lt;/b\u0026gt;Floating point Basic (cassette)  \u0026lt;b\u0026gt;$49\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;VP-710  \u0026lt;/b\u0026gt;Game listings  \u0026lt;b\u0026gt;$10\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;VP-720  \u0026lt;/b\u0026gt;Game listings II  \u0026lt;b\u0026gt;$15\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;VP-601  \u0026lt;/b\u0026gt;Keyboard 128-character ASCII  \u0026lt;b\u0026gt;$69\u0026lt;/b\u0026gt; \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/RCA_Cosmac_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BRAZILIAN ADVERT #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.museo8bits.com\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;www.museo8bits.com\u0026lt;/a\u0026gt; for this advert\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/prologica_cp400_advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The advert show the built-in user menu and system status.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The right located system is the dual-drive version.\u0026lt;br\u0026gt; The left one is the 10 MB hard-disk version.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/QuasarDataPr_QDP100_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BROCHURE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This french brochure presented games from #1 to #43\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/philips_videopac-c52_brochure_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (DEC. 1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;EPSON HX-20: the world most powerful portative micro-computer\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/epson_hx20_plus-puissant.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;QL CATALOGUE #4\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sinclair_QL_Brochure1_s4.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT, JUL 1985\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Byte Magazine\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Ampere_WS1_Advert_s1.jpg"
+    }
+  ],
+  "hardware": [
+    {
+      "type": "ACTION CHAIR",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/sega_action-chair.jpg",
+          "description": "the action chair||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;THE ACTION CHAIR\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The action chair is a rare item. Connected to a Genesis/Megadrive, it acts as a controller! When you lean backward/forward it tells the Genesis to go down/up and when you lean left/right it tells to go left/right. Two handles on each side offer two buttons each, resulting in 4 buttons : START, SELECT, A \u0026amp; B. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The Action Chair is basically a chair mounted on a controller. It is thus possible to play all games with it, though it is more convenient to play games like After Burner II, Space Harrier II, Super Thunder Blade, Hang on, Road Rash, Super Monaco GP, etc.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Spycal\u0026lt;/b\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/sega_action-chair_doc_1.jpg",
+          "description": "Documentation|||Page 1|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DOCUMENTATION\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Page 1\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Spycal\u0026lt;/b\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/sega_action-chair_doc_2.jpg",
+          "description": "Documentation|||Page 2|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DOCUMENTATION\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Page 2\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Spycal\u0026lt;/b\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "MEGA CD",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/megacd_seul_icn.jpg",
+          "description": "The unit||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;THE UNIT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The MegaCD was released in 1991 in Japan, in 1992 in the USA and in 1993 in Europe. This very expensive addon was meant to fight the Nintendo SNES which was just released, and alternatively the NEC CD based systems... \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The main interest of the MegaCD was that if enabled bigger games and FMV movies/music. Despite this, movie based games were often boring, offering very little interaction with the player. Finaly there were not a lot of games produced for the MegaCD. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Another version of the MegaCD was released to be used with the Genesis / Megadrive II system.\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/megacd_close_icn.jpg",
+          "description": "Close-up||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CLOSE-UP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/megadrivemegacd_icn.jpg",
+          "description": "Genesis / Megadrive fiited on the MegaCD||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GENESIS / MEGADRIVE FIITED ON THE MEGACD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/megadrivemegacd_2_icn.jpg",
+          "description": "Picture #2||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PICTURE #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/megadrivemegacd_3_icn.jpg",
+          "description": "Front||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRONT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/megadrivemegacd_profil_icn.jpg",
+          "description": "Close-up #2||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CLOSE-UP #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/megadrivemegacd_side_icn.jpg",
+          "description": "Back||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BACK\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/sega_megadrive_megacd1_box_1.jpg",
+          "description": "Box||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BOX\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "POWERBASE CONVERTOR",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/md_powerbase_icn.jpg",
+          "description": "Picture #1||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PICTURE #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The Sega Powerbase Convertor enables the Genesis / Megadrive to play Master System games. Its case design is a mix between the Genesis and the Master System. It fits on top of the Genesis / Megadrive and includes a cartridge slot and a cart slot. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The Powerbase cannot be used with the Genesis / Megadrive II but a special version was later released for it, which, like the Genesis / Megadrive II, did not include the cart slot.\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/md_powerbase_2_icn.jpg",
+          "description": "Picture #2||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PICTURE #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/sega_megadrive_baseconverter_box.jpg",
+          "description": "Box||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BOX\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    }
+  ],
+  "emulator": [
+    {
+      "platform": "Windows emulator",
+      "name": "Gens",
+      "link": "http://gens.consolemul.com/",
+      "description": "Excellent Genesis emulator"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "KEGA",
+      "link": "http://www.eidolons-inn.net/kega/",
+      "description": "Kega is a Sega SG1000, SC3000, Master System, Game Gear, Genesis/Megadrive and SegaCD/MegaCD emulator for Win9x/ME/2000/XP"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "Wgens",
+      "link": "http://emu.makii.pl/pokazpliki.php3?tematy\u003dsmd",
+      "description": "Sega Megadrive emulator"
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d1250",
+    "computer.asp?st\u003d1\u0026amp;c\u003d1251",
+    "computer.asp?st\u003d1\u0026amp;c\u003d1247",
+    "computer.asp?st\u003d1\u0026amp;c\u003d843",
+    "computer.asp?st\u003d1\u0026amp;c\u003d1233",
+    "computer.asp?st\u003d1\u0026amp;c\u003d1237",
+    "http://www.gamefaqs.com/console/genesis/",
+    "http://www.gamewinners.com/GEN/",
+    "http://www.gamesx.com/avpinouts/genesisav.htm",
+    "http://www.genesiscollective.com/",
+    "http://codes.ign.com/",
+    "http://www.classicgaming.com/museum/faqs/megadfaq.shtml",
+    "http://www.sega.co.jp/archive/segahard/32x/",
+    "http://www.sega.co.jp/archive/segahard/md/",
+    "http://www.sega.co.jp/archive/segahard/mcd/",
+    "http://www.classicgaming.com/museum/faqs/segacdfaq.shtml",
+    "http://www.classicgaming.com/thedump/genesis/",
+    "http://www.billnkaz.demon.co.uk/segalist.htm",
+    "http://www.vgmusic.com/music/console/sega/genesis/",
+    "http://www.zophar.net/genesis.html",
+    "news:rec.games.video.sega"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/sega_genesis_2s.jpg",
+  "builtInGames": "None",
+  "controllers": "",
+  "media": "Cartridge",
+  "numGames": "",
+  "peripherals": "Sega CD, 32X, Power Base Converter (Master System converter)",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

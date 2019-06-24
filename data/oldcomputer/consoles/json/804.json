@@ -1,0 +1,172 @@
+{
+  "name": "Compact Vision TV-Boy",
+  "manufacturer": "Gakken",
+  "type": "",
+  "origin": "Japan",
+  "year": "october 1983",
+  "production": "",
+  "language": "Unknown",
+  "keyboard": "T-shaped controller with one fire button",
+  "cpu": "None ? (MC6801 microcontroller in each cartridge)",
+  "speed": "",
+  "coprocessor": "Motorola MC 6847 video controller",
+  "ram": "2 KB",
+  "vram": "Unknown",
+  "rom": "Unknown",
+  "text": "",
+  "graphics": "Unknown",
+  "colors": "Yes",
+  "sound": "Yes",
+  "size": "",
+  "ports": "TV video output, ...",
+  "power": "Unknown",
+  "price": "8,800 yen (Japan, 1983)",
+  "description": "\nThis is an extremely rare and obscure japanese system released by Gakken in 1983. Very little is known about this weird console...\n\nThe most striking feature is the T-shaped controller! The unique fire button is placed on the left of the controller so that it can be pressed by the thumb (if you are right handed). Thus you can play this system with only one hand. In fact, you left hand will naturally want to grip the kind of handle placed at the left of the system... There is the START button there, that you can easily press with your other thumb.\n\nOn the system itself, one can find a PAUSE button, a red power LED and power on/off switch.\n\nWhile \u0026quot;Compact Vision\u0026quot; is written on the box, cartridges, etc., the translation of the japanese name (also found on the box, cartridges, etc.) would be something like \u0026quot;TV Boy\u0026quot;...\n\nGames were sold on cartridge. The number of released ones is not known by us, but looking at the box of the system, it seems that at least 6 games were available.\n\nThough we have little information about this system, we know that its video processor is a Motorola MC 6847. Indeed, looking at the screenshots, the colors, resolution and overall feeling, it sounds familiar to systems like Laser 200, Tandy MC-10 or Dragon 32...\n\nFrom the MESS emulator team:\n\u0026quot;The Gakken has nothing in it except a 6847, one 2k ram and some logic. The cart contains only 1 chip, a MC6801 microcontroller. It\u0027s the main CPU + ROM + RAM. We have no idea how to dump it or even if it\u0027s possible. It has 4k maskROM, but at $300 per chip decapping isn\u0027t feasible.\u0026quot;\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DOCUMENTATION\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Rikard Ljungkvist for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/gakken_compact-vision_doc.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BOX\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/gakken_tvboy_box_5.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BOX\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Rikard Ljungkvist for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/gakken_compact-vision_box_front.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BOX FRONT #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to muddlemeddle (Ebay seller) for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/gakken_tv-boy_box-front_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BOX (SIDE 1)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Rikard Ljungkvist for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/gakken_compact-vision_box_bottom.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BOX (SIDE 2)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Rikard Ljungkvist for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/gakken_compact-vision_box_side.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE THE BOX\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/gakken_tvboy_in-box.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE THE BOX #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to muddlemeddle (Ebay seller) for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/gakken_tv-boy_inside-box_2.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LUCAS LOGIC BROCHURE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Lucas_Nascom3_Brochure_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (JAN. 1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Computing is very simple with the AIM65 from Rockwell\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/rockwell_aim65_ad_system-contact.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MEMORY BOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Vector Graphics also sold various cards for any S-100 systems. This one is a 8 Kb. static RAM card solded for $265 in kit version and $350 assembled.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/VectorGraphics_Vector1_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (1985)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;The Empire Strikes Back\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/toshiba_t300_french-ad_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.K. ADVERT (1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Kaypro_II_KaycompAd_6.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/digital_VT180_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT.\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/timex_sinclair-1000_leaflet.JPG"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROMOTIONAL PICTURE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Fran\u0026ccedil;ois Houste and \u0026lt;a href\u003d\u0026quot;http://www.phijvmi.com\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;www.phijvmi.com\u0026lt;/a\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/amstrad_gx4000_promo-pix.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROMOTIONAL PICTURE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.primo.homeserver.hu/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;PRIMO home-page\u0026lt;/a\u0026gt; for this picture.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/microkey_primo_promo-pic_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROMOTIONAL PICT.\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The HP-150 was widely used in industry by engineers and scientists.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/HP_85_PromoPict_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;IBM T-SHIRT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/IBM_AT_T-shirt_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DAK ADVERT (US, 1986) - PAGE 1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.dak.com\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;DAK\u0026lt;/a\u0026gt; for this advert\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/visual_commuter_ad_dak_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SAME IN GERMAN\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Altos_System5_GermanAd_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Picture courtesy of \u0026lt;a href\u003d\u0026quot;http://www.sbrowning.com/vintage\u0026quot;\u0026gt;Steve Browning, www.sbrowning.com/vintage\u0026lt;/a\u0026gt;.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/tandy_trs80-coco1_ad_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT (DEC. 1979)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to David Wilson for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/compukit_uk101_advert_dec1979.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;KIT VERSION (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sinclair_ZX81_KitAdvert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSERT - RECTO\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/wow_action_max_insert1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;The TO7 from Thomson has everything needed to fill the empty cells\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_to7_advert-cases-vides.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Picture courtesy of \u0026lt;a href\u003d\u0026quot;http://www.sbrowning.com/vintage\u0026quot;\u0026gt;Steve Browning, www.sbrowning.com/vintage\u0026lt;/a\u0026gt;.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/atari_400-800_advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1978 BROCHURE #14\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/MSI_6800_Brochure_s14.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1978 BROCHURE #15\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/MSI_6800_Brochure_s15.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;IEEE INTERFACE ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said:\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; The Acorn IEEE interface enables full implementation of the IEEE standard 488-1978. IEEE488 is also known, and is equivalent to IEC625-1 (in Europe), and GPIB or HP-IB (Hewlett Packard General Purpose Interface Bus)...\u0026lt;br\u0026gt; ...The interface can support a network of up to 14 other IEEE-488 compatible devices. Devices can be interconnected in a star or linear fashion. \u0026lt;/font\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;8bs.com\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Acorn_Electron_IEEEAdv_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH BROCHURE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Cover of a French Commodore-PC brochure.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0027Hats off to Commodore!\u0027  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Commodore_PCcomp_AdvertChapeau_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FIRST ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This painting was the first and the best known MITS Altair advert. It was created by Kim Behm who has since become a well-known artist. At the first beginning of the personal computers era, this advert seems to be saying: In a near future, everybody around the world will have access to a personal computer.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Altair_8800_Advert_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [
+    "http://www.game-nostalgia.net/tvboy/tvboy.html"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/gakken_compact-vision_1.jpg",
+  "builtInGames": "Unknown",
+  "controllers": "",
+  "media": "Cartridges",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computer>
+    <adverts>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;FRENCH ADVERT (1984)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/mb_vectrex_ad_1.jpg</link>
+        </advert>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;US ADVERT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;p class=&amp;quot;petitgris&amp;quot;&amp;gt;Thanks to Tim_K for this picture&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/vectrex_ad-high-perfomance-machine.jpg</link>
+        </advert>
+    </adverts>
+    <batteries></batteries>
+    <builtInGames>Mine Storm (built-in the system)</builtInGames>
+    <buttons></buttons>
+    <colors>Black &amp;amp; white (colors simulated by plastic screen overlays)</colors>
+    <controllers></controllers>
+    <coprocessor></coprocessor>
+    <cpu>Motorola 68A09</cpu>
+    <description>
+Vectrex is one of the most inspired video game machines ever produced. Its point
+of distinction is the fact that it uses vector &amp;quot;line&amp;quot; graphics (as opposed to raster &amp;quot;pixel&amp;quot; graphics).  This is the same type of screen used in such arcade classics as Space Wars, Asteroids, Battlezone and Tempest.
+
+The machine has a 9 x 11 inch black and white screen and comes with a built-in Asteroids clone called Minestorm.  The games come with plastic overlays that slide over the screen to cut down on flicker and give some illusion of color.
+
+It uses an 8 bit processor, the 68A09 (6809 with 1.5MHz clock speed), and a popular (at that time) sound chip, General Instruments AY-3-8912, which can produce a wide range of noises.  Also included is a 1.5 inch, self-centering,
+joystick with 4 buttons on the right.  It uses an analog/potentiometer system allowing differing degrees of directional input.
+
+
+__________
+
+Source : Vectrex FAQ
+ 
+
+
+</description>
+    <emulators>
+        <emulator>
+            <description>Excellent DOS emulator</description>
+            <link>http://www.arcadeathome.com/dve/</link>
+            <name>DVE - DOS Vectrex Emulator</name>
+            <platform>MS DOS emulator</platform>
+        </emulator>
+        <emulator>
+            <description>another Vectrex emulator</description>
+            <link>http://www.valavan.net/vectrex.html</link>
+            <name>VECX</name>
+            <platform>Windows emulator</platform>
+        </emulator>
+        <emulator>
+            <description>MESS also emulates Vectrex system !</description>
+            <link>http://www.mess.org</link>
+            <name>M.E.S.S.</name>
+            <platform>Multiplatform emulator</platform>
+        </emulator>
+        <emulator>
+            <description>Java emulator</description>
+            <link>http://vectrex-emu.blogspot.com/</link>
+            <name>ParaJVE</name>
+            <platform>Multiplatform emulator</platform>
+        </emulator>
+    </emulators>
+    <graphics>vector graphics (built-in 9'' Samsung B&amp;amp;W vector deflection monitor)</graphics>
+    <gun></gun>
+    <hardwares>
+        <hardware type="COMPUTER">
+            <items>
+                <item>
+                    <description>prototype||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;PROTOTYPE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This is the only picture of the computer prototype for the Vectrex. Specialists say that the keyboard pictured here was a mockup and that no Vectrex computer was ever ready to be sold. &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; The specifications however would have been : 66 key keyboard, 16 KB RAM upgradable to 64 KB, and a Basic cartridge.&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/mb_vectrex_computer_1.jpg</photo>
+                </item>
+            </items>
+        </hardware>
+    </hardwares>
+    <image>http://www.old-computers.com/museum/photos/mb_vectrex_1s.jpg</image>
+    <keyboard>One built-in controller (joystick + 4 buttons). Second controller optional.</keyboard>
+    <language>Mine Storm (built-in the system)</language>
+    <links>
+        <link>http://www.classicgamecreations.com/</link>
+        <link>HTTP://GEOVECTOR.TRIPOD.COM</link>
+        <link>http://www.gameasylum.us/gcbrve.html</link>
+        <link>http://members.lycos.nl/kristoftuts/index.html</link>
+        <link>http://www.playvectrex.com/</link>
+        <link>http://www.revival-studios.com/</link>
+        <link>http://www.classicgaming.com/vectrex/</link>
+        <link>http://vgdb.vectrex.com/index.pl</link>
+        <link>http://www.losgatoscollectibles.com/vectrex/</link>
+        <link>http://www.vectrex.co.uk</link>
+        <link>http://www.vectrex.com/</link>
+        <link>http://www.vectrex.nl/</link>
+        <link>http://www.vectrexnews.com/</link>
+        <link>news:rec.games.vectrex</link>
+    </links>
+    <manufacturer>Milton Bradley</manufacturer>
+    <media>Cartridges</media>
+    <name>Vectrex</name>
+    <numGames></numGames>
+    <origin>U.S.A.</origin>
+    <peripherals>Second controller, light pen, 3D imager</peripherals>
+    <ports>2 controller connectors</ports>
+    <power>Power supply built-in the system</power>
+    <price>$199 (November 1982, USA)</price>
+    <production>December 1984</production>
+    <ram>1K x 4-BIT 2114 (two)</ram>
+    <rom>8K x 8-BIT 2363</rom>
+    <screenshots>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;CGE VECTREX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The Vectrex was first marketed by CGE&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/cge_vectrex_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;MB VECTREX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This is a french model playing built-in game MineStorm&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/mb_vectrex_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;SWITCHED OFF&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This system is switched off, and the its controller is stored at the bottom of the unit.&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/mb_vectrex_2.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;CONTROLLER IS OUT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/mb_vectrex_3.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;SWITCHED ON&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/mb_vectrex_4.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;REAR&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;At the back of the system can be found a brightness knob&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/mb_vectrex_rear.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;RIGHT SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/mb_vectrex_r-side.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;CARTRIDGE SLOT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The cartridge slot is located at the right side of the system&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/mb_vectrex_cart-slot.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;CARTRIDGE PLUGGED IN&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/mb_vectrex_cart-inserted.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;CONNECTORS AND SETTINGS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;What we see here are two controller connectors (up) and one reset button and one audio volume dial which also acts as a power switch.&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/mb_vectrex_connectors.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;CONTROLLER&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The Vectrex control pad is composed of an analog joystick and 4 buttons&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/mb_vectrex_controller.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;CGE CONTROLLER&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/cge_vectrex_pad.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;CGE JAPANESE CONTROLLER&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/gce_vectrex_jap-pad.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;BANDAI JAPANESE CONTROLLER&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Controller of the japanese Bandai Vectrex&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/bandai_vectrex_controller_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;VECTREX &amp;amp; MAC&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Don't they look familiar ?&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/mb_vectrex_mac.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;TWO PLAYERS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This a Vectrex playing Space Wars, a two players game...&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/mb_vectrex_2-players.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;PLASTIC OVERLAYS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;These color plastic overlays have to be placed in front of the screen for each game, thus enabling colorful playing !&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/mb_vectrex_overlays.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/mb_vectrex_box.jpg</link>
+        </shot>
+    </screenshots>
+    <size>9? x 11? x 14? inches / 15 pounds</size>
+    <sound>General Instrument AY-3-8912</sound>
+    <speed>1.6 MHz</speed>
+    <switches></switches>
+    <text></text>
+    <type></type>
+    <vram></vram>
+    <year>June 1982</year>
+</computer>
