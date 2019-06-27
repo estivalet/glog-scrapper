@@ -1,0 +1,198 @@
+{
+  "name": "Gama",
+  "manufacturer": "Didaktik",
+  "type": "Home Computer",
+  "origin": "Slovakia",
+  "year": "1987",
+  "production": "Unknown",
+  "language": "Spectrum BASIC interpreter",
+  "keyboard": "Full-stroke keyboard, Sinclair style, 40 keys, reset button",
+  "cpu": "Z80A",
+  "speed": "Unknown",
+  "coprocessor": "",
+  "ram": "80 KB (16 KB + 2 x 32 KB)",
+  "vram": "",
+  "rom": "16 KB",
+  "text": "32 columns x 24 lines",
+  "graphics": "256 x 192 dots",
+  "colors": "8",
+  "sound": "Beeper (1 voice, 5 octaves)",
+  "size": "27 (W) x 16.5 (D) x 3.6 (H) cm",
+  "ports": "i8255 interface, expansion bus, TV and monitor output, tape-recorder sockets",
+  "power": "External PSU",
+  "price": " 6000,- Kcs (K?s) (1987, Czechoslovakia)",
+  "description": "\nThis was a Slovak Spectrum clone made by Didaktik Skalica Ltd. in communism times (1987). It offered 80 KB RAM.\n\nAs all Z80A based computers, it was not possible to address more than 64k. So the Gama computers used a bank switching technique, with two 32k additional RAMs. There was even a LED on the case, which indicated if the RAM have been switched or not!\n\nThe Gama computers had a built-in paralel i8255 interface. They used the original Ferranti ULA and had russian made memory chips.\n\nThe Gama computers were not fully compatible with the original Sinclair Spectrum due to some system variables differences.\n\nIn fact several models were made.\n\n- The first one was black and, as it was made in 1987, it is often called Gama\u002787. It had a bank switching bug : if you switched the banks and the RAMTOP variable was above 32768, then the computer simply crashed...\n\n- In 1988, the Gama\u002788 was launched (grey case). It\u0027s main difference is that the bank switching bug was repaired.\n\n- One year later, the Gama\u002789 (guess why) was released because the \u002788 model was still quite buggy. Some bugs in ROM were corrected and hardware was a little bit changed, so the compatibility was improved. It has only latin character set and a print routine was implemented in ROM. The Gama\u002799 was the last and the best model of the Gama serie, it was manufactured up to 1992.\n_______________________",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GREY VERSION\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Didaktik_Gama_GreySystem_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SIDE VIEW\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Didaktik_Gama_GreySide_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GREY KEYBOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Didaktik_Gama_GreyKeyboard_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BLACK KEYBOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Didaktik_Gamma_Keyboard_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR CONNECTORS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;From left to right:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026bull; Parallel I/O connector\u0026lt;br\u0026gt; \u0026bull; Spectrum compatible I/O Bus connector\u0026lt;br\u0026gt; \u0026bull; DIN plug used simultaneously for external power supply and tape recorder connexions\u0026lt;br\u0026gt; \u0026bull; Monochrome composite video output\u0026lt;br\u0026gt; \u0026bull; TV aerial output. \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Didaktik_Gama_GreyRear_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE EXPLAINED\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; TV aerial output connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; Monochrome composite monitor output connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; DIN plug used simultaneously for external power supply and tape recorder connexions! (see the P.S.U. picture)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(4)\u0026lt;/b\u0026gt; Ferranti ULA chipset (Same as Sinclair original version)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(5)\u0026lt;/b\u0026gt; Spectrum compatible I/0 connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(6)\u0026lt;/b\u0026gt; Z80 microprocessor labelled ZILOG\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(7)\u0026lt;/b\u0026gt; Sinclair Operating System and BASIC interpreter 16 KB ROM\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(8)\u0026lt;/b\u0026gt; Parallel interface (unusual) connector\u0026lt;br\u0026gt;   \u0026lt;b\u0026gt;(9)\u0026lt;/b\u0026gt; 8255 Input/Output dedicated chip\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(10)\u0026lt;/b\u0026gt; 64 KB japanese RAM chips bank\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(11)\u0026lt;/b\u0026gt; 16 KB East-European RAM chips bank\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(12)\u0026lt;/b\u0026gt; Power LED (green), Bank switching LED (red) and reset switch\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(13)\u0026lt;/b\u0026gt; The keyboard cable is soldered on both sides. It is thus impossible to disconnect the keyboard from the motherboard\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(14)\u0026lt;/b\u0026gt; TV RF modulator\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Didaktik_Gamma_Inside_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE GREY VERSION\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The desing of the motherboard is slightly different from the black one.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Didaktik_Gama_GreyInside_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FERRANTI ULA  CLOSEUP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;mailto:kriz@iris.pef.zcu.cz\u0026quot;\u0026gt;Martin Kriz\u0026lt;/a\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/didaktik80_inside.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE CLOSEUP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026sect;mailto:kriz@iris.pef.zcu.cz\u0026sect;\u0026gt;Martin Kriz\u0026lt;/a\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/didaktik80_inside_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;THE BOX\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Didaktik_Gama_Box_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;IN ITS BOX\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Inside its cardoard box, the Gama was enclosed into a white plastic case.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Didaktik_Gama_GreyPlasticBox_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;USER MANUALS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Didaktik_Gama_Manuals_s1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SOFTCARD COPY\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;An advert for one of the numerous copies of the Microsoft SotfCard. Initially, they were manufactured in the United States then in Asia.   \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Apple_II_SoftcardCopy_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MITS BROCHURE #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Altair_8800_SaleBrochure_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BAKED APPLE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;From Personal Computing, October 1981\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0027\u0026lt;a href\u003d\u0026quot;http://www.aci.com.pl/mwichary/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Attached\u0026lt;/a\u0026gt;\u0027\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Apple_II_Advert_Fire_s6.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1978 BROCHURE #7 \u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/MSI_6800_Brochure_s7.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1977 ADVERT #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This ad is unique in that it features professional actors and IMSAI employees.  \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thomas Fischer\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Imsai_8048_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;T-3100 (FEB. 1987)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert says:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; Until now, working away from your office meant baving to settle for lesser computers or no computer at all.\u0026lt;br\u0026gt; Toshiba ends that compromise. The T3100 delivers the power of an IBM PC AT in a lean, 15-pound computer that you can take with you. With a full-sized keyboard and advanced gas plasma display that give you equal comfort and clarity on your desk or on the road \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Don\u0027t let its size fool you.\u0026lt;br\u0026gt; Though the T3100 is no bigger than many laptop computers, it offers the power of a full function IBM compatible desktop AT system. You get the speed and ease of a built-in hard disk, communications and expansion options, and more-including dual-voltage power that lets you plug in and go to work just about anywhere in the world.\u0026lt;/font\u0026gt;  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Toshiba_T3100_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;i\u0026gt;A computer, which grows with your requirements\u0026lt;/i\u0026gt; \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Joscelyn Flores\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Casio_FP6000_GermAdvert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (DEC. 1986)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/multitech_mpf_pub_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ENGLISH ADVERT.\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;We can see here the Palcom PX-7 with all its Pioneer extensions : the graphic tablet, the Laser Disc player, a joystick and even the TV is a Pioneer !\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/pioneer_px7_palcom_advert.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Doctors, it gonna cure your work\u0026quot; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026quot;ITT 3030, the absolute intelligence\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/itt_3030_pub-medecins_1_s.gif"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1983 BADGES\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Commodore__64_Badges_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT (MAY 1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert says:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The ATOM -a definitive personal computer. Simple-to-build, simple-to-operate. But a really powerful full-facility computer. And designed on an expandable basis. You can buy a superb expanded package now-tailored to your needs. Or, you can buy just the standard Atom kit, and, as you grow in confidence and knowledge, add more chips. No need to replace your equipment. No need to worry that your investment will be overtaken by new technology. As you need more power, more facilities, you can add them! \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;The standard ATOM kit includes:\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; . Full sized QWERTY keyboard. Rugged polystyrene case\u0026lt;br\u0026gt; . Fibreglass PCB. 2K RAM. 8K ROM. 23 integrated circuits . Full assembly instructions including tests for fault-finding. (Once built, connect it to any domestic TV and power source)\u0026lt;br\u0026gt; . Power requirement: 8V at 800 M A. ATOM power unit available.\u0026lt;br\u0026gt; PLUS FREE MANUAL written in two sections \u0026lt;br\u0026gt; - teach yourself BASIC and machine code for those with no knowledge of computers, and a reference section giving a complete description of the ATOM\u0027s facilities. All sections are fully illustrated with example programs.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;The ATOM concept\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; Adding chips into sockets on the PCB allows you to progress in affordable steps to large-scale expansion. You can see from the specifications that the RAM can be increased to 12K allowing high resolution (256 x 192) graphics. Two further ROM chips, e.g. maths functions, can be added directly to the board giving a 16K capacity. In addition to 5 I/O lines partly used by the cassette interface, an optional VIA device can provide varied I/O and timer functions and via a buffer device allow direct printer drive. An optional module provides red, green and blue signals for colour. An in-board connector strip takes the ATOM communications loop interface. Any number of ATOMs may be tinked to each other - or to a master system with mass storage, hard copy facility. Interface with other ACORN cards is simplicity itself. Anyone ACORN card may be fitted internally. So you can see there are a vast number of modular options and additions available, expanding with your ability and your budget.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;The ATOM hardware includes:\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; .Memory from 2K to 12K RAM on board (up to 35K in case)\u0026lt;br\u0026gt; .8K to 16K ROM (two 4K additions) 86502 processor\u0026lt;br\u0026gt; .Video Display allows high resolution (256 x 192) graphics and red, green and blue output\u0026lt;br\u0026gt; .Cassette Interface-CUTS 300 baud\u0026lt;br\u0026gt; .Loudspeaker allows tone generation of any frequency\u0026lt;br\u0026gt; .Channel36 UHF Modulator Output .Bus output includes internal connections for Acorn Eurocard.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;The ATOM software includes:\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; .32-bit arithmetic (+/- 2,000,000,000)\u0026lt;br\u0026gt; .High speed execution\u0026lt;br\u0026gt; .43 standard/extended BASIC commands \u0026lt;br\u0026gt; .Variable length strings (up to 256 characters)\u0026lt;br\u0026gt; .String manipulation functions\u0026lt;br\u0026gt; .27 32-bit integer variables\u0026lt;br\u0026gt; .27 additional arrays\u0026lt;br\u0026gt; .random number function .PUT and GET byte\u0026lt;br\u0026gt; .WAIT command for timing\u0026lt;br\u0026gt; .DO-UNTIL construction\u0026lt;br\u0026gt; .Logical operators (AND, OR, EX-OR)\u0026lt;br\u0026gt; .LINK to machine-code routines\u0026lt;br\u0026gt; .Plot draw and move. \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Paul Durrant\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Acorn_Atom_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPAN ADVERT.\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;It\u0027s an advert for both the YIS-503 and YIS-303 which were quite similar except for the keyboard and the memory size...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/yamaha_yis503_japan_advert1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Picture courtesy of \u0026lt;a href\u003d\u0026quot;http://www.sbrowning.com/vintage\u0026quot;\u0026gt;Steve Browning, www.sbrowning.com/vintage\u0026lt;/a\u0026gt;.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/commodore_c64_ad_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1978 BROCHURE #20\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/MSI_6800_Brochure_s20.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;USER MANUAL\u0027S COVER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Intel_Intellec3_ManualCover_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH BROCHURE FRONT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Description of the complete Atmos system.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Jacques Sorro\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Oric_Atmos_FrBrochure_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT, JAN. 1984\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Seductive Sanco computing.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Treat you to a star for less than 3,000 Euros\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sanco_8000_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (APRIL 1987)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;You\u0027re never so well served than by yourself...\u0026quot; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026quot;...create your own micro-server on Thomson.\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_to9_advert_microserveur_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. AD (1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This advert tried to convince computers newcomers that a pocket computer could do the same as a desktop computer...\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; Now Texas Instruments brings you a cordless compact computer that solves the same sort of problems as the Apple or IBM Personal Computer...\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; ...For most personal computer tasks, its 6K RAM and 34K ROM are ample...\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/TexasIns_CC40_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPANESE ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www1.cts.ne.jp/~sato/hp/\u0026quot;\u0026gt;Sato\u0027s Homepage\u0026lt;/a\u0026gt; for this picture.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/nec_compobs80_advert1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Dated 1985 \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026quot;I pianote, it takes note\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/canon_X07_pub2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPANESE ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/canon_X07_pub4.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;COMPUTER TERMINAL TO NETWORK STATION\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The HiNet local network system allowed data to be transfered at a 256 Kbyte/sec. speed. It was able to run under CP/M or MS/DOS operating systems. \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/DigitalMicrosys_HiNet_Advert_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d964",
+    "computer.asp?st\u003d1\u0026amp;c\u003d953",
+    "computer.asp?st\u003d1\u0026amp;c\u003d459",
+    "computer.asp?st\u003d1\u0026amp;c\u003d776",
+    "computer.asp?st\u003d1\u0026amp;c\u003d945",
+    "computer.asp?st\u003d1\u0026amp;c\u003d916",
+    "http://www.tk90x.com.br",
+    "http://www.kompaktservis.cz",
+    "http://www.homecomputer.de/pages/f_sinclair.html",
+    "http://www.algonet.se/~rsm/zx/zxclones.html",
+    "http://tarjan.uw.hu/zxclones_en.htm"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/Didaktik_Gamma_System_1.jpg",
+  "builtInGames": "Spectrum BASIC interpreter",
+  "controllers": "",
+  "media": "None",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

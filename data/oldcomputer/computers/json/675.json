@@ -1,0 +1,217 @@
+{
+  "name": "SuperPet",
+  "manufacturer": "Commodore",
+  "type": "Professional Computer",
+  "origin": "U.S.A.",
+  "year": "1981",
+  "production": "",
+  "language": "CBM BASIC 4.0",
+  "keyboard": "Full-stroke 73 keys with numeric keypad",
+  "cpu": "MOS 6502 and Motorola 6809",
+  "speed": "1 Mhz.",
+  "coprocessor": "",
+  "ram": "96 KB",
+  "vram": "",
+  "rom": "48 KB (Kernal + CBM BASIC)",
+  "text": "80 columns x 25 rows - 3 character sets (255 each)",
+  "graphics": "None",
+  "colors": "Monochrome. Green display",
+  "sound": "1 voice - Three octaves",
+  "size": "",
+  "ports": "IEEE-488, 2 x \u0027Datasette\u0027, Parallel User port, RS-232, Expansion port",
+  "power": "Built-in power supply unit",
+  "price": "$2,000",
+  "description": "\nThe SuperPET SP9000, also known as Micro-Mainframe or MMF9000, was developed in conjunction with the Department of Computer Science of the University of Waterloo in Ontario, Canada. It was primarily designed with universities and scientists in mind.\n\nBased on the CBM 8000 series design, The SuperPet has two processors, a standard MOS 6502 like all Pet systems, and a Motorola 6809. It could run all the original C-8000 software as well as modern 6809 based compilers and development tools: C, PASCAL, BASIC, APL, FORTRAN, COBOL, Assembler, etc.\n\nThe SuperPet was actually built as a programmer\u0027s machine allowing developers to work at home and transfer/exchange their files with a mainframe through a true built-in RS-232 interface. A power-on menu gave access to various language packages and several utilities: RS-232 setup, machine language monitor, text editor and terminal program.\n\nTechnically speaking, the 6502 and 6809 processors shared the same address and control lines so both CPUs worked on the same memory area except the Kernel ROM that remains independent of each processor.\n\nCommodore 8000 series owners could upgrade their system and make them SuperPets thanks to an optional upgrade package.\n\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SYSTEM OPENED\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Note the expansion board mounted above the original CBM-8032 board and featuring Motorola 6809 processor and 64 KB of additional RAM  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Commodore_SuperPet_Inside_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;OPENED #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Commodore_SuperPet_Inside_2.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CHARLIE CHAPLIN #4 \u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;In June 1983, IBM was still seeking independant programmers.\u0026lt;br\u0026gt; Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot; The envelope please.\u0026lt;br\u0026gt; There\u0027s an acceptance letter inside. And a check that could have your name on it. (If we select your program, that is.)\u0026lt;br\u0026gt; But remember. We pick our winners carefully... \u0026lt;/font\u0026gt; \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/IBM_5150_ChaplinAdvert_4.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp; ACORN AD #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said:\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; This attractive package inherits the traditions of the famous Model B BBC microcomputer which is used by children in almost every school in the United Kingdom as well as colleges, hospitals, laboratories, factories, offices, banks and shops. \u0026lt;/font\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;8bs.com\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Acorn_MasterCompact_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT #2 (1979)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is one of the first adverts showing a one computer dedicated software range. In 1979, the computer manufacturers understood that it was not enough any more to sell hardware and that the success of a computer depended now on the range and quality of the software that came with it.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt;The simple fact is nobody - nobody in the personal computer industry - offers more software than Ohio Scientific! Right now, as you read this, Ohio Scientific has just about 2 million bytes of software available for our C4P MF computer.\u0026lt;/font\u0026gt; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Kurt Vogel\u0026lt;/b\u0026gt; adds:\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; I\u0027d like to mention that Aardvark Software in Michigan was one of the better vendors of software for the C4P games.\u0026lt;/font\u0026gt; \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Ohio_C4P_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JACQUARD BROCHURE #3\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Strange logo isn\u0027t it?\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Jacquard_J500_Brochure_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT (1987)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/tandy_1400_ad_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT SEPT. 1981\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;\u0026lt;a href\u003d\u0026quot;http://www.aci.com.pl/mwichary/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Attached\u0026lt;/a\u0026gt;\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Tandy_Color1_Advert_s3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; Our Peripheral Expansion System gives you plug-in cards for memory expansion, P-Code capabilities, a disk drive controler and the RS-232 interface. You can also add a modem, speech synthetiser, disk drive and matrix printer...\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; ... TI BASIC is built into the computer, but it can also handle TI Extended BASIC, UCSD Pascal, TI LOGO, TMS-9900 Assembly language and TI PILOT ... \u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/TI_TI994A_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0027\u0027The memory tool\u0027\u0027\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/basis_108_advert_outil-memoire.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT, AUG. 1983\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;\u0026lt;a href\u003d\u0026quot;http://www.aci.com.pl/mwichary/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Attached\u0026lt;/a\u0026gt;\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Osborne_Executive_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROMOTIONAL LEAFLET\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/fairchild_channelf_leaflet_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROMOTIONAL LEAFLET #3\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/fairchild_channelf_leaflet_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MICRO7 COVERPAGE (SEPT. 84)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Micro7 was a french computing magazine in the 80\u0027s. In september 84, its first page was featuring the EXl-100.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/exelvision_exl-100_micro7.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ISAAC ASIMOV #2 \u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;\u0026lt;a href\u003d\u0026quot;http://www.aci.com.pl/mwichary/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Attached\u0026lt;/a\u0026gt;\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Tandy_Color1_Advert_s5.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT, NOV. 1985\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Ampere_WS1_Advert_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPANESE ADVERT (1985)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.pugly.juice.or.jp/pugly/oldpc/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Pugly\u0027s web site\u0026lt;/a\u0026gt; for this picture.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/nec_pc6601_advert.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;QL CATALOGUE #6\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sinclair_QL_Brochure1_s6.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;M-SERIES BROCHURE - PAGE 5\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Juraj Mucko for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/panasonic_jd_flyer_5.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Gerard Touitou\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Citoh_YD8110_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Z-2D ADVERT (1977)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Z-2D 1977 price list:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; - Kit version with 1 F.D. drive: \u0026lt;b\u0026gt;$1495\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; - Assembled version: \u0026lt;b\u0026gt;$2095\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; - Additional F.D. drive: \u0026lt;b\u0026gt;$495\u0026lt;/b\u0026gt;  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Cromemco_Z2D_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JACQUARD BROCHURE #2 \u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Jacquard_J500_Advert_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPANESE LEAFLET\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.pugly.juice.or.jp/pugly/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Pugly\u0026lt;/a\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sharp_mz80c_leaflet.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DECEMBER 1972 HP JOURNAL\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy \u0026lt;b\u0026gt;Joe Rigdon\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/HP_9830_HPjournal_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CMC INTERNATIONAL\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;It seems that the CMC Company (We have no more info about this company) used SuperBrain systems in which they added various hard disks, from 5 to 20 MB. \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/CMCinternational_SuperFive_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ITALIAN ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.1000bit.net\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;www.1000bit.net\u0026lt;/a\u0026gt; for this advert\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/selcom_lemon2_ad_1.jpg"
+    }
+  ],
+  "hardware": [
+    {
+      "type": "EXTERNAL MODULES",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Commodore_Pet_ClockModule_1.jpg",
+          "description": "Clock/Calendar module||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CLOCK/CALENDAR MODULE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Could be connected to any PET/CBM user port. Clock and calendar were battery backed up.\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Commodore_Pet_EpromProg_1.jpg",
+          "description": "Eprom programmer||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;EPROM PROGRAMMER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Could burn 2716 and 2732 Eprom chips.\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Commodore_Pet_TNW2000_1.jpg",
+          "description": "TNW-2000|||IEEE-488 to Serial converter|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TNW-2000\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;IEEE-488 to Serial converter\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Pascal Rollin\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "FLOPPY \u0026amp; HARD DRIVE UNITS",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/commodore_cbm2040-dualdisks_1.jpg",
+          "description": "Dual disk-drives|||Model 2040|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DUAL DISK-DRIVES\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Model 2040\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This dual 5.25\u0026quot; floppy disk is single sided, double density and has a storage capacity of 170 Kb per disk, or 360k total. It\u0027s connected to the computer through an IEEE-488 interface and uses CBM DOS 1.0. \u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/commodore_cbm_8050_diskdrives.jpg",
+          "description": "8050 dual disk-drive||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;8050 DUAL DISK-DRIVE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;CBM PET Model 8050 Dual disk drive. It uses a 100 TPI single headed drive with a storage capacity of 533,248 bytes per drive. Each 8050 disk has 77 tracks, and is read/write compatible with the model 8250 disk. This compatibility is limited to one side of the diskette. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; It can be used with Commodore Series 2001, Series 3000, Series 4000 and Series 8000. It uses an IEEE-488 interface.\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Commodore_700_8250FDDunit_1.jpg",
+          "description": "8250-LP dual drive unit||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;8250-LP DUAL DRIVE UNIT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The 8250-LP (for Low Profile) uses dual half-size double-side, double-density 1 MB capacity floppy drives. The main logic board is entirely different from the full-size 8250. It uses two 6502 processors!\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/commodore_cbm_9090_harddisk.jpg",
+          "description": "9090 Hard-disk||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;9090 HARD-DISK\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is a single drive non-removeable Winchester technology storage device. It features 3 platters with recording surfaces on both sides and provides 7.5 million characters of storage. A single random access file may occupy the entire capacity. It has an IEEE interface connector and a \u0026quot;slow blow\u0026quot; fuse on the back.\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "PRINTERS",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/commodore_printer_8032p.jpg",
+          "description": "8023P COMMODORE TRACTOR PRINTER  ||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;8023P COMMODORE TRACTOR PRINTER  \u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    }
+  ],
+  "emulator": [
+    {
+      "platform": "Windows emulator",
+      "name": "Versatile Commodore 8-bit Emulator (VICE)",
+      "link": "http://www.6502.org/users/andre/index.html"
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d104",
+    "computer.asp?st\u003d1\u0026amp;c\u003d952",
+    "computer.asp?st\u003d1\u0026amp;c\u003d105",
+    "computer.asp?st\u003d1\u0026amp;c\u003d103",
+    "computer.asp?st\u003d1\u0026amp;c\u003d746",
+    "computer.asp?st\u003d1\u0026amp;c\u003d191",
+    "computer.asp?st\u003d1\u0026amp;c\u003d102",
+    "http://www.portcommodore.com/petindex.php?path\u003dmain-cbmidx",
+    "http://www.6502.org/users/andre/petindex/index.html",
+    "http://ca.geocities.com/SJGRAY@ROGERS.COM/CBM/",
+    "http://freespace.virgin.net/ken.ross1/",
+    "http://www.tpug.ca/",
+    "http://www.commodore.ca/products/pet/commodore_pet.htm",
+    "news:comp.binaries.cbm",
+    "news:comp.binaries.cbm",
+    "news:comp.sys.cbm"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/Commodore_SuperPet_System_2.jpg",
+  "builtInGames": "CBM BASIC 4.0",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

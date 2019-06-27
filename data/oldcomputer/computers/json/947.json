@@ -1,0 +1,248 @@
+{
+  "name": "TK-3000",
+  "manufacturer": "Microdigital",
+  "type": "Professional Computer",
+  "origin": "Brazil",
+  "year": "1985",
+  "production": "1988",
+  "language": "BASIC interpreter",
+  "keyboard": "Full stroke 77 key with numeric keypad and arrow keys",
+  "cpu": "65C02 + Z80A (solely for keyboard and Portuguese characters management)",
+  "speed": "1.023 MHz",
+  "coprocessor": "",
+  "ram": "64 KB (IIe) or 320 KB (Compact)",
+  "vram": "",
+  "rom": "32 KB",
+  "text": "40 or 80 chars. x 25 lines",
+  "graphics": "40 x 48, 280 x 192 and 560 x 192 dots",
+  "colors": "6 or 16 colors",
+  "sound": "Internal speaker",
+  "size": "39 (W) x 45.7 (D) x 11 (H) cm. (IIe), 37.6 (W) x 32 (D) x 6.7 (H) cm (Compact)",
+  "ports": "7 expansion slots, composite video (PAL-M), joystick, tape recorder In/Out. Compact has 1 expansion slot",
+  "power": "Built-in switching power supply unit (110/220V)",
+  "price": "about $2000 without monitor and floppy drive unit",
+  "description": "\nTK-3000 was the local version of Apple IIe manufactured in Brazil.\n\nThere were two models:\n? The full size one, very similar to American Apples\n? A \u0026quot;Compact\u0026quot; one, which included following on-board devices:\n- Floppy disk controller,\n- Parallel and serial interfaces\n- A 256Kb memory module.\n\nDespite Microdigital efforts, TK-3000 lost the battle wih MSX models, mainly due to lack of software in Brazil. \n\n________\n\nContributors: Roberto Isiri (info \u0026amp; pix)\n\nAbout the Brazilian regulation that allowed local manufacturers to copy US and U.K. computers, Roberto clarifies:\nThe \u0026quot;clones\u0026quot; made in Brazil during the 80\u0027s actually were licensed products.\nAlthough Brazilian Government forced us to manufacture our hardware, the technology and some main components such as processors and printer heads were imported from the American and European manufacturers.\nBy that time, we had no user assembled (w/o brand) PC\u0027s. This situation changed in early 90\u0027s, when the laws became softer and the Chinese boards and cheap refurbished components arrived. It was the end of locally branded computers...\n\n\nbut Ernesto Hublard corrects:\nMost of the Brazilian manufacturers copied US and UK computers without neither licence nor agreement from the brands they copied. Sinclair sued Microdigital  for this reason. Another company made an Apple Macintosh clone without any agreement from Apple.\n\nGabriel Gra?a replies:\nErnesto forgets that the clones were not illegal under brazilian law. The WTO did not yet exist, and foreign computer companies were barred from Brazil. The only foreign company that obtained a licence to sell in Brazil was HP (they sold the HP85B). Apple only managed to stop the production of the Mac clone because the US threatened Brazil with trade sanctions.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;KEYBOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The keyboard offers arrow keys and a numeric keypad. However, the manufacturing quality wasn\u0027t as strong as the genuine Apple.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Microdigital_TK3000_Keyboard_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;KEYBOARD CLOSE-UP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Microdigital_TK3000_KeybCloseUp_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BACK SIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; Tape recorder In/Out jacks\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; Composite video output\u0026lt;br\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Microdigital_TK3000_Back_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MAIN BOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The main board is the same size as the Apple IIe.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; Z80A processor used to manage Portuguse characters (also CP/M?)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; Character generator ROM chip\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; 64 KB RAM chips (8 x MMC3764)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(4)\u0026lt;/b\u0026gt; Video custom chip\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(5)\u0026lt;/b\u0026gt; BASIC and operating system ROM\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(6)\u0026lt;/b\u0026gt; Memory expansion slot\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(7)\u0026lt;/b\u0026gt; 65C02 microprocessor\u0026lt;br\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Microdigital_TK3000_MainBoard_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;IIE VERSION\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Promotional picture. Notice the dual floppy drive module on top of the case, inspired by the Franklin \u0026lt;a href\u003d\u0026quot;http://www.old-computers.com/museum/computer.asp?st\u003d1\u0026amp;c\u003d646\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;ACE 1200\u0026lt;/a\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Roberto Isiri\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Microdigital_TK3000_ExtendedAd_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;COMPACT VERSION\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Promotional picture; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Diego Barizo\u0026lt;/b\u0026gt; adds:\u0026lt;br\u0026gt; In the picture of the compact version of the TK3000, the joystick, a TRS-80 de luxe joystick, and the screen is quite similar to that of a flight simulator for the TRS-CoCo. Maybe they had one behind the monitor? \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Roberto Isiri\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Microdigital_TK3000_CompactAd_1.jpg"
+    }
+  ],
+  "hardware": [
+    {
+      "type": "CARDS",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/apple_II_card_appletalk.jpg",
+          "description": "Workstation Card |||Appletalk card|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;WORKSTATION CARD \u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Appletalk card\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This card is used to connect an Apple IIe to a localtalk network. \u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Apple_II_Softcard_1.jpg",
+          "description": "Z80 Softcard advert||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Z80 SOFTCARD ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The Z80 Softcard made the Apple II fully compatible with the CP/M operating system and allowed it to run the largest library of professional software of the time, including the Microsoft programming languages, among them the  BASIC 5.0 interpreter. \u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Apple_II_Softcard_s1.jpg",
+          "description": "Z80 SoftCard|||Full package|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Z80 SOFTCARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Full package\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The card was designed by Burtronix of Orange, California. \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Steve Perry\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Apple_II_Ramcard_1.jpg",
+          "description": "Microsoft Ramcard advert (1982)||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MICROSOFT RAMCARD ADVERT (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Together with the Softcard, the Ramcard turned the Apple II into a 56 KB CP/M system.\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "GAMES",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Apple_II_Joystick_1.jpg",
+          "description": "Joysticks||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JOYSTICKS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Two Apple joysticks for IIe and IIc versions, and a clone version with a fire button made by CH Products, San Marco, California.\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Apple_2e_Handcontr_2.jpg",
+          "description": "Analog Handcontrollers||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ANALOG HANDCONTROLLERS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/apple_hand-controllers_box.jpg",
+          "description": "Hand controllers|||Box|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;HAND CONTROLLERS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Box\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/apple2_joy_stick.jpg",
+          "description": "Joy Stick||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JOY STICK\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "MISC",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/apple_apple2_graphic-tablet.jpg",
+          "description": "Graphic Tablet|||\u0026amp; its card|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GRAPHIC TABLET\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;\u0026amp; its card\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/apple_apple2_keypad.jpg",
+          "description": "Keypad||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;KEYPAD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Apple_II+_Dinatyper_1.jpg",
+          "description": "Dynatyper||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DYNATYPER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Here is the sale brochure of the Dynatyper, a strange and obscure printing device launched in 1980:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; Dynatyper is a new typewriter interface system designed to generate hard copy directly from computer output through any electric typewriter. It exploits the high quality and use of full upper and lower case characters of your electric typewriter. Users of small computer systems can now expand those systems into applications demanding high quality text, such as word processing.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Consisting of an array of coils positioned in the same pattern as the typewriter\u0027s keyboard. These coils are wired into an electrical decoding matrix. Designed to operate on voltage available from standard computers, the Dynatyper is easily installed without modification to your typewriter. Adjustments for different key heights are easy.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Rochester Data provides interfaces and software for the \u0026lt;b\u0026gt;TRS-80 Level 1 \u0026amp; 2\u0026lt;/b\u0026gt;, the \u0026lt;b\u0026gt;Apple II\u0026lt;/b\u0026gt; and also a 6 bit \u0026lt;b\u0026gt;parallel interface\u0026lt;/b\u0026gt; for general operation with other computers. The same interface board can be modified by jumper selection to eperate in any of the above modes... \u0026lt;/font\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Bob Leedom\u0026lt;/b\u0026gt; for information and pictures\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "MUSIC / SOUND",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/apple_appleII_echoII_board.jpg",
+          "description": "Echo Speech Processor II||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ECHO SPEECH PROCESSOR II\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/apple_apple2_roland-cmu500_interface.jpg",
+          "description": "Roland CMU-500 Interface||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ROLAND CMU-500 INTERFACE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This item, a Roland Compumusic CMU-500 Apple II Interface, was used to connect musical instruments to the Apple II series of computers !\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/apple_apple2_echo2-speech-synth_1.jpg",
+          "description": "Echo II|||speech/music/sound synthesizer|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ECHO II\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;speech/music/sound synthesizer\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "NETWORK",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/apple_apple2_acoustic-coupler_1.jpg",
+          "description": "Acoustic coupler||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ACOUSTIC COUPLER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "PRINTERS",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/apple_apple2_printer1.jpg",
+          "description": "Early Apple printer||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;EARLY APPLE PRINTER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    }
+  ],
+  "emulator": [
+    {
+      "platform": "Windows emulator",
+      "name": "Apple Oasis",
+      "link": "http://www.geocities.com/APL24WIN/index.html",
+      "description": "Emulates Apple IIe system including hard disk, clock, CP/M card, etc."
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "AppleWin",
+      "link": "http://applewin.berlios.de/",
+      "description": "A great apple 2+ and apple 2e emulator for windows"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "TK-3000 emulator",
+      "link": "http://codigolivre.org.br/projects/tk3000e",
+      "description": "Project for a GPL TK-3000 emulator"
+    },
+    {
+      "platform": "Apple emulator",
+      "name": "Bernie ][ the rescue",
+      "link": "http://www.bernie.gs/Bernie/",
+      "description": "(Available for BeOS too)"
+    },
+    {
+      "platform": "Apple emulator",
+      "name": "Catakig",
+      "link": "http://www.radix.net/~cklipsch/ctkgdoc/"
+    },
+    {
+      "platform": "Unix / Linux emulator",
+      "name": "YAE, Yet another Apple ][ Emulator",
+      "link": "http://quark.netfront.net:6502/"
+    },
+    {
+      "platform": "Amiga OS emulator",
+      "name": "The Official ShapeShifter Home Page",
+      "link": "http://www.uni-mainz.de/~bauec002/SSMain.html"
+    },
+    {
+      "platform": "Other platform emulator",
+      "name": "PalmApple",
+      "link": "http://palmapple.sourceforge.net/",
+      "description": "PalmApple is an open source Apple //e emulator for PalmOS PDAs"
+    },
+    {
+      "platform": "Other platform emulator",
+      "name": "Virtual Apple",
+      "link": "http://www.virtualapple.com/",
+      "description": "This web site uses an ActiveX application and Apple IIgs emulator to automatically download and play most Apple 2 disk images online! "
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "Dapple",
+      "link": "http://sourceforge.net/projects/dapple/",
+      "description": "Apple II (II+, IIe) emulator for DOS and Unix with C source code"
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d68",
+    "computer.asp?st\u003d1\u0026amp;c\u003d1031",
+    "computer.asp?st\u003d1\u0026amp;c\u003d571",
+    "computer.asp?st\u003d1\u0026amp;c\u003d69",
+    "computer.asp?st\u003d1\u0026amp;c\u003d36",
+    "computer.asp?st\u003d1\u0026amp;c\u003d83",
+    "computer.asp?st\u003d1\u0026amp;c\u003d977",
+    "http://www.wbwip.com/a2web/",
+    "http://www.cs.ruu.nl/wais/html/na-dir/apple2/emulators-faq/part1.html",
+    "http://www.apple-iigs.info/home.htm",
+    "http://apple2history.org/",
+    "HTTP://WWW.MYSPACE.COM/135780133",
+    "http://www.apple2.org/",
+    "http://www.applefritter.com/",
+    "http://www.apple-history.com/",
+    "http://apple2.tffenterprises.com/apple2/",
+    "http://perso.wanadoo.fr/fabrice.montupet/",
+    "http://ground.icaen.uiowa.edu/apple2/",
+    "http://www.apple2clones.com/",
+    "ftp://ftp.apple.asimov.net/pub/apple_II/images/",
+    "news:comp.binaries.apple2",
+    "news:comp.emulators.apple2",
+    "news:comp.sources.apple2",
+    "news:comp.sys.apple2",
+    "news:comp.sys.apple2.comm",
+    "news:comp.sys.apple2.marketplace",
+    "news:comp.sys.apple2.programmer",
+    "news:comp.sys.apple2.usergroups"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/Microdigital_TK3000_System_1.jpg",
+  "builtInGames": "BASIC interpreter",
+  "controllers": "",
+  "media": "None",
+  "numGames": "",
+  "peripherals": "All Apple and third sources expansion cards \u0026amp; peripherals",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

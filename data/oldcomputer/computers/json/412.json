@@ -1,0 +1,47 @@
+{
+  "name": "PASOPIA",
+  "manufacturer": "Toshiba",
+  "type": "Home Computer",
+  "origin": "Japan",
+  "year": "1981",
+  "production": "",
+  "language": "Model PA7010 : T-BASICModel PA7012 : OA-BASIC",
+  "keyboard": "Full-stroke keyboard, JIS standard, 90 keys, separated numeric keypad, 8 function keys (16 functions)",
+  "cpu": "Z80A",
+  "speed": "4 Mhz",
+  "coprocessor": "",
+  "ram": "64 kb",
+  "vram": "16 kb",
+  "rom": "32 kb",
+  "text": "80 x 20, 80 x 25, 36 x 24, 36 x 19",
+  "graphics": "160 x 100, 640 x 200",
+  "colors": "8 (black, blue, red, purple, green, cyan, yellow and white)",
+  "sound": "3 octaves (speaker built-in)",
+  "size": "420  x 253  x 99.5 mm",
+  "ports": "Video out, Tape interface (1600 baud), RS232c, Parallel connector, Expansion bus",
+  "power": "AC100V +- 10%, 50 / 60Hz",
+  "price": "163 000 yens (September 81, Japan)",
+  "description": "\nThis is the first home-computer made by Toshiba and was quite powerful for 1981 : 64k RAM, 80 columns, 640 x 200 high resolution and large expansion possibilities.\n\nThere were two models : the PA7010 with the T-BASIC built-in, and the PA7012 with the OA-BASIC built-in.\nThe advantage of the OA-BASIC is that it can use indexed sequential access methods to handle files, and has an automatic load / run function for launching programs. It can also handle Chinese characters directly within BASIC. Finally it has a Terminal mode.\n \n\n\n",
+  "shot": [],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPANESE ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://web.kyoto-inet.or.jp/people/s-oga/\u0026quot;\u0026gt;Soichiro Oga\u0026lt;/a\u0026gt; for this picture !\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/toshiba_pasopia_ad1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [
+    "http://member.nifty.ne.jp/s-kato/pasopia.html"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/toshiba_pasopia_1.jpg",
+  "builtInGames": "Model PA7010 : T-BASICModel PA7012 : OA-BASIC",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "Disk-drives, RAM expansions, printers",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

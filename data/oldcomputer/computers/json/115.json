@@ -1,0 +1,86 @@
+{
+  "name": "300 Professional series",
+  "manufacturer": "Digital Equipment Corporation",
+  "type": "Professional Computer",
+  "origin": "U.S.A.",
+  "year": "1979",
+  "production": "Unknown",
+  "language": "None",
+  "keyboard": "Full-stroke 106 keys keyboard with 20 function keys, editing and numeric keypads",
+  "cpu": "DCF-11 chipset (325/350) - Harris J-11 chipset (380)",
+  "speed": "13.33 MHz. (325 - 350), 15 MHz. (380)",
+  "coprocessor": "MMU and FPA (belong to the DCF-11 chipset)",
+  "ram": "256 KB (up to 1 MB)",
+  "vram": "32 KB",
+  "rom": "12 KB (contains power-up self test code, configuration \u0026amp; initialisation code and boot code)",
+  "text": "80 x 24 / 132 x 24",
+  "graphics": "1024 x 256 dots.",
+  "colors": "256",
+  "sound": "Although there wasn\u0027t a sound port, there was an option known as the Telephone Management System (TMS). It could be programmed to be used as a modem, but it also could be programmed to play and record sounds - one application turned it into essentially an answering machine - playing an outgoing message from a disk file, and recording incoming voice data to a file.",
+  "size": "58(W) x 36(D) x 17(H) cm. (Mainframe)",
+  "ports": "Video output, Keyboard, Printer output (which could also be used for a debugging terminal), RS232, 6 expansion slots",
+  "power": "Built-in PSU",
+  "price": "Pro 325 : about US$8,000Pro 350 : about US$10,000",
+  "description": "\nIn conceiving the Professional 300 series, DEC designers decided that new machines must be able to perform several tasks at once, apply the same user interface, communicate efficiently and use the same software as Digital\u0027s popular microcomputers.\n\nThese personal computers were really desktop-sized versions of the PDP-11, one of Digital\u0027s popular minicomputer. Both models shared the PDP-11 instruction set and memory management. Both had an operating system based on Digital\u0027s RSX-11M+. For the user, this meant that software applications developped for more than 500,000 PDP-11 and VAX systems were candidat for easy migration to a desktop personal computer.\n\nThe members of DEC 300 Pro series were the 325 (two 5.25\u0026quot; disk drives, 400 KB each, and 1 expansion slot), the 350 (one 5.25\u0026quot; disk drive, 10 MB hard disk and 5 expansion slots) and the 380.\nThe 325 and 350 used the F-11 CPU running at 13.33 MHz (the external clock actually ran at 26.66 MHz). The 380 used the J-11 CPU \n\nAbout the number of colours: the three planes gave 8 colors at one time by referencing an 8 entry palette.Each entry in the palette could be programmed for one of 256 colors (by setting RGB values).\n\nThe internal card cage had space for up to 6 options total, and the base 350 system with EBO used four. The base 380 system used two. A Z80 card was available and allowed to use CP/M as the OS.\n\nThe operating systems which ran on it were P/OS (which was a variation of RSX), RT-11 and a variation of Unix called Venix. P/OS and Venix are freely available nowadays. RT-11 is still licensed software and is still being developed and maintained.\n\nThese systems were originally sold as standalone units, but were later incorporated into the VAX 8000 series as the system ?Console?\n\nThanks to Megan Gentry, Former RT-11 Developer, who helped us \u0027debug\u0027 this page ;-)\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MODEL 350\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Running boot-up hardware self test.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/digital_Pro350_SelfTest_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CLOSE-UP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Note the function-key labels of WPS-PLUS/POS, a word processing system from Digital.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/digital_Pro350_Keyb_CloseUp_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR CONNECTORS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; Keyboard connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; Mainframe link connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; Bright and contrast adjustments\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(4)\u0026lt;/b\u0026gt; Local network DB15 connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(5)\u0026lt;/b\u0026gt; TMS connectors (see TMS module)\u0026lt;br\u0026gt;  \u0026lt;b\u0026gt;(6)\u0026lt;/b\u0026gt; Serial RS232C DB25 connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(7)\u0026lt;/b\u0026gt; Parallel printer DB9 connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(8)\u0026lt;/b\u0026gt; Monitor DB15 connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(9)\u0026lt;/b\u0026gt; Hardware test leds\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(10)\u0026lt;/b\u0026gt; Mains plug and voltage selector\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/digital_Pro350_RearConnect_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The inside of the DEC is very modular and well organized. Each component can be removed without any tool help.\u0026lt;br\u0026gt; From left to right, you can see the power supply unit, hard disk drive (Seagate 10 MB - ST412), and dual floppy drive unit.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/digital_Pro350_Inside_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;EXPANSION BOARDS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Six card can be inserted in the expansion cage. Three of them (\u0026lt;b\u0026gt;1\u0026lt;/b\u0026gt;, \u0026lt;b\u0026gt;2\u0026lt;/b\u0026gt; and \u0026lt;b\u0026gt;3\u0026lt;/b\u0026gt;) are original parts of the 350 system.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; Hard disk controller card\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; Floppy disc controller card\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; Video card\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(4)\u0026lt;/b\u0026gt; 512 KB expansion memory board\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(5)\u0026lt;/b\u0026gt; TMS management and software card (see TMS module)  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/digital_Pro350_ExtCards_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TMS MODULE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The \u0026lt;b\u0026gt;T\u0026lt;/b\u0026gt;elephone \u0026lt;b\u0026gt;M\u0026lt;/b\u0026gt;anagement \u0026lt;b\u0026gt;S\u0026lt;/b\u0026gt;ystem is an optional integral modem/voice unit that fits into a special slot of the system. It adds a voice communication port and an additional data communication port to the system.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The Telephone Line Interface (TLI) module supplies four connectors. Two jacks are the telephone lines 1 and 2 (\u0026lt;b\u0026gt;1\u0026lt;/b\u0026gt;), one for the phone handset (\u0026lt;b\u0026gt;2\u0026lt;/b\u0026gt;) and one DIN plug for the TMS speaker (\u0026lt;b\u0026gt;3\u0026lt;/b\u0026gt;). \u0026lt;br\u0026gt; TMS module supported live voice communication or encoded voice/music support for recording and playback. \u0026lt;br\u0026gt; A switch (\u0026lt;b\u0026gt;4\u0026lt;/b\u0026gt;) allowed TMS to be enabled/disabled.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Note also the clock battery backup (\u0026lt;b\u0026gt;5\u0026lt;/b\u0026gt;) \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/digital_Pro350_ModemExt_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MAIN BOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Main board can be easily removed from the case.\u0026lt;br\u0026gt; It is here fitted with 2 x 512 KB RAM daughter boards.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/digital_Pro350_MotherBoard_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;EXPANSION CONNECTORS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/digital_Pro350_ExpSlots_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DCF-11 CHIPSET \u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;DCF-11 chipset consists of the DCF-11 16-bit main processor, a memory management (MMU) and floating point (FPA) coprocessors.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; This chipset was used in 325/350 models, but also in DEC PDP-11/23 and 11/24 systems.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/digital_Pro300_Proc_CloseUp_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;USER MANUALS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;A complete set of manuals provides all necessary hardware and software information to the beginner as well as the advanced user.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/digital_Pro350_Manuals_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT, JULY 1985\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;DEC Advertises its range of networking products.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Byte magazine\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/digital_Pro350_Advert_s1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [],
+  "image": "http://www.old-computers.com/museum/photos/digital_Pro300_Proc_System_1.jpg",
+  "builtInGames": "None",
+  "controllers": "",
+  "media": "325: 2 x 5.25 400 KB FDD350: 2 x 5.25 400 KB FDD - 1 x 10 MB HDD380: 2 x 5.25 400 KB FDD - 1 x 20 MB HDD",
+  "numGames": "",
+  "peripherals": "Unknown",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

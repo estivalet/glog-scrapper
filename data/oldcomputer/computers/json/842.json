@@ -1,0 +1,56 @@
+{
+  "name": "Visual 1050",
+  "manufacturer": "Visual Technology",
+  "type": "Professional Computer",
+  "origin": "U.S.A.",
+  "year": "1984",
+  "production": "1987?",
+  "language": "None",
+  "keyboard": "Keytronic full stroke 93-key with numeric key pad \u0026amp; 17 function keys",
+  "cpu": "Z80-A",
+  "speed": "4 MHz.",
+  "coprocessor": "6502 (Graphic video management)",
+  "ram": "128KB (bank-switched)",
+  "vram": "320Kb (32Kb x 10)",
+  "rom": "8 KB",
+  "text": "80 chars. x 25 lines",
+  "graphics": "640 x 300 dots",
+  "colors": "Monochrome",
+  "sound": "No sound",
+  "size": "CPU - 5\u0027\u0027 (H) x 17\u0027\u0027 (W) x 17\u0027\u0027 (D) / CPU 15 lbs,  Monitor 10 lbs",
+  "ports": "video terminal, Serial, Parallel, Winchester HD",
+  "power": "75 watt, switching power supply unit",
+  "price": "$2700",
+  "description": "\nThe Visual 1050.  Entered into the PC battles mid-80s from the now defunct\nVisual Technology company (most famous for video terminals at the time).\n\nThis CP/M based machine was tailored to Wordstar with a specialized\nkeyboard featuring all the wordstar function keys.\nGraphic capabilities were managed by a second 6502 processor.\n\nIt was delivered with a set of Digital Research software, including CP/M, C-BASIC compiler, DR-GSX (graphic extensions), as well as WordStar (Word processor), Mailmerge (address database), Multiplan (spreadsheet) and TTY-1050 (communications)\n\nJohn Citron remembers:\nI worked for Visual from 1980-1987. From 1983 to 1987, I was a hardware technician with them and serviced many of these machines. In addition to the expansion ports on the outside, there is also a riser header for a, never implemented, optional memory expansion card. The 9\u0026quot; green monitor was manufactured in Taiwan by ADI and it, along with the keyboard, eventually became the main components for their V-50/55 and V-60/65 line of video terminals.\n\nIn addition to coming with a huge bundle of applications, the system was also able to read CP/M disks from many of the competitive machines in its day. By running a special utility, one could load in programs and data from Osborne, DEC VT-180, DEC Rainbow, and others.\n\nOverall, the system was great in its day and I eventually owned one for a number of years. The video was crisp and the Keytronic keyboard was comfortable to use. The only complaint that I ever had was the noise. The system was very loud due to the empty case and the noisy fan and floppy drives.\n\nThanks to Richard Bramante for information and pictures.\n\n\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SYSTEM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/VisualTech_Visual1050_System_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BACK SIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; Parallel printer connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; Serial connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; Winchester hard disk drive connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(4)\u0026lt;/b\u0026gt; Video terminal connector\u0026lt;br\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/VisualTech_Visual1050_Back_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT (APRIL 1984)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;http://www.classiccmp.org/dunfield/miscpm/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Dave Dunfield\u0026lt;/a\u0026gt; for the picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/visual1050_advert_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [
+    "http://www.metabarn.com/v1050/index.html"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/VisualTech_Visual1050_System_1.jpg",
+  "builtInGames": "None",
+  "controllers": "",
+  "media": "2 x 400KB, 5.25\u0027\u0027, SSDD, 96tpi floppy disk drives (TEAC FD-55E)Optional 10Mb external Winchester hard disk drive.",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

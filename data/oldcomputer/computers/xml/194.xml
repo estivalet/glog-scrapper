@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computer>
+    <adverts>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;LAST +4 SALES, APR. 1986&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/Commodore_Plus4_Advert_s1.jpg</link>
+        </advert>
+    </adverts>
+    <batteries></batteries>
+    <builtInGames>Commodore BASIC 3.5. Built-in machine code monitor (12 commands)</builtInGames>
+    <buttons></buttons>
+    <colors>121 (15 colours x 8 luminances + black)</colors>
+    <controllers></controllers>
+    <coprocessor></coprocessor>
+    <cpu>7501</cpu>
+    <description>
+Among the Commodore news from the Summer CES 1984 was the renaming of the C=264 to Plus/4. This renaming came along with a slight change in the built-in software: you could not choose between many different programs anymore, but each Plus/4 was delivered with the 3-plus-1 software.
+
+The built-in software is not worth the silicon it is etched in: a word processor (only with 40 columns and can manage documents with only 99 lines of 77 columns), a very small spreadsheet (only 17 columns and 50 lines), a poor graph generator program (which can graphically display data from the sheets, but only in text mode) and a small database (999 records with 17 fields each and only 38 characters by field).
+Most of these programs can only be used with a floppy drive. 
+
+The Plus/4 can use some of the peripherals of the C=64 or the VIC-20, like the famous MPS-801 dot-matrix printer and the 1541 Disk Drive run well with it but it can't use C=64 programs (unfortunately, it cannot use the same joysticks &amp;amp; Datasette as the C=64/VIC-20).
+
+This machine wasn't built to be a competitor of the C=64, but it wasn?t meant to replace it either. It has an improved BASIC compared to the C=64?s, this one features graphic and sound instructions and a built-in assembler, but has lost lots of interesting C-64 features like great sound chip (SID: Sound Interface Device) or hardware sprites.
+
+The Commodore Plus/4 was an error in the Commodore marketing policy and had no success.
+ 
+
+
+</description>
+    <emulators>
+        <emulator>
+            <link>http://minus4.plus4.net/</link>
+            <name>Minus4 - Plus4 Emulator for DOS &amp;amp; Windows</name>
+            <platform>MS DOS emulator</platform>
+        </emulator>
+        <emulator>
+            <description>C16 / Plus4 emulator for Windows &amp;amp; DOS, developed by Zsolt Prievara</description>
+            <link>http://winemu.emuunlim.com/</link>
+            <name>WinEMU</name>
+            <platform>Windows emulator</platform>
+        </emulator>
+        <emulator>
+            <description>PLUS/4 Emulator for Windows</description>
+            <link>http://YAPE.PLUS4.NET</link>
+            <name>YAPE</name>
+            <platform>Windows emulator</platform>
+        </emulator>
+        <emulator>
+            <description>Plus/4 emulator for amiga, developed by Rachy</description>
+            <link>http://www.amiga.hu/amigos/rachy/projects.html</link>
+            <name>FLAMINGO</name>
+            <platform>Amiga OS emulator</platform>
+        </emulator>
+        <emulator>
+            <description>VICE emulates a bunch of 8-bit Commodore computers including the Plus 4</description>
+            <link>http://www.viceteam.org/</link>
+            <name>VICE</name>
+            <platform>Multiplatform emulator</platform>
+        </emulator>
+    </emulators>
+    <graphics>several modes, maximum : 320 x 200 dots</graphics>
+    <gun></gun>
+    <hardwares/>
+    <image>http://www.old-computers.com/museum/photos/commodore_plus4.jpg</image>
+    <keyboard>Full stroke 67 keys with 4 function keys and 4 cursor keys</keyboard>
+    <language>Commodore BASIC 3.5. Built-in machine code monitor (12 commands)</language>
+    <links>
+        <link>computer.asp?st=1&amp;amp;c=1125</link>
+        <link>computer.asp?st=1&amp;amp;c=97</link>
+        <link>http://plus4.emucamp.com/</link>
+        <link>http://YAPE.PLUS4.NET</link>
+        <link>http://www.commodore16.com/</link>
+        <link>news:comp.binaries.cbm</link>
+        <link>news:comp.binaries.cbm</link>
+        <link>news:comp.sys.cbm</link>
+    </links>
+    <manufacturer>Commodore</manufacturer>
+    <media>Cassette unit. Provision for 170 KB 5.25'' floppy disc unit</media>
+    <name>PLUS 4 - C232/264/364</name>
+    <numGames></numGames>
+    <origin>U.S.A.</origin>
+    <peripherals></peripherals>
+    <ports>Tape, Cardridge, Joystick (2), User port, Composite (CVBS) video port, memory expansion bus port, serial port, power, RF video</ports>
+    <power></power>
+    <price>?249</price>
+    <production></production>
+    <ram>64 KB (60 KB free for user, and 48 KB free when used in high resolution)</ram>
+    <rom>64 KB</rom>
+    <screenshots>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;PLUS4 BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/commodore_plus4_box_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;BOX #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/commodore_plus4_box_2.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;INSIDE PLUS/4&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;An original and nice design, a serious keyboard, a mother board fitted with maximum RAM and ROM capacity (both 64 Kb.), but limited compatibility with the previous models (C64 and Vic 20). The Commodore Plus 4 never had great success, as it was launched too late : some competitor models had more attractive features, and the first 16 bit home computers were about to enter the market. &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(1)&amp;lt;/b&amp;gt; Each of the 4 function keys can call two different commands using the Shift key. The user can also define new functions (128 char. maximum). &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(2)&amp;lt;/b&amp;gt; Arrow keys. Original design, but not very practical. &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(3)&amp;lt;/b&amp;gt; Power connector. Power is supplied by an external transformer. &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(4)&amp;lt;/b&amp;gt; Power switch. &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(5)&amp;lt;/b&amp;gt; System reset button. &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(6)&amp;lt;/b&amp;gt; 7501 microprocessor, compatible with the 6502 instruction set, but able to manage more than 64 Kb. of memory. &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(7)&amp;lt;/b&amp;gt; 8 chips holding 64 Kb RAM, totally available for Basic programs (except in graphic mode). &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(8)&amp;lt;/b&amp;gt; Extension connector used by ROM cartridges and the disk drive unit. &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(9)&amp;lt;/b&amp;gt; 64 Kb ROM. Microsoft Basic and built-in software are stored in 3 ROM chips. 2 ROM sockets are left available. &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(10)&amp;lt;/b&amp;gt; An imposing specialized circuit (Arithmetic and logic unit) is protected by a metal case to avoid radio interference. &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(11)&amp;lt;/b&amp;gt; TV video signal modulator.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(12)&amp;lt;/b&amp;gt; RGB video output and sound connector. &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(13)&amp;lt;/b&amp;gt; 2 joysticks connectors, not compatible with Atari standard. It is undoubtedly this kind of detail which slowed down the sales of the Plus/4. &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(14)&amp;lt;/b&amp;gt; Serial user connector. It can manage several peripherals simultaneously. &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(15)&amp;lt;/b&amp;gt; Cassette recorder connector, once more specific to the Plus/4. &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(16)&amp;lt;/b&amp;gt; Serial connector used by some Commodore peripherals. &amp;lt;br&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Commodore_Plus4_Inside_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;C-232 PROTOTYPE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Commodore had planned for a new line-up of computers based on their new TED processor. They were comprised of the Commdodore 232 at the low end with 32k on board, the 264 in the mid-range with 64k and the choice between four different preinstalled software modules, and finally the V364 at the top of the product line.&amp;lt;br&amp;gt; These products were touted in numerous pre-release press articles and advertising circulars. But, typical of Commodore, just prior to beginning production, the entire line was canned, and the 264 was retooled into the Plus/4. It was the only model with the TED to hit the store shelves.  &amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Commodore_232_System_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;C-264 PROTOTYPE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The following information comes from Death Adder.  &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; With the first Commodore 264 prototype inofficially presented on the Winter Consumer Electronics Show (CES) in January (?) 1984, the developers had obviously not yet agreed about the keyboard layout; some keys are unlabelled, the right shift key is missing, instead it has a key which seems to be meant as a line feed key. &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; It was planned that when buying a C264, you could choose between these programs: &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; 3 plus 1 (word processor, data base, spread sheet, windowing)&amp;lt;br&amp;gt; Superscript (professional word processor)&amp;lt;br&amp;gt; Magic Desk (word processor, data base, spread sheet, calculator)&amp;lt;br&amp;gt; Logo&amp;lt;br&amp;gt; Pilot&amp;lt;br&amp;gt; Easycalc 264 (spread sheet)&amp;lt;br&amp;gt; COM 264&amp;lt;br&amp;gt; Financial Advisor&amp;lt;br&amp;gt; &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; The C264 should then be delivered with the selected program built in. The remaining programs could only be used with cartridges for the expansion port. &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; The official presentation of the C264 series took place on the Hannover fair in 1984. Luckily, the developers didn't eliminate the right shift key in the final keyboard layout. The formerly unlabelled keys bear a label now: the key that used to be the '&amp;lt;-' (left arrow) key on the C64 and the VC20 says 'Esc', the key between '@' and '*' bears the English pound sign, and the key that was labelled 'SHIFT LOCK' on all 8-bit computers Commodore ever produced now says - guess what - 'SHIFT LOCK' :-) (must have been a hard decision between SHIFT and CAPS lock). &amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/commodore_264.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;V-364 PROTOTYPE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This prototype was a C264 with a bigger keyboard (86 keys including a numeric keypad) and with a built-in speech synthesizer with a vocabulary of 261 words (which could be expanded by either diskettes or modules). Commodore dropped this model and decided to sell a separate speech module (Magic Voice) for the C64. &amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Commodore_364_System_s1.jpg</link>
+        </shot>
+    </screenshots>
+    <size>42.3 (W) x 23.9 (D) x 6.7 (H) cm</size>
+    <sound>two channels; 4 octaves + white noise</sound>
+    <speed>0.89 MHz or 1.76 MHz</speed>
+    <switches></switches>
+    <text>40 chars x 25 lines</text>
+    <type>Home Computer</type>
+    <vram></vram>
+    <year>1984</year>
+</computer>

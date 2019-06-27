@@ -1,0 +1,89 @@
+{
+  "name": "6800",
+  "manufacturer": "South West Technical Products Corporation",
+  "type": "Professional Computer",
+  "origin": "U.S.A.",
+  "year": "1975",
+  "production": "1979",
+  "language": "",
+  "keyboard": "Optional terminal",
+  "cpu": "Motorola 6800",
+  "speed": "980 Khz.",
+  "coprocessor": "",
+  "ram": "4 KB min., depending on models",
+  "vram": "",
+  "rom": "8 KB",
+  "text": "Unknown",
+  "graphics": "Unknown",
+  "colors": "Unknown",
+  "sound": "Unknown",
+  "size": "Unknown",
+  "ports": "Serial",
+  "power": "Integrated P.S.U.",
+  "price": "$395 (Basic kit version)",
+  "description": "\nThe SWTPC 6800 was the first computer system made by The SouthWest Technical Products Corporation and the first based on the Motorola 6800 microprocessor. Before manufacturing computers, SWTPC sold home audio kits and a kind of computer terminal called \u0026quot;Television Typewriter\u0026quot;.\n\nThe SWPTC 6800 was introduced in 1975. The first system included a case with power supply housing a SS-50 and SS-30 bus based motherboard, a 6800 CPU card, a 2 KB. static RAM card and a serial I/O card. User had to buy an additional terminal to enter information, and thus a ROM monitor allowed him to examine and modify memory, load/save programs on tape or boot from a floppy disc unit.\n\nEvery original card was built around the Motorola family chips which made the SWTPC 6800 an inexpensive system for the time. The system was sold in a 2 KB kit version ($395) or 4 KB, 8 KB or 40 KB assembled versions. It came with a complete documentation including the 6800 programming manual and a program examples book.\nThe ROM and RAM was organized as follow: The MikBug chip (instant-on ROM BIOS) was 1024 bytes, of which 512 bytes were useable; MikBug let you write programs immediately in hex. The CPU board had a 2K bit RAM chip on it organized as 256 Bytes. The memory board included with the kit was 4K but it came with only 2K of RAM chips, 16 X 1024 bit. \n\nThanks to Michael Holley\u0027s SWTPC 6800/6809 documentation collection for some informations and pictures.\n\nDave O\u0027Neil reports:\nLoved seeing the old 6800 on your site. I am a high school physics teacher (I just retired). I built one in early \u002776 and two of my students went on to build one, too!  At least 5 were immediately guided into computers when they saw it that year. I sent a passle of my BASIC physics programs to Wayne Green at Microcomputing and he published them in the June \u002780 issue of Microcomputing, p. 138.\nThere were a few newsletters printed and sent out free with all sorts of great stuff to input. Everyone grabbed the hex-binary one for finding bad memory chips. There soon was an assembler that everyone started writing programs with. Then a co-resident assembler/desembler. When Uiterwyck\u0027s 4K BASIC came out everyone, went to 8K or 12K. When his 8K came out, we went from 8K to 12K or 16K. I tell people that if IBM had gone Motorola instead of Intel, he\u0027d be the richest man, now.\n\nChip Gill replies:\nI am one of Dave O\u0027Neil\u0027s students that also built this machine. Loved using it through 2 years of high school and 4 years of college. My college senior project was a 32K byte memory card for this system which replaced the 4 cards that were 4K each. Thank you very much Mr O\u0027Neil for the inspiration and understanding of computers that I\u0027ve enjoyed for over 30 years now.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE SWTPC 6800\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The MP-B Mother Board is a 9 x 14 inches board onto which all of the various processor boards are plugged. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt;  The System picture is that of a pre-production unit, the power supply board was moved back a few inches on production units. The board location in this picture would interfere with the power and reset switches. The power supply board shown also has an unused Molex connector. This picture was used in ads, brochures and in a Byte magazine article date december 1975. \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;www.swtpc.com\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Swtpc_6800_Inside_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CPU BOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The SWTPC MP-A board was the primary logic board for the system. It contains the 6800 microprocessor chip, the 6830 ROM which stores the Mini-Operating system (MIKBUG) and the 6810 128 byte scratch pad memory for the ROM. There is a crystal controlled processor clock driver and baud rate generator providing serial interface baud rates of 110, 150, 300, 600 and 1200 baud. The board also contains a power up/manual reset circuit which loads the ROM stored operating system when activated.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; 1975 price: $200 in kit form. \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;www.swtpc.com\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Swtpc_6800_CPUboard_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MEMORY BOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The MP-M Memory Board had a total storage capability of 4,096 words of 8 bit random access memory. The kit, however, is supplied with only half (2,048 words) of its memory capacity. To upgrade the board to maximum capacity, user had to purchase the MP-MX memory expansion kit.\u0026lt;br\u0026gt; The system could have 4 boards for a total of 16K bytes. This drew 6 amps of 5 volts! \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; 1975 price: $80 in kit form and $45 for the MP-MX kit.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;www.swtpc.com\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Swtpc_6800_4KRamBoard_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CONTROL BOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The MP-C Control interface is meant to interface a serial terminal to the Computer System for both system control and when selected, user program input/output. It may be jumper configured to operate serially at either 110 baud (10 characters / second) or 300 baud (30 characters/second) with an upper case ASCII terminal RS-232C or 20 Ma TTY compatible. All terminal input/output data is made thru a ten-pin connector installed along the top edge of the board.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; 1975 price: $40 in kit form. \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;www.swtpc.com\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Swtpc_6800_ControlBoard_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SERIAL BOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This Serial I/O board is pretty much a standard  Single Connector Serial I/O board for interfacing to Serial terminals, Modems, Teletypes etc. It is a standard I/O board for use most of the ROM monitors like SWTBUG, SBUG, Humbug and many other monitor roms.  It is not supported by the old MIKBUG rom monitor.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Swtpc_6800_SerialCard_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;COMPLETE SYSTEM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The \u0026lt;b\u0026gt;MF-68\u0026lt;/b\u0026gt; F.D. unit used two Shugart 5\u0027\u00271/4 floppy drives. It was sold in kit form with FDOS operating system and Disk Basic ($995)\u0026lt;br\u0026gt; An optional \u0026lt;b\u0026gt;MF-6X\u0026lt;/b\u0026gt; kit expanded the system to four drives. ($850)\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The \u0026lt;b\u0026gt;CT-64\u0026lt;/b\u0026gt; terminal / Monitor kit offered 64-character lines, upper / lower case letters, word highlighting, full cursor control and a 110 - 1200 Baud serial interface ($500)\u0026lt;br\u0026gt; The terminal and the monitor could be sold separately. (\u0026lt;b\u0026gt;CT-64\u0026lt;/b\u0026gt; Terminal: $325, \u0026lt;b\u0026gt;CT-VM\u0026lt;/b\u0026gt; monitor: $175)   \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/swtpc_6800_CompleteSystem_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1977 ADVERT #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Swtpc_6800_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1977 ADVERT #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt;... The 6800 will never win any beauty prizes. It is like the Model \u0027T\u0027 and the DC-3, not pretty but beautiful in function. It is simple, easy to use and maintain and does its job in the most reliable and economical way possible. What more could you want?\u0026lt;/font\u0026gt; \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Swtpc_6800_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (JAN. 1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/swtpc_6800_ad_mpu_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [
+    {
+      "platform": "Windows emulator",
+      "name": "SWTPC 6800/6809 emulators",
+      "link": "http://www.evenson-consulting.com/swtpc/default.htm"
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d562",
+    "computer.asp?st\u003d1\u0026amp;c\u003d55",
+    "http://www.ipblythe.com/fug1.htm",
+    "http://www.swtpc.com"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/Swtpc_6800_system_1.jpg",
+  "builtInGames": "",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "S-50 and S-30 bus cards",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

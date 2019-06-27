@@ -1,0 +1,147 @@
+{
+  "name": "AN/FSQ-7",
+  "manufacturer": "IBM",
+  "type": "Professional Computer",
+  "origin": "U.S.A.",
+  "year": "1958",
+  "production": "1963",
+  "language": "None",
+  "keyboard": "IBM consoles",
+  "cpu": "55,000 vacuum tubes in each unit",
+  "speed": "75 KIPS (KiloInstructions Per Second)",
+  "coprocessor": "None",
+  "ram": "Core 8892-word",
+  "vram": "",
+  "rom": "Unknown",
+  "text": "None",
+  "graphics": "256 x 256",
+  "colors": "Monochrome",
+  "sound": "Speaker (see the \u0027\u0027Read more\u0027\u0027 page)",
+  "size": "2000 square meters / 275 tons",
+  "ports": "Tape, punched cards, modem",
+  "power": "3 MW",
+  "price": "$238 million, printer around $200,000 to $250,000",
+  "description": "\nThe AN/FSQ-7 was by far the largest computer ever built, and is \nexpected to hold that record. It consisted of two complete Whirlwind II computers installed in a 4-story building (See the impressive diagram in the \u0027More Pictures\u0027 section).\n\nEach AN/FSQ supported more than 100 users. IBM had about 60 employees \nat each site for round-the-clock maintenance.\nKeeping one unit operating and one on hot standby (to allow for \nswitchover when vacuum tubes failed) resulted in better than 99% \nuptime. The roles of the two units were reversed at regular \nintervals, allowing diagnostics and maintenance to be carried \nout on the standby unit.\n\nThere were usually several hundred tube failures each day, \nreplaced by workers racing up and down the tube racks with \nshopping carts full of replacements. Automated tests run by the \ncomputer itself would cycle the voltage to the tube racks down \nand back up to induce marginal tubes to fail early, so that the \ncomputer would normally run correctly for the rest of the day. \nWithout this process, the MTBF would have been a few minutes. \n\nBy the time SAGE was deployed (22 or 23 stations in the period \n1959-1963; sources disagree) it was nearly obsolete, since it \nwas designed to detect bombers, not the new ICBMs. Nevertheless \nit was operational until 1979, when the ROCC (Regional \nOperations Control Centers) system took over, using much \nhigher-speed computers. One SAGE station continued operating \nuntil 1983. This last unit was donated to the Boston Computing \nMuseum, since relocated to Moffett Field in Mountain View, \nCalifornia. The museum also has a tube panel from the Whirlwind \nI. Whirlwind II consoles turned up in the TV series Battlestar \nGalactica.\n\nIn spite of its limited military value, the SAGE system served as \nan excellent prototype for an air-traffic control system. The \nFAA operated its own AN/FSQ-7 systems for many years after SAGE \nwas shut down. IBM\u0027s experience with these systems had a great \ndeal to do with its later success in computer systems, and its \ndominance of the market for large computers. The IBM 7090 was \nessentially a solid-state version of the AN/FSQ-7/8. (The 7090 \nhas its own rich history, including hosting the first-ever \nmultiuser APL system.)\n\n? First CRT-based real-time user interface,\n? First use of light gun to pick an item on the screen,\n? First wide-area modem communications (1300 bps),\n? First hot standby system for maximum uptime,\n? First ground control of interceptor aircraft,\n? The first in line microfilm fast processed 35 mm projection displays, preceding printer/plotters. A screen capture could be displayed within 30 seconds,\n? First two-pass assembler, permitting symbolic addresses.\n\nThanks to Edward Cherlin, Simputer Evangelist, for all this information.\nThe photo (from Mitre) shows the rear panel wiring of FSQ-7 arithmetic element frame.\n\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SYSTEM DIAGRAM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;An AN/FSQ-7 installed in a 4-story SAGE Direction Center building.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Photo from \u0026lt;b\u0026gt;\u0026lt;a href\u003d\u0026quot;http://www.mitre.org/about/photo_archives/sage_photo.html\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Mitre\u0026lt;/a\u0026gt;\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/IBM_ANFSQ7_Diagram_s1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;HEATH 19 TERMINAL (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;$595 was the price in kit form, F.O.B. Benton Harbor...\u0026lt;br\u0026gt; The assembled version, called Zenith Z-19, costed $895. An expensive price, not compatible with a   home computer budget. \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Heathkit_H19_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;M-SERIES BROCHURE - COVER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Juraj Mucko for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/panasonic_jd_flyer_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPANESE ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to the \u0026lt;a href\u003d\u0026quot;http://web.kyoto-inet.or.jp/people/s-oga/\u0026quot;\u0026gt;PC Leaflets Museum\u0026lt;/a\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/mitsubishi_multi8_advert_1_s.gif"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT, OCT. 1983\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Here are the 20 questions :-)\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; If you\u0027re looking for your first home computer, may we make a suggestion.\u0026lt;br\u0026gt; Tear out this page.\u0026lt;br\u0026gt; And ask these questions of every computer you look at.\u0026lt;br\u0026gt; 1) Is the basic price reason\u0026shy;able, say under \u0026pound;180?\u0026lt;br\u0026gt; 2) Does it work with a monitor as well as with an ordinary UHF TV?\u0026lt;br\u0026gt; 3) Does it include a basic training manual that doesn\u0027t require a science degree to understand?\u0026lt;br\u0026gt; 4) Does it have colour?\u0026lt;br\u0026gt; 5) And sound?\u0026lt;br\u0026gt; 6) Does it take cassettes?\u0026lt;br\u0026gt; 7) And cartridges?\u0026lt;br\u0026gt; 8) And can you operate them with joysticks working directly off the basic unit?\u0026lt;br\u0026gt; 9) Does it have a profes\u0026shy;sional quality keyboard that\u0027s guaranteed for twenty million de\u0026shy;pressions (and no headaches)?\u0026lt;br\u0026gt; 10) Does it have colour graphics that are capable of producing detailed pictures?\u0026lt;br\u0026gt; 11) Is the case robust enough to stand up to the kids?\u0026lt;br\u0026gt; \u0026shy;12) Does it use a standard language that\u0027s not a million, miles away from English?\u0026lt;br\u0026gt; 13) Is there an expanding range of high quality sofrware available from the makers?\u0026lt;br\u0026gt; 14) Does the software in\u0026shy;clude educational programs for adults as well as the very young?\u0026lt;br\u0026gt; 15) And is there sofrware sophisticated enough to satisfy the experts?\u0026lt;br\u0026gt; 16) Does it use the most up to date technology, for instance the 6809E microprocessor?\u0026lt;br\u0026gt; 17) Will it drive a standard printer directly from the basic unit?\u0026lt;br\u0026gt; 18) Is it made in the UK?\u0026lt;br\u0026gt; 19) And for the basic price will I get an easily accessible, yet large memory of at least 32K?\u0026lt;br\u0026gt; 20) Or willI have to add lots of extras (and lots of money for that much?\u0026lt;br\u0026gt; After you\u0027ve finished pester\u0026shy;ing every computer salesman in sight, compare your answers to these, Courtesy of the Dragon 32 (this is,after all, an ad for the Dragon)\u0026lt;br\u0026gt; Questions 1-19. Yes,yes,yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes and yes.\u0026lt;br\u0026gt; Question 20. No.\u0026lt;br\u0026gt; If you\u0027re thinking that that\u0027s a lot of computer for the money. you\u0027d be right.\u0026lt;br\u0026gt; However, when you come to read the handbook you\u0027ll soon realise that somethings missing. The jargon usually asso\u0026shy;ciated with computers.\u0026lt;br\u0026gt; You see every part of the Dragon has been carefully designed to be easily under\u0026shy;stood,even by total beginners. Yet it has all the features an expert could want Just ask it. \u0026lt;/font\u0026gt; \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Dragon_32_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH FLYER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;... featuring the Intellivoice\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/mattel_intellivision_poster-verso.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1978)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Orion Young for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Tandy_Model1_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The memo from the company president:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; Your purchase request for six personal computers just reached my desk.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; What gives?\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; I thought you understood our grouth plans, Jack, but the computers you have recommanded are dead ends. They might do the job today, but what about tomorrow? They don\u0027t connect together to form any kind of functional system. The 8 bits aren\u0027t compatible with the 16 bits models. And I doubt the software that run on the computers you want will be of any use later when we\u0027re forced to buy computers that work together.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; You saved us a little now, Jack, but your decision will cost us a bundle as we grow into the future. We are growing, Jack, and I\u0027m sure that you want to be part of the growth.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; See me before you go home tonight.\u0026lt;br\u0026gt; Tom\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;/font\u0026gt; Cheer up Jack!\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Now the advert:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; If you don\u0027t want your boss to limit you growth, don\u0027t limit the growth of the company. Consider small business computers that can keep up with your business by giving you options for expansion in the future.\u0026lt;br\u0026gt; With Televideo Systems Inc. you get what no other small business computer can offer...\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Perhaps jack was right...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Televideo_TS802_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US AD. MAY 1983\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; Before you start hunting from store to store for the ideal microcomputer, consider this: You won\u0027t find it.\u0026lt;br\u0026gt; That\u0027s because the world\u0027s most versatile micro is available only from the manufacturer. It\u0027s Lobo MAX-80 And, dollar for dollar, feature for feature, there isn\u0027t another system that even comes close....\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Lobo_Max80_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (1984)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;I clicked\u0026quot;... \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/coleco_colecovision_advert_click.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (JULY 1985)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;The new Laser 3000\u0026quot; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026quot;At last, un complete PRO system with disk drive for 4980 F\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/vtech_laser3000_pub_nouveau-laser-3000.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT FROM NEW ZEALAND\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;In November 1976, the assembled basic version cost A$931, the unassembled version cost A$599.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Murray Moffatt\u0026lt;/b\u0026gt; from New Zealand\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Imsai_8080_Advert_s4.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPANESE ADVERT #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://pcenginefx.com\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;PC-EngineFX.com\u0026lt;/a\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/nec_pc-fx_jap-advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;NEW ZELAND AD (1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Murray Moffatt\u0026lt;/b\u0026gt; from New Zeland\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/APF_Imagination_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (DEC. 1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/oric_oric-1_ad_recevez-tout-de-suite.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LAST SALES\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;In July 1985, California Digital sold the Tano at $99. The price would decrease down to $35 while stock last.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Dragon_64_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FIRST AD (SEPT. 87)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;It is unlikely that this hideous advert helped early sales of the Archimedes.\u0026lt;br\u0026gt; It said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; Acorn are proud to announce the fastest micros in the world * The Archimedes high performance Computer Systems * Using a 32 bit RISC chip, Archimedes represents a breakthrough in microprocessing technology allowing a new order of magnitude in power...\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Acorn_Archimedes_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;NEW ZEALAND AD #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This was probably the very first advert of the SC3000 as the pictured machine still was a Japanese version.\u0026lt;br\u0026gt; Notice that the price is in Australian$, probably without the Basic cartridge which is not mentioned in the advert.  \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The SC-3000 was very popular in New Zealand in the early to mid 80\u0027s. \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Murray Moffatt\u0026lt;/b\u0026gt; from New Zealand \u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sega_SC3000_Advert_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JACQUARD BROCHURE #3\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Strange logo isn\u0027t it?\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Jacquard_J500_Brochure_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ACE 1000 ADVERT(1982) #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Franklin_ACE1000_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;APPLE BUSINESS GRAPHICS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The Apple graphics package was launched in September 1982. It was available for both the Apple II and Apple III.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;  Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt;As you know, one picture is worth a few thousand numbers.\u0026lt;br\u0026gt; As you may not know, Apple Business Graphics software can generate more types of pictures, in more colours, using more data than any other graphics package... On the monitor of your choice. And on virtually any printer or plotter on the market...\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Apple_II_BusinessGraph_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;AUSTRALIAN TANDY CATALOG (1992)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/tandy_wp2_ad_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (1978)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sinclair_mk14_advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN PROMOTIONAL PICTURE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.pong-story.com\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;www.pong-story.com\u0026lt;/a\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/magnavox_odyssey_promo-pic_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DIABOLIK, FRENCH ADVERT. #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;It will take your time, your body and your soul\u0026quot;...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/yamaha_yis503_diabolik_pub.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [
+    "http://www.mitre.org/about/photo_archives/sage_photo.html",
+    "http://www.radomes.org/museum/equip/fsq-7.html",
+    "http://ed-thelen.org/comp-hist/TheCompMusRep/TCMR-V02.html#Reminiscences",
+    "http://www.smecc.org/sage_a_n_fsq-7.htm"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/IBM_ANFSQ7_Part_s1.jpg",
+  "builtInGames": "None",
+  "controllers": "",
+  "media": "Tape",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

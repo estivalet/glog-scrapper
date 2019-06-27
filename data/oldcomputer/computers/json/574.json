@@ -1,0 +1,49 @@
+{
+  "name": "DPS-1",
+  "manufacturer": "Intersystems",
+  "type": "Professional Computer",
+  "origin": "U.S.A.",
+  "year": "1979",
+  "production": "",
+  "language": "None",
+  "keyboard": "Depending on the video terminal used",
+  "cpu": "Z80, Z8000, 8080, 8086",
+  "speed": "4 Mhz",
+  "coprocessor": "None",
+  "ram": "8 KB up to 256 KB",
+  "vram": "",
+  "rom": "2 KB (Monitor)",
+  "text": "Usually  80x25 terminal",
+  "graphics": "",
+  "colors": "",
+  "sound": "None",
+  "size": "Unknown",
+  "ports": "2 x Serial RS232, 1 x Parallel",
+  "power": "Built-in Power Supply Unit",
+  "price": "About $7200 for a typical system (64 K, 2x600 KB disks, Printer, video terminal)",
+  "description": "\nInterSystems was the computers brand name of the Ithaca company which previously manufactured various cards for other mainframe makers.\n\nThe DPS-1 is based on the S-100 bus. It seems to be a copy of the Altair 8800 and Cromemco Z-1 systems. The case had a 20-card capacity and can support 8 and 16 bit processors. \n\nWith a 16-bit Zilog Z8000 processor, the system could take up to 256 KB of RAM and run the Unix operating system, as well as the more usual CP/M.\nIt was the last computer proposing a front panel with switches and data/addresses LED.\n\n___________\n\nMark Mullin specifies:\n\nThere were actually two boxes as I recall, one holding the computer and the other holding great big nasty heavy quantum hard disks (20Mb each) - you could actually have more than one drive. The OS it ran was Coherent, a Unix 7 clone from Mark Williams in Chicago.\n\nIt was one of the first machines you could get and reliably and affordably run your own UNIX server -  one thing that I do recall was that they\u0027d built their own memory management unit on a S-100 card that attached to the cpu over an additional top bus -  the card used static high speed ram to hold the segmentation mapping data, and the chips themselves had a nasty habit of walking out of their sockets every month or so -  when the system started crashing a lot more than normal, you pulled out the mmu card and reseated all of the chips.\n\nSteven Sorensen adds:\n\nThey made 2 styles of cases...one with a front panel, and one without. Later they came out with a cache-bios for their version of CPM, it became a real hot rod. Motherboards were by Godbout I believe. Early CPU boards were a little flakey at 4 MHz, but later cpu boards were great! I replaced the crystal section on the CPU board with a 6 MHz oscillator and Z80b CPU.\n \n\n\n",
+  "shot": [],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1979)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt;... One of the results is our new identity and our new product: the Intersystems DPS-1. An IEEE S-100 compatible mainframe with features that live up to its look. \u0026lt;i\u0026gt;Dependable\u0026lt;/i\u0026gt; operation to 4 Mhz. Twenty-card capacity, a modular power supply. And something no one else has: built-in break points to give you a faster, more powerful tool for testing software as well as hardware...\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/InterSystems_Dps1_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BRIDGE COMPUTER VERSION\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;In 1982, the \u0026lt;b\u0026gt;Bridge Computer Company\u0026lt;/b\u0026gt; (Newton, MASS) sold a Z80 software developper system with the InterSystems mainframe, CP/M 2.2 operating system and various optional  programming languages.The configuration was:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; - 6 Mhz. Z80-B CPU with memory management\u0026lt;br\u0026gt; - 256 KB RAM expandable to 1 MB\u0026lt;br\u0026gt; - Two 8\u0026quot; or 5.25\u0026quot; F.D. drives, single or double sided\u0026lt;br\u0026gt; - Optional 5\u0026quot; or 8\u0026quot; hard disk, up to 40 MB\u0026lt;br\u0026gt; - Televideo serial video terminal. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Advert said:\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; Does this sound too good to be true? Just fill your tank with the BRIDGE 3C formula for SPEED and shift into \u0027overdrive\u0027 with your bridge 3C Compiler System. Leave the other behind, let us provide you with the fuel for higher productivity...\u0026lt;/font\u0026gt;  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/InterSystems_Dps1_Bridge_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [],
+  "image": "http://www.old-computers.com/museum/photos/InterSystems_Dps1_System_1.jpg",
+  "builtInGames": "None",
+  "controllers": "",
+  "media": "Various FDD and HDD configurations",
+  "numGames": "",
+  "peripherals": "All of the S-100 cards and associated peripherals",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

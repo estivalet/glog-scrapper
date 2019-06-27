@@ -1,0 +1,77 @@
+{
+  "name": "WS 1",
+  "manufacturer": "Ampere",
+  "type": "Portable",
+  "origin": "Japan",
+  "year": "1985",
+  "production": "",
+  "language": "APL",
+  "keyboard": "Full-stroke QWERTY keyboard, 68 keys with special APL keys8 function keys at the bottom of the LCD screen",
+  "cpu": "Motorola MC 68000",
+  "speed": "8 mHz",
+  "coprocessor": "",
+  "ram": "64 kb of CMOS saved RAM (up to 512 KB)",
+  "vram": "",
+  "rom": "128 kb (APL 68000, Big-DOS, system tools)",
+  "text": "80 x 25",
+  "graphics": "480 x 200",
+  "colors": "Monochrome LCD display",
+  "sound": "",
+  "size": "330 ? 280 ? 92 mm / 3,6 Kg",
+  "ports": "Centronics, 2 x RS232c, Ethenet / VME bus, external disk, cartridge slots",
+  "power": "Ni-Cd battery cells",
+  "price": "5908  (France, april 1985)3383  (France, may 1985)450000 yens (Japan, 1985)",
+  "description": "\nThis was a very unique system with an extraordinary design. It was conceived by Ampere and produced by Nippon-Shingo in 1985. Sadly, it failed the US FCC certification tests and so was not available on the US market, which helps explain why it is so rare nowadays (along with its high price and narrow-targeted market)... \n\nOne of the main characteristics of the Ampere WS-1 was the use of the APL programming language : an interpreted language extremely synthetic and very rich. APL doesn\u0027t use English but rather a mathematical syntax which makes the programs legibility quite difficult... The language offers a large number of system functions especially for vector and array.  Thus matrix inversions, multi-linear regressions, and sorting functions are language primitives. Moreover, the APL-68000 (the APL version of the WS-1) had very powerful string manipulation functions such as finding and replacing a word by another word. Overall the language was very compact and one line of APL would take for example up to ten lines of Basic depending what you have to code. This is why it was possible to include LPA (Langage P?dagogique Audiovisuel) programs (developed in APL by the Saclay\u0027s C.E.A.) into the system. They act as a natural interface between the user and the application. For example it is possible to type \u0026quot;Who am I meeting on the 7th of march ?\u0026quot; or \u0026quot;What is the telephone number of the IBM chairman ?\u0026quot;, and to get an answer ! LPA interfaces exist on other systems and were developed for different languages, but only APL made it possible to include LPA into a \u0026quot;micro-computer\u0026quot; like the Ampere WS-1. \n\nThe WS-1 was a real portable computer with its 80x25 LCD screen, a power-supply through built-in cells and a micro-tape recorder (300k) to store data or to record sound. The keyboard was compact and had thus no separate numeric keypad. Several keys had special signs used for APL programming. Eight function keys were placed directly at the bottom of the LCD screen. It was an excellent idea as explanations of the function of each key could be displayed directly above them according to the context of the running application. \n\nThe WS-1 offered many connection possibilities. It had one Centronics and two RS-232c ports, as well as an expansion port for optional disk-drives (700k each) or a hard-disk. It also had a VME-compatible connector which is an instruments measurement standard. \nThe system was powered by Ni-Cd cell batteries. Thus if the main power were accidently cut, all the memory would be saved and  found intact when the main power returns. You may find that feature \u0026quot;normal\u0026quot; nowadays, but it was quite a rare feature back in 1985 !\n \nThe WS-1 had 64k RAM, upgradable to 512k through CMOS cartridges, and 128k ROM in which are stored the operating system and the APL interpreter. The system offered a multitasking environment, or rather bi-tasking : two APL programs could run simultaneously, and in this case two windows could be opened on the screen showing the results of each program. The Ampere WS-1 ran under Big-DOS, the Operating System dedicated to the WS 1. \n\nSeveral programs were supplied with the computer: tools for the system configuration, communication and character redefinition. Optional software included Big Screen (word processor, spreadsheet, editor and painting applications for 2700 FF), APL-Calcand and very expensive specialised applications with LPA interfaces (agenda, travel agency management, Avocatix/lawyer management, etc.)\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;AMPERE WS1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.bolo.ch\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;www.bolo.ch\u0026lt;/a\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/ampere_ws1_bolo_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;One Centronics port and two RS232c...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/ampere_ws1_rear_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;THE AMPERE WS-1 CLOSED\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The Ampere WS-1 Closed... what a design !!\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/ampere_ws1_closed.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DIFFERENT DESIGN\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is quite strange. The design of this model is quite different from the \u0026quot;grey\u0026quot; model. This one is colourful, with an apparently larger LCD display and different function keys... Is it a prototype of the WS-1 ?  \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Anyone have the answer ?  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/ampere_ws1_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;2ND MODEL CLOSED\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Again we can see that the design of this \u0026quot;second\u0026quot; model is different.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/ampere_ws1_closed_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SIDE VIEW\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;It\u0027s... amazing...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/ampere_ws1_profile_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT, JUL 1985\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Byte Magazine\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Ampere_WS1_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT, NOV. 1985\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Ampere_WS1_Advert_s2.jpg"
+    }
+  ],
+  "hardwareDescription": "A few peripherals were available for the Ampere WS-1 :\n- 192k RAM expansion (14900 FF, France, 1985)\n- Cartridge expansion (6280 FF, France, 1985)\n- Single disk-drive (7800 FF, France, 1985)\n- Double disk-drive (10650 FF, France, 1985)\n- Winchester hard-disk\n",
+  "hardware": [],
+  "emulator": [],
+  "link": [
+    "news:comp.lang.apl"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/ampere_ws1_1.jpg",
+  "builtInGames": "APL",
+  "controllers": "",
+  "media": "Built-in micro-tape recorder (300k)",
+  "numGames": "",
+  "peripherals": "3.5\u0027\u0027 disk-drives (700k), hard-disk, printers, cartridge expansion",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

@@ -1,0 +1,173 @@
+{
+  "name": "1000 Series",
+  "manufacturer": "Alpha Micro",
+  "type": "Professional Computer",
+  "origin": "U.S.A.",
+  "year": "1982",
+  "production": "",
+  "language": "None",
+  "keyboard": "Serial video terminal",
+  "cpu": "68000",
+  "speed": "Unknown",
+  "coprocessor": "",
+  "ram": "From 128 KB to 8 MB",
+  "vram": "",
+  "rom": "Unknown",
+  "text": "80 chars. x 25 lines",
+  "graphics": "None",
+  "colors": "",
+  "sound": "",
+  "size": "",
+  "ports": "From 3 (built-in) to 68 serial I/O",
+  "power": "Built-in Power supply unit",
+  "price": "From $10,000",
+  "description": "\nThe Alpha Micro 1000 was a line of systems based on the 68000 microprocessor. According to customer requests, each system could be configured from a single user microcomputer with 128 KB of RAM, up to a 60-users system with 3 MB of RAM and 2.4 GB of disk storage.\n\nThe operating system of the 1000 series was AMOS, a multi-user, multi-tasking and timesharing system allowing the user to easily add terminals and printers to the current configuration. Several programming languages were available to build AMOS compatible applications: BASIC, PASCAL, LISP, ASSEMBLER, FORTRAN and COBOL.\n\nAlpha Micro offered innovative hardware solutions and high technology firsts provided by a third company called Macrotech:\n- a 1 MB RAM Board \n- an intelligent I/O board using DMA \n- the only 6MB piggyback board available\n- etc...\n\nThe system used a standard VHS Video Tape Recorder for back-ups, and most software updates from Alpha Micro and other software houses were supplied in this form.\nIn the UK this caused a few problems as you had to obtain NTSC-compatible players.\n\nThe Alpha Micro company still exists. You can find the latest info on the Amos and Alpha micro systems here.\n\nThanks to Joe for additional pictures and information  \n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR SIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Notice:\u0026lt;br\u0026gt; \u0026bull; The three built in serial ports (upper left corner)\u0026lt;br\u0026gt; \u0026bull; The eight additional serial ports for video terminals\u0026lt;br\u0026gt; \u0026bull; The Video In, Video Out and Video I/O plugs. The AM-1000 was designed to use a VCR tape recorder/player as a backup device and could install the OS from a VCR tape.  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/AlphaMicro_1000_Back_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;OPENED\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The main circuit card is a large custom card that is almost as big as the case. The card hinges up to reveal the power supply and hard drive (here a 190 MB Maxtor) and floppy drive (if equipped). \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/AlphaMicro_1000_Opened_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MAIN BOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The main board has no bus system in it but does have a connector for an optional I/O card on the left-hand side. It also has a connector for a daughterboard on the right-hand side. Joe\u0027s system has an AM-706 memory card there \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt;. It also has an optional I/O card installed in the left-hand side, a PIICEON SR 1000-8P \u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt;. This adds 8 additional serial ports to the system. \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/AlphaMicro_1000_MainBoard_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;I/O CARD CLOSE-UP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/AlphaMicro_1000_IOcard_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;RAM CARD CLOSE-UP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The RAM card is fitted with 36 TMS 4256-12 memory ICs (4 Mb with parity). \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/AlphaMicro_1000_RamArea_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SERIAL CONNECTORS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Serial connectors of the optional I/O card and built-in system I/O connector.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/AlphaMicro_1000_SerialCon_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SYSTEM CHANGE HISTORY\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This label lists all the installed components - part numbers and serial numbers - when the computer left the factory. Later additions/replacements could be noted down.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/AlphaMicro_1000_SystemChanges_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.K. AD. 1984\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; ... With the knowledge that Mitsubishi is the largest manufacturer of Mainframe computers in Japan, those in the know will immediately recognise the true potential of the Mitsubishi F-series...\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Mitsubishi_MLF80_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH (STUPID) PROMOTIONAL PICTURE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Family life scene in front of a complete Atmos system carefully lined up on the coffee table in the living room, with a minimum of visible cables. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The flaw?... No, it is not that it is rather difficult to use such a serious configuration for hours sitting on the floor. The flaw comes rather from the photographer who forgot to do the housework before taking the picture and left to posterity his accessories cartons right behind the low dresser.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Oric_Atmos_Advert_4.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Peerless_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;RUSSIAN ADVERT - PAGE 2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Taras Ponomarev for this advert\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/agat_ad-elorg_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US AD. MAY 1983\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; Before you start hunting from store to store for the ideal microcomputer, consider this: You won\u0027t find it.\u0026lt;br\u0026gt; That\u0027s because the world\u0027s most versatile micro is available only from the manufacturer. It\u0027s Lobo MAX-80 And, dollar for dollar, feature for feature, there isn\u0027t another system that even comes close....\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Lobo_Max80_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.K. AD. (DEC. 1985)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Special Christmas offer with 12 games.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Monochrome version: \u0026lt;b\u0026gt;\u0026pound;199\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; Colour version: \u0026lt;b\u0026gt;\u0026pound;299\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Amstrad_cpc464_UKadvert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (JAN. 1985)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/multitech_mpf1-65_advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT (1984)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Tony Mattson for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/oric-atmos_advert-uk_1s.png"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TANDY BROCHURE COVER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Cover of a Tandy catalogue.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Tandy_Model1_Advert_6.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1977) #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This advert (May 1977) introduced the \u0026lt;b\u0026gt;System 16\u0026lt;/b\u0026gt;, same as assembled System 7 with 16 Kb of RAM. ($1995)\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Polymorphic_Poly88_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Picture courtesy of \u0026lt;a href\u003d\u0026sect;http://www.sbrowning.com/vintage\u0026sect;\u0026gt;Steve Browning, www.sbrowning.com/vintage\u0026lt;/a\u0026gt;.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sinclair_zx80_advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BAKED APPLE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;From Personal Computing, October 1981\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0027\u0026lt;a href\u003d\u0026quot;http://www.aci.com.pl/mwichary/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Attached\u0026lt;/a\u0026gt;\u0027\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Apple_II_Advert_Fire_s6.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;QL CATALOGUE #6\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sinclair_QL_Brochure1_s6.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;NEW ZEALAND ADVERT  #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert says:\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; Imagine a microcomputer with all the design savvy, ruggedness, and sophistication of the best minicomputers.\u0026lt;br\u0026gt; Imagine a microcomputer supported by dozens of interface, memory and processor option boards. One that can be Interfaced to an indefinite number of peripheral devices including dual floppy discs, CRTs, line printers, cassette recorders, video displays, paper tape readers, teleprinters. plotters, and custom devices.\u0026lt;br\u0026gt; Imagine a microcomputer supported by extensive software IncludIng Extended BASIC, DISK BASIC, DOS and a complete library of business, developmental, and Industrial programs.\u0026lt;br\u0026gt; ImagIne a microcomputer that will do everything a mini will do, only at a fraction of the cost.\u0026lt;br\u0026gt; You are imagining the Altair 8800b. The Altair 8800b is here today, and it may very welt be the mainframe of the 70\u0027s. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The Altair 8800b is a second generation design of the most popular microcomputer In the field, the Altair 8800. Built around the 8800A microprocessor, the Altair 8800b is an open ended machine that is compatible with all Altair 8800 hardware and software. It can be configured to match most any system need.\u0026lt;br\u0026gt; MITS\u0027 plug-In compatible boards for the Altair 8800b now include: 4K static memory. 4K dynamic memory, 16K static memory, multi-port serial interface, multi-port parallel interface, audio cassette record interface, vectored interrupt, real time clock, PROM board, multiplexer, AID convertor, extender card, disc controller and line printer interface.\u0026lt;br\u0026gt; MITS\u0027 peripherals for the Altair 8800b include the Altair Floppy Disc, Altair Line Printer, teletypewriters, and the soon-to-be-announced Altair CRT terminal. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Introductory prices for the Altair 8800b are $840 for a kit with complete assembly instructions, and $1100 for an assembled unit. Complete documentation, membership into the Altair Users Club, subscription to \u0026quot;Computer Notes\u0026quot;, access to the Altair Software Library, and a copy of Charles J. Sippi\u0027s Microcomputer Dictionary are included.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Murray Moffatt\u0026lt;/b\u0026gt; from New Zealand \u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Mits_Altair8800b_Advert_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;A pretty secretary, a clean office with nice colours, and a computer working without any printer, cables, disks... Does it really sound realistic to you ?!\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Goupil_G4_Ad_Secretary_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (DEC.1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Simplify your everyday life\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/ibm_pc5150_ad_simplifiez-quotidien.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (JAN. 1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/datasoft_vdp80_ad_1980.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.K. AD. (1986)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;In U.K., at 1986 Christmas period, the 1040 STF was sold \u0026pound;799 + VAT for the 12\u0026quot; monochrome version, and \u0026pound;999 + VAT for the 14\u0026quot; colour version.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Atari_1040ST_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://wotsit.thingy.com/haj/\u0026quot;\u0026gt;Howard Jones for this picture.\u0026lt;/a\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/tatung_einstein_ad_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (1979)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/synertek_sym1_advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ITALIAN AD #3\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;http://angelmemories.cjb.net/\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sinclair_SpectrumP_AdItaly_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ENGLISH POSTER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Poster in a 1982 english computer show.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Osborne_1_Poster_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TTX 80 FRENCH ADVERT (JAN. 1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;computing against wasted time\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/bull_ttx80_advert_time.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. AD (1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Franklin_ACE1200_Advert_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [
+    {
+      "platform": "Multiplatform emulator",
+      "name": "VAM - Virtual Alpha Micro",
+      "link": "http://www.otterway.com/am100/",
+      "description": "Open source emulator for the AM-100 micro computer that runs on Linux, Windows, or Macintosh desktops and can run AMOS and all associated programs."
+    }
+  ],
+  "link": [],
+  "image": "http://www.old-computers.com/museum/photos/AlphaMicro_1000_System_1.jpg",
+  "builtInGames": "None",
+  "controllers": "",
+  "media": "1 or 2 x 800 KB 5\u0027\u0027 F.D. drives",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

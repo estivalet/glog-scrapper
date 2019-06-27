@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computer>
+    <adverts>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;NEW ZEALAND AD #1&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This was probably the very first advert of the SC3000 as the pictured machine still was a Japanese version.&amp;lt;br&amp;gt; Notice that the price is in Australian$, probably without the Basic cartridge which is not mentioned in the advert.  &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; The SC-3000 was very popular in New Zealand in the early to mid 80's. &amp;lt;p class=&amp;quot;petitgris&amp;quot;&amp;gt;Thanks to &amp;lt;b&amp;gt;Murray Moffatt&amp;lt;/b&amp;gt; from New Zealand &amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/Sega_SC3000_Advert_s2.jpg</link>
+        </advert>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;NEW ZEALAND AD #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Advert says:&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;#666666&amp;quot;&amp;gt; SEGA'S new hard keyboard and new hard disk drive, make Sega even harder to beat.&amp;lt;br&amp;gt; The very latest industry standard 3&amp;quot; diskettes store a massive 328K of information each desk, and operate at speeds far in excess of their older 5 1/4 inch counterparts. Sega's super control station will also enable you to connect to many other attachments such as business printers electronic typewriters even telephone moderns, through it's two additional I/0 ports, for RS232C and parallel interfaces. &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; Sega now boasts not only the most sophisticated and easy to learn basic language, the most incredible graphic capabilities, a sensational range of cartridge and cassette games, superb education and applications software written by and for New Zealanders, but also a very sophisticated, fast, small business system, with the state of the art Sega control station. Feel the difference, see the difference, compare the difference, and you too can enjoy the difference of Sega superiority.&amp;lt;/font&amp;gt; &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; Notice that between numerous superlatives, the advertising agency mistook floppy disk for hard disk drive.&amp;lt;p class=&amp;quot;petitgris&amp;quot;&amp;gt;Thanks to &amp;lt;b&amp;gt;Murray Moffatt&amp;lt;/b&amp;gt; from New Zealand&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/Sega_SC3000_Advert_s1.jpg</link>
+        </advert>
+    </adverts>
+    <batteries></batteries>
+    <builtInGames>Sega Basic</builtInGames>
+    <buttons></buttons>
+    <colors>16-color palette with 16 intensities each (64 colors from a 256-color palette)</colors>
+    <controllers></controllers>
+    <coprocessor>Texas Instruments TMS9929A (VDP)</coprocessor>
+    <cpu>NEC D780C-1 (Z80A clone)</cpu>
+    <description>
+The SC-3000 is a computer based on the hardware of the first videogame systems released by Sega in Japan : the SG-1000 series. It can use the same game cartridges marketed for these consoles.
+
+The SC3000 can't be used without a ROM cartridge, which can be either a game or language. There were three different BASIC cartridges. One came with only 1Kb of RAM (and you had only 512 bytes free !), the second with 16Kb and the last with 32Kb. In official adverts, they show a total RAM of 48Kb. This was counting the VRAM and the 32Kb BASIC cartridge...
+
+Several great games were adapted by Sega for this computer. Several graphic characteristics of the SC-3000 are fairly close to MSX ones. For example, it was one of the first computers to offer 32 sprites.
+
+Some months later, Sega released the SC-3000 H which was the same system but with a mechanical keyboard.
+
+This computer was also marketed by Yeno under the same name (Yeno SC 3000 &amp;amp; SC 3000H). It was exactly the same computer except for the Yeno brand...
+ 
+
+
+</description>
+    <emulators>
+        <emulator>
+            <description>BrSMS is Sega Master System / Game Gear / SG1000 / SC3000 / Colecovision emulator</description>
+            <link>http://www.lsi.usp.br/~ricardo/brsms.htm</link>
+            <name>BRSMS</name>
+            <platform>MS DOS emulator</platform>
+        </emulator>
+        <emulator>
+            <description>Emulates SC-3000, SG-1000, Sega Mark III, SMS, GG, Colecovision and Othello Multivision</description>
+            <link>http://www.smspower.org/meka/</link>
+            <name>MEKA</name>
+            <platform>MS DOS emulator</platform>
+        </emulator>
+        <emulator>
+            <description>DOS based SC-3000 dedicated emulator</description>
+            <link>http://www.vskl.de/segacomputer3000.htm</link>
+            <name>SC3K</name>
+            <platform>MS DOS emulator</platform>
+        </emulator>
+    </emulators>
+    <graphics>256 x 192, 256 x 220</graphics>
+    <gun></gun>
+    <hardwares/>
+    <image>http://www.old-computers.com/museum/photos/Sega_SC3000_System_s1.jpg</image>
+    <keyboard>QWERTY full-stroke keyboard (SC-3000h) or rubber keys (SC-3000)</keyboard>
+    <language>Sega Basic</language>
+    <links>
+        <link>http://www.sega.co.jp/archive/segahard/sc3000/</link>
+        <link>http://www.sc-3000.com</link>
+        <link>http://www.smsforce.com/sc3000/legal.xhtml</link>
+    </links>
+    <manufacturer>Sega</manufacturer>
+    <media>None</media>
+    <name>SC 3000 / SC 3000H</name>
+    <numGames></numGames>
+    <origin>Japan</origin>
+    <peripherals>Printer-plotter, floppy disk drive</peripherals>
+    <ports>TV RF output, Composite video out, Cartridge slot, Expansion slot, Tape interface, Joystick (2), External Audio, Serial</ports>
+    <power>External AC transformer</power>
+    <price>Unknown</price>
+    <production></production>
+    <ram>Depending on Basic cartridge used.</ram>
+    <rom>32 kb</rom>
+    <screenshots>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;SEGA SC-3000&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;In Japan, Sega SC-3000 and 3000H had white cases.&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/scb1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;SEGA SC-3000H&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/scb2.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;YENO SC-3000&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Sega_SC3000_System_s2.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;YENO SC-3000H&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Apart from the more convenient keyboard, the SC-3000H has same technical features as the SC-3000&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Sega_SC3000H_System_s1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;TOP VIEW&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Sega_SC3000_TopView_s1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;BOTH SIDES&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;On the left side, two joystick connectors,&amp;lt;br&amp;gt; on the right side, the ROM cartridge slot. &amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Sega_SC3000_Sides_s1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;SUPER CONTROL STATION&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The SF-7000 Super Control Station is an expansion box featuring a 3&amp;quot; floppy disk drive, serial and parallel interfaces. The computer is connected to the sf-7000 through an I/O cartridge.&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Sega_SC3000_WithFDunit_s1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;SC-3000 KEYBOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The spongy rubber keyboard was really hard to use. Each key could perform up to five functions. &amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Sega_SC3000_Keyboard_s1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;DISMANTLED&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Sega_SC3000_KeybParts_s1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;SC-3000H KEYBOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This keyboard was a great improvement on the previous one. A sheet of labels, delivered with the machine, allowed to stick symbols and BASIC commands allotted to each key. &amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Sega_SC3000H_Keyboard_s1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;DISMANTLED&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;If you turn the keyboard upside down, you will have to put back 63 rubber caps on their keys -)&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Sega_SC3000H_KeybParts_s1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;SYMBOLS SHEET&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Sheet of symbols that had to be sticked onto each SC-3000H keys.&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Sega_SC3000H_SymbolsSheet_s1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;REAR PANEL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;From left to right:&amp;lt;br&amp;gt; &amp;bull; Power switch&amp;lt;br&amp;gt; &amp;bull; External AC adapter jack (9V= + in the center of the jack)&amp;lt;br&amp;gt; &amp;bull; Cassette drive In/Out jacks&amp;lt;br&amp;gt; &amp;bull; Parallel printer DIN socket&amp;lt;br&amp;gt; &amp;bull; RGB video output DIN socket&amp;lt;br&amp;gt; &amp;bull; TV channel selector and TV aerial output jack (not installed in this French version)&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Sega_SC3000_RearConn_s1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;INSIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The Yeno motherboard was built cheaply. The single sided printed circuit was of poor quality, with a lot of straps (junction between two holes of the circuit using a wire) which avoided the use of a more expensive double side circuit, no flat cables but many free and unprotected leads. These are the same manufacturing methods used by Yeno for cheap and large-scale produced video games. However, that does not seem to have any influence on the computer&amp;rsquo;s reliability.&amp;lt;br&amp;gt; The RGB piggy-back card has been removed. &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(1)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; 16 KB video RAM chips (8x4118). The user RAM is contained in the BASIC cartridge&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(2)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Texas Instruments TMS9929 video chipset, was also used in the MSX machines. Manages video display in text and graphic modes. The success of the SC 3000 is mainly due with the performances of this circuit.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(3)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; 8255 programmable interface chipset. Manages several internal I/O: Tape In/Out, keyboard, parallel printer, joysticks&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(4)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Joystick connectors&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(5)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Keyboard connectors (Be very careful when you reconnect the fragile flat cable of the rubber keyboard version)&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(6)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Location of the TV modulator, not installed in this French version&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(7)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Heat sink of the power regulator located underneath the card&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(8)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; ROM cartridge connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(9)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Z80A microprocessor. Here a Nec D780C version&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(10)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Sega ROM chip holding system basic routines&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(11)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; 2 KB RAM chip used to store internal data &amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Sega_SC3000_Inside_s1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;RGB CARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Either a TV modulator or a RGB piggy-back card was installed, depending on the country the computer was sold.&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Sega_SC3000_RGBcard_s1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;THE SC-3000 SYSTEM&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;To play and program, three peripherals were essential : the joystick, the tape recorder (which could be replaced with any standard model) and the 4-colour plotter/printer fitted with a Sharp brand mechanism. &amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Sega_SC3000_System_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;BOX #1&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/sega_sc3000h_box_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;BOXES #2 &amp;amp; 3&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Sega_SC3000_Boxes_s1.jpg</link>
+        </shot>
+    </screenshots>
+    <size></size>
+    <sound>Texas Instruments SN-76596 PCM audio processor (6 channel sound)</sound>
+    <speed>3.58 MHz</speed>
+    <switches></switches>
+    <text>40 x 25</text>
+    <type>Home Computer</type>
+    <vram>16 kb</vram>
+    <year>1983</year>
+</computer>

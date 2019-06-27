@@ -1,0 +1,146 @@
+{
+  "name": "PC 6001 MK 2 SR",
+  "manufacturer": "NEC",
+  "type": "Home Computer",
+  "origin": "Japan",
+  "year": "? 1984",
+  "production": "",
+  "language": "Basic N66 \u0026amp; N66SR",
+  "keyboard": "Full-stroke keyboard, JIS standard layout, 64 keys, 5 function keys, 4 cursor keys, kana letter key",
+  "cpu": "PD 780C-1 (Z80 clone)",
+  "speed": "3.58 Mhz",
+  "coprocessor": "6847 et 6845 graphic chipsets, ?PD8049 (I/O management)",
+  "ram": "64 KB",
+  "vram": "",
+  "rom": "32 KB (N66SR Basic) + 32 KB (N66 Basic) + 16 KB (graphic characters) + 32 KB (Chinese characters ROM) + 32 KB (optional speech synthesis)",
+  "text": "32 x 16, 40 x 20, 40 x 25, 80 x 20, 80 x 25",
+  "graphics": "64 x 48, 128 x 192, 160 x 200, 256 x 192, 320 x 200 (15 colors), 640 x 200 (4 colors)",
+  "colors": "15 colors max.",
+  "sound": "Speaker built-in, sound generator (3 voices, 8 octaves)optional speech synthesizer (2 voices)",
+  "size": "368 x 87 x 285 mm / 3.3 Kg",
+  "ports": "Cartridge slot, joysticks, Centronics, printer connector, RGB video output, Sound output, RS-232c, Expansion bus, floppy disk interface",
+  "power": "AC100V?10% 50/60Hz, 25w",
+  "price": "89 800 yen (Japan, 1984)",
+  "description": "\nThis is another enhanced version of the original PC-6001 and later PC-6001 MK2.\n\nTwo Basics languages (N66 \u0026amp; N66SR) are built-in. The computer is still compatible with the N60-Basic and N60-Extended Basic modes from the original PC-6001. The Basic N66 offers a 320x200 graphic mode (in 4 colors) and the new N66SR-Basic offers new text and graphic resolutions, the maximum being 640x200 with 15 colors.\n\nThere is a ROM holding 1024 chinese characters. The PC-6001 MK2 SR offers optional speech synthesis features.\n\nThere were 2 floppy disk drive types that were incompatible with each other, known as B and BE.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SYSTEM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/nec_pc6001mk2sr_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BOX\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/nec_pc6001mk2sr_box.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT (JUNE 1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Goupils invade Paris area\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/smt_goupil2_ad_region-parisienne.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;M-SERIES BROCHURE - PAGE 1-2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Juraj Mucko for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/panasonic_jd_flyer_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sord_is11c_advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BRIDGE COMPUTER VERSION\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;In 1982, the \u0026lt;b\u0026gt;Bridge Computer Company\u0026lt;/b\u0026gt; (Newton, MASS) sold a Z80 software developper system with the InterSystems mainframe, CP/M 2.2 operating system and various optional  programming languages.The configuration was:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; - 6 Mhz. Z80-B CPU with memory management\u0026lt;br\u0026gt; - 256 KB RAM expandable to 1 MB\u0026lt;br\u0026gt; - Two 8\u0026quot; or 5.25\u0026quot; F.D. drives, single or double sided\u0026lt;br\u0026gt; - Optional 5\u0026quot; or 8\u0026quot; hard disk, up to 40 MB\u0026lt;br\u0026gt; - Televideo serial video terminal. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Advert said:\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; Does this sound too good to be true? Just fill your tank with the BRIDGE 3C formula for SPEED and shift into \u0027overdrive\u0027 with your bridge 3C Compiler System. Leave the other behind, let us provide you with the fuel for higher productivity...\u0026lt;/font\u0026gt;  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/InterSystems_Dps1_Bridge_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FIRST ADVERT - NOV.1981\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;\u0026lt;a href\u003d\u0026quot;http://www.aci.com.pl/mwichary/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Attached\u0026lt;/a\u0026gt;\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/IBM_5150_Advert81_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPANESE ADVERT.\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The YIS-503 is a YIS-303 with more memory (32 kb) and a proper keyboard.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/yamaha_yis503_japan_advert1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;RUSSIAN ADVERT - PAGE 2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Taras Ponomarev for this advert\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/agat_ad-elorg_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPANESE ADVERT (1985)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.pugly.juice.or.jp/pugly/oldpc/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Pugly\u0027s web site\u0026lt;/a\u0026gt; for this picture.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/nec_pc6601_advert.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN ADVERT (1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Karl-Heinz  -  www.sharpmz.org\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Citoh_YD8110_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;QL CATALOGUE #8\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sinclair_QL_Brochure1_s8.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FIRST AD. \u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The red part shows all the IBM-PC software boxes the VP could run.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Columbia_VP_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BRAZILIAN ADVERT (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Guizzi (http://www.scribd.com/doc/938905/Micro-Sistemas)\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/digitus_dgt100_ad_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (1987)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Students have a heap particularity which we cared about\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/zenith_campus_advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (JAN. 1985)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/multitech_mpf1-65_advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ITALIAN AD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Commodore_64_AdItaly_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MAGAZINE COVER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The TO-7/70 made the cover of french magazine Micro7 on february 1985.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_to770_micro7.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (DEC. 1985)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;MO5. Adventure built-in\u0026quot;\u0026lt;br\u0026gt; \u0026quot;All the world in a present\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_mo5_advert_aventure-comprise.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert on the Peerless 150 terminal\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Peerless_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1976 XMAS CATALOG\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Mark Thompson\u0026lt;/b\u0026gt; \u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Altair_8800_XmasCatalog_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FIRST UK ADVERT, OCT 1983\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert says:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; \u0026lt;b\u0026gt;The All-Purpose System\u0026lt;/b\u0026gt; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The MTX Series is a new departure in micro-computer technology. Whether your needs as a user ore for personal programming, games playing, scientific or process control, educational or business use the MTX Series is already capable or very easily adoptable to almost every application. Glance through the standard features below - you\u0027ll see what we mean.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Software\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; The MTX\u0027s 24K ROM contains several languages and routines which enable the novice or the experienced programmer to make full use of the machine. Standard languages are MTX BASIC, MTX LOGO commands, NODDY. ROM routines include on ASSSEMBLER/DISASSEMBLER with screen display of the Z80 CPU registers, memory and program, which can be manipulated from the keyboard. Machine code programs can be stepped through one instruction at a time, and easily called from within BASIC programs. A further feature is the Virtual Screen facility which enables the programmer to split the screen into a maximum of eight sections to work independently whilst maIntaining all full screen facilities. Pascal is available as on add-on ROM pock.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Hardware - 32K RAM on the MTX500. 64K on the MTX512.\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; The MTX500 has 32K of user RAM as standard (64K on the 512), expandable to 512K plus 16K of video RAM, controlled by a separate Video Processor. Sixteen colours, 40 column text, 256 x 192 high resolution graphics with all sixteen colours available, and 32 easily moveable user defined graphics characters (Sprites) combine to make effective screen displays quick and simple to achieve. Standard outputs are centronics printer port, two ioystick ports, an uncommitted I/O port, 2400 Baud Cassette port, separate TV and Video Monitor ports, 4 channel sound with hifi output plus a dedicated cartridge port. Other standard features include the Z80A processor runnIng at 4MHz, real time clock, full moving key keyboard with 79 keys including eight 2-function keys and separate numeric pad.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;The Disc Based Computers from Memotech.\u0026lt;/b\u0026gt; Designed to use the full power of the MTX computers the FDX and HDX make perfect busIness systems at prices which make perfect business sense. Both feature the CP/M operating system, giving Instant access to a wide range of proven application software. Available in October these feature:\u0026lt;br\u0026gt; \u0026bull; Full Western Digital floppy dIsc controller set with SASI interface for 4 drives, CP/M types 0 - 13.\u0026lt;br\u0026gt; \u0026bull; minimal latency, very high data transfer rates\u0026lt;br\u0026gt; \u0026bull; optional Colour 80 Column Board\u0026lt;br\u0026gt; \u0026bull; optional SilIcon Discs (1/4 Mb) which dramatically Increase the efficiency of 8 bit software to those of 16/32 bit software; increases life and reliability of mechanical drive\u0026lt;br\u0026gt; \u0026bull; permits single disc CP/M operation\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;FDX Floppy Disc System\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; 1 or 2 5 1/4\u0026quot; Qume drives 500K unformatted, 347K formatted.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;HDX- Hard Disc System\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; 5 1/4\u0026quot; Qume drive, 500K unformatted, 347K formatted, 5 1/4\u0026quot; Winchester which may be 5, 10, or 20 Mb.\u0026lt;/font\u0026gt; \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Memotech_MTX500_UKadvert_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CHARLIE CHAPLIN #4 \u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;In June 1983, IBM was still seeking independant programmers.\u0026lt;br\u0026gt; Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot; The envelope please.\u0026lt;br\u0026gt; There\u0027s an acceptance letter inside. And a check that could have your name on it. (If we select your program, that is.)\u0026lt;br\u0026gt; But remember. We pick our winners carefully... \u0026lt;/font\u0026gt; \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/IBM_5150_ChaplinAdvert_4.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;IBM T-SHIRT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/IBM_AT_T-shirt_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (DEC. 1985)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;9990 francs the TO9. Colors included\u0026quot; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026quot;Thomson. All the world in a present\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_to9_advert_couleurs-comprises.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT #3\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Picture courtesy of \u0026lt;a href\u003d\u0026quot;http://www.sbrowning.com/vintage\u0026quot;\u0026gt;Steve Browning, www.sbrowning.com/vintage\u0026lt;/a\u0026gt;.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sinclair_zx81_advert_3.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [],
+  "image": "http://www.old-computers.com/museum/photos/nec_pc6001mk2sr_1.jpg",
+  "builtInGames": "Basic N66 \u0026amp; N66SR",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

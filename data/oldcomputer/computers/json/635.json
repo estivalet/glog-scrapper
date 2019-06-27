@@ -1,0 +1,347 @@
+{
+  "name": "FX-1 Sparrow",
+  "manufacturer": "Atari",
+  "type": "Home Computer",
+  "origin": "U.S.A.",
+  "year": "1991",
+  "production": "1992",
+  "language": "",
+  "keyboard": "Full-stroke keyboard with numeric and editing keypads",
+  "cpu": "Motorola MC 68030sx + Motorola DSP 56001",
+  "speed": "16 MHz",
+  "coprocessor": "Motorola 68882 (FPU)",
+  "ram": "14 MB",
+  "vram": "",
+  "rom": "512 KB",
+  "text": "40 x 25 / 80 x 25",
+  "graphics": "ST Modes, TT Modes, VGA (640 x 480)",
+  "colors": "262144 with paletted mode",
+  "sound": "8 channel 12 bit PCM audio system",
+  "size": "",
+  "ports": "RGB, VGA, PAL, DSP, SCSI, Stereo IN/OUT, Midi (2), LocalTalk, Cardridge, RS232c, Centronics, Joystick (3), Mouse, 68030 Bus",
+  "power": "",
+  "price": "",
+  "description": "\nIn 1991, Atari planned to replace the old STe computers.\nThey realized then the \u0026quot;Sparrow Card\u0026quot;, which was a development card plugged into the 68000 slot of an Atari 1040 STe.\nThe \u0026quot;Sparrow Card\u0026quot; had one of the main feature of the future FX-1 / Falcon 030 computers : it was a dual CPU board. It used a Motorola MC68030 and a Motorola DSP 56K.\nThe \u0026quot;Sparrow Card\u0026quot; used a 16 MHz 68030, a 16 MHz 68882 (arithmetic coprocessor) and a 32 MHz DSP 56K with 24 KB of static RAM.\nLater, when Atari made the first fully functionnal computer from this prototype board, they planned to name it \u0026quot;FX-1\u0026quot;, they eventually name it \u0026quot;Falcon\u0026quot;.\nThe Atari FX-1, or \u0026quot;Sparrow\u0026quot;, is also a prototype machine. Actually, it is almost a Falcon030. It has all its features except its true color mode (not fully implemented in the FX-1) and the PCM sound channels (12 bit instead of 16 in the Falcon).\nThese computers used the Atari Mega STe TOS (2.06) slightly modified to cope with the new graphic modes. This TOS version had the number 2.07 and was replaced in the last Sparrow models with the TOS 4.0 (The Falcon used TOS 4.01 in the earlier models, then the 4.04 and finally the 4.92 (never released)).\nAtari produced less than 100 of these machines. They were built with sample spare parts and were used by developpers to write software for the future Atari Falcon.\nCurl Vendel says :\nOriginally, the Sparrow/FX-1 had a better graphics processor, but it was incompatible with most software. A newer processor was built that was more compatible (yet slightly crippled) with ST/e software.\n \n\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MAINBOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt;  Analog Joystick ports\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt;  68030 Expansion connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt;  CPU Motorola MC 68030sx\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(4)\u0026lt;/b\u0026gt;  COMBEL (Atari Custom Chip)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(5)\u0026lt;/b\u0026gt;  Unknown (maybe a 68000 slot)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(6)\u0026lt;/b\u0026gt;  TOS 2.07 ROM\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(7)\u0026lt;/b\u0026gt;  FPU Motorola 68882\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(8)\u0026lt;/b\u0026gt;  RAM connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(9)\u0026lt;/b\u0026gt;  FDC (Floppy Disk Controler)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(10)\u0026lt;/b\u0026gt; Cardridge slot\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(11)\u0026lt;/b\u0026gt; MIDI IN/OUT\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(12)\u0026lt;/b\u0026gt; MFP 68HC90\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(13)\u0026lt;/b\u0026gt; ZILOG SCC (Lan controler)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(14)\u0026lt;/b\u0026gt; REALTIME clock\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(15)\u0026lt;/b\u0026gt; 40 MB IDE HD\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(16)\u0026lt;/b\u0026gt; SDMA (Atari Custom Chip)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(17)\u0026lt;/b\u0026gt; VIDEL (Atari Video Chip)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(18)\u0026lt;/b\u0026gt; ACIA\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(19)\u0026lt;/b\u0026gt; CPU Motorola DSP 56001\u0026lt;br\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/sparrow_board.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BACK SIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The mouse \u0026amp; digital joystick connectors are located into the hole on the left.\u0026lt;br\u0026gt; \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/sparrow_dessous.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;THE FX1 - OTHER VIEW\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/sparrow_dessus.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;RIGHT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The Floppy disk drive is a PC compatible 1.44 MB FDD.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/sparrow_droite.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LEFT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;From top to bottom : MIDI IN / MIDI OUT, Cardridge port, Analogic joysticks (x2)\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/sparrow_gauche.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;IT\u0027S SO DIFFICULT TO FIND A NAME...\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Atari hesitated a lot before finding the right name and the right colors.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; First, they wanted to call the computer FX-1, it used then the ST case (light grey). Finally, the FX-1 had a dark grey case, so, they changed the logo.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; When they decided to name it \u0026quot;Falcon\u0026quot;, they tried to find the right logo (eventually, the \u0026quot;Falcon 030\u0026quot; logo is the last one without any color in the \u0026quot;030\u0026quot;).\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Notice that Atari planned to use the FX-1 dark grey case for the Falcon but they finally used the old Atari ST cases (maybe they still have lot of ST cases in their stocks).\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The Atari Falcon has the FX-1 keyboard and the ST case. I suppose Atari produced the dark grey logos before deciding to use the ST case, so the Falcon has a dark grey logo !\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/sparrow_hesitate.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ATARI FX-1 LOGO\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/sparrow_logo.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ATARI \u0026quot;SPARROW\u0026quot; STICKER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Although it was named \u0026quot;FX-1\u0026quot;, everything is related to \u0026quot;Sparrow\u0026quot;.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/sparrow_label.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;14 MB RAM CARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The Atari FX-1 used, as the Falcon, a 16 MB RAM card. Only 14 MB can be used (the 2 other MB addresses are shared with peripherals).\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/sparrow_ram.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR SIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt;  DSP\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt;  Sound IN\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt;  Sound OUT\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(4)\u0026lt;/b\u0026gt;  SCSI 1\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(5)\u0026lt;/b\u0026gt;  Video Connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(6)\u0026lt;/b\u0026gt;  TV connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(7)\u0026lt;/b\u0026gt;  Parallel\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(8)\u0026lt;/b\u0026gt;  Serial\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(9)\u0026lt;/b\u0026gt;  LAN\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(10)\u0026lt;/b\u0026gt;  Power Supply \u0026amp; reset\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/sparrow_rear.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ROMS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Two 256 KB ROMs, holds the TOS 2.07\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/sparrow_roms.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;VC20 GERMAN ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Christian Hart for this scan\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/commodore_vc20_ad-de_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp; U.S. AD #2 (1983)  \u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Despite the M20 was neither software nor hardware compatible with any other computer, Olivetti had to prove that it had more computing power at a smaller pice than any competitor.  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Olivetti_M20_Advert_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;i\u0026gt;Texas Instruments home computer, simply unbeatable\u0026lt;/i\u0026gt; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Notice that the man seems not to feel at ease with a computer keyboard and still doesn\u0027t use the right finger...\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Charles da Silva\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/TI_TI994A_AdvertFr_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SCARY...\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Can you believe it?! She is learning how to play flute (mini flute?) with her TO7... The father seems to be a kind of lunatic...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_to7_promotional-guide_musique.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (APRIL 1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/nec_pc8000_french-pub_biset.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TANDY 1988 CATALOG\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.switchtech.us/Tandy1000.html\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;SWITCHTECH\u0027S Tandy 1000SX page\u0026lt;/a\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/tandy_1000ex_1988-catalog.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ACE 100 ADVERT (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Franklin_ACE100_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BRIDGE COMPUTER VERSION\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;In 1982, the \u0026lt;b\u0026gt;Bridge Computer Company\u0026lt;/b\u0026gt; (Newton, MASS) sold a Z80 software developper system with the InterSystems mainframe, CP/M 2.2 operating system and various optional  programming languages.The configuration was:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; - 6 Mhz. Z80-B CPU with memory management\u0026lt;br\u0026gt; - 256 KB RAM expandable to 1 MB\u0026lt;br\u0026gt; - Two 8\u0026quot; or 5.25\u0026quot; F.D. drives, single or double sided\u0026lt;br\u0026gt; - Optional 5\u0026quot; or 8\u0026quot; hard disk, up to 40 MB\u0026lt;br\u0026gt; - Televideo serial video terminal. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Advert said:\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; Does this sound too good to be true? Just fill your tank with the BRIDGE 3C formula for SPEED and shift into \u0027overdrive\u0027 with your bridge 3C Compiler System. Leave the other behind, let us provide you with the fuel for higher productivity...\u0026lt;/font\u0026gt;  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/InterSystems_Dps1_Bridge_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BROCHURE #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Brd_Dolphin_Brochure_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT, OCT 1983\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Last sales in the UK. At the same time, a Commodore VIC-20 cost \u0026pound;139 and a Commodore 64 cost $229\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/TI_TI994A_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JUPITER BROCHURE #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Jupiter_Ace_Brochure_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ITALIAN AD #3\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;http://angelmemories.cjb.net/\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sinclair_SpectrumP_AdItaly_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN BROCHURE #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Volken\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Atari_MegaST_GermanDoc_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0027\u0027Each day, go on the computing road\u0027\u0027\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/epson_advert_hx-qx_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (JULY 1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/oric_oric-1_advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Panasonic_JR-200U_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;April 1983 \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Advert said \u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; Simple Isn\u0027t it?. The COMPAQ portable computer can do what the IBM Personal Computer does. To go.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; It runs all the popular programs written for the IBM. It works for the same printers ans other peripherals. It even accepts the same optional expansion electronics that give it additional capabilities and fonctionality.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; There\u0027s really only one big difference. The COMPAQ computer is designed to travel.\u0026lt;br\u0026gt; Carry the COMPAQ computer from office to office. Carry it home on the weekend. Or take it on business trips...\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Compaq_Portable_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.cobit.kit.net\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;COB-Clube Old Bits\u0026lt;/a\u0026gt; for this picture.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/hotbit_hb8000_advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CLOSE-UP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/ResearchMach_Nimbus_Advert_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;The new revolutionnary modular system\u0026quot; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; So you say... \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026quot;ITT 3030, the absolute intelligence\u0026quot; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Not less ! \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/itt_3030_pub_1_s.gif"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LEAFLET (1982) - PAGE 4\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;These are fake screenshots, that is to say drawn by an artist.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/interton_vc4000_promo-leaflet_4.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;RADIOLA ADVERT. 2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/radiola_vg5000_advert2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sord_is11_advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT APR. 1982\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;\u0026lt;a href\u003d\u0026quot;http://www.aci.com.pl/mwichary/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Attached\u0026lt;/a\u0026gt;\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Tandy_Model3_Advert_s3.jpg"
+    }
+  ],
+  "hardware": [
+    {
+      "type": "\u0026gt; DISK-DRIVES",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/atari_st_sf354-diskdrive_1.jpg",
+          "description": "SF-354|||Single density disk-drive |||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SF-354\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Single density disk-drive \u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/atari_st-disk-drive_sf314.jpg",
+          "description": "SF-314|||Disk-drive|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SF-314\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Disk-drive\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Atari_520_CumanaDrive_1.jpg",
+          "description": "Cumana Drive||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CUMANA DRIVE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "\u0026gt; HARD-DRIVES",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/atari_supradrive_20mb.jpg",
+          "description": "Supradrive|||20 Mb hard-disk|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SUPRADRIVE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;20 Mb hard-disk\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/atari_st_quamtum_hd170.jpg",
+          "description": "170Mb Quantum hard-drive||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;170MB QUANTUM HARD-DRIVE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This unit has an ICD Host Adapter.\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/atari_st_megafile30_1.jpg",
+          "description": "Atari Megafile 30||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ATARI MEGAFILE 30\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This hard-drive has a 30Mb capacity.\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Atari_MegaST_InsideMegaFile_1.jpg",
+          "description": "Inside the Megafile 30||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE THE MEGAFILE 30\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; Seagate MFM 30 MB hard-disk Type ST-238\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; Power supply\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; Logical board\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(4)\u0026lt;/b\u0026gt; Power and disk access LED\u0027s\u0026lt;br\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "\u0026gt; MISC",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Atari_520_ModemSX212_1.jpg",
+          "description": "Atari universal modem||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ATARI UNIVERSAL MODEM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The SX212 modem was one of the rare Atari peripherals that could be used with all the Atari computers range, from the 400/800 series up to the Falcon. It had both the Atari I/O ports for the 8-bit systems and a standard RS-232 connector for ST\u0027s\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; It was a 300/1200 baud modem compatible with the well-known Hayes \u0027AT\u0027 commands.\u0026lt;br\u0026gt; Cable and software was sold separately, depending of the computer used. \u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Atari_MegaST_SLM804printer_s1.jpg",
+          "description": "SML-804|||Laser printer|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SML-804\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Laser printer\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The SLM-804 was actually a Kyocera F1000 printer but without neither on-board processor and memory nor buttons other than the on/off switch. It was first delivered with the Mega ST but could be connected on all of the ST series computers through a dedicated interface box.\u0026lt;br\u0026gt; The printer used the processing power and the RAM memory of the ST computer for printing at 8 pages per minute and 300 DPI. The paper tray held 250 sheets.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Francois Michaud\u0026lt;/b\u0026gt; who donated us this printer.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Atari_MegaST_SLMCinterface_s1.jpg",
+          "description": "SMLC-804|||Laser printer interface|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SMLC-804\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Laser printer interface\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This interface allowed the SML-804 printer to be connected to any Atari ST holding at least 1 MB RAM.\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    }
+  ],
+  "emulator": [
+    {
+      "platform": "MS DOS emulator",
+      "name": "Pacifist !",
+      "link": "http://www.pacifist.fatal-design.com/",
+      "description": "Pretty good emulator"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "Gemulator",
+      "link": "http://www.emulators.com/gemul8r.htm"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "MagiCPC",
+      "link": "http://www.application-systems.de/magicpc/index.html"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "SainT",
+      "link": "http://saint.atari.org",
+      "description": "The best Atari ST Emulator !"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "Steem",
+      "link": "http://steem.atari.st/",
+      "description": "Excellent emulator for 1040/520 STE !"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "Tos2Win",
+      "link": "http://www.aixit.com/tos2win/",
+      "description": "A good Atari GEM Emulator !"
+    },
+    {
+      "platform": "Apple emulator",
+      "name": "MagiCMac",
+      "link": "http://www.application-systems.de/magicmac/index.html"
+    },
+    {
+      "platform": "Apple emulator",
+      "name": "NoSTalgia \u0026amp; PowerST",
+      "link": "http://users.skynet.be/sky39147/"
+    },
+    {
+      "platform": "Unix / Linux emulator",
+      "name": "STonX Homepage",
+      "link": "http://www.complang.tuwien.ac.at/nino/stonx.html"
+    },
+    {
+      "platform": "Other platform emulator",
+      "name": "Atari ST Emulator ",
+      "link": "http://www.atari-st.lovely.net/",
+      "description": "Written in Java !"
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "ARAnyM",
+      "link": "HTTP://ARANYM.ATARI.ORG",
+      "description": "Multiplatform project"
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "Hatari",
+      "link": "http://hatari.sourceforge.net/",
+      "description": "Hatari is an Atari ST emulator for Linux, BSD, BeOS, Mac OS X and other systems that are supported by the SDL library. More precisely, Hatari is an adaption of the WinSTon source code to the SDL library."
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d922",
+    "computer.asp?st\u003d1\u0026amp;c\u003d272",
+    "computer.asp?st\u003d1\u0026amp;c\u003d24",
+    "computer.asp?st\u003d1\u0026amp;c\u003d25",
+    "computer.asp?st\u003d1\u0026amp;c\u003d20",
+    "computer.asp?st\u003d1\u0026amp;c\u003d125",
+    "computer.asp?st\u003d1\u0026amp;c\u003d270",
+    "computer.asp?st\u003d1\u0026amp;c\u003d165",
+    "computer.asp?st\u003d1\u0026amp;c\u003d164",
+    "computer.asp?st\u003d1\u0026amp;c\u003d283",
+    "computer.asp?st\u003d1\u0026amp;c\u003d225",
+    "computer.asp?st\u003d1\u0026amp;c\u003d269",
+    "computer.asp?st\u003d1\u0026amp;c\u003d245",
+    "http://www.best.com/~hmk/",
+    "http://www.atarimusic.net/",
+    "http://users.qnet.com/~dons/Sparrow.htm",
+    "http://wwwbrauer.in.tum.de/~brandtf/ataridemos.html",
+    "http://www.chebucto.ns.ca/Services/PDA/atari.shtml",
+    "http://www.atari.org/",
+    "http://www.dhs.nu/",
+    "http://www.atari.st/",
+    "http://www.kingx.com/kingx/medusa/thes.html",
+    "http://www.earth.ox.ac.uk/~steve/mintos.html",
+    "HTTP://MUSIQUE.ATARI.ORG",
+    "http://www.plopbox.net/",
+    "http://atariki.krap.pl",
+    "http://my.blackpoint.ch/stab/",
+    "http://www.atarimuseum.com/",
+    "http://www.megacom.net/~q-funk/ST/",
+    "http://b.webring.com/hub?ring\u003datari",
+    "http://www.atari.org",
+    "http://www.mindrup.de/atos/online/9604/sparrow.htm",
+    "http://www.vanc.igs.net/~roughley/tos_main.htm",
+    "http://www.umich.edu/~archive/atari/",
+    "news:comp.sys.atari.advocacy",
+    "news:comp.sys.atari.announce",
+    "news:comp.sys.atari.programmer",
+    "news:comp.sys.atari.st",
+    "news:comp.sys.atari.st.tech",
+    "news:fr.comp.sys.atari"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/sparrow_main.jpg",
+  "builtInGames": "3.5\u0027 FDD (1.44 MB) + 40 MB IDE Hard Disk",
+  "controllers": "",
+  "media": "3.5\u0027 FDD (1.44 MB) + 40 MB IDE Hard Disk",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

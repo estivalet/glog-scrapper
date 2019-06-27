@@ -1,0 +1,185 @@
+{
+  "name": "KC 85/4",
+  "manufacturer": "R.F.T.",
+  "type": "Home Computer",
+  "origin": "Germany",
+  "year": "july 1988",
+  "production": "Somewhere around 1990",
+  "language": "CAOS 4.2 (Cassette Aided Operating System), integrated Basic interpreter",
+  "keyboard": "QWERTZ-Layout, Function keys (F1-F6), Cursor keyspretty small keys, not easy to type with; 64 keys; connected through mono DIN-jack",
+  "cpu": "U880 D (Z80 clone)",
+  "speed": "1,77 Mhz",
+  "coprocessor": "none; CPU even managed video processing",
+  "ram": "64 KB, expandable to max. 4 MB",
+  "vram": "",
+  "rom": "20 KB",
+  "text": "40 x 32 characters",
+  "graphics": "320 x 256",
+  "colors": "16 colors/foreground, 8 colors/background",
+  "sound": "2 tone generators, 2x5 Octaves; Stereo when connected to a stereo hifi system (constant volume), mono over TV if connected through FBAS/RGB (32 volume levels)",
+  "size": "380x250x70 mm; Keyboard 296x152x29 mm / 4,8 Kg (including keyboard)",
+  "ports": "Color TV output through PAL HF-modulator, TV output via FBAS/RGB, DIN connector for cassette drive (including TTL motor switch voltage) or to connect to a stereo, 2 expansion slots, expansion interface for set-top expansion",
+  "power": "ca. 25 W",
+  "price": "2200 Marks",
+  "description": "\nThe KC85/4 was the last one of the KC85/x series. Although it doesn?t look quite different, some internals changed. The whole design changed a bit, and software which used to access hardware directly, sometimes didn?t work any longer, as some addresses changed.\n\nAlso, memory was expanded to 64 KB, and the whole memory could be used by software. The ROM increased to 20 KB. The CAOS system offered printer support for most of the available GDR printer models.\n\nThere are two expansion slots, which could be extended to four through an expansion set-top. \n\n________\n\nInformation kindly provided by Stefan Goehler.\n\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LARGE VIEW\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/RFT_KC85_4_System_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TOP VIEW\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/RFT_KC85_4_TopView_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LEFT \u0026amp; RIGHT SIDES\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/RFT_KC85_4_Sides_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRONT PANEL\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/RFT_KC85_4_Front panel_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;KEYBOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Same poor keyboard as the 85/3, badly conceived (i.e. the Return key) and unsuitable for fast typing.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/RFT_KC85_4_Keyboard_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR PANEL\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Same connectors as the 85/3: RGB and TV video output, and bus expansion.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/RFT_KC85_4_RearSide_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;RFT PLATES\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/RFT_KC85_4_Labels_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Same internal design a the 85/3\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/RFT_KC85_4_Inside_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MAINBOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Compared to the 85/3 version, the mainboard has been completely redesigned. Almost all of the ICs come from former Eastern Europe\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(1)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; U880D CPU, Z80 equivalent\u0026lt;br\u0026gt;  \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(2)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 20 KB ROM chips 2x2764, 1x2732. One of them comes from ST Microelectronics, two others come from Eastern Europe\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(3)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 64 KB RAM chips, 4164 equivalent\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(4)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; UB855D I/O chip, Z80-PIO equivalent\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(5)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; UB857D display controller chip, Z80-CTC equivalent.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/RFT_KC85_4_Mainboard_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DISMANTLED\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Dismantling a KC85 isn\u0027t an simple task, mainly because of the three flat cable connectors which are not removable, also because all the cables are soldered. we gave up in removing the PSU. Repairing this computer shouln\u0027t be really easy.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/RFT_KC85_4_Dismantled_s1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1977 ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Prior to the 6800 computer, MSI manufactured 8\u0026quot; floppy disc units.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/MSI_6800_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The memo from the company president:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; Your purchase request for six personal computers just reached my desk.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; What gives?\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; I thought you understood our grouth plans, Jack, but the computers you have recommanded are dead ends. They might do the job today, but what about tomorrow? They don\u0027t connect together to form any kind of functional system. The 8 bits aren\u0027t compatible with the 16 bits models. And I doubt the software that run on the computers you want will be of any use later when we\u0027re forced to buy computers that work together.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; You saved us a little now, Jack, but your decision will cost us a bundle as we grow into the future. We are growing, Jack, and I\u0027m sure that you want to be part of the growth.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; See me before you go home tonight.\u0026lt;br\u0026gt; Tom\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;/font\u0026gt; Cheer up Jack!\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Now the advert:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; If you don\u0027t want your boss to limit you growth, don\u0027t limit the growth of the company. Consider small business computers that can keep up with your business by giving you options for expansion in the future.\u0026lt;br\u0026gt; With Televideo Systems Inc. you get what no other small business computer can offer...\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Perhaps jack was right...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Televideo_TS802_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (JANUARY 1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;At 68 years old, taunt Rose discovered that she was an exceptionally gifted child\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/atari_2600_ad_tante-rose.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FIRST ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;www.computermuseum.it\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Olivetti_Programma101_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;WONDER COMPUTE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/commodore_vic20_adv_wonder-compute.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN LEAFLET #3\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;There music puts in it\u0026quot;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;www.sharpmz.org\u0026lt;/b\u0026gt; \u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sharp_MZ800_GermanAd_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Picture courtesy of \u0026lt;a href\u003d\u0026quot;http://www.sbrowning.com/vintage\u0026quot;\u0026gt;Steve Browning, www.sbrowning.com/vintage\u0026lt;/a\u0026gt;.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/apple_advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (MAY 1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Computing pret-a-porter\u0026quot; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026quot;Casio FX-702P : pocket Basic\u0026quot; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026quot;Casio, it counts\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/casio_fx702p_advert_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;M-SERIES BROCHURE - PAGE 1-2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Juraj Mucko for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/panasonic_jd_flyer_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROUD !\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This authentic picture show a proud owner of a Wren transportable computer ! It looks like it bought it 5 minutes ago as he doesn\u0027t really know from which side to handle it...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thorn-emi_wren_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TANDY 1988 CATALOG\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.switchtech.us/Tandy1000.html\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;SWITCHTECH\u0027S Tandy 1000SX page\u0026lt;/a\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/tandy_1000sx_catalog.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TTX 80 FRENCH ADVERT (JAN. 1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;computing against wasted time\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/bull_ttx80_advert_time.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (APRIL1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/nec_pc8000_french-pub_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROMOTIONAL GUIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;TO 7, the family computer\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_to7_promotional-guide.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;APPLE LOGO (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Apple Logo was a very successful implementation of Logo. It contained some advanced features such as property list and packages, as well as extremely good documentation.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; At the time, Apple thought the Logo language would encourage schools to invest heavily in personal computers for all the class levels.\u0026lt;br\u0026gt; Sadly, Logo never became the revolutionary language that they had hoped for and very few schools taught it to their pupils (except in France).\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Apple_II_LogoLanguage_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SHOW BAG\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Altair_8800_Bag_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPANESE ADVERT. #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The Pasopia IQ seems to be the name of the HX-10 in its native country.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/toshiba_hx10_pub_jap2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US DEALER ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; Until now, parents interested in expanding their children\u0027s educational experience, turned to expensive encyclopedias. With the advent of the PET personal computer a new avenue of visual learning is now available for your youngsters for as low as $595....\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; ... Your youngster will think he\u0027s playing, you\u0027ll know he\u0027s learning with the remarkable PET... \u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; At the time, parents often thought a personal computer could help their youngsters learning, but 80% of the home computers sold in the 80\u0027s was used only for playing. \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Douglas Reedy\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Commodore_Pet_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. AD (1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This advert tried to convince computers newcomers that a pocket computer could do the same as a desktop computer...\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; Now Texas Instruments brings you a cordless compact computer that solves the same sort of problems as the Apple or IBM Personal Computer...\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; ...For most personal computer tasks, its 6K RAM and 34K ROM are ample...\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/TexasIns_CC40_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US AD (JULY, 1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Eric Buczynski for this advert\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/spectravideo_SV318_ad_us_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PHILIPS FRENCH ADVERT.\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;Two generations amazed...\u0026lt;/b\u0026gt; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Perhaps a bit too much though... but the scene is beautiful and we can only admire the originality of the Philips\u0027 communication campaign which, for once, is not exclusively focused on the young Basic apprentices.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/philips_vg5000_advert1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/acorn_atom_jcs-ad_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ACCOUNTING SYSTEMS A5 AND A7\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Systems A5 and A7, presented in 1974, contributing significantly to shifting the focus towards the supply Olivetti computer. These machines have the characteristics of a real computer, and hence a discontinuity from the previous accounting and billing are mainly based on mechanical technology. The new machines meet the favor of the European market and in 1975 the Swiss magazine Information, which specializes in computer and office products, a dedicated their cover.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Picture courtesy of \u0026lt;a href\u003d\u0026quot;http://www.storiaolivetti.it\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;http://www.storiaolivetti.it\u0026lt;/a\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/olivetti_a5a7_pub1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PREVIOUS SYSTEM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Before manufacturing the MPC, Columbia tried to sell a massive multi-user, Z80 based system.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Columbia_PC_Advert_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d599",
+    "computer.asp?st\u003d1\u0026amp;c\u003d546",
+    "computer.asp?st\u003d1\u0026amp;c\u003d568",
+    "http://www.mpm-kc85.de/",
+    "http://www.kc-club.de/",
+    "http://www.upka.de/"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/RFT_KC85_4_FrontView_s1.jpg",
+  "builtInGames": "CAOS 4.2 (Cassette Aided Operating System), integrated Basic interpreter",
+  "controllers": "",
+  "media": "none; external cassette player required (connected via DIN connector)",
+  "numGames": "",
+  "peripherals": "V24 interface, memory cards (16/64 KB), EPROM-module, several user ports, 5 ?\u0027\u0027 diskdrive set-top (included own U880 system with 64K RAM!!)",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

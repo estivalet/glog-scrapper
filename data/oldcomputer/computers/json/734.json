@@ -1,0 +1,155 @@
+{
+  "name": "Tiki-100",
+  "manufacturer": "Tiki-Data",
+  "type": "Professional Computer",
+  "origin": "Norway",
+  "year": "April 1984",
+  "production": "",
+  "language": "None",
+  "keyboard": "Full -stroke QWERTY 92 keys with numeric keypad, arrows and function keys",
+  "cpu": "Z80 (later 8088)",
+  "speed": "4 Mhz (Z80), 6 Mhz. (8088)",
+  "coprocessor": "",
+  "ram": "64 KB",
+  "vram": "16 KB",
+  "rom": "8 KB",
+  "text": "None",
+  "graphics": "256 x 256, 512 x 256, 1024 x 256",
+  "colors": "16, 4 or 2 among 256, depending of the video mode",
+  "sound": "3-channel/8-octave buildt-in AY-3-8912. Built-in speaker \u0026amp; volume knob",
+  "size": "",
+  "ports": "2 x Serial ports, 1 x Parallel, Audio out, Analog  and TTL video RGB, composite video, RF modulator",
+  "power": "Built-in linear power supply unit",
+  "price": "12000 NOK (1984, Norway)",
+  "description": "\nThe Tiki-100 was a Norwegian educational, professional, homecomputer system that was quite popular in schools.\n\nAcutally they first used the name Kontiki-data, and named the first few models Kontiki-100, but had to change the name to Tiki after the Thor Heyerdahl Society, wich owned the rights to the Kontiki name, threatened with a lawsuit.\n\nFive models were available, featuring one or two 80 KB, 200 KB or 800 KB 5\u0027\u0027 floppy disc drives. An optional 20MB Winchester harddrive was also available.\nThe Tiki-100 could read various disk formats, like Scandis, IBM-PC, Osborne, and ABC-800. The 80 KB format was the same as used in some Xerox-systems.\nThe operating-system was called TIKO, and was compatible with CP/M 2.2. It was first called KP/M, but was renamed at the same time as the computer changed the name from Kontiki-100 to Tiki-100.\n\nOne could also install an optional Intel-8088 processor-board, adding an extra 256 KB ram to the main 64 KB. A 16-bit operating system called TIKOS was used together with the i8088 board, and managed both the i8088 and Z80 at the same time. TIKOS was developed from CP/M-86, and was compatible with it. MS-DOS 2.11 was also available.\n\nThe Tiki-100 had 3 (maybe more?) graphics modes, but no text-mode as it used\nbitmapped graphics only.\nA separate network hub was available that allowed up to 8 (not sure) computers to be connected in a star topology. One of the standard Tiki\u0027s serial ports was used for the network, in high speed mode. The server was a Tiki-100 that ran MP/M.\n\nSeveral programs were developed for the Tiki-100. Most common were: BRUM (a simple wordprocessor), Tiki-Kalk (Spreadsheet), Tiki-BAS (Database),WordStar and SuperCalc and a little snake-type game called Pyton.\n\n A simple terminal program was also imbedded in the OS, and made it possible to\nconnect to a BBS through a 300 or 1200 bps modem. A serial terminal could be\nused to acces the Tiki-100 via one of the serial ports.\n\nProgram languages like: C, Fortran, Cobol, BASIC, Pascal was also available.\n\nThanks to Jon Andre Finnerud and Jorn E.Haugan for information and pictures.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SYSTEME\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;With monochrome monitor\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;Jorn E.Haugan\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Tiki_100_System_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SYSTEM DIAGRAM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;Jorn E.Haugan\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Tiki_100_Diagram_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (1979)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/synertek_sym1_advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;November 1987\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; ...This elegant little machine takes family computing into new dimensions of creativity, excitement and productivity. It outruns and outguns office PCs as a business multi-tasker, performing a deskful of different jobs simultaneously at over 7 million steps per second in realtime... \u0026lt;/font\u0026gt;  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Commodore_Amiga500_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1980 ADVERT \u0026amp; PRICE LIST\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;Price list\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;  \u0026lt;b\u0026gt;VP-111  \u0026lt;/b\u0026gt;Low cost microcomputer  \u0026lt;b\u0026gt;$99\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;VP-114  \u0026lt;/b\u0026gt;Expansion kit for VP-111 (3 KB RAM, I/O port and connectors)  \u0026lt;b\u0026gt;$76\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;VP-711  \u0026lt;/b\u0026gt;Original VIP microcomputer \u0026lt;b\u0026gt;$199\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;VP-44    \u0026lt;/b\u0026gt;On board RAM expansion (4 x 2114 RAM chips)  \u0026lt;b\u0026gt;$36\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;VP-590  \u0026lt;/b\u0026gt;Color board  \u0026lt;b\u0026gt;$69\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;VP-595  \u0026lt;/b\u0026gt;Simple sound board (256 programmable frequencies) with speaker  \u0026lt;b\u0026gt;$30\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;VP-550  \u0026lt;/b\u0026gt;Super sound board (Synthetiser with two sound channels  \u0026lt;b\u0026gt;$49\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;VP-551  \u0026lt;/b\u0026gt;Super sound 4 channels expansion \u0026lt;b\u0026gt;$74\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;VP-570  \u0026lt;/b\u0026gt;4 KB RAM memory expansion board  \u0026lt;b\u0026gt;$95\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;VP-580  \u0026lt;/b\u0026gt;Two players keypad  \u0026lt;b\u0026gt;$20\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;VP-585  \u0026lt;/b\u0026gt;Keypad interface board  \u0026lt;b\u0026gt;$15\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;VP-560  \u0026lt;/b\u0026gt;Eprom board for two 2716 EPROMS  \u0026lt;b\u0026gt;$34\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;VP-565  \u0026lt;/b\u0026gt;2716 EPROM programmer with software  \u0026lt;b\u0026gt;$99\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;VP-575  \u0026lt;/b\u0026gt;Expansion board with 5 expansions sockets  \u0026lt;b\u0026gt;$59\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;VP-700  \u0026lt;/b\u0026gt;4 KB Tiny Basic  \u0026lt;b\u0026gt;$39\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;VP-701  \u0026lt;/b\u0026gt;Floating point Basic (cassette)  \u0026lt;b\u0026gt;$49\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;VP-710  \u0026lt;/b\u0026gt;Game listings  \u0026lt;b\u0026gt;$10\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;VP-720  \u0026lt;/b\u0026gt;Game listings II  \u0026lt;b\u0026gt;$15\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;VP-601  \u0026lt;/b\u0026gt;Keyboard 128-character ASCII  \u0026lt;b\u0026gt;$69\u0026lt;/b\u0026gt; \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/RCA_Cosmac_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;The family advice\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/triumph-adler_alphatronic-pc_ad_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp; GERMAN LEAFLET #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Preliminary/New product leaflet. For exhibitions only\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026quot;The new Personal Computer from SHARP - particularly developed for personal use.\u0026quot;\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Note the optional Quick Disc drive.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;www.sharpmz.org\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sharp_MZ800_GermanAd_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DIABOLIK, FRENCH ADVERT. #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;It will take your time, your body and your soul\u0026quot;...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/yamaha_yis503_diabolik_pub.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (APRIL 1987)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Compatible with you know who.\u0026lt;br\u0026gt; Equiped like nobody.\u0026lt;br\u0026gt; Priced like Amstrad\u0026quot;.\u0026lt;br\u0026gt; \u0026lt;br\u0026gt; Single drive, monochrome monitor \u003d 4997 FF + VAT\u0026lt;br\u0026gt; Double drive, monochrome monitor \u003d 6290 FF + VAT\u0026lt;br\u0026gt; Single drive, colour monitor \u003d 6890 FF + VAT\u0026lt;br\u0026gt; Double drive, colour monitor \u003d 8190 FF + VAT\u0026lt;br\u0026gt; Single drive, 20 MB hard-disk, monochrome monitor \u003d 9990 FF + VAT\u0026lt;br\u0026gt; Single drive, 20 MB hard-disk, colour monitor \u003d 11890 FF + VAT\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/amstrad_pc1512_ad-fr_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (JUNE 1985)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Thomson, you make me micro\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_mo5_tu-me-rends-micro_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/northstar_horizon_ad1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN LEAFLET #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;This flexibly expandable computer grows by the increase of business activities and the rising requirements.\u0026quot;\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; A reliable office computer, which can flexibly adapt to the business work, as it is essential for the office to execute resulting works promptly, correctly, and precisely.\u0026lt;br\u0026gt; A user-friendly conceived EDP-system like the MZ-3541 is essential, particularly for small to medium sized companies.\u0026lt;br\u0026gt; The MZ-3541 contributes for a substantial increase of the productivity in the office by the assumption of routine works. SHARP has designed the new MZ-3541 in such a way that it can be used for the most diverse resulting office works. And because multiple peripheral devices are available, the system can grow dynamically with the business activities.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The MZ-3541 is the result of Sharp\u0027s extensive market study and ergonomics studies. The free mobile keyboard makes data input and the operation easier and allows for spatial conditions an adapted installation of the system possible.\u0026lt;br\u0026gt; Sharp\u0027s MZ-3541 - the complete system for the business data processing.      \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;www.sharpmz.org\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sharp_MZ3500_GermanAd_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;John V. Blankenbaker designed the Kenbak-1 and marketed in the pages of Scientific American in 1971. The machine\u0027s name was taken from the middle of John\u0027s last name.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.vintage-computer.com\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;www.vintage-computer.com\u0026lt;/a\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/kenback1_1_advert.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/tandy_trs80-model3_dossier31.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JACQUARD BROCHURE #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Jacquard_J500_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT, OCT. 1981\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;From Personal Computing, October 1981.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0027\u0026lt;a href\u003d\u0026quot;http://www.aci.com.pl/mwichary/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Attached\u0026lt;/a\u0026gt;\u0027\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Apple_II_Advert_Optical_s7.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (FEBRUARY 1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sinclair_zx81_ad-french_surprenante.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;STRONG WOOMAN(1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Don\u0027t beleive this advert!\u0026lt;br\u0026gt; Please, look carefully at the quite horizontal shoulders of the woman who carries the Osborne (about 12 Kg). Either she is a champion of wrestling, or the Osborne case is empty. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Osborne_1_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT  APR. 1983\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Nec_PC8800_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (OCT. 83)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/multitech_mpf1plus_advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ENGLISH ADVERT (1984)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;English advert for the 86A model.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Tony Mattson for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/advance-86a_advert_1s.gif"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;NEW ZEALAND AD #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This was probably the very first advert of the SC3000 as the pictured machine still was a Japanese version.\u0026lt;br\u0026gt; Notice that the price is in Australian$, probably without the Basic cartridge which is not mentioned in the advert.  \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The SC-3000 was very popular in New Zealand in the early to mid 80\u0027s. \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Murray Moffatt\u0026lt;/b\u0026gt; from New Zealand \u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sega_SC3000_Advert_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (JULY 1984)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sinclair_zx81_ad_initiateur_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1978 BROCHURE #13\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/MSI_6800_Brochure_s14.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ALTAIR CONVENTION\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The first Altair Convention was here announced in the Computer Notes magazine.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Mark Thompson\u0026lt;/b\u0026gt; \u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Altair_8800_CompNotes_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ITALIAN AD #3\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;http://angelmemories.cjb.net/\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sinclair_SpectrumP_AdItaly_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [
+    {
+      "platform": "Multiplatform emulator",
+      "name": "TIKI-100_emul V1.1",
+      "link": "http://djupdal.org/tiki/emulator/",
+      "description": "TIKI-100 emulator (Amiga \u0026amp; Windows)"
+    }
+  ],
+  "link": [
+    "http://djupdal.org/tiki/"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/Tiki_100_System_1.jpg",
+  "builtInGames": "None",
+  "controllers": "",
+  "media": "1 or 2 5\u0027\u0027 FDD - 80, 200, 400 or 800 KB - Optional hard disk",
+  "numGames": "",
+  "peripherals": "3 internal expansion slots",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

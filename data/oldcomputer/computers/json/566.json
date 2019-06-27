@@ -1,0 +1,60 @@
+{
+  "name": "Vector 1",
+  "manufacturer": "Vector Graphics",
+  "type": "Professional Computer",
+  "origin": "U.S.A.",
+  "year": "August 1976",
+  "production": "Unknown",
+  "language": "None",
+  "keyboard": "Depends on the video terminal used",
+  "cpu": "Intel 8080A",
+  "speed": "2 Mhz",
+  "coprocessor": "",
+  "ram": "1 Kb. expandable to 64 Kb.",
+  "vram": "",
+  "rom": "512 bytes (Bootstrap)",
+  "text": "Commonly 80 characters x 25 lines",
+  "graphics": "",
+  "colors": "Monochrome",
+  "sound": "No built-in speaker",
+  "size": "Unknown",
+  "ports": "18 S-100 bus connectors",
+  "power": "Built-in PSU 8 Volts 18 Amp. and 16 Volts 2.5 Amp.",
+  "price": "Unknown",
+  "description": "\nThe Vector 1 was a clone of the ALTAIR 8800 based on the common S-100 bus structure and the Intel 8080A microprocessor. It was sold under kit or assembled versions.\n\nVector Graphics said it offered a stronger cabinet and a well-designed power supply. To reduce selling price, front panel didn\u0027t offer any switch or control led. In its basic version, the computer could be connected to a tape recorder and a serial terminal and offered a bootstrap ROM monitor.\n_______________________",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1+ VERSION\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The 1+ is no more than the 1 version in which has been added an housing for a 5\u0027\u00271/4 F.D. drive.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Vector_Vector1Plus_System_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MEMORY BOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Vector Graphics also sold various cards for any S-100 systems. This one is a 8 Kb. static RAM card solded for $265 in kit version and $350 assembled.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/VectorGraphics_Vector1_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1977 ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/VectorGraphics_Vector1_Advert_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d799",
+    "computer.asp?st\u003d1\u0026amp;c\u003d797",
+    "computer.asp?st\u003d1\u0026amp;c\u003d247",
+    "http://www.vectorgraphics.org.uk",
+    "http://h-net.msu.edu/cgi-bin/wa?A0\u003dVECTOR-GRAPHIC"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/VectorGraphics_Vector1_System_1.jpg",
+  "builtInGames": "None",
+  "controllers": "",
+  "media": "None",
+  "numGames": "",
+  "peripherals": "S-100 bus cards",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

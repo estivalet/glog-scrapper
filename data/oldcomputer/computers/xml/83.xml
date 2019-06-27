@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computer>
+    <adverts>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;FIRST AD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;February 1983&amp;lt;br&amp;gt;&amp;lt;br&amp;gt; Advert said:&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;#666666&amp;quot;&amp;gt; For years, people have been trying to build a better Apple II.&amp;lt;br&amp;gt; It finally happened.&amp;lt;br&amp;gt; Meet the Apple IIe, an impressive new version of a most impressive machine.&amp;lt;br&amp;gt; The 'e' means enhanced. Which means a bundle of new features...&amp;lt;/font&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/Apple_2e_Advert_1.jpg</link>
+        </advert>
+    </adverts>
+    <batteries></batteries>
+    <builtInGames>Basic</builtInGames>
+    <buttons></buttons>
+    <colors>16 maximum</colors>
+    <controllers></controllers>
+    <coprocessor></coprocessor>
+    <cpu>MOS 65c02</cpu>
+    <description>
+After having sold more than 750,000 Apple II and II+ systems, making it one of the best-selling brands in the global computing market, Apple released an updated version of the II+, the Apple IIe ('e' standing for enhanced).
+
+It also met with very great success and was widely used in schools (still in use nowadays in some places!). 
+
+While retaining the previous model's capabilities and software library, the enhanced version featured a revised logic board, keyboard and case design. Since its launch back in 1977, the Apple had been revised 13 times, but never so drastically as with this model. The IIe used only 1/4 as many integrated circuits as the II+. Its keyboard featured 4 cursor keys and a lockable lid.
+
+It was originally delivered with DOS 3.3 (the Apple II operating system) and later with PRODOS. The Apple IIe borrowed some features from the Apple III, 80-column text and lowercase support.
+
+The Apple IIe was replaced with the enhanced Apple IIe in 1985, which had 128k RAM, 32k ROM, improved support for 80-column text and lowercase characters, and was powered by the 65C02 CPU, the same as the Apple IIc one.
+
+Finally in 1987, Apple released the Apple IIe Platinum, also called Extended Keyboard IIe, which had a new keyboard and other minor hardware changes.
+ 
+
+
+</description>
+    <emulators>
+        <emulator>
+            <description>Emulates Apple IIe system including hard disk, clock, CP/M card, etc.</description>
+            <link>http://www.geocities.com/APL24WIN/index.html</link>
+            <name>Apple Oasis</name>
+            <platform>Windows emulator</platform>
+        </emulator>
+        <emulator>
+            <description>A great apple 2+ and apple 2e emulator for windows</description>
+            <link>http://applewin.berlios.de/</link>
+            <name>AppleWin</name>
+            <platform>Windows emulator</platform>
+        </emulator>
+        <emulator>
+            <description>Apple IIe emulator with source code in C++</description>
+            <link>http://www.jantzer-schmidt.de/applewin/</link>
+            <name>AppleWin</name>
+            <platform>Windows emulator</platform>
+        </emulator>
+        <emulator>
+            <description>(Available for BeOS too)</description>
+            <link>http://www.bernie.gs/Bernie/</link>
+            <name>Bernie ][ the rescue</name>
+            <platform>Apple emulator</platform>
+        </emulator>
+        <emulator>
+            <link>http://www.radix.net/~cklipsch/ctkgdoc/</link>
+            <name>Catakig</name>
+            <platform>Apple emulator</platform>
+        </emulator>
+        <emulator>
+            <link>http://quark.netfront.net:6502/</link>
+            <name>YAE, Yet another Apple ][ Emulator</name>
+            <platform>Unix / Linux emulator</platform>
+        </emulator>
+        <emulator>
+            <link>http://www.uni-mainz.de/~bauec002/SSMain.html</link>
+            <name>The Official ShapeShifter Home Page</name>
+            <platform>Amiga OS emulator</platform>
+        </emulator>
+        <emulator>
+            <description>PalmApple is an open source Apple //e emulator for PalmOS PDAs</description>
+            <link>http://palmapple.sourceforge.net/</link>
+            <name>PalmApple</name>
+            <platform>Other platform emulator</platform>
+        </emulator>
+        <emulator>
+            <description>This web site uses an ActiveX application and Apple IIgs emulator to automatically download and play most Apple 2 disk images online! </description>
+            <link>http://www.virtualapple.com/</link>
+            <name>Virtual Apple</name>
+            <platform>Other platform emulator</platform>
+        </emulator>
+        <emulator>
+            <description>Apple II (II+, IIe) emulator for DOS and Unix with C source code</description>
+            <link>http://sourceforge.net/projects/dapple/</link>
+            <name>Dapple</name>
+            <platform>Multiplatform emulator</platform>
+        </emulator>
+    </emulators>
+    <graphics>40 x 40-48 (16 col), 280 x 160-192 (6 col), 560 x 160-192 (2 col)</graphics>
+    <gun></gun>
+    <hardwares>
+        <hardware type="CARDS">
+            <items>
+                <item>
+                    <description>Workstation Card |||Appletalk card|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;WORKSTATION CARD &amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;Appletalk card&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This card is used to connect an Apple IIe to a localtalk network. &amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/apple_II_card_appletalk.jpg</photo>
+                </item>
+                <item>
+                    <description>Z80 Softcard advert||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;Z80 SOFTCARD ADVERT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The Z80 Softcard made the Apple II fully compatible with the CP/M operating system and allowed it to run the largest library of professional software of the time, including the Microsoft programming languages, among them the  BASIC 5.0 interpreter. &amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/Apple_II_Softcard_1.jpg</photo>
+                </item>
+                <item>
+                    <description>Z80 SoftCard|||Full package|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;Z80 SOFTCARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;Full package&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The card was designed by Burtronix of Orange, California. &amp;lt;p class=&amp;quot;petitgris&amp;quot;&amp;gt;Thanks to &amp;lt;b&amp;gt;Steve Perry&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/Apple_II_Softcard_s1.jpg</photo>
+                </item>
+                <item>
+                    <description>Microsoft Ramcard advert (1982)||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;MICROSOFT RAMCARD ADVERT (1982)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Together with the Softcard, the Ramcard turned the Apple II into a 56 KB CP/M system.&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/Apple_II_Ramcard_1.jpg</photo>
+                </item>
+            </items>
+        </hardware>
+        <hardware type="GAMES">
+            <items>
+                <item>
+                    <description>Joysticks||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;JOYSTICKS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Two Apple joysticks for IIe and IIc versions, and a clone version with a fire button made by CH Products, San Marco, California.&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/Apple_II_Joystick_1.jpg</photo>
+                </item>
+                <item>
+                    <description>Analog Handcontrollers||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;ANALOG HANDCONTROLLERS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/Apple_2e_Handcontr_2.jpg</photo>
+                </item>
+                <item>
+                    <description>Hand controllers|||Box|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;HAND CONTROLLERS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;Box&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/apple_hand-controllers_box.jpg</photo>
+                </item>
+                <item>
+                    <description>Joy Stick||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;JOY STICK&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/apple2_joy_stick.jpg</photo>
+                </item>
+            </items>
+        </hardware>
+        <hardware type="MISC">
+            <items>
+                <item>
+                    <description>Graphic Tablet|||&amp;amp; its card|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;GRAPHIC TABLET&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;&amp;amp; its card&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/apple_apple2_graphic-tablet.jpg</photo>
+                </item>
+                <item>
+                    <description>Keypad||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;KEYPAD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/apple_apple2_keypad.jpg</photo>
+                </item>
+                <item>
+                    <description>Dynatyper||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;DYNATYPER&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Here is the sale brochure of the Dynatyper, a strange and obscure printing device launched in 1980:&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;#666666&amp;quot;&amp;gt; Dynatyper is a new typewriter interface system designed to generate hard copy directly from computer output through any electric typewriter. It exploits the high quality and use of full upper and lower case characters of your electric typewriter. Users of small computer systems can now expand those systems into applications demanding high quality text, such as word processing.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt; Consisting of an array of coils positioned in the same pattern as the typewriter's keyboard. These coils are wired into an electrical decoding matrix. Designed to operate on voltage available from standard computers, the Dynatyper is easily installed without modification to your typewriter. Adjustments for different key heights are easy.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt; Rochester Data provides interfaces and software for the &amp;lt;b&amp;gt;TRS-80 Level 1 &amp;amp; 2&amp;lt;/b&amp;gt;, the &amp;lt;b&amp;gt;Apple II&amp;lt;/b&amp;gt; and also a 6 bit &amp;lt;b&amp;gt;parallel interface&amp;lt;/b&amp;gt; for general operation with other computers. The same interface board can be modified by jumper selection to eperate in any of the above modes... &amp;lt;/font&amp;gt;&amp;lt;p class=&amp;quot;petitgris&amp;quot;&amp;gt;Thanks to &amp;lt;b&amp;gt;Bob Leedom&amp;lt;/b&amp;gt; for information and pictures&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/Apple_II+_Dinatyper_1.jpg</photo>
+                </item>
+            </items>
+        </hardware>
+        <hardware type="MUSIC / SOUND">
+            <items>
+                <item>
+                    <description>Echo Speech Processor II||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;ECHO SPEECH PROCESSOR II&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/apple_appleII_echoII_board.jpg</photo>
+                </item>
+                <item>
+                    <description>Roland CMU-500 Interface||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;ROLAND CMU-500 INTERFACE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This item, a Roland Compumusic CMU-500 Apple II Interface, was used to connect musical instruments to the Apple II series of computers !&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/apple_apple2_roland-cmu500_interface.jpg</photo>
+                </item>
+                <item>
+                    <description>Echo II|||speech/music/sound synthesizer|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;ECHO II&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;speech/music/sound synthesizer&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/apple_apple2_echo2-speech-synth_1.jpg</photo>
+                </item>
+            </items>
+        </hardware>
+        <hardware type="NETWORK">
+            <items>
+                <item>
+                    <description>Acoustic coupler||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;ACOUSTIC COUPLER&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/apple_apple2_acoustic-coupler_1.jpg</photo>
+                </item>
+            </items>
+        </hardware>
+        <hardware type="PRINTERS">
+            <items>
+                <item>
+                    <description>Early Apple printer||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;EARLY APPLE PRINTER&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/apple_apple2_printer1.jpg</photo>
+                </item>
+            </items>
+        </hardware>
+        <hardware type="STORAGE">
+            <items>
+                <item>
+                    <description>Duodisk|||Dual 5.25&amp;quot; floppy drives unit|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;DUODISK&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;Dual 5.25&amp;quot; floppy drives unit&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;No innovation in this Duodisk released a few months after the Apple IIe. The Japanese slim drives are still sigle side and have the same capacity as the original Disk II, 143 KB divided in 35 tracks x 16 sectors x 256 bytes.&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/Apple_2e_Duodisk_s1.jpg</photo>
+                </item>
+                <item>
+                    <description>Amdisk 3|||Dual 3'' floppy disc unit|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;AMDISK 3&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;Dual 3'' floppy disc unit&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This first version of the Japanese Amdisk unit featured one or two 3&amp;quot;/360 KB floppy disc drives. &amp;lt;br&amp;gt; Besides Apple IIe version, several versions were marketed for various computers: Commodore 64, Atari 520, Sinclair Spectrum...&amp;lt;br&amp;gt; Later, 3&amp;quot; drives were replaced with 3.5&amp;quot;/720 KB models.&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/Apple_2e_Amdisk3.jpg</photo>
+                </item>
+            </items>
+        </hardware>
+    </hardwares>
+    <image>http://www.old-computers.com/museum/photos/apple_IIe.jpg</image>
+    <keyboard>Full stroke 52 key with cursor keys</keyboard>
+    <language>Basic</language>
+    <links>
+        <link>computer.asp?st=1&amp;amp;c=68</link>
+        <link>computer.asp?st=1&amp;amp;c=1031</link>
+        <link>computer.asp?st=1&amp;amp;c=571</link>
+        <link>computer.asp?st=1&amp;amp;c=69</link>
+        <link>computer.asp?st=1&amp;amp;c=36</link>
+        <link>computer.asp?st=1&amp;amp;c=977</link>
+        <link>computer.asp?st=1&amp;amp;c=947</link>
+        <link>http://www.wbwip.com/a2web/</link>
+        <link>http://www.cs.ruu.nl/wais/html/na-dir/apple2/emulators-faq/part1.html</link>
+        <link>http://www.apple-iigs.info/home.htm</link>
+        <link>http://apple2history.org/</link>
+        <link>HTTP://WWW.MYSPACE.COM/135780133</link>
+        <link>http://www.apple2.org/</link>
+        <link>http://www.applefritter.com/</link>
+        <link>http://www.apple-history.com/</link>
+        <link>http://apple2.tffenterprises.com/apple2/</link>
+        <link>http://perso.wanadoo.fr/fabrice.montupet/</link>
+        <link>http://ground.icaen.uiowa.edu/apple2/</link>
+        <link>http://www.apple2clones.com/</link>
+        <link>ftp://ftp.apple.asimov.net/pub/apple_II/images/</link>
+        <link>news:comp.binaries.apple2</link>
+        <link>news:comp.emulators.apple2</link>
+        <link>news:comp.sources.apple2</link>
+        <link>news:comp.sys.apple2</link>
+        <link>news:comp.sys.apple2.comm</link>
+        <link>news:comp.sys.apple2.marketplace</link>
+        <link>news:comp.sys.apple2.programmer</link>
+        <link>news:comp.sys.apple2.usergroups</link>
+    </links>
+    <manufacturer>Apple</manufacturer>
+    <media>None</media>
+    <name>APPLE IIe</name>
+    <numGames></numGames>
+    <origin>U.S.A.</origin>
+    <peripherals>Lots of expansion cards and peripherals</peripherals>
+    <ports>Monitor, Internal Slots (6), Memory slot, Tape, Joystick</ports>
+    <power>Built-in switching power supply unit</power>
+    <price>?1270</price>
+    <production>1993</production>
+    <ram>64 KB</ram>
+    <rom>16 KB</rom>
+    <screenshots>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;IIE CASE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Apple_2e_Case_s1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;IIE LOGO&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Apple_2e_Logo_s1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;COMPLETE SYSTEM&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Apple IIe along with the Apple monochrome monitor and two FDD units.&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Apple_2e_CompleteSys_s1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;INSIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Apple_2e_Inside_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;MOTHERBOARD EXPLAINED&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The Apple IIe board represents a major hardware improvement, compared to previous Apple II boards. Two specialized chips replace more than 60 circuits, and an additional slot makes it easier to upgrade the user RAM to 128 Kb. &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(1)&amp;lt;/b&amp;gt; Composite video Output for B&amp;amp;W monitor.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(2)&amp;lt;/b&amp;gt; Auxiliary video connector. &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(3)&amp;lt;/b&amp;gt; Joystick connector. &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(4)&amp;lt;/b&amp;gt; Chipset in charge of input-outputs, called IOU . &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(5)&amp;lt;/b&amp;gt; Keyboard connector. &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(6)&amp;lt;/b&amp;gt; Mouse connector. &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(7)&amp;lt;/b&amp;gt; ROM memory holding the keyboard character generator. This circuit is specific to each country and keyboard. &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(8)&amp;lt;/b&amp;gt; ROM memory holding the display character generator.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(9)&amp;lt;/b&amp;gt; 64 KB user RAM memory. &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(10)&amp;lt;/b&amp;gt; Additional expansion connector linked to port 3. Specific to APPLE IIe and intended for the 64 KB expansion memory card. &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(11)&amp;lt;/b&amp;gt; Integrated loudspeaker connector. &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(12)&amp;lt;/b&amp;gt; 8-bit 6502 microprocessor. &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(13)&amp;lt;/b&amp;gt; Specialised chipset called MMU, in charge of the user RAM and 80-column mode management.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(14)&amp;lt;/b&amp;gt; Power supply connector.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(15)&amp;lt;/b&amp;gt; Expansion card slot Nr. 1, generally reserved for the printer.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(16)&amp;lt;/b&amp;gt; Expansion card slot Nr. 7, generally reserved for video cards. &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(17)&amp;lt;/b&amp;gt; Analog input connector, generally reserved for Apple or compatible joysticks.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(18)&amp;lt;/b&amp;gt; Tape recorder (data input) socket.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(19)&amp;lt;/b&amp;gt; Tape recorder (data output) socket.&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Apple_2e_MotherBoard_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;MOTHERBOARD PROTOTYPE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;One of the Apple IIe engineering prototype wire-wrap boards.&amp;lt;br&amp;gt; The custom chips (IOU and MMU) are emulated with a whole lot of standard logic 7400-series chips located on the left board.&amp;lt;br&amp;gt; The right board is the Apple IIe main board prototype.   &amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Apple_2e_ProtoBoard_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;THE 256 KB EXPANSION CARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/256kappl.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;THE APPLE II EMULATION CARD FOR MACINTOSH LC&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Ct2lc2.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;THE MACINTOSH LC EMULATING THE APPLE IIE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Shortly after Apple stopped the production of the Apple IIe, they replaced it with the Macintosh LC as a &amp;quot;home&amp;quot; computer. To use Apple IIe software on the Mac LC, Apple developed a small Apple IIe emulation card (left photo). In the right photo, you can see Apple IIe software running on the Mac LC. &amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Ct2lc1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;IIGS UPGRADE #1&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;When the Apple IIgs was first launched, Apple offered for a short time an upgrade kit allowing Apple IIe owners to convert their system to a IIgs version while keeping the same case. The kit included a new base designed to match the IIgs motherboard, an external numeric keypad and a label kit for the case lid.  &amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Apple_2e_Gs_MotherBoard_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;IIGS UPGRADE #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The new back panel with Apple IIgs specific connectors&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Apple_2e_Gs_back_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;IIGS UPGRADE #3&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Yes, it's an Apple IIgs!&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Apple_2e_Gs_Label_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;IIGS UPGRADE #4&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The numeric keypad was part of the upgrade kit.&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Apple_2e_Gs_NumPad_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;THE BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Apple_2e_Box_s1.jpg</link>
+        </shot>
+    </screenshots>
+    <size>39.4 (W) x 45.7 (D) x 11.4 (H)</size>
+    <sound>one channel - Built-in speaker</sound>
+    <speed>1.02 MHz</speed>
+    <switches></switches>
+    <text>40 x 24 / 80 x 24 (with 80 columns card)</text>
+    <type>Home Computer</type>
+    <vram></vram>
+    <year>January 1983</year>
+</computer>

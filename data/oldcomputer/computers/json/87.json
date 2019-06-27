@@ -1,0 +1,184 @@
+{
+  "name": "MZ 700",
+  "manufacturer": "Sharp",
+  "type": "Home Computer",
+  "origin": "Japan",
+  "year": "1983",
+  "production": "",
+  "language": "None - Monitor in ROM",
+  "keyboard": "Full stroke 69 key with 5 function keys and 4 cursor keys",
+  "cpu": "Sharp LH-0080 (Zilog Z80 A compatible)",
+  "speed": "4 MHz",
+  "coprocessor": "",
+  "ram": "64 KB",
+  "vram": "2 KB",
+  "rom": "2 KB",
+  "text": "40 x 25",
+  "graphics": "50 x 80",
+  "colors": "8",
+  "sound": "one channel, 3 octaves",
+  "size": "44 (W) x 30.5 (D) x 8.5 (H)",
+  "ports": "Parallel, Joystick (2), Z80 Bus, Tape, RGB",
+  "power": "Built-in power supply unit (5V)",
+  "price": "About  533  (1983) for the MZ 721?250 (MZ-711)?420 (MZ-731)",
+  "description": "\nThe Sharp MZ 700 series replaced the aging MZ 80 (MZ 80K, MZ 80A and MZ 80B) series. Moreover, the MZ 700 was compatible with the MZ 80K and MZ 80A.\n\nThe MZ 700 series is composed of four machines: the first three models were launched in 1983 (November 1982 in Japan) and the last one was launched in late 1985 (in fact, this one is the \u0026quot;ancestor\u0026quot; of the MZ 800):\n\n- the MZ 711 was the \u0026quot;naked\u0026quot; model (without any peripheral),\n- the MZ 721, has an integrated tape recorder\n- the MZ 731, has built-in plotter and tape recorder).\n- the fourth model was the MZ 780 which was actually a MZ 731 with a 80 columns card, a floppy disk drive and a Centronics port. It worked under CP/M.\n\nThere was no language in ROM (the ROM size is only 2 KB, it is just used for boot and OS calls), it has to be loaded from tape. So there was a lot of languages adapted for this machine (more than five versions of BASIC, assemblers, Pascal, Lisp, C, Fortran, Comal, Forth, \u0026amp; others).\n\nThe games were a bit poor because of the low resolution (which was actually graphical characters), but there were 512 graphic characters in ROM, which can be used to offset it (sort of).\n\nIt will be replaced with the MZ 800.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRONT VIEW\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/sharp_mz700_front_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SIDE VIEW\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/sharp_mz700_side1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SIDE #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/sharp_mz700_side_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;A SHARP MZ730 WITH A MZ-800 PLOTTER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;It appears that the external MZ 800 white plotter can be inserted directly onto the case of the MZ 700, but it doesn\u0027t fit entierly into that case.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/mz700etplotter.JPG"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MZ-730 SYSTEM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;MZ-730 system with integrated tape recorder and 4 colors plotter/printer (without cover)\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Sharp_MZ730_System_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR VIEW\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/sharp_mz700_rear.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/sharp_mz700_rear_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR #3\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/sharp_mz700_rear_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MOTHERBOARD EXPLAINED\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;A well designed board with a very good display quality. However, graphic capacities were missing, as well as a better compatibility with the standards of the market (real Centronics printer and Atari joysticks) \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; System init button (Reset).\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; Speaker volume adjustment.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; Parallel interface, not really Centronics compatible, for Sharp printers.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(4)\u0026lt;/b\u0026gt; Z80-A Microprocessor manufactured by Sharp.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(5)\u0026lt;/b\u0026gt; Connector for expansion unit.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(6)\u0026lt;/b\u0026gt; Connector for the integrated cassette recorder.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(7)\u0026lt;/b\u0026gt; Connectors for Sharp joysticks.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(8)\u0026lt;/b\u0026gt; Two jack plugs for an external cassette recorder.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(9)\u0026lt;/b\u0026gt; RGB DIN Video output.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(10)\u0026lt;/b\u0026gt; Switch which reverses the cassette recording phase.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(11)\u0026lt;/b\u0026gt; Specialized Sharp chipset which manages video display and video memory.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(12)\u0026lt;/b\u0026gt; Characters generator Rom circuit.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(13)\u0026lt;/b\u0026gt; Keyboard connector.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(14)\u0026lt;/b\u0026gt; Interface chip in charge of tape recorder and keyboard management.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(15)\u0026lt;/b\u0026gt; Clock chip for internal synchronization between various chips.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(16)\u0026lt;/b\u0026gt; Chips holding 64 Kb. of RAM memory for the user programs.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(17)\u0026lt;/b\u0026gt; ROM holding the basic input/Output routines and the monitor.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(18)\u0026lt;/b\u0026gt; Loudspeaker connector.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(19)\u0026lt;/b\u0026gt; Main power plug.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(20)\u0026lt;/b\u0026gt; This switch allows the selection between the integrated plotter/printer or an external dot matrix printer.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(21)\u0026lt;/b\u0026gt; Integrated plotter/printer connector.\u0026lt;br\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Sharp_MZ700_Motherboard_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;THE SHARP MZ 730 BUILT-IN PLOTTER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;It has four colors (green, blue, black and red) and has three text modes : 26, 40 and 80 columns, it can then replace the video display, however, the plotter can\u0027t print graphical characters but print its hexadecimal ascii code instead. It can print grahics with a resolution of 480 x 2000, some graphical functions have been added to the Basic to print high resolution graphics.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/shk7.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;THE SHARP MZ 720 / 730 BUILT-IN TAPE RECORDER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;It reads and writes at 1200 bauds.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/trac.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DUST COVER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Found in USA, not made by Sharp. \u0026lt;br\u0026gt; Can be used as a carrier bag with a handle. \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Sharp_MZ700_DustCover_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BOX\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/sharp_mz700_box_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;:-)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sharp_mz700_screen2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN AD #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Welcome in the world of the \u0026quot;clean\u0026quot;-computers\u0026quot;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;www.sharpmz.org\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sharp_MZ700_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN AD #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Large achievement capability and high versatility with 64kb RAM.\u0026quot;  \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;www.sharpmz.org\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sharp_MZ700_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN AD #3\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Part of a software advert\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;www.sharpmz.org\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sharp_MZ700_Advert_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN AD #4\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;www.sharpmz.org\u0026lt;/b\u0026gt; \u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sharp_MZ700_Advert_4.jpg"
+    }
+  ],
+  "hardware": [
+    {
+      "type": "EXPANSIONS",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Sharp_MZ700_TriplerInterf_s1.jpg",
+          "description": "Bus expander||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BUS EXPANDER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This Trippler expander allowed to add peripherals on the three free sides of the box:\u0026lt;br\u0026gt; \u0026bull; A ROM cartridge at left side\u0026lt;br\u0026gt; \u0026bull; an RS-232 interface at top side\u0026lt;br\u0026gt; \u0026bull; a Quick Disk interface at right side.\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "MASS STORAGE",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Sharp_MZ80B_FrenchFDD_s1.jpg",
+          "description": "French FDD unit||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH FDD UNIT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Instead of selling the original Sharp FDD unit, the Sharp French subsidiary (Sharp Burotype Machines) preferred to made their own unit. The case could hold up to 4 drives. The drives were Canon models.\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/sharp_mz800_fdd.jpg",
+          "description": "MZ-1F11 QDD||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MZ-1F11 QDD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The MZ 700 can use the MZ 800 Quick Disk Drive. The QDD uses 2.8\u0026quot; floppy disks (64 Kb / two sides). It needs the MZ-1E14 interface card to connect it on the MZ 700 bus (shown on photo).\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "PRINTERS",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/sharp_mz80k_printer.jpg",
+          "description": "MZ 80P3 - Dot Matrix Printer||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MZ 80P3 - DOT MATRIX PRINTER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/sharp_printer_80b.jpg",
+          "description": "MZ-P4 Printer||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MZ-P4 PRINTER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/sharp_mz80_gp6.jpg",
+          "description": "MZ-P6 Printer||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MZ-P6 PRINTER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    }
+  ],
+  "emulator": [
+    {
+      "platform": "Windows emulator",
+      "name": "EMUZ-2000",
+      "link": "http://www5d.biglobe.ne.jp/~object/",
+      "description": "SHARP MZ-80B / 2000 / 2200 emulator for Windows"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "MZ 700 Emulator",
+      "link": "http://www.mars.dti.ne.jp/~marukun/mz700/index.html",
+      "description": "For Win9x / Me / 2K / NT"
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d415",
+    "computer.asp?st\u003d1\u0026amp;c\u003d781",
+    "computer.asp?st\u003d1\u0026amp;c\u003d416",
+    "computer.asp?st\u003d1\u0026amp;c\u003d417",
+    "computer.asp?st\u003d1\u0026amp;c\u003d296",
+    "computer.asp?st\u003d1\u0026amp;c\u003d208",
+    "computer.asp?st\u003d1\u0026amp;c\u003d172",
+    "computer.asp?st\u003d1\u0026amp;c\u003d173",
+    "computer.asp?st\u003d1\u0026amp;c\u003d418",
+    "computer.asp?st\u003d1\u0026amp;c\u003d174",
+    "computer.asp?st\u003d1\u0026amp;c\u003d295",
+    "http://www.sharpmz.org",
+    "http://www.shiojiri.ne.jp/~openspc/mz700/index.html",
+    "http://sharpgames.atspace.com",
+    "http://sharpusersclub.org",
+    "http://www.sharpmz.org"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/sharp_mz700_side2.jpg",
+  "builtInGames": "None - Monitor in ROM",
+  "controllers": "",
+  "media": "Tape recorder",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

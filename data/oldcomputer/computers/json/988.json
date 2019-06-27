@@ -1,0 +1,168 @@
+{
+  "name": "8D",
+  "manufacturer": "Pravetz",
+  "type": "Home Computer",
+  "origin": "Bulgaria",
+  "year": "1985",
+  "production": "1989",
+  "language": "Basic",
+  "keyboard": "Full stroke 57 keys Qwerty + cyrillic",
+  "cpu": "CM630 - Bulgarian copy of the 6502",
+  "speed": "1 mHz",
+  "coprocessor": "",
+  "ram": "",
+  "vram": "",
+  "rom": "",
+  "text": "40 columns  x 28 lines",
+  "graphics": "240 x 200 (+ 3 text lines)",
+  "colors": "8",
+  "sound": "Programmable Sound Generator AY-3-8912 (from General Instruments)3 voices, 8 octaves + white noise",
+  "size": "35 (W) x 25 (D) cm",
+  "ports": "Power supply, Expansion port, Printer/Centronics port, Tape-recorder DIN plug, RGB video out, RF TV out",
+  "power": "Built-in power supply unit",
+  "price": "420 levs (Bulgaria, 1985)",
+  "description": "\nThe Pravetz 8D was a Bulgarian clone of the Oric Atmos featuring a Bulgarian version of the 6502 processor called CM630, 16 KB of ROM and 48 KB of RAM\n\nThe keyboard was almost the same as the original Atmos version, including a MK key, similar to the CTRL key, a C/L key allowing to display Cyrillic or Latin alphabets, and cursor keys. As in Pravets 82 (etc), the original lowercase characters were replaced by cyrillic characters and the C/L lock key, was the CAPS LOCK key of the Oric Atmos.\n\nLike the original Atmos, The 8D had two modes of recording : Fast mode at 2400 bits/sec. and slow mode at 300 bits/sec.\n\nThe computer also featured a parallel Centronics interface and a user port. Pravetz provided a local dot matrix printer called \u0026quot;Petritch\u0026quot; but the popular Epson printers could be also connected to the 8D.\n\nThe \u0026quot;D\u0026quot; after Pravets 8 stays for \u0026quot;???????\u0026quot; (Domashen \u003d For home use), and the idea was, that it should be used without having to buy any peripherals - monitor (which couldn\u0027t be connected through composite video to a Pravets 8D without modification) and FDD (cassete recorder used instead).\n\nFloppy drives, modem and joysticks were also available. Floppy disk drives  were very hard to find (in fact they appeared only in the early nineteens). They were a modification of the Pravetz 82 FDDs but with a built-in controller, making them two times bigger. Probably that was one of the reasons why Pravetz 8D never achieved the popularity ot Pravetz 8 (despite of the 3 times lower price).\n\nThere were in fact two ways to have floppy disk drives for the Pravetz 8D. One was indeed to use Pravetz 82 FDD and to develop an additional controller + power supply (the schematic and firmware were published in \u0026quot;Computer for you\u0026quot; magazine). There was an operating system called DOS 8D, developed in Bulgaria by Borislav Zahariev.\n\nLater, Pravetz factory decided to develop special FDD for the 8D, which was bundled with the controller and the power supply in a box twice bigger than the normal Apple ][ floppy. It came out on market when the production of the computer itself was finished! It used also modified version of DOS 8D for DIY floppy.\n\nThe computer was very well crafted and the survived systems often look as new.\n\n___________\n\nContributed to this page : Bozhidar Stefanov, Jordan,  anonymous visitor\n\nPeter Petrov reports:\n\nROM\nThere are several rom images of the basic in Pravetz. If you wand disk emulation you need 8DControllerROM and use CALL#320 command.\n\nRAM\nWith Basic you have 48 K RAM to work, but with this little schematics you can use additional 16K. The signals that you need for proper work are these.\nOne trigger is used to form MAP signal, but second is free to use additional thing. If you realise schematis of disk controller below you can use these schematics together to load 8DDOS v2.10 in additional RAM.\nYou must use write operation in these adresses to use the controller:\n\n#380 - writing in additional RAM - additional thing is off\n#381 - writing and reading in additional RAM - additional thing is off\n#382 - writing in additional RAM - additional thing is on\n#383 - writing and reading in additional RAM - additional thing is on\nfor \u0026quot;additional thing\u0026quot; see Disk controller section\n\nSo, if you realise this little controller you can use:\nFOR I \u003d #C000 TO #CFFF : POKE I,0 : NEXT - clearing first 4K of additional RAM\nor you can move the basic interpreter in additional memory and use:\nPOKE #381,0\nto go in RAM interpreter and make changes in it.\n\nDISK CONTROLLER\n\nIf you have Apple ][ floppy drive and disk controller you can use this schematics to connect them to your Pravetz (Oric). The schematics is from two parts:\nbuffers\ncontroller\nThe signals for proper work of the controller are here:\nYou can change the signal Q with changing the resistors of monovibrator 74LS123.\nThe record of EPROM is here:\nYou must write it from addres #20 of the EPROM.\n\nConnecting RAM controller and disk controller:\nyou can connect these controllers by this way:\npin 9 of 74LS74 is connecting to A8 addres bar of 2716 EPROM, so the \u0026quot;additional thing\u0026quot; is second page of the EPROM, where is the program of loading DOS 8D v.2.1 into additional RAM. (The record of the EPROM above is exatly for first and second page).\n\nSOFTWARE\n\nThe versions of the DOS I have are:\nDos 8D v1.0 - you can use it if you realise only the schematics of the disk controller, but this versions loads in normal RAM, so it is unusable with long games.\nDos 8D v.2.1 - you can use it if you realise the two schematics and connect them. So - dos loads in additional RAM  and you can use all the programs you have.\nYou can use regular Oric software in Pravetz 8D, but you have not regular letters. You have cyrillic letters instead. Changing of the keyboard maps is with Ctrl-T.\nThere are some games for Pravetz like SnakeByte, Tetris (exellent clone) and other. Most of them are from Bulgarian computer magazine \u0026quot;Computer for you\u0026quot;. There is 80 column text editor, Disk copier program and the most beautiful - Borislav Zahariev ported BigMac Assembler from Apple ][ to Pravetz, so you can use if you realise schematics above. Soon I hope you will see this software here.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PRAVETZ 8D\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to joro_dramchev ( Ebay seller) for this picture.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Pravetz_8D_system_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CLOSE-UP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Notice that the keyboard allows to use Latin or Cyrillic alphabet\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy \u0026lt;b\u0026gt;http://bulgariancomputers.freeservers.com/mycomputers/\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Pravetz_8D_system_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR CONNECTORS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to joro_dramchev ( Ebay seller) for this picture.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Pravetz_8D_system_rear.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BOOT SCREEN\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to joro_dramchev ( Ebay seller) for this picture.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Pravetz_8D_system_boot.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The hardware design was really close to the Atmos one. The same ULA chip (copy?) was used. Contrary to the Atmos, the PSU was located inside the case.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy \u0026lt;b\u0026gt;http://bulgariancomputers.freeservers.com/mycomputers/ \u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Pravetz_8D_Inside_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ARMENIAN SUPPORT LANGUAGE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;A tape program allows the use of specific Armenian characters.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Pravetz_8D_Armenian_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ARMENIAN TRANSLATION\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Only for Armenian language specialists...... \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Mattias Persson\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Pravetz_8D_Armenian_2.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LISA ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;He is rich (enough to buy a LISA !), he is relaxed... He is the typical advertising executive of the 80\u0027s.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Lisa_Advert_bind.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ITALIAN AD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;I bellissimi...\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;http://angelmemories.cjb.net/\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Commodore_600_AdItaly_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT OCT. 1983\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert says:\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; Never before in the history of modern computers has there been available a totally portable machine with the ability to cope with so many demands, to so many people, in so many different business areas.\u0026lt;br\u0026gt; Epson, with over 20 years experience in designing and manufacturing high quality printers, have produced the HX-20, a precision machine with its own rechargeable power supply that can be used for just about any task within to days discerning business: from data capture to word processing, from card indexing to sales order entry.\u0026lt;br\u0026gt; Communicating with other machines is no problem and the HX-20 is easily coupled to one of our fine printers. You can even link in another main computer system by using an acoustic coupler.\u0026lt;br\u0026gt; Don\u0027t be fooled by its size, the HX-20 has all the software back-up you\u0027d expect from a much larger machine and incorporates many \u0026quot;bigger computer\u0026quot; features - 16k RAM expandable to 32k with serial interfaces, a full size typewriter keyboard, it\u0027s own built in LCD screen and a dot matrix microprinter. A micro\u0026shy;cassette facility is available as an optional extra.\u0026lt;br\u0026gt; A complete computer that will either stand on its own or could be the obvious extension to your existing system.\u0026lt;br\u0026gt; More and more people are finding out just how big the small compact HX-20 is. Why don\u0027t you find out for yourself - you\u0026shy; owe it to your business.\u0026lt;/font\u0026gt; \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Epson_HX20_UKAdvert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1979)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Polymorphic_8813_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PC-60\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Photo taken from a Commodore brochure.\u0026lt;br\u0026gt; Notice that the girl seems not to be interested at all in the computer...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Commodore_PCcomp_AdvertPC60_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;You hesitate between two standards.\u0026quot;\u0026lt;br\u0026gt; \u0026quot;Rank Xerox doesn\u0027t.\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/xerox_16-8_ad_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SOFTWARE CATALOGUE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;AcornSoft software catalogue for the Electron\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Acorn_Electron_SoftCatalogue_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT. PAGE #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/symag_micromachine_4000_pub.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FIRST U.S. AD (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;A discreet advert and a nice monitor.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Basis_108_USAdvert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROMOTIONAL PICTURE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Under all pictures of the promotional guide, you can read : \u0026quot;all screenshots are real and have not been retouched\u0026quot;. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Really?\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_to7_promotional-guide_vieux.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1979)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt;... One of the results is our new identity and our new product: the Intersystems DPS-1. An IEEE S-100 compatible mainframe with features that live up to its look. \u0026lt;i\u0026gt;Dependable\u0026lt;/i\u0026gt; operation to 4 Mhz. Twenty-card capacity, a modular power supply. And something no one else has: built-in break points to give you a faster, more powerful tool for testing software as well as hardware...\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/InterSystems_Dps1_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (NOV. 1979)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is the only SILEX advert known so far... \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; It says : \u0026quot;Silex, a stone in our competitors garden.\u0026quot; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Silex means flint in french, a stone mainly used in prehistoric times as tools and weapons. \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/leanord_silex_advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BRAZILIAN ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.museo8bits.com\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;www.museo8bits.com\u0026lt;/a\u0026gt; for this advert\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/prologica_cp400_advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;F.D. UNIT ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;BBC floppy disc unit was delivered with a 8271 FD controller chip and a Filing System software in ROM to be fitted into the BBC system.\u0026lt;br\u0026gt; Two versions of F.D. units were available:\u0026lt;br\u0026gt;   - A single drive unit, single side, single density, 100 KB space.\u0026lt;br\u0026gt;   - A dual drive version, double side, double density, 800 KB space. \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;8BS.com\u0026lt;/b\u0026gt; \u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Acorn_bbc_FDadvert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (JAN. 1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Right now, your computer for today\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/ohio_superboard2_ad_electronic-jl_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (FEB. 1986)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Educatel advert for their correspondance courses using the Microlab system.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/educatel_microlab_advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (SEPT. 1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;The amazing TI-99/4A.\u0026lt;br\u0026gt; A computer for 1800fr\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/ti_ti994a_pub_incroyable-1800fr.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPANESE ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The Japanese selling price was of 58.000 yen.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Murray Moffatt\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Matsushita_jr100_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. AD #1 (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The major argument of the advert campaign was \u0026quot;we have a better and cheaper computer than Apple and IBM\u0026quot;...\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; True, but like many other computers of the time, the major fault of the Advantage was not to be an IBM system...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/NorthStar_Advantage_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;QL CATALOGUE #4\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sinclair_QL_Brochure1_s4.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1978 BROCHURE #20\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/MSI_6800_Brochure_s20.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH BROCHURE #4\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Jacques Sorro\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Oric_1_FrBrochure_s4.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (JAN. 1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/tandy_trs80-model1_ad_computercenter_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Picture courtesy of \u0026lt;a href\u003d\u0026sect;http://www.sbrowning.com/vintage\u0026sect;\u0026gt;Steve Browning, www.sbrowning.com/vintage\u0026lt;/a\u0026gt;.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sony_smc70_ad_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [
+    "http://www.sofiaprint.com/pravetz8d_bul/Pravetz%208D_bul.html"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/Pravetz_8D_system_1.jpg",
+  "builtInGames": "Basic",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "floppy disk unit, modem, dot matrix printer",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

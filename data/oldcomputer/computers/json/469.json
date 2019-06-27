@@ -1,0 +1,54 @@
+{
+  "name": "M 170",
+  "manufacturer": "Sord",
+  "type": "Professional Computer",
+  "origin": "Japan",
+  "year": "May 1978",
+  "production": "Unknown",
+  "language": "ROM monitor",
+  "keyboard": "Full-stroke keyboard. 56 keys + 18 function and numeric keypad",
+  "cpu": "Z80",
+  "speed": "2 MHz (a few cranked it up to 4)",
+  "coprocessor": "",
+  "ram": "16 KB or 32 KB (Model B)",
+  "vram": "",
+  "rom": "4 KB (Monitor program)",
+  "text": "64 chars. x 24 lines.",
+  "graphics": "ACE version: 320 x 256 monochrome or 160 x 256",
+  "colors": "8 colours",
+  "sound": "Two octaves tone generator",
+  "size": "unknown",
+  "ports": "S-100 bus, Parallel I/O, Serial (300 to 9600 baud), A/D converter, 2 x tape recorder, color or B/W monitor",
+  "power": "External power supply unit 5V/4A, 12V/0.5A (or built in the ACE extension)",
+  "price": "Basic version: 1500  ",
+  "description": "\nThe M-170 computer was originaly sold as a home computer but, as it was a very reliable system, many companies used it as a small business system. It was derived from the M-100, M-110 home systems.\n\nBasic version was supplied with a Hitachi monitor, an external power supply unit and a cassette recorder (the M-170 could manage two tape recorders simultaneously). There was no programming langage built in the computer, only a monitor including 19 commands. One of them allowed the user to load the Sord BASIC interpreter.\n\nThe ACE version used from one to three 5.25\u0026quot; - 143 KB floppy drives units with a more advanced BASIC interpreter, and a graphic display card. A FORTRAN compiler was also available.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;M110 BLOC DIAGRAM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Taken from the Sord leaflet\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Tim Mackay\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Sord_M170_Diagram_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (JAN. 1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sord_m-serie_ad_gepsi.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;M-170 ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Tim Mackay\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sord_M170_Advert_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [],
+  "image": "http://www.old-computers.com/museum/photos/Sord_M170_System_1.jpg",
+  "builtInGames": "ROM monitor",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "2 x tape recorders - 1 to 3 x 5\u0027\u00271/4 disk-drives",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

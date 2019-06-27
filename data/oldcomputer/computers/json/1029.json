@@ -1,0 +1,109 @@
+{
+  "name": "Instructor 50",
+  "manufacturer": "Signetics",
+  "type": "Professional Computer",
+  "origin": "U.S.A.",
+  "year": "1978",
+  "production": "",
+  "language": "Hexadecimal Monitor",
+  "keyboard": "1 hexadecimal keypad + 1 function keypad",
+  "cpu": "Signetics 2650",
+  "speed": "895 kHz",
+  "coprocessor": "Signetics 2656",
+  "ram": "128 bytes (used by the monitor) + 512 bytes (free for the user)",
+  "vram": "",
+  "rom": "2 KB (monitor)",
+  "text": "LED display - 1 line of 8 characters",
+  "graphics": "None",
+  "colors": "None",
+  "sound": "None",
+  "size": "35 (W) x 25 (D) x 7.5 (H) cm / 1.1 kg",
+  "ports": "Tape interface, S100 compatible expansion bus",
+  "power": "External power supply (5V or 8V depending on models)",
+  "price": "350$ (USA, 1978)",
+  "description": "\nThe Instructor 50 was a small system designed to teach the use and programmation of the Signetics 2650 CPU. But it was also a real micro-computer with a tape interface to save and load programs, and a S-100 compatible expansion bus.\n\nIt actually belonged to a second generation training computers: unlike its predecessors, it wasn\u0027t just a raw electronic board, but offered a real plastic case, S-100 bus, tape-interface, etc....\n\nThe built-in display was only a eight-digit, seven-segment LED display... When turned on it displays \u0026quot;HELLO\u0026quot;. The keyboard was made of an hexadecimal keypad (16 keys) and function keypad (12 keys). Interaction is also made through 8 parallel I/O switches and their corresponding LEDs.\n\nThe only software built-in the system was the monitor (called User System Executive or USE), used to program the Instructor 50. Of course, programmation was made in hexadecimal through a simplistic assembler.\n\nThe 2 KB ROM was used to store the monitor. RAM was 640 bytes, but 128 bytes were used by the monitor, leaving 512 bytes for programmation. But having 14 address lines, the 2650 CPU was capable of addressing 32K bytes !\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSTRUCTOR 50\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Signetics_Instr50_System_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;EARLY MODEL\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Early models were labeled \u0027\u0027Signetics 2650 Instructor\u0027\u0027\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/signetics_instructor-50_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;KEYBOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The right keypad allows to enter Hexadecimal data, the left one manages the ROM monitor - program Run/Stop, breakpoints, CPU registers and memory contents.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Signetics_Instr50_Keyboard_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;I/O SWITCHES\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Each parallel I/O line has its own switch and LED.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Signetics_Instr50_Keyboard_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;2650 INSTRUCTIONS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;All the 2650 instructions along with their Hex codes are printed onto the user panel.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Signetics_Instr50_Keyboard_s3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BACK SIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;S100 connector and AC adaptor jack.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Signetics_Instr50_Rear_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UNDERNEATH\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Rainer Bauer \u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Signetics_Instr50_Underneath_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SIGNETICS LABEL\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Rainer Bauer\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Signetics_Instr50_Label_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MOTHERBOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(1)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 512 Bytes RAM chips (4x2112)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(2)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 2656 chip, holds the clock generator, 2 KB ROM (Monitor), 128 bytes RAM and I/O decoding\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(3)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Signetics 2650 CPU\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(4)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Parallel lines decoder\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(5)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Tape recorder jacks\u0026lt;br\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Signetics_Instr50_Mainboard_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;RUNNING\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Signetics_Instr50_Mainboard_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MANUALS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Complete set of Signetics and Instructor 50 manuals, along with the Instructor demo cassette.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Rainer Bauer \u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Signetics_Instr50_Manuals_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LOGIC DIAGRAM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Signetics_Instr50_Diagram_s1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert for Instructor 50, Byte March 1979, Page 45.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Adam Trinfo for this advert\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Byte (Ad for Instructor 50)(March 1979, Page 45).jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [
+    {
+      "platform": "Windows emulator",
+      "name": "WinArcadia",
+      "link": "http://amigan.classicgaming.gamespy.com/",
+      "description": "emulates the Emerson Arcadia 2001 console family, the Interton VC 4000 console family, the Elektor TV Games Computer and the Signetics Instructor 50 computer"
+    },
+    {
+      "platform": "Amiga OS emulator",
+      "name": "AmiArcadia",
+      "link": "http://amigan.classicgaming.gamespy.com/",
+      "description": "emulates the Emerson Arcadia 2001 console family, the Interton VC 4000 console family, the Elektor TV Games Computer and the Signetics Instructor 50 computer "
+    }
+  ],
+  "link": [
+    "http://amigan.classicgaming.gamespy.com/"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/Signetics_Instr50_System_s1.jpg",
+  "builtInGames": "Hexadecimal Monitor",
+  "controllers": "",
+  "media": "None",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

@@ -1,0 +1,67 @@
+{
+  "name": "HP-9816",
+  "manufacturer": "Hewlett Packard",
+  "type": "Professional Computer",
+  "origin": "U.S.A.",
+  "year": "November 1982",
+  "production": "",
+  "language": "None",
+  "keyboard": "Full troke 70-key with function keys",
+  "cpu": "Motorola 68000",
+  "speed": "8 MHz",
+  "coprocessor": "Motorola 6845 (CRT controller), TI-9914 (Serial \u0026amp; HP-IB management)",
+  "ram": "128 KB up to 512 KB (provision for up to 4 MB)",
+  "vram": "Unknown",
+  "rom": "16 KB to 48 KB",
+  "text": "80 chars x 25 lines",
+  "graphics": "400 x 300 pixels",
+  "colors": "Monochrome",
+  "sound": "Beeper",
+  "size": "",
+  "ports": "HP-IB, Serial RS232",
+  "power": "Built-in power supply unit",
+  "price": "$3895 (basic 128 KB version)",
+  "description": "\nHewlett-Packard has been one of the first large manufacturer to adopt the Motorola 68000 microprocessor since 1981. The HP9816 was the fourth 68000 based computer of the brand. It was also called the Series 200 Model 16. Hewlett-Packards Series 200 included the HP-9816, HP-9826, HP-9836, and HP-9836C.\n\nThe Model 16 was intended to be a \u0026quot;lion package in a house cat\u0026quot;. When the keyboard was \u0026quot;parked\u0026quot; in the optional special housing placed under the unit, the computer footprints was 1 quare foot exactly. To ensure such a small size, Joe DeWeese, HP\u0027s project manager designed a very compact CPU board with a chip density never seen before.\n\nModel 16 could be used as a standalone workstation and connected to a large variety of mass storage devices, as well as numerous HP peripherals including printers, plotters and a graphic tablet through the HP-IB port. It also could act as an intelligent terminal or be connected to HP\u0027s Shared Ressource Management (SRM) network.\n\nSRM permitted up to 68 Series 200 computers in any conbination (including the HP-9835, 9845 and HP-9000 computers). The computers were connected via twisted-pair cables to a 9828 which controlled the network.\n\nSystem could run HPL, Pro-BASIC or Pascal. 68000 version of the CP/M operating system (CP/M 68K) was also available. Any or all languages and operating systemms could be stored and loaded from the same drive and/or plug-in ROM cards on the same computer. User could select the one that he wanted the computer to load at power-up. \n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MAIN BOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;One of the most tightly packed boards of the microcomputer industry of the time. It is only 9 x 10.3 inches but contains 125 I.C.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; Serial RS232 port chips and switches\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; HP-IB interface chips\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; Refresh and RAM timing chips\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(4)\u0026lt;/b\u0026gt; Boot ROM chips. Here 48 KB installed\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(5)\u0026lt;/b\u0026gt; Motorola 68000 processor\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(6)\u0026lt;/b\u0026gt; 128 KB RAM chips\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(7)\u0026lt;/b\u0026gt; CPU clock circuit\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(8)\u0026lt;/b\u0026gt; Data and address bus drivers\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(9)\u0026lt;/b\u0026gt; Second memory timing area\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(10)\u0026lt;/b\u0026gt; Keyboard controller chips, including the Intel 8041 processor\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(11)\u0026lt;/b\u0026gt; Keyboard connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(12)\u0026lt;/b\u0026gt; HP-IB connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(13)\u0026lt;/b\u0026gt; Serial RS232 connector \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/HP_9816_MainBoard_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;HP-9816S\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The keyboard is obviously not the same as the \u0026quot;original\u0026quot; HP-9816.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/hp_9816s_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. AD. JUNE 1983\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/HP_Model16_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD. JUNE 1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/hp_9816_advert_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d938",
+    "computer.asp?st\u003d1\u0026amp;c\u003d930",
+    "computer.asp?st\u003d1\u0026amp;c\u003d1068",
+    "computer.asp?st\u003d1\u0026amp;c\u003d950",
+    "computer.asp?st\u003d1\u0026amp;c\u003d141",
+    "http://www.hpmuseum.net",
+    "http://www1.neweb.ne.jp/wa/igaweb/HP/9816.html",
+    "http://www.classiccmp.org/hp/9800.htm"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/HP_9816_System_1.jpg",
+  "builtInGames": "None",
+  "controllers": "",
+  "media": "Dual 3.5\u0027\u0027 floppy drives unit (HP-9121)",
+  "numGames": "",
+  "peripherals": "All of the HP-IB peripherals",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

@@ -1,0 +1,164 @@
+{
+  "name": "PC 8300",
+  "manufacturer": "Lambda Electronics Ltd",
+  "type": "Home Computer",
+  "origin": "Hong Kong",
+  "year": "1983",
+  "production": "",
+  "language": "Basic",
+  "keyboard": "Flat membrane rubber keyboard, 42 keys, QWERTY",
+  "cpu": "NEC D780C-1 (Z80A clone)",
+  "speed": "3,25 MHz",
+  "coprocessor": "",
+  "ram": "2 KB",
+  "vram": "",
+  "rom": "8 KB",
+  "text": "32 x 24",
+  "graphics": "64 x 48 (through semi-graphic symbols)",
+  "colors": "Black \u0026amp; white",
+  "sound": "1 voice sound generator",
+  "size": "295 x 150 x 55 mm / 700 gr",
+  "ports": "DC Power in, Tape interface (EAR \u0026amp; MIC), Composite video output, RF TV video output, expansion bus, joystick connector",
+  "power": "External power supply (12v)  - -(o- +",
+  "price": "$29.95 (USA, 198x)",
+  "description": "\nThe Lambda 8300 is basically a ZX-81 clone. Made in Hong-Kong (by Lambda Electronics LTD? DEF?), it was designed as a cheap computer for initiation and was licenced to many companies throughout the world. This explains why the same computer can be found under many different brands and names (DEF 3000, Power 3000, Basic 2000, Basic 3000, PC 2000, PC 8300, Marathon 32K, IQ 8300, Futura 8300, Your Computer, etc.). But on all mainboards is written a generic \u0026quot;PC 8300\u0026quot;, which explains why 8300 or 3000 are often used in licenced names.\n\nThe system is thus a cloned ZX-81 with a modified ROM (to avoid legal problems), a better keyboard, more RAM (2 KB), sound features, a composite video output and even a joystick connector (Atari compatible). These represent in fact all the upgrades ZX-81 users usually wanted to add first to their system, but all bundled for a cheaper price.\n\nWith its modified ROM, the PC-8300 was only ZX-81 compatible with Basic programs. But soon, a ZX-81 ROM was available to turn your system into a real Sinclair ZX-81 machine, being able to run all software including machine code.\n\nDifferent addons were available : 16 KB and 32 KB RAM upgrades, color (and high resolution graphics ?) expansion, joysticks, printers... The expansion bus is supposed to be compatible with the ZX-81 one (to be confirmed).\n_______________________",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PC 8300\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Riotutgut for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/power-3000_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BACK OF THE SYSTEM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;From left to right : \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; - Power in from external PSU (12v, - -(o- +)\u0026lt;br\u0026gt; - Tape interface (EAR \u0026amp; MIC)\u0026lt;br\u0026gt; - Video composite output\u0026lt;br\u0026gt; - Expansion bus used here by a 16 KB RAM memory upgrade\u0026lt;br\u0026gt; - joystick connector\u0026lt;br\u0026gt; - RF TV video output\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Riotutgut for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/power-3000_back.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT (1985?)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is an advert for the Power 3000 released in the USA.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://hem.passagen.se/clab/adam/lambda/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Adam\u0027s Lambda 8300 page\u0026lt;/a\u0026gt; for this picture.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/lambda_8300_advert_1.jpg"
+    }
+  ],
+  "hardware": [
+    {
+      "type": "MEMORY EXPANSIONS",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/timex_1000-suntronics-64k_1.jpg",
+          "description": "64 KB|||from Suntroncis|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;64 KB\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;from Suntroncis\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Suntronics T/S 1000 \u0026amp; ZX81 64K Memory Pack (Male Socket on Back, Female Socket on Front).\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/timex_sinclair-1000_16kram-1016.JPG",
+          "description": "Timex Sinclair 1016|||16k RAM extension|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TIMEX SINCLAIR 1016\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;16k RAM extension\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    }
+  ],
+  "emulator": [
+    {
+      "platform": "Windows emulator",
+      "name": "EightyOne",
+      "link": "http://www.chuntey.com/eightyone/",
+      "description": "Excellent emulator emulating nearly all ZX computers (80, 81, Spectrums, Timex, etc.). As well as emulating the machines themselves, numerous addon cards are supported, including hi-res graphics, custom character sets, sound and colour cards."
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "Timex Sinclair 1000",
+      "link": "ftp://oak.oakland.edu/SimTel/msdos/emulator/ts1000-c.zip",
+      "description": "Timex 1000 / ZX81 Emulator for DOS"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "VB81",
+      "link": "http://freestuff.grok.co.uk/vb81/",
+      "description": "Sinclair ZX81 Emulator (with Visual Basic sources). Excellent emulator"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "X-Tender",
+      "link": "http://www.delhez.demon.nl/",
+      "description": "The best ZX emulator for PC compatibles"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "ZX 81 Homepage",
+      "link": "http://www.maxon.de/homes/r_kurz/"
+    },
+    {
+      "platform": "Apple emulator",
+      "name": "ZX81",
+      "link": "http://www.w-4.de/~kurz/"
+    },
+    {
+      "platform": "Unix / Linux emulator",
+      "name": "XZ81",
+      "link": "http://www.zx81.nl/",
+      "description": "And other ZX-81 emulators there..."
+    },
+    {
+      "platform": "Atari emulator",
+      "name": "ZX-81 Emulator 2.1",
+      "link": "http://www.hh.schule.de/hhs/mjaap/ftp/zx81_v21.zip"
+    },
+    {
+      "platform": "Other platform emulator",
+      "name": "Java ZX81 Emulator",
+      "link": "http://home.clara.net/rsergeant/",
+      "description": "Java emulator"
+    },
+    {
+      "platform": "Other platform emulator",
+      "name": "Timex/Sinclair 1000 Emulator (Java)",
+      "link": "http://www.vavasour.ca/jeff/trs80.html#ts1000",
+      "description": "With this JAVA emulator, you\u0027ll be able to run a Timex/Sinclair 1000 in your browser window "
+    },
+    {
+      "platform": "Other platform emulator",
+      "name": "zx81emu",
+      "link": "http://www.tlienhard.com/ap800.shtml",
+      "description": "ZX-81 Emulator for the SonyEricsson P800 Smart Phone"
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "MESS",
+      "link": "http://www.mess.org",
+      "description": "MESS emulates the ZX-81, Lambda 8300, Power 3000 and other clones !"
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d477",
+    "computer.asp?st\u003d1\u0026amp;c\u003d925",
+    "computer.asp?st\u003d1\u0026amp;c\u003d928",
+    "computer.asp?st\u003d1\u0026amp;c\u003d1179",
+    "computer.asp?st\u003d1\u0026amp;c\u003d1271",
+    "computer.asp?st\u003d1\u0026amp;c\u003d262",
+    "computer.asp?st\u003d1\u0026amp;c\u003d263",
+    "http://zx81.achromic.co.uk/",
+    "http://www.8bit.ht.st/",
+    "http://web.ukonline.co.uk/sinclair.zx81/",
+    "http://james.istop.com/zx81/",
+    "http://hem.passagen.se/clab/adam/lambda/",
+    "http://www.nvg.ntnu.no/sinclair/computers/zx81/zx81.htm",
+    "http://www.xs4all.nl/~echorod/zx/index.htm",
+    "http://zx81.atspace.com/",
+    "http://www.ts1000.us/",
+    "http://www.zebrasystems.com/zebrasystems/zx81/index.html",
+    "http://www.zx81stuff.org.uk/",
+    "http://zx81.tlienhard.com/",
+    "http://www.honneamise.u-net.com/zx81/",
+    "http://www.imarshall.karoo.net/zx81/zx81technical.htm",
+    "http://www.zx81.de/webring/index.htm",
+    "http://www.zx81.de/",
+    "http://www.zx81.de/",
+    "news:comp.sys.sinclair"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/power-3000_1s.jpg",
+  "builtInGames": "Basic",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "16 KB \u0026amp; 32 KB RAM memory upgrades, Color Kit expansion, joystick, printer",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

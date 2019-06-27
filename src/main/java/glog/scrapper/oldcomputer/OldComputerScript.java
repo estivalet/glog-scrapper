@@ -21,8 +21,10 @@ import org.w3c.dom.Document;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
+import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
+import glog.util.IOUtil;
 import glog.util.XMLWrapper;
 import glog.util.XPathParser;
 
@@ -260,8 +262,8 @@ public class OldComputerScript {
 		new File("xml/").mkdirs();
 		new File("json/").mkdirs();
 
-		List<String> lines = FileUtils.readLines(new File(
-				"C:\\Users\\lestivalet\\dev\\stuff\\glog-scrapper\\data\\oldcomputer\\oldcomputer_console.txt"));
+		List<String> lines = FileUtils.readLines(
+				new File("C:\\Users\\lestivalet\\dev\\stuff\\glog-scrapper\\data\\oldcomputer\\oldcomputer.txt"));
 		for (String line : lines) {
 			OldComputerScript ocs = new OldComputerScript();
 			line = line.substring(line.indexOf("?c=") + 3, line.indexOf("&amp"));
@@ -275,6 +277,9 @@ public class OldComputerScript {
 
 			FileUtils.write(new File("xml/" + line + ".xml"), xml);
 			FileUtils.write(new File("json/" + line + ".json"), json);
+
+			// wait a moment to avoi http 500 from server
+			Thread.sleep(10000);
 		}
 
 	}
@@ -291,7 +296,15 @@ public class OldComputerScript {
 
 		OldComputerScript ocs = new OldComputerScript();
 		// ocs.extractLinks();
-		ocs.processLinks();
+		// ocs.processLinks();
+
+		String[] files = new File("data/oldcomputer/consoles/json").list();
+		for (String file : files) {
+			File json = new File("data/oldcomputer/consoles/json/" + file);
+			OldComputer oc = new Gson().fromJson(IOUtil.getContents(json), OldComputer.class);
+			// System.out.println("Console " + file + " from oldcomputer.com site");
+			System.out.println(oc.getManufacturer() + " " + oc.getName());
+		}
 
 		// OldComputer oc = ocs.getComputerInfo(1181);
 		// String xml = ocs.toXML(oc);

@@ -1,0 +1,270 @@
+{
+  "name": "NOVA 64",
+  "manufacturer": "Oric",
+  "type": "Home Computer",
+  "origin": "Yugoslavia",
+  "year": "? 1984",
+  "production": "",
+  "language": "Tangerine Basic (in fact unlicensed Microsoft Basic)",
+  "keyboard": "QWERTY, mechanical keyboard, 58 keys. 4 arrow keys. ESC, CTRL, DEL, RETURN, SHIFT (x 2), FUNCT.",
+  "cpu": "6502A",
+  "speed": "1 mHz",
+  "coprocessor": "",
+  "ram": "48 KB",
+  "vram": "",
+  "rom": "16 KB",
+  "text": "40 chars  x 28 lines",
+  "graphics": "240 x 200 (+ 3 text lines)",
+  "colors": "8",
+  "sound": "3 voices, 8 octaves + white noise",
+  "size": "28 (W) x 17,5 (D) x 5,5 (H) cm / 1.25 kg",
+  "ports": "Power supply, Expansion port, Printer/Centronics port, Tape-recorder DIN plug, RGB video out, RF TV out",
+  "power": "External power supply / IN 220V (+10;-15 %); 50 Hz. / OUT 7V DC",
+  "price": "Unknown",
+  "description": "\nThe NOVA 64 seems to be a legal copy of the Oric Atmos for the Yugoslavian market. \n\nHere is what the Oric FAQ by Jim Groom says :\n\n\u0026quot;A Yugoslavian company (believed to be Avtotehna, based in Ljubljana) obtained a licence to make 5000 machines. Machines were made, but whether they were under license or not is not known in any detail. It is thought that they assembled parts shipped from the UK. I have a contact in Yugoslavia who says there were several in his village and about 30 in a school in the next village. This may suggest that more than 5000 were made. They were known as the Oric Nova 64 and were Atmos based.\u0026quot;\n\nThus, the NOVA 64 seems to be an exact Atmos machine, only the \u0026quot;NOVA 64\u0026quot; label being different. But we hadn\u0027t the chance to test one yet to confirm this statement. The motherboard however seems a bit different from well known Issue 3 \u0026amp; 4 ones used in most official Oric machines (RAM chips layout is different).\n\nThe 64 in \u0026quot;Nova 64\u0026quot; comes from the fact the Atmos has really 64 KB RAM, but \n16 KB are masked by the ROM at startup, thus leaving \u0026quot;only\u0026quot; 48 KB to work with the Basic language.\n\n_________________\n\nThanks to Ranko Vukcevic for the pictures.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ORIC NOVA 64\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Apparently, only the label \u0026quot;Oric Nova 64\u0026quot; differs from the original Atmos.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Ranko Vukcevic for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/oric_nova64_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRONT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Ranko Vukcevic for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/oric_nova64_front.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Ranko Vukcevic for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/oric_nova64_rear.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This motherboard is slightly different from well known Issue 3 \u0026amp; 4 motherboards of the official Oric-1/Atmos systems, especially RAM chips layout.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Ranko Vukcevic for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/oric_nova64_mobo.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT, AUG. 1983\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;\u0026lt;a href\u003d\u0026quot;http://www.aci.com.pl/mwichary/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Attached\u0026lt;/a\u0026gt;\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Osborne_Executive_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ISAAC ASIMOV AD #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; Our word processing system changed Isaac Asimov\u0027s mind about writing...\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026quot;I may never use a typewriter again!\u0026quot;\u0026lt;/b\u0026gt; Isaac likes the time he saves using SuperSCRIPSIT, our newest word processing program...\u0026lt;font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Tandy_Model3_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FLYER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.console-picture-page.de\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;www.console-picture-page.de\u0026lt;/a\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/palladium_video-computer-game_flyer.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (JAN. 1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/tandy_trs80-model1_ad_computercenter_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (JULY 1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/oric_oric-1_advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MOTOROLA AD.\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;In fact, this advert didn\u0027t promote the Macintosh II computer but the 68020 microprocessor.\u0026lt;br\u0026gt; Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; ...While Apple\u0027s choice of the MC 68020 was a smart move, there\u0027s no licence on genius: the 68020 is the microprocessor of choice in advanced business system design by such industry leaders as Altos, Alpha Micro, Casio, C.Itoh, Fujitsu, Honneywell Bull, NEC, NCR, Olivetti, Plexus, Ricoh, Sanyo, Sharp, TI, Toshiba and Unisys...\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Apple_MacII_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (DEC. 1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Sorry, you don\u0027t play with me\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/rair_business-computer_ad_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (JULY 1984)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sinclair_zx81_ad_initiateur_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LAST SALES\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This advert (a bargain!) was published in the U.K. in September 1987\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Memotech_MTX512_Advert_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SEEQUA AD (JUN. 83)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Seequa_Chameleon_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;64 BITS IN 1983?\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;After the optimistic 36 Mhz. speed, here is the 64 bits processing power... with 8 bits/Z80 cards. Here also, the 64 bits \u0027power\u0027 is obtained by putting eight 8 bits cards together in the case.\u0026lt;br\u0026gt; Not a very honest way to sell a computer that is no more than a classic S-100 / Z80 based system with some multi-user capabilities.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/ibs_Betasystem_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. AD #2 (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Same arguments as #1\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/NorthStar_Advantage_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JACQUARD SYSTEMS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Jacquard_J500_Brochure_6.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (DEC. 1985)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;MO5. Adventure built-in\u0026quot;\u0026lt;br\u0026gt; \u0026quot;All the world in a present\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_mo5_advert_aventure-comprise.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LEAFLET (1982) - PAGE 4\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;These are fake screenshots, that is to say drawn by an artist.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/interton_vc4000_promo-leaflet_4.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT.\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0027\u0027The Sinclair spirit is in him\u0027\u0027\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sinclair_spectrum_advert_esprit-sinclair.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DESKTOP \u0026amp; PORTABLE BROCHURE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Seequa_Chameleon_Leaflet_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;8-PAGE US ADVERT #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Compaq_PortableIII_Advert_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT #5\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/commodore_vic20_ad_price-of-a-toy.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1978 BROCHURE #11\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/MSI_6800_Brochure_s11.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MICROSOFT FS II, APR. 1986\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Commodore_128_Advert_s5.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH LEAFLET\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Speed serves business.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sharp_MZ3500_FrenchLeaflet_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;With the Alice computer, you place the level where you want\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/matra_alice90_advert1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT, JULY 1985\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;We love this photo!\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Tandy_200_Advert_s1.jpg"
+    }
+  ],
+  "hardwareDescription": "",
+  "hardware": [
+    {
+      "type": "MISC EXTENSIONS",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Oric_Jasmin2_1.jpg",
+          "description": "Jasmin II F.D. unit||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JASMIN II F.D. UNIT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The Jasmin II was a 3\u0026quot; double-sided floppy drive unit. It was released in 1985,  designed by T.R.A.N. and manufactured by Dattel, two french companies. Up to four units could be connected in chain. Each one featured an operating system called T.DOS then FT.DOS. Each diskette had a 357 KB capacity (2 sides x 41 tracks x 17 sectors x 256 bytes) \u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Oric_Atmos_CumanaExp_s1.jpg",
+          "description": "Cumana expansion box||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CUMANA EXPANSION BOX\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This expansion holds a power supply unit and a dual expansion port allowing the floppy disk unit and another expansion device to be connected simultaneously.\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/oric_synth_vocal.jpg",
+          "description": "Vocal synthesizer||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;VOCAL SYNTHESIZER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/oric_lightpen.jpg",
+          "description": "Light pen||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LIGHT PEN\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/oric_8_io.jpg",
+          "description": "8 in/out board||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;8 IN/OUT BOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "ORIC EXTENSIONS",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/oric_atmos_microdsic_1.jpg",
+          "description": "Atmos Microdisc||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ATMOS MICRODISC\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The official Oric disk-drive. Soooo beautiful...\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Disc drive uses 320 Kb. formatted, double side 3\u0027\u0027 diskette. In the first versions, operating system only managed sequential files. \u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/oric_atmos_mcp40_1.jpg",
+          "description": "Atmos plotter||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ATMOS PLOTTER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is the same as the MCP-40 for the Oric-1. This type of plotter (4 colors) was widely used for the micro-computers...\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Oric_Atmos_MCP40_2.jpg",
+          "description": "Inside Atmos plotter||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE ATMOS PLOTTER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The MCP-40 plotter uses a Japanese printing mechanism manufactured by Sharp. It\u0027s a little mechanical marvel able to print extremely precise four colour texts and graphics. Text is printed with 40 or 80 characters per line, at 10 characters per second speed. Characters size and  printing direction may be modified (horizontal, vertical or diagonal). \u0026lt;br\u0026gt;\u0026lt;br\u0026gt;  \u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; Paper used is a roller of 115 mm width.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; Printer command buttons.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; Electromagnet that pushes the pen against paper for writing.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(4)\u0026lt;/b\u0026gt; The print head moves laterally right across the paper width and swivels to carry out a pen colour change.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(5)\u0026lt;/b\u0026gt; The head is connected through a cable to an engine which ensures its side moving by 0.2 mm steps.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(6)\u0026lt;/b\u0026gt; A second engine controls top and bottom paper moving, also by 0.2 mm steps.\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    }
+  ],
+  "emulator": [
+    {
+      "platform": "MS DOS emulator",
+      "name": "Euphoric",
+      "link": "http://oric.ifrance.com/oric/emulator.html",
+      "description": "The best ORIC emulators"
+    },
+    {
+      "platform": "Apple emulator",
+      "name": "Oric/MacOS",
+      "link": "http://www.bannister.org/software/oric.htm",
+      "description": "Oric/MacOS is an Oric emulator for the Macintosh."
+    },
+    {
+      "platform": "Unix / Linux emulator",
+      "name": "Euphoric",
+      "link": "ftp://ftp.oric.org/emulator/euphoric/linux/euphoric.tgz",
+      "description": "UNIX version of Euphoric"
+    },
+    {
+      "platform": "Unix / Linux emulator",
+      "name": "ORIC48K",
+      "link": "ftp://hpux.cict.fr/incoming/ORIC48K_V3.1.tar.gz",
+      "description": "Emulator for Unix systems"
+    },
+    {
+      "platform": "Unix / Linux emulator",
+      "name": "Xeuphoric",
+      "link": "http://www.teaser.fr/~amajorel/xeuphoric/",
+      "description": "Oric emulator for X11 platforms"
+    },
+    {
+      "platform": "Amiga OS emulator",
+      "name": "AmOric",
+      "link": "http://oric.ifrance.com/oric/EMULATORS/Amoric.lha",
+      "description": "Oric emulator for the Amiga systems"
+    },
+    {
+      "platform": "RISC OS emulator",
+      "name": "ArcOric",
+      "link": "http://oric.ifrance.com/oric/EMULATORS/ArcOric12",
+      "description": "Oric emulator for RISC/OS"
+    },
+    {
+      "platform": "Atari emulator",
+      "name": "AtOric",
+      "link": "http://oric.ifrance.com/oric/EMULATORS/atoric09.zip",
+      "description": "works with all Atari \u0026amp; Compatibles (Hades, Milan)"
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "Oriculator",
+      "link": "http://code.google.com/p/oriculator/",
+      "description": "Oricutron (formerly known as Oriculator) is an emulator for the Oric series of computers. It is written in plain C, and uses SDL. It is designed to be portable."
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d79",
+    "computer.asp?st\u003d1\u0026amp;c\u003d180",
+    "http://ceo.oric.org/",
+    "http://www.defence-force.org/computing/oric/index.htm",
+    "http://mapage.cybercable.fr/marcpage/oric.htm",
+    "http://www.geffers.demon.co.uk/oricpage.html",
+    "http://www.oric.org",
+    "http://v.webring.com/hub?ring\u003doric",
+    "http://oric.iFrance.com/oric/index_french.html",
+    "http://pleclerc.free.fr/Oric/OricPage.html",
+    "http://www.rhetoric.8k.com/",
+    "http://come.to/oric",
+    "http://freespace.virgin.net/james.groom/index.htm",
+    "http://oricspider.home.insightbb.com/",
+    "http://twilighte.oric.org",
+    "news:comp.sys.oric"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/oric_nova64_1s.jpg",
+  "builtInGames": "Tangerine Basic (in fact unlicensed Microsoft Basic)",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

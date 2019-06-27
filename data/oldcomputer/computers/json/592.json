@@ -1,0 +1,49 @@
+{
+  "name": "BetaSystem",
+  "manufacturer": "Independant Business Systems",
+  "type": "Professional Computer",
+  "origin": "U.S.A.",
+  "year": "1982",
+  "production": "",
+  "language": "",
+  "keyboard": "Video/keyboard serial terminal",
+  "cpu": "Z80",
+  "speed": "4 Mhz.",
+  "coprocessor": "",
+  "ram": "128 KB per Z80 card",
+  "vram": "",
+  "rom": "2 KB",
+  "text": "Unknown",
+  "graphics": "Unknown",
+  "colors": "Unknown",
+  "sound": "Unknown",
+  "size": "Unknown",
+  "ports": "Unknown",
+  "power": "Built-in P.S.U.",
+  "price": "Unknown",
+  "description": "\nThe BetaSystem was a S-100 BUS based system using a complete computer Z80 card that could handle two time-shared users. Up to nine cards could be installed in the case allowing up to 18 users / video terminals to be connected and used simultaneously.\n\nAs usual with S-100 based systems, a large range of storage devices could be added to the system: 5.25\u0026quot;, 8\u0026quot; or 14\u0026quot; Winchester disk drives from 5 MB to 600 MB, 5.25\u0026quot; or 8\u0026quot; floppies, and tape cartridges up to 100 MB.\n\nMainly based on the UCSD PASCAL operating system, the BetaSystem could also be used with CP/M and TurboDos O.S.\n \n\n\n",
+  "shot": [],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;36 MHZ. IN 1982?\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The title of this advert was very optimistic. In fact, the 36 Mhz speed is obtained by adding the speed of the 9 x Z80 cards installed into the system. The maximum system speed was in fact 4 Mhz.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/ibs_Betasystem_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;64 BITS IN 1983?\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;After the optimistic 36 Mhz. speed, here is the 64 bits processing power... with 8 bits/Z80 cards. Here also, the 64 bits \u0027power\u0027 is obtained by putting eight 8 bits cards together in the case.\u0026lt;br\u0026gt; Not a very honest way to sell a computer that is no more than a classic S-100 / Z80 based system with some multi-user capabilities.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/ibs_Betasystem_Advert_2.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [],
+  "image": "http://www.old-computers.com/museum/photos/ibs_Betasystem_System_1.jpg",
+  "builtInGames": "",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "S-100 boards",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

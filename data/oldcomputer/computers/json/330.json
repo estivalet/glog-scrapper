@@ -1,0 +1,116 @@
+{
+  "name": "Galaksija",
+  "manufacturer": "GALAKSIJA",
+  "type": "Home Computer",
+  "origin": "Yugoslavia",
+  "year": "1983",
+  "production": "",
+  "language": "Basic interpreter",
+  "keyboard": "Full stroke keyboard",
+  "cpu": "Zilog Z80A",
+  "speed": "3.072 MHz",
+  "coprocessor": "",
+  "ram": "from 2 KB to 6 KBGalaksija Plus : 48 KB",
+  "vram": "Unknown",
+  "rom": "4 KB (up to 8 KB), Several ROM sockets available",
+  "text": "32 x 16",
+  "graphics": "64 x 48 (semi-graphic mode)Galaksija Plus : 256 x 208",
+  "colors": "Monochrome",
+  "sound": "Galaksija : NoneGalaksija Plus : 3 Channel sound generator (AY-3-8912 or compatible)",
+  "size": "Unknown",
+  "ports": "Expansion Bus, Tape interface, Monitor video output, RF TV output",
+  "power": "External power supply",
+  "price": "Unknown",
+  "description": "\nThe meaning of the name \u0026quot;Galaksija\u0026quot; is \u0026quot;Galaxy\u0026quot; and is pronounced \u0026quot;Galaxiya\u0026quot;.\n\n\u0026quot;Galaksija\u0026quot; was a very important computer - not for its features but for the effect it had on the \u0026quot;geek\u0026quot; society at the time. It was named after the same-name monthly magazine dealing with various scientific issues (i.e. Yugoslav equivalent of \u0026quot;Scientific American\u0026quot;).\n\nSometime in 1983, the editor, Dejan Ristanovic, decided to release a special (but separate) issue dedicated to computers: \u0026quot;Racunari u vasoj kuci\u0026quot; - \u0026quot;Computers in your house\u0026quot;. This was the first truly computer magazine in the country. Due to amazing popularity it first became a regular bi-monthly and later a monthly issue.\n\nVoja Antonic heard about the plans to release the (first) special issue, contacted Dejan Ristanovic and the plans were made. It was originally thought that it will just be interesting to read but not really to make. Wrong: more than 8000 were made by enthusiasts (amazing number for such a small country).\n\nThe Galaksija was not envisioned as a *kit* but as a build-it-yourself computer (i.e. one did not have to purchase the kit at all, although kits were available) - so people made it themselves. Later on, some companies (such as \u0026quot;Elektronika Inzenjering\u0026quot; - Electronics Engineering) started making pre-built versions, mainly distributed to schools through \u0026quot;Zavod za udzbenike i nastavna sredstva\u0026quot; (Institute for textbooks and teaching aids).\n\nAn EPROM has to be sent to the authors to be programmed. The designs were found in the first issue of Racunari u vasoj kuci (which translates to \u0026quot;Computers in your home\u0026quot;) magazine. There were 7000 kit complets sold and aproximately 10.000 made computers (including kit built ones).\n\nIt was a ZX81 class computer \u0026amp; was invented by Voja Antonic. The Galaksija had an improved, optimised BASIC. Originally the Microsoft Basic was meant to be used, but in order to fit in 4KB of ROM, the improvements were done. Galaksija used only capital characters (like the TI-99/4A).\n\nThe computer was designed in second half of 1983. The diagrams were published in very late December 1983 in the January 1984 issue of magazine \u0026quot;Racunari u vasoj kuci\u0026quot; (special issue of magazine Galaksija). Technically speaking first Galaskijas were made in 1983 but only by the creators. All others were made in 1984 and later.\n\nRAM was a static RAM based on 6116 (2 KB) chips. The motherboard had three slots on-board to provide from 2 to 6 KB. Since first 8 KB were reserved for ROMs, RAM was expandable to max. 54 KB. Static RAM was chosen to simplify development although it was more expensive.\n\nThere is no VRAM. A part of RAM was used, read by the Z80A CPU which, in turn controlled the primitive video circuitry. Almost 75% of CPU time was used to generate the video signal but this made the computer a whole lot cheaper and easier to build.\n\nAbout the ROM, two sockets (\u0026quot;A\u0026quot; and \u0026quot;B\u0026quot;) were available for 2732 EPROMs (4KB each). ROM \u0026quot;A\u0026quot; contained the basics (initialization, video generation, BASIC interpreter and alike). ROM \u0026quot;B\u0026quot; was optional and contained additional BASIC commands, assembler, monitor, etc.\n\nGalaksija only had a text mode (32x16). However, 64 semi-graphic characters  composed of 2x3 blocks combinations allowed PSEUDOgraphics to be drawn in 64x48 resolution.\n\nThe build-it-yoursef price varied significantly based on when and\n where parts were purchased. Pre-built model (significantly more expensive, from \u0026quot;Zavod za udzbenike i nastavna sredstva\u0026quot;) used to be priced as follows\n(in 1984 currencies):\n- ROM A only, 4 KB of RAM: 45,500 din (approx. 447 USD)\n- ROM A only, 6 KB of RAM: 49,500 din (approx. 487 USD)\n- Both ROMs, 4 KB of RAM: 55,500 din (approx. 546 USD)\n- Both ROMs, 6 KB of RAM: 59,500 din (approx. 585 USD)\n\nGalaksija Plus was an improvement of regular Galaksija, created by different authors (hardware by Nenad Dunjic and software by software Milan Tadic). They added more RAM (48 K), more ROM (12K total) separate graphics mode (256x208). To reduce time it takes to save or load longer data (for large memory) the tape data recording speed was increased from 280 bps to 1200 bps. It was announced in the sixth issue (june/jully 1985) of the same magazine, now simply called \u0026quot;Racunari\u0026quot; (Computers). Estimated price at that time was much higher, mainly due to very high inflation in the country - 140,000 din.\n\nThe author of this computer, Voja Antonic, reports us that the \u0026quot;Glalksija\u0026quot; was initialy offered as a \u0026quot;do-it-yourself\u0026quot; project in the 1st issue of the first computer magazine in (former) Yugoslavia, and there is a lot of interesting stuff about it. It was the time when hardly anybody knew what is the computer, so at the first moment he had the estimation of about 100 built samples, but he received over 7000 replies that readers built it and that they work !\n\nThe story has many more details, including broadcasting Galaksija programs over the radio (people would save the programs to the tape and then load them later, while other unsuspecting listeners would hear unimaginable noise).\n\n__________________\n\nThanks to Aleksandar Susnjar for most of the info !\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;RADOVA\u0027S GALAKSIJA\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;As the Galaksija was first available as a kit, it can be found in very different cosmetic designs, each user choosing and building different cases.  Here is a Galaksija owned by Radova collector.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.galaksija.org\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;www.galaksija.org\u0026lt;/a\u0026gt; for this picture.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/galaksija_galaksija_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MIRANOVA\u0027S GALAKSIJA\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.galaksija.org\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;www.galaksija.org\u0026lt;/a\u0026gt; for this picture.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/galaksija_galaksija_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SHIRKEOVA\u0027S GALAKSIJA\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.galaksija.org\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;www.galaksija.org\u0026lt;/a\u0026gt; for this picture.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/galaksija_galaksija_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ANOTHER CASE DESIGN\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Thanks to \u0026lt;b\u0026gt;Dejan Ristanovic\u0026lt;/b\u0026gt; who cooperated with Voja Antonic when he debugged ROM and also  wrote many articles about the Galaksija in his own \u0026quot;Computers in your home\u0026quot; magazine. See his \u0026lt;a href\u003d\u0026quot;http://user.sezampro.yu/~dejanr/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;web page\u0026lt;/a\u0026gt; (mostly in Serbian) dedicated to the Galaksija.  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Galaksija_System_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Dejan Ristanovic\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Galaksija_Inside_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;IN USE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.inet.hr/~isiric/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Ivan Siric\u0026lt;/a\u0026gt; for this picture.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/galaksija_in-use.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PICTURE OF VOJA ANTONI\u0026AElig;\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;... creator of the Galaksija\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/galaksija_voja.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SYSTEM DIAGRAM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.inet.hr/~isiric/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Ivan Siric\u0026lt;/a\u0026gt; for this picture.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/galaksija_sys-diagram.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SYSTEM DIAGRAM #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.inet.hr/~isiric/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Ivan Siric\u0026lt;/a\u0026gt; for this picture.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/galaksija_sys-diagram_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SYSTEM DIAGRAM #3\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.inet.hr/~isiric/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Ivan Siric\u0026lt;/a\u0026gt; for this picture.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/galaksija_sys-diagram_3.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ORIGINAL ARTICLE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The history of the Galaksija started with a magazine article - called \u0026quot;Ra\u0026egrave;unara u va\u0026scaron;oj ku\u0026aelig;i\u0026quot; (computers in your home) by Dejan Ristanovi\u0026aelig;. This magazine was the first issue of the magazine series called later \u0026quot;Ra\u0026egrave;unara\u0026quot;. This first issue included an article about the do-if-yourself computer \u0026quot;Galaksija\u0026quot; written by Voja Antonic. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt;Source : \u0026lt;a href\u003d\u0026quot;http://www.homecomputer.de/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;HomeComputerMuseum.de\u0026lt;/a\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/galaksija_cover.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [
+    {
+      "platform": "Windows emulator",
+      "name": "GALAXY",
+      "link": "http://www.sezampro.yu/~dejanr/galaxy.zip"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "Galaxy Win",
+      "link": "http://emulator.galaksija.org/",
+      "description": "Nice emulator"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "Miodrag Jevremovic\u0027s emulator",
+      "link": "http://solair.eunet.yu/~amidar"
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "MESS",
+      "link": "http://www.mess.org/",
+      "description": "Multi Emulator Super System"
+    }
+  ],
+  "link": [
+    "http://user.sezampro.yu/~dejanr/rac1/index.htm",
+    "http://foing-nova.hr/foing/crsh/glxy/glxy.htm",
+    "http://en.wikipedia.org/wiki/Galaksija",
+    "http://www.galaksija.org",
+    "http://www.inet.hr/~isiric/",
+    "http://www.paralax.co.yu/pr83.htm"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/galaksija_galaksija_1s.jpg",
+  "builtInGames": "Basic interpreter",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

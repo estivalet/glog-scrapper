@@ -1,0 +1,80 @@
+{
+  "name": "Prof80",
+  "manufacturer": "Conitec",
+  "type": "Home Computer",
+  "origin": "Germany",
+  "year": "September 1982",
+  "production": "",
+  "language": "TRS compatible Basic interpreter",
+  "keyboard": "As the user chooses",
+  "cpu": "Z80A",
+  "speed": "6 MHz",
+  "coprocessor": "",
+  "ram": "64 KB",
+  "vram": "2 KB (text mode) - 16 KB (optional graphics mode)",
+  "rom": "12 KB",
+  "text": "32 or 64 columns x 16 lines",
+  "graphics": "Unknown",
+  "colors": "Monochrome",
+  "sound": "Built-in speaker, 1 channel",
+  "size": "",
+  "ports": "Serial, Parallel, Tape recorder, Composite video, FDD unit",
+  "power": "+5V 2A, +12V 1A, -12V 0.5A",
+  "price": "100  (bare board)",
+  "description": "\nThis computer was never sold in computer stores. It is an homebrew machine built around an unique board called PROF80.\n\nThe Prof 80 was a CPM Board for CP/m 2.2 or (later) 3.X., manufactured by Conitec, Dieburg, Germany. There is also a branch in US. The company still exists, and the chief designer of the board, Joachim Hanst, is still working there.\n\nIt was sold in France in kit form by the  Pentasonic stores chain. User had to solder all the components onto the bare board.\n\nThe PROF80 board was fully compatible with the Tandy Trs-80 MOD III, and featured 64 KB of RAM, serial and parallel ports, floppy drive controller, video and tape recorder interfaces and a GRIP (Graphical IO-Processor). The Basic interpreter was the LNW version.\n\nVarious systems were designed by private persons around this board, mainly in Germany. From simple training computers up to complete professional system.\n\nThe version pictured here was very carefully built from an old video terminal. It featured some enhancements allowing the use of the 8\u0026quot; floppy disk drive as well as graphic capabilities.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;COMPLETE SYSTEM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Complete system along with the 8\u0026quot; floppy drive  cased in its \u0026quot;shoes box\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Prof80_System_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR SIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(1)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Parallel, Serial and Floppy drive connectors\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(2)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Tape recorder DIN plug\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(3)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Composite video output\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(4)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; There was even a time counter! But it was disconnected after 42 hours of use\u0026lt;br\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Prof80_RearSide_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;KEYBOARD #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The keyboard comes from the original video terminal.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Prof80_Keyboard_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;KEYBOARD #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The keyboard matrix has been wired by hand.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Prof80_Keyboard_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;THE PROF80 BOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(1)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Keyboard connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(2)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Z80A processor\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(3)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; High resolution graphics card with 16 KB RAM\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(4)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Main RAM chips. In this version, only 3 rows of 16 KB are installed\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(5)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 8\u0026quot; floppy drive controller add-on card\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(6)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Z80 data and address buses connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(7)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Floppy drive connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(8)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Parallel port connector\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Prof80_Mainboard_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;POWER SUPPLY\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Dual power supply unit. One for the main board (round transformer), one for the display unit.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Prof80_PowerSupply_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;OPENED\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Prof80_Opened_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;8\u0027\u0027 FLOPPY DRIVE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Prof80_FloppyDrive_s1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROF80 ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;French advert from Pentasonic stores chain.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Prof80_PubPenta_s1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [
+    "http://www.prof80.de"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/Prof80_System_s1.jpg",
+  "builtInGames": "TRS compatible Basic interpreter",
+  "controllers": "",
+  "media": "External single or dual FDD unit, 5.25\u0027\u0027 or 8\u0027\u0027",
+  "numGames": "",
+  "peripherals": "All the TRS-80 extensions",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

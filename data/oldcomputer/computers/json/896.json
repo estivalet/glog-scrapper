@@ -1,0 +1,86 @@
+{
+  "name": "Altair 8800b",
+  "manufacturer": "MITS",
+  "type": "Professional Computer",
+  "origin": "U.S.A.",
+  "year": "March 1976",
+  "production": "",
+  "language": "None",
+  "keyboard": "Depends on the terminal used",
+  "cpu": "Intel 8080A",
+  "speed": "2 MHz",
+  "coprocessor": "Intel 8224 clock generator and 8216 bus driver",
+  "ram": "2 KB",
+  "vram": "",
+  "rom": "No ROM in basic version",
+  "text": "No video display",
+  "graphics": "",
+  "colors": "",
+  "sound": "",
+  "size": "Unknown",
+  "ports": "Serial port",
+  "power": "Built-in power supply unit",
+  "price": "From $1,00 to $1,250  (6 to 18 S-100 connectors)",
+  "description": "\nThe Altair 8800b - second and last of the 8800 series - was an improved version  of the 8800 model of which it corrected some drawbacks.\n\nExternally, the case had a more professional design, with a smarter back-lit front panel including modified toggle switches and five new functions allowing to read/write/Modify CPU accumulator.\n\nInternally, motherboard could support up to 18 S-100 connectors. It was powered by a stronger power supply unit (8V - 18 amp.). The CPU board was also modified: new 8080A processor and Intel chip sets. However the 8800b remained compatible with all Altair 8800 hardware and software. Unlike the 8800, basic version also had a serial interface for Teletype, video terminal or printer connexion.\n\nSystem had no bootstrap ROM. User had thus to enter a boot program using panel switches each time the system was switched on. However, every 8800 owners quikly bought or built additional card to expand RAM and ROM memory and connect external peripherals. \n_______________________",
+  "shot": [],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;NEW ZEALAND ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;From left to right arrow, advert says:\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; Redesigned front panel. Totally synchronous logic design. Same switch and LED arrangement as original Altair 8800. New back.lit Duralith (laminated plastic and mylar, bonded to aluminum) dress panel with multi.color graphics. New longer, flat toggle switches. Five new functions stored on front panel PROM inc1uding: DISPLAY ACCUMULATOR (displays contents of accumulator), LOAD ACCUMULATOR (loads contents of the 8 data switches (A7.AO) into accumulator), OUTPUT ACCUMULATOR (Outputs contents of accumulator to I/O device addressed by the upper 8 address switches), INPUT ACCUMULATOR (inputs to the accumulator from the I/O device), and SLOW (causes program execution at a rate of about 5 cycles per second for program debugging). \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Two, 34 conductor ribbon cable assemblies. Connects front panel board to front panel interface board. Eliminates need for complicated front panel/bus wiring. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; New front panel interface board buffers all lines to and from 8800b bus. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Rugged, commercial grade Optima cabinet. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Full 18 slot motherboard. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; New CPU board with 8080A microprocessor and Intel 8224 clock generator and 8216 bus drivers. Clock pulse widths and phasing as well as frequency are crystal controlled. Compatible with all current Altair 8800 software and hardware!. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; New, heavy duty power supply: +8 volts at 18 amps, + 18 volts at 2 amps, -18 volts at 2 amps. 110 volt or 220 volt operation (50/60 Hz). Primary tapped for either high or low line operation.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Murray Moffatt\u0026lt;/b\u0026gt; from New Zealand\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Mits_Altair8800b_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;NEW ZEALAND ADVERT  #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert says:\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; Imagine a microcomputer with all the design savvy, ruggedness, and sophistication of the best minicomputers.\u0026lt;br\u0026gt; Imagine a microcomputer supported by dozens of interface, memory and processor option boards. One that can be Interfaced to an indefinite number of peripheral devices including dual floppy discs, CRTs, line printers, cassette recorders, video displays, paper tape readers, teleprinters. plotters, and custom devices.\u0026lt;br\u0026gt; Imagine a microcomputer supported by extensive software IncludIng Extended BASIC, DISK BASIC, DOS and a complete library of business, developmental, and Industrial programs.\u0026lt;br\u0026gt; ImagIne a microcomputer that will do everything a mini will do, only at a fraction of the cost.\u0026lt;br\u0026gt; You are imagining the Altair 8800b. The Altair 8800b is here today, and it may very welt be the mainframe of the 70\u0027s. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The Altair 8800b is a second generation design of the most popular microcomputer In the field, the Altair 8800. Built around the 8800A microprocessor, the Altair 8800b is an open ended machine that is compatible with all Altair 8800 hardware and software. It can be configured to match most any system need.\u0026lt;br\u0026gt; MITS\u0027 plug-In compatible boards for the Altair 8800b now include: 4K static memory. 4K dynamic memory, 16K static memory, multi-port serial interface, multi-port parallel interface, audio cassette record interface, vectored interrupt, real time clock, PROM board, multiplexer, AID convertor, extender card, disc controller and line printer interface.\u0026lt;br\u0026gt; MITS\u0027 peripherals for the Altair 8800b include the Altair Floppy Disc, Altair Line Printer, teletypewriters, and the soon-to-be-announced Altair CRT terminal. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Introductory prices for the Altair 8800b are $840 for a kit with complete assembly instructions, and $1100 for an assembled unit. Complete documentation, membership into the Altair Users Club, subscription to \u0026quot;Computer Notes\u0026quot;, access to the Altair Software Library, and a copy of Charles J. Sippi\u0027s Microcomputer Dictionary are included.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Murray Moffatt\u0026lt;/b\u0026gt; from New Zealand \u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Mits_Altair8800b_Advert_s2.jpg"
+    }
+  ],
+  "hardware": [
+    {
+      "type": "DISC DRIVES",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Mits_Altair8800b_AltairFD.jpg",
+          "description": "Altair Disk||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ALTAIR DISK\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Each drive could store up to 300 KB of files and data\u0027s. The drive was delivered with a disk controller card, an operating system and an extended disk BASIC.\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Mits_Altair8800b_AltairFDBack.jpg",
+          "description": "Back side||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BACK SIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Mits_Altair8800b_DualFD_s2.jpg",
+          "description": "Dual FD unit #1||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DUAL FD UNIT #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Mits_Altair8800b_SystemFD.jpg",
+          "description": "Dual FD unit #2||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DUAL FD UNIT #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    }
+  ],
+  "emulator": [
+    {
+      "platform": "Windows emulator",
+      "name": "8800b emulator",
+      "link": "http://www.nwlink.com/~tigger/altair.html",
+      "description": "No keyboard, no mouse, no display, only switches..."
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "Telnet Altair BASIC",
+      "link": "http://museum.sysun.com/museum/altconn.html",
+      "description": "Want to connect with Altair BASIC? Click here!"
+    }
+  ],
+  "link": [
+    "http://www.virtualaltair.com/"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/Mits_Altair8800b_System_1.jpg",
+  "builtInGames": "None",
+  "controllers": "",
+  "media": "No mass storage",
+  "numGames": "",
+  "peripherals": "Lots of S-100 expansion cards from many manufacturers",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

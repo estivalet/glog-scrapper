@@ -1,0 +1,166 @@
+{
+  "name": "Bosman 8",
+  "manufacturer": "G.Z.E. Unimor",
+  "type": "Professional Computer",
+  "origin": "Poland",
+  "year": "1987",
+  "production": "",
+  "language": "Unknown",
+  "keyboard": "full stroke keyboard with numeric keypad and kind of colored function keys",
+  "cpu": "MME UA 880D (Zilog Z80A russian clone)",
+  "speed": "4 MHz",
+  "coprocessor": "",
+  "ram": "60 KB free for user",
+  "vram": "Unknown",
+  "rom": "16 KB",
+  "text": "80 x 25",
+  "graphics": "512 x 256",
+  "colors": "Unknown",
+  "sound": "Built-in beeper",
+  "size": "Unknown",
+  "ports": "ZDG (ex: Robotron 1152) printer connector (DB25 female), Monitor output (DB9 male), V-24 serial connector (DB25 male), Terminal connector (DB9 female)",
+  "power": "Built-in power supply (+5v, +12v, -12v)",
+  "price": "1 300 000 zl (Poland, 1987)",
+  "description": "\nThe Bosman 8, was made by \u0026quot;G.Z.E. Unimor\u0026quot; (Gdanskie Zaklady Elektroniczne Unimor) in Poland (Gdansk to be precise). It was released in 1987 as a system for schools and offices, but even CAD/CAM software was developed for this machine and later, as being too expensive (cost 1 300 000 zl) and extremely hard to get (apparently only 1000 models have been produced), Bosman 8 was used mainly as a terminal for automatized processes (designing printed boards).\n\nThe main particularity of the Bosman 8 is that what you think is only an external disk drive is in fact the computer itself! Yes, everything is in this small box. But it needs to be connected to a terminal and a monitor. Two keyboard/terminals were available: AN-2001 and ANG-3001, the latter featuring graphic possibilities. Indeed, the Bosman 8 seems to let the terminal manage all the display, hence different display features according to what \u0026quot;keyboard\u0026quot; terminal you are using... In fact it looks like the Bosman 8 was conceived as a system to turn an already existing terminal into a real computer.\n\nThe main unit was powered by a Z80A processor running at 4MHz, and has 16 KB of ROM. Another original feature is the amount of memory available. The User Manual claims to offer 512 KB of RAM (60KB operating memory and a 416KB on disk, which doesn\u0027t even make the count). In fact it seems that the Bosman 8 has 64 KB RAM (60 KB free for user?) and then can use 7 more 60 KB banks stored on disk, through a bank switching technique. Clever and quite original...\n\nTwo 3\u0026quot;1/2 or one 5\u0026quot;1/4 (200 KB?) floppy drives were built-in the system (max disk size was 800 KB - DS DD according to the manual). The monitor shipped with the Bosman 8 was a monochrome Neptun 159. There were also two more types of 12 \u0027\u0027monochrome monitors developed for it - an \u0026quot;M4902\u0026quot; and a \u0026quot;M4801\u0026quot; that was capable of working with a CGA or Hercules type display. \n\nThe whole system was apparently available in two colour versions: a bright gray model and dark gray model, but the differences are unclear (anyone can help?).\n\nIt run on a CPM/R operating system and the manual says it\u0027s compatible with CP/M\n2.2. \n\n___________\n\nContributors: Tomasz Droszcz (info \u0026amp; picture)\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BOSMAN 8\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Tomasz \u0026quot;Thomsonicus\u0026quot; Droszcz for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/gze-unimor_bosman-8_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MAIN UNIT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Tomasz \u0026quot;Thomsonicus\u0026quot; Droszcz for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/gze-unimor_bosman-8_unit.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;From left to right: \u0026lt;br\u0026gt; - Terminal: connects to the terminal keyboard\u0026lt;br\u0026gt; - V-24 connector (mainly for printers)\u0026lt;br\u0026gt; - Monitor: connects to the terminal monitor\u0026lt;br\u0026gt; - Drukarka: printer connector, ex: Robotron 1152\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Tomasz \u0026quot;Thomsonicus\u0026quot; Droszcz for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/gze-unimor_bosman-8_rear.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;THE MOTHERBOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Very clean...\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.silicium.org\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;www.silicium.org\u0026lt;/a\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/gze-unimor_bosman-8_mobo_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE THE KEYBOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;We can clearly see here that this is more than a simple keyboard, but a real terminal, which manage all display features.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.silicium.org\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;www.silicium.org\u0026lt;/a\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/gze-unimor_bosman-8_inside-keyboard.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INTERCONNECTION SCHEME\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Here we can clearly see that the Bosman 8 was conceived to use the monitor and the keyboard of a \u0026quot;classic\u0026quot; terminal.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Tomasz \u0026quot;Thomsonicus\u0026quot; Droszcz for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/gze-unimor_bosman-8_connection-scheme.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MEMORY MAP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The Bosman 8 is using the floppy disk drive as a virtual memory. Apart from the original 64 KB RAM, 7 more 60 KB banks stored on disk can be accessed through a memory switching technique...\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Tomasz \u0026quot;Thomsonicus\u0026quot; Droszcz for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/gze-unimor_bosman-8_memory-map.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT, OCT 1983\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Last sales in the UK. At the same time, a Commodore VIC-20 cost \u0026pound;139 and a Commodore 64 cost $229\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/TI_TI994A_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROMOTIONAL LEAFLET - INSIDE #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/bandai_gundam-rx-78_promo-leaflet_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FLYER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.console-picture-page.de\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;www.console-picture-page.de\u0026lt;/a\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/palladium_video-computer-game_flyer.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JACQUARD BROCHURE #3\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Strange logo isn\u0027t it?\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Jacquard_J500_Brochure_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (MAY 1984)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Multitech_MPF1_Advert_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT (1986)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;November 1986 price list:\u0026lt;br\u0026gt; Monochrome - Single drive: \u0026lt;b\u0026gt;\u0026pound;399\u0026lt;/b\u0026gt; + VAT\u0026lt;br\u0026gt; Monochrome - Dual drive: \u0026lt;b\u0026gt;\u0026pound;499\u0026lt;/b\u0026gt; + VAT\u0026lt;br\u0026gt; Colour - Single drive: \u0026lt;b\u0026gt;\u0026pound;549\u0026lt;/b\u0026gt; + VAT\u0026lt;br\u0026gt; Colour - Dual drive: \u0026lt;b\u0026gt;\u0026pound;649\u0026lt;/b\u0026gt; + VAT\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Optional 10 MB hard disk: \u0026lt;b\u0026gt;\u0026pound;300\u0026lt;/b\u0026gt; + VAT   \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Amstrad_PC1512_UKAdv_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT #4(1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The users featured in the ad said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; (left) \u0026lt;i\u0026gt;Programming is a snap! I\u0027m halfway through Apple\u0027s BASIC manual and already I\u0027ve programmed my own Star Wars game.\u0026lt;/i\u0026gt;\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; ...with half of the universe\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; (middle) \u0026lt;i\u0026gt;Those math programs I wrote last week - I just rewrote them using Apple\u0027s mini assembler and got them to run a hundred time faster.\u0026lt;/i\u0026gt;\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Of course, it\u0027s very easy for a newbie programmer to program maths assembly routines with a microprocessor which only knows how to add and subtract integer values.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; (right)\u0026lt;i\u0026gt;Apple\u0027s smart peripherals make expansion easy. Just plug\u0027em it and you are ready to run. I\u0027ve already added two disks, a printer and a communication card.\u0026lt;/i\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Apple_II_Advertd_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;8086 VERSION\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;In september 1982, Seattle Computer provided the 8086 version of the Gazelle with a free set of software: Microsoft MS-DOS, GW-Basic and the Perfect Writer word processor. \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/SeattleComp_Gazelle_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CHARLIE CHAPLIN #7 \u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;TopView, one of the first serious multitasking tool for the IBM PC.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Byte Magazine, July 1985\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/IBM_5150_ChaplinAdvert_7.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ARGENTINIAN ADVERT \u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.speccy.org/czarg/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;CZARG\u0026lt;/a\u0026gt; for this picture.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/cz_cz-spectrum_ad-arg_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN LIFLEAT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sharp_MZ80B_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN AD #4\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;www.sharpmz.org\u0026lt;/b\u0026gt; \u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sharp_MZ700_Advert_4.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (1985)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This detailed advert presents a complete EXL-100 with all the pripherals available then (printer, disk, tape, modem, carts, etc.).  \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026quot;Exelvision, the french micro-computing challenge\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/exelvision_exl100_ad_may85.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN BROCHURE #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Volken\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Atari_Stacy_GermanDoc_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPANESE ADVERT.\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;She seems so happy to have an Hit-Bit...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sony_HB-75_advert.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (1985)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;The Empire Strikes Back\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/toshiba_t300_french-ad_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;8-PAGE US ADVERT #5\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Compaq_PortableIII_Advert_s5.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MITS BROCHURE #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Altair_8800_SaleBrochure_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT (JUNE 1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Goupils invade Paris area\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/smt_goupil2_ad_region-parisienne.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1979 RANGE ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert shows: \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; - the \u0026lt;b\u0026gt;WH89\u0026lt;/b\u0026gt; computer ($2295)\u0026lt;br\u0026gt; - the \u0026lt;b\u0026gt;WH11A\u0026lt;/b\u0026gt; 16-bit computer, DEC PDP 11/03 compatible ($1895)\u0026lt;br\u0026gt; - the \u0026lt;b\u0026gt;WH19\u0026lt;/b\u0026gt; video terminal ($995)\u0026lt;br\u0026gt; - the \u0026lt;b\u0026gt;WH26\u0026lt;/b\u0026gt; dual floppy disc system ($2595)\u0026lt;br\u0026gt; - the \u0026lt;b\u0026gt;WH14\u0026lt;/b\u0026gt; serial printer ($895)\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;  To note: in 1979, the company name was \u0026lt;b\u0026gt;Heath Schlumberger data systems.\u0026lt;/b\u0026gt; \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Heathkit_H89_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TANDY 1988 CATALOG\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.switchtech.us/Tandy1000.html\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;SWITCHTECH\u0027S Tandy 1000SX page\u0026lt;/a\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/tandy_1000ex_1988-catalog.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/digital_VT180_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ITALIAN AD #3\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;http://angelmemories.cjb.net/\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sinclair_SpectrumP_AdItaly_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD #1 (1984)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Electron, the personal micro which has talents of a pro\u0026quot;...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/acorn_electron_ad1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [],
+  "image": "http://www.old-computers.com/museum/photos/gze-unimor_bosman-8_1s.jpg",
+  "builtInGames": "Unknown",
+  "controllers": "",
+  "media": "1 x 5\u0027\u00271/4 floppy disk drive or 2 x 3",
+  "numGames": "",
+  "peripherals": "Printers, additional disk drives",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

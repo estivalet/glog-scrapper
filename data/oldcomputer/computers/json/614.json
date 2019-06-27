@@ -1,0 +1,51 @@
+{
+  "name": "Gazelle",
+  "manufacturer": "Seattle Computer",
+  "type": "Professional Computer",
+  "origin": "U.S.A.",
+  "year": "November 1979",
+  "production": "1983",
+  "language": "None",
+  "keyboard": "Serial video terminal",
+  "cpu": "8088 then 8086",
+  "speed": "8 Mhz.",
+  "coprocessor": "None",
+  "ram": "128 KB expandable up to 896 KB",
+  "vram": "",
+  "rom": "Unknown",
+  "text": "80 chars. x 25 lines",
+  "graphics": "",
+  "colors": "None",
+  "sound": "",
+  "size": "Unknown",
+  "ports": "3 x Serial (19200 bauds), 1 x parallel ports",
+  "power": "Integrated constant-voltage power supply unit",
+  "price": "$5995",
+  "description": "\nEven if you\u0027ve never heard of this massive computer, the Gazelle is truly a historic computer. Neither because it was one of the first 8088, then 8086 based computer, nor because this Gazelle is propably the heaviest 8088 system ever built, but because it was the computer Tim Paterson wrote DOS for, the first DOS operating system that became later MS-DOS 1.0 when Microsoft bought the rights to DOS from Tim\u0027s company, afterwards.\n\nSee in the \u0026quot;Internet Links\u0026quot; section various links about Tim Paterson and origins of MS-DOS.\n\nThe Gazelle was a S-100 bus based system, engineered to be fast, reliable and expandable. Eighteen S-100 boards could be installed in the case, as well as an additional 8\u0026quot; Winchester hard disk. The Constant-voltage power supply provided clean and constant power, even under brownout conditions. It also allowed reliable operation in a noisiest electrical environment.\n\nThe Gazelle was discontinued in 1983, and Seattle Computer continued to manufacture more standard PC compatible systems.  \n \n\n\n",
+  "shot": [],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The Gazelle was a huge computer compared to the personal computer sizes of the time, so large that it has casters on the cabinet for moving it!\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/SeattleComp_Gazelle_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;8086 VERSION\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;In september 1982, Seattle Computer provided the 8086 version of the Gazelle with a free set of software: Microsoft MS-DOS, GW-Basic and the Perfect Writer word processor. \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/SeattleComp_Gazelle_Advert_2.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [
+    "http://www.patersontech.com/Dos/"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/SeattleComp_Gazelle_System_1.jpg",
+  "builtInGames": "None",
+  "controllers": "",
+  "media": "2 x 8\u0027\u0027 1.25 MB F.D. drives",
+  "numGames": "",
+  "peripherals": "Up to 18 x S-100 boards - 8\u0027\u0027 Winchester disk",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

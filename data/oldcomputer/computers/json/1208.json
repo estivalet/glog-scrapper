@@ -1,0 +1,101 @@
+{
+  "name": "Geneve 9640",
+  "manufacturer": "Myarc",
+  "type": "Home Computer",
+  "origin": "U.S.A.",
+  "year": "1987",
+  "production": "",
+  "language": "",
+  "keyboard": "",
+  "cpu": "Texas Instruments TMS9995",
+  "speed": "12 MHz",
+  "coprocessor": "Texas InstrumentsTMS9938 (Yamaha V9938) 128K display + TMS9901 Interrupt Controller + MM58274 real-time clock",
+  "ram": "512 KB 1-wait-state CPU RAM (expandable to 2mb) + 32 KB 0-wait-state CPU RAM (expandable to 64K)",
+  "vram": "128 KB VDP RAM",
+  "rom": "",
+  "text": "80 columns",
+  "graphics": "256 x 424 (256 colors), 512 x 424 (16 colors)",
+  "colors": "512",
+  "sound": "SN76496 sound processor",
+  "size": "",
+  "ports": "RGB \u0026amp; composit video ouput (8-pin DIN), mouse, joystick port, keyboard connector (IBM compatible)",
+  "power": "",
+  "price": "Unknown",
+  "description": "\nIn 1983, Texas Instruments announced the cancellation of the 99/4A Home Computer.  This was shortly after they announced their intention to produce its successor, the TI-99/8, a computer with the \u0026quot;big brother\u0026quot; to the 4A\u0027s TMS9900 processor, the TMS9995.\n\nMyarc was a company that made a name for itself selling expansion cards for the TI\u0027s Peripheral Expansion Box, including memory, RS232, and disk controller cards.  They also produced a \u0026quot;replacement\u0026quot; for the large PE Box in a smaller self-contained unit.  Then, Myarc dropped the bombshell that they were producing an \u0026quot;upgrade\u0026quot; computer.  The unnamed machine - actually just a mock-up in a shell very similar to the 99/8, was shown at the large, annual Chicago TI Faire.\n \nAfter a few years of false starts and production delays, the Myarc Geneve 9640 Family Computer was for sale.  The TI PE Box attached to the 4A via an interface card and large \u0026quot;firehose\u0026quot; cable.  The Geneve replaced this card, its cable, and the TI console itself - a \u0026quot;computer on a card.\u0026quot;  It featured the faster processor meant for the 99/8, 80-column high-res graphics (composite and RGB interfaces were included), the ability to run almost all 4A software (including cartridges saved to a disk format), mouse and joystick interfaces, an IBM-style keyboard, and an Operating System somewhat similar to DOS.\n\nThe system shipped with mostly incomplete software, and this ultimately led to the demise of Myarc and the machine itself.  Today, Genve\u0027s can be found but are fairly rare.\n\n__________\n\nContributors: Andy Frueh and the TI community\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;THE MYARC GENEVE \u0026ldquo;COMPUTER-ON-A-CARD\u0026rdquo;.  \u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This card would be inserted in the TI Peripheral Expansion System in slot one \u0026ndash; the slot normally taken up by the Flex Interface Card (the \u0026ldquo;firehouse\u0026rdquo;) that connected to the 4A console.  The 4A console was unused in the Geneve system.  Any memory expansion cards that gave the TI its additional 32K of RAM had to be removed or altered, as they would interfere with the Geneve.  RS232 and Disk Controller cards were generally compatible with the system.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Fabrice Montupet and his fabulous site \u0026lt;a target\u003d\u0026quot;_blank\u0026quot; href\u003d\u0026quot;http://www.ti99.com\u0026quot;\u0026gt;www.ti99.com\u0026lt;/a\u0026gt; for this picture!\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/myarc_geneve_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;THE CARTRIDGE CLOSED\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/myarc_geneve_closed_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ELECTRONIC BOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Wonderful drawing of the Geneve mother board by Ron Reuter!\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Ron Reuter and its website \u0026lt;a href\u003d\u0026quot;http://www.mainbyte.com\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;www.mainbyte.com\u0026lt;/a\u0026gt; for this picture.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/myarc_geneve_mobo_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ELECTRONIC BOARD - REAL PICTURE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/myarc_geneve_mobo_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ELECTRONIC BOARD EXPLAINED\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Ron Reuter and its website \u0026lt;a href\u003d\u0026sect;http://www.mainbyte.com\u0026sect; target\u003d\u0026sect;_blank\u0026sect;\u0026gt;www.mainbyte.com\u0026lt;/a\u0026gt; for this picture.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/myarc_geneve_mobo_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ELECTRONIC BOARD - DETAIL\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/myarc_geneve_mobo_detail_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ELECTRONIC BOARD - DETAIL #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/myarc_geneve_mobo_detail_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CONNECTORS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;from left to right: \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; - joystick\u0026lt;br\u0026gt; - mouse\u0026lt;br\u0026gt; - video\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/myarc_geneve_connectors.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LOGO\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/myarc_geneve_logo_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;COMPUTER 99/8\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;It could be said that the never-released TI-99/8 was the predecessor to the Geneve.  It shared the same processor and speed characteristics.  However, it had a cartridge port (not 4A compatible) and featured the new TI Hex Bus interface \u0026ndash; a simpler and cheaper way to daisy-chain peripherals vs. the Peripheral Expansion System.  In many ways \u0026ndash; such as the DOS, the graphics \u0026ndash; the Geneve was a superior machine to this never-released successor to the 99/4A.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Fabrice Montupet and his fabulous site \u0026lt;a target\u003d\u0026quot;_blank\u0026quot; href\u003d\u0026quot;http://www.ti99.com\u0026quot;\u0026gt;www.ti99.com\u0026lt;/a\u0026gt; for this picture!\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/myarc_geneve_3.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;OFFICIAL FLYER (RECTO)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.mainbyte.com\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;www.mainbyte.com\u0026lt;/a\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/myarc_geneve_flyer_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;OFFICIAL FLYER (VERSO)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.mainbyte.com\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;www.mainbyte.com\u0026lt;/a\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/myarc_geneve_flyer_2.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [
+    {
+      "platform": "Multiplatform emulator",
+      "name": "MESS",
+      "link": "http://www.mess.org",
+      "description": "MESS seems to emulate the Geneve 9640!"
+    }
+  ],
+  "link": [
+    "http://perso.orange.fr/fabrice.montupet/geneve.htm",
+    "ftp://ftp.whtech.com/9640news",
+    "ftp://ftp.whtech.com/geneve/"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/myarc_geneve_1.jpg",
+  "builtInGames": "",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

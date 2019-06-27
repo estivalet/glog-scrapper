@@ -1,0 +1,150 @@
+{
+  "name": "PET 2001",
+  "manufacturer": "Commodore",
+  "type": "Professional Computer",
+  "origin": "U.S.A.",
+  "year": "1977",
+  "production": "",
+  "language": "Commodore Basic 1.0",
+  "keyboard": "73 key \u0027chicklet\u0027 keyboard with numeric keypad",
+  "cpu": "6502",
+  "speed": "1 mHz",
+  "coprocessor": "",
+  "ram": "4 KB (early version) then 8 KB",
+  "vram": "1 KB",
+  "rom": "14 KB",
+  "text": "40 x 25",
+  "graphics": "None",
+  "colors": "Monochrome",
+  "sound": "",
+  "size": "",
+  "ports": "IEEE 488, Parallel port, second, \u0027\u0027user port\u0027\u0027 for 8-bit I/O, cassette port inside the case, rarely used",
+  "power": "Built-in power supply unit",
+  "price": "?700 (8 KB RAM - 1978)",
+  "description": "\nThe Commodore PET 2001 was a very successful machine. Four models were made:  early 4KB models, the PET 2001-8N with 8 KB RAM, PET 2001-16N with 16 KB RAM and the PET 2001-32N with 32K RAM. This mchine was conceived by Chuck Peddle who later joined Tandon, a drive manufacturer.\n\nTrivia from Dave Lundberg:\nThe static RAMs in the early 2001\u0027s got so hot that they would often \u0026quot;crawl\u0026quot; up out of their sockets over time.  The \u0026quot;official\u0026quot; solution?  Re-seat the chips and put a nylon wire tye under the socket and over the chip to hold it snuggly in place.\nMore trivia:  Microsoft \u0026quot;quietly\u0026quot; wrote the BASIC used in the 40-column PETs.  Proof?  Type:  wait 6502, 10 and \u0026quot;MICROSOFT!\u0026quot; will be printed on the display 10 times.\n\nGuy Tailor reports:\n(99% sure this is true...). The following app will cause the Pet 2001 to catch fire!!!\n10 motor 1\n20 motor 0\n30 goto 10\nIt turns the tape motor on and off so quickly, it overheats and... flames!! :-)\n\nAlan R Morris answers:\nGuy Tailor\u0027s report is probably untrue as it was generally known that it was impossible to damage the original PETs by any programming, including fast, (if fast is the right word) POKEs.  I\u0027ve never heard of the keyword \u0027motor\u0027 in any of the \u0027toolkit\u0027 ROMs that I\u0027ve used.\n\nEven flipping bit 3 of $E813 on and off, which would turn motor 1 on and off, would probably not cause it to catch fire.  Especially as the IRQ service routine would normally turn off the tape motors, unless the status flag for the cassette was poked to a non-zero value.\n\nIan Callow adds:\nGuy Tailor\u0027s program actually relates to the BBC Micro \u0026amp; Acorn Electron. The PET did not have a \u0026quot;motor\u0026quot; command. In any event, all it did on the BBC was burn out the motor relay.\n\nMore details from Frank Leonhardt:\nit\u0027s an \u0027urban myth\u0027 which was made up about the BBC Micro. However, it was based on a true story about the PET - there was a location you could poke to do with the graphics frequency which if you set it wrong could cause the HT supply in the monitor way over-voltage, which would sometimes break down the transformer. This came up in the PCW magazine* after someone wrote \u0026quot;it is\nimpossible to damage a computer with bad software\u0026quot;.\n\n* Frank was the first Technical Editor for the famous Personal Computer World magazine, England\u0027s (Europe\u0027s) biggest computer magazine - founded in 1978.\n\nAlexander Pierson reports:\nChuck Peddle himself said that despite the official name, the Personal Electronic Transactor, is not what it is really named for.  From seeing the Pet Rock fad take off, Chuck thought \u0026quot;if this guy can make 15 bucks or so from selling a rock, then if this computer is named like it, the PET should surely succeed.\u0026quot;\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;\u0027\u0027BLUE\u0027\u0027 MODEL\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/commodore_pet2001_bleu.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;\u0027\u0027BLUE\u0027\u0027 MODEL #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Commodore_Pet_System_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PET-2001 16N\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This model has a real full-stroke keyboard.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/commodore_pet-2001-16n_mechanical.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE THE PET 2001\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;All major chips (Microprocessor, Memory, I/O) are MOS brand as MOS Co. was a subsidiary of Commodore Business Machines.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;  \u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; 16 x 6550 RAM chips (4K x 1) holding 8 KB user RAM\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; 7 x 6540 ROM chips (2K x 8) holding 14 KB Microsoft Basic interpreter 1.0\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; 6502 microprocessor running at 1 Mhz.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(4)\u0026lt;/b\u0026gt; 2 x 6550 RAM chips (1 KB) are used for the video RAM\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(5)\u0026lt;/b\u0026gt; 6540 ROM chip holding the characters generator\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(6)\u0026lt;/b\u0026gt; Second tape recorder connector (left) and 2 x IEEE-488 connectors\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(7)\u0026lt;/b\u0026gt; Video signal connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(8)\u0026lt;/b\u0026gt; Coolers for the 4 x onboard 5 volts regulators\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(9)\u0026lt;/b\u0026gt; 3 x 6520/6522 I/O chips\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(10)\u0026lt;/b\u0026gt; Keyboard connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(11)\u0026lt;/b\u0026gt; Built-in tape recorder connector and cable. \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Commodore_Pet_Inside_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DISPLAY MODULE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;A classic monochrome 9\u0026quot; tube and video board\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Commodore_Pet_DispModule_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DISPLAY MODULE #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Commodore_Pet_DispModule_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;COMPLETE SYSTEM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Complete system with PET 2001 + dual drive floppy disk + tractor printer\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/commodore_pet_complete_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US DEALER ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; Until now, parents interested in expanding their children\u0027s educational experience, turned to expensive encyclopedias. With the advent of the PET personal computer a new avenue of visual learning is now available for your youngsters for as low as $595....\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; ... Your youngster will think he\u0027s playing, you\u0027ll know he\u0027s learning with the remarkable PET... \u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; At the time, parents often thought a personal computer could help their youngsters learning, but 80% of the home computers sold in the 80\u0027s was used only for playing. \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Douglas Reedy\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Commodore_Pet_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DUTCH ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Richard de Keijzer\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/commodore_pet2001_dutch-advert_1.jpg"
+    }
+  ],
+  "hardware": [
+    {
+      "type": "EXTERNAL MODULES",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Commodore_Pet_ClockModule_1.jpg",
+          "description": "Clock/Calendar module||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CLOCK/CALENDAR MODULE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Could be connected to any PET/CBM user port. Clock and calendar were battery backed up.\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Commodore_Pet_EpromProg_1.jpg",
+          "description": "Eprom programmer||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;EPROM PROGRAMMER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Could burn 2716 and 2732 Eprom chips.\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Commodore_Pet_TNW2000_1.jpg",
+          "description": "TNW-2000|||IEEE-488 to Serial converter|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TNW-2000\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;IEEE-488 to Serial converter\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Pascal Rollin\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "FLOPPY \u0026amp; HARD DRIVE UNITS",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/commodore_cbm2040-dualdisks_1.jpg",
+          "description": "Dual disk-drives|||Model 2040|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DUAL DISK-DRIVES\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Model 2040\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This dual 5.25\u0026quot; floppy disk is single sided, double density and has a storage capacity of 170 Kb per disk, or 360k total. It\u0027s connected to the computer through an IEEE-488 interface and uses CBM DOS 1.0. \u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/commodore_cbm_8050_diskdrives.jpg",
+          "description": "8050 dual disk-drive||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;8050 DUAL DISK-DRIVE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;CBM PET Model 8050 Dual disk drive. It uses a 100 TPI single headed drive with a storage capacity of 533,248 bytes per drive. Each 8050 disk has 77 tracks, and is read/write compatible with the model 8250 disk. This compatibility is limited to one side of the diskette. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; It can be used with Commodore Series 2001, Series 3000, Series 4000 and Series 8000. It uses an IEEE-488 interface.\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Commodore_700_8250FDDunit_1.jpg",
+          "description": "8250-LP dual drive unit||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;8250-LP DUAL DRIVE UNIT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The 8250-LP (for Low Profile) uses dual half-size double-side, double-density 1 MB capacity floppy drives. The main logic board is entirely different from the full-size 8250. It uses two 6502 processors!\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/commodore_cbm_9090_harddisk.jpg",
+          "description": "9090 Hard-disk||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;9090 HARD-DISK\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is a single drive non-removeable Winchester technology storage device. It features 3 platters with recording surfaces on both sides and provides 7.5 million characters of storage. A single random access file may occupy the entire capacity. It has an IEEE interface connector and a \u0026quot;slow blow\u0026quot; fuse on the back.\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "PRINTERS",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/commodore_printer_8032p.jpg",
+          "description": "8023P COMMODORE TRACTOR PRINTER  ||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;8023P COMMODORE TRACTOR PRINTER  \u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    }
+  ],
+  "emulator": [
+    {
+      "platform": "Windows emulator",
+      "name": "Versatile Commodore 8-bit Emulator (VICE)",
+      "link": "http://www.6502.org/users/andre/index.html"
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d104",
+    "computer.asp?st\u003d1\u0026amp;c\u003d952",
+    "computer.asp?st\u003d1\u0026amp;c\u003d105",
+    "computer.asp?st\u003d1\u0026amp;c\u003d103",
+    "computer.asp?st\u003d1\u0026amp;c\u003d746",
+    "computer.asp?st\u003d1\u0026amp;c\u003d102",
+    "computer.asp?st\u003d1\u0026amp;c\u003d675",
+    "http://www.portcommodore.com/petindex.php?path\u003dmain-cbmidx",
+    "http://www.kmoser.com/commodore/",
+    "http://www.6502.org/users/andre/petindex/index.html",
+    "http://ca.geocities.com/SJGRAY@ROGERS.COM/CBM/",
+    "http://freespace.virgin.net/ken.ross1/",
+    "http://www.tpug.ca/",
+    "http://www.commodore.ca/products/pet/commodore_pet.htm",
+    "news:comp.binaries.cbm",
+    "news:comp.binaries.cbm",
+    "news:comp.sys.cbm"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/commodore_pet2001_clavier-merdique.jpg",
+  "builtInGames": "Commodore Basic 1.0",
+  "controllers": "",
+  "media": "tape recorder",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

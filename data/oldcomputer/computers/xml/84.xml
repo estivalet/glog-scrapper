@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computer>
+    <adverts>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;FRENCH ADVERT (JAN. 1985)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;quot;After the compliments made to the Amstrad CPC-464, what could be added ?&amp;quot;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/amstrad_cpc464_pub_tous-les-compliments.jpg</link>
+        </advert>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;U.K. AD. (DEC. 1985)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Special Christmas offer with 12 games.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt; Monochrome version: &amp;lt;b&amp;gt;&amp;pound;199&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; Colour version: &amp;lt;b&amp;gt;&amp;pound;299&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/Amstrad_cpc464_UKadvert_2.jpg</link>
+        </advert>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;U.K. AD. (NOV. 1986)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Same offer and same sale prices as in December 1985&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/Amstrad_cpc464_UKadvert_1.jpg</link>
+        </advert>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;464 - 6128 PERIPHERALS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;From top left to bottom right:&amp;lt;br&amp;gt; - T.V. modulator for the CPC 6128&amp;lt;br&amp;gt; - Joystick with joystick adaptor&amp;lt;br&amp;gt; - T.V. modulator for the CPC 464&amp;lt;br&amp;gt; - Disc drive with interface and CP/M for CPC 464&amp;lt;br&amp;gt; - Speech synthesizer and stereo amplifier&amp;lt;br&amp;gt; - Additional disc drive&amp;lt;br&amp;gt; - Light pen with graphics software&amp;lt;br&amp;gt; - RS232 interface&amp;lt;br&amp;gt; - DMP 2000 dot printer&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/Amstrad_cpc464_UKadvert_3.jpg</link>
+        </advert>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;FRENCH ADVERT (APRIL 1987)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;quot;Once upon a time, the future&amp;quot;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/amstrad_cpc464_advert_future_1.jpg</link>
+        </advert>
+    </adverts>
+    <batteries></batteries>
+    <builtInGames>Locomotive Basic</builtInGames>
+    <buttons></buttons>
+    <colors>27</colors>
+    <controllers></controllers>
+    <coprocessor></coprocessor>
+    <cpu>Zilog Z80</cpu>
+    <description>
+The Amstrad CPC 464 was one of the most successful computers in Europe. More than two million computers were sold. Despite its ordinary characteristics (like those of the Sinclair Spectrum and often less interesting than those of the others like the Commodore 64 or Atari XL/Xe series) or odd features (like video memory or strange floppy disk format), it was very popular because of its really low price and its interesting commercial concept : all peripherals were sold together (like the Commodore PET that was sold years earlier): CPU/keyboard, tape recorder, monitor (monochrome green or colour).
+
+A huge number of programs and peripherals were developed for this machine. It ran AmsDos (Amstrad's Operating System). AmsDos was completely embedded in the Basic using so-called RSX  commands starting with |, but it could not 
+format disks, you needed a special application for that.
+The 464 also could use CP/M 2.2 or 3.0 when used with an external Floppy disk unit (3&amp;quot; Hitachi, 180 KB / face). A lot of great CP/M software was adapted for the Amstrad CPC.
+
+About 42 KB RAM was available for the user, the video memory and the ROM were mapped on the same addresses with a dedicated chip to switch the memory banks automatically.  
+
+Notice that the first Amstrad CPC prototype (called &amp;quot;Arnold&amp;quot;, which gave the name ROLAND (Arnold acronym) to several CPC games) was built around a 6502 processor and then changed to a Z80 late in the computer?s development. A few months later, the CPC series would be completed with a computer which offered a built-in floppy disk unit: the CPC 664.
+
+Ekkehard Morgenstern from Germany reports:
+AMSDOS could be run only with Amstrad's 3&amp;quot; floppy disk drive. CP/M could be run either with 3&amp;quot; floppy disk drives or other drives available on the market. (I had a 5 1/4&amp;quot; Vortex disk drive with 704K capacity)
+
+Actually CP/M was pretty good compared to MS-DOS, but of course it was only 8 bit. Interesting was that the Z80 processor was downwards compatible to the 8080 processor and hence allowed the 8-bit CP/M to be run without changes. But when programming in assembly language, you had to use the 8080 instruction set which had different mnemonics than the Z80's. 
+
+There was a lot of cool add-on hardware for the CPC. I had a MAXAM module which had a built-in editor, assembler and disassembler in ROM. This made it fairly easy to write BASIC and assembly mixed programs. (It would've been better though if the Locomotive BASIC would've had the ability to mix BASIC and assembly, like the BBC computer did)
+
+Locomotive BASIC was surprisingly fast at the time and had even software interrupts, with which it was possible to react to hardware interrupts that were passed to the BASIC interpreter. Hence you could write programs that behaved like multitasking apps. The language also had an advanced sound architecture containing commands to define different wave-forms.
+
+The tape drive routines in ROM had variable baud rate parameters, and so it was possible to store programs at 19200 baud or higher. However, this could lead to read errors of course, which was used as a copy protection by many programs sold on tape.
+
+ 
+
+
+</description>
+    <emulators>
+        <emulator>
+            <description>CPC emulator for DOS</description>
+            <link>http://www.arnimedes.de/</link>
+            <name>Arnimedes</name>
+            <platform>MS DOS emulator</platform>
+        </emulator>
+        <emulator>
+            <description>32 bit Amstrad CPC Emulator</description>
+            <link>http://www.caprice32.cybercube.com/</link>
+            <name>CaPriCe32</name>
+            <platform>Windows emulator</platform>
+        </emulator>
+        <emulator>
+            <description>For Windows and MS-DOS</description>
+            <link>http://www.work.de/nocash/cpc.htm</link>
+            <name>No Cash Amstrad CPC Emulator (NO$CPC)</name>
+            <platform>Windows emulator</platform>
+        </emulator>
+        <emulator>
+            <description>Fast, accurate CPC/+ emulation</description>
+            <link>http://winape.emuunlim.com/</link>
+            <name>WinAPE32</name>
+            <platform>Windows emulator</platform>
+        </emulator>
+        <emulator>
+            <description>Arnold/MacOS is an Amstrad CPC/CPC+/KC Compact Emulator for the Macintosh.</description>
+            <link>http://www.bannister.org/software/arnold.htm</link>
+            <name>Arnold</name>
+            <platform>Apple emulator</platform>
+        </emulator>
+        <emulator>
+            <description>Emulator for MAC OS</description>
+            <link>http://bricerive.free.fr/cpc</link>
+            <name>CPC ++</name>
+            <platform>Apple emulator</platform>
+        </emulator>
+        <emulator>
+            <description>Emulator for Linux and SunOS.</description>
+            <link>http://bricerive.free.fr/cpc</link>
+            <name>CPC ++</name>
+            <platform>Unix / Linux emulator</platform>
+        </emulator>
+        <emulator>
+            <description>CPC emulator for any UNIX platform with X-Window</description>
+            <link>http://XCPC.EMUUNLIM.COM</link>
+            <name>XCPC</name>
+            <platform>Unix / Linux emulator</platform>
+        </emulator>
+        <emulator>
+            <link>http://www.chez.com/deplanque/</link>
+            <name>Ami-CPC</name>
+            <platform>Amiga OS emulator</platform>
+        </emulator>
+        <emulator>
+            <description>Hardware emulator (re-configurable computer)</description>
+            <link>http://c64upgra.de/c-one/</link>
+            <name>C-ONE</name>
+            <platform>Other platform emulator</platform>
+        </emulator>
+        <emulator>
+            <description>CPC emulator for Dreamcast</description>
+            <link>http://www.consolevision.com/dreamcast/emus/amstrad/</link>
+            <name>DreamCPC</name>
+            <platform>Other platform emulator</platform>
+        </emulator>
+        <emulator>
+            <description>Pocket PC/PDA emulator for Windows Mobile 2003 or Windows Mobile 5 operating system</description>
+            <link>http://www.pocketcult.com</link>
+            <name>PocketCaprice</name>
+            <platform>Other platform emulator</platform>
+        </emulator>
+        <emulator>
+            <description>Emulates CPC 464, 644, 6128, 464+, 6128+, and KC Compact.</description>
+            <link>http://arnold.emuunlim.com/</link>
+            <name>Arnold (amstad 128k v3 emulator)</name>
+            <platform>Multiplatform emulator</platform>
+        </emulator>
+        <emulator>
+            <description>Amstrad CPC emulator for DOS, DPMI and WIN32</description>
+            <link>http://cpce.emuunlim.com/</link>
+            <name>CPCE</name>
+            <platform>Multiplatform emulator</platform>
+        </emulator>
+        <emulator>
+            <description>MESS emulates a lot of Amstrad computers (available for many OS) !</description>
+            <link>http://www.mess.org/</link>
+            <name>MESS</name>
+            <platform>Multiplatform emulator</platform>
+        </emulator>
+    </emulators>
+    <graphics>160 x 200 with 16 colors320 x 200 with 4 colors640 x 200 with 2 colors</graphics>
+    <gun></gun>
+    <hardwares/>
+    <image>http://www.old-computers.com/museum/photos/cpc464.jpg</image>
+    <keyboard>QWERTY mechanical keyboardNumeric keypad and edit block with arrow keys</keyboard>
+    <language>Locomotive Basic</language>
+    <links>
+        <link>computer.asp?st=1&amp;amp;c=26</link>
+        <link>computer.asp?st=1&amp;amp;c=522</link>
+        <link>computer.asp?st=1&amp;amp;c=111</link>
+        <link>computer.asp?st=1&amp;amp;c=112</link>
+        <link>computer.asp?st=1&amp;amp;c=885</link>
+        <link>http://www.instruction-manuals.co.uk/category/computer/amstrad.htm</link>
+        <link>http://www.sean.co.uk/books/amstrad/index.shtm</link>
+        <link>http://amstrad.cpc.free.fr/</link>
+        <link>http://www.amstrad.dk/</link>
+        <link>http://web.ukonline.co.uk/cliff.lawson/index.htm</link>
+        <link>http://www.nenie.org/cpcip/</link>
+        <link>http://www.cpcwiki.eu</link>
+        <link>http://www.cpcwiki.com/index.php/Main_Page</link>
+        <link>http://www.diskdoctor.co.uk/</link>
+        <link>http://www.FutureOS.de</link>
+        <link>http://turpas3.angelfire.com/</link>
+        <link>http://speccy.altervista.org/</link>
+        <link>http://scampin.chez-alice.fr/cpc/index.html</link>
+        <link>http://phenixinformatique.free.fr/</link>
+        <link>http://www.symbos.de/</link>
+        <link>http://andercheran.aiind.upv.es/~amstrad/</link>
+        <link>http://www.trickynz.com/Amstrad%20CPC.html</link>
+        <link>ftp://ftp.ibp.fr/pub/amstrad</link>
+        <link>ftp://ftp.nvg.unit.no/pub/cpc/</link>
+        <link>ftp://ftp.nvg.unit.no/pub/cpc/</link>
+        <link>news:comp.sys.amstrad.8bit</link>
+    </links>
+    <manufacturer>Amstrad</manufacturer>
+    <media>Tape Recorder (1000 or 2000 bauds)</media>
+    <name>CPC 464</name>
+    <numGames></numGames>
+    <origin>United Kingdom</origin>
+    <peripherals></peripherals>
+    <ports>Printer portBus port1 Joystick plug (Atari standard)Floppy Disc PortDIN plug for Amstrad monitorHeadphone / Sound stereo jack output</ports>
+    <power>5v DC (powered by an Amstrad monitor)</power>
+    <price>Monochrome - 455  (December 84)Monochrome -410  (March 86)Color - 684  (Dec. 84)Color - 608  (March 86)</price>
+    <production>1990</production>
+    <ram>64 kb (42kb left for user)</ram>
+    <rom>32 kb</rom>
+    <screenshots>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;TOP VIEW&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The keyboard is colourful...&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/amstrad_cpc464_top.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;TAPE-RECORDER&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Zoom on the integrated tape-recorder and the numeric keypad. Note the useless sketch under the tape trap-door...&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/amstrad_cpc464_tape.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;REAR VIEW&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;You can see the different connectors at the back of the machine : &amp;lt;br&amp;gt; Monitor | Power in | Disk port | Printer port | User/Joystick port | Sound output&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/amstrad_cpc464_rear.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;THE KC - THE AMSTRAD CPC COMPATIBLE FROM RUSSIA.&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;There was the &amp;quot;official&amp;quot; Amstrad CPC clone: the Schneider CPC. The Schneider was built by Amstrad and distributed in Germany and France. It differed from the Amstrad CPC in very few ways (keyboard colour and Centronics port). There was also an &amp;quot;unofficial&amp;quot; Amstrad CPC clone, the KC, which was built in Russia. We don't know if it had different features, but it was said to be fully compatible with the CPC.&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/kc.JPG</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;AMSTRAD CPC-472&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;There was a special version of the CPC-464 sold in Spain, called the CPC-472. This special Spanish model was released to avoid the prohibition / taxes for selling computers in Spain with 64Kb or less without the '&amp;Ntilde;' key ! That was the reason why they released a 72Kb version of the CPC-464, without the '&amp;Ntilde;' key. But after a short time all computers sold in Spain had to be sold with a Spanish keyboard including the '&amp;Ntilde;' key and not only the ones with memory of 64 KB or less. So Amstrad continued to sell CPC-472 in Spain but with an '&amp;Ntilde;' key. Thus, there exist two versions of the CPC-472 : one with the '&amp;Ntilde;' key and one without... &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; The model pictured here is the most recent one, with the '&amp;Ntilde;' key.&amp;lt;p class=&amp;quot;petitgris&amp;quot;&amp;gt;Thanks to &amp;lt;a href=&amp;quot;mailto:vnomis@terra.es&amp;quot;&amp;gt;Vicente Simon&amp;lt;/a&amp;gt; for this picture.&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/amstrad_cpc472_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;CPC-472 CLOSE-UP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The CPC-472 is not much different from the CPC-464 :&amp;lt;br&amp;gt; - It has more memory&amp;lt;br&amp;gt; - The stickers show ''472'' instead of ''464''&amp;lt;br&amp;gt; - There is an &amp;quot;&amp;Ntilde;&amp;quot; key on later models...&amp;lt;p class=&amp;quot;petitgris&amp;quot;&amp;gt;Thanks to &amp;lt;a href=&amp;quot;mailto:vnomis@terra.es&amp;quot;&amp;gt;Vicente Simon&amp;lt;/a&amp;gt; for this picture.&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/amstrad_cpc472_2.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;INSIDE THE CPC-472&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The inside of the CPC-472 was identical to the original CPC-464 apart from a small add-on card fixed to the original ROM socket and supporting the original ROM, a 4164 RAM chip and a standard logic gates chip. The RAM and logic chips weren't conected at all. Printed circuit lines didn't reach them! This add-on board was only a fake to avoid taxes.&amp;lt;p class=&amp;quot;petitgris&amp;quot;&amp;gt;Thanks to &amp;lt;a href=&amp;quot;http://www.zonadepruebas.com&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;zonadepruebas&amp;lt;/a&amp;gt; for the pictures.&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Amstrad_cpc464_Inside472_s1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;CPC-464 WITH GREY KEYS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This version with grey keyboard was distributed in Germany. Originally, Schneider was the official distributor and all &amp;quot;grey&amp;quot; CPC-464 had a Schneider logo on their case. But later, Amstrad distributed these systems under their own names. This version is pretty rare...&amp;lt;p class=&amp;quot;petitgris&amp;quot;&amp;gt;Thanks to Dazza203 for this picture&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/amstrad_cpc464_grey_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;INSIDE CPC EXPLAINED&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;(1)&amp;lt;/b&amp;gt; Centronics parallel connectors for printers. Any parallel printer could be used with the CPC 464, but sadly, the connector was not standard and a specific flat cable interface is needed. This defect will be corrected in the following versions.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(2)&amp;lt;/b&amp;gt; Numeric keypad and cursor control keys. Each key could be redefined with a 32-character string which could be for example a frequently used BASIC command. Each alphabetical key could also be redefined by another character than the original one.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(3)&amp;lt;/b&amp;gt; Tape recorder controlled by the computer. The recording speed was either 1000 (slow for security) or 2000 (fast) bauds. Whatever the chosen speed, the recording reliability was very high.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(4)&amp;lt;/b&amp;gt; Tape counter &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(5)&amp;lt;/b&amp;gt; On/Off switch &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(6)&amp;lt;/b&amp;gt; This output provides 2 types of video signals. One, composite, for the Amstrad B&amp;amp;W monitor, and the second for the Amstrad RGB colour monitor. Thus, both Amstrad monitors conceived for the CPC 464 use this connector &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(7)&amp;lt;/b&amp;gt; These 8 chips hold the 64 KB user RAM. &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(8)&amp;lt;/b&amp;gt; Expansion connector mainly used for the 3&amp;quot; disk drive &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(9)&amp;lt;/b&amp;gt; Zilog Z80A microprocessor running at 4 Mhz &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(10)&amp;lt;/b&amp;gt; 6845 chip in charge of video display management (1 text and 3 graphic modes) &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(11)&amp;lt;/b&amp;gt; 8225 chip in charge of various input/outputs&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(12)&amp;lt;/b&amp;gt; 32 Kb ROM memory containing the operating system and Locomotive Basic &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(13)&amp;lt;/b&amp;gt; Keyboard connector &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(14)&amp;lt;/b&amp;gt; Sound generator chip (3 voices, 8 octaves and special effects)&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(15)&amp;lt;/b&amp;gt; Joystick connector using the universal Atari standard&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/s_amstrad_464_inside1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/amstrad_cpc464_box.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;HOMEBREW PORTABLE CPC-464&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/amstrad_cpc464_homebrew_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;HOMEBREW PORTABLE CPC-464&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/amstrad_cpc464_homebrew_2.jpg</link>
+        </shot>
+    </screenshots>
+    <size></size>
+    <sound>3 channels, 8 octaves+1 noise channel</sound>
+    <speed>4 MHz</speed>
+    <switches></switches>
+    <text>20 x 25 with 16 colors40 x 25 with 4 colors80 x 25 with 2 colors</text>
+    <type>Home Computer</type>
+    <vram>16 kb</vram>
+    <year>1984</year>
+</computer>

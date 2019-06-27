@@ -1,0 +1,54 @@
+{
+  "name": "AS-100",
+  "manufacturer": "Canon",
+  "type": "Professional Computer",
+  "origin": "Japan",
+  "year": "october 1982",
+  "production": "",
+  "language": "",
+  "keyboard": "Full-stroke keyboard with function keys, arrow keys and numeric keypad. 98 keys. Characters repetition.",
+  "cpu": "Intel 8088",
+  "speed": "4.7 Mhz",
+  "coprocessor": "optional Intel 8087 (math. co-processor)",
+  "ram": "128 KB (up to 512 KB)",
+  "vram": "",
+  "rom": "4 KB (boot)",
+  "text": "80 x 25 - character matrix : 9 x 7",
+  "graphics": "640 x 400 (8 colours)",
+  "colors": "27 colours",
+  "sound": "Built-in speaker",
+  "size": "keyboard: 48 x 18,5 x 3,2 cm - 2.2 Kg / monitor: 40 x 34,4 x 43 cm - 19,5 Kg / 5.25\u0027\u0027 disks: 8 x 34,4 x  37 cm - 6,3 Kg",
+  "ports": "2 x RS232c, 1 x Centronics",
+  "power": "Built-in PSU, 120 W",
+  "price": "",
+  "description": "\nThe AS-100 is a 16-bit professional computer based on the Intel 8088 CPU. It has 128 KB RAM, built-in speaker, optional 8087 math co-processor and real time clock. The whole system (monitor + disks + keyboard) weights more than 30 Kg! The AS-100 is not a real IBM compatible system. It can use MS-DOS as its Operating System but that\u0027s all. \n\nThe computer can display 25 lines of 80 columns, or 640 x 400 pixels, with 8 colours from a total of 27. The character matrix consists of 9 x 7 pixels. There are 128 ASCII characters, and more user re-definable ones. Display attributes are inversed, underlined, wide, blink and masked. The computer was delivered with a monochrome or colour monitor (both 30 cm wide). \n\nDifferent optional drives could be connected:\n- one or two 5.25\u0026quot; FDD units, DS/DD, 640 KB each, 250 ms average access time, 250 KB/s average transfer rate\n- from one to four 8\u0026quot; FDD unit, DS/DD, 1.2 MB each, 200 ms average access time, 500 KB/s average transfer rate\n- 8.2 Mb Winchester hard disk \n\nAll the disks can be combined as follow: two 5.25\u0026quot; units + two 8\u0026quot; units + one hard disk, or, four 8\u0026quot; units and one hard disk. \n\nSome expansion options were available:\n- daisy-wheel (A-1200 \u0026amp; A-1250) and ink jet (A-1210) printers\n- memory expansion cards (128, 256, and 384 KB)\n- Intel 8087 math co-processor\n- real time clock\n- video card\n- expansion interfaces (RS232, parallel, communication and hard-disk) \n\nSeveral software packages were bundled or available separately: Canobrain (Canon database \u0026amp; data sheet), DBase II, Datastar, Infostar, Calcstar, Wordstar, Spellbinder, Spellstar, Wordmaster, and Gesmail.  Several different languages were available, as well: Assembler, GW Basic, Canobasic, Pascal UCSD, Fortran, and Cobol. \n\nThe AS-100 does not use any mouse but an innovative jog dialer (see picture). \n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;COMPLETE SYSTEM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/canon_as100_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;AS-100\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Colour monitor, ink jet printer, 8\u0026quot; floppy disks unit \u0026amp; jog dialer.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/canon_as100_2.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Canon AS-100. Programmed to succeed.\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/canon_as100_advert_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [],
+  "image": "http://www.old-computers.com/museum/photos/canon_as100_1.jpg",
+  "builtInGames": "optional 5.25",
+  "controllers": "",
+  "media": "optional 5.25",
+  "numGames": "",
+  "peripherals": "memory expansions (128, 256 or 384 KB), Intel 8087 math. co-processor, real time clock, video card, expansion board (RS232, parallel, communication \u0026amp; hard-disk interfaces)",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

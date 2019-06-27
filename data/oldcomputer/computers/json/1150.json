@@ -1,0 +1,51 @@
+{
+  "name": "OP-1",
+  "manufacturer": "Ontel",
+  "type": "Professional Computer",
+  "origin": "U.S.A.",
+  "year": "1975",
+  "production": "Appx 1984",
+  "language": "Most work was done in Assembly, Microsoft Basic and Fortran",
+  "keyboard": "Full size detachable QWERTY with many function keys(Detachable keyboard was unique at that time)",
+  "cpu": "8008 / 8080 / 8085",
+  "speed": "1 to 10 MHz",
+  "coprocessor": "",
+  "ram": "16 / 32 / 48 / 64 KB (later models had a 256 KB memory option)",
+  "vram": "",
+  "rom": "256 Byte to 64 KB. The system bios was contained in only 256 bytes of ROM, enough to boot from a floppy!",
+  "text": "80 chars x 24 liges",
+  "graphics": "No graphics",
+  "colors": "Monochrome",
+  "sound": "",
+  "size": "Large footprint / Weight depending on configuration, up to 50 pounds",
+  "ports": "Up to 5 serial DB-25 for printers, drives, serial RS-232, etc. depending on system configuration",
+  "power": "Very large linear power supply. From 1981, small switching power supply",
+  "price": "from $2500 to over $10,000 depending on configuration/features",
+  "description": "\nAbout Ontel OP-1 systems and Ontel company, Bob Hanrahan sent us this testimony:\n\nMemories of Ontel, Woodbury NY\n\nI worked for Ontel Corporation from 1979 to 1982, designing various controller boards for their line of 8008/8080/8085 based computer terminals.\n\nThe OP-1 computer family included their high end 64K DRAM system called the OP-1/64. The OP-1/64 had a 10 card backplane (similar to VME) allowing it to be configured as a terminal, word processor, stand alone computer, etc.\nThe OP-1/64 (also available as a downgraded version OP-1/32 or 48 for 32K or 48K DRAM) was later replaced by the OP-1/70 model.  The 8080 CPU card and (2) 32Kbyte RAM memory cards were replaced with a single 8085 based CPU board with on-board 64Kbyte dynamic memory.\nThe OP-1 family employed a discrete DMA controller (Direct Memory Access) allowing fast direct memory transfers to/from peripheral controllers, significantly reducing CPU overhead for such tasks.  For Word Processing applications Ontel provided a controller called a Word Move Controller (earlier called a Byte String Controller) which provided a method of rapidly inserting or removing characters (bytes) to/from memory for very efficient text editing.\nThe Intel CPU performance of that era was not powerful enough to perform these tasks using software in a reasonable amount of time.  CPU based string moves for text editing would cause an unacceptable lag when an operator hit the insert or delete keys.  The DMA controller performed transfers at 11 ?Sec/byte using a TTL based state machine.  I remember designing a prototype DMA controller which moved data at 1.8 ?Sec/byte, considered fast for 1981!  Ontel was ahead of its time in many areas, advanced Word Processing being one of them.\n\nDuring 1981, the OP-1/70 was joined by a lower cost OP-1/R single board version (no card cage) which employed custom IC?s developed by the staff at Ontel.  The OP-1/R (R stood for remote) looked the same as its big brother yet it could only support a single peripheral controller board, thus it was typically configured as a remote slave terminal with basic features.\nLater we introduced the OP-1/50 which included 2 integrated 5.25\u0026quot; floppy drives with a smaller card cage in the same plastics.  Finally around 1982 we introduced the OP-1/15 which was the first system to take on a new more modern look.  The OP-1/15 used the same basic OP-1 backplane architecture, saving space with a much smaller and lighter switching power supply.\n\nThe OP-1 was custom configured and often custom painted for a specific customer.  Large customers included Olivetti, Telefunken, CDC, would sell the systems with their own software for a specific application under their own name.\nThe Ontel systems were designed and built by a group of very talented (and fun) employees in Woodbury NY (Long Island). Much adrenalin ran through the company, from engineering right down to the production floor all knew we were involved with something big, something that would grow over time.\nOntel expanded rapidly during the period from 1979 to 1982, from about 200 employees (15 engineers) to about 900 (90 engineers).  The founder and president at that time was David Ophire (where the system name OP-1 came from) who I believe came out of ADDS. During 1981 the company was sold from Ceasers World (owners of Ceasers Palace) to a group whose name escapes me.  David and other executives were replaced by a new management team which seemed to dampen the innovative culture that existed at the time.\n\nDuring 1982 we were planning to move to a higher performance (and cost) 16 bit system which was to employ new color graphics technology becoming available in new video IC?s.  We evaluated the Zilog Z8000, Mot 68000, NS 16000 (later called the 32000), and the Intel 8086.  Intel won, not based on performance.  I don?t believe a 16 bit machine was ever sold by Ontel.\n\nOntel had a very strong software team who designed a very sophisticated development platform, allowing customers and third party programmers to develop system applications. The team also developed diagnostics that provided sophisticated self test and debug facilities used to ensure high quality in a system of this complexity.\nThe Ontel OP-1 series employed an internally developed Operating System which was ported to a tape drive during their early year, then to an external 8\u0026quot; floppy, and later 5.25\u0026quot; floppy drives.  Options included large CDC drive systems for large data center applications (96 MByte total on 6 large 18? platters!).\nThe DOS looked much like the MS-DOS PC development platform not yet developed at that time.  The team ported an early version of MS Basic, I recall when Bill Gates and Paul Allen visited Ontel to install and sell the package around 1980, kids at that time.   During the peak we were selling around 10K systems/year.  Around 1982 the company was sold to Visual Technology, a Boston based company who eventually closed the doors on the Woodbury Long Island facility.\n\nWe learned a lot at Ontel and I truly enjoyed the time shared with so many great people.  Having lost contact with all but a few, I still think about many of them.\n \n\n\n",
+  "shot": [],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ONTEL ADVERT #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks also to \u0026lt;b\u0026gt;Bob Hanrahan\u0026lt;/b\u0026gt; for these pictures\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Ontel_Amigo_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ONTEL ADVERT #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Ontel_Amigo_Advert_s2.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [
+    "http://www.msu.edu/~mrr/mycomp/ontel/ontframe.htm"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/Ontel_OP1_System_s1.jpg",
+  "builtInGames": "Most work was done in Assembly, Microsoft Basic and Fortran",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "10 card cage - 1 cpu card, 1 video card, 1 or 2 memory cards, 1 DMA card, up to 4 peripheral controllers, 1 not used",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

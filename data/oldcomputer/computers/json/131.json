@@ -1,0 +1,118 @@
+{
+  "name": "Goupil 2",
+  "manufacturer": "SMT",
+  "type": "Professional Computer",
+  "origin": "France",
+  "year": "1981",
+  "production": "",
+  "language": "Basic (12 KB)",
+  "keyboard": "Full-stroke AZERTY 102-key keyboard with editing and numeric keypads. 12 function keys",
+  "cpu": "Motorola 6808 (Same as the 6800 with built-in ROM)",
+  "speed": "1 MHz",
+  "coprocessor": "",
+  "ram": "16 KB (up to 64 KB)",
+  "vram": "2 KB (Monochrome card) + 24 KB (Colour card)",
+  "rom": "16 KB",
+  "text": "16 x 64, 24 x 80",
+  "graphics": "Optional 256 x 256 dots card with 8 colors",
+  "colors": "8",
+  "sound": "1 voice, built-in speaker",
+  "size": "52.5 (W) x 55 (D) x 12.5 (H) cm / 10 Kg",
+  "ports": "Tape recorder, Parallel Centronics, Serial RS232, 5\u0027\u0027 \u0026amp; 8\u0027\u0027 FDD, RGB \u0026amp; Composite video, Acoustic modem",
+  "power": "built-in power supply unit",
+  "price": "16 KB model \u003d 6995 FF (France, july 1982)",
+  "description": "\nGoupil was the old french word for fox (renard). The Goupil was designed to be modular. It could be used as a home computer but its maim purpose was to be used in French schools in connection with other computers, or as a small server thanks to its built-in 300-baud modem.\n\nThe system was composed of a backplane used as a backbone to connect various cards: CPU card (a 6808 with 2 KB VRAM), RAM card (56 KB), disk controller, I/O card (keyboard and Parallel Centronics), acoustic modem, graphic card (with 24 KB VRAM).\n\nThe Goupil 2 was sold with a monochrome or color monitor, both could run simultaneously.\n\nFr?d?ric G.Marand reports to us :\nThe standard configuration had 16k RAM and 12k Basic in ROM. This Basic was quite.... basic, as it didn\u0027t allow to do much things : all display access, apart from PRINT, was calling the BIOS. There were no peripheral apart from the keyboard and the screen. Only one standard interface : tape interface (that I never managed to use). On the other hand, there were a lot of options available, up to a network disk for 4 stations (Corvus Constellation).\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LARGE VIEW\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/SMT_Goupil2_System_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TOP VIEW\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The monochrome monitor was a Thomson model, actually a TV set without the reception module.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/SMT_Goupil2_TopView_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SIDES VIEW\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/SMT_Goupil2_Sides_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;KEYBOARD CLOSE-UP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The robust and very complete keyboard.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/SMT_Goupil2_Keyboard_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;COMPLETE SYSTEM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The Goupil 2 along with its monochrome monitor and two dual 5.25\u0026quot; floppy drive units.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/SMT_Goupil2_CompSystem_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GOUPIL 2 LOGO\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/SMT_Goupil2_Logo_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;RUNNING SYSTEM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The 25 years old monitor has some clearness problems...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/SMT_Goupil2_Running_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR PANEL\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(1)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; RGB video cable. Thanks to its SCART plug, the Goupil 2 could be connected to any French colour TV set\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(2)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Acoustic coupler DIN socket\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(3)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Tape recorder DIN socket\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(4)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 5.25\u0026quot; FDD unit connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(5)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Serial RS232 connector. Provision is made for a second serial connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(6)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Parallel printer connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(7)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Free location for the 8\u0026quot; FDD unit connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(8)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Built-in loudspeaker\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(9)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; French dealer hotline... has disapeared sice then.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(10)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Monochrome composite jack.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/SMT_Goupil2_RearPanel_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE THE 1ST VERSION\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;First Goupil 2 versions used a huge power supply unit which was later replaced by a lighter switching PSU.\u0026lt;br\u0026gt; Here are the cards used in this version:\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(1)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Modem and Tape interface card\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(2)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; I/O card used for the keyboard and Parallel interfaces. Also supports the Monitor and BASIC ROMS\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(3)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 64 KB dynamic RAM card (32 x 4116)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(4)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 5.25\u0026quot; and 8\u0026quot; Floppy drives controller card\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(5)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; RGB video card\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(6)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; CPU and CRT controller card. \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/SMT_Goupil2_Inside_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE THE 2ND VERSION\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Second version using a switshing power supply unit.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/SMT_Goupil2_Inside_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CARDS SET\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;A basic Goupil 2 system holds at least 5 cards. The FDD controller card was optional.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(1)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; I/O card in charge of keyboard and Parallel interfaces. Also holds the Monitor ROMs\u0026lt;br\u0026gt; and the optional BASIC ROMs (6 empty locations)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(2)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Tape recorder and acoustic coupler interface card\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(3)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 5.25\u0026quot; and 8\u0026quot; floppy drives controller card\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(4)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Text mode monochrome video card\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(5)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; CPU and CRT controller card\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(6)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 64 KB dynamic RAM card (a 16 KB card could be used instead)\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/SMT_Goupil2_SystemCards_s1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT (JANUARY 1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;A computer for all french people\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/smt_goupil2_ad_pourtouslesfrancais.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT (FEBRUARY 1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Goupil is an awesome manager\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/smt_goupil2_ad_redoutable-gestionnaire.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT (FEBRUARY 1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Goupil has a lot of relations\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/smt_goupil2_ad_bcp-de-relations.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT (JUNE 1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Goupil presents its software\u0026quot; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; - S.BASIC programming language\u0026lt;br\u0026gt; - SPG2 accounting / management software\u0026lt;br\u0026gt; - VOLTAIRE word processing\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/smt_goupil2_ad_presente-logiciels.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT (JUNE 1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Goupils invade Paris area\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/smt_goupil2_ad_region-parisienne.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT (JULY 1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Goupil has all talents\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/smt_goupil2_ad_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT (OCTOBER 1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Goupil plays on all tables\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/smt_goupil2_ad_touslestableaux.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROMOTIONAL PICTURE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;School teaching with a Goupil 2\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/smt_goupil2_promo_school-teaching.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [],
+  "image": "http://www.old-computers.com/museum/photos/SMT_Goupil2_System_s1.jpg",
+  "builtInGames": "Basic (12 KB)",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "5",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

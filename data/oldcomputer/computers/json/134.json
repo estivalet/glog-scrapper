@@ -1,0 +1,78 @@
+{
+  "name": "H8",
+  "manufacturer": "Heathkit",
+  "type": "Professional Computer",
+  "origin": "U.S.A.",
+  "year": "September 1977",
+  "production": "Unknown",
+  "language": "Octal editor",
+  "keyboard": "16--key Octal",
+  "cpu": "Intel 8080 A",
+  "speed": "2.048 MHz",
+  "coprocessor": "",
+  "ram": "256 bytes (upgradable with memory boards)",
+  "vram": "",
+  "rom": "1 KB in basic version",
+  "text": "N/A - Small display on the front panel displays the registers content.",
+  "graphics": "",
+  "colors": "",
+  "sound": "Built-in speaker",
+  "size": "Unknown",
+  "ports": "Serial IO (H8-4) and Cassette Interface (H8-5)",
+  "power": "Built-in power supply unit",
+  "price": "From $499",
+  "description": "\nThis early computer was to be used with a terminal for better control.\n\nA lots of expansion boards were available for this computer. Memory boards were available in 4K, 8K, and 16K (note: 4k memory board was 8k half populated.)\n\nThe H8 was sold with software: Benton Harbor BASIC, the HASL-8 2 pass assembler, TED-8 Line oriented text editor and BUG-8 terminal console debugger.\n_______________________",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;COMPLETE SYSTEM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Complete system with H9 terminal and paper tape reader / punch expansion\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/heathkit_h8_complete-system_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;COMPLETE SYSTEM #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Here is a Heathkit H8 computer with a terminal and a floppy-drive.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/heathkit_h8_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;We can see here the different boards of the computer. The second board from bottom is a 64k RAM expansion board.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/heathkit_h8_inside.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (1979)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/heathkit_h8_advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;At the time of this advert (September 1980), Heathkit introduced a music synthetiser board, a speech lab, a color graphic board, a color monitor and Microsoft BASIC and FORTRAN languages. \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Heathkit_H8_Advert_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [
+    {
+      "platform": "Windows emulator",
+      "name": "Virtual H8 Project",
+      "link": "http://davidwallace2000.home.comcast.net/h8/The_Heathkit_H8_Digital_Computer.htm",
+      "description": "Nice designed emulator"
+    },
+    {
+      "platform": "Apple emulator",
+      "name": "Project 8080",
+      "link": "http://davidwallace2000.home.comcast.net/h8/project8080_archive/heath8080a_intro.htm",
+      "description": "A H8 emulator for the Mac"
+    }
+  ],
+  "link": [
+    "http://parse.com/~ddunfield/museum/h8/index.htm",
+    "http://davidwallace2000.home.comcast.net/"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/heathkit_h8_1.jpg",
+  "builtInGames": "Octal editor",
+  "controllers": "",
+  "media": "Optional ECP-3801 Cassette Recorder / Player",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

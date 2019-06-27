@@ -1,0 +1,218 @@
+{
+  "name": "TT 030",
+  "manufacturer": "Atari",
+  "type": "Professional Computer",
+  "origin": "U.S.A.",
+  "year": "1990",
+  "production": "",
+  "language": "",
+  "keyboard": "",
+  "cpu": "Motorola MC 68030",
+  "speed": "32 MHz",
+  "coprocessor": "68882 (numeric processor)",
+  "ram": "2 MB (up to 26 MB)",
+  "vram": "",
+  "rom": "512 KB",
+  "text": "40 x 24 / 80 x 24 / 80 x 30 / 160 x 60  (bitmapped graphics)",
+  "graphics": "320 x 200 (16 col) / 320 x 480 (256 col) / 640 x 200 (2 col) / 640 x 400 (2 col) / 640 x 480 (16 col) / 1280 x 960 (mono).",
+  "colors": "16 among 4096 (512 with a special CPU consuming \u0027Spectrum\u0027 mode)",
+  "sound": "3 channels, 8 octaves FM + two voices 8 bit PCM.",
+  "size": "",
+  "ports": "4 serial ports, Centronics, Floppy disk, RGB, VGA, SCSI, Stereo, Joystick (2), Midi In/Out, Cardridge, LocalTalk, ASCI, VME",
+  "power": "PSU built-in",
+  "price": "$2995 (2MB RAM, 50MB hard-drive)",
+  "description": "\nThe Atari TT was a kind of a super Atari STe. As the other Atari computers, it was very long awaited. It was presented as a competitor of the Macintosh and was one of the first to offer a huge graphic resolution (1280 x 960).\n\nThe first TTs had a 16Mhz CPU. A small daugther card was supplied later to use a 32 MHz CPU, then all the TTs were shipped with a 32 MHz CPU.\n\nIt had a lot of extension connectors (like VME, VGA or SCSI) to allow it to be connected to a lot of standard peripherals.\n\nIt had also several features of the Atari STe, like the sound system, but contrary to this one, it didn\u0027t have its enhanced video features (fine scrolling) and its Blitter (custom chip designed to move bitmap blocks).\n\nIt had, like the Amiga computers, a special memory organisation : 4 MB, expandable to 12 MB (called ST RAM) was used for coprocessors (video, sound, ASCI) and the rest (called TT RAM which can be located on the motherboard or on a VME card) was used only for 68030 processor and wasn\u0027t slowed by peripherals accesses. Both SCSI and serial could do DMA transfers directly to TT-RAM.\n\nA special version of the TT was designed to be a UNIX station, called TT/X it was supplied with UNIX System V R4 and WISH (an extension of OSF Motif).\n\nHowever the TT and the TT/X had no success and there was no (or so few) software especially designed for this computer. Notice that a Macintosh emulator (called Spectre GCR - done by Dave Small-) turned the Atari TT into a very fast Macintosh clone : Macintosh software could be used on the TT, and often they ran faster than on the original Mac!)\n \n\n\n",
+  "shot": [],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN BROCHURE #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Volken\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/GermanBrochure_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN BROCHURE #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Volken\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/GermanBrochure_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN BROCHURE #3\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Volken\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/GermanBrochure_s3.jpg"
+    }
+  ],
+  "hardware": [
+    {
+      "type": "\u0026gt; DISK-DRIVES",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/atari_st_sf354-diskdrive_1.jpg",
+          "description": "SF-354|||Single density disk-drive |||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SF-354\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Single density disk-drive \u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/atari_st-disk-drive_sf314.jpg",
+          "description": "SF-314|||Disk-drive|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SF-314\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Disk-drive\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Atari_520_CumanaDrive_1.jpg",
+          "description": "Cumana Drive||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CUMANA DRIVE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "\u0026gt; HARD-DRIVES",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/atari_supradrive_20mb.jpg",
+          "description": "Supradrive|||20 Mb hard-disk|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SUPRADRIVE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;20 Mb hard-disk\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/atari_st_quamtum_hd170.jpg",
+          "description": "170Mb Quantum hard-drive||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;170MB QUANTUM HARD-DRIVE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This unit has an ICD Host Adapter.\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/atari_st_megafile30_1.jpg",
+          "description": "Atari Megafile 30||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ATARI MEGAFILE 30\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This hard-drive has a 30Mb capacity.\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Atari_MegaST_InsideMegaFile_1.jpg",
+          "description": "Inside the Megafile 30||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE THE MEGAFILE 30\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; Seagate MFM 30 MB hard-disk Type ST-238\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; Power supply\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; Logical board\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(4)\u0026lt;/b\u0026gt; Power and disk access LED\u0027s\u0026lt;br\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "\u0026gt; MISC",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Atari_520_ModemSX212_1.jpg",
+          "description": "Atari universal modem||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ATARI UNIVERSAL MODEM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The SX212 modem was one of the rare Atari peripherals that could be used with all the Atari computers range, from the 400/800 series up to the Falcon. It had both the Atari I/O ports for the 8-bit systems and a standard RS-232 connector for ST\u0027s\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; It was a 300/1200 baud modem compatible with the well-known Hayes \u0027AT\u0027 commands.\u0026lt;br\u0026gt; Cable and software was sold separately, depending of the computer used. \u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Atari_MegaST_SLM804printer_s1.jpg",
+          "description": "SML-804|||Laser printer|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SML-804\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Laser printer\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The SLM-804 was actually a Kyocera F1000 printer but without neither on-board processor and memory nor buttons other than the on/off switch. It was first delivered with the Mega ST but could be connected on all of the ST series computers through a dedicated interface box.\u0026lt;br\u0026gt; The printer used the processing power and the RAM memory of the ST computer for printing at 8 pages per minute and 300 DPI. The paper tray held 250 sheets.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Francois Michaud\u0026lt;/b\u0026gt; who donated us this printer.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Atari_MegaST_SLMCinterface_s1.jpg",
+          "description": "SMLC-804|||Laser printer interface|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SMLC-804\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Laser printer interface\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This interface allowed the SML-804 printer to be connected to any Atari ST holding at least 1 MB RAM.\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    }
+  ],
+  "emulator": [
+    {
+      "platform": "MS DOS emulator",
+      "name": "Pacifist !",
+      "link": "http://www.pacifist.fatal-design.com/",
+      "description": "Pretty good emulator"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "Gemulator",
+      "link": "http://www.emulators.com/gemul8r.htm"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "MagiCPC",
+      "link": "http://www.application-systems.de/magicpc/index.html"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "SainT",
+      "link": "http://saint.atari.org",
+      "description": "The best Atari ST Emulator !"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "Steem",
+      "link": "http://steem.atari.st/",
+      "description": "Excellent emulator for 1040/520 STE !"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "Tos2Win",
+      "link": "http://www.aixit.com/tos2win/",
+      "description": "A good Atari GEM Emulator !"
+    },
+    {
+      "platform": "Apple emulator",
+      "name": "MagiCMac",
+      "link": "http://www.application-systems.de/magicmac/index.html"
+    },
+    {
+      "platform": "Apple emulator",
+      "name": "NoSTalgia \u0026amp; PowerST",
+      "link": "http://users.skynet.be/sky39147/"
+    },
+    {
+      "platform": "Unix / Linux emulator",
+      "name": "STonX Homepage",
+      "link": "http://www.complang.tuwien.ac.at/nino/stonx.html"
+    },
+    {
+      "platform": "Other platform emulator",
+      "name": "Atari ST Emulator ",
+      "link": "http://www.atari-st.lovely.net/",
+      "description": "Written in Java !"
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "ARAnyM",
+      "link": "HTTP://ARANYM.ATARI.ORG",
+      "description": "Multiplatform project"
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "Hatari",
+      "link": "http://hatari.sourceforge.net/",
+      "description": "Hatari is an Atari ST emulator for Linux, BSD, BeOS, Mac OS X and other systems that are supported by the SDL library. More precisely, Hatari is an adaption of the WinSTon source code to the SDL library."
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d922",
+    "computer.asp?st\u003d1\u0026amp;c\u003d272",
+    "computer.asp?st\u003d1\u0026amp;c\u003d24",
+    "computer.asp?st\u003d1\u0026amp;c\u003d25",
+    "computer.asp?st\u003d1\u0026amp;c\u003d20",
+    "computer.asp?st\u003d1\u0026amp;c\u003d125",
+    "computer.asp?st\u003d1\u0026amp;c\u003d270",
+    "computer.asp?st\u003d1\u0026amp;c\u003d635",
+    "computer.asp?st\u003d1\u0026amp;c\u003d165",
+    "computer.asp?st\u003d1\u0026amp;c\u003d164",
+    "computer.asp?st\u003d1\u0026amp;c\u003d283",
+    "computer.asp?st\u003d1\u0026amp;c\u003d225",
+    "computer.asp?st\u003d1\u0026amp;c\u003d269",
+    "http://www.best.com/~hmk/",
+    "http://www.atarimusic.net/",
+    "http://wwwbrauer.in.tum.de/~brandtf/ataridemos.html",
+    "http://www.chebucto.ns.ca/Services/PDA/atari.shtml",
+    "http://www.atari.org/",
+    "http://www.dhs.nu/",
+    "http://www.atarimagazines.com/startv5n6/tterrific.html",
+    "http://www.atari.st/",
+    "http://www.kingx.com/kingx/medusa/thes.html",
+    "http://www.earth.ox.ac.uk/~steve/mintos.html",
+    "HTTP://MUSIQUE.ATARI.ORG",
+    "http://www.plopbox.net/",
+    "http://atariki.krap.pl",
+    "http://my.blackpoint.ch/stab/",
+    "http://www.atarimuseum.com/",
+    "http://www.megacom.net/~q-funk/ST/",
+    "http://b.webring.com/hub?ring\u003datari",
+    "http://www.atari.org",
+    "http://ping4.ping.be/~pin10575/HARSOF-E.HTM",
+    "http://www.vanc.igs.net/~roughley/tos_main.htm",
+    "http://www.umich.edu/~archive/atari/",
+    "news:comp.sys.atari.advocacy",
+    "news:comp.sys.atari.announce",
+    "news:comp.sys.atari.programmer",
+    "news:comp.sys.atari.st",
+    "news:comp.sys.atari.st.tech",
+    "news:fr.comp.sys.atari"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/tt.jpg",
+  "builtInGames": "One 3.5\u0027\u0027 FDD (originally 720k and later updated to 1.44MB)",
+  "controllers": "",
+  "media": "One 3.5\u0027\u0027 FDD (originally 720k and later updated to 1.44MB)",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

@@ -1,0 +1,64 @@
+{
+  "name": "TK 80",
+  "manufacturer": "NEC",
+  "type": "Home Computer",
+  "origin": "Japan",
+  "year": "1976",
+  "production": "",
+  "language": "",
+  "keyboard": "Hexadecimal keyboard, 25 keysTK-80 BS : full-stroke keyboard",
+  "cpu": "?PD8080AD",
+  "speed": "1.3 MHz",
+  "coprocessor": "",
+  "ram": "512 bytesTK-80 BS : 5k",
+  "vram": "",
+  "rom": "2 kb ?",
+  "text": "8 characters x 1 line (7 segments LED display)TK-80 BS : 32 x 16",
+  "graphics": "None",
+  "colors": "None",
+  "sound": "None",
+  "size": "310 ? 180 mm",
+  "ports": "Expansion bus, EPROM sockets",
+  "power": "",
+  "price": "88,500 Yen (Japan)",
+  "description": "\nThe NEC TK 80 is a 8080-cpu Training Kit (hence the \u0026quot;TK\u0026quot;) computer sold at the end of the 70\u0027s. It is considered the first japanese home-computer. It was firstly aimed at technicians, but it met a great success with first computer hobbyists. It was often sold as a kit.\n\nThe systems is directly programmed in machine-code through the hexadecimal keyboard. There are 9 \u0026quot;function\u0026quot; keys on this keyboard : RET, RUN, STORE DATA, LOAD DATA, RESET, ADRS SET, READ INCR, READ DECR, WRITE INCR.\nInformation is displayed on the built-in 7-segments LED display (1 line, 8 characters).\n\nThe TK-80E is low-cost TK-80. The CPU and some chips are slightly different (uPD8080AD -\u0026gt; uPD8080AFC, uPD8228D -\u0026gt; uPD8228C, uPD454D -\u0026gt; uPD464C, uPD5101E -\u0026gt; uPD2101AL-4), thus reducing the production cost (ceramic -\u0026gt; plastic). Of course the TK-80E was less expensive.\n\nThe TK-80 BS was a \u0026quot;Basic Station\u0026quot; model. It was composed of a TK-80 board with a BASIC ROM built-in, 7k RAM and an alphanumeric keyboard. Furthermore there was the Compo BS/80 which was a TK-80 with its Basic extension within a nice moulded plastic case.\n\nThe TK-80 was used as a base for the PC-8001, the PC-8801 and the PC-9801.\n\n\n___________\n\nPicture courtesy of Electric Brain Museum.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TK-80\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/nec_tk80_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DRAWING\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is the picture used by the Windows emulator. Quite accurate !\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/nec_tk80_2.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPANESE AD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Picture courtesy of Soichiro Oga / \u0026lt;a href\u003d\u0026quot;http://web.kyoto-inet.or.jp/people/s-oga/\u0026quot;\u0026gt;Old PC leaflets museum\u0026lt;/a\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/nec_tk80_ad_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [
+    {
+      "platform": "Windows emulator",
+      "name": "TK-80 Windows Emulator",
+      "link": "http://www.watch.impress.co.jp/pc/docs/article/20000327/ascii.htm",
+      "description": "Commercial Windows emulator delivered on CD-ROM with PDF original documentation"
+    }
+  ],
+  "link": [
+    "http://www.tk.airnet.ne.jp/mit/mitland/Musium/NEC/TK-80.html",
+    "http://www.st.rim.or.jp/~nkomatsu/evakit/TK80.html"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/nec_tk80_1.jpg",
+  "builtInGames": "",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "Optional cassette interface (300 bauds), RAM expansion, Basic ROM",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

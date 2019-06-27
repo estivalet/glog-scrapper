@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computer>
+    <adverts>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;FRENCH ADVERT (JULY 1985)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Page 1&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/amstrad_cpc664_pub_haute-performabce-p1.jpg</link>
+        </advert>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;FRENCH ADVERT (JULY 1985)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Page 2 &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; &amp;quot;The domestic computer, business class&amp;quot;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/amstrad_cpc664_pub_haute-performabce-p2.jpg</link>
+        </advert>
+    </adverts>
+    <batteries></batteries>
+    <builtInGames>Locomotive Basic v1.1</builtInGames>
+    <buttons></buttons>
+    <colors>27</colors>
+    <controllers></controllers>
+    <coprocessor></coprocessor>
+    <cpu>Zilog Z80</cpu>
+    <description>
+The Amstrad CPC 664 was sold for only one year. Successor to the Amstrad CPC 464, it was quickly replaced by the Amstrad CPC 6128. It was sold with a monochrome green or colour monitor and a built-in floppy disk drive. The floppy disk format was the Hitachi 3 inch, an uncommon format already used on the Tatung Einstein and the Oric Atmos.
+&amp;lt;
+Like the CPC 464, its price was very low, which explains why about 10,000 units were sold in less than a year.
+
+The Locomotive Basic interpreter was the same as the CPC-464, but had some extra commands like FILL to fill a graphics area, FRAME to produce smoother graphics, and MASK to draw a series of dots. The editor was also slightly improved.
+
+The 664 was delivered with the AMSDOS and CP/M 2.2 operating systems. The LOGO language was supplied with the CP/M disc. 
+ 
+
+
+</description>
+    <emulators>
+        <emulator>
+            <description>CPC emulator for DOS</description>
+            <link>http://www.arnimedes.de/</link>
+            <name>Arnimedes</name>
+            <platform>MS DOS emulator</platform>
+        </emulator>
+        <emulator>
+            <description>32 bit Amstrad CPC Emulator</description>
+            <link>http://www.caprice32.cybercube.com/</link>
+            <name>CaPriCe32</name>
+            <platform>Windows emulator</platform>
+        </emulator>
+        <emulator>
+            <description>For Windows and MS-DOS</description>
+            <link>http://www.work.de/nocash/cpc.htm</link>
+            <name>No Cash Amstrad CPC Emulator (NO$CPC)</name>
+            <platform>Windows emulator</platform>
+        </emulator>
+        <emulator>
+            <description>Fast, accurate CPC/+ emulation</description>
+            <link>http://winape.emuunlim.com/</link>
+            <name>WinAPE32</name>
+            <platform>Windows emulator</platform>
+        </emulator>
+        <emulator>
+            <description>Arnold/MacOS is an Amstrad CPC/CPC+/KC Compact Emulator for the Macintosh.</description>
+            <link>http://www.bannister.org/software/arnold.htm</link>
+            <name>Arnold</name>
+            <platform>Apple emulator</platform>
+        </emulator>
+        <emulator>
+            <description>Emulator for MAC OS</description>
+            <link>http://bricerive.free.fr/cpc</link>
+            <name>CPC ++</name>
+            <platform>Apple emulator</platform>
+        </emulator>
+        <emulator>
+            <description>Emulator for Linux and SunOS.</description>
+            <link>http://bricerive.free.fr/cpc</link>
+            <name>CPC ++</name>
+            <platform>Unix / Linux emulator</platform>
+        </emulator>
+        <emulator>
+            <description>CPC emulator for any UNIX platform with X-Window</description>
+            <link>http://XCPC.EMUUNLIM.COM</link>
+            <name>XCPC</name>
+            <platform>Unix / Linux emulator</platform>
+        </emulator>
+        <emulator>
+            <link>http://www.chez.com/deplanque/</link>
+            <name>Ami-CPC</name>
+            <platform>Amiga OS emulator</platform>
+        </emulator>
+        <emulator>
+            <description>Hardware emulator (re-configurable computer)</description>
+            <link>http://c64upgra.de/c-one/</link>
+            <name>C-ONE</name>
+            <platform>Other platform emulator</platform>
+        </emulator>
+        <emulator>
+            <description>CPC emulator for Dreamcast</description>
+            <link>http://www.consolevision.com/dreamcast/emus/amstrad/</link>
+            <name>DreamCPC</name>
+            <platform>Other platform emulator</platform>
+        </emulator>
+        <emulator>
+            <description>Pocket PC/PDA emulator for Windows Mobile 2003 or Windows Mobile 5 operating system</description>
+            <link>http://www.pocketcult.com</link>
+            <name>PocketCaprice</name>
+            <platform>Other platform emulator</platform>
+        </emulator>
+        <emulator>
+            <description>Emulates CPC 464, 644, 6128, 464+, 6128+, and KC Compact.</description>
+            <link>http://arnold.emuunlim.com/</link>
+            <name>Arnold (amstad 128k v3 emulator)</name>
+            <platform>Multiplatform emulator</platform>
+        </emulator>
+        <emulator>
+            <description>Amstrad CPC emulator for DOS, DPMI and WIN32</description>
+            <link>http://cpce.emuunlim.com/</link>
+            <name>CPCE</name>
+            <platform>Multiplatform emulator</platform>
+        </emulator>
+        <emulator>
+            <description>MESS emulates a lot of Amstrad computers (available for many OS) !</description>
+            <link>http://www.mess.org/</link>
+            <name>MESS</name>
+            <platform>Multiplatform emulator</platform>
+        </emulator>
+    </emulators>
+    <graphics>160 x 200 with 16 colors320 x 200 with 4 colors640 x 200 with 2 colors</graphics>
+    <gun></gun>
+    <hardwares/>
+    <image>http://www.old-computers.com/museum/photos/cpc664.jpg</image>
+    <keyboard>QWERTY mechanical keyboardNumeric keypad and edit block with arrow keys</keyboard>
+    <language>Locomotive Basic v1.1</language>
+    <links>
+        <link>computer.asp?st=1&amp;amp;c=26</link>
+        <link>computer.asp?st=1&amp;amp;c=84</link>
+        <link>computer.asp?st=1&amp;amp;c=522</link>
+        <link>computer.asp?st=1&amp;amp;c=111</link>
+        <link>computer.asp?st=1&amp;amp;c=885</link>
+        <link>http://www.instruction-manuals.co.uk/category/computer/amstrad.htm</link>
+        <link>http://www.sean.co.uk/books/amstrad/index.shtm</link>
+        <link>http://amstrad.cpc.free.fr/</link>
+        <link>http://www.amstrad.dk/</link>
+        <link>http://web.ukonline.co.uk/cliff.lawson/index.htm</link>
+        <link>http://www.nenie.org/cpcip/</link>
+        <link>http://www.cpcwiki.eu</link>
+        <link>http://www.cpcwiki.com/index.php/Main_Page</link>
+        <link>http://www.diskdoctor.co.uk/</link>
+        <link>http://www.FutureOS.de</link>
+        <link>http://turpas3.angelfire.com/</link>
+        <link>http://speccy.altervista.org/</link>
+        <link>http://scampin.chez-alice.fr/cpc/index.html</link>
+        <link>http://phenixinformatique.free.fr/</link>
+        <link>http://www.symbos.de/</link>
+        <link>http://andercheran.aiind.upv.es/~amstrad/</link>
+        <link>http://www.trickynz.com/Amstrad%20CPC.html</link>
+        <link>ftp://ftp.ibp.fr/pub/amstrad</link>
+        <link>ftp://ftp.nvg.unit.no/pub/cpc/</link>
+        <link>ftp://ftp.nvg.unit.no/pub/cpc/</link>
+        <link>news:comp.sys.amstrad.8bit</link>
+    </links>
+    <manufacturer>Amstrad</manufacturer>
+    <media>3</media>
+    <name>CPC 664</name>
+    <numGames></numGames>
+    <origin>United Kingdom</origin>
+    <peripherals></peripherals>
+    <ports>Printer portBus port1 Joystick plug (Atari standard)Floppy Disc PortDIN plug for Amstrad monitorHeadphone / Sound stereo jack outputDIN plug for external tape recorder</ports>
+    <power>5v DC (powered by an Amstrad monitor)</power>
+    <price>Monochrome - 684  (august 85)Color - 913  (august 85)</price>
+    <production>End of 85 !</production>
+    <ram></ram>
+    <rom>48 kb (32 kb for the CPC 664 ROM + 16 kb for the AMSDOS ROM)</rom>
+    <screenshots>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;CPC-664&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/amstrad_cpc664-f_r-side_2.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;FRENCH MODEL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/amstrad_cpc664-f_r-side_4.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;FRONT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/amstrad_cpc664-f_front_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;FRONT #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/amstrad_cpc664-f_front_2.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;LEFT SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/amstrad_cpc664-f_l-side_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;LEFT SIDE #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/amstrad_cpc664-f_l-side_2.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;RIGHT SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/amstrad_cpc664-f_r-side_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;RIGHT SIDE #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/amstrad_cpc664-f_r-side_3.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;BOTTOM&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/amstrad_cpc664-f_bottom_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;TOP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/amstrad_cpc664-f_top_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;REAR&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/amstrad_cpc664-f_rear_2.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;INTEGRATED DISK DRIVE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;3&amp;quot; disk drive, 169 KB per side&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/amstrad_664_disk.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;FRENCH MODEL - KEYBOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/amstrad_cpc664-f_zoom_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;FRENCH MODEL - DISK DRIVE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;On the French model, LDD (Lecteur De Disquette) is written instead of FDD (Floppy Disk Drive) for English models. The colour chart and keyboard map are also in French.&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/amstrad_cpc664-f_zoom_2.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;FRENCH MODEL - DISK DRIVE ZOOM&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/amstrad_cpc664-f_zoom_3.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;INSIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Let's have a look inside the beast...&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/amstrad_664_inside.jpg</link>
+        </shot>
+    </screenshots>
+    <size></size>
+    <sound>3 channels, 7 octaves+1 noise channel</sound>
+    <speed>4 MHz</speed>
+    <switches></switches>
+    <text>20 x 25 with 16 colors40 x 25 with 4 colors80 x 25 with 2 colors</text>
+    <type>Home Computer</type>
+    <vram>16 kb</vram>
+    <year>Spring 1985</year>
+</computer>

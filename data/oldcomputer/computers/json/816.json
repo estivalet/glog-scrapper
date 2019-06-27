@@ -1,0 +1,203 @@
+{
+  "name": "iPDS",
+  "manufacturer": "Intel",
+  "type": "Professional Computer",
+  "origin": "U.S.A.",
+  "year": "1982",
+  "production": "",
+  "language": "None",
+  "keyboard": "Full stroke detachable keyboard62 keys with arrow keys",
+  "cpu": "Intel 8085",
+  "speed": "Unknown",
+  "coprocessor": "None",
+  "ram": "64 KB standard RAM + 64 KB bubble memory module",
+  "vram": "",
+  "rom": "Unknown",
+  "text": "80 chars x 25 lines",
+  "graphics": "No graphics",
+  "colors": "Monochrome - Green phosphorus CRT",
+  "sound": "Beeper",
+  "size": "Unknown",
+  "ports": "ICE and EPROM burner connector at right sideSerial RS232, Parallel printer, Second external FDD unit",
+  "power": "Built-in power supply unit",
+  "price": "Unknown",
+  "description": "\nThe iPDS (Intel Personal Development System) was a portable system intended to support both hardware and software design and development for boards based on many different families of  Intel microprocessors (8085 or 8088) or embedded microcontrollers (8031/8051/805X family).\n\nThe unit was powered by an Intel 8085. It contained one  floppy disc drive and a 64 KB bubble memory chip that could be used as a boot disk if no floppy disc was inserted. \n\nThrough the InCircuit Emulator (ICE), the iPDS was used to physically emulate the microprocessor of a host development board. the ICE was plugged where the CPU would go and the programmer could use the console to bring up the ICE software and single step through the compiled code, set break points, modify run and test the software.\n\nWhen the program was completed, using the iPDS editor and assembler an EPROM burner module was used to save the program into an EPROM chip.\n\nSeveral optional modules could be obtained from Intel, depending on the type of emulated processor and Eprom chips to be programmed. \n_______________________",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;READY FOR CARRYING\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Intel_ipds_Closed_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CLOSED\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;A trap door allowed to store EPROM programmer modules inside the machine.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Intel_ipds_TrapDoor_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRONT VIEW\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;9\u0026quot; green display, Shugard floppy drive and non-detachable keyboard.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Intel_ipds_FrontView_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BACK SIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(1)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; EPROM programmer slot\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(2)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; External floppy drive DB40 connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(3)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Parallel printer DB25 connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(4)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Display contrast button\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(5)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Serial RS-232 DB25 connector. \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Intel_ipds_Backside_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(1)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Main board and processor board\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(2)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Floppy disc drive\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(3)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Eprom programmer card\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(4)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Switching power supply unit\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(5)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Display unit.  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Intel_ipds_Inside_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MAIN BOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;(1)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; The board uses 2 Intel 8085 processors\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;(2)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Connector of the optional processor board located at the back of the main board\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;(3)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; All the I/O chips come (of course) from Intel. A large collection of intel chips are used: 8275, 8272, 8255, 8251, 8253, 8202.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;(4)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Add-on Reset module\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;(5)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Buzzer\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;(6)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Keyboard connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;(7)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Display contrast ajustment\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;(8)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Floppy drive connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;(9)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Data separator module\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;(10)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Control LEDs (Keyboard, Base and optional processors, power)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;(11)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; PROM programmer card connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;(12)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 64 KB main RAM chips (8 x 8264)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;(13)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Power supply connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;(14)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Video connector\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Intel_ipds_Mainboard_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROCESSOR BOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The processor board is attached to the main board. It is used to emulate the target processor the program is written for, here an Intel 8085.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Intel_ipds_ProcBoard_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BUBBLE RAM MODULE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This 64 KB bubble memory module acted like standard RAM chips, but the memory content was kept when the power was off. \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Intel_ipds_Bubble_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;EPROM PROGRAMMERS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Two optional Eprom programmers.\u0026lt;br\u0026gt; The left one (F27/128) was for 2716 to 27128 versions as well as 2758, 2815 and 2816.\u0026lt;br\u0026gt; The right one (F87/51) was dedicated to microcontrollers: 804x series, 8051, 874x series.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Intel_ipds_EpromBurners_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;EXTERNAL 5\u0026quot; FDD UNIT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Intel_ipds_FDunit_s1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH PRICE LIST\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is a part of a complete French price list of the C64 and VIC-20, including peripherals, accessories and software.\u0026lt;br\u0026gt; You can download the \u0026lt;a href\u003d\u0026quot;http://www.old-computers.com/Museum/downloads/Commodore/FrPriceList.zip\u0026quot;\u0026gt;complete version\u0026lt;/a\u0026gt;.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Jacques Sorro\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Commodore_64_FrPriceList_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0027\u0027Olivetti M10, the portable professional micro-computer, here comes why.\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/olivetti_m10_advert_the-best_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FIRST AD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;February 1983\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; For years, people have been trying to build a better Apple II.\u0026lt;br\u0026gt; It finally happened.\u0026lt;br\u0026gt; Meet the Apple IIe, an impressive new version of a most impressive machine.\u0026lt;br\u0026gt; The \u0027e\u0027 means enhanced. Which means a bundle of new features...\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Apple_2e_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (SEPT. 1987)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Arcades games in an armchair\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sega_sms_advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/tandy_trs80-model3_dossier31.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PRICE LIST\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This reseller advert shows the initial price list from 1982 and the new prices of June 1983, about 40% less expensive.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Xerox_820_Pricelist_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FIRST ADVERT - JAN.1982\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;\u0026lt;a href\u003d\u0026quot;http://www.aci.com.pl/mwichary/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Attached\u0026lt;/a\u0026gt;\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/IBM_5150_Advert81_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (JAN. 1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sord_m-serie_ad_gepsi.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1978 BROCHURE #18\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;As the picture is quite unreadable, we have replaced it with a plain text copy.  \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; In order to provide as much information as possible, we have selected the most frequently asked questions about MSI products for inclu\u0026shy;sion in our catalog. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Questions About the MSI 6800 Computer\u0026lt;/b\u0026gt; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; What are the main differences between the MSI 6800 Computer and the MP 6800 Com\u0026shy;puter manufactured by Southwest Technical Products Corporation?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; The MSI 6800 Computer is bus compati\u0026shy;ble with the SWTP 6800 system. Both use the SS-50. bus architecture. However, the MSI 6800 overcomes the engineering disadvan\u0026shy;tages associated with the MIKBUG monitor, incomplete address decoding, interface ad\u0026shy;dresses in the middle of user memory, inade\u0026shy;quate power supply, and mother board capacity. The MSI 6800 system has a 20 amp power supply and a heavy duty mother board with 16 slots and gold-plated connectors. Our CPU Board has separate baud rate and system clocks, 4K of EPROM memory and a much improved MIKBUG compatible monitor. MSI interface cards bring all strappable options to a DB-25 connector on the rear panel via a rib\u0026shy;bon cable connector. This permits any terminal to be plugged into the computer without alteration of the interface card. Other advantages of the MSI 6800 are described in this catalog. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; Can I use my SWTP memory boards and interface boards in the new MSI 6800 Com\u0026shy;puter?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; Yes, since the bus architecture is identical, they will worlk fine. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; Can I use the MSI 6800 mother board and power supply only to beef up my SWTP 6800 system?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; Yes, the MSI mother board (MB-1) has the same hole centers as the SWTP mother board and will mount easily in the SWTP chassis. However, the MSI interface adapter board (IA-1) must also be used to furnish an interface bus. The MSI power supply (PS-1) may also be used to replace the SWTP supply. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; Is the MSI6800 available wired and tested?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; Yes, see catalog listings. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; Can I use the MSI CPU card in my SWTP 6800 system in order to gain a faster system clock and on board EPROM memory?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; Yes, however the MSI power supply should also be used in order to adequately supply the EPROM memory. A MIKBUG replacement monitor must also be used if interface ad\u0026shy;dresses used by MIKBUG are to be retained. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Questions About the FD-8 Disk Memory System\u0026lt;/b\u0026gt; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; I have an SWTP 6800 System. What is needed to hook up your FD..a Floppy Disk Memory to my system?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; The FD..a Disk Memory System interfaces to any microprocessor system via a single PIA chip. For the SWTP 6800 System, we furnish our PIA-1 interface card which plugs in directly to port 7 of the interface bus. A ribbon cable then plugs into the interface card and to the disk. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; What software is provided with the FD-8 Disk System?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; MSI provides a complete disk operating system software package for use with 6800 based microprocessor systems. The operating system gives the user the capability of having named files at three levels: object code files, source code files for the assembler, and BASIC files. The system contains a coresident as\u0026shy;sembler/editor which can pull source files from disk, assemble, and pass object code to either tape cassette or disk memory. Password pro\u0026shy;tection is available for both program as well as random and sequential data.\u0026lt;br\u0026gt; The new TSC editor is now available in a MSI FD-8 disk version. This excellent editor allows very long source files to be stored on disk, edited, and assembled with the object code being placed on disk as well.\u0026lt;br\u0026gt; In BASIC, both program as well as random and sequential disk data files are available. All files are named with optional password pro\u0026shy;tection. Other basic programs on disk can be chained to or called as subroutines from a parent program. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; What charges are made for software, and what documentation do I receive?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; The complete disk operating system, in\u0026shy;cluding the coresident assembler/editor are provided free of charge with the purchase of an FD..a Disk System. A $65.00 charge is made for MSI BASIC. An operating manual for disk oper\u0026shy;ating system, assembler/editor, and BASIC is provided. Partial source documentation is also provided for the input and output routines and other appropriate addresses. In addition, com\u0026shy;plete source documentation is provided for the disk driver subroutines and MINIDOS which allows the user to read or write any desired sector or number of sectors from any beginning disk location to any destination in computer memory. This enables the user to have access to the disk in his own assembly language pro\u0026shy;grams or by direct communication with the control terminal completely independently from the MSI disk operating system. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; Is it possible to interface the FD-8 Floppy Disk to microcomputer systems using the 8080, Z80, or 6502 processors? If so, do you provide the technical details on interfacing?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; The FD-8 can be connected to any micro\u0026shy;processor via a single PIA chip interface. Elec\u0026shy;tronically, there is no difficulty in interfacing to any system since transfers between the disk and the host computer are carried out via a sector buffer RAM on the disk controller card. Information transfer is under the control of a crystal clock on the controller board, thus mak\u0026shy;ing the FD-8 completely independent from processor speed or clock frequency. It is possi\u0026shy;ble to interface the FD-8 using parallel data ports without a PIA chip, however, the software for interfacing has already been written for both 8080 and 6800 systems using a PIA interface. Since some of the ports are used bi-direction\u0026shy;ally, the PIA interface provides an overall sim\u0026shy;plifi9ation of the interfacing problem. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; What software is available for 8080 sys\u0026shy;tems?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; MSI provides complete source listings and documentation for MINIDOS and the disk driver subroutines which have been written for the 8080. This allows the user to have complete access to the disk to write any desired sector or number of sectors from any desired starting location to any desired destination memory address. A complete 8080 based disk operating system is not yet available. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; Is your FD-8 Floppy Disk double density?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; The MSI Floppy Disk uses the GSI Model 110 drive which has the capability of operating in the double density mode. However, double density operation requires data to be written using a modified FM technique. This requires special data separator and data writing circuitry which is not contained within the present ver\u0026shy;sion of the FD-8. Double density version of the FD-8 will be introduced at a later time.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/MSI_6800_Brochure_s18.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JACQUARD BROCHURE #5 \u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The brochure says:\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; During Jacquard\u0027s early years, as a \u0026quot;system house\u0026quot;, the company developed communications and peripheral devices that were not available from any other sources. Some of these are still available only from Jacquard. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Through these devices, Jacquard acquired hardware design and production skills, thus becoming experienced in integrating \u0027pieces\u0027 into systems that worked, and worked well. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; These years of experience enabled Jacquard to design the first truly affordable and multi-functional small business system - the Jacquard Videocomputer... \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Jacquard_J500_Brochure_5.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.K. ADVERT (1990)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;In this U.K. advert, the Amiga 1500 was sold at \u0026pound;1149.99 with a colour monitor, 4 games (Battle Chess, Sim City, Populous, Battle of Britain) and the home business suite Platinium Works. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The Amiga 500 was also sold at \u0026pound;399.99\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.pelikonepeijoonit.net\u0026quot;\u0026gt;The Arctic Computer \u0026amp; Console Museum\u0026lt;/a\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Commodore_Amiga1500_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert from the Nieman-Marcus catalog.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Honeywell_H316_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1980 COLECO CATALOG\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;extract from the 1980 Coleco catalog\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.textfiles.com/digitize/items/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Digitize, Textfiles.com\u0026lt;/a\u0026gt; for the picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/coleco_colortron_catalog_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (JAN. 1985)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;I met Apple IIc\u0026quot; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; French advert from MAJUSCULE distributor.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/apple_IIc_pub_majuscule.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;In september 1980, over 200,000 Model 1 were sold, more than 50,000 units per month since the computer was launched.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Tandy_Model1_Advert_5.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT, OCT 1983\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Toshiba_T100_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERTISING PICTURE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Acorn_RiscPC_Pub_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;APPLE BUSINESS GRAPHICS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The Apple graphics package was launched in September 1982. It was available for both the Apple II and Apple III.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;  Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt;As you know, one picture is worth a few thousand numbers.\u0026lt;br\u0026gt; As you may not know, Apple Business Graphics software can generate more types of pictures, in more colours, using more data than any other graphics package... On the monitor of your choice. And on virtually any printer or plotter on the market...\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Apple_II_BusinessGraph_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1977 ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Compucolor_1_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPANESE ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://uratomo.hp.infoseek.co.jp/game/museum/msx/f1xd.htm\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Dreaming Tomorrow\u0026lt;/a\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sony_hb-f1xd_jap-advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ONTEL ADVERT #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Ontel_Amigo_Advert_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CMC INTERNATIONAL\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;It seems that the CMC Company (We have no more info about this company) used SuperBrain systems in which they added various hard disks, from 5 to 20 MB. \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/CMCinternational_SuperFive_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT, JAN. 1984\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Seductive Sanco computing.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Treat you to a star for less than 3,000 Euros\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sanco_8000_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ACE 100 ADVERT (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Franklin_ACE100_Advert_1.jpg"
+    }
+  ],
+  "hardwareDescription": "All these Developing devices can be connected to Intel iPDS-100:\n\n1-EMV-44 : Con 8044 Emulation Vehicle Conversion Package\n2-EMV-51A : 8051 A Emulation Vehicle.\n3-EMV-88 : iAPX 8088 Emulation Vehicle.\n4-ICE-42 : 8042 In-Circuit Emulator.\n5-ICE-49 : MCS-48 In-Circuit Emulator.\n6-ICE-51 : 8051 In-Circuit Emulator.\n7-iUP-Fast27/K : EPROM Programmer (Ex : i2764).\n8-iUP-F27/128 : E2/EPROM Programmer (Ex : i2816).\n9-iUP-F87/51A : Microcontroller Programmer (Ex: i8748 \u0026amp; i8751).\n10-iUP-F87/44A : Peripheral Programmer (Ex : i8741 \u0026amp; i8755).\n \nAnd All these Instrument are optional to be use with Intel iPDS-100:\n \n1-iPDS-110 :Optional Processor Board \n2-iPDS-120 :MULTIMODULE Adapter Board\n3-iPDS-130 :Add-On Disk Driver\n4-iPDS-140 :EMV/PROM Programming Adaptor Board\n5-iPDS-FTRANS :iPDS/iMDX File Tansfer Packaged\n6-iPDS-PROTO KIT :Design Aid for Developing Plug-Ins",
+  "hardware": [
+    {
+      "type": "EMV-51A",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/intel_ipds_emv51a_1.jpg",
+          "description": "8051 A Emulation Vehicle||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;8051 A EMULATION VEHICLE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The EMV-51A device can be connected to Intel iPDS-100 from the right side it has a flexible cable with end  has a DIP40 pin connection this can be plugged on a PCB which need be emulated as a 8051 microcontroller\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Mustafa Abdullah Katie\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/intel_ipds_emv51a_2.jpg",
+          "description": "back \u0026amp; connector||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BACK \u0026amp; CONNECTOR\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Mustafa Abdullah Katie \u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/intel_ipds_emv51a_3.jpg",
+          "description": "stored inside the iPDS||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;STORED INSIDE THE IPDS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Mustafa Abdullah Katie \u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/intel_ipds_emv51a_4.jpg",
+          "description": "connected to the iPDS ||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CONNECTED TO THE IPDS \u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Mustafa Abdullah Katie \u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    }
+  ],
+  "emulator": [],
+  "link": [
+    "http://matthieu.benoit.free.fr/intel/iPDS/"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/intel_ipds_1s.jpg",
+  "builtInGames": "None",
+  "controllers": "",
+  "media": "DS-DD 5\u0027\u0027 floppy disc drive, Bubble memory module",
+  "numGames": "",
+  "peripherals": "Second FDD unit, various ICE and EPROM burner modules",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

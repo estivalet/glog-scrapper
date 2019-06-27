@@ -1,0 +1,86 @@
+{
+  "name": "Nimbus PC",
+  "manufacturer": "Research Machines",
+  "type": "Professional Computer",
+  "origin": "United Kingdom",
+  "year": "1985",
+  "production": "1987",
+  "language": "RM Basic diskette",
+  "keyboard": "PC like with 10 function keys and numeric keypad",
+  "cpu": "AMD 80186",
+  "speed": "10 MHz",
+  "coprocessor": "Socket for a 80187 math coprocessor",
+  "ram": "192 KB, up to 1 MB",
+  "vram": "",
+  "rom": "16 KB",
+  "text": "40 or 80 columns x 25 lines",
+  "graphics": "320 x 250 (16 colours), 640 x 350 (4 colours)",
+  "colors": "16",
+  "sound": "3 voices, 8 octaves + white noise (AY-8910 chip)",
+  "size": "",
+  "ports": "Mono and colour monitor, Serial, Mouse/Joystick, Serial/Piconet port",
+  "power": "Built-in switching power supply unit",
+  "price": "Unknown",
+  "description": "\nWhen the Nimbus PC series was launched, Research Machines already had a long history of providing innovative and reliable computers for the British education market.\n\nThe Nimbus PC was also intended to support schools in the use of the computers. It wasn\u0027t a pale copy of a standard PC but a fast and versatile DOS machine entirely designed and manufactured by RM.\n\nThe basic machine held 192 KB of RAM,  a single 720 KB floppy drive and extended sound and graphics. It could be expanded to 1 MB of RAM,  dual floppy drives and up to 160 MB hard disk. The Nimbus was also designed as a network station and came with built-in Piconet and ethernet ports.\n\nThe Nimbus ran a modified version of Microsoft MS-DOS 3.10 that could not run on a standard PC. Sadly, this was quite a limitation. Although an IBM emulator software allowed some standard PC programs to run, only software specifically written for the Nimbus was able to take advantage of the improved sound and graphic features. However, RM and  third-parties released numerous languages and educational software that fulfilled most school needs.\nA special x86 version of BBC Basic also allowed a wide range of programs written for Acorn machines to be run. To note also that some Nimbus software would run on a standard PC, for example the Nimbus versions MS Word and Multiplan.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PC2 VERSION\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;PC2 version with dual floppy drive and 1 MB RAM, running the DOS 3.1 Welcome program.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/ResearchMach_Nimbus2_WelcomeScr_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRONT PANEL\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The 3 slots on the front were for add-on cartridges. However, the connectors were not soldered to the main board.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/ResearchMach_Nimbus1_FrontPanel_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PC1 \u0026amp; PC2 MAIN UNITS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/ResearchMach_Nimbus_TwoCases_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FD UNIT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;External 360 KB 5.25\u0026quot; floppy drive unit.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/ResearchMach_Nimbus_FDunit_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR SIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;From left to right:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026bull; Mouse or digital joystick DB9 connector\u0026lt;br\u0026gt; \u0026bull; Keyboard DIN socket\u0026lt;br\u0026gt; \u0026bull; Colour RGB monitor DIN socket\u0026lt;br\u0026gt; \u0026bull; Monochrome monitor DIN socket\u0026lt;br\u0026gt; \u0026bull; Serial printer RJ11 socket\u0026lt;br\u0026gt; \u0026bull; Piconet network RJ11 socket\u0026lt;br\u0026gt; \u0026bull; Optional Ethernet network slot\u0026lt;br\u0026gt; \u0026bull; SCSI connector\u0026lt;br\u0026gt; \u0026bull; Parallel printer connector along with +5V and +12V output jacks\u0026lt;br\u0026gt; \u0026bull; External FDD unit connector\u0026lt;br\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/ResearchMach_Nimbus_RearSide_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Notice that the expansion cards are not fixed onto the main board but linked together by a bus flat cable.\u0026lt;br\u0026gt; Internal Floppy drives and external FDD connector are also linked through the same cable to the controller card. \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/ResearchMach_Nimbus_InsidePC2_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MAIN BOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(1)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 64 KB video RAM chips (8 x 4164)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(2)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Text and graphics video chip\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(3)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; AMD 80186 processor and socket for the 80187 math co-processor\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(4)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Memory management chip\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(5)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; AY-8910 sound generator\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(6)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Main RAM chips can take place onboard (empty sockets)or/and in a RAM module (not inserted here)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(7)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; I/O management chip\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(8)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Zilog and Intel I/O chips\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(9)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Bus connector for expansion cards. \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/ResearchMach_Nimbus1_Mainboard_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;RM MICE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;RM mice wasn\u0027t either compatible with standard PC mice.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/ResearchMach_Nimbus_Mice_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MANUALS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;RM Basic, Pascal and Logo programming languages manuals.\u0026lt;br\u0026gt; Nimbus machines could also run standard PC software like Microsoft Word, Multiplan and even the first version of Windows. \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/ResearchMach_Nimbus_Manuals_s1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT (APR. 1986)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/ResearchMach_Nimbus_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CLOSE-UP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/ResearchMach_Nimbus_Advert_s2.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [],
+  "image": "http://www.old-computers.com/museum/photos/ResearchMach_Nimbus1_WelcomeScr_s1.jpg",
+  "builtInGames": "RM Basic diskette",
+  "controllers": "",
+  "media": "1 or 2 720 KB 3.5\u0027\u0027 floppy drives - optional 10 or 20 MB hard disk",
+  "numGames": "",
+  "peripherals": "Parallel, Network, FDD/HDD adapter cards",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

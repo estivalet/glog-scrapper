@@ -1,0 +1,140 @@
+{
+  "name": "APPLE IIgs",
+  "manufacturer": "Apple",
+  "type": "Professional Computer",
+  "origin": "U.S.A.",
+  "year": "1986",
+  "production": "",
+  "language": "",
+  "keyboard": "Detached 80-key full stroke with 10-key numeric pad and mouse connector",
+  "cpu": "Western Design Center 65C816 (16 bit)",
+  "speed": "2.8 MHz, switchable to 1 MHz",
+  "coprocessor": "",
+  "ram": "128 KB expandable to 8 MB",
+  "vram": "",
+  "rom": "128 KB expandable to 1 MB",
+  "text": "40 or 80 chars x 25 lines",
+  "graphics": "320 x 200 / 640 x 200 + Apple II graphic modes (see below)",
+  "colors": "4096",
+  "sound": "Ensoniq 32 with 16 stereo voices (+ 64 KB on chip RAM to store sound data), one voice is reserved for the system beep",
+  "size": "28.5 (W) x 34.3 (D) x 10.1 (H) cm.",
+  "ports": "7 slots, ram card, RS422c (2), analogue RGB, Apple Desktop Bus (mouse \u0026amp; keyboard), Composite video, joystick, audio, disk port, AppleTalk",
+  "power": "Built-in switching power supply unit",
+  "price": "$999 when launched. RGB monitor $499, Monochrome monitor $129, 3.5\u0027\u0027 FDD unit $399, 5.25\u0027\u0027 FDD unit $299, 256 KB RAM card $129, 20 MB HDD $1299, SCSI controller card $129",
+  "description": "\nThe Apple IIGS was designed in response to the Amiga 1000 and Atari 520ST computers \u0026amp; could be considered a cross between the Macintosh \u0026amp; Apple II (naturally, it can\u0027t use Macintosh programs). It was (and still is) a quantum leap for the Apple II line.\n\nSales were strong initially and the IIGS even outsold the black and white Macintosh units that were its contemporary. Sadly, Apple wanted Macintosh to be its future.  The total number of advertisements and commercials for the IIGS could probably be counted on one hand.  If the computer had been introduced a year or two earlier, things might have been different.  The Apple IIGS disappeared from the market in 1992.\n\nIn one final gasp, the Apple II supporters at Apple designed the Apple IIGS Plus, code named \u0026quot;Mark Twain\u0026quot;. It had an 8Mhz 65C816, a built in SuperDrive, 2MB on the motherboard, and a hard drive. Prototypes leaked out and a user group that has one and wrote a series of articles about it. Apple management vetoed this unit. \n\nThe Ensoniq chip in the Apple IIGS was a brilliant move by Apple, but it drew a lawsuit from Apple Records, the Beatles\u0027 record label. Apple never again put a synthesizer chip in any computer. Even today, the Macintosh does not have hardware synthesizers. The Macintosh works around this by using software-based synthesis. \n\nIt had a lot of graphic modes : All modes used a 12-bit palette for 4096 colors.\n- 320x200 with 16 colors\n- 320x200 with 256 colors: in this mode, the VGC is taking advantage of the fact that it has memory for 16 separate palettes.  Each scan line can be assigned any one of these 16 palettes for a total of 256 possible colors.  This mode requires no CPU assistance and is often used in games. \n- 320x200 with 3200 colors: in this mode, the CPU is used to swap palettes into and out of video memory such that a separate 16 color palette can be used on each of the 200 scan lines for 3200 possible colors.  This mode is often used for viewing graphics.\n- 640x200 with 4 pure colors: this mode is bland and is not often used.\n- 640x200 with 16 dithered colors: in this mode, the pixels in the graphic screen are grouped into even and odd columns.  The even columns can have a palette of 4 pure colors out of a of a possible 4096. The odd columns can have a second palette of 4 pure colors. The GS dithers the adjacent colors for 4x4\u003d16 dithered colors. This mode is widely used in productivity programs and also in Apple\u0027s Finder for the GS.\n- Fill mode: for faster rendering of graphics, fill mode is a hardware mode in which an outline of a graphic can be drawn and the outline filled by a solid color without needing to draw in all the pixels.\n\nCombinations and variations: the Apple IIGS supported scan line interrupts. Part of the screen could be in 640x200 mode while another part could be in 20x200 resolution. Such split modes were sometimes used in paint programs, where the menu bar was in 640x200 while the graphic was in 320x200. \n          \nSVGA modes with 24-bit color could be added with an additional video card (see the Second Sight SVGA card at Sequential Systems at http://www.sequential.com/).\n\nThe Apple IIGS also had all the graphics modes found on the Apple IIc.\n\n- Text mode: 40x24 and 80x24.  Characters are formed by a 7x8 pixel matrix. Text mode is monochrome but can be set to a specific color.  The background and border can each be set to different colors. Text mode is rarely used in GS programs since the OS, GS/OS, had a graphic desktop. \n- Low Resolution: 40x48 pixels in 16 colors. \nDouble Low Resolution: 80x48 pixels in 16 colors. \nHigh Resolution: 280x192 pixels in 6 colors \nDouble High Resolution: 560x192 pixels in 16 colors. \nCombinations/Variations: 4 lines of text mode could be mixed with a truncated Low Resolution or High Resolution mode graphic.  The text in mixed mode could be either 40 column or 80 column.  Double Low Res and Double High Res modes couldn\u0027t be mixed with text.\n\nThe \u0026quot;SmartPort\u0026quot; external drive port supports both Apple IIe/IIc UniDisks (3.5\u0026quot; and 5.25\u0026quot; models) and Apple IIGS daisy-chain 3.5\u0026quot; drives and Apple 5.25\u0026quot; disks.  It was sold with a 3.5\u0026quot; floppy drive which not only worked on this computer, but on the Macintosh as well. It was also designed to support the Chinook CT-series 20MB to 100MB SmartPort hard drives, but Apple IIGS users usually added an SCSI card to the system for faster hard drive access.\n\nThe difference between a UniDisk and a IIGS 3.5\u0026quot; drive is that the IIGS drive is controlled directly by the computer while the UniDisk has a separate processor. The UniDisk is thus much slower (up to 4x slower) than a IIGS 3.5\u0026quot; drive.\n\nThe SmartPort can support two 800K 3.5\u0026quot; drives, two 140K 5.25\u0026quot; drives, and one 100MB CT100 hard drive simultaneously daisy-chained to each other.\n\nThe Apple IIGS often shipped with the Apple High Speed (DMA) SCSI controller in an expansion slot for controlling SCSI devices.  Even 100MB Zip Drives and 1 GB Jazz Drives work on this SCSI port. A SuperDrive controller could be added for using 1.44MB high density floppy drives.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MONO AND COLOUR SYSTEMS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The major external difference between the monochrome \u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; and colour \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; monitors is in the display adjustments on the side of both monitors. One adjustment (bright) for the mono version, two (bright, contrast) for the colour one.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Apple_IIgs_Systems_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BACK SIDES\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; Monochrome version\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; Colour version\u0026lt;br\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Apple_IIgs_Back_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;KEYBOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The keyboard design was quite close to that of the future Macintosh series.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Apple_IIgs_Keyboard_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MOTHERBOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; Standard 128 KB RAM - 4  x 41464 chips (64K x 4)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; 64 KB Sound RAM - 2 x 41464 chips\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; Ensoniq sound synthesizer chip\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(4)\u0026lt;/b\u0026gt; Western Digital 16-bit 65816 microprocessor\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(5)\u0026lt;/b\u0026gt; 128 KB system ROM chip\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(6)\u0026lt;/b\u0026gt; Clock chip and back-up battery\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(7)\u0026lt;/b\u0026gt; Joystick connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(8)\u0026lt;/b\u0026gt; 7 x Apple II compatible expansion slots\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(9)\u0026lt;/b\u0026gt; Expansion slot management chip\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(10)\u0026lt;/b\u0026gt; 128 KB Fast RAM - 4  x 41464 chips\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(11)\u0026lt;/b\u0026gt; Memory expansion connector (up to 8 MB)\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Apple_IIgs_Motherboard_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; Hard-disk controller card\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; Memory expansion card\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; Apple II floppy-disk controller card\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(4)\u0026lt;/b\u0026gt; Stereo sound card\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(5)\u0026lt;/b\u0026gt; Switching power supply\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Apple_IIgs_Inside_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR CONNECTORS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; Headphone jack\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; Apple II F.D. unit (cable path)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; Serial port #1 (Modem)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(4)\u0026lt;/b\u0026gt; Serial port #2 (Printer)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(5)\u0026lt;/b\u0026gt; Hard-disk unit DB25 connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(6)\u0026lt;/b\u0026gt; Joystick DB9 connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(7)\u0026lt;/b\u0026gt; Sound card output jack and switch\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(8)\u0026lt;/b\u0026gt; 3.5\u0026quot; and/or 5.25 F.D. unit DB19 connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(9)\u0026lt;/b\u0026gt; Video RGB out (DB15 connector)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(10)\u0026lt;/b\u0026gt; Monochrome video composite cinch plug\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(11)\u0026lt;/b\u0026gt; Keyboard mini-din plug\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(12)\u0026lt;/b\u0026gt; Mains plug and On/Off switch\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(13)\u0026lt;/b\u0026gt; Security cable plug\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Apple_IIgs_Connect_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;WOZ EDITION\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The first 10,000 Apple IIGS computers had the signature of \u0026quot;Woz\u0026quot; in honor of Steve Wozniak, the creator of the Apple II line of computers.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Special thanks to \u0026lt;b\u0026gt;Bozhidar Stefanov\u0026lt;/b\u0026gt; who donated us this computer.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Apple_IIgs_Woz_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;WOZ LETTER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Letter and certificate of othenticity sent by Steve Wozniak to all the Apple IIGS limited edition owners.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;\u0026lt;a href\u003d\u0026quot;http://perso.wanadoo.fr/fabrice.montupet/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Computers Forever\u0026lt;/a\u0026gt;\u0026lt;/b\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Apple_IIgs_WozLetter_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;WOZ CERTIFICATE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;\u0026lt;a href\u003d\u0026quot;http://perso.wanadoo.fr/fabrice.montupet/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Computers Forever\u0026lt;/a\u0026gt;\u0026lt;/b\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Apple_IIgs_WozCertif_s1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (1987)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Before being told about it, come hear it yourself.\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/apple_2gs_advert_entendre.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [
+    {
+      "platform": "Windows emulator",
+      "name": "Free Tools Association",
+      "link": "http://www.freetoolsassociation.com/",
+      "description": "IIGS emulator, with a few Apple II games and gs/os for the apple IIGS"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "KEGS32",
+      "link": "http://www.geocities.com/akilgard/kegs32/",
+      "description": "Windows emulator based on the Kent Dickey\u0027s KEGS for UNIX"
+    },
+    {
+      "platform": "Apple emulator",
+      "name": "Bernie II the rescue",
+      "link": "http://www.bernie.gs/Bernie/",
+      "description": "The most fully featured IIGS emulator, available only on the MacOS for PowerPCs"
+    },
+    {
+      "platform": "Apple emulator",
+      "name": "iGS-Mac Information",
+      "link": "http://www.openprojects.rarcoa.com/~justmike/XGS-Mac/",
+      "description": "Based on XGS: An Apple IIgs emulator originally written for X11 which has now been ported to MacOS"
+    },
+    {
+      "platform": "Other platform emulator",
+      "name": "Virtual Apple",
+      "link": "http://www.virtualapple.com/",
+      "description": "This web site uses an ActiveX application and Apple IIgs emulator to automatically download and play most Apple 2 disk images online. "
+    },
+    {
+      "platform": "BEOS emulator",
+      "name": "Sweet16",
+      "link": "http://www.sheppyware.net/products/beos/sweet16/",
+      "description": "The smaller alternative to Bernie."
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "Original KEGS emulator",
+      "link": "HTTP://KEGS.SOURCEFORGE.NET/",
+      "description": "For Mac OS X, Win32, Linux, and Unix/X11"
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "XGS",
+      "link": "http://www.inwards.com/xgs/",
+      "description": "Multiplatform emulator (Windows, DOS, Mac, NeXT)"
+    }
+  ],
+  "link": [
+    "http://WWW.A2CENTRAL.COM",
+    "http://www.apple2.org/",
+    "http://PERSO.WANADOO.FR/fabrice.montupet/",
+    "http://home.swbell.net/rubywand/A2FAQs1START.html",
+    "http://www.grin.net/~cturley/gsezine/",
+    "http://www.apple2.org/marinetti/",
+    "http://www.ninjaforce.com/",
+    "http://www.whatisthe2gs.apple2.org.za/"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/apple_IIgs.jpg",
+  "builtInGames": "Built-in 3.5\u0027\u0027 800 KB floppy drive",
+  "controllers": "",
+  "media": "Built-in 3.5\u0027\u0027 800 KB floppy drive",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

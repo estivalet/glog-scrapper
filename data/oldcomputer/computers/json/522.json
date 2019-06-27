@@ -1,0 +1,259 @@
+{
+  "name": "CPC 5512",
+  "manufacturer": "Amstrad",
+  "type": "Home Computer",
+  "origin": "U.S.A.",
+  "year": "July 1986",
+  "production": "",
+  "language": "Basic",
+  "keyboard": "Full-stroke keyboard (same as CPC-6128)",
+  "cpu": "Z80A",
+  "speed": "4 Mhz",
+  "coprocessor": "",
+  "ram": "512 kb (42kb + 5 banks of 96kb)",
+  "vram": "",
+  "rom": "48 kb",
+  "text": "20x25 in 16 colors, 40x25 in 4 colors, 80x25 in 2 colors",
+  "graphics": "200x160 in 16 colors, 320x200 in 4 colors, 640x200 in 2 colors",
+  "colors": "27",
+  "sound": "3 voices, 6 octaves + 1 channel for white noise",
+  "size": "",
+  "ports": "1 x joystick (Atari standard), Tape interface, Monitor, External FDD, Printer, Expansion port, Headphone/Sound output, FDD power in (5v DC), Power in (12v DC), MIDI port, RS232",
+  "power": "",
+  "price": "B\u0026amp;W : 760   (France, summer 86)Color : 990  (France, summer 86)",
+  "description": "\nThis one was very similar to the 6128 except that the disk drive is a 5 1/4\u0026quot; one !! No more cursed 3\u0026quot; disks that were so hard to find in 85 because nobody else was using them. \n\nThe keyboard was exactly the same as the 6128. But if you look at the connections you can see MIDI plugs and a RS232 connector ! Alan Sugar tries to implement some real standards at last... Clearly, Amstrad wanted to prepare for the 16/32 bit battle, declared with the soon-to-be-launched Atari 520ST, but with an old Z80!! A lost cause from the start... \n\nThe RAM is not really 512k, but rather like its brother the 6128, there were several banks used as virtual RAM disks : 5 banks of 94 k each + the initial 42 k .\n \nThere were new BASIC instructions: CIRCLE, PAINT, SCROLL, CLOCK, MUSIC, etc. and many others to control communication with the RS232 connector. \n\nThe 5512 had its own internal clock that would keep time even after the computer was switched off. Wow!\nBut most impressive was the GUI. Yes, there was a real Graphical User Interface like Windows !! But it was slow, the Z80 could not perform miracles. \nOf course it was fully compatible with the other CPCs. \n\nOK, IT\u0027S A JOKE ! Hebdogiciel (a very well known French newspaper/magazine in the 80\u0027s) made this joke on the first page of N?138 in June 85. AMSTRAD took them to court asking for 100 million francs in damages,  arguing that this joke stopped the sales of the 6128 for one week, which may have been true... \n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;5\u0027\u00271/4 DISK-DRIVE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/5512_2.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;AMIGAWORLD PREVIEW\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Thanks to Jun Suzuki \u0026lt;a href\u003d\u0026quot;http://member.nifty.ne.jp/tarucus/museum/cool/cool.htm\u0026quot;\u0026gt;web site\u0026lt;/a\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Commodore_Amiga4000_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ONTEL ADVERT #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Ontel_Amigo_Advert_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SOFTWARE CATALOGUE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;AcornSoft software catalogue for the Electron\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Acorn_Electron_SoftCatalogue_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROMOTIONAL LEAFLET\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Juan Antonio Maestre for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/trQ_h21_ss_catalog.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPANESE ADVERT.\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The YIS-503 is a YIS-303 with more memory (32 kb) and a proper keyboard.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/yamaha_yis503_japan_advert1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT (1985?)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is an advert for the Power 3000 released in the USA.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://hem.passagen.se/clab/adam/lambda/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Adam\u0027s Lambda 8300 page\u0026lt;/a\u0026gt; for this picture.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/lambda_8300_advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT (1984)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/tandy_1000_ad_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JUPITER BROCHURE #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Jupiter_Ace_Brochure_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MITS BROCHURE #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Altair_8800_SaleBrochure_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FIRST SDK-85 AD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Notice the Intel logo. Does Intel copies the Apple logo or vice versa?\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Intel_sdk85_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (DEC. 1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/lemon-2_ad_ampersand.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;In september 1980, over 200,000 Model 1 were sold, more than 50,000 units per month since the computer was launched.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Tandy_Model1_Advert_5.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROMOTIONAL PICTURE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/mattel_intellivision_promo-pic_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ACCOUNTING SYSTEMS A5 AND A7\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Systems A5 and A7, presented in 1974, contributing significantly to shifting the focus towards the supply Olivetti computer. These machines have the characteristics of a real computer, and hence a discontinuity from the previous accounting and billing are mainly based on mechanical technology. The new machines meet the favor of the European market and in 1975 the Swiss magazine Information, which specializes in computer and office products, a dedicated their cover.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Picture courtesy of \u0026lt;a href\u003d\u0026quot;http://www.storiaolivetti.it\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;http://www.storiaolivetti.it\u0026lt;/a\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/olivetti_a5a7_pub1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.K. ADVERT (1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Kaypro_II_KaycompAd_6.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN LIFLEAT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sharp_MZ80B_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (JULY 1985)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;128k\u003d2000f\u0026lt;br\u0026gt; Better know it before buying a 64k\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/atari_130xe_pub_128k-2000f.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;QL CATALOGUE #4\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sinclair_QL_Brochure1_s4.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ENGLISH ADVERT (1984)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;English advert for the 86A model.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Tony Mattson for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/advance-86a_advert_1s.gif"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;The family advice\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/triumph-adler_alphatronic-pc_ad_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BRAZILIAN ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.museo8bits.com\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;www.museo8bits.com\u0026lt;/a\u0026gt; for this advert\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/prologica_cp400_advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. AD #3 (1983) \u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;As harware arguments wasn\u0027t sufficient, NothStar tried to promote software compatability and services.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/NorthStar_Advantage_Advert_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT #4\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Learn computers with a cool teacher\u0026quot; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026quot;Alice, the Basic teacher\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Matra_Alice_Adv_4.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1979)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt;... One of the results is our new identity and our new product: the Intersystems DPS-1. An IEEE S-100 compatible mainframe with features that live up to its look. \u0026lt;i\u0026gt;Dependable\u0026lt;/i\u0026gt; operation to 4 Mhz. Twenty-card capacity, a modular power supply. And something no one else has: built-in break points to give you a faster, more powerful tool for testing software as well as hardware...\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/InterSystems_Dps1_Advert_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [
+    {
+      "platform": "MS DOS emulator",
+      "name": "Arnimedes",
+      "link": "http://www.arnimedes.de/",
+      "description": "CPC emulator for DOS"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "CaPriCe32",
+      "link": "http://www.caprice32.cybercube.com/",
+      "description": "32 bit Amstrad CPC Emulator"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "No Cash Amstrad CPC Emulator (NO$CPC)",
+      "link": "http://www.work.de/nocash/cpc.htm",
+      "description": "For Windows and MS-DOS"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "WinAPE32",
+      "link": "http://winape.emuunlim.com/",
+      "description": "Fast, accurate CPC/+ emulation"
+    },
+    {
+      "platform": "Apple emulator",
+      "name": "Arnold",
+      "link": "http://www.bannister.org/software/arnold.htm",
+      "description": "Arnold/MacOS is an Amstrad CPC/CPC+/KC Compact Emulator for the Macintosh."
+    },
+    {
+      "platform": "Apple emulator",
+      "name": "CPC ++",
+      "link": "http://bricerive.free.fr/cpc",
+      "description": "Emulator for MAC OS"
+    },
+    {
+      "platform": "Unix / Linux emulator",
+      "name": "CPC ++",
+      "link": "http://bricerive.free.fr/cpc",
+      "description": "Emulator for Linux and SunOS."
+    },
+    {
+      "platform": "Unix / Linux emulator",
+      "name": "XCPC",
+      "link": "http://XCPC.EMUUNLIM.COM",
+      "description": "CPC emulator for any UNIX platform with X-Window"
+    },
+    {
+      "platform": "Amiga OS emulator",
+      "name": "Ami-CPC",
+      "link": "http://www.chez.com/deplanque/"
+    },
+    {
+      "platform": "Other platform emulator",
+      "name": "C-ONE",
+      "link": "http://c64upgra.de/c-one/",
+      "description": "Hardware emulator (re-configurable computer)"
+    },
+    {
+      "platform": "Other platform emulator",
+      "name": "DreamCPC",
+      "link": "http://www.consolevision.com/dreamcast/emus/amstrad/",
+      "description": "CPC emulator for Dreamcast"
+    },
+    {
+      "platform": "Other platform emulator",
+      "name": "PocketCaprice",
+      "link": "http://www.pocketcult.com",
+      "description": "Pocket PC/PDA emulator for Windows Mobile 2003 or Windows Mobile 5 operating system"
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "Arnold (amstad 128k v3 emulator)",
+      "link": "http://arnold.emuunlim.com/",
+      "description": "Emulates CPC 464, 644, 6128, 464+, 6128+, and KC Compact."
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "CPCE",
+      "link": "http://cpce.emuunlim.com/",
+      "description": "Amstrad CPC emulator for DOS, DPMI and WIN32"
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "MESS",
+      "link": "http://www.mess.org/",
+      "description": "MESS emulates a lot of Amstrad computers (available for many OS) !"
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d26",
+    "computer.asp?st\u003d1\u0026amp;c\u003d84",
+    "computer.asp?st\u003d1\u0026amp;c\u003d111",
+    "computer.asp?st\u003d1\u0026amp;c\u003d112",
+    "computer.asp?st\u003d1\u0026amp;c\u003d885",
+    "http://www.instruction-manuals.co.uk/category/computer/amstrad.htm",
+    "http://www.sean.co.uk/books/amstrad/index.shtm",
+    "http://amstrad.cpc.free.fr/",
+    "http://www.amstrad.dk/",
+    "http://web.ukonline.co.uk/cliff.lawson/index.htm",
+    "http://www.nenie.org/cpcip/",
+    "http://www.cpcwiki.eu",
+    "http://www.cpcwiki.com/index.php/Main_Page",
+    "http://www.diskdoctor.co.uk/",
+    "http://www.FutureOS.de",
+    "http://turpas3.angelfire.com/",
+    "http://speccy.altervista.org/",
+    "http://scampin.chez-alice.fr/cpc/index.html",
+    "http://phenixinformatique.free.fr/",
+    "http://www.symbos.de/",
+    "http://andercheran.aiind.upv.es/~amstrad/",
+    "http://www.trickynz.com/Amstrad%20CPC.html",
+    "ftp://ftp.ibp.fr/pub/amstrad",
+    "ftp://ftp.nvg.unit.no/pub/cpc/",
+    "ftp://ftp.nvg.unit.no/pub/cpc/",
+    "news:comp.sys.amstrad.8bit"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/5512_1.jpg",
+  "builtInGames": "Basic",
+  "controllers": "",
+  "media": "5\u0027\u00271/4 FDD",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

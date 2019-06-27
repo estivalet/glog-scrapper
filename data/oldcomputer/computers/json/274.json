@@ -1,0 +1,105 @@
+{
+  "name": "PC - Model 5150",
+  "manufacturer": "IBM",
+  "type": "Professional Computer",
+  "origin": "U.S.A.",
+  "year": "1981",
+  "production": "",
+  "language": "IBM BASIC (Special Microsoft BASIC-80 version in ROM)",
+  "keyboard": "Full stroke \u0027clicky\u0027 83 keys with 10 function keys and numeric keypad",
+  "cpu": "Intel 8088",
+  "speed": "4.77 MHz",
+  "coprocessor": "Optional 8087 math coprocessor",
+  "ram": "64 KB (The very first ones had only 16 KB), 256 KB max. (then later 640 KB max.)",
+  "vram": "",
+  "rom": "64 KB",
+  "text": "40 or 80 char x 25 lines",
+  "graphics": "Optional CGA graphic modes : 320 x 200 / 640 x 200",
+  "colors": "Monochrome / 4 among 8 in 320 x 200 CGA mode",
+  "sound": "Tone Generator - built-in speaker",
+  "size": "50.8 (W) x 40.6 (D) x 14 (H) cm",
+  "ports": "Five internal 8 bit ISA slots, monitor, Centronics, cassette (!),",
+  "power": "Built-in 63.5W switching power supply unit",
+  "price": "?1736 (1 FD, monochrome monitor, U.K., 1983)",
+  "description": "\nThe computer which caused the death of CP/M computers.\n\nIn the early part of 1980, IBM decided to create a microcomputer (up to this date, IBM produced only mini and mainframes). They didn\u0027t really know that they wanted and they didn\u0027t think for one second that producing microcomputer was a profitable business (who would have thought!)!\nAfter hesitation between the Intel 8086 (16 bit) and the Motorola MC68000, they decided to use the Intel 8088 (8 - 16 bit) processor, as the two other ones were considered too powerful! Then they asked to Digital Research (the creators of CP/M) to create an operating system for their new computer, as DR was not very interested, they then asked a small company (famous for its BASIC Programming Language) to write the operating system: Microsoft.\nMicrosoft wasn\u0027t capable of doing it, Bill Gates bought the rights to a small, hacked OS written by a small company called Seattle Computer Products: QDOS (which reportedly stood for \u0026quot;Quick and Dirty Operating System\u0026quot;, which itself bears a striking resemblance to CP/M) which became PC-DOS and then later MS-DOS!\nIn fact, when it was launched, three operating systems could run on the IBM-PC: PC-DOS, CPM-86, but also the UCSD D-PASCAL system.\n\nThe original IBM PC wasn\u0027t very powerful (and was certainly less powerful than lot of 8 bit computers at the time). The very first PC?s had only 16 KB RAM and no floppy disk units, they used cassettes to load \u0026amp; store programs (notice that the commands to handle the cassette drives were present in the operating system all the way up to MS-DOS 5!). In fact, units could also be purchased from IBM with drives and more RAM.  Only the lowest cost version had no drives included (this is exactly how Apple and the other manufacturers did it as well).\n\nThe model 5150 was actually a success due to name and fame of IBM, high quality construction (especially the keyboard and monitor), great expandability and IBM\u0027s decision to publish complete technical specs.  The IBM PC Technical manual included circuit diagrams and the full source code for the BIOS! The PC 5150 became a standard and IBM ran the business computer market up to the end of the 80\u0027s.\n\nNow, we can consider that about 90% of the microcomputers are PC compatibles and run under MS-DOS or Windows (At the beginning, Windows was just a graphic interface for MS-DOS, but that?s another story). \n\nAlthough the IBM PC XT was launched in 1983, IBM continued production of both units, in various configurations, for several years. The model types were followed by a xx version number, i.e. 5150-xx, where the xx represented the included options (amount of RAM, single or dual floppy disk drive, etc.).\n\nJeffrey H. Ingber reports that when these computers (PC and XT) were initially sold, they were built-to-order computers (sounds like Gateway or Dell, doesn?t it?). Retail outlets would carry the factory products, which consisted of a boxed computer with basic components such as the motherboard, power supply, floppies \u0026amp; floppy drives, etc.  There was no official base model configurations for the PC and XT.\nCustomers had a choice of RAM, display, serial ports, etc. that they could have installed on-site before the computer went home.\nOne could not purchase a \u0026quot;new\u0026quot; PC/XT and run it out of the box becuase it was incomplete without additional configuration.\n\nThe PC was available with either CGA or MDA (on an MPA card). The CGA adapter actually has an RCA composite output to hook it up to your TV if you did not want the CGA monitor. The output quality was PERFECT! \n\nAnother notable great feature of the PC line was the expansion base: it added additional (I think it was eight) 8-bit slots in an external enclosure.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE PC\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;A modular concept which allows user to add, remove or exchange any part of the computer. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; Expansion slots for add-on cards. There are only five of these ones, which is almost too much for the 63 Watts power supply which cannot handle high power cards.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; Intel 8088 microprocessor. Next to it is an empty socket intended for an Intel 8087 math. coprocessor.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; The power supply is equiped with a security system which automatically cut the power in case of short-circuit or overheating.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(4)\u0026lt;/b\u0026gt; Floppy-disk controler card. The first PC was equiped with full height, single sided, single density, 160 Kb disk-drives.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(5)\u0026lt;/b\u0026gt; Disk eject levers.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(6)\u0026lt;/b\u0026gt; First PC motherboards included 64 Kb. RAM. Note that each row of memory circuits is composed of 9 chips, eight for memory plus one for parity control.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(7)\u0026lt;/b\u0026gt; ROMs holding the BIOS (Basic Input Output System) and the IBM Basic written by Microsoft.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/ibm_5150_Inside_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROMOTIONAL PICTURE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/ibm_pc5150_promo-pic_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FIRST ADVERT - NOV.1981\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;\u0026lt;a href\u003d\u0026quot;http://www.aci.com.pl/mwichary/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Attached\u0026lt;/a\u0026gt;\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/IBM_5150_Advert81_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FIRST ADVERT - JAN.1982\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;\u0026lt;a href\u003d\u0026quot;http://www.aci.com.pl/mwichary/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Attached\u0026lt;/a\u0026gt;\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/IBM_5150_Advert81_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FIRST ADVERT - FEB.1982\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;\u0026lt;a href\u003d\u0026quot;http://www.aci.com.pl/mwichary/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Attached\u0026lt;/a\u0026gt;\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/IBM_5150_Advert81_s3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CHARLIE CHAPLIN #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;1982 - Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt;Stop in a store near you. Take a look. You\u0027ll be instantly taken with some of the features that make the IBM Personal Computer so different...\u0026lt;/font\u0026gt; \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/IBM_5150_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CHARLIE CHAPLIN #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;1982 - It was the time when one still lacked good programs for the IBM PC...\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Advert said: \u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt;\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Attention, all programmers. Here\u0027s a chance to reach the top.\u0026lt;br\u0026gt; If you\u0027ve written software that\u0027s completed and runs on the IBM Personal Computer (or another computer), we could be interested in publishing it...\u0026lt;br\u0026gt; ... We select programs that will make the IBM Personal Computer an even more useful toll for modern times...\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/IBM_5150_ChaplinAdvert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CHARLIE CHAPLIN #3 \u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;1983 - Before the IBM PC became THE universal standard, IBM was looking for good programs using all the features IBM Basic could offer.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; Let your imagination take wing.\u0026lt;br\u0026gt; Think charts, Graphs, Shapes, Images.\u0026lt;br\u0026gt; Use originality, creativity and color in programs that entertain, educate, organize, analyse. And programs that get down to business...\u0026lt;br\u0026gt; ...In fact, if you are interested in licensing your software, we could be interested in publishing it...\u0026lt;/font\u0026gt;    \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/IBM_5150_ChaplinAdvert_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CHARLIE CHAPLIN #4 \u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;In June 1983, IBM was still seeking independant programmers.\u0026lt;br\u0026gt; Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot; The envelope please.\u0026lt;br\u0026gt; There\u0027s an acceptance letter inside. And a check that could have your name on it. (If we select your program, that is.)\u0026lt;br\u0026gt; But remember. We pick our winners carefully... \u0026lt;/font\u0026gt; \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/IBM_5150_ChaplinAdvert_4.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CHARLIE CHAPLIN #5\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;\u0026lt;a href\u003d\u0026quot;http://www.aci.com.pl/mwichary/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Attached\u0026lt;/a\u0026gt;\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/IBM_5150_ChaplinAdvert_5.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CHARLIE CHAPLIN #6\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;From Personal Computing, July 1982 issue.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;\u0026lt;a href\u003d\u0026quot;http://www.aci.com.pl/mwichary/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Attached\u0026lt;/a\u0026gt;\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/IBM_5150_ChaplinAdvert_6.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CHARLIE CHAPLIN #7 \u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;TopView, one of the first serious multitasking tool for the IBM PC.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Byte Magazine, July 1985\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/IBM_5150_ChaplinAdvert_7.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (DEC.1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Simplify your everyday life\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/ibm_pc5150_ad_simplifiez-quotidien.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d861",
+    "computer.asp?st\u003d1\u0026amp;c\u003d183",
+    "computer.asp?st\u003d1\u0026amp;c\u003d19",
+    "computer.asp?st\u003d1\u0026amp;c\u003d185",
+    "computer.asp?st\u003d1\u0026amp;c\u003d446",
+    "computer.asp?st\u003d1\u0026amp;c\u003d286",
+    "computer.asp?st\u003d1\u0026amp;c\u003d260",
+    "computer.asp?st\u003d1\u0026amp;c\u003d195",
+    "computer.asp?st\u003d1\u0026amp;c\u003d1274",
+    "http://www.vintageibm.net"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/IBM_5150_System_s1.jpg",
+  "builtInGames": "IBM BASIC (Special Microsoft BASIC-80 version in ROM)",
+  "controllers": "",
+  "media": "One or two 160 KB 5.25\u0027\u0027 disk-drives",
+  "numGames": "",
+  "peripherals": "5 expansion slots, 5, 10, 20 MB hard discs",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

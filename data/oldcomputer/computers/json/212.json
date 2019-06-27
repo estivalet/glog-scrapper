@@ -1,0 +1,54 @@
+{
+  "name": "M23 Mark III",
+  "manufacturer": "Sord",
+  "type": "Professional Computer",
+  "origin": "Japan",
+  "year": "1982",
+  "production": "",
+  "language": "",
+  "keyboard": "Full-stroke keyboard with numeric keypad, function keys and arrow keys",
+  "cpu": "Z80A",
+  "speed": "4 Mhz",
+  "coprocessor": "APU (Am9511) arithmetic processor",
+  "ram": "128 KB",
+  "vram": "",
+  "rom": "Unknown",
+  "text": "80 x 25",
+  "graphics": "640 x 256",
+  "colors": "8 colors",
+  "sound": "Unknown",
+  "size": "420 x 107 x 300 / 3.8 Kg",
+  "ports": "2 x RS232c ports (75  - 19200 baud), Centronics/Parallel port, 3 x bus slots",
+  "power": "110, 230 V AC +/- 15%",
+  "price": "Unknown",
+  "description": "\nThe Sord M23 Mark III was available with 12\u0026quot; green monitor or a 14\u0026quot; color monitor.\n\nDespite the M23 featured a cartridge port, all of its important software came on floppies, including the ground-breaking PIPS-III and several BASIC compiler variants developed by Sord and running on their own OS. A lot of good business software and games were written with these.\n\nThere were later Mark systems released, including a Mark I with the world\u0027s first 3.5 inch floppies deployed, and the Mark V with eight inch drives -- the Mark III had 5.25\u0027\u0027 floppies. There was also the Mark X with a 10MB hard drive.\n\nAround 1983 or so the \u0026quot;M23EX\u0026quot; was released - this was basically an M23 with the mk41 drives (5.25\u0026quot; DSHD) housed in an M68 case (more PC-style with separate keyboard and floppies in the main case).  It was a low cost option contemporary with the more expensive and better spec\u0027d M68.\n\nGraphics required an upgrade - from memory it was a chip, and also an upgrade from \u0026quot;FDOS\u0026quot; to \u0026quot;GDOS\u0026quot; (the graphics DOS).  Graphics on this and the M68 were operated in a weird way from CBASIC or BASIC-II (a structured BASIC) - you put it into graphics mode and then issued specially formatted PRINT commands to access graphics - for example:\n\n10 PRINT CLEAR\n20 GRAPH 1\n30 PRINT \u0026quot;GINIT\u0026quot;\n40 PRINT \u0026quot;COLOR 7\u0026quot;\n... other code ....\n50 GRAPH 0\n\n________\n\nContributors: Andrew Joll\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;COMPLETE SYSTEM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/sord_m23-m3_complete.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROMOTIONAL LEAFLET\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sord_m23-m3_leaflet.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (FEBRUARY 1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sord_m23-markIII_pub_datronic.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [],
+  "image": "http://www.old-computers.com/museum/photos/sord_m23-markIII_1.jpg",
+  "builtInGames": "Two optional 5.25\u0027\u0027 disk-drives (330 KB)",
+  "controllers": "",
+  "media": "Two optional 5.25\u0027\u0027 disk-drives (330 KB)",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

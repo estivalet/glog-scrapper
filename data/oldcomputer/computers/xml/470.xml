@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computer>
+    <adverts>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;FRENCH ADVERT #1&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;''The sound, the color, the intelligence''&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/indata_dai_advert_leson.jpg</link>
+        </advert>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;FRENCH ADVERT #2 (OCTOBER, 1982)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;''Particuliar sign : painter and musician''&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/indata_dai_advert_signe-particulier.jpg</link>
+        </advert>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;FRENCH ADVERT #3&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;''God created the world, DAI put it under CP/M''&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/indata_dai_advert_dieu.jpg</link>
+        </advert>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;FRENCH ADVERT #4&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/indata_dai_advert_espace.jpg</link>
+        </advert>
+    </adverts>
+    <batteries></batteries>
+    <builtInGames>Basic Interpreter</builtInGames>
+    <buttons></buttons>
+    <colors>16</colors>
+    <controllers></controllers>
+    <coprocessor>AMD 9511 (optional numeric processor)</coprocessor>
+    <cpu>Intel 8080A</cpu>
+    <description>
+The DAI was renowned for its graphic capabilities but was too expensive !
+
+A lot of peripherals were developped for this computer : a hard disk (8 MB), several floppy disk drives and even a robot !! The DAI can run under CP/M. 
+
+Walter Belgers reports us that this system was chosen for a television course on computers in the Netherlands, instead of a computer made by Texas Instruments. What TI then did was to stop selling EPROMs to DAI. In 1983, TI was one of the few manufacturers of EPROM's, so DAI had many problems delivering the systems and almost went bankrupt.
+ 
+
+
+</description>
+    <emulators/>
+    <graphics>65 x 88 / 130 x 176 / 260 x 352 with 4 or 16 colors</graphics>
+    <gun></gun>
+    <hardwares/>
+    <image>http://www.old-computers.com/museum/photos/indata_dai_1.jpg</image>
+    <keyboard>QWERTY full-stroke keyboard with arrow keys (57 keys)</keyboard>
+    <language>Basic Interpreter</language>
+    <links>
+        <link>http://www.xs4all.nl/~fjkraan/comp/dai/</link>
+        <link>http://perso.wanadoo.fr/bruno.vivien/DAI/</link>
+        <link>http://www.xs4all.nl/~fjkraan/comp/dai/daipcw.html</link>
+    </links>
+    <manufacturer>INDATA</manufacturer>
+    <media></media>
+    <name>DAI</name>
+    <numGames></numGames>
+    <origin>Belgium</origin>
+    <peripherals>5''1/4 disk-drives, Memocom (digital tapes), joysticks, printers, robot arm, arithmetic coprocessor, plotter</peripherals>
+    <ports>Parallel port, RGB, RS232c, Bus DCE, Stereo, 6 analogic inputs, Tape (600 bauds), Audio Stereo output</ports>
+    <power>Built-in PSU</power>
+    <price>1300   (France, november 1981)1365  (France, november 1982)1021  (France, september 1983)</price>
+    <production></production>
+    <ram>48 KB</ram>
+    <rom>24 KB</rom>
+    <screenshots>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;INDATA DAI&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;p class=&amp;quot;petitgris&amp;quot;&amp;gt;Thomas Cont&amp;eacute;&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/INDATA_DAI_more_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;FIRST MODEL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The case is the same but the logo and the keyboard are black and white only...&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/indata_dai_bw.jpg</link>
+        </shot>
+    </screenshots>
+    <size>45 x 38 x 12</size>
+    <sound>3 stereo voices + 1 noise generator</sound>
+    <speed>2 MHz</speed>
+    <switches></switches>
+    <text>60 x 24</text>
+    <type>Home Computer</type>
+    <vram></vram>
+    <year>1979</year>
+</computer>

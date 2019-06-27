@@ -1,0 +1,72 @@
+{
+  "name": "5100",
+  "manufacturer": "IBM",
+  "type": "Professional Computer",
+  "origin": "U.S.A.",
+  "year": "September 1975",
+  "production": "1978",
+  "language": "BASIC or APL or both",
+  "keyboard": "Full stroke 74 keys with numeric keypad and arrow keys",
+  "cpu": "IBM circuit module",
+  "speed": "1.9 MHz.",
+  "coprocessor": "",
+  "ram": "16 KB to 64 KB by 16 KB steps",
+  "vram": "",
+  "rom": "32 KB to 64 KB",
+  "text": "64 chars. x 16 lines",
+  "graphics": "None",
+  "colors": "Monochrome",
+  "sound": "No sound capabilities",
+  "size": "24 Kg.",
+  "ports": "5103 printer and 5106 external tape drive unit",
+  "power": "Built-in power supply unit",
+  "price": "From $8975 (BASIC 16 KB) to $19,975 (BASIC+APL 64 KB)",
+  "description": "\nIn September 1975, IBM announced its smallest and first portable computer (If you consider a 28 Kgs. computer portable, that is), the IBM 5100, no bigger than one of IBM\u0027s typewriters.\n\nDeveloped in Rochester, it used the same operating system as IBM\u0027s /370 line of main frames. Thus it could accommodate the same APL interpreter, permitting the use of APL programs. A BASIC interpreter was also available, depending of the 5100 version chosen.\n\nThis was the first widely marketed and supported personal computer, and definitely the first useful all-in-one, portable computer system. However, it was a very primitive machine that was largely unsuccessful due to its high price tag (basic version costed $8,975) and limited expansion capabilities.\n \nIt had a built-in tape drive and a small 5\u0026quot; 64 character display. A special display mode allowed the user to select right or left bigger 32 chars. of each line.\nThe tape drive used a 1/4 inch DC300 tape cartridge and stored 204 KB of data.\nThe 5100 didn\u0027t feature a microprocessor chip, but a card called PALM (Put All Logic in Microcode) which acted as a 16-bit microprocessor.\n\nNotice that the 5100 is the first serial number of IBM \u0026quot;Personal Computer\u0026quot; range that will later include the 5110, 5120, 5150 (IBM-PC) and 5160 (PC-XT).\n\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRONT VIEW\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;BASIC only model (no APL) with no tape drive.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to redrum76 for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/ibm_5100_front_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRONT PANEL\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;A close-up of the controls.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; Brightness adjustment\u0026lt;br\u0026gt;   \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; Power switch\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; Display left 32 cols, all 64 cols, or right 32 cols\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(4)\u0026lt;/b\u0026gt; Process Check Led\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(5)\u0026lt;/b\u0026gt; In Progress Led\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(6)\u0026lt;/b\u0026gt; Display reverse switch\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(7)\u0026lt;/b\u0026gt; Tape cartridge door\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(8)\u0026lt;/b\u0026gt; Restart switch\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(9)\u0026lt;/b\u0026gt; Display Registers switch\u0026lt;br\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/IBM_5100_FrontPanel_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MEMORY DUMP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Memory dump in hexadecimal form.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/IBM_5100_HexaDump_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DISPLAY CLOSE-UP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to redrum76 for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/ibm_5100_display.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DETAIL\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to redrum76 for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/ibm_5100_detail_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;STRAPPING MAN!\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; A compact problem-solving add for engineers, statisticians, scientists and financial and business analysts. \u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/IBM_5100_advert_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d794",
+    "http://www.brouhaha.com/~eric/retrocomputing/ibm/5100/",
+    "http://computermuseum.informatik.uni-stuttgart.de/dev/ibm_5110/technik/en/",
+    "http://oldcomputers.net/ibm5100.html",
+    "http://en.wikipedia.org/wiki/IBM_5100"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/IBM_5100_System_1.jpg",
+  "builtInGames": "BASIC or APL or both",
+  "controllers": "",
+  "media": "Built-in 204 KB DC600 tape drive",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

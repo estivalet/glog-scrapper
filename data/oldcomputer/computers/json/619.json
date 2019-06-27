@@ -1,0 +1,85 @@
+{
+  "name": "FS A1F",
+  "manufacturer": "Panasonic",
+  "type": "Home Computer",
+  "origin": "Japan",
+  "year": "1987",
+  "production": "",
+  "language": "MSX Basic V2.0 + DESKPAC software",
+  "keyboard": "Full-stroke keyboard with 5 function keys and 4 arrow keys.",
+  "cpu": "Zilog Z80A or equivalent",
+  "speed": "3.58 MHz",
+  "coprocessor": "Video Display Processor : V9938 (MSX-VIDEO)",
+  "ram": "64 KB",
+  "vram": "128 KB",
+  "rom": "64 KB",
+  "text": "40 x 24 / 32 x 24",
+  "graphics": "64 x 48 / 256 x 192 / 256 x 212 / 512 x 212Interlace mode: 256 x 424, 512 x 424",
+  "colors": "512",
+  "sound": "AY-8910-3 chipset (or the YM2149 variant/clone) offering 3-voice square wave PSG with whitenoise",
+  "size": "",
+  "ports": "Joysticks, Cartridge(2), Tape(1200/2400 baud), RGB, Composite Video, Centronics, External Audio",
+  "power": "PSU built-in",
+  "price": "54 800 yen (Japan, 1987)",
+  "description": "\nThe Panasonic FS-A1F ia basicaly a FS-A1 (MSX2 system) with a built-in 3.5\u0026quot; floppy disk drive mounted on the front of the case, below the keyboard.\n\nThere is DESKPAC software built-in which starts automatically when the system is booted. It offers several interesting utilities : world time clock, chronometer, alarm, calculator, calendar and diary. From here you can also choose to go directly to MSX Basic v2.0.\n\nConcerning audio and music, the FS A1 is equiped with an AY-8910-3 chipset (or the YM2149 variant/clone) which is the very typical 3-voice square wave PSG with whitenoise. The computer is equiped with a pause button which hangs the system at will!\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DISK DRIVE CLOSE UP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/panasonic_fs-a1f_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BOX\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/panasonic_fs-a1f_box.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPANESE ADVERT (1987)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://web.kyoto-inet.or.jp/people/s-oga/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Soichiro\u0027s Oga\u0026lt;/a\u0026gt; for this picture.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/panasonic_fs-a1f_jap-advert.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [
+    {
+      "platform": "Windows emulator",
+      "name": "BlueMSX",
+      "link": "http://www.bluemsx.com/",
+      "description": "Excellent free MSX emulator"
+    },
+    {
+      "platform": "Other platform emulator",
+      "name": "fMSX32",
+      "link": "HTTP://WWW.RETRODEV.INFO/",
+      "description": "The excellent fMSX, but ported onto the GamePark GP32 handheld console."
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "openMSX - The MSX emulator that aims for perfection.",
+      "link": "http://openmsx.sourceforge.net/",
+      "description": "This new MSX emulator can reproduce, among many other MSX, MSX2and  MSX2+ machines, both Panasonic Turbo-R models. Be sure to get the catapult frontend and the system roms from FUNET. "
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d618",
+    "computer.asp?st\u003d1\u0026amp;c\u003d862",
+    "computer.asp?st\u003d1\u0026amp;c\u003d773",
+    "computer.asp?st\u003d1\u0026amp;c\u003d281",
+    "computer.asp?st\u003d1\u0026amp;c\u003d137",
+    "computer.asp?st\u003d1\u0026amp;c\u003d854",
+    "computer.asp?st\u003d1\u0026amp;c\u003d790",
+    "computer.asp?st\u003d1\u0026amp;c\u003d662",
+    "computer.asp?st\u003d1\u0026amp;c\u003d288",
+    "computer.asp?st\u003d1\u0026amp;c\u003d430",
+    "http://www.faq.msxnet.org"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/panasonic_fs-a1f_2.jpg",
+  "builtInGames": "MSX Basic V2.0 + DESKPAC software",
+  "controllers": "",
+  "media": "3.5\u0027\u0027 floppy disk drive",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

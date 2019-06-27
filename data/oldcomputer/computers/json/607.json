@@ -1,0 +1,53 @@
+{
+  "name": "Sage II",
+  "manufacturer": "Sage Computer Technology",
+  "type": "Professional Computer",
+  "origin": "U.S.A.",
+  "year": "1982",
+  "production": "",
+  "language": "None",
+  "keyboard": "Serial video terminal",
+  "cpu": "Motorola MC-68000",
+  "speed": "8 Mhz.",
+  "coprocessor": "",
+  "ram": "128 KB expandable to 512 KB",
+  "vram": "",
+  "rom": "unknown",
+  "text": "80 columns x 25 lines",
+  "graphics": "none",
+  "colors": "none",
+  "sound": "",
+  "size": "unknown",
+  "ports": "1 x Serial - 1 x GPIB",
+  "power": "Buit-in power supply unit",
+  "price": "$3,600 (1 disk drive and 128 KB RAM version)",
+  "description": "\nSage Technology designed the Sage II around one of the fastest and most powerful chip available at the time, the Motorola MC68000, which was designed, among other things, for the implementation of high-level languages.\n\nThe Sage II, didn\u0027t look awesome. It was physically smaller than an Apple II, but packed a true 16 bits CPU and 512 KB of RAM. Only 128 KB were left free for the user, the remaining 384 KB being used as a RAM disc.\n\nThe Sage II used the UCSD P-System operating system. P-System means P-Code, an early universal intermediate code concept for programming languages, the same idea that Java is now based upon. Sage had even modified the P-System so that the system was truly multi-user. A special version of CP/M called CP/M 68K could also run on the Sage II.\n\nOne or two Mitsubishi 5.25 inch floppy drives were used to store programs and data. Each one could store up to 800 Kb per disk in the native Sage format. They were fully software configurable and had preset formats for IBM, Xerox, Rainbow and other systems. The only problem is that the Sage II didn\u0027t provide any hard disk management. This is will only be possible with the Sage IV model (10 to 40 MB hard disks).\n \n\n\n",
+  "shot": [],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; No waiting for software\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; ...This exciting micro has fired the imagination of programmers who are busy developping new software to take full advantage of its performance capabilities...\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; No wait state\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; ...One advantage is the total elimination of memory access wait states so that interaction between the processor, RAM and disk drive is speeded up...\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; A free p-System for those who don\u0027t wait \u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; ...A free p-System operating system and PASCAL, FORTRAN 77 and BASIC compilers which alone lists for $1475, we\u0027re now including free with the Sage II...\u0026lt;/font\u0026gt;  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sage_II_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT, OCT 1983\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advertisement from a UK Sage dealer.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sage_II_Advert_s2.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d647",
+    "http://go.to/mwigan",
+    "http://www.sageandstride.org/index.html"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/Sage_II_System_1.jpg",
+  "builtInGames": "None",
+  "controllers": "",
+  "media": "1 or 2 x 5.25\u0027\u0027 800 KB F.D. drives",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

@@ -1,0 +1,82 @@
+{
+  "name": "Risc PC",
+  "manufacturer": "Acorn Computer",
+  "type": "Professional Computer",
+  "origin": "United Kingdom",
+  "year": "1994",
+  "production": "",
+  "language": "BBC Basic",
+  "keyboard": "Full 102 Key PS/2 PC style",
+  "cpu": "ARM 610",
+  "speed": "30 MHz",
+  "coprocessor": "Choice of IBM-PC CPU?s including 486/586",
+  "ram": "4 MB (Up to 256 MB)",
+  "vram": "",
+  "rom": "4 MB containing most of the OS",
+  "text": "",
+  "graphics": "Numerous - 1280 x 1024 at 256 colours, 800 x 600 16M colours",
+  "colors": "Full 24bit 16M colours (video memory permiting)",
+  "sound": "16bit stereo 8 voice synthesiser (PC sound blaster compatible)",
+  "size": "35.5 (W) x 38.5 (D) x 12 (H) cm",
+  "ports": "Parallel, RS232, 2 x PS/2, VGA, 3.5mm sound jack, single width expansion slots (two per ?slice?)",
+  "power": "Built-in switching power supply unit",
+  "price": "From around ?1200",
+  "description": "\nIn April 1994, Acorn announced the release of the second generation of ARM machines ? the Acorn RISC PC 600. Code named the Medusa project, this was set to replace the then ailing flagship A5000 machine.\n\nAs the name suggests, one of the main features of this computer was that it could run both Acorn and IBM-PC software side by side. This was achieved by a second CPU slot that could accept a daughter board with a PC CPU, such as a 486 or 586. This second processor then had shared access with the primary CPU to all the system resources. No more CPU intensive software PC emulation required!\n\nAs well as the second processor, other major enhancements included an updated video controller with the option for dedicated video RAM. The graphics chip in previous Archimedes range machines had shared the system memory with the rest of the computer which often proved to be a bottle neck without true DMA. Now the video controller could have video memory of it?s own, removing the bottle neck. \n\nThe system data bus was doubled in size to 32bits wide, and the MEMU and IOC chips were combined to create the IOMD20. This resulted in much better overall I/O, yet another bottle neck removed from previous machines. The system memory was also upgraded to a maximum of 256MB and the memory bus was designed to use the more widely available EDO SIMM?s.\n\nA unique feature of the RISC PC was its case. This came in the form of the base holding the motherboard and power supply, a mid section for mounting one 3.5\u0026quot; device, one 5.25\u0026quot; device and two single width expansion cards, and then a lid. The magic was that you could add up to 8 slices at any time, giving you a very easily expandable computer, and all held together with clips and springs negating the need for a screwdriver. Very neat.\n\nThere were 2 other Acorn RISC PC\u0027s. The RISC PC 700 was released July 1995 and the RISC PC-2 was much publicised by Acorn and then dramatically cancelled at the last minute.\n\nThanks to Paul Hadfield for his kind help.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LARGE VIEW\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The rounded front plastic cover slides inside the machine.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_RiscPC_System_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SIDE VIEW\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;A nice case design \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_RiscPC_RightSide_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;RISC AND WINDOWS OS\u0027S\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The same machine could run alternately RISC OS-3.5 or MS-Dos/Windows OS\u0027s thanks to a second Intel processor card.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_RiscPC_DualOS.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR CONNECTORS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(1)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Rsset switch\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(2)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Stereo sound output jack\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(3)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 15-pin video output plug\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(4)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Keyboard mini-Din plug. Any standard PC/AT keyboard can be connected \u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(5)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Acorn mouse mini-Din plug\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(6)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Expansion slots\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(7)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Parallel printer DB25 connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(8)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Serial DB9 connector.\u0026lt;br\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_RiscPC_bACKsIDE_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MAGIC CASE #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The base unit and the first \u0027slice\u0027 holding the floppy and CD-ROM drives. Up to eight slices could be stacked to expand the system.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_RiscPC_StorageUnit.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MAGIC CASE #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_RiscPC_Inside_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MAGIC CASE #3\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This working system had 10 slices and an array of gadgets including a working pizza oven and remote controlled sink!!! More detailed information \u0026lt;a href\u003d\u0026quot;http://www.worldofwibble.com/aboutriscpc.html\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;here\u0026lt;/a\u0026gt;.  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_RiscPC_Pizza.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MAIN BOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(1)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; IDE hard disk, here a 1 GB model.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(2)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Floppy disk and hard disk connectors\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(3)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; IOMD20 - I/O controller and memory manager custom chipset\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(4)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Connector of the ARM processor card\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(5)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Connector of the Intel/PC processor card\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(6)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Floppy disk and hard disk controller chipset\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(7)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 256 MB ROM chips holding the RISC OS, here the 3.6 version\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(8)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Network card connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(9)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; RAM module connectors\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(10)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Video controller custom chipset\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(11)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Backplane slot. Early RiscPCs came with the backplane for plugging in Podule cards.   \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_RiscPC_Inside.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROCESSOR CARDS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The twin processor cards hold the ARM processor and the Intel-PC processor, here an ARM 710 and a Texas Instruments 486DX-4/100.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_RiscPC_ProcCards_s1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERTISING PICTURE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Acorn_RiscPC_Pub_s1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [],
+  "image": "http://www.old-computers.com/museum/photos/Acorn_RiscPC_System_s1.jpg",
+  "builtInGames": "BBC Basic",
+  "controllers": "",
+  "media": "3.5\u0027\u0027 floppy disk, 3.5\u0027\u0027 IDE hard disk, CD-ROM",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

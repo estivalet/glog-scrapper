@@ -1,0 +1,186 @@
+{
+  "name": "P2000 T/M",
+  "manufacturer": "Philips",
+  "type": "Home Computer",
+  "origin": "Netherlands",
+  "year": "March 1980",
+  "production": "Unknown",
+  "language": "None",
+  "keyboard": "Typewriter type - 74 keys with numeric keypad",
+  "cpu": "Z80",
+  "speed": "2.5 MHz",
+  "coprocessor": "None",
+  "ram": "16 KB to 48 KB",
+  "vram": "1 (T) or 2 (M) KB",
+  "rom": "4 KB + 16 KB in ROM cartridges",
+  "text": "40 (T) or 80 (M) columns x 24 lines",
+  "graphics": "None",
+  "colors": "7",
+  "sound": "Built-in beeper - 1 channel",
+  "size": "41 (W) x 47 (D) x 11 (H) cm",
+  "ports": "T version: TV aerial, RGB, SerialM version: Monochrome composite video, Serial, FDD interface",
+  "power": "Built-in power supply unit",
+  "price": "About 3000 Dutch guilders ($1375)",
+  "description": "\nThe P2000 desktop series was the first Philips attempt to penetrate the home computer market. It was released in March 1980 in two version, the P2000M and the P2000T. \n\nThe main difference lied in the video interface. The T version, aimed at home and educational use, could be connected to either a standard TV set or a special RGB monitor. The M version, more professional, had an additional 80-column card allowing to connect a monochrome composite monitor. This version shipped with a monitor cabinet also housing a dual 5.25\u0026quot; floppy drive.\n\nThe P2000 was a robust and well conceived machine. There was no built-in language but only a 4 KB ROM holding system basic and I/O routines. Two cartridges slots allowed to add ROM programs (slot 1) or interface cards (slot 2) like a modem or a parallel printer interface.\n\nPrograms and data could be stored through the built-in mini cassette drive which was seen by the user as a floppy drive  with automatic search for a program (CLOAD command) or free space (CSAVE). A command also allowed to display the directory of a cassette tape.\n\nThe P2000 didn\u0027t meet a great success in Europe, except in the Netherlands, its country of origin (although the machine was made in Austria) where the very active Philips user group provided lots of original software and hardware extensions like CP/M or disk drive controller cards. The P2000 was also widely used in Dutch and German schools.\n\nJ. Frijling (Netherlands) reports:\nThe P2000 was initially meant for office use. Since a lot of other manufactures made home computers, Philips desided to put it on the home computer market. By the graphics you can see that it is a professional computer. If you wanted to do other than graphics, this was a powerful computer. Back then, this computer had already a RS232!! A novelty in those days. Because of that, it was widly used in the HAM-radio and hobby circuits.\nThe 1st model came out with 16kb. You could add another 16kb as an internal extensionboard. Later came 64kb, although for basic you could only use 40kb, 64, 80 and 102kb. Above 40kb you could use it for bankswitching.\nThe best part of all was that everything was protected by buffers, unlike the Commodore, who could easily be damged when wron connected! Unfortunatly the majority went for the better graphics.\nLater major improvements were made such as Highres graphics, inbuild 720kb FDD for model T, memory extension \u0026amp; lots more. I enjoyed this machine very much and recently I used it to improve my morsecode speed!\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LARGE VIEW\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Large view of a French version\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Philips_P2000M_System_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TOP VIEW\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The cartridge slots are covered by a sliding plastic lid.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Philips_P2000M_TopView_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BOOT-UP SCREEN\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;A word processor cartridge - Text 2 - is inserted into the first cartridge slot.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Philips_P2000M_BootScreen_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LEFT AND RIGHT SIDES\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Philips_P2000M_bothSides_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH \u0026amp; GERMAN KEYBOARDS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Notice that the German version is simply labelled P2000 although it\u0027s a 2000M version.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Philips_P2000M_FrGerKeyboards_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;KEYBOARD CLOSE-UP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Here the French version\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Philips_P2000M_KeybCloseup_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MINI CASSETTE DRIVE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This mini cassette drive is totally software controlled and acts as a slow floppy drive.\u0026lt;br\u0026gt; The mini cassette tape holds demo programs for the Text 2 cartridge.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Philips_P2000M_TapeDrive_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR SIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(1)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; External floppy drive unit connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(2)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Serial DB25 connector mainly intended for a printer\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(3)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; RGB video output. Only available in the T version\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(4)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Monochrome composite video output (M version)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(5)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; TV aerial output. Only available in the T version.\u0026lt;br\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Philips_P2000M_RearSide_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;OPENED #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;M version. The upper card is the FDD controller card.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Philips_P2000M_Opened_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;OPENED #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;One clearly see the 3 superimposed cards of the M system. From bottom to top:\u0026lt;br\u0026gt; \u0026bull; CPU card,\u0026lt;br\u0026gt; \u0026bull; Video card,\u0026lt;br\u0026gt; \u0026bull; FDD controller card.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Philips_P2000M_Inside_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CPU BOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Notice that all of the chips used for the video management in the T version have been removed in the M version.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(1)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Beeper\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(2)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Serial connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(3)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Z80 processor\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(4)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 4 KB ROM chip. A second ROM socket is available\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(5)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 16 KB 4116 RAM chips\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Philips_P2000M_Inside_s3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;M CARDS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Additional cards of the M version.\u0026lt;br\u0026gt; \u0026bull; Floppy disc controller (bottom)\u0026lt;br\u0026gt; \u0026bull; Monochrome 80-column\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Philips_P2000M_Cards_s1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT #4\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Picture courtesy of \u0026lt;a href\u003d\u0026quot;http://www.sbrowning.com/vintage\u0026quot;\u0026gt;Steve Browning, www.sbrowning.com/vintage\u0026lt;/a\u0026gt;.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/atari_800_advert_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (SEPT. 1987)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Arcades games in an armchair\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sega_sms_advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert from the Nieman-Marcus catalog.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Honeywell_H316_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SOL PRICE LIST\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;\u0026lt;u\u0026gt;Sol Systems price list (january 1977)\u0026lt;/u\u0026gt;\u0026lt;/b\u0026gt; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; (K) \u003d Kit   (A) \u003d Assembled\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Sol Terminal Computers\u0026lt;br\u0026gt; \u0026lt;/b\u0026gt;SOL-PC Single board (K) \u0026lt;b\u0026gt; $475\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; SOL-10 (K) \u0026lt;b\u0026gt; $795\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; SOL-20 (K) \u0026lt;b\u0026gt; $995\u0026lt;/b\u0026gt; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Memory Modules\u0026lt;/b\u0026gt; \u0026lt;br\u0026gt; PROM Resident Assembly Language (A) \u0026lt;b\u0026gt;$425\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; Interpretive Simulator (PROM option) (A) \u0026lt;b\u0026gt;$95\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; Text Editing (PROM option) (A) \u0026lt;b\u0026gt;$95\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; Erasable PROM module (K) \u0026lt;b\u0026gt;$65  \u0026lt;/b\u0026gt;(A) \u0026lt;b\u0026gt;$89\u0026lt;/b\u0026gt; \u0026lt;br\u0026gt; 4 Kb. low power static Ram (K) \u0026lt;b\u0026gt; $159\u0026lt;/b\u0026gt;  (A) \u0026lt;b\u0026gt; $195\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; 8 Kb. low power static Ram (K) \u0026lt;b\u0026gt;$295\u0026lt;/b\u0026gt;  (A) \u0026lt;b\u0026gt;$375\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; 16 Kb. Dynamic Ram  (A) \u0026lt;b\u0026gt;$529\u0026lt;/b\u0026gt; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Interface Modules\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; Parallel / Serial I/O Module  (K) \u0026lt;b\u0026gt;$149\u0026lt;/b\u0026gt;  (A) \u0026lt;b\u0026gt;$199\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; System cassette interface  (K) \u0026lt;b\u0026gt;$87 \u0026lt;/b\u0026gt; (A) \u0026lt;b\u0026gt;$119\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; Video Display Module  (K) \u0026lt;b\u0026gt;$199 \u0026lt;/b\u0026gt; (A) \u0026lt;b\u0026gt;$295\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; \u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Mass Storage System\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; Helios II Disk system  (K) \u0026lt;b\u0026gt;$1895\u0026lt;/b\u0026gt;  (A) \u0026lt;b\u0026gt;$2295\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Software\u0026lt;br\u0026gt; \u0026lt;/b\u0026gt;(C) \u003d Cassette  (P) \u003d Paper tape\u0026lt;br\u0026gt; Basic 5  (P) \u0026lt;b\u0026gt;$19.95\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; 8K Basic (C) \u0026lt;b\u0026gt;$29\u0026lt;/b\u0026gt;  (P) \u0026lt;b\u0026gt;$37\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; New 8080 Focal  (C) \u0026lt;b\u0026gt;$14.50\u0026lt;/b\u0026gt;  \u0026lt;br\u0026gt; Trek 80 Video game  (C) \u0026lt;b\u0026gt;$9.50\u0026lt;/b\u0026gt;  (P) \u0026lt;b\u0026gt;$14.50\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; GamePack 1  (C) \u0026lt;b\u0026gt;$9.50\u0026lt;/b\u0026gt;  (P) \u0026lt;b\u0026gt;$14.50\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; MathPack Video calculator  (C) \u0026lt;b\u0026gt;$14.50\u0026lt;/b\u0026gt;  (P) \u0026lt;b\u0026gt;$19.50\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; Assembler  (C) \u0026lt;b\u0026gt;$14.50\u0026lt;/b\u0026gt;  (P) \u0026lt;b\u0026gt;$19.50\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; ALS 8  (C) \u0026lt;b\u0026gt;$35\u0026lt;/b\u0026gt; (P) \u0026lt;b\u0026gt;$45\u0026lt;/b\u0026gt; \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/ProcessorTech_Sol_System_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPANESE ADVERT (1987)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://web.kyoto-inet.or.jp/people/s-oga/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Soichiro\u0027s Oga\u0026lt;/a\u0026gt; for this picture.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/panasonic_fs-a1f_jap-advert.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROTOTYPE SOFTWARE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This picture from an early advert published in january 1983 is very interesting (the TO-7 was just released then). The text below it said \u0026quot;Hours of entertainment...\u0026quot;. But when you look more carefully at the software boxes you realise that they are fake! Only the two extreme boxes are real, but still shows the same game title \u0026quot;3-D TIC-TAC TOE\u0026quot;! So there is only one game presented here! The photograph was surely taken at an early development stage... \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Even the name of the computer written on top of the boxes: \u0026quot;TOM 7\u0026quot; (Tele Ordinateur Multimedia?) seems to be an early name for the TO-7... \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Hours of entertainment they said...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_to7_software-proto.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;More power for less money\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Atari_800_GermanAd_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (JAN. 1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;List your technical requirements, Hewlett-Packard is ready to answer\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/hp_hp85_pub_enoncez.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPANESE ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://web.kyoto-inet.or.jp/people/s-oga/\u0026quot;\u0026gt;Soichiro Oga\u0026lt;/a\u0026gt; for this picture !\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/toshiba_pasopia_ad1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;NEWBURRY BROCHURE #3\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;www.oldcomputers.freeserve.co.uk \u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Grundy_Newbrain_Leaflet_5.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;STICKER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is a promotional adhesive sticker of the RC 700 Piccolo... What a visionary thought!\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Regnecentralen_rc700_sticker.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BROCHURE #3\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Graphics examples of the optional graphic card.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Tim Mackay\u0026lt;/b\u0026gt; \u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sord_M100ACE_Brochure_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT.\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0027\u0027For less than 2000 francs, offer yourself the future\u0027\u0027  ...yes\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/hanimex_pencil2_advert_avenir.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (DEC. 1987)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/commodore_amiga500_pub_pour-faire-fort.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/tandy_1000series_ad_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT (1984)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Tony Mattson for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/mattel_aquarius_advert_2s.gif"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US AD (JULY, 1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Eric Buczynski for this advert\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/spectravideo_SV318_ad_us_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Pravetz Apple II compatible technology and price  are compared with the IBM compatible Pravetz 8C.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Bojidar Stefanov\u0026lt;/b\u0026gt; for the English translation\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Pravetz_Imko_AdvertCompar_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BROCHURE #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Brd_Dolphin_Brochure_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SIL\u0027Z III\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Nice fish-eye picture of a Sil\u0027z III illustrating a 1982 article about Technologic Revolution in the french mag TeleSoft.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/leanord_silz3_pic_rev_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DEMO TAPE INLAY #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.primo.homeserver.hu/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;PRIMO home-page\u0026lt;/a\u0026gt; for this picture.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/microkey_primo_promo-pic_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPANESE ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/smc777-3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROMOTIONAL PICTURE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Fran\u0026ccedil;ois Houste and \u0026lt;a href\u003d\u0026quot;http://www.phijvmi.com\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;www.phijvmi.com\u0026lt;/a\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/amstrad_gx4000_promo-pix.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BROCHURE #3\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Brd_Dolphin_Brochure_4.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [],
+  "image": "http://www.old-computers.com/museum/photos/Philips_P2000M_System_s1.jpg",
+  "builtInGames": "None",
+  "controllers": "",
+  "media": "Mini cassette drive (42 KB)",
+  "numGames": "",
+  "peripherals": "Various interfaces through the Bus slot",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

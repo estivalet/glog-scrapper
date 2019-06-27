@@ -1,0 +1,142 @@
+{
+  "name": "Concept",
+  "manufacturer": "Corvus Systems",
+  "type": "Professional Computer",
+  "origin": "U.S.A.",
+  "year": "1982",
+  "production": "",
+  "language": "None",
+  "keyboard": "Full-stroke 91 keys with 10 function keys and numeric keypad",
+  "cpu": "Motorola 68000",
+  "speed": "8 Mhz.",
+  "coprocessor": "",
+  "ram": "256 KB expandable to 512 KB",
+  "vram": "VRAM was mapped in main memory. So each pixel on screen was a bit in the main memory",
+  "rom": "4 KB",
+  "text": "90 chars x 63 lines (Portrait mode)117 chars x 47 lines (Landscape mode)",
+  "graphics": "707 * 479 dots",
+  "colors": "Monochrome",
+  "sound": "Sound generator",
+  "size": "35 Kgs",
+  "ports": "2 x RS-232 - 4 x Apple II compatible slots - 1 x RS 422",
+  "power": "Built-in power supply",
+  "price": "$4995 (256 KB) - $5995 (512 KB)",
+  "description": "\nThe Concept system was intended to be an individual diskless workstation operating within a Local Area Network (LAN). Each user could use the ressources of the computer and share both data and peripheral devices, including mass storage devices. The network connected computers offered some attractive cost advantages and allowed several people to work simultaneously on the same task.\n  \nUsers\u0027 data were shared through the Corvus OmniNet networking system which was the core product of Corvus Company and the first affordable and reliable network system for small computers. OmniNet could handle up to 63 workstations with a maximum cable length of 1200 metres.  The theoretical speed was at 1 MB per second. The Omninet interface was designed by Corvus, used a 6502 processor and NEC custom chips. An Omninet card was available during two years for IBM-PC, Apple II and S-100 BUS systems.As the Concept featured four Apple II compatible slots, the lan card was inserted in one of them in the first systems, then Omninet was on the motherboard of the Corvus. \n \nThe graphic bitmap display could be rotated and switch from portrait mode for the word processor to landscape mode for the spreadsheet. Software and hardware handled the change smoothly! The user could choose between several supplied type fonts or/and create his own caracter sets. Like the Apple Lisa, the display could be divided into independant windows, each with its own attributes. However, no mouse was used\n\nThe Concept ran CCOS, its own operating system (Corvus Concept Operating System), or P-System, the Java-like O.S. of the early 80\u0027. A word processor (EdWord) and a spreadsheet (Logicalc) were available. They were specially adapted to the graphic features specific to the Concept. Several developpement tools could also be used: PASCAL and FORTRAN-77 compilers, 68000 assembler and a CP/M emulator.\n\nCorvus manufactured several hard-disk drives, from 6 MB to 40 MB, and a stange mirror unit that allowed the user to backup a drive to a real video recorder using real video tapes - there was even a Panasonic (?) video recorder that the system knew how to drive remotely so it managed and recorded tapes, all by itself - pretty magic to watch in those days!! It could store up to 200 MB at the speed of 600 KB per minute. There were at least two versions of Corvus Bank Tape, the CBT-100 and the CBT-200 certified 100 and 200 Megabyte.\n\nA second backup unit called The Bank also used video type tape, but it was built into a special (roughly square) cartridge that popped out of the top and held the tape in a continuos loop so there was no rewinding or stuff to do.\n\nLike many other original computers, the Concept has sunk into oblivion in 1984, mainly due to the IBM-PC advent.\n\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TWO CONCEPT\u0027S AT WORK\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Two Concept\u0027s linked to a 6 MB hard-disk drive (center) via an Omninet local-area network. An 8\u0026quot; F.D. drive is connected to a controller board installed in the Apple II compatible expansion slot of the Concept on the right. The video display on the right is set up in the portrait format, almost the exact size and shape of a sheet of paper. The monitor on the left has been rotated 90 degrees for viewing in the landscape format. \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Byte magazine\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Corvus_Concept_System_2.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DIABOLIK, FRENCH ADVERT. #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The YIS-502 was also called the Diabolik in France...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/yamaha_yis503_diabolik_pub2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The advert show the built-in user menu and system status.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The right located system is the dual-drive version.\u0026lt;br\u0026gt; The left one is the 10 MB hard-disk version.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/QuasarDataPr_QDP100_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Picture courtesy of \u0026lt;a href\u003d\u0026quot;http://www.sbrowning.com/vintage\u0026quot;\u0026gt;Steve Browning, www.sbrowning.com/vintage\u0026lt;/a\u0026gt;.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/commodore_c64_ad_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FIRST ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This painting was the first and the best known MITS Altair advert. It was created by Kim Behm who has since become a well-known artist. At the first beginning of the personal computers era, this advert seems to be saying: In a near future, everybody around the world will have access to a personal computer.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Altair_8800_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;QL CATALOGUE #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sinclair_QL_Brochure1_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SEEQUA AD (JUN. 83)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Seequa_Chameleon_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT, OCT 1983\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advertisement from a UK Sage dealer.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sage_II_Advert_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SCARY...\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Can you believe it?! She is learning how to play flute (mini flute?) with her TO7... The father seems to be a kind of lunatic...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_to7_promotional-guide_musique.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT. (1984)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is nearly a stupid scan ! \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The young boy says : \u0027\u0027In 1984, my father bought me a MO-5\u0026quot; \u0026lt;br\u0026gt; And on his desk is a 1998 calendar... \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; They meant that if you bought the MO-5 then (the advert is from 1984), you would be rich and clever 14 years later (in 1998). Ha ha ha !! \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; It\u0027s funny to see how they tried to represent an office and a town of 1998. I really love this one !  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_mo5_advert_1998.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp; U.S. AD #2 (1983)  \u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Despite the M20 was neither software nor hardware compatible with any other computer, Olivetti had to prove that it had more computing power at a smaller pice than any competitor.  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Olivetti_M20_Advert_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1978 BROCHURE #12\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/MSI_6800_Brochure_s12.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (DEC.1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Goupil 3: three micro-computers in one!\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/smt_goupil3_ad_3ordisen1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;THINKJET ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;August 1985\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/HP_150_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;M-SERIES BROCHURE - COVER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Juraj Mucko for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/panasonic_jd_flyer_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt;Most small system users think all microcomputers are created aqual. And they\u0027re right. If you want performance, convenience, styling, high technology and reliability (and who doesn\u0027t?) your micro usually has a price tag that looks mote like a mini. It seems big performance always means big bucks. But not so with the SuperBrain...\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Intertec_SuperBrain_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/micronique_victor-lambda_ad1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;EQUIPED FOR COMPETITION\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;French advert (december 1984)\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_to770_pub_compet.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT#2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is another french advert, not from CBS, but from an independant store \u0026quot;le jeu electronique\u0026quot;. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Only the expansion module #3 was available in France and people had to buy a Colecovision if they wanted to have an Adam !\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/coleco_adam_advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FIRST ADVERT - FEB.1982\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;\u0026lt;a href\u003d\u0026quot;http://www.aci.com.pl/mwichary/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Attached\u0026lt;/a\u0026gt;\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/IBM_5150_Advert81_s3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;APPLE ACCESSORIES\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; There are more people in more places making more accessories and peripherals for Apples than for any other personal computer in the world.\u0026lt;br\u0026gt; Thanks to those people - in hundreds of independant companies - who can make the humblest 1978 Apple II turn tricks that are still on IBM\u0027s Wish List for 1984.\u0026lt;br\u0026gt; But now we\u0027re coming out with our very own line of peripherals and accessories for Apple personal computers... \u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The dual language of Apple: In the same advert, Apple thanks the companies manufacturing Apple compatible peripherals and asks its customers to buy only Apple peripherals in the future....  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Apple_II_Advertd_4.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN AD #4\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;www.sharpmz.org\u0026lt;/b\u0026gt; \u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sharp_MZ700_Advert_4.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN AD #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Large achievement capability and high versatility with 64kb RAM.\u0026quot;  \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;www.sharpmz.org\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sharp_MZ700_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The display says: \u0026quot;Personal computer Pravetz 82\u0026quot;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Bojidar Stefanov\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Pravetz_Imko_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPANESE ADVERT. #3\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;I love this advert ! Their pullovers are so... colored.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/toshiba_hx10_pub_jap3.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [],
+  "image": "http://www.old-computers.com/museum/photos/Corvus_Concept_System_1.jpg",
+  "builtInGames": "None",
+  "controllers": "",
+  "media": "None",
+  "numGames": "",
+  "peripherals": "Shared 6 to 40 MB hard-disks, VHS tapes backup",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

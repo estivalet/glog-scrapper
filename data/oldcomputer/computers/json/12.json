@@ -1,0 +1,282 @@
+{
+  "name": "MO 5",
+  "manufacturer": "Thomson",
+  "type": "Home Computer",
+  "origin": "France",
+  "year": "March 1984",
+  "production": "",
+  "language": "Microsoft Basic 1.0",
+  "keyboard": "AZERTY, calculator type (rubber keys), 58 keys. Arrow keys, SHIFT (yellow key), BASIC key, INS (insert), EFF (delete), ACC (accent), STOP, CNT (continue), CLEAR (cls), HOM (home), RESET button",
+  "cpu": "Motorola 6809e",
+  "speed": "1 MHz",
+  "coprocessor": "",
+  "ram": "32 KB (31008 bytes free)",
+  "vram": "16 KB",
+  "rom": "16 KB (4 KB for the monitor + 12 KB for the BASIC interpreter)",
+  "text": "40 chars x 25 lines",
+  "graphics": "320 x 200 dots",
+  "colors": "16",
+  "sound": "One channel, 5 octaves (7 octaves, 3 channels with the joystick extension)",
+  "size": "29 (W) x 18,3 (D) x 5 (H) cm",
+  "ports": "Light pen connector, Tape interface (1200 bauds), SCART (SECAM) video output (RGB + synchro + sound), Cartridge slot (Memo5), Expansion bus",
+  "power": "External power supply unit, 220 volts / 50 Hertz / 12-17 volt / 750 mA",
+  "price": "541  (France, may 1984)",
+  "description": "\nThe MO-5 was presented alongside the TO 7/70, in march 1984. While the TO-7/70 follows and enhances the TO-7 philosophy, the MO-5 is more a cut-down version of the TO-7/70. The idea was to design a coherent french home computer, able to compete with such systems as the ZX Spectrum or the Commodore 64.\n\nThe case of the MO-5 is elegant with its anthracit colour and pleasant lines. The keyboard, though made of rubber keys, is an improvement over the flat membrane keyboard of the TO-7. Most BASIC statements are engraved onto the keys and can be directly entered by pressing a special BASIC key and the key matching the desire statement. But the Basic commands can also be typed in letter by letter. The keyboard layout is AZERTY which is normal as the MO-5 is a french system. Accentuated letters can directly be accessed by pressing the ACC key, followed by the desired key (6 for ?, 7 for ?, 8 for ?, 9 for ? and 0 for ?). There are also four arrow keys, INS to insert a space, EFF to delete the pointed character, STOP to pause a program, CNT to resume a program stoped and RAZ (remise ? z?ro) to clear the screen.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MO5 - RUBBER KEYBOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/thomson_mo5_1b.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LEFT SIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/thomson_mo5_leftside_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TOP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/thomson_mo5_top.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;RIGHT SIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Left : light-pen connector\u0026lt;br\u0026gt; Right : tape recorder connector\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/thomson_mo5_rightside_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Not much here... Power in (small hole to the left of the video cable), SCART video cable and Expansion connector with its protective plastic cap.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/thomson_mo5_rear_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;1\u0026lt;/b\u0026gt; - RESET (soft) button\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;2\u0026lt;/b\u0026gt; - BUS expansion connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;3\u0026lt;/b\u0026gt; - MEMO5 cartridge slot\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;4\u0026lt;/b\u0026gt; - Internal video connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;5\u0026lt;/b\u0026gt; - 17v power in (12v for SCART + 5v for the mother board)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;6\u0026lt;/b\u0026gt; - Light pen connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;7\u0026lt;/b\u0026gt; - Tape interface\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;8\u0026lt;/b\u0026gt; - Keyboard connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;9\u0026lt;/b\u0026gt; - 6821 chipset handling I/O\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;10\u0026lt;/b\u0026gt; - ROM (4 KB monitor + 16 KB Basic)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;11\u0026lt;/b\u0026gt; - Specific Logical Gate Array chipset (EFGJ03L) handling, among other things, the video\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;12\u0026lt;/b\u0026gt; - Motorola 6809 CPU (1 MHz)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;13\u0026lt;/b\u0026gt; - RAM chips (48 KB)\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/thomson_mo5_mobo.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MOTHERBOARD CLOSE-UP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Close-up on the main chips. From left to right :\u0026lt;br\u0026gt; - 6821 chipset handling I/O\u0026lt;br\u0026gt; - ROM (4 KB monitor + 16 KB Basic)\u0026lt;br\u0026gt; - Specific Logical Gate Array chipset (EFGJ03L) handling, among other things, the video\u0026lt;br\u0026gt; - Motorola 6809 CPU (1 MHz)\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/thomson_mo5_mobo_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SPANISH MODEL\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is a spanish model of the MO5. It has a QWERTY keyboard instead of the AZERTY one of the french models. The ROM has been modified to include Spanish characters and there are RF and RGB outputs at the back of the system instead of the SCART connector of the french model.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Vicente Simon for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/thomson_mo5-esp_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;THE BOX\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/thomson_mo5-gomme_box.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;RUBBER AND MECHANICAL MODELS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/thomson_mo5_comparatif_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MECHANICAL KEYBOARD MODEL\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This new model is exactly the same. Only the keyboard differs.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/thomson_mo5-2_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LEFT SIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/thomson_mo5-2_left-side.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/thomson_mo5-2_rear.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;RIGHT SIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/thomson_mo5-2_right-side.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TOP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/thomson_mo5-2_top.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CLOSE UP \u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Close-up on the Memo5 cartridge slot and Reset button.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/thomson_mo5-2_closeup_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;KEYBOARD CLOSE-UP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/thomson_mo5-2_closeup_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROTOTYPE #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;We know only one model of this prototype with transparent plastic case and handy soldered mainboard.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Thomson_MO5_ProtoT_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROTOTYPE #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Thomson_MO5_Proto_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE THE PROTOTYPE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Board design is the same as a standard version, but all the I.C. are socketted.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Thomson_MO5_ProtoTinside_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MICHEL PLATINI EDITION\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is a special edition named \u0026quot;Michel Platini\u0026quot; in honour of the famous french soccer player. It was sold with a sport bag (with an illustration of Michel Platini on it) and the \u0026quot;Num\u0026eacute;ro 10\u0026quot; soccer game on tape.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.vcrp.fr\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Vintage Computer Rescue Project\u0026lt;/a\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/thomson_mo5-platini.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT. (1984)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is nearly a stupid scan ! \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The young boy says : \u0027\u0027In 1984, my father bought me a MO-5\u0026quot; \u0026lt;br\u0026gt; And on his desk is a 1998 calendar... \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; They meant that if you bought the MO-5 then (the advert is from 1984), you would be rich and clever 14 years later (in 1998). Ha ha ha !! \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; It\u0027s funny to see how they tried to represent an office and a town of 1998. I really love this one !  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_mo5_advert_1998.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (DEC. 1985)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;MO5. Adventure built-in\u0026quot;\u0026lt;br\u0026gt; \u0026quot;All the world in a present\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_mo5_advert_aventure-comprise.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (JUNE 1985)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Thomson, you make me micro\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_mo5_tu-me-rends-micro_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (JUNE 1985)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Thomson, the micro capital\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_mo5_ad_capitale-micro.jpg"
+    }
+  ],
+  "hardware": [
+    {
+      "type": "DISK DRIVES",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/thomson_to7_diskdrive_2.jpg",
+          "description": "5.25\u0027\u0027 disk drive|||320 KB model|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;5.25\u0027\u0027 DISK DRIVE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;320 KB model\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This 5.25\u0027\u0027 disk-drive offers a 320 KB capacity (40 tracks \u0026gt; 16 sectors \u0026gt; 256 bytes) and a built-in controller.\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/thomson_to7_disk-interface.jpg",
+          "description": "Disk Controller|||CD 90-351|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DISK CONTROLLER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CD 90-351\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This interface was used to connect a disk drive or a Quick Disc Drive (QDD) to a TO-7, TO-7/70, MO5 or MO6.\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "JOYSTICK EXPANSIONS",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Thomson_To9_JoyModule_1.jpg",
+          "description": "Joystick module||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JOYSTICK MODULE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Dual Atari compatible joysticks module\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/thomson_to7_joy-interface.jpg",
+          "description": "Music \u0026amp; Game Module|||CM 90-112|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MUSIC \u0026amp; GAME MODULE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CM 90-112\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This module offers two joystick connectors (Videopac joysticks can be used) and adds three channels to the TO-7  or MO-5 (resulting in a total of 4 voices). Sadly, these new sound features were scarcely used in games...\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Thomson_MO5_MusicEtJeu_s1.jpg",
+          "description": "Music \u0026amp; Game Module #2||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MUSIC \u0026amp; GAME MODULE #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/thomson_to7_joy-atari.jpg",
+          "description": "Ordi 94|||Joystick Interface|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ORDI 94\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Joystick Interface\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This interface enables Atari joysticks to be used with TO-7, TO-7/70 and MO5. It was sold by Ordivisuel under the name Ordi 94.\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "PRINTERS",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Thomson_TO7_Imp_PR90-080.jpg",
+          "description": "Printer PR-90 080||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PRINTER PR-90 080\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;80 columns dot-matrix printer which was a rebadged version of the Seikosha GP-80\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Thomson_To9_ImpPR90_600_1.jpg",
+          "description": "Printer PR-90 600||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PRINTER PR-90 600\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;80-column 9-pin dot matrix printer. A rebadged version of the Seikosha SP-1000 with graphics capabilities\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "QUICK DISK DRIVE EXPANSION",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/thomson_mo5_expansion_1.jpg",
+          "description": "Picture #1||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PICTURE #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This impressive expansion adds many thing to the MO5 : a Quick Disk Drive (2.8\u0026quot;, 50 KB per side), three expansion slots and one Centronics port. The disk operating system (Q-DOS) itself offers a bunch of new Basic statements such as CIRCLE,  PAINT (to fill shapes), DRAW, GET, PUT, etc. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; All in all, it is an excellent expansion which corrects most of the limitations of the MO5. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Price \u003d 428 Euros (France, november 1985)\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/thomson_mo5_qdd-expansion_2.jpg",
+          "description": "Picture #2||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PICTURE #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://perso.club-internet.fr/musepat/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Musepat\u0026lt;/a\u0026gt; for this picture.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/thomson_mo5_qdd-expansion_3.jpg",
+          "description": "Close-up on the Quick Disk Drive||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CLOSE-UP ON THE QUICK DISK DRIVE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://perso.club-internet.fr/musepat/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Musepat\u0026lt;/a\u0026gt; for this picture.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    }
+  ],
+  "emulator": [
+    {
+      "platform": "MS DOS emulator",
+      "name": "Marcel O Cinq",
+      "link": "http://ourworld.compuserve.com/homepages/FETIS_Gilles/mo5/mo5.html",
+      "description": "works also on macintosh"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "DCMO5",
+      "link": "http://dcmo5.free.fr/",
+      "description": "Thomson MO5 emulator for PC"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "DCMO5 Gamer Edition",
+      "link": "HTTP://DCMO5.FREE.FR",
+      "description": "Easy to use emulator, to run MO5 games without knowing MO5 commands"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "DCMO6",
+      "link": "http://dcmo6.free.fr/",
+      "description": "Thomson MO5NR, Thomson MO6 and Olivetti Prodest PC128 emulator for PC"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "DCMOTO",
+      "link": "http://dcmoto.free.fr/",
+      "description": "Universal 8-bit Thomson emulator for Windows. Emulates Thomson MO5, MO5E, MO5NR, MO6, T9000, TO7/70, TO8, TO8D, TO9, TO9+ and Olivetti Prodest PC128  !"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "DCTO7 and DCTO8",
+      "link": "http://dcto7.free.fr/",
+      "description": "Thomson T9000, TO7/70, TO8, TO8D emulator for Windows"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "Emul5 ",
+      "link": "http://emul5.thomsonistes.org/",
+      "description": "works also with linux and msdos"
+    },
+    {
+      "platform": "Apple emulator",
+      "name": "MO5",
+      "link": "http://www.bannister.org/software/mo5.htm",
+      "description": "MO5 emu for mac OS"
+    },
+    {
+      "platform": "Other platform emulator",
+      "name": "TODC",
+      "link": "http://www.jplang.fr.st/",
+      "description": "No, you are not dreaming. This is a TO-7/70 emulator for the Dreamcast game system !"
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d167",
+    "computer.asp?st\u003d1\u0026amp;c\u003d838",
+    "computer.asp?st\u003d1\u0026amp;c\u003d868",
+    "computer.asp?st\u003d1\u0026amp;c\u003d853",
+    "computer.asp?st\u003d1\u0026amp;c\u003d11",
+    "computer.asp?st\u003d1\u0026amp;c\u003d643",
+    "computer.asp?st\u003d1\u0026amp;c\u003d238",
+    "computer.asp?st\u003d1\u0026amp;c\u003d239",
+    "computer.asp?st\u003d1\u0026amp;c\u003d240",
+    "http://membres.lycos.fr/amito8/data/Accueil.html",
+    "http://lair.thomsonistes.org/",
+    "http://gfournier.free.fr/",
+    "http://dcmoto.free.fr/",
+    "http://forumthomson2001.free.fr/forum01.htm",
+    "http://MO5.FREE.FR",
+    "http://www.multimania.com/tonews/",
+    "http://nostalgies.thomsonistes.org/",
+    "http://wiki.forler.ch",
+    "http://www.logicielsmoto.com/home.php"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/thomson_mo5_1s.jpg",
+  "builtInGames": "Microsoft Basic 1.0",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "Printer interface, Game expansion (2 joystick connectors + enhanced sound), Superimpose expansion, Quick Disk Drive expansion, Disk drives",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

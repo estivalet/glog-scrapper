@@ -1,0 +1,140 @@
+{
+  "name": "DEUCE",
+  "manufacturer": "English Electric Co.",
+  "type": "Professional Computer",
+  "origin": "United Kingdom",
+  "year": "1955",
+  "production": "1964",
+  "language": "None",
+  "keyboard": "32  Key Switches",
+  "cpu": "1,450 Thermionic Valves",
+  "speed": "1 Mhz clock - Serial Mode",
+  "coprocessor": "None",
+  "ram": "1.6 KB Acoustic Mercury Memory",
+  "vram": "",
+  "rom": "None",
+  "text": "2 X 6 inch monochrome CRT",
+  "graphics": "",
+  "colors": "",
+  "sound": "",
+  "size": "14 ft (W) x 4 ft 6 in (D) x 6 ft 11 in (H) (92 sq. ft) / 2632 lbs - 1193.85 Kg",
+  "ports": "",
+  "power": "440 Volts 3 phase 50 Hertz AC  - 9,000 Watts+300V +200V +100V ?100V ?200V ?300V DC - 6.3V AC @ 400 Amps",
+  "price": "50,000 UK Pounds ",
+  "description": "\nThe DEUCE (Digital Electronic Universal Computing Engine) was an early British Computer manufactured by the English Electric Company  in the 50s from designs used by the UK\u0027s National Physical Laboratory (N.P.L.) for the ACE Pilot Model (Automatic Computing Engine). \n\nPhysically, the DEUCE consisted of a cabinet, roughly 10\u0027 x 8\u0027 x 6\u0027, which housed all the circuitry needed and had the console at one end. Still no transistors or printed circuit boards, it contained hundreds of thermionic valves in lines of six foot tall racks of circuitry.\n\nThere were two kinds of storage. The high speed store consisted of mercury delay lines and held 402 words in all. There were 12 long delay lines holding 32 words each and some short lines, known as temporary stores, which held one, two and four words. The time taken for the contents of one delay line to circulate was called a \u0027major cycle\u0027, the time of one word was a \u0027minor cycle\u0027. There were 32 minor cycles in one major cycle. The words were all of the same length, 32 binary digits (about 10 decimal digits).\n\nWords were stored in the delay lines as a succession of pulses of 1? sec duration. A minor cycle was therefore 32 ?sec and a major cycle was 1O24 ?sec, or just over 1 m.sec. All operations were performed in the high speed store.\n\nThe secondary storage was a magnetic drum which holds 8192 words, disposed in 256 tracks of 32 words each. The drum itself was a rapidly rotating cylinder coated with magnetic material. There were \u0027reading heads\u0027 and \u0027writing heads\u0027, to transfer information to and from the high speed store. A whole track was transferred with one instruction. Access to the drum was much slower than to the high speed store.\n\nInput and output were by means of conventional punched card equipment. Cards might be read at a rate of 200 per minute and punched at 100 cards per minute. 64 columns of a card were used by DEUCE, which means that 24 words punched in binary can be read from one card.\n\nThe console, at the front of the machine, had a bewildering array of keys and lights and two cathode ray monitor tubes. These tubes displayed the contents of the temporary stores and any selected long delay line.\n\nBetween 1953 and 1964, 33 machines were sold worldwide to various research and development establishments.\n\nAll this information is courtesy of the DEUCE web \nsite which provides lots of original information, photos and testimonies about the DEUCE computer.\n \n\n\n",
+  "shot": [],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH (STUPID) PROMOTIONAL PICTURE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Family life scene in front of a complete Atmos system carefully lined up on the coffee table in the living room, with a minimum of visible cables. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The flaw?... No, it is not that it is rather difficult to use such a serious configuration for hours sitting on the floor. The flaw comes rather from the photographer who forgot to do the housework before taking the picture and left to posterity his accessories cartons right behind the low dresser.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Oric_Atmos_Advert_4.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (DEC. 1986)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/multitech_mpf_pub_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT #3\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/canon_X07_pub3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;You hesitate between two standards.\u0026quot;\u0026lt;br\u0026gt; \u0026quot;Rank Xerox doesn\u0027t.\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/xerox_16-8_ad_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK BROCHURE #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Commodore_700_4pageLeaflet2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPANESE ADVERT (1978)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.atarihq.com/tsr/\u0026quot;\u0026gt;ITSR\u0027S NES ARCHIVE\u0026lt;/a\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/nintendo_racing112_advert.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SPANISH ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sony_hb101p_spanish-advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BROCHURE #3\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Graphics examples of the optional graphic card.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Tim Mackay\u0026lt;/b\u0026gt; \u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sord_M100ACE_Brochure_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROMOTIONAL PICTURE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/bull_micral-80-22_promo-pic_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT.\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This advert was for the Serie 5 and the ACS-8000 systems.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/altos_serie5_pub.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said : \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0027\u0027The computer which carried away America\u0026quot;\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0027\u0027With its portable computers, Compaq became world number two on the market of the 16 bits computers. With a turnover of 240 million dollars in one year and a half, this young company established in Houston obtained the growth rate record of the American economic history.\u0026quot; \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Compaq_PortablePlus_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;John V. Blankenbaker designed the Kenbak-1 and marketed in the pages of Scientific American in 1971. The machine\u0027s name was taken from the middle of John\u0027s last name.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.vintage-computer.com\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;www.vintage-computer.com\u0026lt;/a\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/kenback1_1_advert.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;M5 JAPANESE ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://web.kyoto-inet.or.jp/people/s-oga/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;The collection of historic PC leaflets\u0026lt;/a\u0026gt; for this picture!\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sord_m5_japanese-ad.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT#2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is another french advert, not from CBS, but from an independant store \u0026quot;le jeu electronique\u0026quot;. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Only the expansion module #3 was available in France and people had to buy a Colecovision if they wanted to have an Adam !\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/coleco_adam_advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;VICTOR AD #2 (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;In this advert, the Victor 9000 features was compared with those of four competitor computers: IBM PC, Xerox 820, Apple III and TRS-80 Model II. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Victor features was definitely higher than all of the desktop computers of the time, including the IBM PC.      \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Victor_9000_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROMOTIONAL PICTURE #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Learn computing today to be ready for tomorrow\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sinclair_zx81_promo-pic_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SOL PRICE LIST\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;\u0026lt;u\u0026gt;Sol Systems price list (january 1977)\u0026lt;/u\u0026gt;\u0026lt;/b\u0026gt; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; (K) \u003d Kit   (A) \u003d Assembled\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Sol Terminal Computers\u0026lt;br\u0026gt; \u0026lt;/b\u0026gt;SOL-PC Single board (K) \u0026lt;b\u0026gt; $475\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; SOL-10 (K) \u0026lt;b\u0026gt; $795\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; SOL-20 (K) \u0026lt;b\u0026gt; $995\u0026lt;/b\u0026gt; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Memory Modules\u0026lt;/b\u0026gt; \u0026lt;br\u0026gt; PROM Resident Assembly Language (A) \u0026lt;b\u0026gt;$425\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; Interpretive Simulator (PROM option) (A) \u0026lt;b\u0026gt;$95\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; Text Editing (PROM option) (A) \u0026lt;b\u0026gt;$95\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; Erasable PROM module (K) \u0026lt;b\u0026gt;$65  \u0026lt;/b\u0026gt;(A) \u0026lt;b\u0026gt;$89\u0026lt;/b\u0026gt; \u0026lt;br\u0026gt; 4 Kb. low power static Ram (K) \u0026lt;b\u0026gt; $159\u0026lt;/b\u0026gt;  (A) \u0026lt;b\u0026gt; $195\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; 8 Kb. low power static Ram (K) \u0026lt;b\u0026gt;$295\u0026lt;/b\u0026gt;  (A) \u0026lt;b\u0026gt;$375\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; 16 Kb. Dynamic Ram  (A) \u0026lt;b\u0026gt;$529\u0026lt;/b\u0026gt; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Interface Modules\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; Parallel / Serial I/O Module  (K) \u0026lt;b\u0026gt;$149\u0026lt;/b\u0026gt;  (A) \u0026lt;b\u0026gt;$199\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; System cassette interface  (K) \u0026lt;b\u0026gt;$87 \u0026lt;/b\u0026gt; (A) \u0026lt;b\u0026gt;$119\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; Video Display Module  (K) \u0026lt;b\u0026gt;$199 \u0026lt;/b\u0026gt; (A) \u0026lt;b\u0026gt;$295\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; \u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Mass Storage System\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; Helios II Disk system  (K) \u0026lt;b\u0026gt;$1895\u0026lt;/b\u0026gt;  (A) \u0026lt;b\u0026gt;$2295\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Software\u0026lt;br\u0026gt; \u0026lt;/b\u0026gt;(C) \u003d Cassette  (P) \u003d Paper tape\u0026lt;br\u0026gt; Basic 5  (P) \u0026lt;b\u0026gt;$19.95\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; 8K Basic (C) \u0026lt;b\u0026gt;$29\u0026lt;/b\u0026gt;  (P) \u0026lt;b\u0026gt;$37\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; New 8080 Focal  (C) \u0026lt;b\u0026gt;$14.50\u0026lt;/b\u0026gt;  \u0026lt;br\u0026gt; Trek 80 Video game  (C) \u0026lt;b\u0026gt;$9.50\u0026lt;/b\u0026gt;  (P) \u0026lt;b\u0026gt;$14.50\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; GamePack 1  (C) \u0026lt;b\u0026gt;$9.50\u0026lt;/b\u0026gt;  (P) \u0026lt;b\u0026gt;$14.50\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; MathPack Video calculator  (C) \u0026lt;b\u0026gt;$14.50\u0026lt;/b\u0026gt;  (P) \u0026lt;b\u0026gt;$19.50\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; Assembler  (C) \u0026lt;b\u0026gt;$14.50\u0026lt;/b\u0026gt;  (P) \u0026lt;b\u0026gt;$19.50\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; ALS 8  (C) \u0026lt;b\u0026gt;$35\u0026lt;/b\u0026gt; (P) \u0026lt;b\u0026gt;$45\u0026lt;/b\u0026gt; \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/ProcessorTech_Sol_System_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;QD VERSION ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;1980 Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt;Our new QD model has all of the features of our phenomenally popular SuperBrain with the addition of double-sided disk drives and an extra of dynamic RAM. So, for only a modest increase in price, you can order your next SuperBrain with more than twice the disk and memory storage capability. But, best of all, the new QD model has the same tough, rugged construction and exceptional quality that made our SuperBrain such a success. \u0026lt;/font\u0026gt;  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Intertec_SuperBrain_QD_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROMO PIC #5\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This picture was used to promote the educative potential of the TO-7/70. This poor student is studying economic politics... \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; As usual, no cables are shown... the tape recorder is thus useless... Will someone tell him ?\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_to770_pub-eco.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (DEC.1981)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/philips_videopac-c52_advert_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROUD FATHER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_to7_promotional-guide_proudfather.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ITALIAN AD #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Special offer including italian books\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;http://angelmemories.cjb.net/\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sinclair_Spectrum_PubItalie_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;NEWBURRY BROCHURE #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;First Newburry brochure cover\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;www.oldcomputers.freeserve.co.uk\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Grundy_Newbrain_Leaflet_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (JULY 1985)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;compare!\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/oric_atmos_pub_comparez.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [
+    "http://www.ncf.ca/~ad161/deuce1.html",
+    "http://hopl.murdoch.edu.au/findlanguages.prx?id\u003d2\u0026amp;which\u003dbyhw\u0026amp;Name\u003dDEUCE"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/EnglishElec_DEUCE_System_s1.jpg",
+  "builtInGames": "None",
+  "controllers": "",
+  "media": "80 Column punch cards, 32 KB Magnetic Drum",
+  "numGames": "",
+  "peripherals": "12 extra delay line , paper tape I/O,  magnetic tape",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Superboard II",
+  "manufacturer": "OHIO Scientific",
+  "type": "Home Computer",
+  "origin": "U.S.A.",
+  "year": "1978",
+  "production": "",
+  "language": "OSI BASIC interpreter",
+  "keyboard": "Full stroke 50 keys",
+  "cpu": "6502",
+  "speed": "1 MHz (could be overclocked to 2 MHz)",
+  "coprocessor": "None",
+  "ram": "4 KB expandable to 8 KB on board",
+  "vram": "1 KB",
+  "rom": "8 KB (OSI BASIC + Monitor)",
+  "text": "16 to 48 chars. x 16 lines",
+  "graphics": "None, but 128 graphic characters",
+  "colors": "Monochrome",
+  "sound": "",
+  "size": "unknown",
+  "ports": "Tape recorder and printer ports",
+  "power": "External 5V power supply unit",
+  "price": "$200 assembled",
+  "description": "\nThe Superboard II, also called Model 600, was quite the same board as the british clone Compukit UK-101.\n\nIt came in only ready built version and did not featured neither power regulation on board - User had to build or buy a 5V external power supply - nor RF modulator to display on a standard TV, but only a composite video output.\n\nA 40 pin IC socket allowed an expansion board and OSI bus to be connected, giving access to memory expansion (up to 64 KB) and floppy drive controller.\n\nSee in the \u0027Read more\u0027 section a very interesting information about Mike Cheiky, the founder of OSI.\n\n\n\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SYSTEM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; 4 KB RAM expansion area. All of the board RAM chips are 2114 (1K * 4 bits static RAM)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; 4 KB main memory area\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; 6502 processor\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(4)\u0026lt;/b\u0026gt; Expansion connector (40 pin socket)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(5)\u0026lt;/b\u0026gt; ACIA 6850 chip (Asynchronous Communication Interface Adapter)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(6)\u0026lt;/b\u0026gt; Monitor ROM chip\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(7)\u0026lt;/b\u0026gt; BASIC ROM chips\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(8)\u0026lt;/b\u0026gt; Video RAM chips (2x2114 not installed)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(9)\u0026lt;/b\u0026gt; Characters generator ROM chip\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(10)\u0026lt;/b\u0026gt; Cassette interface connector and circuitry\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/OhioSc_SuperboardII_System_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CLOSE UP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/OhioSc_SuperboardII_CloseUp_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (JAN. 1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Right now, your computer for today\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/ohio_superboard2_ad_electronic-jl_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d813",
+    "computer.asp?st\u003d1\u0026amp;c\u003d572",
+    "computer.asp?st\u003d1\u0026amp;c\u003d46",
+    "computer.asp?st\u003d1\u0026amp;c\u003d47"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/OhioSc_SuperboardII_System_2.jpg",
+  "builtInGames": "OSI BASIC interpreter",
+  "controllers": "",
+  "media": "None",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

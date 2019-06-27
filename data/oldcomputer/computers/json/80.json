@@ -1,0 +1,152 @@
+{
+  "name": "ATOM",
+  "manufacturer": "Acorn Computer",
+  "type": "Home Computer",
+  "origin": "United Kingdom",
+  "year": "1980",
+  "production": "1983",
+  "language": "Basic, machine-code",
+  "keyboard": "QWERTY, full-stroke keyboard, 60 keysESC, BREAK, COPY, DELETE, CTRL, RETURN, LOCK, SHIFT (x2), REPT, arrow keys (x2)",
+  "cpu": "6502",
+  "speed": "1 mHz",
+  "coprocessor": "6847 Video Display Generator, PIA 8255 (keyboard \u0026amp; tape)",
+  "ram": "2 KB (up to 12 KB, or 32 KB using external RAM expansion kit. )",
+  "vram": "6 KB",
+  "rom": "8 KB (Atom BASIC and COS), up to 16 KB",
+  "text": "32 x 24 / 16 x 12",
+  "graphics": "64 x 64 (4 colors), 64 x 96 (4 colors), 128 x 96 (monochrome), 64 x 192 (4 colors), 128 x 192 (2 colors), 256 x 192 (monochrome)",
+  "colors": "8",
+  "sound": "Built-in beeper",
+  "size": "15\u0027\u0027 long x 9.5\u0027\u0027 deep x 2.5\u0027\u0027 high",
+  "ports": "Tape interface, UHF Modulated TV output, Acorn Bus Extension",
+  "power": "External PSU - 8v 2A",
+  "price": "kit: ?120Built : ?17050? (UK, 1983)381  (France, 82)",
+  "description": "\nThe Acorn Atom was the ancestor of the BBC computers series. It was sold in kit or ready-assembled versions.\n\nThe great advantage of the Atom compared to its competitors (TRS-80 \u0026amp; PET), was its high resolution capabilities (256 x 192) which were quite unusual in 1979 for the price. \n\nThe built-in BASIC was in some ways quite limited (it could only use integers for example) but an optional 4K ROM added the ability to use floating point numbers, trigonometric functions, to convert degrees/radians and to draw graphics in color. More add-ons were also available enabling autonumbering, a faster cassette interface (1200 bauds), and functions such as INKEY$, MID$, READ, DATA, FILL, etc...\nThere was even a BBC BASIC board available. \n\nA lot of applications were available on sideways ROMs that plugged into the \u0026quot;utility ROM socket\u0026quot; as Acorn called it, such as the \u0026quot;Atom Word Pack ROM\u0026quot; (word processing) or Atom-Calc (a 4K ROM spreadsheet).\n\nA colour card was available, connected to the BUS connector, it provided 8 colors, 4 simultaneously at the 64 x 192 resolution or 2 at 128 x 192 for example. But it was known to overheat! \n\nA lot of other peripherals were developed :\n- a 5.25\u0026quot; floppy disk drive (100K) which held the DOS in a 3K ROM but cost about twice as much as a new Atom!,\n- a digital-tape recorder,\n- a printer interface,\n- a network card called EcoNet which enabled linking of up to 250 Atoms (210 K/Bauds transfer rate),\n- RAM expansions,\n- etc...\n\n_________\n\nMr Wobbler reports :\nThe overheating of the graphics card seemed due to the conversion from NTSC to PAL. THE VC chip could be just seen under the mountain of discrete components to convert the scan rate... Programming the atom was fun, allowing the mixing of in-line assembler code embedded in basic programs.  This made the transition from high level to assembler programming easier. My father bought one and had 2 subsequent replacements  supplied FOC by Acorn due to problems in the video circuitry (mostly the output frequency wandering). \n\nPeter Passchier comments:\nThe speaker was not just a beeper. You have direct write access to the I/O port, and it could be made to beep at a particular pitch by \u0027toggling\u0027 the speaker at a particular frequency. I used to use a one-liner that I would type in manually at night to wake me up with a warble at a desired time in the morning!\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ACORN ATOM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_Atom_System_s3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRONT VIEW\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_Atom_FrontView_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SIDES\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_Atom_Sides_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;KEYBOARD CLOSE-UP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_Atom_Keyboard_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR CONNECTORS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The lead was a common add-on allowing to connect a composite monochrome monitor instead of using the RF modulator.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_Atom_Connectors_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MOTHERBOARD  #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(1)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Optional bus buffers. Must be installed when cards are connected to the expansion connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(2)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Optional 6522 VIA chip used  for the Centronics interface and hardware timers\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(3)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 6 KB user RAM (12x2114 chips). The Atom was normally delivered with 1 KB RAM\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(4)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Parallel Centronics connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(5)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 4 KB integer BASIC ROM (top) and floating point expansion ROM (bottom)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(6)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 6502 CPU, here a Signetics version\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(7)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; The utility ROM socket allows a third 4 KB ROM chip to be added.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(8)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; This motherboard version doesn\u0027t feature power regulators. Power leads are directly soldered onto the board and allow a 5V DC PSU to be connected\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(9)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 8255 I/O chip in charge of most of the system I/O (keyboard, tape, video)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(10)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Motorola 6847 video controller. Manages text and graphic modes\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(11)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 6 KB video RAM memory, also 2114 chips, only 1 KB is available in the basic version.  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_Atom_Mainboard_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MOTHERBOARD #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This version has dual built-in 5V regulators, below the aluminium heat sink, and the BBC BASIC expansion card (surrounded)\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_Atom_Mainboard_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MOTHERBOARD #3\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The motherboard is fixed to the case top cover. Components side faces the bottom shell.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_Atom_Mainboard_s3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;THE BOX\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_Atom_Box_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;USER MANUALS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Assembly instructions and Basic language manual.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_Atom_Manuals_s1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT (MAY 1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert says:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The ATOM -a definitive personal computer. Simple-to-build, simple-to-operate. But a really powerful full-facility computer. And designed on an expandable basis. You can buy a superb expanded package now-tailored to your needs. Or, you can buy just the standard Atom kit, and, as you grow in confidence and knowledge, add more chips. No need to replace your equipment. No need to worry that your investment will be overtaken by new technology. As you need more power, more facilities, you can add them! \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;The standard ATOM kit includes:\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; . Full sized QWERTY keyboard. Rugged polystyrene case\u0026lt;br\u0026gt; . Fibreglass PCB. 2K RAM. 8K ROM. 23 integrated circuits . Full assembly instructions including tests for fault-finding. (Once built, connect it to any domestic TV and power source)\u0026lt;br\u0026gt; . Power requirement: 8V at 800 M A. ATOM power unit available.\u0026lt;br\u0026gt; PLUS FREE MANUAL written in two sections \u0026lt;br\u0026gt; - teach yourself BASIC and machine code for those with no knowledge of computers, and a reference section giving a complete description of the ATOM\u0027s facilities. All sections are fully illustrated with example programs.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;The ATOM concept\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; Adding chips into sockets on the PCB allows you to progress in affordable steps to large-scale expansion. You can see from the specifications that the RAM can be increased to 12K allowing high resolution (256 x 192) graphics. Two further ROM chips, e.g. maths functions, can be added directly to the board giving a 16K capacity. In addition to 5 I/O lines partly used by the cassette interface, an optional VIA device can provide varied I/O and timer functions and via a buffer device allow direct printer drive. An optional module provides red, green and blue signals for colour. An in-board connector strip takes the ATOM communications loop interface. Any number of ATOMs may be tinked to each other - or to a master system with mass storage, hard copy facility. Interface with other ACORN cards is simplicity itself. Anyone ACORN card may be fitted internally. So you can see there are a vast number of modular options and additions available, expanding with your ability and your budget.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;The ATOM hardware includes:\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; .Memory from 2K to 12K RAM on board (up to 35K in case)\u0026lt;br\u0026gt; .8K to 16K ROM (two 4K additions) 86502 processor\u0026lt;br\u0026gt; .Video Display allows high resolution (256 x 192) graphics and red, green and blue output\u0026lt;br\u0026gt; .Cassette Interface-CUTS 300 baud\u0026lt;br\u0026gt; .Loudspeaker allows tone generation of any frequency\u0026lt;br\u0026gt; .Channel36 UHF Modulator Output .Bus output includes internal connections for Acorn Eurocard.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;The ATOM software includes:\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; .32-bit arithmetic (+/- 2,000,000,000)\u0026lt;br\u0026gt; .High speed execution\u0026lt;br\u0026gt; .43 standard/extended BASIC commands \u0026lt;br\u0026gt; .Variable length strings (up to 256 characters)\u0026lt;br\u0026gt; .String manipulation functions\u0026lt;br\u0026gt; .27 32-bit integer variables\u0026lt;br\u0026gt; .27 additional arrays\u0026lt;br\u0026gt; .random number function .PUT and GET byte\u0026lt;br\u0026gt; .WAIT command for timing\u0026lt;br\u0026gt; .DO-UNTIL construction\u0026lt;br\u0026gt; .Logical operators (AND, OR, EX-OR)\u0026lt;br\u0026gt; .LINK to machine-code routines\u0026lt;br\u0026gt; .Plot draw and move. \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Paul Durrant\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Acorn_Atom_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT (NOV. 1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert says:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The Acorn Atom is a definitive personal computer. Simple to build, simple to operate. A powerful, full facility computer with all the features you would expect.\u0026lt;br\u0026gt; Just connect the assembled computer to any domestic TV and power source and you are ready to begin. (Power requirement: 8V at 800mA). There is an ATOM power unit available. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Free with every ATOM, kit or built, is a computer manual. The first section explains and teaches you BASIC, the language that most personal computers and the ATOM operate in. The instructions are simple and learning quickly becomes a pleasure. You\u0027ll soon be writing your own programs. The second section is a reference manual giving a full description of the ATOM\u0027s facilities and how to use them. Both sections arE fully illustrated with example programs. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;The standard ATOM includes:\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; HARDWARE\u0026lt;br\u0026gt; . Full-sized QWERTY keyboard. 6502 Microprocessor. Rugged injection-moulded case. 2K RAM. 8K HYPER-ROM\u0026lt;br\u0026gt; . 23 integrated circuits and sockets. Audio cassette interface. UHF TV output. Full assembly instructions\u0026lt;br\u0026gt; SOFTWARE\u0026lt;br\u0026gt; . 32-bit arithmetic (:i: 2,000,000,000). High speed execution. 43 standard/extended BASIC commands. Variable length strings (up to 256 characters) . String manipulation functions. 27 x 32 bit integer variables\u0026lt;br\u0026gt; . 27 additional arrays. Random number function. PUT and GET byte. WAIT command for timing. DO-UNTIL construction . Logical operators (AND, OR, EX-OR) . Link t machine - code routines. PLOT commands, DRAW and MOVE \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;The ATOM modular concept\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; The ATOM has been designed to grow with you. As you build confidence and knowledge you can add more components. For instance the next stage might be to increase the ROM and RAM on the basic ATOM from 8K + 2K to 12K + 12K respectively. This will give you a direct printer drive, floating point mathematics, scientific and trigonometric functions, high resolution graphics.\u0026lt;br\u0026gt; From there you can expand indefinitely. Acorn have produced an enormous range of compatible PCB\u0027s which can be added to your original computer. For instance: A module to give red, green and blue colour signals Teletext VDU card (for Prestel and Ceefax information) An in-board connector for a communications loop interface - any number of ATOMs may be linked to each other or to a master system with mass storage/hard copy facility. \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Paul Durrant\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Acorn_Atom_Advert_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/acorn_atom_jcs-ad_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [
+    {
+      "platform": "MS DOS emulator",
+      "name": "Acorn Atom Emulator",
+      "link": "http://www.homepages.hetnet.nl/~wouterras/atom.htm"
+    },
+    {
+      "platform": "MS DOS emulator",
+      "name": "The BBC Lives !",
+      "link": "http://www.nvg.org/bbc/emulators.php3",
+      "description": "This excellent site has a complete list of Acorn systems emulators"
+    },
+    {
+      "platform": "Apple emulator",
+      "name": "ATOMAC",
+      "link": "http://www.p-skids.freeserve.co.uk/#Atomac",
+      "description": "Simple ATOM emulator for Mac"
+    },
+    {
+      "platform": "Unix / Linux emulator",
+      "name": "Acorn Atom Emulator",
+      "link": "http://home.wxs.nl/~faase009/Ha_Atom.html"
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "MESS emulator",
+      "link": "http://www.mess.org/",
+      "description": "The MESS project can emulate the Acorn"
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d850",
+    "computer.asp?st\u003d1\u0026amp;c\u003d989",
+    "computer.asp?st\u003d1\u0026amp;c\u003d729",
+    "computer.asp?st\u003d1\u0026amp;c\u003d29",
+    "computer.asp?st\u003d1\u0026amp;c\u003d121",
+    "http://www.howell1964.freeserve.co.uk/Acorn/Atom/Atom.htm",
+    "http://www.acornusers.org/",
+    "http://home.wanadoo.nl/hhaydn/",
+    "http://www.landfield.com/faqs/acorn/games/",
+    "http://home.wanadoo.nl/hhaydn/index-e.html",
+    "http://members.aon.at/~musher/bbc/essentials.htm",
+    "http://www.xs4all.nl/~fjkraan/comp/atom/atap/",
+    "http://www.xs4all.nl/~fjkraan/comp/",
+    "http://www.strafom.force9.co.uk/bbc/Retrobbc/Index.htm",
+    "http://8bs.com/",
+    "http://bbc.nvg.org/",
+    "http://www.stairwaytohell.com/",
+    "http://www.poppyfields.net/acorn/",
+    "http://www.users.globalnet.co.uk/~thoth/atom/atom.htm",
+    "news:comp.binaries.acorn",
+    "news:comp.sources.acorn",
+    "news:comp.sys.acorn.advocacy",
+    "news:comp.sys.acorn.announce",
+    "news:comp.sys.acorn.apps",
+    "news:comp.sys.acorn.hardware",
+    "news:comp.sys.acorn.misc",
+    "news:comp.sys.acorn.networking",
+    "news:comp.sys.acorn.programmer"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/Acorn_Atom_System_s2.jpg",
+  "builtInGames": "Basic, machine-code",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

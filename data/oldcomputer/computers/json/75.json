@@ -1,0 +1,158 @@
+{
+  "name": "Archimedes",
+  "manufacturer": "Acorn Computer",
+  "type": "Home Computer",
+  "origin": "United Kingdom",
+  "year": "1987",
+  "production": "1989",
+  "language": "BBC BASIC V",
+  "keyboard": "Complete 102 keys full-stroke keyboard - PC/AT layout",
+  "cpu": "ARM-2 32 bit RISC (ARM-3 in the A500 series)",
+  "speed": "4 / 8 mHz",
+  "coprocessor": "MEMC (memory), VIDC (Video and Sound), IOC (I/O)",
+  "ram": "512 KB (up to 16 MB)",
+  "vram": "",
+  "rom": "512 KB",
+  "text": "132 chars. x 32 lines maximum",
+  "graphics": "21 screen modes, including: 640x480 (256 colours), 640 x 512 (256 colours), 800x600 (16 colours), 896x352 (256 colours), 1280x960 (monochrome)",
+  "colors": "256 maximum",
+  "sound": "8 voices",
+  "size": "",
+  "ports": "Centronics, RS423, Video composite, RGB, Econet (network 250 KBits). Optional 4 expansion slots (podule slots), the 400/500 series came with 4 slots.",
+  "power": "Built-in switching power supply unit",
+  "price": "A300: from $800 to ?1200 - A400: up to ?3150, depending on the monitor supplied",
+  "description": "\nThe Archimedes was the first RISC home computer. There were three series, the 300, 400 and 500 which shared the same hardware basis: the ARM-2 processor (ARM-3 for the A500) and three custom chips dedicated to memory (MEMC), video (VIDC) and I/O (IOC) controls.\n\nThe ARM 2 RISC (8Mhz) had about 4 Mips, this means seven times faster than a Amiga 500 (68000 CPU)!\n\nThe 300 series had 512 KB to 1 MB of memory and two expansion slots (64 pin). The 400 series had 1 to 4 MB of memory and four slots (three 64 pin and one 96 pin). The 500 series had 16 MB of RAM.\n\nThe operating system, first named Arthur then subsequently RiscOS, was in ROM along with the WIMP graphic interface (Windows Menu Icon Pointer), the fast BBC BASIC V interpreter and various utility programs, among them a Paint package, a music editor and an Acorn BBC model 2 emulator.\n\nThe built-in 800 KB 3.5\u0026quot; floppy drive was compatible with the old 640 KB format. A lot of expansion cards were developed for the Archimedes : MIDI, SCSI, Oscilloscope, IEEE 488, speech recognition, scanner, floating point co-processor.\n\nMany programming languages were released as well : BASIC (which could be loaded from disk and ran faster than the ROM BASIC), C, Fortran 77, Pascal, Prolog and Lisp.\n\nAlthough it was at least two times faster than the Atari ST and Amiga models, the Archimedes had no real success because of its high price, except in its country of origin (Great Britain) where it was very well-known and commonly used (especially in schools).\n\nThese computers were followed by a great family of computers called RISC PC which are still in production.\n\nHere are the different Archimedes A300 - A400 - A500 versions :\n\nA305 - 512 KB RAM\nA310 - 1 MB RAM\nA410 - 1 MB RAM \nA420 - 2 MB RAM, 20 MB Hard disk \nA440 - 4 MB RAM, 40 MB Hard disk\nA540 - 16 MB RAM, 120 MB Hard Disk\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LARGE VIEW\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_Archi440_LeftSide_S1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRONT VIEW\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_Archi440_FrontSide_S1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TOP VIEW\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_Archi440_TopView_S1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR SIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_Archi440_RearSide_S1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;440/I FRONT PANEL CLOSE-UP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_Archi440_FrontPanel_S1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;KEYBOARD CLOSE-UP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The keyboard has the same layout as a standard PC/AT keyboard with the addition of a reset switch, a mouse plug and a plastic stand which allowed users to insert command summaries for various programs.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_Archi440_Keyboard_S1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR CONNECTORS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(1)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Optional buffer card connector. Allows connection of an external 5.25\u0026quot; floppy disk unit.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(2)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Monochrome monitor Video and Sync jacks\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(3)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Analog RGB video output DB9 plug\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(4)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Serial DB9 plug\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(5)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Stereo audio output jack\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(6)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Parallel DB25 plug\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(7)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Power in and out plugs and power switch\u0026lt;br\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_Archi440_RearSide_S2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(1)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Optional drive buffer\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(2)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 4 expansion connectors back plane\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(3)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; The 440/I version shipped with a 53 MB HDD\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_Archi440_Inside_S1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MAINBOARD EXPLAINED\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(1)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt;  2 MB RAM chips (32 x 84256-10)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(2)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt;  Memory controller custom chip (improved in the 400 series) \u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(3)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt;  Acorn ARM-2 processor\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(4)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt;  Expansions back plane connecctor\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(5)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt;  RISC OS 3 and built-in programs ROM chips\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(6)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt;  Video controller custom chip\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(7)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt;  Econet card connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(8)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt;  I/O controller custom chip\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(9)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt;  MFM hard disk drive connectors. Up to 2 HDD can be connected\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(10)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt;  Floppy disk drive connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(11)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt;  HDD and FDD controller chips\u0026lt;br\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_Archi440_Mainboard_S1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ACORN MANUALS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_Archi440_Manuals_S1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FIRST AD (SEPT. 87)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;It is unlikely that this hideous advert helped early sales of the Archimedes.\u0026lt;br\u0026gt; It said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; Acorn are proud to announce the fastest micros in the world * The Archimedes high performance Computer Systems * Using a 32 bit RISC chip, Archimedes represents a breakthrough in microprocessing technology allowing a new order of magnitude in power...\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Acorn_Archimedes_Advert_1.jpg"
+    }
+  ],
+  "hardware": [
+    {
+      "type": "CARDS",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Acorn_A39000_486card_1.jpg",
+          "description": "486 card||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;486 CARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Allowed Archimedes series computers to run 32-bit PC-DOS software.  It was delivered with a manual, a driver disk and PC-DOS 6.3\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Acorn_A5000_ColorCard_1.jpg",
+          "description": "Graphics accelerator||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GRAPHICS ACCELERATOR\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Graphics accelerator card (called \u0026quot;ColourCard\u0026quot;) for A3000, Archimedes and A5000.\u0026lt;br\u0026gt;  Company : Computer Concepts\u0026lt;br\u0026gt; Enhanced potential for Archimedes series including 15-bit desktop modes (i.e. 800*600 @ 256 colours).\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Chris Syntichakis\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Acorn_A5000_SCSICard_1.jpg",
+          "description": "Cumana SCSI card||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CUMANA SCSI CARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;16-bit SCSI-1 card\u0026lt;br\u0026gt;  Company: Cumana.\u0026lt;br\u0026gt; There are an external port for scanners/CD-ROM etc. and 2 internal ports for SCSI and Floptical drives.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Chris Syntichakis\u0026lt;/b\u0026gt; \u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Acorn_A5000_SerialCard_1.jpg",
+          "description": "Serial card||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SERIAL CARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;From Atomwide\u0027s site:\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; High speed serial card featuring three ports, each in the shape of a standard 9-pin \u0026lsquo;D\u0026rsquo; plug. Each port on the card is capable of running at up to 460,800 bits per second, and employs a 16-byte FIFO buffer to reduce loading on the host computer\u0026rsquo;s processor, so improving communications reliability. All serial cards are standard single-width podules, and are fully compatible with Atomwide 6 and 8-slot RiscPC backplanes.\u0026lt;/font\u0026gt; \u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Acorn_A4000_MidiCard_s1.jpg",
+          "description": "MIDI card||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MIDI CARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Allowed Archimedes systems to interact with any midi sound device.\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    }
+  ],
+  "emulator": [
+    {
+      "platform": "MS DOS emulator",
+      "name": "Archie",
+      "link": "http://www.geocities.com/SiliconValley/Campus/5427/",
+      "description": "Archie is an emulation of the Acorn Archimedes hardware (A3xx/A4xx/A3xxx) for Dos/Windows"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "Arculator",
+      "link": "http://b-em.bbcmicro.com/arculator/",
+      "description": "An excellent Windows-based Archimedes emulator, plays many games and has simple usage."
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "Red Squirrel",
+      "link": "http://www.red-squirrel.org/",
+      "description": "A popular Archimedes emulator"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "Red Squirrel",
+      "link": "http://www.red-squirrel.org/",
+      "description": "An Emulator of Arm based Acorn machines for Windows 98/ME/2000/XP"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "Virtual Acorn",
+      "link": "http://www.virtualacorn.co.uk/",
+      "description": "Excellent but commercial software - £30 "
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "ARCHIE",
+      "link": "http://www.geocities.com/siliconvalley/campus/5427/",
+      "description": "Archie is an emulation of the Acorn Archimedes hardware (A3xx/A4xx/A3xxx) for DOS/Windows"
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d31",
+    "computer.asp?st\u003d1\u0026amp;c\u003d697",
+    "computer.asp?st\u003d1\u0026amp;c\u003d707",
+    "computer.asp?st\u003d1\u0026amp;c\u003d706",
+    "computer.asp?st\u003d1\u0026amp;c\u003d709",
+    "computer.asp?st\u003d1\u0026amp;c\u003d710",
+    "computer.asp?st\u003d1\u0026amp;c\u003d931",
+    "http://acorn.revivalteam.de/"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/Acorn_Archi440_System_S1.jpg",
+  "builtInGames": "BBC BASIC V",
+  "controllers": "",
+  "media": "800 KB 3.5\u0027\u0027 floppy drive, 3.5\u0027\u0027 disk-drive, from 20 to 53 MB",
+  "numGames": "",
+  "peripherals": "Various expansion cards",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

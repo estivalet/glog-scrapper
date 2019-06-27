@@ -1,0 +1,149 @@
+{
+  "name": "ABC 210 / Cambridge Workstation",
+  "manufacturer": "Acorn Computer",
+  "type": "Professional Computer",
+  "origin": "United Kingdom",
+  "year": "October 1984",
+  "production": "mid 1985, never reached full production",
+  "language": "BBC Basic, Pandora (BIOS)",
+  "keyboard": "Standard QWERTY, 10 function keys + arrows, plus numeric keypad and Tube switch",
+  "cpu": "NMS32016",
+  "speed": "4,6,8,10MHz (depending on source)?",
+  "coprocessor": "MOS 65C02 (I/O board, essentially a BBC B+)",
+  "ram": "64K + 4096K",
+  "vram": "Taken from main RAM, up to 44K?",
+  "rom": "32K, expandable",
+  "text": "80 x 32/25 (2 colors) / 40 x 32/25 (2 or 4 colors) / 20 x 32 (16 colors) / 40 x 25 (Teletext display)",
+  "graphics": "640 x 256 (2 colors) / 320 x 256 (4 colors) / 160 x 256 (16 colors)",
+  "colors": "16 (8 colors + flashing option)",
+  "sound": "3 channels + noise \u0026amp; envelope control, 7 octaves, optional TMS5220 speech",
+  "size": "A little larger than a 17\u0027\u0027 monitor!",
+  "ports": "1MHz BUS, Analogue, RGB, Disk, RS423, Mouse (option), BT Link (option; modem?), User port, Econet, internally SCSI may be available",
+  "power": "Built-in PSU, 240V AC",
+  "price": "Unknown - may never have been officially released",
+  "description": "\nThe Acorn Cambridge Workstation was the only model from the announced, marketed but unreleased ABC (Acorn Business Computer) line, first claimed to be available in October 1984. The ABCs were a range of machines using an integrated monitor, disk drive, PSU and BBC B+ 64K motherboard with slight modifications, originally featuring CPUs from straight 6502 terminals to an 80286 based system.\n\nDifferences between the released Cambridge Workstation and the 32016 co-processor and ABC models were minor. Instead of the ABC 200 series\u0027 512K or 1024K RAM, the Cambridge had 4096K, and a 20 MB HD instead of 10 MB. The Tube-connected board is very different from the 32016 co-processor, which also featured 1024K RAM. Internally the I/O board (a modified BBC B+) differed from a regular B+ in that the Econet system was fitted, the RF modulator was omitted, as was the sideways RAM expansion header and the header for the PHROM socket on the B\u0027s keyboard. The underside connections were upright instead of flat, but fully-featured. \n\nConnected to the 1MHz bus internally were a mouse board (optional) with 2 connectors, one leading to a space for a further option (such as an internal modem), one leading to the SCSI controller which appears to be electronically identical to the internal modem-slot SCSI of the BBC Master Domesday machine. The SCSI controller was connected to an Adaptec MFM controller and a 20 MB hard disk. \n\nThe Tube connector wasn?t replicated externally, and linked to the 32016. A switch on the machine\u0027s keyboard allowed the Cambridge to run as a BBC B+ (the ROM identifies itself as a Cambridge Workstation with ADFS, then boots into BASIC without announcing it - OS is 2.10, same as a B+). Switching modes is destructive, rebooting the machine. As the BBC B+ handles all I/O, it is a slight bottleneck to the 32016, however for the time it was still an impressively fast computer. \n\nThe internal construction is very interesting. The monitor case has overcenter catches and lifts off (with some delicacy), revealing the display and not much else. Each side has a board carrier, one containing the 32016 and RAM, the other containing 1MHz bus devices. Once these are detached, 4 more catches release the monitor and it hinges up and forward, revealing the BBC B+ \u0026quot;I/O board\u0026quot;. There are sockets for Speech (I have installed this option) and sideways ROMs - in theory any expansion for a B+ would work provided there is clearance. There is a volume control, explaining the connectors that are unused on the B+, and the keyboard\u0027s 25 pin (not fully populated) D-sub connector has a wire stripped off and directed to the co-processor board, but is otherwise electronically identical to a BBC keyboard!\n  \nThe Cambridge was a dead-end for Acorn. Olivetti killed the project when they took over, though at least one exists with an ARM1 co-processor installed (perhaps user-added, but rumoured to be a real Acorn development machine). It\u0027s clearly an unfinished machine, and PANOS was yet another dead end, utilised seemingly because the intended OS - Xenix - required an MMU which the 32016 family lacked. It wasn\u0027t the only deviation from the widely-held belief that Acorn ignored CPUs other than the 6502 until the Archimedes range was launched, as the Acorn Communicator (another dead end, the case of which would later become the Master Compact) used the 65C815 16-bit CPU and the Master 512 used the 80186. Had Acorn released the ABC range it would have been too late to secure the marketplace for the apparent cost of constructing them, and the Cambridge, without any real OS or applications support, survived as a machine purely for academic use - offering remarkable computing power for the era and allowing students to compile their programs without having to time-share on a mainframe. The potential would have been enormous had it been marketed with a GUI at a time when the Macintosh could only muster 128 or 512K with no colour support...\n\n\n_________\n\nThanks A LOT to Richard Kilpatrick for all this info and pictures! Contact him if you are a user of this system, or have manuals, OS disks, software or anything related to it.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;OPENED\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/acorn_abc210_opened_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;OPENED #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/acorn_abc210_opened.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;NICE AD (1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;As computing was a serious and professional subject, the humorus adverts was rare in 1983.\u0026lt;br\u0026gt; This one said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; When I told my Dad about NEC TREK, NEC\u0027s new personal computer, he wanted one right away.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; I told him it has 10 programmable function keys; high powered graphic capabilities, powerful Microsoft BASIC included, and a 8-octave programmable musical tone generator.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; He said it has lot of \u0027fun games\u0027. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; I told him how its memory storage can interface with cassette diskette or cartridge, and how it has a wide variety of of sophisticated software available - important things like financial management package...\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; He just challenged me to a game of Protector.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; That\u0027s my Dad. I love him, but sometimes I wish he could understand how a kid feels.\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Nec_PC6001_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Z-2 1977 ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said: Cromemco microcomputers are the fastest and most powerful available. They use the Z80 microprocessor which is widely regarded as the standard of the future. So you\u0027re in the technical fore with the Z-2\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Cromemco_Z2_Advert1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROUD FATHER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_to7_promotional-guide_proudfather.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT #2 (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;As the first advert campaing was not a good idea, NEC of America replaced it with this one... which was not better\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Nec_APC_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT #2 (SEPT. 1987)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sega_sms_advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; No waiting for software\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; ...This exciting micro has fired the imagination of programmers who are busy developping new software to take full advantage of its performance capabilities...\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; No wait state\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; ...One advantage is the total elimination of memory access wait states so that interaction between the processor, RAM and disk drive is speeded up...\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; A free p-System for those who don\u0027t wait \u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; ...A free p-System operating system and PASCAL, FORTRAN 77 and BASIC compilers which alone lists for $1475, we\u0027re now including free with the Sage II...\u0026lt;/font\u0026gt;  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sage_II_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN AD #3\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Part of a software advert\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;www.sharpmz.org\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sharp_MZ700_Advert_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0027\u0027PB 700, the extensible personal computer\u0027\u0027\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/casio_pb700_advert_extensible.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (FEB. 1986)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Educatel advert for their correspondance courses using the Microlab system.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/educatel_microlab_advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/northstar_horizon_ad1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert on the Peerless 150 terminal\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Peerless_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;One of the first 1982 U.S. Advert.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Advert said \u0026lt;br\u0026gt;\u0026lt;br\u0026gt;THE COMMODORE 64 COULD BE THE MICROCOMPUTER INDUSTRY\u0027S OUTSTANDING NEW PRODUCT INTRODUCTION SINCE THE BIRTH OF THIS INDUSTRY.  (Shearson / American Express) \u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt;             The value of a computer is determined by what it can do. What it can do is largely determined by its memory.\u0026lt;br\u0026gt;             The Commodore 64\u0027s basic RAM is 64K. This amount of power is unusual in a micro at any price.\u0026lt;br\u0026gt;             At $595 it is astonishing.\u0026lt;br\u0026gt;             Compared with an Apple II+, for instance, the Commodore 64 offers 33% more power and considerably les than 50% of the cost.\u0026lt;br\u0026gt;             Compared with anything else, it\u0027s even more impressive...\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;             If you\u0027ve been waiting for the \u0026quot;computer revolution\u0026quot;, consider it as having arrived...  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Commodore_64_Advert_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1979)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt;You know about computers. In fact, you probably own one now. One that you might be thinking of expanding. We have a better idea. Take a giant step into the personal computing future with an amazing, new C4P from Ohio Scientific...\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; ...The C4P is an outstanding premium computer - years ahead of the market. We know because there\u0027s nothing quite like it for the price, anywhere. And probably won\u0027t be for a very long time.\u0026lt;/font\u0026gt; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; About the DISPLAY paragraph:\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt;\u0026lt;br\u0026gt; \u0026quot;256 x 512 effective graphic points\u0026quot;\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;/font\u0026gt; \u0026lt;b\u0026gt;Kurt Vogel\u0026lt;/b\u0026gt; rectifies:\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt;\u0026lt;br\u0026gt; The C4P did NOT have a 256x512 graphics mode!  If it had, that would have been amazing for the price way back then.  Instead, it had a 32x64 character display and claimed that because each character was made up of a 8x8 grid that that was supposed to count as 256x512 graphics.  Even given that they used an extended 8 bit character set that included special line and shape characters, you were NEVER able to address indivual pixels!\u0026lt;/font\u0026gt;       \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Ohio_C4P_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERTISEMENT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/ai_electronics_abc24_pub.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;POPULAR ELECTRONICS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Cover and extracts of a 6 page article in the January 1975 issue of Popular Electronics\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Altair_8800_PopularElectronics_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US AD. 1983 #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Hard disk version\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026quot;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt;No matter how you look at it, KAYPRO is the best value you will see anawhere...\u0026lt;/font\u0026gt;\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Kaypro_II_KaycompAd_4.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;KIT VERSION (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sinclair_ZX81_KitAdvert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LISA ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;He is rich (enough to buy a LISA !), he is relaxed... He is the typical advertising executive of the 80\u0027s.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Lisa_Advert_bind.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ARGENTINIAN ADVERT \u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.speccy.org/czarg/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;CZARG\u0026lt;/a\u0026gt; for this picture.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/cz_cz-2000_ad_arg_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.guiguy.com/Schiff/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;www.guiguy.com/Schiff/\u0026lt;/a\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/seequa_chameleon_brochure_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US BROCHURE (VERSO)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Chris Collman for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sanyo_mbc1000_brochure_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (DEC. 1987)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/commodore_amiga500_pub_pour-faire-fort.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp; U.S. AD #2 (1983)  \u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Despite the M20 was neither software nor hardware compatible with any other computer, Olivetti had to prove that it had more computing power at a smaller pice than any competitor.  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Olivetti_M20_Advert_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sinclair_spectrum-plus_advert_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d756",
+    "computer.asp?st\u003d1\u0026amp;c\u003d990"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/acorn_abc210_1.jpg",
+  "builtInGames": "BBC Basic, Pandora (BIOS)",
+  "controllers": "",
+  "media": "20Mb SCSI-MFM HD subsystem, 5.25\u0027\u0027 FD",
+  "numGames": "",
+  "peripherals": "Most BBC accessories are suitable",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

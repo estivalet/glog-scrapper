@@ -1,0 +1,75 @@
+{
+  "name": "Apricot PC",
+  "manufacturer": "ACT",
+  "type": "Professional Computer",
+  "origin": "United Kingdom",
+  "year": "September 1983",
+  "production": "",
+  "language": "Microsoft Basic-86 and Basic Personal delivered on disks",
+  "keyboard": "Full-stroke keyboard, 101 keys, 8 function keys, 6 dynamic function keys (membrane keys)Built-in 40 characters x 2 lines LCD screen",
+  "cpu": "Intel 8086",
+  "speed": "4,77 Mhz",
+  "coprocessor": "Intel 8089 (for in/out tasks), 8087 optional arithmetic co-processor",
+  "ram": "256k, up to 768k",
+  "vram": "",
+  "rom": "Unknown",
+  "text": "80 x 25, 132 x 50 (character matrix 10 x 16)",
+  "graphics": "800 x 400 dots",
+  "colors": "Monochrome (colours facilities)",
+  "sound": "1 tone channel",
+  "size": "Main unit : 42 x 32 x 10 cmMain unit : 6,4 kg / Monitor : 4,1 kg / keyboard : 1,5 kg",
+  "ports": "RS232c, Centronics, 2 x Apricot expansion slots",
+  "power": "Built-in PSU",
+  "price": "2 x 315k floppies : 6080   (France, september 84)2 x 720k floppies : 6840   (France, september 84)",
+  "description": "\nAfter having imported the Victor Sirius for years in the UK, ACT produced its own computer largely inspired by the Sirius : the Apricot PC.\n\nIt was supposed to be transportable as there is a handle on the main-unit ! If you really want to move your Apricot this way, the keyboard can be clipped to the main-unit. \n\nSeveral features made this computer quite technically innovative :\n? the Apricot PC was possibly the first computer outside Japan to use 3.5\u0027\u0027 disk-drives (315k or 720k),\n? the graphics quality and features were excellent (800 x 400) and came directly from the Victor Sirius,\n? the keyboard was quite original with 8 \u0026quot;normal\u0026quot; and 6 flat programmable function keys along with a built-in LCD screen (40 characters / 2 lines) which displayed the function of the keys. This feature was largely used by the included software, but not much by third-party software.\n\nThis small LCD screen could also display the current line of text you\u0027re working on and there\u0027s even a contrast knob on the right of the keyboard. \n\nIt\u0027s possible to transfer files and some software from a Sirius or an IBM PC to the Apricot PC by connecting them with a special cable.\nThere\u0027s also an IBM PC emulator which forces the Apricot to act like an IBM PC. It works well for some applications but not all. \n\nSome software was supplied with the Apricot PC : Supercalc, various system tools, asynchronous communication, IBM-PC emulator, Microsoft Basic-86, Basic Personal and ACT Manager (a graphical interface for MS-DOS). Word, Multiplan, Wordstar, dBase II, C-Pascal, Pascal UCSD, C, Fortran, Cobol and Basic Compiler 5.35 were available optionally.\n \nIn 1984, ACT launched new versions of the Apricot PC with built-in hard-disks and a different colour case. They were called Apricot Xi.\n\n_______________________\n\nAbout IBM/PC compatibility, Greg Taylor specifies:\nConcerning the early Apricot PCs (including the Xi) the reason they could not run all MS-DOS programs is that while they came with a copy of MS-DOS, they did not have an identical BIOS so any calls to specific BIOS modules could often fail.\nFor example, dBase III could not run (on mine anyway) but a competitor product called (I think) DBXL did run.  That apart, they were very nice computers for their time with 3.5\u0026quot; disks (nearly everyone else was still using 5.25\u0026quot;) and high-quality graphics.\n\nIan Foggon reports:\nThe original Apricot PC also came in another flavour you have not listed. It was possible to have these units upgraded to 286 IBM compatible standard by Apricot UK.  This involved the replacement of the motherboard and the addition of a 20Mb Miniscribe HDD in the place of one of the Sony 3.5? FDDs. My Father had this done to his Apricot PC back in 1988. These units had their own specially written manuals, and the keyboards were re-keyed to make them IBM compatible too.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE THE APRICOT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;A single board and a clear design for an unanimously recognized reliability, even several years after the Apricot\u0027s launch. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; Serial RS 232 connector for printers and modems. \u0026lt;br\u0026gt;  \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; Parallel/Centronics printer connector. \u0026lt;br\u0026gt;  \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; These 2 ROMs hold the BIOS, the boot program and various self-checking routines. \u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(4)\u0026lt;/b\u0026gt; Two expansion connectors (Apricot specific). Memory expansions or a modem can be connected.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(5)\u0026lt;/b\u0026gt; optional Intel 8087 mathematical co-processor.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(6)\u0026lt;/b\u0026gt; 16-bit 8086 microprocessor (with a 16 bit bus, unlike the 8088 which only offers an 8 bit bus). \u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(7)\u0026lt;/b\u0026gt; Circuit dedicated to Input/Output (screen, keyboard, peripherals...). \u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(8)\u0026lt;/b\u0026gt; 256 KB original RAM consisting of 32 chips. \u0026lt;br\u0026gt;  \u0026lt;b\u0026gt;(9)\u0026lt;/b\u0026gt; The Apricot is the first professional computer to adopt the new 3,5\u0026quot; disk format from Sony, which can store 315 KB (single-sided) or 720 Kb. (double-sided).\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(10)\u0026lt;/b\u0026gt; 9 inch monochrome monitor (green phosphor). The display is very accurate. \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/s_apricot_act_inside.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;AN ORIGINAL KEYBOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;It\u0027s a pity that our modern PCs didn\u0026rsquo;t follow this idea of integrating a programmable LCD display into the keyboard. The Apricot\u0027s one is very useful, it can display time, some text, or can be used as a calculator. Associated with its six sensitive function keys, it can also display the different functions of currently running software.  \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; Eight traditional function keys.\u0026lt;br\u0026gt;  \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; Six sensitive programmable function keys.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; 2 line x 40 character LCD display.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/s_apricot_act_keyboard.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT, OCT. 1983\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert says:\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; A computer that, for the first time, works with you rather than just for you. Hardware and Software co-ordinating perfectly, Apricot arrives complete and ready to work.\u0026lt;br\u0026gt; The MicroScreen on the keyboard, unique to Apricot, performs a variety of practical functions as a calculator, calendar, time display, and as a window on the screen. Most signifIcantly the MicroScreen prompts and assists the user by presenting simple options whilst running applications.\u0026lt;br\u0026gt; Incorporating the very latest advances in computer technology, Apricot uses 31/2\u0026quot; pocket-size diskettes. Secure and compact, yet offering increased storage capacity.\u0026lt;br\u0026gt; As you\u0027d expect with a 4th generation system, Apricot offers true 16-bit processing, multi-processor architecture and 256k RAM as standard. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; With Pulsar 16-bit business software and compatibility with the best selling ACT Sirius 1 and IBM PC, Apricot already has the largest available software library. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Apricot includes over \u0026pound;750 of software\u0026shy; - SuperCalc spreadsheet, business and communications software - to ensure that your system is immediately effective. And because executives are not office bound, Apricot offers portability, a further feature aimed at improving efficiency.\u0026lt;br\u0026gt; Powerful sleek and sophisticated and all at an amazing 4th generation price.\u0026lt;/font\u0026gt; \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Act_Apricot_Advert_s1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [
+    {
+      "platform": "MS DOS emulator",
+      "name": "APE Plus : Apricot Emulator",
+      "link": "http://www.ansible.demon.co.uk/ai/ape.html",
+      "description": "Commercial emulator that emulates PC/Xi/Xen, the `F\u0027 Series, and the Apricot FP Portable"
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "QDAE",
+      "link": "http://www.seasip.info/Unix/QDAE/",
+      "description": "QDAE is a Quick and Dirty Apricot Emulator for Linux, Windows and MacOS X. This version emulates the Apricot F1; it may support other F-series Apricots as well."
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d495",
+    "computer.asp?st\u003d1\u0026amp;c\u003d493",
+    "computer.asp?st\u003d1\u0026amp;c\u003d492",
+    "computer.asp?st\u003d1\u0026amp;c\u003d501",
+    "computer.asp?st\u003d1\u0026amp;c\u003d500",
+    "http://www.actapricot.org/home/",
+    "http://groups.yahoo.com/group/actapricot/"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/act_apricot-pc_1.jpg",
+  "builtInGames": "Microsoft Basic-86 and Basic Personal delivered on disks",
+  "controllers": "",
+  "media": "1 or 2 x 3\u0027\u00271/2 disk-drives (315k or 720k), optional 5Mb and 10Mb hard-disks",
+  "numGames": "",
+  "peripherals": "1 additional 3\u0027\u00271/2 disk-drives, 5Mb and 10Mb hard-disks, trackball, printer,  plotter",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

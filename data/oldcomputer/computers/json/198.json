@@ -1,0 +1,140 @@
+{
+  "name": "PX 8 / HC-88 / Geneva",
+  "manufacturer": "Epson",
+  "type": "Portable",
+  "origin": "Japan",
+  "year": "1984",
+  "production": "",
+  "language": "Microsoft Basic",
+  "keyboard": "Full-stroke 72 key with function keys and cursor keys",
+  "cpu": "Zilog Z80 (+ Hitachi 6301 for I/O)",
+  "speed": "2.45 MHz (Z80) / 614 KHz (6301)",
+  "coprocessor": "",
+  "ram": "64 KB (up to 184 KB)",
+  "vram": "6 KB",
+  "rom": "32 KB",
+  "text": "8 lines of 80 characters",
+  "graphics": "480 x 64 dots",
+  "colors": "LCD monochrome display",
+  "sound": "beeper - Volume control",
+  "size": "29.7 (W) x 21.6 (D) x 4.6 (H) cm (A4 size)  / 1.8 Kg",
+  "ports": "RS232, bar code reader, bus, ADC, cartridge, analog in (2)",
+  "power": "External 6V. AC adaptor and rechargeable Ni-cad battery",
+  "price": "?7981990 FF (France, january 1988)",
+  "description": "\nThe PX-8 was the successor of the PX-4 and HX-20. The main improvement was a twice bigger flip-up LCD screen.\n\nIt was sold with four cartridges which could be added to the base of the unit: a BASIC Programming Language, CardBox Plus, a diary for 400 names and addresss, Calc, a spreadsheet and WordStar the well known word processor. A double 5.25\u0026quot; floppy drive was available, and an Epson developed stand alone 3.5\u0026quot; floppy drive.\n\nThe PX-8 was designed to be compatible with CP/M programs but these may need some modifications due to the display system. Actually, 8 lines of 80 characters were shown at any one time, but the display could be scrolled through up to 48 lines.\nIt may also act as a terminal for other computers. \n\nThe PX-8 was sold as HC-88 in Japan and Geneva in the USA.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;HC-88 (JAPANESE MODEL)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/epson_hc88.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;COMPLETE SYSTEM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Complete PX-8 system with 3.5\u0026quot; FDD unit and acoustic modem.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Epson_PX8_SystemFdModem_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PX-8 DISPLAY\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;CP/M RAM drive directory\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Epson_PX8_Display_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;READY FOR TRAVELLING\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Epson_PX8_Closed_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;RIGHT SIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Notice the power switch and the contrast adjustment knob.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Epson_PX8_RightSide_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LEFT SIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The system reset switch needs a pen to be pushed.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Epson_PX8_LeftSide_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BOTTOM SIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Three trap doors allow BIOS ROM \u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt;, software and CP/M ROMs \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; as well as main battery \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt;) to be replaced.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Epson_PX8_Bottom_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MICROCASSETTE DRIVE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The microcassette drive can be operated manually or managed by software. A tape directory placed at the beginning of each cassette allows the tape drive to be seen like a floppy disc drive by the operating system.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Epson_PX8_TapeRec_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR CONNECTORS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; Speaker or headphones output jack\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; Analogue/digital converter input jack\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; Barcode reader input jack\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(4)\u0026lt;/b\u0026gt; Bus expansion 50 pin connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(5)\u0026lt;/b\u0026gt; First serial RS-232 mini-Din connector, mainly intended to a printer\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(6)\u0026lt;/b\u0026gt; Second serial connector intended to a modem\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(7)\u0026lt;/b\u0026gt; External AC adaptor connector\u0026lt;br\u0026gt;  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Epson_PX8_RearCon_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REMOVABLE ROM SOFTWARE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Apart from the Microsoft Basic ROM \u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; (adapted to the specific characteristics of the PX-8), several CP/M applications were available : wordprocessor \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt;, spreadsheet \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt;, electronic diary, communication software,etc.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Epson_PX8_Eproms_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MOTHERBOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The compact board, the size of an A4 paper sheet, includes CP/M operating system, a smart mini-tape recorder, software stored on interchangeable ROMs and multiple extension possibilities. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; Bios ROM holding basic I/O routines (keyboard, display, etc)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; Z-80 microprocessor. Low power C-MOS version, running at 2.45 MHz.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; Custom Epson chip managing Z80 address and data buses\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(4)\u0026lt;/b\u0026gt; Cassette recorder unit\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(5)\u0026lt;/b\u0026gt; Main battery\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(6)\u0026lt;/b\u0026gt; C-MOS RAM battery backup. Saves memory content when the computer is switched off.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(7)\u0026lt;/b\u0026gt; Chipsets handling external communications (printer, disk-drive, tape recorder, internal loudspeaker)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(8)\u0026lt;/b\u0026gt; Removable ROM chips hold the CP/M operating system and a vast library of professional and utility software\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(9)\u0026lt;/b\u0026gt; Custom Epson chips managing ROM and RAM memory\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(10)\u0026lt;/b\u0026gt; RAM memory C-MOS chips (4 x 4265)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(11)\u0026lt;/b\u0026gt; Keyboard flat cable\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(12)\u0026lt;/b\u0026gt; 7508 chipset, used to convert the analogue signal (received from analogue jack) into digital information\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(13)\u0026lt;/b\u0026gt; 8251 UART chip. Manages Barcode reader information\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Epson_PX8_Mainboard_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MANUALS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Set of PX-8, peripherals and ROM software manuals.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Epson_PX8_Manuals_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GENEVA AD, OCT. 1985\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Epson_PX8_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GENEVA AD, NOV. 1985\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Epson_PX8_Advert_s2.jpg"
+    }
+  ],
+  "hardware": [
+    {
+      "type": "FD UNITS",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Epson_PX8_FDDunit_1.jpg",
+          "description": "PF-10 FDD unit||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PF-10 FDD UNIT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;3.5\u0026quot;, 360 KB, double side floppy disc drive unit. Can be operated with either internal Ni-Cd battery (90 mn life) or AC adaptor.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Note the dual serial mini-din plug allowing either a second floppy drive unit or a serial printer to be connected using the serial daisy chain.\u0026lt;br\u0026gt; Speed transfer rate is of 38.4 KB per second.  \u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Epson_PX8_TF15dualFDunit_s1.jpg",
+          "description": "TF-15 FDD unit|||Dual 5.25\u0027\u0027 floppy-disk unit|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TF-15 FDD UNIT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Dual 5.25\u0027\u0027 floppy-disk unit\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Each drive had 640 KB capacity (80 tracks x 16 sectors x 256 bytes). Information was transferred through a high speed serial interface, at 38,4 Kbits per second.\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "PRINTERS",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Epson_PX8_P80Xprinter_s1.jpg",
+          "description": "P-80X printer|||Thermal printer|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;P-80X PRINTER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Thermal printer\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This thermal printer featured a 24-pin head. The resolution was of 7 x 8 in draft mode, or 16 x 24 in LQ mode. Speed was of 22.5 to 45 CPS. It was powered by a Nicad battery and an AC adapter-charger.\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Epson_PX8_P40printer_s1.jpg",
+          "description": "P-40 Thermal printer||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;P-40 THERMAL PRINTER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The P-40 was a 40-80 column thermal printer which used 11 cm wide thermal paper rolls. It was powered by rechargeable batteries.\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Epson_PX8_P40printerBox_s1.jpg",
+          "description": "P-40 box||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;P-40 BOX\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;P-40 box with two boxes of five paper rolls.\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    }
+  ],
+  "emulator": [
+    {
+      "platform": "Windows emulator",
+      "name": "Takeda Toshiya\u0027s homepage",
+      "link": "http://homepage3.nifty.com/takeda-toshiya/",
+      "description": "one of the many emulators writtent by this awesome japanese guy"
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d143",
+    "http://pouet.net/prod.php?which\u003d50186",
+    "http://www.xs4all.nl/~fjkraan/comp/px8/"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/Epson_PX8_System_1.jpg",
+  "builtInGames": "Microsoft Basic",
+  "controllers": "",
+  "media": "small tape recorder",
+  "numGames": "",
+  "peripherals": "64 KB or 128 KB Memory expansion units, 3.5\u0027\u0027 and 5.25\u0027\u0027 FDD units",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

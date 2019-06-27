@@ -1,0 +1,103 @@
+{
+  "name": "1000 TX",
+  "manufacturer": "Tandy Radio Shack",
+  "type": "Home Computer",
+  "origin": "U.S.A.",
+  "year": "? 1986",
+  "production": "",
+  "language": "",
+  "keyboard": "Full stroke keyboard, 92 keys, 12 function keys",
+  "cpu": "Intel 80286",
+  "speed": "8 MHz",
+  "coprocessor": "",
+  "ram": "640 KB (up to 768 KB)",
+  "vram": "",
+  "rom": "",
+  "text": "80 x 25 / 40 x 25",
+  "graphics": "CGA/TGA, 160 x 200, 320 x 200, 640 x 200",
+  "colors": "16 colours",
+  "sound": "3 voices + 1 sound channel",
+  "size": "354 x 290 x 97 mm",
+  "ports": "keyboard, 2 x joysticks, monitor video output, composite video output, lightpen, parallel port, serial port, 5 internal expansion slots, audio mono output",
+  "power": "Built-in power supply",
+  "price": "$1000.00 US (1986)",
+  "description": "\nThe Tandy 1000 TX was similar to the Tandy 1000 in that it had an external keyboard and casing. The difference, however, was the addition of an 80286 CPU on the TX model; otherwise, it was nearly identical to the Tandy 1000, including the odd parallel port edge connector.\n\nThe TX had a 3.5\u0026quot; drive, with an optional 5.25\u0026quot; drive. It contained hookups for two joysticks in the front along with the keyboard, and included a volume control with a phono input on the front. The back had all of the same ports as the Tandy 1000. The memory size was 640k (upgradable to 768k, which was devoted to video) and the computer came bundled with Deskmate II.\n\nThe TX had a special function to the F4 key that would reduce the speed of the processor to half the normal rate for programs(mainly games) that 8-10 mhz was simply too fast for. To activate this function, you held down the F4 key during boot-up.\n\n__________\n\nContributors: Derek McDonald (aka ?Skel?), Casey\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1000 TX\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/tandy_1000tx_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/tandy_1000series_ad_1.jpg"
+    }
+  ],
+  "hardwareDescription": "",
+  "hardware": [
+    {
+      "type": "JOYSTICKS",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/tandy_1000_joy_1.jpg",
+          "description": "Tandy joystick||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TANDY JOYSTICK\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "MODEMS",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/tandy_1000_300baudmodem.jpg",
+          "description": "Tandy 300 baud modem|||with box \u0026amp; doc|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TANDY 300 BAUD MODEM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;with box \u0026amp; doc\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    }
+  ],
+  "emulator": [
+    {
+      "platform": "MS DOS emulator",
+      "name": "Tand-Em",
+      "link": "http://www.emu-france.com/?page\u003dfichiers\u0026amp;idMachine\u003d157",
+      "description": "Only dedicated Tandy 1000/IBM PC Jr emulator (offical site seems dead)"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "DOSBox",
+      "link": "http://sourceforge.net/projects/dosbox",
+      "description": "Exellent PC emulator to play old DOS games, including Tandy 1000 ones"
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "MESS",
+      "link": "http://www.mess.org",
+      "description": "This famous emulator can emulate Tandy 1000 systems"
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d1210",
+    "computer.asp?st\u003d1\u0026amp;c\u003d1213",
+    "computer.asp?st\u003d1\u0026amp;c\u003d1211",
+    "computer.asp?st\u003d1\u0026amp;c\u003d1218",
+    "computer.asp?st\u003d1\u0026amp;c\u003d1215",
+    "http://support.radioshack.com/productinfo/ProductResults.asp?Name\u003dTandy_Desktops\u0026amp;ID\u003d001001001",
+    "http://www.RadioShackCatalogs.com",
+    "http://r.webring.com/hub?ring\u003dtandy1000",
+    "http://www.brooksdeforest.com/tandy1000/",
+    "http://retrograde.trustno1.org/tandyroms.htm",
+    "http://www.oldskool.org/guides/tvdog/1kfaq.html",
+    "http://en.wikipedia.org/wiki/Tandy_1000",
+    "ftp://ftp.robertstinnett.com/mirror/Tandy1000/"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/tandy_1000tx_1s.jpg",
+  "builtInGames": "one 3.5\u0027\u0027 floppy disk drive + optional 20 MB hard disk or 5.25\u0027\u0027 floppy disk drive",
+  "controllers": "",
+  "media": "one 3.5\u0027\u0027 floppy disk drive + optional 20 MB hard disk or 5.25\u0027\u0027 floppy disk drive",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

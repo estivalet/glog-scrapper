@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computer>
+    <adverts>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;36 MHZ. IN 1982?&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The title of this advert was very optimistic. In fact, the 36 Mhz speed is obtained by adding the speed of the 9 x Z80 cards installed into the system. The maximum system speed was in fact 4 Mhz.&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/ibs_Betasystem_Advert_1.jpg</link>
+        </advert>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;64 BITS IN 1983?&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;After the optimistic 36 Mhz. speed, here is the 64 bits processing power... with 8 bits/Z80 cards. Here also, the 64 bits 'power' is obtained by putting eight 8 bits cards together in the case.&amp;lt;br&amp;gt; Not a very honest way to sell a computer that is no more than a classic S-100 / Z80 based system with some multi-user capabilities.&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/ibs_Betasystem_Advert_2.jpg</link>
+        </advert>
+    </adverts>
+    <batteries></batteries>
+    <builtInGames></builtInGames>
+    <buttons></buttons>
+    <colors>Unknown</colors>
+    <controllers></controllers>
+    <coprocessor></coprocessor>
+    <cpu>Z80</cpu>
+    <description>
+The BetaSystem was a S-100 BUS based system using a complete computer Z80 card that could handle two time-shared users. Up to nine cards could be installed in the case allowing up to 18 users / video terminals to be connected and used simultaneously.
+
+As usual with S-100 based systems, a large range of storage devices could be added to the system: 5.25&amp;quot;, 8&amp;quot; or 14&amp;quot; Winchester disk drives from 5 MB to 600 MB, 5.25&amp;quot; or 8&amp;quot; floppies, and tape cartridges up to 100 MB.
+
+Mainly based on the UCSD PASCAL operating system, the BetaSystem could also be used with CP/M and TurboDos O.S.
+ 
+
+
+</description>
+    <emulators/>
+    <graphics>Unknown</graphics>
+    <gun></gun>
+    <hardwares/>
+    <image>http://www.old-computers.com/museum/photos/ibs_Betasystem_System_1.jpg</image>
+    <keyboard>Video/keyboard serial terminal</keyboard>
+    <language></language>
+    <links/>
+    <manufacturer>Independant Business Systems</manufacturer>
+    <media></media>
+    <name>BetaSystem</name>
+    <numGames></numGames>
+    <origin>U.S.A.</origin>
+    <peripherals>S-100 boards</peripherals>
+    <ports>Unknown</ports>
+    <power>Built-in P.S.U.</power>
+    <price>Unknown</price>
+    <production></production>
+    <ram>128 KB per Z80 card</ram>
+    <rom>2 KB</rom>
+    <screenshots/>
+    <size>Unknown</size>
+    <sound>Unknown</sound>
+    <speed>4 Mhz.</speed>
+    <switches></switches>
+    <text>Unknown</text>
+    <type>Professional Computer</type>
+    <vram></vram>
+    <year>1982</year>
+</computer>

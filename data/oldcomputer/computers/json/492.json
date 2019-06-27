@@ -1,0 +1,179 @@
+{
+  "name": "Apricot Portable",
+  "manufacturer": "ACT",
+  "type": "Transportable",
+  "origin": "United Kingdom",
+  "year": "1984",
+  "production": "",
+  "language": "None",
+  "keyboard": "infrared membrane keyboard, 92 keys, 10 function keys and numeric keypad (same keyboard as the Apricot F1)",
+  "cpu": "lntel 8086",
+  "speed": "5 Mhz",
+  "coprocessor": "",
+  "ram": "256k, up to 1024k",
+  "vram": "128k with the color option",
+  "rom": "32k",
+  "text": "80 chars. x 25 lines (LCD screen)",
+  "graphics": "LCD screen : 640 x 200External monitor : 640 x 256 (8 colors simultaneously out of a palette of 16)",
+  "colors": "LCD display : monochromeColor option : 8 colors simultaneously out of a palette of 16",
+  "sound": "Beeper, Key click",
+  "size": "45 (W) x 20 (W) x 17.2 (H) cm / 5.8 kg",
+  "ports": "Centronics parallel, RS232 serial,RGB monitor, Apricot-compatible expansion slot",
+  "power": "Internal PSU",
+  "price": "256k model : ?1965 (UK, november 84)256k model : 3450  (France, april 85)512k model : 4413  (France, april 85)",
+  "description": "\nThis stylishly designed computer had a speech recognition feature along with a microphone clipped on the left side of the LCD screen. \n\nAn article published in Personal Computer World in November 1984 explained how the voice recognition system works : \n\u0026quot;The voice system on the Portable allows you to have a vocabulary file of up to 4096 words. However, only 64 words can be held in RAM at any one time, so a fair amount of shuffling is necessary with large vocabularies. \nBefore the system can understand your commands, it is necessary to create a vocabulary file and train the system to understand your voice. The Portable is supplied with a program which allows this to be done.\nThe first thing to do is to create a vocabulary disk file. You can have as many of these as you like. The training program prompts for a name and then opens a diskfile underthat namewith a .VOC extension. Next you enter the words you want to use, along with an optional command which you want the machine to respond to. Once you have entered all the words, you can go into training mode. To do this you speak the words into the microphone and the program records the voice patterns. The more times you repeat each word the better the result. \nAfter you have trained all the words you can go on to see how well the machine understands you.\u0026quot; \n\nThe keyboard had no leads - it communicates with the main unit through infrared signals. But if you put an object in between the keyboard and the main unit, communication stops ! It was the same membrane keyboard as used with the Apricot F1.\n\nThere was also an optional and quite innovative trackball available, but a classic Microsoft mouse could also be used through the serial port. \nThe Apricot Portable shipped with the \u0027Activity\u0027 front-end to the operating system, an enhanced version of the one delivered with the Apricot F1. It was quite \u0026quot;Mac\u0026quot; influenced with icon-based navigation and even a built-in icon editor ! \n\nThe Apricot Portable was supplied with a great deal of bundled software : SuperWriter, SuperCalc, SuperPlanner, ACT Diary, ACT Sketch and an interactive tutorial. \n\nThe built-in disk-drive located at the right-hand side of the main unit was a Sony 3.5\u0027\u0027 disk-drive, double-sided, 720k. ACT also supplied a little external 10 MB Rodime 3.5\u0027\u0027 hard disk called an MSD (Mass Storage Device).\n\nThe large LCD was the first full 25-line liquid crystal screen to be mounted on a portable computer. It was made in Japan by Hitachi, but ACT wasn\u0027t happy with the controller, so it designed its own (very fast) display controller chip. It\u0027s possible to adjust the contrast by holding down the CTRL and UP-ARROW or DOWN-ARROW keys together, but the angle of the display is fixed and cannot be tilted.\n\nBut the Apricot Portable can also be connected to an external monitor and with the colour option, can display 640 x 256 pixels in eight colours from a palette of 16. In addition it is also possible to display data on both displays at the same time. For example, when using Supercalc 3 you could display the spreadsheet model on the LCD at the same time as displaying graphs or pie charts on the monitor ! \nThe Apricot Portable could only be powered by mains power, there was no battery option available at all. Quite strange for a \u0026quot;portable\u0026quot; computer... \n\nThe Apricot Portable did not meet with great success and was considered rather as a gadget, given its LCD screen and voice recognition features, but lacking real compatibility with other Apricot computers, in addition to its limited portability. \n\nThe price was cut down in 1985, and a new version with 512k RAM was sold. The 256k model was then called FP-256, and the 512k model FP-512.\n\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;APRICOT PORTABLE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Next to it is the infra-red trackball.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/act_apricot_portable_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;WHITE KEYBOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This Apricot Portable had a white keyboard. This computer used the same keyboard as the Apricot F1 hence it\u0027s possible to find Apricot Portable systems with Apricot F1 keyboards mounted !  \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Notice that the trackball is also white instead of the black one normally sold with the Portable. Even the microphone clipped on right side of the LCD screen is white...\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Picture courtesy of \u0026lt;a href\u003d\u0026quot;http://members.tripod.lycos.nl/computermuseum/\u0026quot;\u0026gt;Allard\u0027s Computer Museum\u0026lt;/a\u0026gt;.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/act_apricot-portable_white-keyb.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CLOSED\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/act_apricot_portable_closed.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/act_apricot_portable_rear.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE EXPLAINED\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;In spite of several original innovations (speech recognition, infra-red data transmissions), the internal design of the Apricot Portable remained very traditional for the time. No specialized components were used to simplify the two electronic boards, which were heavily loaded with traditional circuits. Like all ACT models, this portable computer had, however great proven reliability.  \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; Liquid crystal display which can be used in text and graphic modes.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; The integrated microphone makes it possible to memorize 63 english commands which can be then used in software provided with the system.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; The 256 KB RAM is made up of 32 x 4164 memory chips (64000 x 1 bit cells). \u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(4)\u0026lt;/b\u0026gt; Motherboard using a great number of standard circuits.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(5)\u0026lt;/b\u0026gt; Sony 720 KB double-sided, double-density 3.5\u0026quot; disk drive. ACT was one of the first manufacturers to use this disk format.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(6)\u0026lt;/b\u0026gt; This interface board manages all inputs/outputs (Serial, Parallel, infra-red, keyboard, disk drive, interfaces).\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(7)\u0026lt;/b\u0026gt; These 2 ROMs hold the BIOS of the machine and basic routines for the MS-DOS and CP/M 86 operating systems.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(8)\u0026lt;/b\u0026gt; INTEL 8086 CPU running at 5 MHz, a true 16 bit microprocessor.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/s_Apricot_Port_Inside.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;\u0026pound;99 IN JANUARY 1982\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Compukit_UK101_AdvLastSales.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;The family advice\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/triumph-adler_alphatronic-pc_ad_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.K. PRICE LIST\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Dealer price list - August 1986\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Act_ApricotF1_PriceList_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. AD. (1983) #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;First advert - January 1983\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Oki_IF800_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LISA 1 PIN\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Apple_Lisa1_Pin_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;NOT REALLY AN IMSAI!\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;In october 1979, the IMSAI company went bankrupt. The IMSAI brand name and the spare parts stock were sold to the \u0026lt;b\u0026gt;Fischer-Freitas\u0026lt;/b\u0026gt; Company. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; This 1982 advert shows a Z80 CP/M based computer Fisher-Freitas tried to sell with the IMSAI name, without success.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Fisher-Freitas is still selling original parts for the 8080 model! and continue maintaining a nice 8080 history web site (see the Web links section).\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Imsai_8080_Advert_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (DEC.1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Micro price, Mega features\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/casio_fp200_ad_microprix.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;M-SERIES BROCHURE - PAGE 6\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Juraj Mucko for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/panasonic_jd_flyer_6.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;F.D. UNIT ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;BBC floppy disc unit was delivered with a 8271 FD controller chip and a Filing System software in ROM to be fitted into the BBC system.\u0026lt;br\u0026gt; Two versions of F.D. units were available:\u0026lt;br\u0026gt;   - A single drive unit, single side, single density, 100 KB space.\u0026lt;br\u0026gt;   - A dual drive version, double side, double density, 800 KB space. \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;8BS.com\u0026lt;/b\u0026gt; \u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Acorn_bbc_FDadvert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPANESE ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://web.kyoto-inet.or.jp/people/s-oga/\u0026quot;\u0026gt;Soichiro Oga\u0026lt;/a\u0026gt; for this picture !\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/mitsubishi_multi16_advert1_s.gif"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;NEW ZELAND AD. (1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert says:\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; The renaissance machine is a \u0026quot;one-of-a-kind\u0026quot; system for the \u0026quot;one-of-a-kind\u0026quot; person who demands and will not settle for anything less than, the best.\u0026lt;/font\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Murray Moffatt\u0026lt;/b\u0026gt; from New Zeland\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Compucolor_ll_Advert_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROMO PIC #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;TO-7/70 playing AIRBUS, a flight sim...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_to770_pub-airbus.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.K. AD (MAR. 86)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; The electric typewriter\u0027s days are numbered. Because now there\u0027s a machine that put real wordprocessing power within everyone\u0027s reach.\u0026lt;br\u0026gt; The Amstrad PCW 8256 is a complete word-processor and a powerful computer in one unit.\u0026lt;br\u0026gt; And it\u0027s unbelievably low price includes a screen with built-in disc drive, keyboard, printer and word processing software...\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Amstrad_8256_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH LEAFLET\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Speed serves business.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sharp_MZ3500_FrenchLeaflet_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;One of the first 1982 U.S. Advert.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Advert said \u0026lt;br\u0026gt;\u0026lt;br\u0026gt;THE COMMODORE 64 COULD BE THE MICROCOMPUTER INDUSTRY\u0027S OUTSTANDING NEW PRODUCT INTRODUCTION SINCE THE BIRTH OF THIS INDUSTRY.  (Shearson / American Express) \u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt;             The value of a computer is determined by what it can do. What it can do is largely determined by its memory.\u0026lt;br\u0026gt;             The Commodore 64\u0027s basic RAM is 64K. This amount of power is unusual in a micro at any price.\u0026lt;br\u0026gt;             At $595 it is astonishing.\u0026lt;br\u0026gt;             Compared with an Apple II+, for instance, the Commodore 64 offers 33% more power and considerably les than 50% of the cost.\u0026lt;br\u0026gt;             Compared with anything else, it\u0027s even more impressive...\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;             If you\u0027ve been waiting for the \u0026quot;computer revolution\u0026quot;, consider it as having arrived...  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Commodore_64_Advert_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SORD BROCHURE #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Tim Mackay\u0026lt;/b\u0026gt; \u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sord_M100ACE_Brochure_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT #4\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Learn computers with a cool teacher\u0026quot; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026quot;Alice, the Basic teacher\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Matra_Alice_Adv_4.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This advert dated december 1983, says: \u0026quot;A true computing system: 3590F\u0026quot;.\u0026lt;br\u0026gt; 3590F was approx. 547 euros, which was cheaper than a TO-7 alone one year earlier. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; This box contained: a TO-7 computer, Basic cartridge with doc, Joystick/Music expansion, 2 joysticks, TRAP game and PICTOR software. This was a special offer for christmas 83. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; On the whole box is written: \u0026quot;A smart present for the whole family\u0026quot;.  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_to7_avdert-unvraisys.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (JANUARY 1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;At 68 years old, taunt Rose discovered that she was an exceptionally gifted child\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/atari_2600_ad_tante-rose.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN BROCHURE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Volken\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Atari_MegaST_GermanDoc.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (FEBRUARY 1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;the power of words depends on the way you use them\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/apple_III_pub_puissance-des-mots.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (SEPT. 1987)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Arcades games in an armchair\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sega_sms_advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FIRST SDK-85 AD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Notice the Intel logo. Does Intel copies the Apple logo or vice versa?\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Intel_sdk85_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT \u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;One of the first advert for the Atari 520ST checked against an Apple Mac and an Apricot computer. \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Bradley Sturch\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Atari_520ST_Advert_s2.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [
+    {
+      "platform": "MS DOS emulator",
+      "name": "APE Plus : Apricot Emulator",
+      "link": "http://www.ansible.demon.co.uk/ai/ape.html",
+      "description": "Commercial emulator that emulates PC/Xi/Xen, the `F\u0027 Series, and the Apricot FP Portable"
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "QDAE",
+      "link": "http://www.seasip.info/Unix/QDAE/",
+      "description": "QDAE is a Quick and Dirty Apricot Emulator for Linux, Windows and MacOS X. This version emulates the Apricot F1; it may support other F-series Apricots as well."
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d495",
+    "computer.asp?st\u003d1\u0026amp;c\u003d493",
+    "computer.asp?st\u003d1\u0026amp;c\u003d499",
+    "computer.asp?st\u003d1\u0026amp;c\u003d501",
+    "computer.asp?st\u003d1\u0026amp;c\u003d500",
+    "http://www.actapricot.org/home/",
+    "http://groups.yahoo.com/group/actapricot/"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/act_apricot-portable_r-side.jpg",
+  "builtInGames": "None",
+  "controllers": "",
+  "media": "one Sony 3.5\u0027\u0027 disk-drive, double-sided, 720k",
+  "numGames": "",
+  "peripherals": "ACT\u0027s modem card, memory expansion, 10Mb external hard-disk, infrared mouse/trackball",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

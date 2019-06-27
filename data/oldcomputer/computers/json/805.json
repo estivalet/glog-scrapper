@@ -1,0 +1,54 @@
+{
+  "name": "SDK-85",
+  "manufacturer": "Intel",
+  "type": "Professional Computer",
+  "origin": "U.S.A.",
+  "year": "1977",
+  "production": "",
+  "language": "Monitor in ROM",
+  "keyboard": "24 key hexadecimal with monitor command keys",
+  "cpu": "8085A",
+  "speed": "3 MHz. 1.3 ?s. instruction cycle",
+  "coprocessor": "None",
+  "ram": "256 bytes expandable to 512 bytes",
+  "vram": "None",
+  "rom": "2 KB",
+  "text": "",
+  "graphics": "",
+  "colors": "",
+  "sound": "",
+  "size": "30.5 (W) x 25.7 (D) x 1.3 (H) cm.",
+  "ports": "Parallel (38 lines expandable to 76 lines) , Serial 110 baud",
+  "power": "External 5V/12V power supply unit",
+  "price": "Unknown",
+  "description": "\nEach time Intel launched a new microprocessor, they provided simultaneously a System Development Kit (SDK) allowing computer company ingineers as well as university students to introduce them to the new processor concepts and features. \n\nThe SDK-85 was a complete 8085A (5 for \u0027first 5 Volt microprocessor\u0027) microcomputer system on a single board including ROM and RAM memory, a 24 key hexadecimal keyboard, a 6 digit LED display, I/O connections and an expansion area allowing memory and I/O expansions as well as hardware experiments.\n\nA 2 KB monitor software provided the same commands as the SDK-86 board. User could enter and read program results through either the buit-in keyboard/display or using a serial Teletype through the built-in serial TTY interface. A 38 lines parallel interface was also available.\n\nA large set of manuals were delivered with the board: MCS-85 (processor) and SDK-85 (board) user manuals, 8085 Assembly Language Programming Manual, full circuit schematics of the PCB, a full dump of the ROM monitor program, programming examples and application notes.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MCS AND SDK MANUALS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Intel_sdk85_Manuals_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SDK MANUAL #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Intel_sdk85_Manuals_2.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FIRST SDK-85 AD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Notice the Intel logo. Does Intel copies the Apple logo or vice versa?\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Intel_sdk85_Advert_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [],
+  "image": "http://www.old-computers.com/museum/photos/Intel_sdk85_System_1.jpg",
+  "builtInGames": "Monitor in ROM",
+  "controllers": "",
+  "media": "None",
+  "numGames": "",
+  "peripherals": "expansion area on board",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

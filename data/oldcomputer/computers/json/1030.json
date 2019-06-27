@@ -1,0 +1,62 @@
+{
+  "name": "5000",
+  "manufacturer": "I.S.T.C. (Informatic Syst?mes T?l?com)",
+  "type": "Professional Computer",
+  "origin": "France",
+  "year": "1978",
+  "production": "",
+  "language": "Basic (on disk)",
+  "keyboard": "Full stroke keyboard with function keys and numeric keypad.",
+  "cpu": "Z80",
+  "speed": "",
+  "coprocessor": "",
+  "ram": "from 24 KB to 64 KB",
+  "vram": "",
+  "rom": "64 KB",
+  "text": "80 x 24",
+  "graphics": "Unknown",
+  "colors": "Unknown, but built-in display is amber only.",
+  "sound": "Unknown",
+  "size": "Unknown (heavy !)",
+  "ports": "from 2 to 5 x S100 compatible expansion buses, RS232 connector",
+  "power": "Built-in power supply",
+  "price": "28700 FF HT (France, october 1979)",
+  "description": "\nLittle is known about this system. Help welcomed !\n\nI.S.T.C. (Informatic Syst?mes T?l?Com) was a french company which was selling imported computers from USA, like the Apple II or the Compucolor. So it wouldn\u0027t be surprising if the ISTC 5000 was also an imported system. But which one ? We have not found the answer yet...\n\nIt is a big system with a built-in 10\u0027\u0027 amber display (80 x 25 characters) and one or two integrated 5.25\u0027\u0027 disk-drives (143 KB or 403 KB formated).\n\nFollowing software was available : Basic (delivered with the system), Macro Assembler, Extended Basic, Fortran IV ANSI, CP/M, Cobol, Pascal...\n\nA 5500 model was also released a bit later (1980), with slightly better features (disk drives capacity : 1 MB each)...\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ISTC 5000\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The picture was taken from an old magazine (sept. 1978)\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/istc_5000_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;NICE PICTURE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.silicium.org\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;www.silicium.org\u0026lt;/a\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/istc_5000_silicium.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ISTC 5500\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is the ISTC 5500 released in 1981. It had slightly better features. Notice that on the picture it is in fact a 5000, and a 5 has been added later \u0026quot;by-hand\u0026quot; on the label...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/istc_5500_3.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (JAN. 1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/istc_5000_ad_fr_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;5500 ADVERT (JAN. 1981)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is a french advert for the ISTC 5500 published in january 1981. Its is exactly the same advert used for the model 5000, apart some modification in the description (disk drive capacity). Even the picture is still the same, with a \u0026quot;5\u0026quot; added with a pen, by hand !!!\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/istc_5500_advert_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [],
+  "image": "http://www.old-computers.com/museum/photos/istc_5000_1s.jpg",
+  "builtInGames": "Basic (on disk)",
+  "controllers": "",
+  "media": "Model 5000: 1 or 2 x 5.25\u0027\u0027 disk-drives (300 KB each)Model 5500: 1 or 2 x 5.25\u0027\u0027 disk-drives (1 MB each)",
+  "numGames": "",
+  "peripherals": "Communication card, parallel printer, 20 MB hard-disk",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

@@ -1,0 +1,72 @@
+{
+  "name": "MPF-III/312",
+  "manufacturer": "Multitech",
+  "type": "Home Computer",
+  "origin": "Ta?wan",
+  "year": "1983",
+  "production": "",
+  "language": "",
+  "keyboard": "90 key, full stroke, internal conductive rubber membrane, 12+ function keys, numeric keypad",
+  "cpu": "MOS 6502",
+  "speed": "1 MHz",
+  "coprocessor": "",
+  "ram": "64KB DRAM + 2KB SRAM",
+  "vram": "",
+  "rom": "24 KB",
+  "text": "40 x 24 / 80 x 24",
+  "graphics": "40 x 40-48 (16 col), 280 x 160-192 (6 col), 560 x 160-192 (2 col)",
+  "colors": "16 maximum",
+  "sound": "1 bit Apple II compatible + AY-3-8912 Programmable Sound Generator. Internal speaker + External speaker jack",
+  "size": "",
+  "ports": "TV RF out (RCA), Monitor Out (RCA), External Speaker Out (3.5mm), Cassette In/Out (2x3.5mm), Printer (16 pin, male 2x8 0.1\u0026quot;), Keyboard (DE-9M), Joystick (DE-9F), External Slot 2 (Apple II 50 pin), Internal Slots 4/6/7 (50 pin, female 2x25 0.1\u0026quot;), 2x Floppy Disk (optional, Apple Disk ][ compatible)",
+  "power": "internal switch-mode",
+  "price": "$699 (1984, Australia)",
+  "description": "\nAfter the MPF 2, compatible with the Apple II+, Multitech introduced the MPF3 in 1983 at the Las Vegas CES. It was compatible with the Apple IIe but, like the MPF2, had no real success. \n\nThe MPF-III was released in two versions. The initial one was the /312 which used PALs and LSTTL logic. Later the /327 version was released and this used MMU and IOU ASIC chips just like the Apple IIe. The /327 may also have had 128KB of DRAM on the motherboard (MPF-III computers do not have an Aux slot so cannot have memory added in this fashion).\n\nSlots 1-7 were configured like this:\n\n1 (virtual) Built-in Parallel Printer port - support for Epson, C-Itoh and CP-80 printers\n2 (external) accepts standard Apple II cards\n3 (virtual) Built-in 80 Column Card - Apple IIe compatible\n4 (internal) Reserved for optional Chinese Character Generator card\n5 (non-existent)\n6 (internal) Reserved for optional Floppy Disk Interface\n7 (internal) Reserved for optional Z-80 CP/M card\n\nProDOS did not work (unpatched) on the MPF-III/312 for two reasons:\n1) Apple put a test in the ProDOS initialization code that looks for the string APPLE in the monitor ROM. The MPF-III ROMs did not have this string. A one byte patch to the PRODOS file fixed this.\n2) The Apple IIe came in 3 memory configurations - 64KB, 65KB (with 80 column text card) and 128KB (with 64KB 80 column card). ProDOS checks for more than 1KB of Aux RAM and if it finds it, sets up a 64KB RAMdisk. The MPF-III/312 has 66KB which ProDOS takes to be 128KB and attempts to create the /RAM drive. Again, a simple patch to ProDOS fixes this.\n\nAn optional bus expander was released that plugged into Slot 2 on the right hand side of the unit plus a ribbon cable to a header at the rear of the to pick up the missing slotr select signals. This allowed up to 5 external cards (slots 2/3/4/5/7).\n\n_______________________\n\nContributors: David Wilson\n\nSergio Luvoni adds:\nThis model was known as Latindata MPF-III in South America. Monitor had a green CRT. Because of a diferent memory map, it was not fully compatible with the Apple II. However, Apple\u0027s Z-80 expansion card worked and a double 5.25\u0026quot; floppy drives unit was also available.\n\nFurther information from Mark Slabbert:\nI purchased the MPF3 in 1984. Was a pleasure to work with. Most Apple software packages would work on it but some graphics related software would not. Had extra commands in Rom not found on Apple, i.e. Effect x which would generate sound  effects from the on board audio chip.\nNever gave me trouble although the keyboard had the habit of losing letters when cleaned. Excellent documentation included with computer. Sold it in 1988 in working order. Very compact casing but was still able to modify circuitry to drive external devices off data bus.\nFond memories.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE - FRONT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to David Wilson for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/multitech_mpf3_inside_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE - RIGHT SIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;From left to right:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; - keyboard connector\u0026lt;br\u0026gt; - joystick connector\u0026lt;br\u0026gt; - expansion port \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The blue cable on the left is an extender for the Apple II 16 pin game socket.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to David Wilson for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/multitech_mpf3_inside_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE - REAR\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;From left to right: \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; - external disk drive connectors\u0026lt;br\u0026gt; - tape interface MIC \u0026amp; EAR connectors\u0026lt;br\u0026gt; - printer interface\u0026lt;br\u0026gt; - volume control knob\u0026lt;br\u0026gt; - audio output\u0026lt;br\u0026gt; - monitor video output\u0026lt;br\u0026gt; - TV RF video output\u0026lt;br\u0026gt; - power in cable plug\u0026lt;br\u0026gt; - power on/off switch \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The short grey cable on the rear of the system attaches to the header on ther right hand side of the slot extender to give it the /DEVSEL \u0026amp; /IOSEL signals for the extra slots. This was a Multitech option.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to David Wilson for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/multitech_mpf3_inside_rear.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;KEYBOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to David Wilson for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/multitech_mpf3_keyboard.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DIP SWITCHES\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Here are the functions of the DIP switches found at the back of the system: \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; DIP1 On \u003d 80 column text display Off \u003d 40 column text display (Apple II default)\u0026lt;br\u0026gt; DIP2 On \u003d Epson/CP-80 printer  Off \u003d C.ITOH printer\u0026lt;br\u0026gt; DIP3 On \u003d RF modulator CH3   Off \u003d CH4\u0026lt;br\u0026gt; DIP4 On \u003d 64KB RAM  Off \u003d 48KB RAM\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to David Wilson for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/multitech_mpf3_dip-switches.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SLOT EXTENDER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is a slot extender that plugs into slot 2 to give more Apple II compatible slots.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to David Wilson for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/multitech_mpf3_expansion-board.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;AUSTRALIAN ADVERT (JUNE,1984)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert for MPF-III in June 1984 issue of Electronics Australia magazine.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to David Wilson for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/multitech_mpf3_advert_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [
+    "http://www.global.acer.com/about/milestones.htm"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/multitech_mpf3_1.jpg",
+  "builtInGames": "None",
+  "controllers": "",
+  "media": "None",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

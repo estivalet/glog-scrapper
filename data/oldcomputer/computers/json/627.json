@@ -1,0 +1,163 @@
+{
+  "name": "FS A1 GT",
+  "manufacturer": "Panasonic",
+  "type": "Home Computer",
+  "origin": "Japan",
+  "year": "1991",
+  "production": "",
+  "language": "MSX Basic V4.1, MSX View, Japanese text editor, a spread sheat and a sample program",
+  "keyboard": "Full-stroke keyboard, JIS standard layout, 91 keysbuilt-in software selector switch, reset button, disk removal button, auto-fire speed adjustment knob, Pause button",
+  "cpu": "Zilog Z80A and R800 (16 Bit RISC)",
+  "speed": "Z80A: 3.579545 MHz / R800: 28.636360 MHz",
+  "coprocessor": "Video chip must be compatible with the Yamaha VG9938 or V9958, sound chip must be compatible with the General Instruments AY8910",
+  "ram": "512 KB + 32 KB S-RAM (for backup)",
+  "vram": "128 KB",
+  "rom": "32 KB (BASIC/BIOS ROM)  + 32 KB (SUBROM MSX-BASIC V4.0) + 16 KB (MIDI-Basic ROM) + 16 KB (MSX Disk Basic) + 16 KB (Kanji Basic) + 512 KB (MSX View) + 2 MB (Japanese text editor, a spread sheat and a sample program) + MSX JE ROM (with approx. 32000 characters)",
+  "text": "80 x 25 / 40 x 25 / 32 x 25",
+  "graphics": "64 x 48 / 256 x 192 / 256 x 212 / 512 x 212 / 512 x 424",
+  "colors": "16 / 16 - 256 / 16 among 512 / 19268",
+  "sound": "AY-8910 + YM-2413 chip (9 channels of music) + PCM 8-bit synthesizer \u003d 13 available channels!MSX-MIDI interface built-in",
+  "size": "425 (W) x 292 (D) x 89 (H) mm / 3.4 Kg",
+  "ports": "Joystick (2), Cartridge (2), RGB video output, Composite Video, SVHS output, Centronics, Microphone output, MIDI interface (IN \u0026amp; OUT), User port",
+  "power": "100V?10% 50/60Hz, 22w",
+  "price": "99,800 yen (Japan, 1991)",
+  "description": "\nThis system is a MSX Turbo R. It is one of the last MSX computer ever made. It is the successor of the MSX 2+ systems and thus has many characteristics in common. New features include a new PCM sound chip which can sample sound up to 15 KHz and replay up to 22 kHz. There is an internal microphone for the PCM unit. There is also an additional CPU, the R800 wich is a 16-bit RISC processor. The user can select the CPU (Z80 or R800) by software.\n\nThe FS-A1 GT follows the FS-A1 ST, and so introduces some improvements over it. Due to some minor bugs discovered, the mainboard is a bit different (e.g. FM-PAC part is redesigned to decrease influence of the noise from computer\u0027s digital parts). The MSX-BASIC, version 4.1 instead of 4.0, has MIDI extensions. Indeed the FS-A1 GT has a MSX-MIDI interface built-in with MIDI in/out connectors! The RAM size is of 512 KB, instead of 256 KB. The MSX-DOS is now version V2.31. There is a SVHS video port and the size of the SRAM is now 32 KB.\n\nMSX View, developed by ASCII \u0026amp; HAL, is a Windows-style graphic interface. It is built-in ROM. The OS is delivered with programs such as Page Edit, PageView, Page Link, VShell, VTed, VPaint and VDraw) on 512kB ROM DISK (C: drive). There is no tape recorder port, so strictly speaking, it\u0027s not an MSX! \n\nPanasonic stopped the production of the Turbo R when they launched the 3DO game system in 1992. They failed with this system and never returned to MSX.\nLot of extensions, however, were produced by third-party companies to enhance the Turbo R, among them, an OPL4 Sound Card, a VGA card with lot of hardware sprites and IDE or SCSI interfaces.\n\n________\n\nSource : The Ultimate MSX FAQ\nDavid Heremans reports:\nThere is a mixed mode where you can have +4096 colors\nsimultaneously with an extra 16 indexed colors so that still pictures in\nfull color can be displayed while the index palatte of 16 redefinable colors\ncan be used for all kind of effects. But trying to display that would\nprobably be a litle long for the small space reserved for it on the\npage.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TURBOR FS A1 GT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/panasonic_fsa1gt_2.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (JAN. 1981)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/eaca_eg3003_advert-fr_1_s.png"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.K. AD (DEC. 1985)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Notice the (rare!) DMX80 printer, the two floppy drive units and SDX FDD interface.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Memotech_MTX512_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (1984)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/olivetti_m24_ad_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/LNW_LNW80_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN ADVERT (1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Karl-Heinz  -  www.sharpmz.org\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Citoh_YD8110_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROMOTIONAL PICTURE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/bull_micral-80-22_promo-pic_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROMO PIC #5\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This picture was used to promote the educative potential of the TO-7/70. This poor student is studying economic politics... \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; As usual, no cables are shown... the tape recorder is thus useless... Will someone tell him ?\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_to770_pub-eco.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPANESE ADVERT (1987)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://web.kyoto-inet.or.jp/people/s-oga/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Soichiro\u0027s Oga\u0026lt;/a\u0026gt; for this picture.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/panasonic_fs-a1f_jap-advert.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;From Personal Computer World, October 1983\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Here are some answers:\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; \u0026quot;The BBC Microcomputers are the limousines of home computers. The graphics are probably the best\u0027 of any machine in this class. You are paying for Ii smart machine which would not disgrace the home of a professional.\u0026quot;\u0026lt;br\u0026gt; \u0026lt;i\u0026gt;Video World., Feb. \u002783.\u0026lt;/i\u0026gt;\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026quot;Its design has given the BBC Micro an unrivalled potential for business, educational and serious home applications. It has been equipped to function as the heart of a system which can be expanded 10 suit its owner\u0027s need?\u0026quot;\u0026lt;br\u0026gt; \u0026lt;i\u0026gt;Which Micro \u0026amp; Software Review, Feb. \u002781\u0026lt;/i\u0026gt;\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026quot;The most attractive and exciting feature of the BBC Microcomputer is its enormous potential for expansion which will allow a higly expansive system to be built-up?\u0026quot;\u0026lt;br\u0026gt; \u0026lt;i\u0026gt;Which Micro, June \u002782.\u0026lt;/i\u0026gt;\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026quot;They (the graphics) are tremendously exciting, and they are one of the features that make this machine stand out head and shoulders above everything else that is available in the market place at this time\u0026quot;\u0026lt;br\u0026gt; \u0026lt;i\u0026gt;Educalional Computing, May \u002782\u0026lt;/i\u0026gt;\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026quot;It is expandable and has a powerful BASIC. It has superb sound and graphics, the software is readily available and the price is righ\u0026quot;\u0026lt;br\u0026gt; \u0026lt;i\u0026gt;BBC Micro owner from Hampshire.\u0026lt;/i\u0026gt;\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026quot;The basics are easy to follow. My wife has developed a program for teaching our daughter French vocabulary. Our daughter uses it mainly for games and simple programming\u0026quot;\u0026lt;br\u0026gt; \u0026lt;i\u0026gt;BBC Micro owner from Co. Durham.\u0026lt;/i\u0026gt;\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026quot;It is a very powerful computer, My husband has written his own data base. I have been writing programs and programming games. Even the children have written small programs.\u0026quot;\u0026lt;br\u0026gt; \u0026lt;i\u0026gt;BBC Micro owner from Devon.\u0026lt;/i\u0026gt;\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;  \u0026quot;No other computer can offer such ease of use when dealing with complex sound effects.\u0026quot;\u0026lt;br\u0026gt; \u0026lt;i\u0026gt;Which Micro, June \u002782.\u0026lt;/i\u0026gt;\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026quot;It isn\u0027t often a journalist can sit down to write about a computer with the certain knowledge that he has never seen a nicer machine.\u0026quot;\u0026lt;br\u0026gt; \u0026lt;i\u0026gt;Personal Computer World, Dec. \u002782\u0026lt;/i\u0026gt; \u0026quot;It has got huge potential. Besides playing the games, the whole family are learning basic programming.\u0026quot;\u0026lt;br\u0026gt; \u0026lt;i\u0026gt;A BBC Micro owner from Staffordshire.\u0026lt;/i\u0026gt;\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026quot;Everything possible seems to have been done to ensure that this is not a \u0027dead end\u0027 machine..\u0026quot;\u0026lt;br\u0026gt; \u0026lt;i\u0026gt;Personal Computer World, July \u002782.\u0026lt;/i\u0026gt;\u0026lt;/font\u0026gt; \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Acorn_bbc_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT #4\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/canon_X07_pub5.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN BROCHURE #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Volken\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Atari_MegaSTE_GermanDoc_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;STUPID PICTURE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;An 80\u0027s beautiful (!) woman tries to convince us that it\u0027s very exciting to work with an Alpha Plus...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/alcatel_alphaplus_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/magnavox_odyssey2_ad_ouridea.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT (JUNE 1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Goupils invade Paris area\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/smt_goupil2_ad_region-parisienne.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN AD #3\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Part of a software advert\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;www.sharpmz.org\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sharp_MZ700_Advert_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (1979)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/synertek_sym1_advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sord_is11_advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT.\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is an advert for the Micromachine 4000 but a picture of the Micromachine 2000 and 3000 is inserted for reference...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/symag_micromachine_pub2_s.gif"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.K. ADVERT (1990)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;In this U.K. advert, the Amiga 1500 was sold at \u0026pound;1149.99 with a colour monitor, 4 games (Battle Chess, Sim City, Populous, Battle of Britain) and the home business suite Platinium Works. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The Amiga 500 was also sold at \u0026pound;399.99\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.pelikonepeijoonit.net\u0026quot;\u0026gt;The Arctic Computer \u0026amp; Console Museum\u0026lt;/a\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Commodore_Amiga1500_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US AD. JUNE 1983\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This advert puts forward network capabilities of Televideo systems.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; ... If you want a personal computer that gives you professional performances, it\u0027s obvious that you have a lot of choices for today.\u0026lt;br\u0026gt; But there\u0027s only one with choices for tomorrow. Televideo ...\u0026lt;/font\u0026gt; \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Televideo_PM4T_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to chrism3667 for the picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/tandy_2000_german-ad_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1978 BROCHURE #19\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;As the picture is quite unreadable, we have replaced it with a plain text copy.  \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; What kind of diskettes do you recommend for use with the FD-8?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; We have our diskettes manufactured by the Dysan Corporation. They are packaged for us under the MSI label and have proven to be the most reliable diskettes available for use with the FD-8. We have tried other manufactur\u0026shy;ers but have found none to be as reliable as Dysan. We pay more money for Dysan diskettes and, as a result, cannot offer them at a price quite as competitive as some other manufac\u0026shy;turers. However, we feel that the reliability is most important. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; Does the FD-8 use IBM compatible format?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; The FD-8 is not IBM compatible since we use hard-sectoring on the diskette. Our format uses 16 sectors of 256 data bytes each per track. In addition, track and sector identification, checksum (CRC), and other error checking information is written on each sector in addition to the data. This gives a total capacity of 315,392 bytes of data which can be stored per diskette. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; What are diskette hardholes, and what do they do?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; Hardholes are small mylar doughnuts which may be affixed to the center hole of a diskette for additional protection. It is possible to damage the center hole of a diskette if it is not properly centered at the time the disk drive door is closed. The mylar doughnut serves to reinforce the center hole of the diskette and give it additional protection against damage. The hard hole also provides for additional fric\u0026shy;tion between the diskette and the clamping hub in order to provent slippage of the diskette dur\u0026shy;ing rotation. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; Does MSI offer application software packages?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; MSI is in the process of developing ap\u0026shy;plication software for use with the FD-8 System. We will be offering a library of standard busi\u0026shy;ness programs for accounting, inventory and mail list applications in the near future. These programs will be written in BASIC using the disk data file capability of the FD-8. The availability of application software will be announced in periodic MSI newsletters and will be made available to FD-8 users for a small copying charge plus the cost of the diskette. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; Does a user program library exist for the MSI FD-8 Disk System?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; We are in the process of organizing a user group for the FD-8. Users of the FD-8 System are encouraged to submit programs which may be included in the user library. Member\u0026shy;ship in the user group may be achieved by either submitting a program for publication or by payment of a nominal membership fee. Membership then entitles the user to receive periodic listings of user library contents and newsletters. Programs contained within the user library will be made available for a small copying charge. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; What is the difference between MSI TAPE BASIC and MSI BASIC used with the FD-8 Disk System?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; We have added several features to the MSI version of BASIC. We offer multiple statements per line, user defined verbs, a string\u0026shy;length command which allows strings up to 128 characters to be used, and have increased the speed of execution. In addition, we have completely removed the dependence upon the MIKBUG ROM and MIKBUG RAM areas. The stack pointers have been moved to the user program area, and the input/output routines for each of the ports are fully documented so that these can be easily changed. Interrupts are now allowed and can be used to vector the program to a user subroutine and then return to BASIC. We are also developing multi-user BASIC which will be released in the near future. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; Can MSI BASIC and the disk operating system be relocated?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; Essentially, no difference exists between the two versions of BASIC insofar as the BASIC interpreter is concerned. The tape version has disk and DOS commands removed from its library. The interpreter resides from memory location $0100 to $1 FFF in both versions. In addition, memory locations below $0100 are used as pointers. In the Disk version, memory locations from $2000 - $2FFF are used to con\u0026shy;tain disk driver subroutines, DOS, and other file handling routines. User memory begins at $2000 for the tape version and $3800 in the Disk version of BASIC. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; What is the difference between SWTP 8K BASIC and MSI BASIC?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; It is not considered feasible to attempt relocation of these programs since so many of the individual routines which are used in the disk operating system are integrated. It would require a major revision of the disk operating system, BASIC, coresident assembler/editor and other associated utility programs before such a relocation could be performed. However, a version of MSI BASIC will soon be available on PROM which will reside at a high memory location. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; How difficult is it to run MSI BASIC and the disk operating system on the Motorola Ex\u0026shy;orciser, or other 6800 based microcomputer systems?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; The primary changes which must be made are in the input and output character routines. These routines must be changed in all MSI software so as to be compatible with the sys\u0026shy;tem on which software is running. In addition, the PIA Interface which communicates with the disk, the FD-8, is presently located at mem\u0026shy;ory address $801 C. A PIA residing at this ad\u0026shy;dress will also be necessary, or alternatively, this address must also be changed in the disk driver subroutines. Several different versions of the MSI software package are currently being developed for use with other 6800 systems. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; Will MSI BASIC handle tape commands as well as disk?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; Yes, the commands TSAVE AND TLOAD are used with the tape, whereas the commands SAVE and LOAD are reserved for use with the disk. It is also possible to place a label at the front of a block which is saved on tape. When this label is specified during a LOAD opera\u0026shy;tion, the program will search for the appropriate block on tape before loading in the information which has been stored on the tape. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; Will MSI BASIC handle data files?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; Yes, both random and sequential data files are available for the disk system under MSI BASIC. Named files for object code, source code, BASIC program, and BASIC data files are all available. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; I have heard that 1702A PROMs are too slow for use with 6800 systems running at full clock speed. Is this true?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; This is not true, if the memory addressing scheme employed by MSI is used to address the 1702A PROMs. The MSI PROM/RAM Board does not employ Phase 2 of the clock in the memory addressing scheme. This permits a tolerable memory access time of approxi\u0026shy;mately 9OQns. MSI uses 650ns access time 1702A PROMs in all applications. This provides completely satisfactory reliability of operation. We have experienced no problems whatsoever when using fast 1702As. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; Can I buy a Bootstrap routine on PROM in order to bring the disk system into operation quickly?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; Yes, MSI is presently delivering a 512 byte Bootstrap Program known as Short Boot. This routine is available on a two-PROM set using 1702A PROMs for use with the MSI PROM/RAM Board. Short Boot and the PROM Board are delivered with most Disk Systems. This allows the disk to be placed into operation by simply executing the Bootstrap routine which is orged at $COOO. The system then responds immediately with DOS READY and programs may then be called immediately by file name. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; I am interested in purchasing MSI software but am having a hard time evaluating its use\u0026shy;fulness. May I purchase the documentation for your disk system and BASIC separately for evaluation?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; Yes, the complete operating manual for the FD-8 Disk System may be purchased sep\u0026shy;arately for $35.00. This manual includes as\u0026shy;se\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/MSI_6800_Brochure_s19.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;POWER... IS EXPENSIVE!\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The Megabyte Micro was a special version of the Imsai made with  16 x 64 KB RAM boards (Imsai just introduced this card) and a control board called Intelligent Memory Manager. A mapping configurator allowed each user to use its own protected RAM area. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Prices :\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; 64 KB RAM board Kit: \u0026lt;b\u0026gt;$2599\u0026lt;/b\u0026gt;, assembled: \u0026lt;b\u0026gt;$3899\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; Intelligent Memory Manager board: \u0026lt;b\u0026gt;$299\u0026lt;/b\u0026gt;, assembled: \u0026lt;b\u0026gt;$399\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;  To note: in 1977, 1 MB RAM costed... $62384!\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Imsai_8080_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (MAY 1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;for the Commodore PET 3001\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/commodore_cbm3001_pub_p.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [
+    {
+      "platform": "Windows emulator",
+      "name": "BlueMSX",
+      "link": "http://www.bluemsx.com/",
+      "description": "Excellent free MSX emulator that can reproduce MSX, MSX2, MSX2+, and Turbo-R. The emulator also supports the SVI318/328, and ColecoVision systems !"
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "openMSX - The MSX emulator that aims for perfection.",
+      "link": "http://openmsx.sourceforge.net/",
+      "description": "This new MSX emulator can reproduce, among many other MSX, MSX2and  MSX2+ machines, both Panasonic Turbo-R models. Be sure to get the catapult frontend and the system roms from FUNET. "
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d775",
+    "computer.asp?st\u003d1\u0026amp;c\u003d290",
+    "http://cobit.mma.com.br/materias/msxTurboRII.htm",
+    "http://www.file-hunter.com/",
+    "http://www.chez.com/msxfr/turbor.html",
+    "http://www.faq.msxnet.org/msxtr.html",
+    "http://www.chez.com/msxfr/msxviewp.html"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/panasonic_turbor-a1-gt_1.jpg",
+  "builtInGames": "MSX Basic V4.1, MSX View, Japanese text editor, a spread sheat and a sample program",
+  "controllers": "",
+  "media": "Built-in 3.5\u0027\u0027 disk drive (720 KB)",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

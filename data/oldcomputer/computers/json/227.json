@@ -1,0 +1,101 @@
+{
+  "name": "SV 318",
+  "manufacturer": "Spectravideo",
+  "type": "Home Computer",
+  "origin": "U.S.A.",
+  "year": "January 1983",
+  "production": "",
+  "language": "SV Extended Basic (by Microsoft)",
+  "keyboard": "71 keys, rubber keyboard with built-in joystick",
+  "cpu": "Zilog Z80A",
+  "speed": "3.6 MHz",
+  "coprocessor": "TMS9918A graphics chip, and AY-3-8910 sound chip",
+  "ram": "16 KB (up to 144 KB), 12 KB free for programmation with Basic",
+  "vram": "16 KB",
+  "rom": "32 KB",
+  "text": "40 x 24",
+  "graphics": "256 x 192 in 16 colors  / 64 x 48 in 16 colors",
+  "colors": "16",
+  "sound": "AY-3-8910 sound chip offering 3 channels and 8 octaves",
+  "size": "",
+  "ports": "video output, cartridge slot, expansion port, tape, joysticks (2)",
+  "power": "External power supply.  9V AC \u0026amp; 16V AC out",
+  "price": "$299 (USA, 1983)",
+  "description": "\nThe SV-318 was launched in january 1983, at the Winter CES show in Las Vegas, as the same time as the Spectravideo CompuMate, an keyboard add-on for the Atari 2600.\n\nThe Spectravideo SV-318 is the system at the origin of the MSX standard, and such, has characteristics very close to the MSX systems (same video, sprites, sound, I/O, etc.). It was even sold as an MSX computer in some places, but it is not fully MSX compliant and can\u0027t use MSX programs. \n\nNotice that instead of using cursor keys, the Spectravideo uses a small joystick, which emulates cursor keys.\n\nAn \u0026quot;expansion base\u0026quot; addon was available. This provides 64 KB RAM, a 80 column video and a floppy disk controller and its floppy drive (5.25\u0026quot;). With all these peripherals, the SV318 can run under CP/M.\n\nIn 1984, Spectravideo released a revised version of the SV-318, named SV-318 MKII.  The colour of area around the keyboard is different, but more importantly the motherboard has been redesigned, for production costs reason. Among the changes was a single ULA chip instead of several TTL chips, reducing the motherboard footprint and cost. \n\nA more professional version of the SV318 was launched a while later: the SV-328 (which has 80 KB RAM and a numeric keyboard and the SV-728 case).\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRONT VIEW\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/spectravideo_sv318_face.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SIDE VIEW\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/spectravideo_sv318_side2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR VIEW\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;We can spot the two expansion connectors and the RGB video output (DIN) on the right.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/spectravideo_sv318_rear.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE SV-318\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;A traditional and clear design despite some cheeseparing: the keyboard cable, rigid and without connectors must be carefully handled during a disassembling, the graphic circuit cooler is coarsely glued. The left part, much more packed, is the video interface module which can differ, depending of the country where the computer was sold.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;  \u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; Integrated joystick or arrows keypad when the stick is removed.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; SIO 8255 circuit in charge of interfaces management (internal and external joysticks, cassette...).\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; Sound generator AY-3-8910 chipset. (3 voices, 8 octaves and white noises for special effects), same as MSX standard.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(4)\u0026lt;/b\u0026gt; 16 memory chips holding 32 Kb. of RAM memory.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(5)\u0026lt;/b\u0026gt; Texas Instruments TMS 9929 video chipset with its glued cooler, same as MSX standard.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(6)\u0026lt;/b\u0026gt; Spectrvideo cassette recorder connector. A standard recorder can\u0027t be used.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(7)\u0026lt;/b\u0026gt; RGB video out connector.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(8)\u0026lt;/b\u0026gt; Z80 microprocessor.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(9)\u0026lt;/b\u0026gt; Expansion connector for Spectravideo expansion units.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(10)\u0026lt;/b\u0026gt; Two ROM circuits holding the Microsoft Basic interpreter.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(11)\u0026lt;/b\u0026gt; Connector and housing for ROM cartridges.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Spectravideo_SV318_Inside.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LUXURIOUS BASIC MANUAL\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Spectravideo_SV318_Manual_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SV-318 MKII\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;In 1984, Spectravideo released a revised version of the SV-318, named SV-318 MKII.  The colour of area around the keyboard is different, but more importantly the motherboard has been redesigned, surely for production costs reason.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/spectravideo_sv318_mk2_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US AD (JULY, 1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Eric Buczynski for this advert\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/spectravideo_SV318_ad_us_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (DEC.1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Valric-Laur\u0026egrave;ne was the french importer of the Spectravideo SV-318.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/spectravideo_sv-318_ad_valric-laurene_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (DEC.1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/spectravideo_sv-318_ad_les-bornes_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT.\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/spectravideo_sv318_advert_bornes.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN AD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/spectravideo_sv318_german-ad_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [
+    {
+      "platform": "MS DOS emulator",
+      "name": "SVI-318 / SVI-328 emulator",
+      "link": "http://www.acc.umu.se/~yarin/sviemu/"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "blueMSX",
+      "link": "HTTP://WWW.BLUEMSX.COM",
+      "description": "Excellent free MSX emulator that can reproduce MSX, MSX2, MSX2+, and Turbo-R. The emulator also supports the SVI318/328, and ColecoVision systems ! "
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d228",
+    "http://www.samdal.com/spectravideo.htm"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/spectravideo_sv318_side1.jpg",
+  "builtInGames": "SV Extended Basic (by Microsoft)",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "SVI-903 Data Cassette Recorder, SV-601 Super Expander, SV-602 Single Slot Expander, SV-902 Floppy Disk drive (external), SV-901 Dot Matrix Printer, SV-805 RS-232 Interface, SV-105 Graphic Touch Tablet, SV-803 16K RAM Pack, SV-807 64K RAM Pack, SV-802 Centronics Interface, SV-701 Smart Modem, SV-801 Dual Disk Drive Controller, SV-806 80-Column Display adapter, SV-603 Coleco Game Adapter, SV-101 Quickshot Joystick",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

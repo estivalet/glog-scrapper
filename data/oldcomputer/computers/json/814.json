@@ -1,0 +1,88 @@
+{
+  "name": "Nascom 1",
+  "manufacturer": "Lucas",
+  "type": "Home Computer",
+  "origin": "United Kingdom",
+  "year": "1978",
+  "production": "",
+  "language": "Monitor",
+  "keyboard": "Full stroke 47 keys",
+  "cpu": "Z80",
+  "speed": "1 or 2 MHz.",
+  "coprocessor": "None",
+  "ram": "1 KB",
+  "vram": "1 KB",
+  "rom": "1 or 2 KB",
+  "text": "48 chars. x 16 lines",
+  "graphics": "None",
+  "colors": "Monochrome",
+  "sound": "Unknown",
+  "size": "30.5 (L) x 19.2 (W) cm. (8 x 12 in)",
+  "ports": "TV-UHF video interface, selectable serial port (Tape recorder or RS232 or Teletype current loop)",
+  "power": "Separate power supply unit (sold as option)",
+  "price": "?199 in kit form",
+  "description": "\nThe Nascom 1 was the most popular British made computer kit in the U.K. It was an affordable single board Z80 based computer with a  keyboard attached by cable. It came as a kit or ready-built. \n\nWhy Nascom? Because the idea of a low cost computer intended for U.K. hobbysts was originated by an American company called Nasco. However, the board was designed in the U.K. by Shelton Instruments Ltd that, later, also designed and sold the Sig-Net\n\nThe minimum configuration featured 2 KB RAM and 1 KB ROM monitor, but the Nascom could be gradually extended into a system that was powerful enough to  compete with many home computers of the time, Pet, Apple or Tandy.\n\nActually, the RAM area was divided into two parts: 1 KB for user program and data and 1 KB for storing characters displayed to the television. The ROM monitor provided basic functions: enter program and data, display memory content and processor registers, save and load programs from a tape recorder.\n\nA whole range of peripherals and expansions were available from independant suppliers, as well as a vast range of software and many user groups. Several magazines dedicated to the Nascom and its relatives, the Gemini computers, were published. Many languages were available including BASIC, PASCAL, C, FORTH, etc. \n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LARGE VIEW\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Taken from a Nascom brochure\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Lucas_Nascom1_System_2.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;NASCOM 1 BROCHURE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Lucas_Nascom1_Brochure_s1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [
+    {
+      "platform": "MS DOS emulator",
+      "name": "Nascom 1 emulator",
+      "link": "http://members.aol.com/mk14emu/nascom.htm",
+      "description": "This emulator, written by Paul Robson, supports all the hardware of the standard Nascom 1"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "MESS",
+      "link": "http://www.mess.org",
+      "description": "MESS also emulates Nascom computers !"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "Nasemu",
+      "link": "http://www.myplace.nu/nascom/nasemu.htm",
+      "description": "This Nascom-2 emulator is a work in progress. It is an attempt to fully emulate a Nascom-2 computer. "
+    },
+    {
+      "platform": "Other platform emulator",
+      "name": "Nascom 2 / 3 Java Emulator",
+      "link": "http://www.nascomhomepage.com/#Virtual%20Nascom",
+      "description": "Java emulator written by Richard Espley is available."
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "Virtual Nascom",
+      "link": "http://www.nascomhomepage.com/#Virtual%20Nascom",
+      "description": "Nascom emulator for Unix/X11 and DOS"
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d815",
+    "computer.asp?st\u003d1\u0026amp;c\u003d175",
+    "HTTP://WWW.80BUS.COM",
+    "http://www.mixtel.pwp.blueyonder.co.uk/nascgem/index.html",
+    "http://www.myplace.nu/nascom/",
+    "http://www.nascomhomepage.com/"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/Lucas_Nascom1_System_1.jpg",
+  "builtInGames": "Monitor",
+  "controllers": "",
+  "media": "Cassette tape",
+  "numGames": "",
+  "peripherals": "Memory boards and various I/O interfaces",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

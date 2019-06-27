@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computer>
+    <adverts>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;OEMS WANTED&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/Altos_ACS580_Advert_1.jpg</link>
+        </advert>
+    </adverts>
+    <batteries></batteries>
+    <builtInGames>one or two 5''1/4 disk-drive (720k), and one hard-disk (10, 15, 20 or 40Mb)</builtInGames>
+    <buttons></buttons>
+    <colors></colors>
+    <controllers></controllers>
+    <coprocessor></coprocessor>
+    <cpu>Z80A</cpu>
+    <description>
+This was a multi-post system based on Z80 CPUs. It could handle up to 3 users, or more with optional cards. To connect the terminals, there are several RS232 ports at the back of the system, labeled JA, JB, JC, JD, JE, etc... The ports not used by the terminals could be used to connect a modem or a printer for example.
+
+This system was quite well designed with its squashed hexagon shaped box and its thin monitor. These are medium-sized desktop cases, usually beige but often came in custom colors.
+
+The 580 systems used a large custom single-board computer, with the drive controller being a separate half-card mounted on top of the SBC.
+
+It had a 5''1/4 disk-drive built-in on the right part of the front panel, and a 5''1/4 hard-disk on the left part.
+
+The 580-2 had two 5''1/4 disk-drives built-in instead of just one.
+Altos also produced a 16-bit version of this system, called the ACS-586.
+
+Bill added this information :
+Ours ran three user MP/M in a 16K common section and three 48K user sections of RAM.  Neat thing to work with when there were no other uses because you could hit a key sequence on the terminal and switch it from one user space to another.  So, I could use all three user spaces.  I'd have an editor open in one, use another to compile and debug and the third to print or check files while debugging.
+
+
+Picture courtesy of Gaby's CP/M Homepage.
+
+ 
+
+
+</description>
+    <emulators/>
+    <graphics>800 x 325</graphics>
+    <gun></gun>
+    <hardwares/>
+    <image>http://www.old-computers.com/museum/photos/altos_580_1.jpg</image>
+    <keyboard>Full-stroke keyboard with numeric and editing keypads, 16 function keys, 108 keys</keyboard>
+    <language></language>
+    <links/>
+    <manufacturer>Altos Computer Systems</manufacturer>
+    <media>one or two 5''1/4 disk-drive (720k), and one hard-disk (10, 15, 20 or 40Mb)</media>
+    <name>ACS-580</name>
+    <numGames></numGames>
+    <origin>U.S.A.</origin>
+    <peripherals>Hard-disk, streamer, disk-drive, printer</peripherals>
+    <ports>Five, four or three RS232 ports (depending on models), RGB video out, Centronics, TV video output</ports>
+    <power>Built-in PSU</power>
+    <price></price>
+    <production></production>
+    <ram>192k (max. 256k)</ram>
+    <rom>4k</rom>
+    <screenshots/>
+    <size></size>
+    <sound>Beeper</sound>
+    <speed>3,5 Mhz ?</speed>
+    <switches></switches>
+    <text>40 x 25, 80 x 25, 132 x 40</text>
+    <type>Professional Computer</type>
+    <vram></vram>
+    <year>? 1981</year>
+</computer>

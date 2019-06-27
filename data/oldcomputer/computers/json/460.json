@@ -1,0 +1,247 @@
+{
+  "name": "800",
+  "manufacturer": "Atari",
+  "type": "Home Computer",
+  "origin": "U.S.A.",
+  "year": "1979",
+  "production": "1982",
+  "language": "",
+  "keyboard": "QWERTY full Stroke keyboard, 62 keys4 function keys (Reset, Option, Select, Start)",
+  "cpu": "6502",
+  "speed": "1.79 Mhz",
+  "coprocessor": "ANTIC (Scrolling, Sprites, Video), CTIA / GTIA (Color, Sprites, Collisions), POKEY (timers, sound, keyboard, serial I/O), PIA 6810 (I/O, including the 4 joystick ports)",
+  "ram": "8 KB to 48 KB  (with memory expansion boards)",
+  "vram": "",
+  "rom": "10 KB",
+  "text": "40 x 25",
+  "graphics": "several graphic modes, maximum : 320 x 192",
+  "colors": "16 (each color can have 8 luminances) \u003d 128 colors maximum in the lowest graphic mode (requiring display list interruption to have them simultaneously)and up to 256 colors in some specific modes for machines having the GTIA chip instead of the CTIA",
+  "sound": "4 voices, 3.5 octaves",
+  "size": "40.5 (W) x 33 (D) x 11 (H) cm / 4200 g",
+  "ports": "Monitor RGB output, RF TV video output, 2 cartridge slots, Atari Serial Input/Ouput (SIO) port, 4 controller jacks, 4 internal slots for memory modules",
+  "power": "External power supply",
+  "price": "?300 (UK 1983)",
+  "description": "\nThe Atari 400 and 800 were the first home computers to use custom coprocessors and the first to use \u0026quot;sprites\u0026quot; and special video interruptions like display lists; features that would be implemented later on the Commodore 64, then on the Commodore Amiga (Atari 400/800 and Amiga were both designed by Jay Miner).\n\nIt offered high graphic resolution, lots of colors and great sound capabilities, more than other computers could do then! The two models had same characteristics, but the 800 had 48 KB of RAM (instead of 16 kb), two cartridge ports (only one for the 400) and a proper mechanical keyboard (a membrane keyboard for the 400).\n\nIn fact the very first Atari 800 Computers were shipped with 8 or 16 KB memory, expandable to 48 KB. After initial release, the 800 came standard with 48 KB memory.\n\nPrior to production, the 800 was known inside Atari as code name \u0026quot;Colleen\u0026quot;. It is rumored that Colleen and Candy (the 400 code name) were actually secretaries at Atari.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LARGE VIEW\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Atari_800_System_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MOTHERBOARD EXPLAINED\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The mother board is only populated with passive and input/output components. The \u0027active\u0027 daughter cards are inserted into the five slots. Notice the impressive number of resistances perfectly aligned. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt;   \u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; 2 ROM cartridge slots. This is where the Basic language cartridge is inserted.\u0026lt;br\u0026gt;  \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; The \u0027main\u0027 card (Microprocessor and specialized components) is inserted here.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; ROM card slot. \u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(4)\u0026lt;/b\u0026gt; Each of these 3 connectors can receive a 16 Kb RAM card. \u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(5)\u0026lt;/b\u0026gt; Switch cutting off the power supply when the cartridge lid is raised. \u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(6)\u0026lt;/b\u0026gt; Composite video output connector (B\u0026amp;W monitor). \u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(7)\u0026lt;/b\u0026gt; D.C. power regulation components. \u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(8)\u0026lt;/b\u0026gt; T.V. channel selector. \u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(9)\u0026lt;/b\u0026gt; Power supply input, provided by an external transformer. \u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(10)\u0026lt;/b\u0026gt; On/Off switch. \u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(11)\u0026lt;/b\u0026gt; Serial connector. \u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(12)\u0026lt;/b\u0026gt; RGB video connector.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(13)\u0026lt;/b\u0026gt; Keyboard \u0027OPTION\u0027 key. \u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(14)\u0026lt;/b\u0026gt; Keyboard \u0027SELECT\u0027 key. \u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(15)\u0026lt;/b\u0026gt; Keyboard \u0027START\u0027 key. \u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(16)\u0026lt;/b\u0026gt; Power leds. \u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(17)\u0026lt;/b\u0026gt; Keyboard \u0027SYSTEM RESET\u0027 key. \u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(18)\u0026lt;/b\u0026gt; Keyboard connector. \u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(19)\u0026lt;/b\u0026gt; Four joystick sockets. \u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(20\u0026lt;/b\u0026gt; Loudspeaker. \u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(21)\u0026lt;/b\u0026gt; PIA circuit (Peripheral Interface Adapter) which handles the 4 joysticks. \u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(22)\u0026lt;/b\u0026gt; Specialized Component called \u0027 POKEY\u0027, in charge of the keyboard, inputs/outputs, components synchronization and sound. \u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(23)\u0026lt;/b\u0026gt; System clock circuit (frequency generator).\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/s_Atari800_MotherBoard.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DAUGHTERS CARDS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;These five daughter cards form the main part of the system. They are plugged into the five mother board connectors intended for this purpose \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; This specialized circuit called CTIA or GTIA handle colors, graphics layers and some inputs/outputs. \u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; These ROM circuits can be replaced with others containing other languages or software. \u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; The Atari 800 can receive up to 3 x 16 Kb memory boards. \u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(4)\u0026lt;/b\u0026gt; Color adjustment potentiometer. \u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(5)\u0026lt;/b\u0026gt; MOS 6502 microprocessor. \u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(6)\u0026lt;/b\u0026gt; Two quartz hidden into this grey metal box, are used to synchronize the microprocessor and video. \u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(7)\u0026lt;/b\u0026gt; Specialized circuit (there are 3 specialized circuits in the Atari 800) handling the graphic scrollings.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/s_Atari800_DaughterCards.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DUST COVER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Atari_800_DustCover.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROMOTIONAL PICTURE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/atari_800_promo-pic_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Picture courtesy of \u0026lt;a href\u003d\u0026quot;http://www.sbrowning.com/vintage\u0026quot;\u0026gt;Steve Browning, www.sbrowning.com/vintage\u0026lt;/a\u0026gt;.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/atari_800_advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Picture courtesy of \u0026lt;a href\u003d\u0026quot;http://www.sbrowning.com/vintage\u0026quot;\u0026gt;Steve Browning, www.sbrowning.com/vintage\u0026lt;/a\u0026gt;.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/atari_400-800_advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT #3\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Picture courtesy of \u0026lt;a href\u003d\u0026quot;http://www.sbrowning.com/vintage\u0026quot;\u0026gt;Steve Browning, www.sbrowning.com/vintage\u0026lt;/a\u0026gt;.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/atari_800_advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT #4\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Picture courtesy of \u0026lt;a href\u003d\u0026quot;http://www.sbrowning.com/vintage\u0026quot;\u0026gt;Steve Browning, www.sbrowning.com/vintage\u0026lt;/a\u0026gt;.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/atari_800_advert_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT #5 (1979)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt;Compare the built-in features of leading microcomputers with the Atari personal computers. And go ahead, compare apples and oranges. Their most expensive against our least expensive: the Atari 400...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Atari_400-800_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT #6 (1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Atari_800_Advert_6.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;More power for less money\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Atari_800_GermanAd_1.jpg"
+    }
+  ],
+  "hardware": [
+    {
+      "type": "DISK-DRIVES",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/atari_800_indus-gt_disk-drive_1.jpg",
+          "description": "Indus GT|||5\u0027\u0027/14 disk-drive|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INDUS GT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;5\u0027\u0027/14 disk-drive\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The Indus GT Double Density Drive is considered by many the best floppy drive available for the 8-bit Atari\u0027s with its digital readouts and smoke plexi cover.\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Atari_800_Astra2001FD_1.jpg",
+          "description": "Astra 2001 FD unit|||Dual 5.25|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ASTRA 2001 FD UNIT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Dual 5.25\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Dual 5.25\u0026quot; FDD unit using single side, single or double density floppy drives \u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Atari_800_PercomAd_1.jpg",
+          "description": "Percom disc drive|||Advert|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PERCOM DISC DRIVE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Advert\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;March 1983 Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; The Percom Data AT-88 offers 88 Kbytes (formatted) in single-density, with plug-in ease of attachment to your Atari. The AT-88 has integral power supply, \u0026quot;no-patch\u0026quot; to Atari DOS and critical constant speed regulation.\u0026lt;br\u0026gt; Take advantage of this low introductory price of $488... \u0026lt;/font\u0026gt; \u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "HARD-DRIVES",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/atari_atari800_hd-corvus-systems_1.jpg",
+          "description": "Corvus Systems hard-drive|||10Mb hard-drive|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CORVUS SYSTEMS HARD-DRIVE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;10Mb hard-drive\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is a 10Mb hard-drive. With up to 8 multiplexers with 8 ports each it\u0027s possible to connect up to 64 Atari 800\u0027s up to a single 10 or even 20 megabyte Atari system. Still in use Today at the Fordham Prepatory School in the Bronx, NY is a 64 Atari 800 computer network hooked up to a single Corvus Hard drive system !  \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The Corvus hard disk system also sported a unique and innovative back-up system called \u0026quot;The Corvus Mirror\u0026quot; which was a VCR interface system that allowed you to plug a standard Video Cassette Recorder (VCR) up to the Corvus Hard Drive System to save back-ups of the hard disk onto actual Video Tapes!!!\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "MISC",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Atari_800_AcousticCoupler_1.jpg",
+          "description": "Atari 830 Acoustic coupler||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ATARI 830 ACOUSTIC COUPLER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;User had to place the handset of his phone into the \u0026quot;cups\u0026quot; on the modem.\u0026lt;br\u0026gt; This type of modem wasn\u0027t very reliable as it picked up surround noise and randomly disconnect the communication session\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Features:\u0026lt;br\u0026gt; - Up to 300 bits per second\u0026lt;br\u0026gt; - Bell 103/113 modem compatible\u0026lt;br\u0026gt; - requires Atari 850 Interface Module  \u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Atari_800XL_TouchTablet_s1.jpg",
+          "description": "Touch Tablet||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TOUCH TABLET\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The touch tablet was the best tool for drawing and painting. It shipped with the AtariArtist cartridge.\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Atari_800_825printer_s1.jpg",
+          "description": "ATARI 825 printer||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ATARI 825 PRINTER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The Atari 825 printer was a rebadged version of the 80-column Centronics 727 dot-matrix printer. As it was a parallel printer, it required the Atari 850 Interface. It was able to print all the Atari ASCII character set at 50 characters per second. \u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    }
+  ],
+  "emulator": [
+    {
+      "platform": "MS DOS emulator",
+      "name": "Atari800",
+      "link": "http://atari800.sourceforge.net/",
+      "description": "Atari 800, 800XL, 130XE and 5200 emulator for Unix, Amiga, MS-DOS, Atari TT/Falcon, SDL and WinCE"
+    },
+    {
+      "platform": "MS DOS emulator",
+      "name": "SIO2PC",
+      "link": "http://www.cswnet.com/~nkennedy/sio2pc.htm",
+      "description": "PC emulates Atari Disk"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "Altirra",
+      "link": "http://www.virtualdub.org/altirra.html",
+      "description": "Altirra, an 8-bit Atari computer emulator"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "Atari800Win",
+      "link": "http://www.concentric.net/~Twist/atari800win/"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "Atari800Win Plus",
+      "link": "http://a800win.atari-area.prv.pl/",
+      "description": "Atari 8 bit emulator for windows"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "WAHCE Home Page",
+      "link": "http://www.geocities.com/SiliconValley/Node/4391/"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "XFormer",
+      "link": "http://www.emulators.com/xformer.htm"
+    },
+    {
+      "platform": "Apple emulator",
+      "name": "Chris Lam\u0027s Website",
+      "link": "http://www.chrislam.co.uk/",
+      "description": "homepage for Horizon"
+    },
+    {
+      "platform": "Apple emulator",
+      "name": "The Atari 800 Emulator for the Mac",
+      "link": "http://www.serve.com/derekl/atari/atari_emu.html"
+    },
+    {
+      "platform": "Apple emulator",
+      "name": "WACKE ",
+      "link": "http://www.ctaz.com/~jlfenton/Wacke.html"
+    },
+    {
+      "platform": "Unix / Linux emulator",
+      "name": "ACE",
+      "link": "http://www.csh.rit.edu/~shaggy/software.html"
+    },
+    {
+      "platform": "Unix / Linux emulator",
+      "name": "Atari++",
+      "link": "http://www.math.tu-berlin.de/~thor/atari++/",
+      "description": "Unix based emulator of the Atari eight bit computers, namely the Atari 400 and 800, the Atari 400XL, 800XL and 130XE, and the Atari 5200 game console"
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "Atari800",
+      "link": "http://atari800.sourceforge.net/",
+      "description": "Atari800 is an Atari 800, 800XL, 130XE and 5200 emulator for Unix, Amiga, MS-DOS, Atari TT/Falcon, SDL and WinCE"
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d16",
+    "computer.asp?st\u003d1\u0026amp;c\u003d264",
+    "computer.asp?st\u003d1\u0026amp;c\u003d22",
+    "computer.asp?st\u003d1\u0026amp;c\u003d76",
+    "computer.asp?st\u003d1\u0026amp;c\u003d27",
+    "computer.asp?st\u003d1\u0026amp;c\u003d21",
+    "computer.asp?st\u003d1\u0026amp;c\u003d958",
+    "computer.asp?st\u003d1\u0026amp;c\u003d982",
+    "http://oort.com/turbots/asm.htm",
+    "http://www.atarimagazines.com/",
+    "http://www.nacs.net/~classics/",
+    "http://www.cs.colostate.edu/~dzubera/2600faq.html",
+    "http://www.chez.com/cmpi/paleo/8bits/atari/faq_atar.htm",
+    "http://www.santellocco.com/ATARI/",
+    "http://www.sonic.net/~nbs/new_and_emu.html",
+    "http://www.celebritybase.net/atari8/",
+    "http://www.atarihq.com/",
+    "http://www.atarimagazines.com/",
+    "http://www.tu-chemnitz.de/~sgl/atari/",
+    "http://www.atari.org/",
+    "http://www.atariarchives.org/",
+    "http://www.dhs.nu/",
+    "http://www.geocities.com/SiliconValley/2741/8bit.html",
+    "http://home.columbus.rr.com/ksiders/atari.htm",
+    "http://www2.bitstream.net/~marksim/atarimac/",
+    "http://members.aol.com/MacFalkner/atariindex.htm",
+    "http://rjespino.tripod.com/atari.html",
+    "http://atariki.krap.pl",
+    "http://www.qlam.com/atari/atari.html",
+    "http://www.napri.sk/web/satantronic/",
+    "http://www.benheck.com/Games/Atari_800/Atari_800_laptop_1.htm",
+    "http://www.atari-history.com/",
+    "http://www.ataricave.com",
+    "http://www.newbreedsoftware.com/xlsearch/",
+    "ftp://ftp.spudster.org/pub/Atari/CTH/",
+    "ftp://matrix.ibb.waw.pl/pub/a8/",
+    "news:comp.sys.atari.8bit",
+    "news:comp.sys.atari.announce",
+    "news:comp.sys.atari.programmer"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/Atari_800_System_s1.jpg",
+  "builtInGames": "",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

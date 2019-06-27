@@ -1,0 +1,73 @@
+{
+  "name": "CompuColor II",
+  "manufacturer": "ISC (Intelligent Systems Corp)",
+  "type": "Home Computer",
+  "origin": "U.S.A.",
+  "year": "1977",
+  "production": "",
+  "language": "CompuColor Basic",
+  "keyboard": "Full-stroke keyboard with colorful keys! Separate numeric keypad, function keys and arrow keys",
+  "cpu": "Intel 8080A",
+  "speed": "",
+  "coprocessor": "Intel CRT controller",
+  "ram": "16, 32 or 48 kb depending on models",
+  "vram": "",
+  "rom": "16 kb",
+  "text": "40 x 24, 64 x 32",
+  "graphics": "128 x 128",
+  "colors": "8 colors",
+  "sound": "",
+  "size": "",
+  "ports": "Keyboard, monitor, serial port, external disk drive",
+  "power": "Built-in PSU",
+  "price": "$1495 (USA, 1980)16k model: 1770  (France, 1980)32k model: 2103  (France, 1980)",
+  "description": "\nThe CompuColor II, also called the \u0026quot;Renaissance Machine\u0026quot;, is said to be the first home-computer available with a colour display. ISC (Intelligent Systems Corp), who was a large color computer manufacturer, conceived the CompuColor II built into a RCA color TV chassis (sans tuner assembly). The main problem of the system was that the machine had *no* RFI (Radio Frequency Interference) shielding what-so-ever and the FCC was soon on their butts. They planned to redesign the system but then prefered to stop production...\n\nThe first Compucolor system (model 8001) was in fact an 8080 based terminal (model 8001) and was later followed by the CompuColor II (model 8051), with BASIC and a floppy interface. It seems like the system was sold by ISC, Compucolor and Intecolor; but in which order ? Any idea someone ?\n\nDifferent models with different keyboards were available. The one pictured here is the Deluxe model with a full implemented keyboard. There were models with 16, 32 or 48 kb RAM. Later models seemed to have a built-in 300 baud modem. Apparently, you could not format the 5.25\u0026quot; disks yourself, surely because Intecolor wanted to make money by selling these preformated disks... But many users ended up by writing their own formating programs.\n\nThe system was very vulnerable to certain hardware tinkering. Tampering with the addresses that accessed the hardware registers could wipe out all the RAM (it did something fatal to the refresh logic). It used an Intel CRT controller for screen processing. Altering the number of scanlines to too high a value could kill the CRT.\n\nThe ROM contained a ripped-off version of Microsoft BASIC and a simplistic file system. Microsoft found out about them, and forced ISC to become a Microsoft distributor. They also collected royalties on all machines sold up to that time.\n\nThe disk drive was originally designed to use an 8-track tape cartridge for storage (yes, you read that right!). When that proved to unreliable, they switched to a 5.25 inch disk drive. They didn\u0027t change the file system, which still thought it was a tape drive. When you deleted a file, it re-packed all remaining files back to the front of the disk. Used the 8K of screen RAM for a buffer to do it, which led to some psychedelic I/O.\n\nSome games were available, such as the famous Star-Trek, Othello, Chess, Black Jack, Tic Tac Toe, etc.\n\nThanks to the Computer Closet Collection for the picture.\nThanks to Woodside for some information.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;COMPUCOLOR II\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The long flat cable is used to connect the keyboard to the monitor.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Picture courtesy of \u0026lt;a href\u003d\u0026quot;http://www.geocities.com/~compcloset/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;the Computer Closet Collection\u0026lt;/a\u0026gt;.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/intecolor_compucolor2_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;48 KB MODEL\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/compucolor_II_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;16 KB MODEL\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Notice the keyboard which is simpler than the 48 kb model one.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/intecolor_compucolor2_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;16 KB MODEL\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/compucolor_16k-model_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SOMEONE PLAYING OTHELLO GAME\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;from front cover of a Deutch magazine (Radio Bulletin)\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/compucolor_othello_someoneplaying.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1979)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt;You may not have thought of all the reasons for buying a personal computer. There are exciting games, of course, but what about financial management, household records, even income tax? You need a versatile, sophisticated machine that\u0027s as limitless as your imagination. You need the Compucolor ll...\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Compucolor_ll_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;NEW ZELAND AD. (1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert says:\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; The renaissance machine is a \u0026quot;one-of-a-kind\u0026quot; system for the \u0026quot;one-of-a-kind\u0026quot; person who demands and will not settle for anything less than, the best.\u0026lt;/font\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Murray Moffatt\u0026lt;/b\u0026gt; from New Zeland\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Compucolor_ll_Advert_s2.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [
+    "http://www.computercloset.org/CompuColorII.htm",
+    "http://www.trailingedge.com/~dlw/comp/wtemplate.html?compucolor2"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/intecolor_compucolor2_1.jpg",
+  "builtInGames": "CompuColor Basic",
+  "controllers": "",
+  "media": "5.25\u0027\u0027 disk-drive (51,2 kb, 40 tracks, average access time 400ms, transfer rate 76,8 Kb/s), built-in the monitor",
+  "numGames": "",
+  "peripherals": "Additional disk drive",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

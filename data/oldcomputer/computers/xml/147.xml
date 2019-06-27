@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computer>
+    <adverts>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;JUPITER BROCHURE #1&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/Jupiter_Ace_Brochure_s1.jpg</link>
+        </advert>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;JUPITER BROCHURE #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/Jupiter_Ace_Brochure_s2.jpg</link>
+        </advert>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;UK ADVERT #1&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/cantab_jupiter-ace_advert1.jpg</link>
+        </advert>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;UK ADVERT #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;p class=&amp;quot;petitgris&amp;quot;&amp;gt;Thanks to &amp;lt;a href=&amp;quot;http://wotsit.thingy.com/haj/&amp;quot;&amp;gt;Howard Jones&amp;lt;/a&amp;gt; for this picture.&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/cantab_jupiter-ace_ad_2.jpg</link>
+        </advert>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;FRENCH AD (JULY 1983)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;quot;access to the Forth power&amp;quot; &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; &amp;quot;with the Jupiter Ace, enjoy profesionnal experience of Forth&amp;quot;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/jupiter-ace_ad_access-puissance.jpg</link>
+        </advert>
+    </adverts>
+    <batteries></batteries>
+    <builtInGames>Forth</builtInGames>
+    <buttons></buttons>
+    <colors>Monochrome</colors>
+    <controllers></controllers>
+    <coprocessor></coprocessor>
+    <cpu>Zilog Z80A</cpu>
+    <description>
+The Jupiter ACE looks very similar to the Sinclair ZX 81. Actually, the 
+designers of this computer, Richard Altwasser and Steven Vickers, played 
+a major role in creating the Sinclair Spectrum.
+
+The ACE is very similar 
+to the ZX 81, but has some extra features: it has a user port, and it 
+can generate sound (the ZX 81 can't). It can also use RAM expansion 
+modules for the ZX 81 smaller than 64KB via a small adapter.
+
+Its most significant feature is its language: instead of using BASIC 
+like other computers, it uses the FORTH language (as did the Hector HRX).
+
+FORTH's advantages are that it's comprehensible, small, interactive,
+fast and extensible. It centers around writing procedures which operate 
+on objects on a FIFO stack, and is not as intuitive as BASIC. FORTH was 
+three to ten times faster than BASIC but was not as easy to learn.
+
+This computer did not achieve significant success, probably due to its 
+relatively obscure language - as far as the general public was concerned.
+
+Steve Vickers wrote the ZX Spectrum manual - he has been an academic 
+researcher working most recently (2003) at Imperial College London, and 
+the Open University.
+ 
+
+
+</description>
+    <emulators>
+        <emulator>
+            <description>Jupiter ACE Emulator for MSDOS by Paul Robson</description>
+            <link>http://www.jupiter-ace.co.uk/ace32.html</link>
+            <name>ACE32</name>
+            <platform>MS DOS emulator</platform>
+        </emulator>
+        <emulator>
+            <description>The best Jupiter Ace Emulater for Windows platform , including AY8910 sound chip, colour board.The emulator of choice by the Jupiter Ace Archive team.</description>
+            <link>http://www.chuntey.com/eightyone/</link>
+            <name>EightyOne</name>
+            <platform>Windows emulator</platform>
+        </emulator>
+        <emulator>
+            <description>Jupiter Ace Emulator for Sam Coupe computers</description>
+            <link>http://www.jupiter-ace.co.uk/blaze.html</link>
+            <name>Blaze </name>
+            <platform>Other platform emulator</platform>
+        </emulator>
+        <emulator>
+            <description>Nice emulators by Edward Patel, for Windows and Unix. There is even a 3D version !!</description>
+            <link>http://hem.passagen.se/tiletech/ace.html</link>
+            <name>XACE, VACE and VACE3D Jupiter Ace emulators</name>
+            <platform>Multiplatform emulator</platform>
+        </emulator>
+    </emulators>
+    <graphics>64 x 48</graphics>
+    <gun></gun>
+    <hardwares/>
+    <image>http://www.old-computers.com/museum/photos/Jupiter_Ace_System_1.jpg</image>
+    <keyboard>QWERTY, chicklet keyboard, 40 keys, auto-repeat</keyboard>
+    <language>Forth</language>
+    <links>
+        <link>http://www.jupiter-ace.co.uk/usermanual.html</link>
+        <link>http://users.aol.com/autismuk/ace/faq.htm</link>
+        <link>http://www.jupiter-ace.co.uk/</link>
+        <link>http://home.micros.users.btopenworld.com/JupiterAce/JupiterAce.html</link>
+        <link>http://users.aol.com/autismuk/ace/software.htm</link>
+    </links>
+    <manufacturer>Jupiter Cantab</manufacturer>
+    <media></media>
+    <name>Jupiter Ace</name>
+    <numGames></numGames>
+    <origin>United Kingdom</origin>
+    <peripherals>RAM expansion</peripherals>
+    <ports>UHF TV out (channel 36), User Port, Tape interface (1500 baud), Z80 Bus</ports>
+    <power>External PSU</power>
+    <price>?89.95 (UK, september 1982)</price>
+    <production></production>
+    <ram>3 kb (up to 51 kb)</ram>
+    <rom>8 kb</rom>
+    <screenshots>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;JUPITER ACE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Jupiter_Ace_System_2.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;TOP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/jupiter_ace_top.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;KEYBOARD CLOSE-UP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Jupiter_Ace_Keyboard_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;UNCOVERED&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Note the large power regulator IC metallic cooler.&amp;lt;br&amp;gt; Keyboard membrane is simply put down on the board. &amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Jupiter_Ace_uncover_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;JUPITER'S HEART&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The Jupiter design is very similar to the Sinclair ZX 80's one, except from the specialized component. Indeed you have to be sure to sell a great number of systems, if you want to be able to pay the development and production costs of such a component.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(1)&amp;lt;/b&amp;gt; 5-volt power regulator&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(2)&amp;lt;/b&amp;gt; Power jack. Power is supplied by an external AC adaptor&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(3)&amp;lt;/b&amp;gt; Z80-A microprocessor. Here a Nec version&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(4)&amp;lt;/b&amp;gt; Memory expansion connector. It is compatible with the Sinclair ZX 81 memory modules (up to 16 Kb). with a special adapter&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(5)&amp;lt;/b&amp;gt; 2 x 4 KB ROM chips holding the FORTH programming language&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(6)&amp;lt;/b&amp;gt; Buzzer&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(7)&amp;lt;/b&amp;gt; 2 x 2114 static RAM chips holding 1 KB of RAM&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(8)&amp;lt;/b&amp;gt; 4 x 2114 RAM chips hold 2 additional KB of RAM&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(9)&amp;lt;/b&amp;gt; Peripherals connector, mainly used for printers&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(10)&amp;lt;/b&amp;gt; Modulator for T.V. aerial video signal&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(11)&amp;lt;/b&amp;gt; Tape recorder Load/Save jacks. Data transfer reliability is better than the Sinclair one.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(12)&amp;lt;/b&amp;gt; Keyboard contacts. When a key is pressed, a contact is made between 2 lines of the circuit &amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Jupiter_Ace_insideExpl_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;RUBBER KEYBOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The rubber keyboard and &amp;quot;eraser&amp;quot; keys need some practice for fast typing.&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Jupiter_Ace_Keyboard_2.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;BACK&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Note the peripherals (left) and memory expansion connectors.&amp;lt;br&amp;gt; Grooves on the back cover are meant to avoid the thin plastic case bending out of shape. &amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Jupiter_Ace_Back_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;LAST MINUTE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Last minute factory modification&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Jupiter_Ace_LastMinute_1.jpg</link>
+        </shot>
+    </screenshots>
+    <size>21.8(W) x 19.2(D) x 3.2(H) cm. / 246 g</size>
+    <sound>Internal beeper</sound>
+    <speed>3.25 MHz</speed>
+    <switches></switches>
+    <text>32 columns x 24 lines</text>
+    <type>Home Computer</type>
+    <vram></vram>
+    <year>1983</year>
+</computer>

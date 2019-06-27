@@ -1,0 +1,207 @@
+{
+  "name": "Amiga 500",
+  "manufacturer": "Commodore",
+  "type": "Home Computer",
+  "origin": "U.S.A.",
+  "year": "April 1987",
+  "production": "1991",
+  "language": "",
+  "keyboard": "Built-in keyboard, 95 keys",
+  "cpu": "Motorola MC68000",
+  "speed": "7.09379 MHz (PAL)7.15909 MHz (NTSC)",
+  "coprocessor": "OCS based chipset: 8370/8372 Fat Agnus (memory controller and blitter), 8362R5/8362R6/8362R8 Denise (video control chip), 8364 Paula (sound \u0026amp; I/O), 5719R2 Gary (I/O)",
+  "ram": "512 KB Chip RAM (expandable to 9MB : 512 KB Chip RAM + 512 KB Slow RAM + 8 MB Fast RAM)",
+  "vram": "",
+  "rom": "Kickstart 1.2: 256 KB (Early models)Kickstart 1.3: 256 KB (Later models)",
+  "text": "",
+  "graphics": "320x256, 320x512, 640x256, 640x512",
+  "colors": "Palette: 4096On screen: 16 in 640 modes, 32 in 320 modes, 64 in EHB, 4096 in HAM",
+  "sound": "4 channel 8 bit PCM, stereo output",
+  "size": "Unknown",
+  "ports": "RS-232 serial port, Centronics parallel port, external disk interface, 2x RCA audio, cartridge interface, expansion interface, 2x Atari joystick/mouse ports",
+  "power": "External PSU",
+  "price": "?599 (UK, 1987), $595 (U.S.A., 1987), ?369 (UK, 1990)",
+  "description": "\nCommodore\u0027s Amiga 500 was the low-end version of the Amiga 2000 and the main competitor of Atari\u0027s 520/1040 ST range. The A500 was superior in almost every area, apart from its MIDI capabilities and the disk drive, which was not only slow but very noisy as well and a bitter feud quickly developed between owners of these rival machines.\n\nHardware wise, the A500 is very similar to the Amiga 1000, the main internal differences being an increase in memory fom 256 KB to 512 KB and the addition of another custom chip named \u0026quot;Gary\u0026quot; (the only Amiga chip with a male name). This is a new I/O chip that controls the disk drive and also performs address decoding. This chip is also used in the high-end A2000.\n\nThe A500 was easier to upgrade than both the ST and big box Amigas, thanks to an expansion port located in the bottom of the case. Owners could simply insert a small board which contained an extra 512 KB of Ram and a battery-backed clock. The popularity of this upgrade meant that more 1 MB software (both 1 MB versions of 512 KB software and 1 MB only software) was released for the Amiga than the ST, which had to be taken apart to expand the memory.\n\nOver the course of the A500s lifespan several different packages were available, the most basic of which included only the computer, TV modulator and Workbench disks. A number of bundles were also sold, such as the best selling \u0026quot;Batman Pack\u0026quot; which was released in 1989 and included 3 games and Deluxe Paint 2.\n\nThe A500 was discontinued in 1991 and replaced by the short lived Amiga 500 Plus.\n\nPandy comments:\nThe Amiga 500 is a \u0026quot;cleaned\u0026quot; A1000, \u0026quot;cleaned\u0026quot; means plenty of TTL glue logic was replaced by custom IC which was named Gary. A500+ it is a new generation of custom IC\u0027s so called ECS (A500 have OCS). A500+, A3000, A600 have new graphics modes (1280 dots in line without overscan and 31Khz scanning similar to VGA - limited to 640 pixels in line with 4 colors).\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BOX\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/commodore_amiga500_box.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BOX #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/commodore_amiga500_box_2.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;November 1987\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; ...This elegant little machine takes family computing into new dimensions of creativity, excitement and productivity. It outruns and outguns office PCs as a business multi-tasker, performing a deskful of different jobs simultaneously at over 7 million steps per second in realtime... \u0026lt;/font\u0026gt;  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Commodore_Amiga500_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (DEC. 1987)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/commodore_amiga500_pub_pour-faire-fort.jpg"
+    }
+  ],
+  "hardware": [
+    {
+      "type": "AUDIO",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/commodore_amiga_golden-hawk-midi-interface.jpg",
+          "description": "MIDI Gold 500 |||by Golden Hawk Technology|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MIDI GOLD 500 \u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;by Golden Hawk Technology\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is a MIDI interface for the Amiga 500, 2000, or 3000... \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; It features :\u0026lt;br\u0026gt; - one MIDI In\u0026lt;br\u0026gt; - two MIDI Out\u0026lt;br\u0026gt; - one switchable Out/Thru\u0026lt;br\u0026gt; - one MIDI/Serial Switch\u0026lt;br\u0026gt; - one Out/Thru Switch\u0026lt;br\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "CARDS",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/commodore_amiga1000_1300-genlock.jpg",
+          "description": "Amiga 1300|||Genlock|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;AMIGA 1300\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Genlock\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Commodore_Amiga1500_MemBoard_1.jpg",
+          "description": "Memory expansion board||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MEMORY EXPANSION BOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;2 / 4 / 6 / 8 MB expansion card here fitted with 2 MB.\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Commodore_Amiga1500_VideoBoard_1.jpg",
+          "description": "Video board||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;VIDEO BOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This board featured 2 MB of RAM and allowed the Amiga to be connected to a standard VGA monitor. All the video modes could be displayed, including the interlace one.\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "DRIVES",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/amiga_cdrom_a570_1.jpg",
+          "description": "A570 CD-ROM||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;A570 CD-ROM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to David Griffith for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Commodore_Amiga1500_HDBoard_1.jpg",
+          "description": "Hard Disk card||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;HARD DISK CARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;40 MB SCSI card from SUPRA CORP.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Additional SCSI devices could be connected in chain trough the back connector\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/commodore_amiga-500_flyer-harddrive.jpg",
+          "description": "Flyer Hard-drive||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FLYER HARD-DRIVE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Commodore_Amiga500_ExtHD_1.jpg",
+          "description": "External hard disk|||GVP 8 MB|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;EXTERNAL HARD DISK\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GVP 8 MB\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    }
+  ],
+  "emulator": [
+    {
+      "platform": "Windows emulator",
+      "name": "Amiga Forever",
+      "link": "http://www.amigaforever.com/",
+      "description": "Complete but commercial Amiga emulator"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "AMIthlon \u0026amp; AmigaXL",
+      "link": "http://amigaosxl.haage-partner.de/index-e.html",
+      "description": "Powerful commercial emulators"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "WinFellow",
+      "link": "HTTP://FELLOW.SOURCEFORGE.NET",
+      "description": "Probably better at some games than UAE, but not as versatile."
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "WinUAE",
+      "link": "http://www.winuae.net/",
+      "description": "The best Amiga emulator ? :-)"
+    },
+    {
+      "platform": "Apple emulator",
+      "name": "Max UAE",
+      "link": "http://maxuae.de/",
+      "description": "UAE for Mac OS X"
+    },
+    {
+      "platform": "Unix / Linux emulator",
+      "name": "AmigaSYS",
+      "link": "http://amigasys.fw.hu/",
+      "description": "AmigaSYS is a pre-installed full Amiga OS for WinUAE"
+    },
+    {
+      "platform": "Other platform emulator",
+      "name": "Pocket UAE",
+      "link": "http://pocketinsanity.sourceforge.net/",
+      "description": "Amiga Emulator for Pocket PC"
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "Experimental UAE",
+      "link": "http://www.rcdrummond.net/uae/",
+      "description": "Standard UAE enhanced with features from WinUAE."
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "MESS",
+      "link": "http://www.mess.org",
+      "description": "MESS now emulates the Commodore Amiga"
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "UAE",
+      "link": "http://www.freiburg.linux.de/~uae/",
+      "description": "(Ubiquitous Amiga Emulator) for BeOS, Mac OS, Linux, NextStep, MSDOS, OS/2 and Win95/NT : Homepage."
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d28",
+    "computer.asp?st\u003d1\u0026amp;c\u003d628",
+    "computer.asp?st\u003d1\u0026amp;c\u003d624",
+    "computer.asp?st\u003d1\u0026amp;c\u003d63",
+    "computer.asp?st\u003d1\u0026amp;c\u003d907",
+    "computer.asp?st\u003d1\u0026amp;c\u003d30",
+    "computer.asp?st\u003d1\u0026amp;c\u003d32",
+    "computer.asp?st\u003d1\u0026amp;c\u003d1260",
+    "computer.asp?st\u003d1\u0026amp;c\u003d64",
+    "computer.asp?st\u003d1\u0026amp;c\u003d1261",
+    "computer.asp?st\u003d1\u0026amp;c\u003d106",
+    "http://www.randelshofer.ch/animations/",
+    "http://amiga.emugaming.com/",
+    "http://www.virtualpast.de/",
+    "http://www.cucug.org/amiga.html",
+    "http://www.amigart.com",
+    "HTTP://WWW.BACK2ROOTS.ORG/",
+    "http;//www.lemonamiga.com",
+    "http://amiga.multigraph.com/",
+    "http://www.netbsd.org/Ports/amiga/index.html",
+    "http://www.old-computer-mags.com/",
+    "http://www.recordedamigagames.org",
+    "http://www.retropack.co.uk/",
+    "http://ourworld.compuserve.com/homepages/MikeWebb/amhome.html",
+    "http://www.amiga-hardware.com/",
+    "http://eab.abime.net/",
+    "http://www.amiga.org/",
+    "news:comp.binaries.amiga",
+    "news:comp.sources.amiga",
+    "news:comp.sys.amiga.advocacy",
+    "news:comp.sys.amiga.announce",
+    "news:comp.sys.amiga.announce",
+    "news:comp.sys.amiga.emulations",
+    "news:comp.sys.amiga.games",
+    "news:comp.sys.amiga.hardware",
+    "news:comp.sys.amiga.marketplace",
+    "news:comp.sys.amiga.misc",
+    "news:comp.sys.amiga.programmer",
+    "news:comp.sys.amiga.programmer"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/commodore_amiga-500.jpg",
+  "builtInGames": "3.5\u0027\u0027 floppy disk drive",
+  "controllers": "",
+  "media": "3.5\u0027\u0027 floppy disk drive",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

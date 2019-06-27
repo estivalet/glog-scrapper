@@ -1,0 +1,178 @@
+{
+  "name": "MD",
+  "manufacturer": "Mostek",
+  "type": "Professional Computer",
+  "origin": "U.S.A.",
+  "year": "1979",
+  "production": "",
+  "language": "Monitor in ROM",
+  "keyboard": "Depending of the video terminal used",
+  "cpu": "Z80",
+  "speed": "4 Mhz",
+  "coprocessor": "None",
+  "ram": "8 KB expandable to 64 KB",
+  "vram": "",
+  "rom": "",
+  "text": "80 chars x 25 lines",
+  "graphics": "",
+  "colors": "",
+  "sound": "No sound",
+  "size": "54 (W) x 60 (H) x 44 (D) cm. / Heavy!",
+  "ports": "2 x serial, 2 x A/D-D/A, 1 x Parallel, video terminal",
+  "power": "3 x built-in power supply units (+24V for FDD / + 5V / +12 -12V)",
+  "price": "Unknown",
+  "description": "\nThe Mostek MD (from Micro Design) marked the entry of Mostek Company in the computer business.\n\nIt was a development system, aimed at promoting the family of Mostek boards, and built around several boards based on the 64 pin SDT bus.\n \nThe hearth of the system was the CPU board holding a Z80 (Mostek) processor, 10 KB of ROM and 8 KB of RAM. A large range of additional cards could be then added: dual Serial port, 32 KB RAM, Analogue/digital converter, 32-bit parallel port, and so on.\n\nUsing an ASCII video terminal, a basic one-board system allowed machine code programs to be assembled, debugged and run thanks to the built-in ROM monitor.\n\nA complete system - like the one pictured - could manage two 8\u0026quot; floppy disc drives and run CP/M Operating System. However, these systems were mainly used for managing external devices in laboratories, universities and industry.\n\nSpecial thanks to John Jenkins\n\n\n\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;COMPLETE SYSTEM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;MD system with a Volker-Craig video terminal  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Mostek_MD_WithTerminal_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TERMINAL CLOSE-UP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Mostek_MD_VolkerTerminal_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BOTTOM RACK #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The bottom rack holds two 8\u0026quot; floppy drives  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Mostek_MD_FrontSide_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BOTTOM RACK #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The two impressive floppy drives with their own 24V power supply unit.    \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Mostek_MD_bottomRack_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TOP RACK #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;From left to right:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; - CPU board\u0026lt;br\u0026gt; - 32 KB RAM and Parallel port board\u0026lt;br\u0026gt; - Dual serial port board\u0026lt;br\u0026gt; - Floppy drives controller board\u0026lt;br\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Mostek_MD_TopRack_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TOP RACK #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Mostek_MD_TopRack_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BACK SIDE #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; +12V / -12V power supply unit\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; +5V second power supply unit\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; Dual 64 lines bus. Bottom bus is used for addresses and data lines, top bus is used for I/O. Main boards use the dual bus, some others \u0026lt;b\u0026gt;(5)\u0026lt;/b\u0026gt; only use the bottom one.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(4)\u0026lt;/b\u0026gt; I/O cables. They are normally fixed to the back panel.\u0026lt;br\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Mostek_MD_BackOpen_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BACK SIDE #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; Z80 bus I/O connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; Analogue / digital converter connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; Composite video connectors. Video signal comes from the main CPU board.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(4)\u0026lt;/b\u0026gt; Parallel connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(5)\u0026lt;/b\u0026gt; 2 x Serial connectors\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(6)\u0026lt;/b\u0026gt; Video terminal connector\u0026lt;br\u0026gt; \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Mostek_MD_Backclosed_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;WIRED BUSES\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Notice that the system didn\u0027t use backplane but handy wired buses.  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Mostek_MD_WiredBus_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CPU BOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This board holds all the necessary chips allowing it to be used as a stand alone unit. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; Mostek Z80 processor\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; Step by step switch\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; Reset switch\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(4)\u0026lt;/b\u0026gt; 16 KB RAM memory (8 x 4116 chips)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(5)\u0026lt;/b\u0026gt; 4 KB Monitor ROMs (4 x 2708)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(6)\u0026lt;/b\u0026gt; Z80 CTC - Counter Timer Circuit\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(7)\u0026lt;/b\u0026gt; 2 x Z80 PIO - Parallel Input Output Controllers\u0026lt;br\u0026gt; \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Mostek_MD_MainBoard_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROMOTIONAL PICTURE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is a promotional picture for the Channel F System II.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/fairchild_channelf_sys2_promo-pic.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;COMMERCIAL PAMPHLET - PAGE #4\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;thanks to Richard Rogers \u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/centraldata_2650_flyers_4.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (DEC. 1987)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/commodore_amiga500_pub_pour-faire-fort.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sinclair_zx-sepctrum_advrte_sinclair-simpose.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;STUPID PICTURE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;An 80\u0027s beautiful (!) woman tries to convince us that it\u0027s very exciting to work with an Alpha Plus...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/alcatel_alphaplus_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. AD. JUNE 1983\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;First advert of the Model 100.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Tandy_model100_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1978 BROCHURE #20\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/MSI_6800_Brochure_s20.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;VICTOR AD #3 (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;In this advert, Victor tried to convince future IBM PC buyers that the Victor 9000 hardware technology was much more advanced than that of its competitor. \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Victor_9000_Advert_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;OFFICIAL FLYER (RECTO)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.mainbyte.com\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;www.mainbyte.com\u0026lt;/a\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/myarc_geneve_flyer_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;John V. Blankenbaker designed the Kenbak-1 and marketed in the pages of Scientific American in 1971. The machine\u0027s name was taken from the middle of John\u0027s last name.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.vintage-computer.com\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;www.vintage-computer.com\u0026lt;/a\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/kenback1_1_advert.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;NLS ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;An advert from Non-Linear Systems, dated July, 1982 for the KAYCOMP II that was not still called KAYPRO. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt;\u0026lt;b\u0026gt;A WORD ABOUT NLS\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; Non-Linear Systems, inc. is the originator of the digital voltmeter and an innovative leader in the field of electronic test equipment.\u0026lt;br\u0026gt; Organized in 1952, NLS has been a major supplier of digital voltmeters and ratiometers to large corporations in the aerospace industry. Since 1972, NLS has been consumer directed, providing small, portable multimeters, oscilloscopes, counters, frequency meters, temperature meters. And now, NLS has entered the world of computers with one though - to provide the best value in a small, business, scientific and family computer.\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Standard software delivered with the KAYCOMP II: \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; - \u0026lt;b\u0026gt;CP/M 2.2\u0026lt;/b\u0026gt; - operating system\u0026lt;br\u0026gt; - \u0026lt;b\u0026gt;S/BASIC\u0026lt;/b\u0026gt; - Structured Basic compiler\u0026lt;br\u0026gt; - \u0026lt;b\u0026gt;PROFIT PLAN\u0026lt;/b\u0026gt; - Electronic worksheet\u0026lt;br\u0026gt; - \u0026lt;b\u0026gt;SELECT\u0026lt;/b\u0026gt; - Complete word processing system\u0026lt;br\u0026gt; - \u0026lt;b\u0026gt;TEACH\u0026lt;/b\u0026gt; - A self-teaching guide to SELECT \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Kaypro_II_KaycompAd_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN AD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/spectravideo_sv318_german-ad_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (1984)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is a small advert from a french reseller \u0026quot;Vectron\u0026quot;. The ad is dated november 1984 and the EXL-100 is sold for 3240fr. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The title says : \u0026quot;The french answer\u0026quot; \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/exelvision_exl100_vectron-ad_nov84.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;The family advice\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/triumph-adler_alphatronic-pc_ad_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT #5\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/commodore_vic20_ad_price-of-a-toy.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPANESE LEAFLET\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.pugly.juice.or.jp/pugly/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Pugly\u0026lt;/a\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sharp_mz80c_leaflet.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BROCHURE #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Brd_Dolphin_Brochure_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROMOTIONAL PICTURE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/timex_2068_promo-pic.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DISK DRIVE #2 FEB. 1983\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert says:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; These 35-track, 51/4\u0026quot; double-density drives will give you the high-level performance you want from your Color Computer. Each drive puts over 156K of on-line data and program storage right at your fingertips. And you can chain up to four drives together for a total of more than 626K. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Yet all that extra storage is available at a seek time of 30 milliseconds and a data transfer rate of 250 bits per second...\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Tandy_Color1_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BRIDGE COMPUTER VERSION\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;In 1982, the \u0026lt;b\u0026gt;Bridge Computer Company\u0026lt;/b\u0026gt; (Newton, MASS) sold a Z80 software developper system with the InterSystems mainframe, CP/M 2.2 operating system and various optional  programming languages.The configuration was:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; - 6 Mhz. Z80-B CPU with memory management\u0026lt;br\u0026gt; - 256 KB RAM expandable to 1 MB\u0026lt;br\u0026gt; - Two 8\u0026quot; or 5.25\u0026quot; F.D. drives, single or double sided\u0026lt;br\u0026gt; - Optional 5\u0026quot; or 8\u0026quot; hard disk, up to 40 MB\u0026lt;br\u0026gt; - Televideo serial video terminal. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Advert said:\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; Does this sound too good to be true? Just fill your tank with the BRIDGE 3C formula for SPEED and shift into \u0027overdrive\u0027 with your bridge 3C Compiler System. Leave the other behind, let us provide you with the fuel for higher productivity...\u0026lt;/font\u0026gt;  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/InterSystems_Dps1_Bridge_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;AMTEXT BROCHURE #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The brochure says:\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; When you buy, lease or rent word processing equipment from AM Jacquard Systems, you get our total commitment, now and in the future, that assures the successful installation and operation of your AMtext word processing system. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; To support that commitment, we have offices in over 100 cities throughout North America staffed with skilled professionals ready to meet your neads with planning, training. supplies, and service... \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; ...The AMtext 100 is a true shared resource, multifunction information system capable of supporting multiple work stations and peripherals simultaneously. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The Amtext 425 and 425A are powerful stand-alone work stations with a full-page video display \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The AMtext 225 is a low-cost system that turns electric typewriters into flexible text editors. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The AMtext product line includes a complete selection of peripheral devices, including telecommunications, an optical character reader. magnetic card reader, phototypesetters, daisy wheel printers. high-speed line and matrix printers, as well as mass storage on floppy and hard disk drive units.  \u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Jacquard_J100_AmText_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;OEMS WANTED\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Altos_ACS580_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;COMMERCIAL PAMPHLET  - PAGE #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;... from Australia\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;thanks to Richard Rogers\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/centraldata_2650_flyers_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROTOTYPE SOFTWARE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This picture from an early advert published in january 1983 is very interesting (the TO-7 was just released then). The text below it said \u0026quot;Hours of entertainment...\u0026quot;. But when you look more carefully at the software boxes you realise that they are fake! Only the two extreme boxes are real, but still shows the same game title \u0026quot;3-D TIC-TAC TOE\u0026quot;! So there is only one game presented here! The photograph was surely taken at an early development stage... \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Even the name of the computer written on top of the boxes: \u0026quot;TOM 7\u0026quot; (Tele Ordinateur Multimedia?) seems to be an early name for the TO-7... \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Hours of entertainment they said...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_to7_software-proto.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [],
+  "image": "http://www.old-computers.com/museum/photos/Mostek_MD_System_1.jpg",
+  "builtInGames": "Monitor in ROM",
+  "controllers": "",
+  "media": "2 x 8",
+  "numGames": "",
+  "peripherals": "All STD Bus cards",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

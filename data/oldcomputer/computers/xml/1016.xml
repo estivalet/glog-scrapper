@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computer>
+    <adverts>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;DIAGRAMS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;PMI-80 diagram located in the case cover.&amp;lt;br&amp;gt; If you are interested in more diagrams of the PMI-80, dowload this zipped &amp;lt;a href=&amp;quot;http://www.old-computers.com/Museum/downloads/Tesla_PMI80_Diagrams.zip&amp;quot;&amp;gt;file&amp;lt;/a&amp;gt; holding three diagrams of the whole system.&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/Tesla_Pmi80_CaseCover_s1.jpg</link>
+        </advert>
+    </adverts>
+    <batteries></batteries>
+    <builtInGames>Machine language hexadecimal monitor</builtInGames>
+    <buttons></buttons>
+    <colors></colors>
+    <controllers></controllers>
+    <coprocessor>None</coprocessor>
+    <cpu>TESLA MHB 8080 (Intel 8080 clone)</cpu>
+    <description>
+The PMI was used for learning programing machine code in Czech and Slovakian polytechnic university from 1982 year.
+
+It was developed and manufactured in Tesla Piestany factory which core business was to produceo active components like diode, transistor and integrated ciruits, including the MHB 8080A CPU and chip from his family. 
+
+It was a basic system, enclosed in a plastic case and precisely based on the MHB 8080A, a Tesla version the 8080 processor.
+
+It had minimal ROM, RAM and I/O capabilities, but enough in schools, to enter, study and run small programs.
+
+Thanks to Jiri Cernohlavek, from Czech Republic, for information and pictures.
+_______________________</description>
+    <emulators/>
+    <graphics></graphics>
+    <gun></gun>
+    <hardwares/>
+    <image>http://www.old-computers.com/museum/photos/Tesla_Pmi80_System_s2.jpg</image>
+    <keyboard>25 key calculator type - Hexadecimal and function keys</keyboard>
+    <language>Machine language hexadecimal monitor</language>
+    <links/>
+    <manufacturer>Tesla</manufacturer>
+    <media></media>
+    <name>PMI-80</name>
+    <numGames></numGames>
+    <origin>Czechoslovakia</origin>
+    <peripherals>Additional ROM and I/O chip sockets</peripherals>
+    <ports>DIN 5-pin Power - DIN 5-pin analog I/O to tape -</ports>
+    <power>External power supply unit,  +5V / -5V / +12V</power>
+    <price></price>
+    <production></production>
+    <ram>1 KB</ram>
+    <rom>1 KB</rom>
+    <screenshots>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;MAIN BOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(1)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Tape recorder DIN socket&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(2)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; MHB 8080  microprocessor&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(3)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; MH 8228 (Intel 8228 clone) - MicroBus controler, converts CPU signals into I/O, MEM, R/W signals &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(4)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; MHB 8255 (Intel 8255 clone) - main I/O chip, 3x8-bit I/O channels, 1 channel for user, 2 channels for keyboard &amp;amp; display &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(5)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Second optional 8255 offering three additional I/O channels &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(6)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; ROM chip holding the MONITOR program &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(7)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt;MH 8224 clock generator and MH 3205 memory controller&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(8)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Two MHB 2114 (Intel 1k * 4-bit 2114 clone) RAM chips holding the 1 KB user RAM&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(9)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Optional I/O card connectors &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; An expansion bus is also located between the microprocessor and the ROM chip.   &amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Tesla_Pmi80_System_s1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;COMPLETE SYSTEM&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;p class=&amp;quot;petitgris&amp;quot;&amp;gt;Thanks to &amp;lt;b&amp;gt;Horymir Marek&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Tesla_Pmi80_System_s3.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;PMI-80 CASE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Tesla_Pmi80_Case_s1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;CHIPS CLOSE-UP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;CPU, I/O, ROM and RAM chips.&amp;lt;p class=&amp;quot;petitgris&amp;quot;&amp;gt;Thanks to &amp;lt;b&amp;gt;Horymir Marek&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Tesla_Pmi80_BoardCloseUp_s2.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;KEYBOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Tesla_Pmi80_Keyboard_s1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;DISPLAY&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Calculator type diodes display&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Tesla_Pmi80_Display_s1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;DISPLAY #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;When the computer starts, it displays this message.&amp;lt;p class=&amp;quot;petitgris&amp;quot;&amp;gt;Thanks to &amp;lt;b&amp;gt;Horymir Marek&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Tesla_Pmi80_DispLight_s1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;PMI-80 LOGO&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Tesla_Pmi80_Logo_s1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;I/O CARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This card displays each bit of the data bus. It also has a digital to analog converter which allow 0V to 12V output with 256 steps. The max voltage can be adjusted, between 0 and 12V,  thanks to the variable resistor. &amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Tesla_Pmi80_IOcard_s1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;MANUALS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The manuals were actualy a complete course on each chip which make up the computer.&amp;lt;p class=&amp;quot;petitgris&amp;quot;&amp;gt;Thanks to &amp;lt;b&amp;gt;Horymir Marek&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Tesla_Pmi80_Manuals_s1.jpg</link>
+        </shot>
+    </screenshots>
+    <size></size>
+    <sound></sound>
+    <speed>1 MHz</speed>
+    <switches></switches>
+    <text>9 digit, 7 segment, diode calculator type</text>
+    <type>Home Computer</type>
+    <vram></vram>
+    <year></year>
+</computer>

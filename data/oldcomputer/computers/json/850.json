@@ -1,0 +1,199 @@
+{
+  "name": "BBC Master",
+  "manufacturer": "Acorn Computer",
+  "type": "Home Computer",
+  "origin": "United Kingdom",
+  "year": "February 1986",
+  "production": "1993",
+  "language": "BBC BASIC IV interpreter",
+  "keyboard": "Full stroke 93 key with numeric keypad and 10 function keys",
+  "cpu": "65C102 (an evolution of the 6502)",
+  "speed": "2 MHz.",
+  "coprocessor": "",
+  "ram": "128 KB",
+  "vram": "",
+  "rom": "128 KB (Expandable)",
+  "text": "40/80 x 25 lines, 20/40/80 x 32, Teletex mode (40 x 25 x 8 colours)",
+  "graphics": "160/320/640 x 256 dots in 2 to 8 colours",
+  "colors": "8 among 16",
+  "sound": "4 chanels, 8 octaves - SN76489 sound generator",
+  "size": "46.7 (W) x 34.5 (D) x 7.5 (H) cm.",
+  "ports": "Tube expansion, BBC High Speed Bus, FDD interface, User interface, RS423 serial, Analog, Econet network, Parallel, tape recorder, TV/RF, RGB \u0026amp; Composite outputs,",
+  "power": "Built-in switching power supply unit",
+  "price": "?499",
+  "description": "\nThe BBC Master was an enhanced version of the BBC Model B providing improved features, but sadly also introducing compatibility problems with earlier BBC systems. \n\nThese features were: loads more memory such as shadow, sideways and private RAM, 4 sound channels, twin cartridge sockets, as well as several built-in ROM software packages like View (word processor), ViewSheet (spreadsheet), ADFS (Advanced Filing System), a text editor and terminal utilities.\n \nLike the Model B, the system had so many I/O ports that most of them had to be placed under the case. Luckily, they only used flat-cable connectors. \n\nWhen it was released, the BBC Master met with great success. From 1986 to 1989, about 200,000 systems were sold, mainly to U.K. schools and universities. \nSeveral enhanced versions of the Master were launched in the following months:\n- The Master 512 was a Master 128 with 512 KB of RAM and an internal 80186 processor. It could be upgraded up to 1024 KB and ran MS-DOS.\n- The Master Turbo was a Master 128 with a 65C02 as a second processor.\n\nThe BBC Master and Master Compact could be considered the most accomplished 8-bit \u0027home\u0027 computers and among the last mass-produced 8-bit machines. Production ended in 1993. \nWhile developing and marketing the BBC Master, Acorn realized the PC world was moving on from 8-bit to 16-bit processors and started developing their own 32-bit chip, the Acorn RISC Machine, or ARM.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BBC MASTER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_BBCmaster_System_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;KEYBOARD CLOSE-UP #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Notice the function-key help insert which can be changed according to the software used.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_BBCmaster_KeyboardCloseup_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;KEYBOARD CLOSE-UP #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Twin cartridge housings, numeric keypad and Master series logo.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_BBCmaster_KeyboardCloseup_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR CONNECTORS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; Econet network DIN plug\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; Audio out RCA jack\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; Tape recorder DIN plug\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(4)\u0026lt;/b\u0026gt; Serial RS423 DIN plug\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(5)\u0026lt;/b\u0026gt; Analogue port DB15 connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(6)\u0026lt;/b\u0026gt; Analogue RGB video out\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(7)\u0026lt;/b\u0026gt; Composite video out\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(8)\u0026lt;/b\u0026gt; TV/RF video out\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(9)\u0026lt;/b\u0026gt; Optional modem cable\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_BBCmaster_Back_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BOTTOM CONNECTORS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; Auxiliary power supply - +5V \u0026amp; +12V\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; External disk drive unit. FD controller chip is provided on the mainboard\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; Parallel printer\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(4)\u0026lt;/b\u0026gt; User port\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(5)\u0026lt;/b\u0026gt; 1 MHz bus\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(6)\u0026lt;/b\u0026gt; Tube interface\u0026lt;br\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_BBCmaster_Bottom_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; Switching power supply unit\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; Optional modem card\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; Optional ROM card. Allows 13 ROM chips to be added\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(4)\u0026lt;/b\u0026gt; ROM cartridge connectors\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(5)\u0026lt;/b\u0026gt; Setup and clock battery backup\u0026lt;br\u0026gt; \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_BBCmaster_Inside_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MAINBOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; Bottom connectors\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; Cartridge connectors\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; Rom socket area\u0026lt;br\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_BBCmaster_Mainboard_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SET OF MANUALS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The \u0026quot;Welcome Guide\u0026quot; is very detailed, giving all the information about internal hardware and built-in software.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_BBCmaster_Manuals_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROUD !\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This authentic picture show a proud owner of a Wren transportable computer ! It looks like it bought it 5 minutes ago as he doesn\u0027t really know from which side to handle it...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thorn-emi_wren_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LEAFLET (1982) - PAGE 2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Notice that the box arts are completely different from the final ones (see software section)\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/interton_vc4000_promo-leaflet_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Picture courtesy of \u0026lt;a href\u003d\u0026quot;http://www.sbrowning.com/vintage\u0026quot;\u0026gt;Steve Browning, www.sbrowning.com/vintage\u0026lt;/a\u0026gt;.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sinclair_zx81_advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LEAFLET\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/interton_vc4000_leaflet_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (MAY 1984)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Multitech_MPF1_Advert_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT, OCT. 1983\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;From Personal Computer World magazine.\u0026lt;br\u0026gt; Advert says:\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; This is an entirely new computer system. It was designed with both eyes fixed firmly on the future. So that whatever shape the future takes, we\u0027ll be able to fit it into the system. Just as simply as the peripherals and software already available fit into the system. That way, the system will grow with you. And you\u0027ll never get left behind. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Based around the Z80A microprocessor, and utilising Microsoft BASIC, Aquarius has 8K ROM and 4K RAM resident within its console. It is able to provide up to 16 colours and resolution of 320 x 192, and generates its sound directly through the television\u0027s speakers. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; With twin cartridge ports, the mini-expander allows simultaneous use of additional RAM and software cartrldges. Twin disc game hand controls are included and the unit provides two additional sound channels. The 16K RAM cartridge plugs into either the console or the mini-expander, increasing Aquarius\u0027s RAM capacity to 20K. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; With the ability to reproduce the entire graphic and character set of Aquarius at 80 characters a second, the printer\u0027s 40 column output allows transcription of the complete monitor image. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Using standard audio cassettes, the data recorder provides storage for programs and information, and allows the use of cassette based software. Incorporating a digital tape counter and transmission indicator, it operates sequential searching. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; A large number of games, designed to take advantage of Aquarius\u0027s sophisticated colour and sound capabilities, are available on cartridges that plug into the console either direct, or through the mini-expander. Cassette based games can be used via the data recorder. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; A wide range of preprogrammed cartridges is available, including the LOGO teaching program and practical home data systems like FILEFORM and the spreadsheet calculator package FINFORM. \u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Mattel_Aquarius_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT OCT. 1983\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert says:\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; Never before in the history of modern computers has there been available a totally portable machine with the ability to cope with so many demands, to so many people, in so many different business areas.\u0026lt;br\u0026gt; Epson, with over 20 years experience in designing and manufacturing high quality printers, have produced the HX-20, a precision machine with its own rechargeable power supply that can be used for just about any task within to days discerning business: from data capture to word processing, from card indexing to sales order entry.\u0026lt;br\u0026gt; Communicating with other machines is no problem and the HX-20 is easily coupled to one of our fine printers. You can even link in another main computer system by using an acoustic coupler.\u0026lt;br\u0026gt; Don\u0027t be fooled by its size, the HX-20 has all the software back-up you\u0027d expect from a much larger machine and incorporates many \u0026quot;bigger computer\u0026quot; features - 16k RAM expandable to 32k with serial interfaces, a full size typewriter keyboard, it\u0027s own built in LCD screen and a dot matrix microprinter. A micro\u0026shy;cassette facility is available as an optional extra.\u0026lt;br\u0026gt; A complete computer that will either stand on its own or could be the obvious extension to your existing system.\u0026lt;br\u0026gt; More and more people are finding out just how big the small compact HX-20 is. Why don\u0027t you find out for yourself - you\u0026shy; owe it to your business.\u0026lt;/font\u0026gt; \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Epson_HX20_UKAdvert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH BROCHURE FRONT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Description of the complete Atmos system.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Jacques Sorro\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Oric_Atmos_FrBrochure_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Picture courtesy of \u0026lt;a href\u003d\u0026quot;http://www.sbrowning.com/vintage\u0026quot;\u0026gt;Steve Browning, www.sbrowning.com/vintage\u0026lt;/a\u0026gt;.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/tandy_trs80-coco1_ad_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;With the Alice computer, you place the level where you want\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/matra_alice90_advert1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;VC20 GERMAN ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Christian Hart for this scan\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/commodore_vc20_ad-de_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ITALIAN AD #4\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;http://angelmemories.cjb.net/ \u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sinclair_Spectrum_PubItalie_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MBC-550 FRENCH ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0027\u0027The personal computer 550, an opened door upon you computing future\u0027\u0027\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sanyo_mbc550_advert_porte-ouverte.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;I LEARN AT SCHOOL\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;French advert for the new model, dated april 1986. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026quot;I learn at school, I rock at home\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_to770_pub-jassure.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPANESE ADVERT (1985)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.pugly.juice.or.jp/pugly/oldpc/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Pugly\u0027s web site\u0026lt;/a\u0026gt; for this picture.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/nec_pc6601_advert.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (JAN. 1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/swtpc_6800_ad_mpu_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;COMPUSTAR NETWORK\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Compustar is the network version of the SuperBrain. Each SuperBrain computer became an \u0027intelligent\u0027 video terminal called a Video Processing Unit and containing its own microprocessor and 64 KB of RAM.  Single or double floppy disc could be added for 350 KB to 1.5 MB local storage. Up to 255 terminals could be connected into the same network. Maximum cable length between two terminal was one mile at a 1.6 MB data transfer rate. Each of them could share a disk storage system, from 10 to 96 MB with CP/M operating system. \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Intertec_Compustar_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (JAN. 1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;The personal computer of Mr sales manager\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/apple_advert_directeur-des-ventes_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1978 BROCHURE #10\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/MSI_6800_Brochure_s9.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT, OCT 1983\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The first sentence of this advert is:\u0026lt;br\u0026gt; \u0026lt;i\u0026gt;The new Commodore 64  is the most powerful personal computer available to the businessman.\u0026lt;/i\u0026gt;\u0026lt;br\u0026gt; Which wasn\u0027t totally true, even totally false.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The picture is also totally unrealistic. Each detail sounds false.\u0026lt;br\u0026gt; The C64 never was a business system, but a perfect home computer.  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Commodore_64_Advert_s5.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (DEC.1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/televideo_ad_prenez-de-l-elan.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROMO PIC #6\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Thanks to its optional modem, the TO-7/70 could be connected to the Teletel communication network. This skilled photograph is browsing the Liberation (popular french newspaper) site. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; But there are still no cables shown here ! How the whole system is running ?!\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_to770_pub-libe.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT, OCT. 1983\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Semitech_PiedPiper_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;84\u0027S PARIS-DAKAR RACE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;A KAYPRO IV IN ACTION SOMEWHERE IN AFRICA \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; 8 Kaypro IV and 2 Kaypro 10 were used by the doctors of the Paris-Dakar race 84\u0027s edition. The Kaypro IVs were used to store medical information about the 1000 participants. Power was provided by the Mercedes cars through the 12v cigarette lighters. The Kaypro 10s were kept in the \u0026quot;communication\u0026quot; plane during the day, and were used to centralize all the informations in the evening. At the end of the race, and after 12000 km of tracks, there were all running fine ! One of the Kaypro 10 is said to have been thrown out of the plane, mistaken with a common metallic tool box... And it still worked !\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/kaypro_paris-dakar_2.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [
+    {
+      "platform": "MS DOS emulator",
+      "name": "The BBC Lives !",
+      "link": "http://www.nvg.org/bbc/emulators.php3",
+      "description": "This excellent site has a complete list of Acorn systems emulators"
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d80",
+    "computer.asp?st\u003d1\u0026amp;c\u003d989",
+    "computer.asp?st\u003d1\u0026amp;c\u003d729",
+    "computer.asp?st\u003d1\u0026amp;c\u003d29",
+    "computer.asp?st\u003d1\u0026amp;c\u003d121",
+    "http://www.acornusers.org/",
+    "http://www.landfield.com/faqs/acorn/games/",
+    "http://www.strafom.force9.co.uk/bbc/Retrobbc/Index.htm",
+    "http://8bs.com/",
+    "http://bbc.nvg.org/",
+    "http://www.stairwaytohell.com/",
+    "http://www.poppyfields.net/acorn/",
+    "news:comp.binaries.acorn",
+    "news:comp.sources.acorn",
+    "news:comp.sys.acorn.advocacy",
+    "news:comp.sys.acorn.announce",
+    "news:comp.sys.acorn.apps",
+    "news:comp.sys.acorn.hardware",
+    "news:comp.sys.acorn.misc",
+    "news:comp.sys.acorn.networking",
+    "news:comp.sys.acorn.programmer"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/Acorn_BBCmaster_System_1.jpg",
+  "builtInGames": "BBC BASIC IV interpreter",
+  "controllers": "",
+  "media": "Cassette \u0026amp; FDD interfaces",
+  "numGames": "",
+  "peripherals": "External FDD unit, processor card, etc.",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

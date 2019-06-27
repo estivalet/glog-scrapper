@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computer>
+    <adverts>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;INTERACTION NEWSLETTER&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Three issues of this 'Newsletter Detroit Interact Group' were published during the first semester of 1980&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/Interact_Model1_Fanzine_s1.jpg</link>
+        </advert>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;SALES CATALOG&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;In this catalog, NEWMAN COMPUTER EXCHANGE from Ann Arbor sold various Interact packages, from $44.95 for an incomplete and inoperative 8K model, to $299.95 for a 16K system along with 30 software cassettes and a complete documentation including the service manuals set. &amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/Interact_Model1_Brocker_s1.jpg</link>
+        </advert>
+    </adverts>
+    <batteries></batteries>
+    <builtInGames>None (EDU-BASIC on cassette tape)</builtInGames>
+    <buttons></buttons>
+    <colors>8</colors>
+    <controllers></controllers>
+    <coprocessor></coprocessor>
+    <cpu>Intel 8080 A</cpu>
+    <description>
+The Interact computer had a very short life in USA. It had only just got in production when the Interact Co. of Ann Arbor MI, went bankrupt. Several thousand machines were produced though. Some of them were sold by Protecto Enterprizes of Barrington, IL, the liquidator, but the main part was sold by MicroVideo, also of Ann Arbor. Protecto bought lots of back-of-the-magazine ads for years, always printed with &amp;quot;WE LOVE OUR CUSTOMERS&amp;quot;.
+
+The Interact shipped with 2 joysticks, a built-in tape recorder, a TV RF modulator and 2 KB of ROM. Everything, including BASIC, must be loaded from tape. A little trivia: The tape unit did include an erase head, but it was not connected! Tapes had to be erased on a regular cassette recorder before being reused. Another surprising feature is that the &amp;quot;1&amp;quot; key is after the &amp;quot;0&amp;quot; key at the far right of the keyboard. Thus the row is starting from 2 and finishing by 1... See explanation in the &amp;quot;Read more&amp;quot; page. 
+MicroVideo supported the machine for two years, 1979-80, making some hardware expansions (32K RAM card and stringy floppy drive), replacing the original minimalist EDU-BASIC language with a Microsoft 8K graphic version, and even publishing 3 issues of 'Interaction', a newsletter of the Detroit Interact Group.
+
+The Interact computer finally vanished from the US market in late 1980. However, a French company bought the rights of the machine and started to sell the Interact under Victor Lambda name in French market. See the rest of the story here.
+
+For five years, several improved sequels of the Interact, called Hector, were launched in France. The last version, the Hector MX, featured high resolution graphics and 4 built-in languages!
+ 
+
+
+</description>
+    <emulators>
+        <emulator>
+            <description>Excellent Interact/Hector emulator !</description>
+            <link>http://dchector.free.fr/</link>
+            <name>DCHector</name>
+            <platform>Windows emulator</platform>
+        </emulator>
+        <emulator>
+            <description>James stroke again and developped a partially working Interact emulator</description>
+            <link>http://www.geocities.com/emucompboy/</link>
+            <name>James the Animal Tamer's Interact Emulator</name>
+            <platform>Windows emulator</platform>
+        </emulator>
+    </emulators>
+    <graphics>112  x 78 in 4 colors</graphics>
+    <gun></gun>
+    <hardwares>
+        <hardware type="NUMERIC KEYPAD">
+            <items>
+                <item>
+                    <description>This is it||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;THIS IS IT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The numeric keypad was of course optional, and you had to modify/hack the Interact keyboard to connect it.&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/interact_numkeypad_1.jpg</photo>
+                </item>
+                <item>
+                    <description>Connector||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;CONNECTOR&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The numeric keypad was of course optional, and you had to modify/hack the Interact keyboard to connect it. This is the hacked connector.&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/interact_numkeypad_2.jpg</photo>
+                </item>
+            </items>
+        </hardware>
+    </hardwares>
+    <hardwareDescription></hardwareDescription>
+    <image>http://www.old-computers.com/museum/photos/Interact_Model1_System_s2.jpg</image>
+    <keyboard>QWERTY, chicklet keyboard 53 keys</keyboard>
+    <language>None (EDU-BASIC on cassette tape)</language>
+    <links>
+        <link>http://hectorvictor.free.fr/</link>
+    </links>
+    <manufacturer>Interact</manufacturer>
+    <media>Tape recorder (1200 bauds)</media>
+    <name>Home Computer System</name>
+    <numGames></numGames>
+    <origin>U.S.A.</origin>
+    <peripherals>32 KB RAM card, stringy floppy drive</peripherals>
+    <ports>2 joystick sockets, TV output</ports>
+    <power>External AC transformer</power>
+    <price>300$ (USA, 1980)</price>
+    <production>1979</production>
+    <ram>8 or 16 KB</ram>
+    <rom>2 KB</rom>
+    <screenshots>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;LARGE VIEW&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Interact_Model1_System_s3.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;RIGHT SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Interact_Model1_System_s1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;LEFT SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Notice the external power transformer and the empty connector location. In fact the main board featured neither parallel nor serial port.&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Interact_Model1_LeftSide_s1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;KEYBOARD CLOSE-UP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The 'chicklet' keyboard was really impractical for intensive typing.&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Interact_Model1_Keyboard_s1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;INSIDE #1&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Thanks to its really efficient protection against magnetic shields, the Interact was FCC and UL approved.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(1)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Keyboard connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(2)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Power supply connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(3)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Reset and power switch connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(4)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Cassette drive connector&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Interact_Model1_Inside_s1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;INSIDE #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(1)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Joystick DB9 connectors&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(2)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; SN 76477 sound generator&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(3)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Intel 8080A processor&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(4)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; 2 KB ROM chip. A second ROM socket is available&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(5)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; RF TV modulator&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(6)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; 16 KB RAM chips - 8 x Mostek 4115&amp;lt;br&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Interact_Model1_Inside_s2.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;INSIDE #3&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;RAM chips close-up&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Interact_Model1_Inside_s3.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;ORIGINAL INTERACT MODEL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;p class=&amp;quot;petitgris&amp;quot;&amp;gt;Thanks to &amp;lt;a href=&amp;quot;http://hectorvictor.free.fr/&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;http://hectorvictor.free.fr/&amp;lt;/a&amp;gt; for this picture.&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/interact_homecomputer_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;INTERACT LABEL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;p class=&amp;quot;petitgris&amp;quot;&amp;gt;Thanks to &amp;lt;a href=&amp;quot;http://hectorvictor.free.fr/&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;http://hectorvictor.free.fr/&amp;lt;/a&amp;gt; for this picture.&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/interact_homecomputer_label_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;SOFTWARE CASSETTES&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Original Interact and MicroVideo software cassettes.&amp;lt;br&amp;gt; Among the MicroVideo cassettes:&amp;lt;br&amp;gt; &amp;bull; EZEDIT program editor&amp;lt;br&amp;gt; &amp;bull; 16K diagnostic tape&amp;lt;br&amp;gt; &amp;bull; Microsoft 8K fast graphics BASIC&amp;lt;br&amp;gt; &amp;bull; Level II BASIC&amp;lt;br&amp;gt;  &amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Interact_Model1_Cassettes_s1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;ORIGINAL INTERACT PACKING&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Interact_Model1_Package_s1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;THE BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Interact_Model1_Box_s1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;MANUALS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Interact owner's guide and Microsoft 8K BASIC manual sold separately by MicroVideo.&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Interact_Model1_BasicManual_s1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;KEYBOARD OVERLAY&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This is the chicklet keyboard overlay used for the &amp;ldquo;Compute-A-Color&amp;rdquo; paint program.&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/interact_computeacolor_overlay.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;MECHANICAL KEYBOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This is an original Interact with an optional mechanical keyboard from MicroVideo added later.&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/interact_computers_mech-keyboard.jpg</link>
+        </shot>
+    </screenshots>
+    <size>46.3 (W) x 26.5 (D) x 10 (H) cm / 5.8 kg</size>
+    <sound>1 voice, 4 octaves</sound>
+    <speed>2 MHz</speed>
+    <switches></switches>
+    <text>17 chars. x 12 lines</text>
+    <type>Home Computer</type>
+    <vram></vram>
+    <year>1979</year>
+</computer>

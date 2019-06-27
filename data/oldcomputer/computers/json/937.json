@@ -1,0 +1,58 @@
+{
+  "name": "TRS 80 PC-1",
+  "manufacturer": "Tandy Radio Shack",
+  "type": "Pocket",
+  "origin": "U.S.A.",
+  "year": "1980",
+  "production": "",
+  "language": "BASIC interpreter",
+  "keyboard": "57 keys, QWERTY calculator type with numeric key-pad",
+  "cpu": "Sharp CMOS SC43177 and SC43178 (4 bits)",
+  "speed": "256 kHz",
+  "coprocessor": "",
+  "ram": "1920 Bytes; 1424 steps / 178 memories available",
+  "vram": "",
+  "rom": "11,2 kB (?)",
+  "text": "1 line x 24 chars. (LCD screen)",
+  "graphics": "None",
+  "colors": "Monochrome",
+  "sound": "CPU controlled piezo buzzer, 1 tone with fixed frequency and duration",
+  "size": "175 (W) x 70 (D) x 15 (H) mm / 170 g",
+  "ports": "9 pin expansion port for printer and cassette interface",
+  "power": "4 x 1,35 V button cell MR44 or similar",
+  "price": "$230",
+  "description": "\nThe \u0026quot;TRS-80 Pocket Computer\u0026quot; was the first pocket computer Tandy/Radio Shack distributed. Nowadays, it is often referred to as the TRS-80 PC-1, so as to differentiate it from its successor, the TRS-80 PC-2 (and following), which is a clone of the Sharp PC-1500.\n\nThe TRS-80 Pocket Computer was custom manufactured by Sharp Corporation, and is technically identical with the Sharp PC-1211 (see there for more technical information). There were some minor differences: The colour style was a bit different, with gray and black prevailing instead of brown, and of course with a Radio Shack type label; moreover, the computer came with a soft (instead of hard) protective case, and an additional Quick Reference Card.\n\nThe peripherals were  - of course - the same as for the Sharp models: The cassette interface unit (Catalog Number 26-3503), and the printer and cassette interface (26-3505 ), which incorporated a single needle mechanical dot printer.\n\nSpecial thanks to Roman von Wartburg and his site for information and picture.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CLOSE-UP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Tandy_PC1_Larger_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;WITH MANUAL\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Tandy PC-1 with user manual and soft protective case.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Tandy_PC1_Manual_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Dated december 1980\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/tandy_trs80-model1_ad_grande-ouverture_s.gif"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d967",
+    "computer.asp?st\u003d1\u0026amp;c\u003d1003",
+    "http://www.RadioShackCatalogs.com"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/Tandy_PC1_1.jpg",
+  "builtInGames": "BASIC interpreter",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "26-3503 cassette interface26-3505 printer / cassette interface (mechanical dot printer)CTR-80A cassette recorder (generic)",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

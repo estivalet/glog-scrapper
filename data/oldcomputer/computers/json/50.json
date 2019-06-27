@@ -1,0 +1,82 @@
+{
+  "name": "Horizon",
+  "manufacturer": "Northstar",
+  "type": "Professional Computer",
+  "origin": "U.S.A.",
+  "year": "1977",
+  "production": "Unknown",
+  "language": "None",
+  "keyboard": "Serial terminal",
+  "cpu": "Zilog Z80",
+  "speed": "4 MHz",
+  "coprocessor": "None",
+  "ram": "16 KB (up to 64 KB)",
+  "vram": "Unknown",
+  "rom": "1 KB",
+  "text": "80 chars.  x 24 lines",
+  "graphics": "Text mode only",
+  "colors": "Monochrome",
+  "sound": "No sound",
+  "size": "50.8 (W) x 44.4 (D) x 18.4 (H) cm / About 20 kg",
+  "ports": "12-slot S100 BUS, Serial and Parallel ports",
+  "power": "Integrated 250W P.S.U.",
+  "price": "Horizon-1: $1599 (kit)  $1899 (assembled)Horizon-2: $1999 (kit)  $2349 (assembled)",
+  "description": "\nThe Horizon was a S-100 bus based system. It was the first floppy-disc based system hobbyists could buy. In a case with a choice of wood or blue metal cover, the basic version included a 4 Mhz. Z80 microprocessor, 16 KB of RAM, a 90 KB 5\u0027\u00271/4 floppy drive with a controller card, a serial terminal interface and 12 S-100 slots. It was sold with the North Star Disc Operating System and a Basic interpreter allowing random and sequential disk files. The Horizon-2 version offered a second floppy-disc drive.\n\nAny S-100 cards (compatible with Altair, Cromemco and many other systems) could be added to the system, but North Star provided its own additional 16 KB RAM and hardware floating point boards.\n\nIn 1979, original 90 KB floppy drives were replaced by Shugart 360 KB models. Northstar also offered an add-on box with two additional floppies, making a total of 4. The box had a matching walnut stained plywood cover.\n_______________________",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UNCOVERED SYSTEM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/NorthStar_Horizon_Uncovered_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;APPLICATION SOFTWARE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;NorthStar was one of the first general public computer manufacturers to understand that a computer without quality software had no future. Therefore they proposed a full range of professional applications specially adapted to Horizon. The first proposed software were: \u0026lt;br\u0026gt; \u0026lt;b\u0026gt;- NorthWord\u0026lt;/b\u0026gt; A word processing system which was the central building block for all the Nortstar applications,\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;- MailManager\u0026lt;/b\u0026gt; which can maintain complete organized mailing lists,\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;- InfoManager\u0026lt;/b\u0026gt; a data management system,\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;- GeneralLedger\u0026lt;/b\u0026gt; a general ledger and financial reporting. \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/NorthStar_Horizon_Software_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;NORTHSTAR BROCHURE #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;NorthStar brochure, Page 1.\u0026lt;br\u0026gt; The brochure says:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;HARDWARE\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; The HORIZON computer incorporates a high speed 4 MHz Z80A microprocessor with 64Kb of Dynamic RAM including parity and two 5 1/4 inch floppy disk drives in an attractive desk top chassis. The chassis also provides a 12-slot S-100 mother board which contains a Real-Time Interrupt, two RS-232C serial ports, one 8-bit parallel port and power regulation circuitry for the integrated floppy disk drives. Either a 115 or 230 volt power supply with sufficient power for all 12 slots and the disk drives is also included. The use of high speed (200 nsec) Dynamic RAM and \u0026quot;fast stepping\u0026quot; floppy disk drives, along with the 4 MHz CPU, delivers the highest average performance of all comparable microcomputers as measured by independent benchmark studies! \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;SOFTWARE\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; The power and versatility of the HORIZON computer is further enhanced by a wide range of system and application software. For business use, the comprehensive North Star Application Software Packages offer Word Processing, Accounting and Financial Reporting in either single user or multi-user versions. For the scientific, engineering, or education oriented user, North Star\u0027s powerful DOS operating system with its efficient BASIC or Pascal languages are available. The industry standard CP/M operating system is also compatible with applications packages in MicroSoft BASIC, FORTRAN, and COBOL.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Gordon Dyer\u0026lt;/b\u0026gt; from England\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/NorthStar_Horizon_Brochure_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;NORTHSTAR BROCHURE #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;NorthStar brochure - Page 2 \u0026lt;b\u0026gt;EXPANSION OPTIONS\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;HRAM.64\u0026lt;/b\u0026gt; - High Speed 64Kb Dynamic RAM memory board with parity (up to a total of six)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;HSIO.4\u0026lt;/b\u0026gt; - Four Serial Port Expansion Board (RS-232C or Current Loop).\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;FPB\u0026lt;/b\u0026gt; - Floating Point Arithmetic Board.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;ADC-2D\u0026lt;/b\u0026gt; - Two additionaI 5 1/4 inch Double capacity floppy disk drives incorporated within a cabinet (360 Kb total capacity).\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;ADC-2Q\u0026lt;/b\u0026gt; - Two additionaI 5 1/4 inch Quad capacity floppy disk drives incorporated within a cabinet (720 Kb total capacity).\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;HDS-5\u0026lt;/b\u0026gt; - 5 1/4 inch Winchester Hard Disk 5 Mb formatted capacity.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;HDS-18\u0026lt;/b\u0026gt; - 14 inch Winchester Hard Disk 18 Mb formatted capacity.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Tape Backup\u0026lt;/b\u0026gt; - 13.4 Mb Tape Backup system for HDS-18 or HDS-5.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;CRT\u0026lt;/b\u0026gt; - Hazeltine 1420/Soroc 120. (Other software drivers available.)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Printer\u0026lt;/b\u0026gt; - 35 or 55 cps letter quality printer. \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Gordon Dyer\u0026lt;/b\u0026gt; from England \u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/NorthStar_Horizon_Brochure_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1977)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert price list:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; 16K RAM: \u0026lt;b\u0026gt;$399\u0026lt;/b\u0026gt; (kit)  \u0026lt;b\u0026gt;$459\u0026lt;/b\u0026gt; (assembled)\u0026lt;br\u0026gt; Parity option: \u0026lt;b\u0026gt;$39\u0026lt;/b\u0026gt; (kit)  \u0026lt;b\u0026gt;$59\u0026lt;/b\u0026gt; (assembled)\u0026lt;br\u0026gt; Floating point board: \u0026lt;b\u0026gt;$259\u0026lt;/b\u0026gt; (kit)  \u0026lt;b\u0026gt;$359\u0026lt;/b\u0026gt; (assembled)\u0026lt;br\u0026gt; Z80 board: \u0026lt;b\u0026gt;$199\u0026lt;/b\u0026gt; (kit)  \u0026lt;b\u0026gt;$259\u0026lt;/b\u0026gt; (assembled)\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/NorthStar_Horizon_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1979)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;New version with Shugart 360 KB formatted capacity floppy drives. Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt;North Star has quadrupled the disk capacity of the Horizon computer but prices have increased a modest 15 percent. On a dollar per byte basis, that\u0027s a bargain that is hard to beat!...\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; 1979 prices for assembled versions including 32KB RAM, one parallel and two serial I/O ports:\u0026lt;br\u0026gt; 1 F.D. version: \u0026lt;b\u0026gt;$2565\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; 2 F.D. version: \u0026lt;b\u0026gt;$3215\u0026lt;/b\u0026gt;     \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/NorthStar_Horizon_Advert_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (JAN. 1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/northstar_horizon_ad_locasyst_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This advert shows all the tools a software developer could run on the MorthStar computers range (Horizon and Advantage) \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/NorthStar_Horizon_Advert_4.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;NORTHSTAR CARDS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Northstar also designed cards for S100 Bus. These cards were used in the Horizon and were also available separately for competing systems.\u0026lt;br\u0026gt; Cards on the photo are:\u0026lt;br\u0026gt; - 16 KB RAM board ($459 assembled)\u0026lt;br\u0026gt; - Micro Disk System (card \u0026amp; interface) to connect Shugart FDD ($799)\u0026lt;br\u0026gt; - Z80A processor board ($259 without EPROM option, $330 with)\u0026lt;br\u0026gt; - Hardware floating point card ($359).  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/NorthStar_Horizon_Cards_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/northstar_horizon_ad1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [],
+  "image": "http://www.old-computers.com/museum/photos/northstar_horizon.jpg",
+  "builtInGames": "None",
+  "controllers": "",
+  "media": "One or Two 5.25\u0027\u0027 FDD. Later 5 and 18 MB Hard disk drives, 13.4 MB tape backup",
+  "numGames": "",
+  "peripherals": "S-100 Bus cards",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

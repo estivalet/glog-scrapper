@@ -1,0 +1,76 @@
+{
+  "name": "FP 1000 / FP 1100",
+  "manufacturer": "Casio",
+  "type": "Professional Computer",
+  "origin": "Japan",
+  "year": "1983",
+  "production": "",
+  "language": "C82 BASIC",
+  "keyboard": "QWERTY full-stroke keyboard with separated numeric keypad",
+  "cpu": "Zilog Z80 A",
+  "speed": "3.9936 MHz",
+  "coprocessor": "PD7801G (1.9968 MHz)",
+  "ram": "64 KB",
+  "vram": "FP-1000 : 16 KBFP-1100 : 48 KB",
+  "rom": "32 KB",
+  "text": "80 x 25",
+  "graphics": "320 x 200 / 640 x 200 / 640 x 400",
+  "colors": "FP-1000 : Monochrome (black \u0026amp; green)FP-1100 : 8",
+  "sound": "Unknown",
+  "size": "Unknown",
+  "ports": "Parallel/Centronics, Tape, Monitor, Expansion Slots (2)",
+  "power": "Built-in Power Supply Unit",
+  "price": "FP 1000 : 7300 FF (France, dec.83)",
+  "description": "\nThe Casio FP-1000 and FP-1100 were essentially the same machine, except that the 1100 had colour capabilities, 48 KB VRAM and enhanced graphic mode (640 x 400).\n\nThe FP-1100 came with either a monochrome (green) monitor which would display colour as shades, or the colour monitor. The cable feeding the video to the monitor was a simple 2 core unsheilded RCA cable. The mono minitor had a switch at the back so that one could swap foreground and background (green on black or black on green)\n\nBoth the FP-1000 and FP-1100 had a built in OS called C82 BASIC. To run CP/M, you had to insert your systems diskette and reboot the computer, or if the program diskette had it\u0027s own boot strap, you could issue a \u0026quot;mount [1,2]\u0026quot; command where the number [1/2] indicated the diskette drive you wanted to use.\n\nYou could run multiple console sessions on the FP-1000/1100 toggling between them with the blue function keyboard keys that can be seen on the image. Some programs (eg SuperCalc) ussurped these keys and you were stuck in the console session until you stopped the program.\n\nThanks to Zieg Nielsen for the info.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MAIN UNIT CLOSE-UP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Casio_FP1000_UnitCloseUp_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FP-1100\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/casio_fp1100_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (DEC.1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Evolutiv system : Casio\u0027s answer\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/casio_fp1000_ad-popcornmicro.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPANESE AD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Thanks to Jun Suzuki \u0026lt;a href\u003d\u0026quot;http://member.nifty.ne.jp/tarucus/museum/cool/cool.htm\u0026quot;\u0026gt;web site\u0026lt;/a\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Casio_FP1000_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Rui Santos for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/casio_fp1000_ad_0.jpg"
+    }
+  ],
+  "hardware": [
+    {
+      "type": "FP-1020FD",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/casio_fp1020fd_1.jpg",
+          "description": "Double disk drive||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DOUBLE DISK DRIVE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Casio_FP1000_FDunit_1.jpg",
+          "description": "Another picture||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ANOTHER PICTURE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    }
+  ],
+  "emulator": [],
+  "link": [],
+  "image": "http://www.old-computers.com/museum/photos/casio_fp1000_1.jpg",
+  "builtInGames": "C82 BASIC",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "Double 5\u0027\u00271/4 disk-drives or optional dual 8\u0027\u0027 1.2 MB  FD unit (could emulate IBM 3741 format)",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

@@ -1,0 +1,129 @@
+{
+  "name": "Dragon 64",
+  "manufacturer": "Dragon Data Ltd",
+  "type": "Home Computer",
+  "origin": "United Kingdom",
+  "year": "Summer 1983",
+  "production": "",
+  "language": "Microsoft Extended Basic",
+  "keyboard": "QWERTY Mechanical keyboard53 keys",
+  "cpu": "Motorola MC6809EP",
+  "speed": "0,9 Mhz",
+  "coprocessor": "Motorola MC-6847 Video Display Generator",
+  "ram": "64 kb",
+  "vram": "",
+  "rom": "32 kb",
+  "text": "32 x 28 and 51 x 16 under OS9",
+  "graphics": "Several graphic modes, max : 256 x 192 (with 2 colors)",
+  "colors": "8",
+  "sound": "1 voice, 5 octaves with the Basic 4 voices, 7 octaves with machine code",
+  "size": "",
+  "ports": "TV connector, 2 analogue joystick ports, cassette port, Centronics parallel printer port, cartridge slot, composite monitor port, serial connector",
+  "power": "External AC transformer. Built-in power regulation",
+  "price": "608   (France, december 84)",
+  "description": "\nThe Dragon 64, launched in 83, was exactly the same computer as the Dragon 32, except that it had 64k RAM instead of 32k, an OS9 operating system and a RS232C connector.\n\nThe Extended Basic has been modified to provide RS232 I/O calls, to remove the USR bug present in the Dragon 32 ROM and to add calls allowing the additional interpreter to be invoked.\nThis second interpreter was the same Extended Basic re-compiled to run from a higher memory address and stored in a EPROM. When invoked, the machine was switched into 64k RAM mode and the interpreter copied from EPROM to RAM giving an extra 16K BASIC workspace. (Source : Jon\u0027s Dragon Home Page)\n\nThe Dragon 64 was sold in various European countries. A slightly modified version was also manufactured and sold in the US by TANO (Technical Associates of New Orleans) from August 1983. They sold the machine under the TANO name for a few months but couldn\u0027t compete with the agressive price policy from Commodore, Atari and T.I. All the unsold machine were eventually sold off to a discount store called California Digital. \n\nIn 85 Eurohard, a spanish manufacturer, acquired Dragons Data. Then the Dragon 200 replaced the 64 with some minor changes: power-on lights, auto-repeat keyboard... They also also had plans for a 128k Dragon and a MSX Dragon.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LARGE VIEW\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Dragon_64_System_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LEFT \u0026amp; RIGHT SIDES\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The cartridge slot is located on the right side.\u0026lt;br\u0026gt; On the right side, one see, from left to right\u0026lt;br\u0026gt; \u0026bull; TV aerial output,\u0026lt;br\u0026gt; \u0026bull; Reset switch,\u0026lt;br\u0026gt; \u0026bull; Four DIN sockets:\u0026lt;br\u0026gt; \u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;Left joystick,\u0026lt;br\u0026gt; \u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;Tape recorder I/O,\u0026lt;br\u0026gt; \u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;Right joystick,\u0026lt;br\u0026gt; \u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;Serial interface\u0026lt;br\u0026gt; \u0026bull; Printer connector.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Dragon_64_Sides_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR SIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The rear connectors, from left to right:\u0026lt;br\u0026gt; \u0026bull; External transformer DB9 connector,\u0026lt;br\u0026gt; \u0026bull; On/Off switch,\u0026lt;br\u0026gt; \u0026bull; RGB video DIN socket.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Dragon_64_RearSide_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DRAGON LABEL\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Dragon_64_Label_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;OPENED\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Dragon_64_Opened_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MAINBOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The motherboard was quite different from the Dragon 32\u0027s. It was re-designed to make room for the second serial port, additional memory and power regulation which was a separated board on the Dragon 64.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(1)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Power regulation circuitry\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(2)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Two 16 KB EPROMs hold the Microsoft Extended Basic and I/O routines\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(3)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 74783 chipset (6883 equivalent) Synchronous Address Multiplexer (SAM). Provides system clocks to CPU and video, RAM refresh and I/O addresses decoding\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(4)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 6809 microprocessor, probably the best 8-bit CPU ever made\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(5)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 8x4164 chips hold 64 KB of RAM of which 45 KB is available for Basic programs\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(6)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 6551 ACIA (Asyncronous Communications Interface Adaptor) in charge of Serial RS232 interface\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(7)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 2x6821 PIA (Peripheral Interface Adaptor) manage several peripherals (keyboard, tape rec., Parallel port,...) and I/O\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(8)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 6847 video chip in charge of text and graphics display modes. Display quality is the weak point of Dragon 64\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(9)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; UHF modulator for T.V. aerial signals\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Dragon_64_Mainboard_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DRAGON 64 WITH SOFTWARE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/dragon_dragon64_situation_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DRAGON 64 WITH DISK-DRIVE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/dragon_dragon64_situation_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LAST SALES\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;In July 1985, California Digital sold the Tano at $99. The price would decrease down to $35 while stock last.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Dragon_64_Advert_s1.jpg"
+    }
+  ],
+  "hardware": [
+    {
+      "type": "MASS STORAGE",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Dragon_64_FDcart_s1.jpg",
+          "description": "FDD controller cartridge||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FDD CONTROLLER CARTRIDGE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/dragon_diskdrive.jpg",
+          "description": "5\u0027\u0027 disk-drive||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;5\u0027\u0027 DISK-DRIVE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;186k, Single Side, Operating system: OS9\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/dragon_diskdrive_2.jpg",
+          "description": "The Dragon 32/64 dual 5.25\u0027\u0027 disk-drive||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;THE DRAGON 32/64 DUAL 5.25\u0027\u0027 DISK-DRIVE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Dragon_32_InsideFD_1.jpg",
+          "description": "Inside F.D. unit||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE F.D. UNIT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The disk drive option is provided in 2 parts: the floppy drive unit, and an interface cartridge connected to the computer. Each formated disk can hold 180 Kb. Data are stored on 40 concentric tracks, each one made of 18 sectors of 256 bytes each. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; One or two disk drives can be mounted in the case. \u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; Interface cartridge that fits into the Dragon expansion connector.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; First disk drive. \u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(4)\u0026lt;/b\u0026gt; Magnetic heads and its mechanisms. \u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(5)\u0026lt;/b\u0026gt; Disk rotation motors.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(6)\u0026lt;/b\u0026gt; Power supply. \u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(7)\u0026lt;/b\u0026gt; Connector for the cartridge flat cable.\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "MISC",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/dragon_joysticks.jpg",
+          "description": "Dragon Joysticks||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DRAGON JOYSTICKS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Dragon_64_Joystick_s1.jpg",
+          "description": "Dragon Joystick #2||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DRAGON JOYSTICK #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/dragon_lightpen.jpg",
+          "description": "Light Pen||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LIGHT PEN\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/dragons-data_dragon32_dustcover_1.jpg",
+          "description": "Dust cover||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DUST COVER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Beautiful, no ?!\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    }
+  ],
+  "emulator": [],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d941",
+    "computer.asp?st\u003d1\u0026amp;c\u003d117",
+    "http://www.burgins.com/dragon.html",
+    "http://www.dragondata.co.uk/",
+    "http://www.grempc.demon.co.uk/dragon/",
+    "http://www.onastick.clara.net/",
+    "http://www.dragon-archive.co.uk/"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/Dragon_64_System_s2.jpg",
+  "builtInGames": "Microsoft Extended Basic",
+  "controllers": "",
+  "media": "None",
+  "numGames": "",
+  "peripherals": "Single or dual FDd unit",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

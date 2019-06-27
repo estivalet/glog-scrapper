@@ -1,0 +1,56 @@
+{
+  "name": "S/09",
+  "manufacturer": "South West Technical Products Corporation",
+  "type": "Professional Computer",
+  "origin": "U.S.A.",
+  "year": "1979",
+  "production": "",
+  "language": "None",
+  "keyboard": "Depending of the video terminal used",
+  "cpu": "Motorola 6809",
+  "speed": "1 MHz or 2 MHZ depending on which processor board.",
+  "coprocessor": "",
+  "ram": "From 8 KB to 768 KB",
+  "vram": "",
+  "rom": "2 KB (Monitor)",
+  "text": "Depending on the video terminal used. Usually 80 x 24",
+  "graphics": "",
+  "colors": "",
+  "sound": "No sound",
+  "size": "16 (W) x 8 (H) x 18 1/4 (D) inch",
+  "ports": "1 x Parallel, 2 x Serial",
+  "power": "built-in PSU",
+  "price": "$2,995",
+  "description": "\nThe SWTPC S/09 system was the second computer of the brand based on the Motorola 6809 microprocessor, said to be the most powerful 8-bits general purpose MPU available. \n\nAs with the first 6809 version, it used the SS-50 version bus. The S/O9 system had a 20-bit adress bus. It was able to address up to 768 Kb. of memory and used dynamic address translation to map 4K pages into the 64K address space of the microprocessor. \n\nThe system could be used as a multi-user/multitasking platform. It was delivered with optional operating systems: S/09, Pascal or Basic, and later OS-9 and Flex allowing the system to operate simultaneously with several terminals. Assembler, editor and debug tools were also available. \n\nThree disk options were available, dual 5\u0026quot; floppy drive (2 x 175 KB), dual 8\u0026quot; floppy drives (2 x 1.2 MB) and a 16 MB hard disk. Disk controller as well as printer and RS232 interfaces were provided on appropriate I/O cards.\n_______________________",
+  "shot": [],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1979 ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Swtpc_S09_Advert_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [
+    {
+      "platform": "Windows emulator",
+      "name": "SWTPC 6800/6809 emulator",
+      "link": "http://www.evenson-consulting.com/swtpc/default.htm"
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d567",
+    "computer.asp?st\u003d1\u0026amp;c\u003d55",
+    "http://www.ipblythe.com/fug1.htm",
+    "http://www.swtpc.com"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/Swptc_S09_System_1.jpg",
+  "builtInGames": "None",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "All SS-50 Bus cards128K RAM expansion card: $1,995",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Proteus III",
+  "manufacturer": "Proteus International",
+  "type": "Home Computer",
+  "origin": "France",
+  "year": "1978",
+  "production": "",
+  "language": "Extended Basic",
+  "keyboard": "Full stroke keyboard, 53 keys",
+  "cpu": "Motorola 6800",
+  "speed": "0.894 MHz",
+  "coprocessor": "",
+  "ram": "Proteus III-A : 16 KBProteus III-B : 32 KB",
+  "vram": "1 KB",
+  "rom": "8 KB (Basic)",
+  "text": "16 x 64",
+  "graphics": "Unknown",
+  "colors": "monochrome",
+  "sound": "Unknown",
+  "size": "",
+  "ports": "Tape (300 bauds), Video output (RF), V24 serial connector, RS232, printer serial connector",
+  "power": "Unknown",
+  "price": "Proteus III A : 8 820 FF (France, 1979)Proteus III B : 10 758 FF (France, 1979)",
+  "description": "\nLittle is known about this computer. Help welcomed.\n\nThe Proteus III was apparently made in France. It is powered by a Motorola 6800 CPU. There were two models : Proteus III A with 16 KB RAM, and Proteus III B with 32 KB RAM. There was even a third version (Proteus III C ?) with 48 KB RAM.\n\nIt can display 16 lines by 64 characters but has no specific graphical resolution, only semi-graphic characters which can be used to simulate graphics.\n\n5.25\u0027\u0027 disk-drives (Double Density) were available as an option. You could also connect a serial printer and tape recorder.\n\nThe extended Basic is stored in ROM and thus available as soon as the system is powered on. It has no edition feature but detect errors while typing commands.\n\nIt had apparently no great success as its main competitors were Apple II, Commodore PET and Tandy TRS-80 Model I.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROTEUS III\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/proteus_III_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DRAWING\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is an artist impression of the Proteus III, which might not be exactly like the real system...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/proteus_III_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;COMPLETE SYSTEM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Proteus III + monitor + disk-drive + printer + tape-recorder\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/proteus_III_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SYSTEM DIAGRAM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Proteus system diagram. This diagram was actually a copy of the Proteus III sold in kit form by the French magazine Microsyst\u0026egrave;me, and called Microsyst\u0026egrave;me 1.\u0026lt;br\u0026gt; More information, as well as the binary content of the 8 BASIC EPROMs can be downloaded \u0026lt;a href\u003d\u0026quot;http://www.old-computers.com/Museum/downloads/Proteus/ROM.zip\u0026quot;\u0026gt;here\u0026lt;/a\u0026gt;.\u0026lt;br\u0026gt; Thanks to M. Lahaye from Belgium who sent us this information along with the following comment:\u0026lt;br\u0026gt; \u0026lt;i\u0026gt;Eprom1 to eprom8 is the binary content. It is orininaly delivered on 8 EPROMs of 1 Kbytes (27808). A hard error of tangent is present so I fix it but I must limit the length of the presentation message to recover a few bytes. It is the eprom 1b and 8b.\u0026lt;br\u0026gt; The pdf is the 3 pages of the magazine with the first article. This is enough if someone want to rebuilt the system as you will find the i/o addresses.\u0026lt;/i\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Proteus_III_SystemDiagram_s1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (1979)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/proteus_III_advert_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [],
+  "image": "http://www.old-computers.com/museum/photos/proteus_III_2s.jpg",
+  "builtInGames": "Extended Basic",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "disk-drives, printer, tape recorder",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

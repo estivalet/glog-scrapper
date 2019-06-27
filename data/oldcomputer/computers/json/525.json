@@ -1,0 +1,85 @@
+{
+  "name": "MPF-1 Plus",
+  "manufacturer": "Multitech",
+  "type": "Home Computer",
+  "origin": "Ta?wan",
+  "year": "1982",
+  "production": "",
+  "language": "Machine code, Basic available on optional ROM",
+  "keyboard": "QWERTY calculator type keyboard, 49 keysSHIFT, CONTROL, RESET, arrow keys",
+  "cpu": "Z80",
+  "speed": "2.5 MHz",
+  "coprocessor": "",
+  "ram": "4k (up to 12k)",
+  "vram": "",
+  "rom": "From 8k to 16k",
+  "text": "20 chars. x 1 line Vacuum fluorescent Display",
+  "graphics": "None",
+  "colors": "No (err...well, yes : blue !)",
+  "sound": "Speaker (beeper)",
+  "size": "1575 x  2230 x 160 mm",
+  "ports": "Tape interface, expansion port",
+  "power": "External PSU",
+  "price": "Unknown",
+  "description": "\nThe MPF 1P (MicroProfessor 1 Plus), is an improved version of the MPF 1. Like its brother, it is a learning tool for use in the teaching of microprocessor, microelectronics, and control technology.\n\nIt has a better keyboard. Instead of the hexadecimal keyboard of the MPF 1, this one is a real \u0026quot;QWERTY\u0026quot; one, with CONTROL and SHIFT keys. There is even a RESET key at the top right (red key).\n\nThe VFD display is also larger. It can now display 20 characters instead of 6 with the MPF-1. It\u0027s a 14 segments blue Vacuum fluorescent Display. The color is that typical blue-green and had very high readability. Blue VFD was relatively new technology, first appearing in labs around 1980\n\nThe main board has also been redesigned and the RAM capacity is of 4k on the standard model.\n\nDespite its poor features, the MPF-1P had great expansion possibilities with an input/output control memory expansion (IOM-MPF-IP), an optional printer board (PRT-MPF-IP), an Eprom Burner board (EPB-MPF-IBP) and several applications delivered on ROMs.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MPF-1P\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/multitech_pmf1p_inbook.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DISPLAY DETAIL\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/multitech_mpf1plus_detail_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;COMPUTER CLOSED\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;... it then looks like a book !\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/multitech_mpf1plus_closed.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DOCUMENTATIONS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Monitor program / source listing\u0026quot; and \u0026quot;Experiment manual (software/hardware)\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/multitech_mpf1p_docs_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BOX\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/multitech_mpf1plus_box_2.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (OCT. 83)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/multitech_mpf1plus_advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (DEC. 1986)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/multitech_mpf_pub_1.jpg"
+    }
+  ],
+  "hardwareDescription": "Here are some hardware expansion listed :\n\n- PRT-MPF : Thermic printer\n- SSB-MPF : vocal synthesizer\n- SGB-MPF : Music synthesizer\n- EPB-MPF : EPROM burner\n- TVB-MPF : Video interface -\u0026gt; TV/Monitor\n- IOM-MPF : I/O board and memory expansion (6 KB)",
+  "hardware": [],
+  "emulator": [
+    {
+      "platform": "Multiplatform emulator",
+      "name": "MESS",
+      "link": "http://www.mess.org",
+      "description": "This popular emulator can also emulate an MPF-1 computer"
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d479",
+    "computer.asp?st\u003d1\u0026amp;c\u003d1204",
+    "computer.asp?st\u003d1\u0026amp;c\u003d1132",
+    "http://global.acer.com/about/milestones.htm",
+    "http://www.flite.co.uk/microprocessor-training-systems-overview.htm",
+    "http://members.lycos.co.uk/leeedavison/z80/index.html"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/multitech_mpf1p_2.jpg",
+  "builtInGames": "Machine code, Basic available on optional ROM",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

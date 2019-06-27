@@ -1,0 +1,62 @@
+{
+  "name": "Menta",
+  "manufacturer": "Dataman Designs",
+  "type": "Professional Computer",
+  "origin": "United Kingdom",
+  "year": "1981",
+  "production": "",
+  "language": "Z80 monitor",
+  "keyboard": "Flat membrane keyboard, 40 keys",
+  "cpu": "NEC D780C (Z80A clone)",
+  "speed": "Unknown",
+  "coprocessor": "",
+  "ram": "1 KB",
+  "vram": "",
+  "rom": "",
+  "text": "",
+  "graphics": "none",
+  "colors": "No",
+  "sound": "None",
+  "size": "Unknown",
+  "ports": "RF TV video output, 24 input/ouput lines, tape interface",
+  "power": "External power supply (9V DC tip positive)",
+  "price": "1950 FF (France, Sept.. 1982)",
+  "description": "\nDesigned by Barry Savage, the Menta looks like a Sinclair ZX-80 or ZX-81 clone, but it\u0027s not. It\u0027s rather a development tool and initiation machine based on a Z80A processor. The concept is to help you understand how a Z80A works.\n\nThe system itself is very similar to a Sinclair ZX-80 with its flat membrane keyboard. But when you look closer, you notice that the keybord is not quite usual like a QWERTY one for example. It\u0027s an hexadecimal one with numbers from 0 to 9 and letters from A to F. All the other keys are marked with Z80 machine language functions and instructions.\n\nApparently, there is no other language available than the built-in Z80 monitor. It enables you to directly program the Z80A microprocessor via the dedicated keyboard.\n\nThere is a RF TV video output to use any television as main display. A tape interface is here to save your work on magnetic tapes. There are even communication possibilities through a 24 i/o line connector.\n\nThe Menta is very rare and was only advertised in specialised magazines, next to EPROM programmers.\n\nIndeed the Menta is very similar to its brother: Softy, an E-PROM programmer which used the same plastic case, almost same keyboard and had an E-PROM socket at the left part of the keyboard.\n\n________\n\nContributors :  Callum\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MENTA\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Callum for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/dataman-designs_menta_1_m.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ELECTRONIC BOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Callum for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/dataman-designs_menta_inside_m.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;KEYBOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Callum for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/dataman-designs_menta_keyboard.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CPU\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Callum for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/dataman-designs_manta_cpu.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MENTA \u0026amp; SOFTY ADVERT (FRANCE, SEPT. 82)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/dataman-designs_menta_advert_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [],
+  "image": "http://www.old-computers.com/museum/photos/dataman-designs_menta_1_s.jpg",
+  "builtInGames": "Z80 monitor",
+  "controllers": "",
+  "media": "None",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

@@ -1,0 +1,148 @@
+{
+  "name": "TA-1000",
+  "manufacturer": "Triumph Adler",
+  "type": "Professional Computer",
+  "origin": "Germany",
+  "year": "1973",
+  "production": "",
+  "language": "assembler interpreter",
+  "keyboard": "unknown",
+  "cpu": "CPU board with 112 standard TTL ICs",
+  "speed": "unknown",
+  "coprocessor": "unknown",
+  "ram": "4 KB",
+  "vram": "",
+  "rom": "unknown",
+  "text": "unknown",
+  "graphics": "unknown",
+  "colors": "No",
+  "sound": "unknown",
+  "size": "unknown",
+  "ports": "unknown",
+  "power": "unknown",
+  "price": "unknown",
+  "description": "\nLittle is known about this early computer from german company Triumph Adler. Hopefully, Rudolf L. Sch?rger who worked there at the time, sent us some very precious information (in German):\n\n\u0026quot;1973 begann bei Triumph-Adler die Serienproduktion der TA 1000.\n\nIch war damals im Pr?ffeld t?tig. Nur mit einem Oszillografen ausger?stet, mu?te ich defekte CPUs reparieren. Das ging nur deshalb, weil an die TA1000 ein Testtablau anschlie?bar war. Mit diesem konnten auf der Hardwareebene alle Funktionen eines Debuggers ausgef?hrt werden. \n\nInsgesamt habe ich 6 Jahre an der TA 1000 gearbeitet. Erst im Pr?ffeld, dann als Service-Techniker, dann als Programmierer. Daneben habe ich zwei IO-Karten gebaut. Je eine f?r einen 3-Farben-Strichcodeleser und einen OCR-Schriftscanner. F?r beide habe ich die Treiber und die Anwendungssoftware geschrieben.\n\nIch bin stolz darauf, von Anfang an dabei gewesen zu sein. Mit einem Computer, der all das konnte, was ein Desktop-Computer von IBM oder Appel erst 10 Jahre sp?ter konnte. Der einzige Nachteil der TA 1000 bestand nur darin, so gro? und schwer zu sein wie ein \u0026quot;Desk\u0026quot;.\n\nDie CPU war eine Platine 28cm mal 30cm gro? mit 112 Standart-TTL ICs best?ckt. Es war eine 8Bit CPU mit 16 Bit Adresse. Der Betriebssystemspeicher war eine extra Platine mit EPROMS vom Typ 1701 best?ckt.  Als Memory gab es eine doppelbreite Platine mit 4 KByte Kernspeicher. Am Anfang gab es noch IO-Platinen f?r Tastatur, Nadeldrucker, Lochstreifenleser und Lochkartenleser, dann Kassettenband-Laufwerke. Sp?ter kamen noch Karten f?r 8 Zoll Floppydisk, SRAM Memory, verschiedene Drucker, Magnetstreifen-Buchungskarten und eine IO-Karte zum Anschlu? eines externen DF?-Modems ( dies wurde von der Post gestellt ). Sp?ter gab es dann kurz vor Einstellung der Serie noch ein Display.\n\nDas Betriebssystem war eigentlich nur ein Interpreter des vorcompilieren Assemblercodes. Von den 4 kByte Memory brauchte das Beriebssystem f?r sich 1 KByte, so da? f?r die Anwendungssoftware nur 3 kByte ?brig blieben. Aber es war zur Zufriedenheit aller Anwender m?glich alle n?tigen Programme f?r die B?roarbeit zu erstellen. Allerdings konnte immer nur ein Programm laufen.\n\nDie Software wurde am Anfang noch in Assembler geschrieben, auf Lochkarten gestanzt und eingelesen. Das fertige Programm wurde auf Magnetbandkassette gespeichert. Durch das Ausn?tzen von IO-Wartezeiten konnte man konnte man parallelaufende Tasks programmieren. Da es aber keine ?nterst?tzung durch das Betriebssystem gab wurde sowas so gut wie nie benutzt. Sp?ter gab es einen Cobol-Compiler. Sein Erfolg war aber nicht toll, da die Programme zu gro? f?r den teueren Speicher wurden.\n\nDie TA 1000 war durchaus ein Erfolg auf dem deutschen B?romarkt, das Konkurenzprodukt von Olivetti hatte das Nachsehen. Viele TA 1000er wurden bei Steuerberatern eingesetzt, die ?ber DF? mit ihrem Rechenzentrum DATEV verbunden waren. Viele Gemeindeverwaltungen waren mit dem Rechenzentrum AKDB verbunden. Auch die Deutsche Bundesbahn hat viele TA 1000er an ihren Fahrkartenschaltern eingesetzt.\u0026quot;\n\nRon Powell, who worked for Triumph Adler in Sydney, Australia on the TA 1000 series as a tech, and later a programmer, also sent us this interesting testimony: \n\n\u0026quot;The first model was a TA 1000. This was released in about 1975 ? and I attended a training course in Nuremberg, Germany for six weeks. The course was in German !!! with some rough translation done by an Italian so most of my knowledge was picked up by tinkering and reading logic and circuit diagrams. \n\nThe TA 1000 was built before floppy disks were in production even though we tried some prototypes. The first model was equiped with data cassettes (same size as audio cassettes). All machines had three cassette drives. We developed commercial applications - billing (invoicing where I come from), payroll etc. We had to design \u0026amp; develop all applications from scratch because anything else was in German. The proceedure was to do data entry and capture the transaction details on cassette. This cassette was then sorted into account number order using a three tape sort. Next the customer masterfile cassette was read together with the sorted transaction cassette, the invoices printed and a new masterfile written to the third cassette with updated balance details etc. Of course there were occasional read errors during this process so we had to write some pretty complex code at a low level to get around this problem. \n\nThe programming language was pretty much identical to IBM 360/370 assembler (e.g. MVC A,B,L \u003d move L characters from B to A - or was it from A to B ?) which meant that only one typo would cause catastrophic results and probably send the system into an endless loop.\u0026quot;\n\n________\n\nContributors : Rudolf L. Sch?rger, Ron Powell\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TA-1000\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;from spanish commercial flyer\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Jomoca for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/triumph-adler_TA-1000_moya_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TA-1000 IN ACTION\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Rudolf L. Sch\u0026ouml;rger for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/triumph-adler_ta1000_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ISAAC ASIMOV FEB. 1982\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;\u0026lt;a href\u003d\u0026quot;http://www.aci.com.pl/mwichary/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Attached\u0026lt;/a\u0026gt;\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Tandy_Model2_Advert_s3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH PROMOTIONAL PICTURE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.pong-story.com\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;www.pong-story.com\u0026lt;/a\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/magnavox_odyssey_promo-pic_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (JAN. 1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/istc_5000_ad_fr_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt;Most small system users think all microcomputers are created aqual. And they\u0027re right. If you want performance, convenience, styling, high technology and reliability (and who doesn\u0027t?) your micro usually has a price tag that looks mote like a mini. It seems big performance always means big bucks. But not so with the SuperBrain...\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Intertec_SuperBrain_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;APPLE BUSINESS GRAPHICS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The Apple graphics package was launched in September 1982. It was available for both the Apple II and Apple III.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;  Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt;As you know, one picture is worth a few thousand numbers.\u0026lt;br\u0026gt; As you may not know, Apple Business Graphics software can generate more types of pictures, in more colours, using more data than any other graphics package... On the monitor of your choice. And on virtually any printer or plotter on the market...\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Apple_II_BusinessGraph_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US AD. MAY 1983\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; Before you start hunting from store to store for the ideal microcomputer, consider this: You won\u0027t find it.\u0026lt;br\u0026gt; That\u0027s because the world\u0027s most versatile micro is available only from the manufacturer. It\u0027s Lobo MAX-80 And, dollar for dollar, feature for feature, there isn\u0027t another system that even comes close....\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Lobo_Max80_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROMO PIC #4\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This guy is so good as running his budget that he has become rich and bought himself a TO-7/70 ! Or did he get rich since he bought its TO-7/70 ? Anyway he is now smoking cigars and reads stock market newspapers... great\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_to770_pub-budget.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BROCHURE - HAPPY COUPLE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.retrorene.nl/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Retro Rene\u0027s Gaming Corner\u0026lt;/a\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/ormatu_spelcomputer-2001_brochure_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. AD (1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Franklin_ACE1200_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (1984)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/micronique_hector-hrx_pub_periph_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LAST SALES\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;In July 1985, California Digital sold the Tano at $99. The price would decrease down to $35 while stock last.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Dragon_64_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;STRAPPING MAN!\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; A compact problem-solving add for engineers, statisticians, scientists and financial and business analysts. \u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/IBM_5100_advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Close-up of the previous advert showing the various cards of the Gemini 80-BUS system.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Gemini_Galaxy2_Advert_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;With the Alice, change the level without changing the computer\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/matra_alice32_advert2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. AD #1 (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The HHC advertising campain was not really attractive: black \u0026amp; white, lots of small characters texts, small pictures...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Panasonic_HHC_Advert2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;IN SCHOOLS #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/bull_micral-80-22_in-use_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. AD APRIL 1983\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Atari_1200xl_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LISA ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;He is rich (enough to buy a LISA !), he is relaxed... He is the typical advertising executive of the 80\u0027s.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Lisa_Advert_bind.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROMO PIC #5\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This picture was used to promote the educative potential of the TO-7/70. This poor student is studying economic politics... \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; As usual, no cables are shown... the tape recorder is thus useless... Will someone tell him ?\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_to770_pub-eco.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;March 1983 advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; The big differences between the Epson HX-20 Notebook Computer (on the left) and the Apple Computer (on the right) are 1) the HX-20 doesn\u0027t need a power cord, 2) the HX-20 weights only about four pounds, and 3) the HX-20 costs a lot less money... \u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Epson_HX20_Advert_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1979 RANGE ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert shows: \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; - the \u0026lt;b\u0026gt;WH89\u0026lt;/b\u0026gt; computer ($2295)\u0026lt;br\u0026gt; - the \u0026lt;b\u0026gt;WH11A\u0026lt;/b\u0026gt; 16-bit computer, DEC PDP 11/03 compatible ($1895)\u0026lt;br\u0026gt; - the \u0026lt;b\u0026gt;WH19\u0026lt;/b\u0026gt; video terminal ($995)\u0026lt;br\u0026gt; - the \u0026lt;b\u0026gt;WH26\u0026lt;/b\u0026gt; dual floppy disc system ($2595)\u0026lt;br\u0026gt; - the \u0026lt;b\u0026gt;WH14\u0026lt;/b\u0026gt; serial printer ($895)\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;  To note: in 1979, the company name was \u0026lt;b\u0026gt;Heath Schlumberger data systems.\u0026lt;/b\u0026gt; \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Heathkit_H89_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sord_is11c_advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;APPLE BUSINESS GRAPHICS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The Apple graphics package was launched in September 1982. It was available for both the Apple II and Apple III.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;  Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt;As you know, one picture is worth a few thousand numbers.\u0026lt;br\u0026gt; As you may not know, Apple Business Graphics software can generate more types of pictures, in more colours, using more data than any other graphics package... On the monitor of your choice. And on virtually any printer or plotter on the market...\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Apple_II_BusinessGraph_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BRAZILIAN ADVERT (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Guizzi (http://www.scribd.com/doc/938905/Micro-Sistemas)\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/digitus_dgt100_ad_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [
+    "http://home.afrika.net/admen1.htm"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/triumph-adler_TA-1000_moya_1s.jpg",
+  "builtInGames": "assembler interpreter",
+  "controllers": "",
+  "media": "unknown",
+  "numGames": "",
+  "peripherals": "unknown",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Business Computer",
+  "manufacturer": "RAIR microcomputer",
+  "type": "Professional Computer",
+  "origin": "U.S.A.",
+  "year": "? 1983",
+  "production": "Unknown",
+  "language": "",
+  "keyboard": "Full stroke keyboard, 83 keys, 10 programmable function keys, numeric keypad",
+  "cpu": "16-bit Intel 8088 \u0026amp; 8-bit Intel 8085",
+  "speed": "",
+  "coprocessor": "",
+  "ram": "256 KB (1 MB max.)",
+  "vram": "",
+  "rom": "",
+  "text": "80 x 25 characters",
+  "graphics": "high resolution ?",
+  "colors": "8",
+  "sound": "Unknown",
+  "size": "Unknown",
+  "ports": "4 x terminal connectors (RS 422 compatible), 2 x RS232 ports",
+  "power": "Built-in power supply",
+  "price": "Unknown",
+  "description": "\nThe RAIR Business Computer is an obscure system since nearly nothing can be found on the net about it (apart from here :-))\n\nThe Business Computer is a multipost system. It can control/serve up to 4 attached terminal stations via RS422 connectors.\n\nIts main particularity is to mix two technologies: 8-bit with its Intel 8085 CPU and 16-bit with its Intel 8088 CPU. Thus it can run CP/M, MP/M and PC-DOS software with no problem (according to the advert).\n\nFor mass storage, the system is equiped with a 19 MB Winchester hard-disk (up to 4 can be mounted) and a 5.25\u0027\u0027 1 MB floppy drive.\n_______________________",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BUSINESS COMPUTER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/rair_business-computer_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (DEC. 1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Sorry, you don\u0027t play with me\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/rair_business-computer_ad_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [],
+  "image": "http://www.old-computers.com/museum/photos/rair_business-computer_1s.jpg",
+  "builtInGames": "19 MB Winchester hard-disk + 1 MB 5.25\u0027\u0027 floppy disk drive",
+  "controllers": "",
+  "media": "19 MB Winchester hard-disk + 1 MB 5.25\u0027\u0027 floppy disk drive",
+  "numGames": "",
+  "peripherals": "up to 4 additional hard-disks, magnetic tape drive, bidirectional printer (160 c/s)",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

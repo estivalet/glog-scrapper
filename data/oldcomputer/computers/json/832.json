@@ -1,0 +1,364 @@
+{
+  "name": "Expert XP-800",
+  "manufacturer": "Gradiente",
+  "type": "Home Computer",
+  "origin": "Brazil",
+  "year": "December 1985",
+  "production": "",
+  "language": "Microsoft Extended Basic (MSX Basic V1.0)",
+  "keyboard": "Full-stroke keyboard with numeric keypad, 5 function keys and 4 arrow keys. 89 keys.",
+  "cpu": "Zilog Z80A",
+  "speed": "3.58 MHz",
+  "coprocessor": "TMS-9128NL video processor",
+  "ram": "64 KB",
+  "vram": "16 KB",
+  "rom": "32 KB BASIC/BIOS ( MSX BASIC V1.0)",
+  "text": "Mode 0 : 40 x 24 Mode 1 : 32 x 24",
+  "graphics": "Mode 2 : 256 x 192 with 16 colors (Hires mode)Mode 3 : 64 x 48 with 16 colors (Multi colour mode)32 sprites",
+  "colors": "16",
+  "sound": "General Instruments AY-3-8910 Programmable Sound Generator3 channels, 8 octaves",
+  "size": "420 x 110 x 280 mm / 4,7 KgKeyboard : 420 x 47 x 170mm / 1 Kg",
+  "ports": "BUS Expansion port, Keyboard connector, 2 controller ports, 2 cardridge slots, Tape interface (1200/2400 bauds), RGB video output, Composite video output (PAL-M), Parallel port, Audio output, Two power out connector (Max 100W)",
+  "power": "Built-in PSU - AC 120/220V 50/60 Hz",
+  "price": "Unknown",
+  "description": "\nThe Gradiente Expert 1 is a Brazilian MSX 1 computer. It is composed of two parts: the main unit and the keyboard. Gradiente is a Brazilian consumer electronic products company. It is not suprising as the unit\u0027s design looks like a HI-FI system... Along with the HotBit, the Experts were the only MSX systems available in Brazil.\n\nThe Expert XP-800 was in fact a clone of the National CF-3000. It is a quite complete MSX 1 computer with two cartridge slots placed on the front panel and a numeric keypad. The rear of the system is quite populated with a lot of connectors : BUS Expansion port, Keyboard connector, Tape interface (1200/2400 bauds), RGB video output, Composite video output (monochrome), Parallel port, Audio output, 2 x power out connector (Max 100W)... On later models (v1.1) a few connectors were added: 6v output for DataCorder, RCA Color Video Composite (PAL-M) and RF-Out with channel selector (PAL-M). A speaker level control and an AC Switch (120V-240V) can also be found.\n\nSadly, the cassette interface, RGB connector, keyboard connector, expansion connector and printer connector were not compatible with the MSX standard. Gradiente did this on purpose, trying to set their own proprietary standard in Brazil... Also, a little difference in the ASCII table between the Expert (corrected with the Expert GPC-1) and the Hotbit caused a lot of problems in Brazil...\n\nThe Expert XP-800 was later followed by the Expert GPC-1 (1986), the Expert Plus (1989) and finally the Expert DD Plus (1989).\n_______________________",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;XP-800 1.1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Gradiente_XP800_System_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRONT PANEL\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Notice the two cartridge slots and the two joystick connectors at the bottom-left side.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Gradiente_XP800_Keyboard_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRONT PANEL #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Gradiente_XP800_FrontPanel_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;IN USE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Here with a monochrome composite monitor.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Gradiente_XP800_Running_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BOOT-UP SCREEN\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Some of the MSX BASIC messages were translated into Brazilian language. The Character generator was also modified.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Gradiente_XP800_BootScreen_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR PANEL\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Probably the most complete MSX 1 I/O panel.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(1)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Ground terminal\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(2)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Bus expansion connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(3)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Keyboard connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(4)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Parallel printer connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(5)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Switched AC outlets\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(6)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; TV channel selector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(7)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; RF modulator output\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(8)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Colour composite video output\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(9)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 6V DC output used to supply the tape recorder\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(10)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; RGB video output DIN socket\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(11)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Tape recorder DIN socket\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(12)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Monochrome composite video and sound output jacks\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(13)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Speaker level knob.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Gradiente_XP800_RearSide_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MAIN BOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;A very classical MSX 1 main board.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(1)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 64 KB RAM bank (8 x 4164 chips)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(2)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; G.I. AY-8910 sound generator\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(3)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; NEC 8255 I/O chip\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(4)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Zilog Z80 processor\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(5)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; MSX-BASIC ROM chip\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(6)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; T.I. TMS 9128 video chip.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Gradiente_XP800_Mainboard_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Below the main board, the left card \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(1)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; holds the RF modulator, the right one \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(2)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; is in charge of the tape recorder, RGB, composite and sound interfaces.  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Gradiente_XP800_Inside_s1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT #5\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;\u0026lt;a href\u003d\u0026quot;http://www.aci.com.pl/mwichary/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Attached\u0026lt;/a\u0026gt;\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sinclair_ZX81_Advert_s5.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT #6 (1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Atari_800_Advert_6.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MEMORY BOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Vector Graphics also sold various cards for any S-100 systems. This one is a 8 Kb. static RAM card solded for $265 in kit version and $350 assembled.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/VectorGraphics_Vector1_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ARTICLE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;...released in \u0026quot;l\u0027Ordinateur Individuel\u0026quot; magazine n\u0026deg;12\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Fabien Neck and its \u0026lt;a href\u003d\u0026quot;http://www.system-cfg.com/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;website\u0026lt;/a\u0026gt; for this scan\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/leanord_silex_oi12.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT, JULY 1985\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;DEC Advertises its range of networking products.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Byte magazine\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/digital_Pro350_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. AD #1 (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The major argument of the advert campaign was \u0026quot;we have a better and cheaper computer than Apple and IBM\u0026quot;...\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; True, but like many other computers of the time, the major fault of the Advantage was not to be an IBM system...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/NorthStar_Advantage_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LAST SALES\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;In July 1985, California Digital sold the Tano at $99. The price would decrease down to $35 while stock last.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Dragon_64_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1978 BROCHURE #15\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/MSI_6800_Brochure_s15.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FIRST ADVERT (1989)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This brochure was jointly published by Philips and American Interactive Media (the Philips/PolyGram joint venture that was set up to develop CD-i consumer software prior to the launch of the hardware). It was intented to give a general overview of CD-i\u0027s functionality in a consumer area. The brochure was presented to visitors of multimedia fairs and business partners at around 1989. The CD-i unit (including the remote control) that is displayed is an artist\u0027s impression of a player, it was never actually produced. The first consumer CD-i player, the CDI 910, appeared on the market in the US in October 1991.  \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt;Source \u003d \u0026lt;a href\u003d\u0026quot;http://www.icdia.org/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;The New International CD-i Association\u0026lt;/a\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.icdia.org/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;The New International CD-i Association\u0026lt;/a\u0026gt; for this picture.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/cdi_advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sord_is11_advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/tandy_1000series_ad_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. AD (1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This advert tried to convince computers newcomers that a pocket computer could do the same as a desktop computer...\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; Now Texas Instruments brings you a cordless compact computer that solves the same sort of problems as the Apple or IBM Personal Computer...\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; ...For most personal computer tasks, its 6K RAM and 34K ROM are ample...\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/TexasIns_CC40_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT (APR. 1986)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/ResearchMach_Nimbus_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;The TO7 from Thomson has everything needed to fill the empty cells\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_to7_advert-cases-vides.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN ADVERT #3\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Christian Hart for this scan\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/commodore_C64_ad-de_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.K. AD (MAR. 86)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; The electric typewriter\u0027s days are numbered. Because now there\u0027s a machine that put real wordprocessing power within everyone\u0027s reach.\u0026lt;br\u0026gt; The Amstrad PCW 8256 is a complete word-processor and a powerful computer in one unit.\u0026lt;br\u0026gt; And it\u0027s unbelievably low price includes a screen with built-in disc drive, keyboard, printer and word processing software...\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Amstrad_8256_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT (1987)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/tandy_1400_ad_nobettervalue.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. AD. JUNE 1983\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;First advert of the Model 100.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Tandy_model100_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CHARLIE CHAPLIN #4 \u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;In June 1983, IBM was still seeking independant programmers.\u0026lt;br\u0026gt; Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot; The envelope please.\u0026lt;br\u0026gt; There\u0027s an acceptance letter inside. And a check that could have your name on it. (If we select your program, that is.)\u0026lt;br\u0026gt; But remember. We pick our winners carefully... \u0026lt;/font\u0026gt; \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/IBM_5150_ChaplinAdvert_4.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (1979)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/heathkit_h8_advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;AMIGAWORLD PREVIEW\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Thanks to Jun Suzuki \u0026lt;a href\u003d\u0026quot;http://member.nifty.ne.jp/tarucus/museum/cool/cool.htm\u0026quot;\u0026gt;web site\u0026lt;/a\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Commodore_Amiga4000_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (DEC. 1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Christmas accounts\u0026quot; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026quot;Casio, it counts\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/casio_fx702p_advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT (APRIL 1985)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/goldstar_fc200_adv_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (JAN. 1985)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;I met Apple IIc\u0026quot; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; French advert from MAJUSCULE distributor.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/apple_IIc_pub_majuscule.jpg"
+    }
+  ],
+  "hardwareDescription": "",
+  "hardware": [
+    {
+      "type": "MEMORY EXPANSIONS",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/national_cf2131_16k-cart.jpg",
+          "description": "National CF-2131|||16 KB RAM expansion|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;NATIONAL CF-2131\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;16 KB RAM expansion\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/casio_or216_16kbramexpansion_box.jpg",
+          "description": "Casio OR-216 - 16 KB RAM expansion|||Box|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CASIO OR-216 - 16 KB RAM EXPANSION\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Box\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Philips_VG8020_Cartridges_s1.jpg",
+          "description": "Philips RAM expansion||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PHILIPS RAM EXPANSION\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;RAM expansion and LOGO language cartridges.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Daniele from Italy\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/msx_megaram256-ddx_1.jpg",
+          "description": "MEGA RAM DISK 256|||from DDX (Brazil)|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MEGA RAM DISK 256\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;from DDX (Brazil)\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is the famous Megaram cartridge made in Brzail, used to play all Konami cracked Megarom games.6401999243\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "MISC",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/msx_FS-IFA1_FW-RSU1W.jpg",
+          "description": "Panasonic  FS-IFA1 \u0026amp; FW-RSU1W|||Scanner/Printer interface|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PANASONIC  FS-IFA1 \u0026amp; FW-RSU1W\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Scanner/Printer interface\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The FS-IFA1 is the printer/scanner interface (left on the picture) and the FW-RSU1W is the handheld scanner (right on the picture). These expansions are for MSX2 systems.\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/sony_msx_rs232c-cartridge.jpg",
+          "description": "Sony HBI-232|||RS232c cartridge|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SONY HBI-232\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;RS232c cartridge\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Used to connect serial printers.\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Yamaha_Mouse_s2.jpg",
+          "description": "Yamaha mouse #1||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;YAMAHA MOUSE #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This mouse was compatible with all MSX systems. It connects to the first Joystick port.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;www.zonadepruebas.com\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Yamaha_Mouse_s1.jpg",
+          "description": "Yamaha mouse #2||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;YAMAHA MOUSE #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Brand new!\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;www.zonadepruebas.com\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "PRINTERS",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Philips_VG8020_PrinterVW0020_s1.jpg",
+          "description": "Philips VW0020|||80-col dot-matrix printer|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PHILIPS VW0020\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;80-col dot-matrix printer\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This printer was a rebadged version of the Seikosha GP-500.\u0026lt;br\u0026gt;  It was a 80-column, 50 CPS model with a 7x5 dot matrix head.\u0026lt;br\u0026gt;  Commodore and Atari used same hardware basis for their MPS-801 and 1029 printers. \u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "TAPE RECORDERS",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/sanyo_phc-drII_side_1.jpg",
+          "description": "Sanyo PHC-DR II|||Side|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SANYO PHC-DR II\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Side\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/sanyo_phc-drII_front_1.jpg",
+          "description": "Sanyo PHC-DR II|||Front|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SANYO PHC-DR II\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Front\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Sanyo_Phc28_DR202tapeDrive_s1.jpg",
+          "description": "Sanyo DR-202||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SANYO DR-202\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The ADSS system allowed to quickly search a specific program in a cassette tape and load it. Seach time for a C60 cassette was less than 1 minute.\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/national_tape_rq8030.jpg",
+          "description": "National RQ-8030|||tape-recorder|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;NATIONAL RQ-8030\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;tape-recorder\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Sony_HB201_BitCorder_1.jpg",
+          "description": "Bit-corder||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BIT-CORDER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Cassete recorder dedicated to Hit-Bit MSX systems, though it could be used with any home computers.\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    }
+  ],
+  "emulator": [
+    {
+      "platform": "MS DOS emulator",
+      "name": "fMSX for MS DOS Homepage",
+      "link": "http://www.komkon.org/~dekogel/fmsx.html"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "BlueMSX",
+      "link": "http://www.bluemsx.com/",
+      "description": "Excellent free MSX emulator"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "BrMSX",
+      "link": "http://www.lsi.usp.br/~ricardo/brmsx.htm",
+      "description": "A Bresilian MSX Emulator written in 100% assembler"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "CompuJunk\u0027s MSX Emulator",
+      "link": "http://ftp.castel.nl/msx/",
+      "description": "A MSX1 and MSX2 Emulator"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "RuMSX",
+      "link": "http://members.eunet.at/lexlechz/msx.html",
+      "description": "A MSX Emulator for Win95 and Win NT + Direct X"
+    },
+    {
+      "platform": "Apple emulator",
+      "name": "fMSX for MAC OS Homepage",
+      "link": "http://www.emulation.net/msx/index.html"
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "fMSX official Homepage",
+      "link": "http://www.komkon.org/fms/fMSX",
+      "description": "fMSX is a portable MSX emulator ported on : Amiga OS, Mac OS, MS DOS, OS/2, Sony Playstation, Risc OS, Towns OS, Unix / X, Win95 / NT, X68K."
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "openMSX - The MSX emulator that aims for perfection.",
+      "link": "http://openmsx.sourceforge.net/",
+      "description": "This new MSX emulator can reproduce, among many other MSX, MSX2and  MSX2+ machines, both Panasonic Turbo-R models. Be sure to get the catapult frontend and the system roms from FUNET."
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d788",
+    "computer.asp?st\u003d1\u0026amp;c\u003d432",
+    "computer.asp?st\u003d1\u0026amp;c\u003d585",
+    "computer.asp?st\u003d1\u0026amp;c\u003d1012",
+    "computer.asp?st\u003d1\u0026amp;c\u003d587",
+    "computer.asp?st\u003d1\u0026amp;c\u003d441",
+    "computer.asp?st\u003d1\u0026amp;c\u003d88",
+    "computer.asp?st\u003d1\u0026amp;c\u003d443",
+    "computer.asp?st\u003d1\u0026amp;c\u003d807",
+    "computer.asp?st\u003d1\u0026amp;c\u003d425",
+    "computer.asp?st\u003d1\u0026amp;c\u003d588",
+    "computer.asp?st\u003d1\u0026amp;c\u003d589",
+    "computer.asp?st\u003d1\u0026amp;c\u003d426",
+    "computer.asp?st\u003d1\u0026amp;c\u003d581",
+    "computer.asp?st\u003d1\u0026amp;c\u003d848",
+    "computer.asp?st\u003d1\u0026amp;c\u003d783",
+    "computer.asp?st\u003d1\u0026amp;c\u003d887",
+    "computer.asp?st\u003d1\u0026amp;c\u003d851",
+    "computer.asp?st\u003d1\u0026amp;c\u003d437",
+    "computer.asp?st\u003d1\u0026amp;c\u003d784",
+    "computer.asp?st\u003d1\u0026amp;c\u003d436",
+    "computer.asp?st\u003d1\u0026amp;c\u003d833",
+    "computer.asp?st\u003d1\u0026amp;c\u003d438",
+    "computer.asp?st\u003d1\u0026amp;c\u003d580",
+    "computer.asp?st\u003d1\u0026amp;c\u003d1056",
+    "computer.asp?st\u003d1\u0026amp;c\u003d435",
+    "computer.asp?st\u003d1\u0026amp;c\u003d582",
+    "computer.asp?st\u003d1\u0026amp;c\u003d431",
+    "computer.asp?st\u003d1\u0026amp;c\u003d782",
+    "computer.asp?st\u003d1\u0026amp;c\u003d583",
+    "computer.asp?st\u003d1\u0026amp;c\u003d886",
+    "computer.asp?st\u003d1\u0026amp;c\u003d90",
+    "computer.asp?st\u003d1\u0026amp;c\u003d578",
+    "computer.asp?st\u003d1\u0026amp;c\u003d444",
+    "computer.asp?st\u003d1\u0026amp;c\u003d1084",
+    "computer.asp?st\u003d1\u0026amp;c\u003d301",
+    "computer.asp?st\u003d1\u0026amp;c\u003d422",
+    "computer.asp?st\u003d1\u0026amp;c\u003d433",
+    "computer.asp?st\u003d1\u0026amp;c\u003d434",
+    "computer.asp?st\u003d1\u0026amp;c\u003d859",
+    "computer.asp?st\u003d1\u0026amp;c\u003d464",
+    "computer.asp?st\u003d1\u0026amp;c\u003d858",
+    "computer.asp?st\u003d1\u0026amp;c\u003d576",
+    "computer.asp?st\u003d1\u0026amp;c\u003d229",
+    "computer.asp?st\u003d1\u0026amp;c\u003d575",
+    "computer.asp?st\u003d1\u0026amp;c\u003d428",
+    "computer.asp?st\u003d1\u0026amp;c\u003d429",
+    "computer.asp?st\u003d1\u0026amp;c\u003d300",
+    "computer.asp?st\u003d1\u0026amp;c\u003d250",
+    "computer.asp?st\u003d1\u0026amp;c\u003d251",
+    "computer.asp?st\u003d1\u0026amp;c\u003d857",
+    "computer.asp?st\u003d1\u0026amp;c\u003d482",
+    "computer.asp?st\u003d1\u0026amp;c\u003d777",
+    "computer.asp?st\u003d1\u0026amp;c\u003d442",
+    "computer.asp?st\u003d1\u0026amp;c\u003d440",
+    "computer.asp?st\u003d1\u0026amp;c\u003d439",
+    "http://www.baboo.net/baboo.shtml",
+    "http://www.file-hunter.com/",
+    "http://www.caetano.eng.br/msxsoft/",
+    "http://www.moai-tech.com/",
+    "http://www.faq.msxnet.org/hardware.html",
+    "http://www.msx.org/",
+    "http://dynamo.geol.msu.ru/MSX/",
+    "http://www.msxgamesbox.com",
+    "http://www.msxmuseumbox.com",
+    "http://www.faq.msxnet.org",
+    "ftp://ftp.funet.fi/pub/msx",
+    "news:comp.sys.msx"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/Gradiente_XP800_System_s1.jpg",
+  "builtInGames": "Microsoft Extended Basic (MSX Basic V1.0)",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

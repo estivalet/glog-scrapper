@@ -1,0 +1,64 @@
+{
+  "name": "VIDEO GENIE 1 / EG-3003",
+  "manufacturer": "Eaca",
+  "type": "Home Computer",
+  "origin": "Hong Kong",
+  "year": "1980",
+  "production": "",
+  "language": "Microsoft Basic Level II",
+  "keyboard": "Full stroke keyboard, 54 keys, QWERTY",
+  "cpu": "Zilog Z80A",
+  "speed": "1,77 MHz",
+  "coprocessor": "",
+  "ram": "16 KB (up to 48 KB)",
+  "vram": "",
+  "rom": "12 KB (Microsoft Basic Level II)",
+  "text": "16 x 32 / 16 x 64",
+  "graphics": "128 x 48",
+  "colors": "Monochrome",
+  "sound": "None",
+  "size": "",
+  "ports": "50-pin expansion Bus, video output (DIN), tape-interface (DIN)",
+  "power": "Built-in power supply",
+  "price": "3950 FF (France, January 1981)",
+  "description": "\nThe Genie 1 was compatible with the Tandy TRS-80 Model I.\n\nA 5.25\u0026quot; floppy disk drive (100 KB, 40 tracks). However, 80 track double-sided drives could be used if the operating system supported it. Due to some poor design, only 3 drives could be used and the last drive had to be single-sided. In fact the limitations of the floppy disks depended on the controller. Some controllers were able to drive up to 4 double sided disks. There also was a \u0027doubler\u0027 device available which doubled the capacity of the disks by replacing the 1791(?) controller chip.\n\nA graphic expansion was available as well and provided a maximum graphic resolution of 384 x 192, it was necessary to modify the internals of the machine to fit it.\n\nAn expansion interface (similar to the TRS-80?s) could be connected to the expansion bus and provided RAM upgrade (up to 32K), floppy disk, printer interface, and an expansion slot for an optional RS232 interface. An alternative Operating system available from the USA and called LS-DOS could run on this version.\n\nThe Genie had an \u0027expansion\u0027 connector on the back side carrying all necessary signals. One of them (\u0027Phantom\u0027) could be used to remove Keyboard, ROM and video-RAM from the memory map and provide the whole 64K memory to the CPU. This enabled the machine to run CP/M, which was a nice feature. The only drawback: the video resolution was only 64 characters wide - not 80 as required by CP/M.\n\nFor better readability on standard TV-sets (a VHF modulator was build-in) the horizontal resolution could be switched to 32 chars with a switch on the back side. Another Key on the keyboard \u0027Page\u0027 then could be used to display the left or right half of the screen. A nice feature at a time where computer monitors were expensive,\nbut a pain when writing texts! Early versions had 7 bit video-RAM which prevented display of lower case letters.\n\nOne year later (1981), a new model was launched : the Video Genie II. Basically, it is Video Genie 1 with a numeric keypad instead of the built-in tape-recorder (see \u0027\u0027more pictures\u0027\u0027 section)...\n\nDick Smith Electronics in Australia brought out a re-badged version of the Video Genie called the System 80. These were identical except of course they carried the Dick Smith Logo. They also sold a \u0027business\u0027 version with the keyboard, two floppy disk drives and expansion box with a clunky little printer.\n\nThese machines were expandable with after-market parts - you could purchase Exabyte \u0026quot;stringy floppy\u0026quot; drives (an eternal loop tape that held 4 programs, pretty much regardless of size, and ran somewhere between tape and disk speed).  You could also purchase memory chips, which you added by soldering onto the top of the existing chips.  There were a few magazines dedicated to the System 80/TRS-80 in Australia/New Zealand, which carried basic program listings.\n\nThey also didn\u0027t have a volume control on the tape drive - it wasn\u0027t uncommon to see second hand units that had had that added. The System 80 came with a Dick-Smith tape that, amongst other things, had a program that played \u0026quot;flight of the bumble bee\u0026quot; - badly ;)\n\nBy entering SYSTEM 12288 into the Video Genie, it would give you lower case letters, a flashing cursor and auto repeat on keys.\n\n________\n\nContributors : Lothar Merl, Adrian Williams, Kevin Littlejohn, Daniel Smith\n\nKevin Littlejohn reports:\nThese machines were expandable with after-market parts - you could purchase Exabyte \u0026quot;stringy floppy\u0026quot; drives (an eternal loop tape that held 4 programs, pretty much regardless of size, and ran somewhere between tape and disk speed).  You could also purchase memory chips, which you added by soldering onto the top of the existing chips.  There were a few magazines dedicated to the System 80/TRS-80 in Australia/New Zealand, which carried basic program listings.  My high school had a lab of them with a locally-produced \u0026quot;network\u0026quot; chip, that allowed one machine to take control of another via I think the S100 bus - so the lab had one flobby drive, and all the machines could access it.\nThey also didn\u0027t have a volume control on the tape drive - it wasn\u0027t uncommon to see second hand units that had had that added.\nThe System 80 came with a Dick-Smith tape that, amongst other things, had a program that played \u0026quot;flight of the bumble bee\u0026quot; - badly ;)\n\nA tip from Daniel Smith\nBy entering SYSTEM 12288 into the Video Genie, it would give you lower case letters, a flashing cursor and auto repeat on keys. Remarkable!\n\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;VIDEO GENIE I / EG-3003\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/eaca_3003_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;VIDEO GENIE II / EG-3008\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;A Video Genie 1 with a numeric keypad instead of the tape-recorder...\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;www.homecomputer.de\u0026quot;\u0026gt;www.homecomputer.de\u0026lt;/a\u0026gt; for this picture.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/eaca_videogenie-2_walgy.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;HUNGARIAN CLONE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This EG-3003 clone was manufactured by Hirad\u0026aacute;stechnika Sz\u0026ouml;vetkezet, the name of the system was HT-1080Z School Computer. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt;  \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Varga Zolt\u0026aacute;n\u0026lt;/b\u0026gt; - Picture from \u0026lt;b\u0026gt;www.ht.homeserver.hu/\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/EACA_EG3003_HungarianClone_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BOX\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/eaca_3003_box.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (JAN. 1981)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/eaca_eg3003_advert-fr_1_s.png"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [
+    "http://www.webweavers.co.nz/system-80/"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/eaca_genie-1_1.jpg",
+  "builtInGames": "Microsoft Basic Level II",
+  "controllers": "",
+  "media": "Built-in tape-recorder",
+  "numGames": "",
+  "peripherals": "Printers, Memory expansion, Sound generator, Disk drives",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

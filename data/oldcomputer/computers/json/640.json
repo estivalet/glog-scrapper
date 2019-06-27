@@ -1,0 +1,48 @@
+{
+  "name": "HP-75C / 75D",
+  "manufacturer": "Hewlett Packard",
+  "type": "Pocket",
+  "origin": "U.S.A.",
+  "year": "75C : September 198275D: 1984",
+  "production": "75C : May 198475D : 1986",
+  "language": "Basic interpreter, Visicalc spreadsheet",
+  "keyboard": "64 keys. Each key is user-definable",
+  "cpu": "8 bits, called Capricorn",
+  "speed": "",
+  "coprocessor": "",
+  "ram": "16 KB",
+  "vram": "",
+  "rom": "48 KB",
+  "text": "LCD display. 1 line x 32 chars.",
+  "graphics": "160 x 9 pixels",
+  "colors": "Monochrome",
+  "sound": "Beeper",
+  "size": "25.4  x 12.7 x 3.2 cm. - Weight 737g.",
+  "ports": "HP-IL, 3 x ROM/RAM expansion ports",
+  "power": "Battery pack or external AC adaptor",
+  "price": "75C: $995 - 75D: $1095",
+  "description": "\nThe HP-75C was the first pocket computer ever produced by HP who wanted a pocket book format (10?x 5?) computer as powerful as a desktop. It can also be considered as the first organizer able to deal with a multiple alarms time schedule, to control real time peripherals and to memorize text files.\n\nIts 48KB ROM contained a very complete Basic language and a light version of the spreadsheet Visicalc. Three slots allowed adding pre-programmed ROM modules (Maths, finance, word processor?)\n\nIt integrated a card reader. The cards was manually slipped front of the magnetic head. Each card could stock 1.3 KB of information on 2 tracks (650 bytes each). The card information coding allowed great variations of the reading speed, due to manual handling.\n\nThe HP-IL (Interface Loop) interface allowed connecting as far as 30 peripherals simultaneously on the HP-75C. Amid the peripherals, one could find a display unit, printers, a modem, a tape recorder and all the HP-IL standard peripherals.\nAs always with HP, the manuals were very complete and pedagogical.\n\nThe HP-75D was released two years later. It added a wand and wand port. When used with the Bar Code ROM, the computer could scan CODE11, CODE39, UPC, and EAN codes. This made the computer useful for inventory control.\n \n\n\n",
+  "shot": [],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FIRST AD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;February 1983 - The real-size system picture occupied almost the full right page. \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/HP_75C_Advert_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [
+    "http://www.fortitudine.com/~coryc/html/hp75c.shtml",
+    "http://www.hpmuseum.org/hp75.htm"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/HP_75C_System_1.jpg",
+  "builtInGames": "Basic interpreter, Visicalc spreadsheet",
+  "controllers": "",
+  "media": "Memory cards, 1.3 KB",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

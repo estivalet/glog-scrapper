@@ -1,0 +1,137 @@
+{
+  "name": "HEADSTART",
+  "manufacturer": "Intertec",
+  "type": "Professional Computer",
+  "origin": "U.S.A.",
+  "year": "Unknown",
+  "production": "1984",
+  "language": "",
+  "keyboard": "",
+  "cpu": "Zilog Z80 + Intel 8086",
+  "speed": "Unknown",
+  "coprocessor": "",
+  "ram": "128 KB to 1MB depending on model. All models are expandable to 1MB",
+  "vram": "",
+  "rom": "Unknown",
+  "text": "80 x 25 - 132 x 25 on a 12",
+  "graphics": "Unknown",
+  "colors": "Monochrome",
+  "sound": "",
+  "size": "",
+  "ports": "One RS 449/RS 232 compatible serial port - Centronics - External Data Bus - Coaxial Communication Interface - External disk I/O interface - Optional network print spooling interface",
+  "power": "Built-in PSU",
+  "price": "Unknown",
+  "description": "\nThanks to Michael Hoyle for this information:\n\nThe HeadStart had two models. HeadStart VPU and HeadStart ATS.\n\nThe VPU was an impressive machine. It was a portable or a desktop machine.\nNotice the picture has a smaller keyboard that snapped on the front bezel\nand a handle on the back. No customers ordered the portable version.\n\nThe VPU had a Z-80 and an 8086 and could support up to 1MB RAM. Inside the\ncomputer consisted of three circuit boards. Two (over the top of the CRT)\nwas the processor and the RAM. The 1MB RAM took up a whole board.\n\nThe unit had a 3?\u0026quot; diskette drive that read Intertec\u0027s proprietary formats. The\nmachine could convert CP/M 2.2 format and MS-DOS 2.1 format data. The\nmachine had a coaxial network board (proprietary protocols) that connected\none of two server machines. A 10/20MB and a 50 MB.\n\nThe machine was not popular because of:\n- CP/M was dying, no one thought 3?\u0026quot; drives would be accepted (I think this\nwas the first to install 3?\u0026quot; drives),\n- IBM compatibility (Lotus 123) was a huge issue.\n\nThe IBM compatible ATS was created to answer these objections. The diskette was dropped out and an external 5? drive was added. The machine was sold with IBM PC-DOS 3.1 OS. It ran Lotus 123 and others and was very fast. It\nmaintained the local area network capability. The ATS downfall was\nmonochrome video, an external drive and no hard drive.\n\nIntertec stopped production of the HeadStart in 1984 and the company reduced\nitself to 12 employees. Service of the HeadStart continued however. A\nNetherlands company picked up the HeadStart name illegally (I remember a\nwrestler was used as the spokesperson for them). The legal issues were\nresolved out of court.\n\nIntertec was a public company. The name was changed to Wells American\nCorporation around 1985.\nIn 1985 Wells American began production of the A*Star. The A*Star was an IBM XT compatible that was exactly like the IBM. It used the 80286 and the speed could be switched: A*Star I 6/8 MHz, A*Star II 6/8/10/12/14/16 MHz. The\nA*Star used PC-DOS 3.x OS and would accept any of the IBM add-ons. Top\nmemory was 1MB. The proprietary network was included with the A*Star I and\nwas promoted as network ready. Wells American added an ISA bus NIC to allow\nIBM compatibles to access the HeadStart file servers. \n\nThe successful A*Star was sold directly to the enduser and was the first to\nbreak the $1000 barrier. The A*Star was never updated beyond the 80286 by\nWells American. A*Star\u0027s were sold with a 30 day money back guarantee,\non-site serviced by RCA/GE Computer services and guaranteed compatibility\nwith IBM software and hardware add-ons.\n\nAfter the A*Star, Wells American designed a dual bus 80286/80386 machine\ncalled the CompuStar I. This machine was a floor standing tower and was\ndesigned with the first processor local bus. A separate motherboard held the\nbus interface circuitry. The bus architecture could have been a combination\nof Microchannel or ISA. Only ISA was ordered as microchannel was a flop. The\nCompuStar had a single board processor (proprietary design) that was\ninterchangeable. An 80286 machine could be switched to an 80386 in 10 min.\nThe case was built from extruded aluminum and was a hefty design. \u0026quot;The Robb\nReport\u0026quot; picked the CompuStar I as the \u0026quot;Ultimate\u0026quot; computer and it received\nthe highest rating given to any hardware product by \u0026quot;Infoworld\u0026quot; magazine for\nthe year it was reviewed. 386 processor speeds reached 16/20/25MHz.\n\nThe CompuStar II in contrast was a very small machine. It had\ninterchangeable processor boards but only the ISA bus. It could mount 3 half\nheight 5? drives and a 3? fixed drive. Each of the CompuStar machines could\nhold up to 16MB RAM. 80386 Processor speeds were 16/20/25/33 MHz.\n\nWith the recession of 1988/9 the expensive CompuStar sales slowed and Wells\nAmerican could not keep up financially, declaring bankruptcy.\nThe A*Star and CompuStar trademarks were sold to CornerStone Technologies,\nInc., in SC. The A*Star is still manufactured by CornerStone.\n\nI was the production manager when the A*Star was first produced and then\nbecame the Product Manager for the A*Star and CompuStar lines. I am the\nPresident of CornerStone Technologies, Inc. so I have been building the\nA*Star since 1985.\n \n\n\n",
+  "shot": [],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (FEB. 1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/rair_blackbox_advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;COMPUSTAR NETWORK\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Compustar is the network version of the SuperBrain. Each SuperBrain computer became an \u0027intelligent\u0027 video terminal called a Video Processing Unit and containing its own microprocessor and 64 KB of RAM.  Single or double floppy disc could be added for 350 KB to 1.5 MB local storage. Up to 255 terminals could be connected into the same network. Maximum cable length between two terminal was one mile at a 1.6 MB data transfer rate. Each of them could share a disk storage system, from 10 to 96 MB with CP/M operating system. \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Intertec_Compustar_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT, AUGUST 1985\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Commodore_128_Advert_s3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said : \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0027\u0027The computer which carried away America\u0026quot;\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0027\u0027With its portable computers, Compaq became world number two on the market of the 16 bits computers. With a turnover of 240 million dollars in one year and a half, this young company established in Houston obtained the growth rate record of the American economic history.\u0026quot; \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Compaq_PortablePlus_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/mbc_alcyane_ad_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Picture courtesy of \u0026lt;a href\u003d\u0026sect;http://www.sbrowning.com/vintage\u0026sect;\u0026gt;Steve Browning, www.sbrowning.com/vintage\u0026lt;/a\u0026gt;.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sinclair_zx80_advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BYTE SHOPPER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Spring 1978 issue of Byte shopper guide\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Imsai_8080_ByteShopper_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT (1984)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Tony Mattson for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/oric-atmos_advert-uk_1s.png"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;VC20 GERMAN ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Christian Hart for this scan\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/commodore_vc20_ad-de_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert from the Nieman-Marcus catalog.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Honeywell_H316_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LISA ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;He is rich (enough to buy a LISA !), he is relaxed... He is the typical advertising executive of the 80\u0027s.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Lisa_Advert_bind.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPANESE ADVERT. #3\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;I love this advert ! Their pullovers are so... colored.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/toshiba_hx10_pub_jap3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK BROCHURE #3\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Commodore_700_4pageLeaflet3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH LEAFLET\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Speed serves business.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sharp_MZ3500_FrenchLeaflet_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Rui Santos for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/casio_fp1000_ad_0.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPANESE AD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Jun Suzuki \u0026lt;a href\u003d\u0026quot;http://member.nifty.ne.jp/tarucus/museum/cool/cool.htm\u0026quot;\u0026gt;web site\u0026lt;/a\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Fujitsu_FM11_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;NEW ZEALAND ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;From left to right arrow, advert says:\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; Redesigned front panel. Totally synchronous logic design. Same switch and LED arrangement as original Altair 8800. New back.lit Duralith (laminated plastic and mylar, bonded to aluminum) dress panel with multi.color graphics. New longer, flat toggle switches. Five new functions stored on front panel PROM inc1uding: DISPLAY ACCUMULATOR (displays contents of accumulator), LOAD ACCUMULATOR (loads contents of the 8 data switches (A7.AO) into accumulator), OUTPUT ACCUMULATOR (Outputs contents of accumulator to I/O device addressed by the upper 8 address switches), INPUT ACCUMULATOR (inputs to the accumulator from the I/O device), and SLOW (causes program execution at a rate of about 5 cycles per second for program debugging). \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Two, 34 conductor ribbon cable assemblies. Connects front panel board to front panel interface board. Eliminates need for complicated front panel/bus wiring. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; New front panel interface board buffers all lines to and from 8800b bus. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Rugged, commercial grade Optima cabinet. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Full 18 slot motherboard. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; New CPU board with 8080A microprocessor and Intel 8224 clock generator and 8216 bus drivers. Clock pulse widths and phasing as well as frequency are crystal controlled. Compatible with all current Altair 8800 software and hardware!. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; New, heavy duty power supply: +8 volts at 18 amps, + 18 volts at 2 amps, -18 volts at 2 amps. 110 volt or 220 volt operation (50/60 Hz). Primary tapped for either high or low line operation.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Murray Moffatt\u0026lt;/b\u0026gt; from New Zealand\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Mits_Altair8800b_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1978 BROCHURE #3\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/MSI_6800_Brochure_s3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;\u0026pound;99 IN JANUARY 1982\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Compukit_UK101_AdvLastSales.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;RUSSIAN ADVERT - PAGE 3\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Taras Ponomarev for this advert\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/agat_ad-elorg_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN AD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/spectravideo_sv318_german-ad_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;APPLE BUSINESS GRAPHICS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The Apple graphics package was launched in September 1982. It was available for both the Apple II and Apple III.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;  Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt;As you know, one picture is worth a few thousand numbers.\u0026lt;br\u0026gt; As you may not know, Apple Business Graphics software can generate more types of pictures, in more colours, using more data than any other graphics package... On the monitor of your choice. And on virtually any printer or plotter on the market...\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Apple_II_BusinessGraph_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The personal computer at the top of its form.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/triumph-adler_alphatronic-pc_ad_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROUD FATHER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_to7_promotional-guide_proudfather.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [],
+  "image": "http://www.old-computers.com/museum/photos/intertec_headstart_1.jpg",
+  "builtInGames": "One 3.5\u0027\u0027 disk-drive",
+  "controllers": "",
+  "media": "One 3.5\u0027\u0027 disk-drive",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

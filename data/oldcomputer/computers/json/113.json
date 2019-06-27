@@ -1,0 +1,82 @@
+{
+  "name": "System I / II / III",
+  "manufacturer": "Cromemco",
+  "type": "Professional Computer",
+  "origin": "U.S.A.",
+  "year": "1976",
+  "production": "",
+  "language": "",
+  "keyboard": "",
+  "cpu": "Z80",
+  "speed": "",
+  "coprocessor": "",
+  "ram": "32 KB (up to 512 KB with a pagination mechanism)",
+  "vram": "",
+  "rom": "",
+  "text": "Unknown",
+  "graphics": "754 x 482 monochrome / 377 x 241 16 colors. A special video card was available with 3 video processors which allows the same resolutions but respectively with 8 and 4096 colors.",
+  "colors": "",
+  "sound": "",
+  "size": "",
+  "ports": "8 bit ADC or DAC, Centronics, Disk controller, S100 Bus, 21-card-slot",
+  "power": "",
+  "price": "",
+  "description": "\nCROMEMCO was founded in 1974 by two Stanford Students, Roger Melen and Harry Garland, who lived in the CROthers MEMorial Hall dormitory on the Stanford campus.\nEventually CROMEMCO needed space to receive visitors, and moved out of the dorm to Mountain View, and incorporated in 1976. Early products were cards for the S-100 bus, as used by the Altair and IMSAI computers. \n\nThese computers were built around the S100 bus. The S100 BUS was a standard (also known under the name IEEE 696) for connection on Zilog Z80 or Intel 8080 processors. A lot of S100 cards were available for the Cromenco systems. \n\nFour Cromenco systems were available :\n\n- System 0: Z80 A + RAM 64 KB + 2 floppy disk drives (390 KB each),\n- System I: As system 0 + 1 hard disk (5 MB).\n- System III: Z80 CPU, Dual 8\u0026quot; Persci electrically driven floppy drives, 64 KB RAM. It was S-100 bus, Multiuser, used MP/M operating system.\n\nIn 1982, Cromemco also introduced the CS-1H system using a dual processor board (Motorola 68000 and Z80) and offering 16 MB of address space.\n\nFor the moment, we don\u0027t know exactly the specific features for the Systems II and IV.\n\nThese systems ran under Cromix (the Cromenco Unix version). They could run under CP/M and CDOS too (CDOS is a CP/M like operating system). Several languages were developped especially for these computers : Fortran IV or a 16 K Z80 Basic wich was given as \u0026quot;one of the fastest and most capable. Full 14-digit precision\u0026quot;.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;THE SYSTEM ONE CS-1H\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This system was based on the DPU Dual Processor Unit (68000 and Z80-A microprocessors board) that made the system \u0026lt;i\u0026gt;the equal of superminis ans mainframes in some area\u0026lt;/i\u0026gt; (said the advert). The system was able tu run simultaneously CP/M (8 bits) and Cromix (16 bits) operating systems. Switching between the Z-80 and 68000 was automatically controled. Up to 2 MB of RAM could be installed in the case.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Price: \u0026lt;b\u0026gt;$5495\u0026lt;/b\u0026gt; with 256 KB of RAM and 780 KB of floppy storage. \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Cromemco_Systeme1_CS1H_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SYSTEM ONE, MAIN UNIT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Cromemco_Systeme1_MainUnit_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;THE CROMEMCO SYSTEM III\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The box in the middle is the Central Processing Unit \u0026amp; A four 5.25\u0026quot; FDD (512 KB each). It has 32 KB RAM, the advertisement said \u0026quot;Its fast RAM memory is large - No danger of obsolescence from inadequate RAM capacity\u0026quot; !!\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/cromemco1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SYSTEM III OPENED\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Cromemco_Systeme3_Opened.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SYSTEM III WITH TERMINAL\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Cromemco SYSTEM THREE with a CROMEMCO C-3102 CONSOLE and keyboard\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Cromemco_Systeme3_WithTerminal.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SYSTEM III REAR SIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Cromemco_Systeme3_RearSide.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;THE CROMEMCO PANEL PROM PROGRAMMER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The two PROM sockets are designed to copy PROMs.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/cro_eprom.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CARDS DIAGRAM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This diagram shows the range of S-100 cards Cromemco solded in 1982.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;  \u0026lt;b\u0026gt; - 1 - CPU boards\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt;      - Dual processor (68000 + Z80) \u0026lt;br\u0026gt;      - Single card computer \u0026lt;br\u0026gt;      - Z80-A 4 Mhz.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt; - 2 - Memory boards\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt;      - 4 KB RAM\u0026lt;br\u0026gt;      - 16 KB RAM\u0026lt;br\u0026gt;      - 64 KB RAM\u0026lt;br\u0026gt;      - 16 KB PROM\u0026lt;br\u0026gt;      - 8 KB ByteSaver\u0026lt;br\u0026gt;      - 32 KB ByteSaver\u0026lt;br\u0026gt;      - 48 KB two-port\u0026lt;br\u0026gt;      - 16 KB two-port\u0026lt;br\u0026gt;      - Memory control unit\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt; - 3 - Multiprocessing and network cards\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt;      - I/O processor\u0026lt;br\u0026gt;      - Quad Sync/Async ports\u0026lt;br\u0026gt;      - Serial / Parallel I/O\u0026lt;br\u0026gt;      - Networking interface\u0026lt;br\u0026gt;      - I/O off-line processor\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt; - 4 - S-100 BUS\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;  - 5 - I/O interfaces\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt;      - Floppy disk interface\u0026lt;br\u0026gt;      - Analog interface\u0026lt;br\u0026gt;      - Hard Disk interface\u0026lt;br\u0026gt;      - Hi Resolution / Analog \u0026lt;br\u0026gt;      - Printer interface\u0026lt;br\u0026gt;      - 8-port parallel interface\u0026lt;br\u0026gt;      - General purpose interface\u0026lt;br\u0026gt;      - 4-port isolated interface\u0026lt;br\u0026gt;      - Dual Serial and Parallel ports\u0026lt;br\u0026gt;      - Wire Wrap card\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt; - 6 - Color Graphics card\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt;      - High Resolution color graphics card  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Cromemco_Systeme1_Diagram_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;AN ADVERTISING\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;I couldn\u0027t resist putting this photo here. The girl looks very happy, the ad said \u0026quot;The new System III can be provided with walnut floor cabinet\u0026quot;.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/cro_bural.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;UK advert from Personal Computer World magazine, October 1983\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Cromemco_Systeme1_Advert_s1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [],
+  "image": "http://www.old-computers.com/museum/photos/cromenco.jpg",
+  "builtInGames": "Varies according the model",
+  "controllers": "",
+  "media": "Varies according the model",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

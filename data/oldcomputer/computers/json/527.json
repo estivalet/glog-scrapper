@@ -1,0 +1,98 @@
+{
+  "name": "J100 - J500",
+  "manufacturer": "AM International Jacquard Systems",
+  "type": "Professional Computer",
+  "origin": "U.S.A.",
+  "year": "1980",
+  "production": "",
+  "language": "",
+  "keyboard": "Full-stroke keyboard",
+  "cpu": "Four AMD 2900 bit slice ALUs (16-bit)The Jacquard engineers wrote the microcode on the proms that provided the higher level instructions.",
+  "speed": "",
+  "coprocessor": "",
+  "ram": "128 KB",
+  "vram": "",
+  "rom": "Unknown",
+  "text": "80 chars. x 24 lines",
+  "graphics": "None",
+  "colors": "Monochrome",
+  "sound": "No sound",
+  "size": "Unknown",
+  "ports": "1 x Parallel printer 12-bit port (maybe 2), 2 x RS232  2 x external disk interfaces normally used with Pertec 14",
+  "power": "PSU built-in",
+  "price": "Unknown",
+  "description": "\nThe Jacquard J100 and J500 Videocomputer line was developed at the home offices of Jacquard Systems, Inc. in Santa Monica, California. Development started in 1975 and by 1977 the first units of the J100 were installed.\n\nThe base unit included two 8\u0026quot; single-sided floppy drives and could be expanded to up to 14 users. The OS was Jacquard\u0027s own DOS. The CPU of the J100 was National Semiconductor\u0027s IMP16 microprocessor and the J500 - a follow-on single-user system - was implemented using the AMD Bit-slice technology CPU architecture. The J500, thus a multifunction monopost system, could be used for wordprocessing, mass-mailing, accountancy or stock control.\n\nThe J505 version featured the same motherboard plus a piggyback that allowed 2 additional terminals to be connected.\n\nThe AM Jacquard J-500 was composed of a central unit keyboard/monitor and two disk-drives. From 1 to 4 optional hard-disks could be added. The hard drives were the Pertec 14\u0026quot;  with (I think) 10MB fixed and 5MB removable ans also the Control Data 14\u0026quot; 80MB drive.\n\nThe parallel printer port was a 12-bit port, unlike the standard 8-bit Centronics. The Xerox Diablo 1640 daisy wheel printer could be attached to it as well as many other printers.\n\nThe J500 was unique at its time because all of the CPU and ALU was stored and executed from a bank of 32 Proms (Programable Read Only Memory). The J100 could actually handle 64 interupts.This included stations and printers. It was limited to 16 because of hashing.\n\nDisplay was performed by the same ROM/microcode/ALU that provided the main\nprocessing, timesliced in alternate \u0027quads\u0027 - 4 microcode instructions per\nprocess cycle.\n\nSpecial thanks to Randy Larson who sent us many pictures and information.\n\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;J-100 WORKSTATION #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Jacquard_J100_Terminal_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;J-100 WORKSTATION #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;From a Jacquard brochure\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Jacquard_J500_Terminal_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;J-500 SYSTEM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Jacquard_J500_System_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;J-500 WORKSTATION\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Jacquard_J500_Terminal_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PERTEC H.D.D.\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;14\u0026quot;, 20 MB hard disk unit\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Jacquard_PertecFDD_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JACQUARD SYSTEMS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Jacquard_J500_Brochure_6.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Jacquard_J500_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JACQUARD BROCHURE #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Jacquard_J500_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JACQUARD BROCHURE #2 \u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Jacquard_J500_Advert_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JACQUARD BROCHURE #3\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Strange logo isn\u0027t it?\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Jacquard_J500_Brochure_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JACQUARD BROCHURE #4\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Jacquard_J500_Brochure_4.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JACQUARD BROCHURE #5 \u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The brochure says:\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; During Jacquard\u0027s early years, as a \u0026quot;system house\u0026quot;, the company developed communications and peripheral devices that were not available from any other sources. Some of these are still available only from Jacquard. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Through these devices, Jacquard acquired hardware design and production skills, thus becoming experienced in integrating \u0027pieces\u0027 into systems that worked, and worked well. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; These years of experience enabled Jacquard to design the first truly affordable and multi-functional small business system - the Jacquard Videocomputer... \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Jacquard_J500_Brochure_5.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;AMTEXT BROCHURE #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Jacquard_J100_AmText_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;AMTEXT BROCHURE #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The brochure says:\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; When you buy, lease or rent word processing equipment from AM Jacquard Systems, you get our total commitment, now and in the future, that assures the successful installation and operation of your AMtext word processing system. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; To support that commitment, we have offices in over 100 cities throughout North America staffed with skilled professionals ready to meet your neads with planning, training. supplies, and service... \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; ...The AMtext 100 is a true shared resource, multifunction information system capable of supporting multiple work stations and peripherals simultaneously. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The Amtext 425 and 425A are powerful stand-alone work stations with a full-page video display \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The AMtext 225 is a low-cost system that turns electric typewriters into flexible text editors. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The AMtext product line includes a complete selection of peripheral devices, including telecommunications, an optical character reader. magnetic card reader, phototypesetters, daisy wheel printers. high-speed line and matrix printers, as well as mass storage on floppy and hard disk drive units.  \u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Jacquard_J100_AmText_2.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [],
+  "image": "http://www.old-computers.com/museum/photos/Jacquard_J500_System_1.jpg",
+  "builtInGames": "2 x 8",
+  "controllers": "",
+  "media": "2 x 8",
+  "numGames": "",
+  "peripherals": "Hard-disks, printers",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

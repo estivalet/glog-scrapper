@@ -1,0 +1,145 @@
+{
+  "name": "Mupid",
+  "manufacturer": "Mupid",
+  "type": "Home Computer",
+  "origin": "Austria",
+  "year": "1981",
+  "production": "",
+  "language": "BASIC interpreter",
+  "keyboard": "63 keys with numeric keypad",
+  "cpu": "Z80A",
+  "speed": "3 MHz",
+  "coprocessor": "",
+  "ram": "64 KB",
+  "vram": "Unknown",
+  "rom": "Unknown",
+  "text": "40 columns x 25 lines",
+  "graphics": "Unknown",
+  "colors": "16 among 4096",
+  "sound": "Built-in speaker",
+  "size": "Unknown",
+  "ports": "Video RGB, Phone line, Tape recorder, Printer",
+  "power": "Built-in PSU",
+  "price": "About 600 Euros",
+  "description": "\nThe MUPID (Multipurpose Universal Programmable Intelligent Decoder) was originally mainly marketed as a Prestel (or BTX as it was called in Austria and Germany) terminal for the Austrian post office (that operated this service).\n\nHowever, contrary to numerous dumb videotext terminals used in various European countries, this one was actually a true home computer featuring a Z80 microprocessor, BASIC, a large amount of memory (128kB), a colour video interface and several I/O ports. It could be connected to any colour TV set and provided 1200/75 baud modem, tape recorder and parallel printer interfaces. An external floppy drive unit was also available.\n\nA very modern specialty was the ability of this computer to execute programs stored on the Prestel server (which was possible because the machine was designed directly for using the national Prestel system). The developers were obviously that amazed by this ability that they even based the Basic development system on this feature - you first had to load e.g. the editor from the server).\n\nThe Mupid was developed between 1980 and 1983 by a team at the Institute for Information Processing Graz (\u0026quot;Institute f?r Informationsverarbeitung Graz (IIG)\u0026quot;) at the Technical University Graz led by Prof. Hermann Maurer (whose team later on developed the ill-fated WWW competitor HyperWave) and Prof. Posch.\nFor the industrial exploitation an own company, 1983 the Mupid Computer Corporation (\u0026quot;Mupid Computer Gesellschaft (MCG)\u0026quot;) was founded whose stockholders were big Austrian companies like VOEST and Siemens. 6% of the sales went to the IIG for which it was a very good source of funding. 1987 the MCG dissolved. 1989 the last Mupid was built.\n\nThe machine itself had for the time very good color and graphics capabilities.\nThis was caused by the requirements of the Austrian (and CEPT) Prestel standards (The Austrian Prestel capabilities were by far better than other European systems.\n\nYou could transmit 4096-colour images instead of 16 elsewhere). The Mupid 2 models even provided support for the most advanced of the standard options: Cept C2. C2 is a vector graphics tool kit that was close to the Grahical Kernel (GKS) standard with a resolution of 320x240 pixels and with functions like splines(!).\n\nBeing a home computer, Mupid had some Basic capabilities built in the ROM - but not a complete development system as other computers. The Basic (or Basics as there were several versions) compiled into an intermediate code - and the Mupid only got an interpreter for this intermediate code. The development system (editor, compiler, other tools) that were needed to create this code consists of programs that needed to be loaded from a Prestel server. The Basic was very powerful and you could also access the Prestel system.\n\nAlso the optional serially-attached floppy system fit into this system. It could either be used in the traditional way as an intelligent storage system for which a CP/M was available.\n\nIt could also be used as a local Prestel server thus replacing the remote connection to the Prestel system. Using this way, you could use e.g. the Basic development environment locally. Two different floppy systems were available. An intelligent 5.25\u0027 system (64KB RAM, 8 KB ROM, Z80 CPU) or a dumb 3.5\u0027 system that was controlled by the Mupid. Therefore, some documentation warn you that the display might flicker if you execute CP/M commands on the latter system...\n\nIf you want to use a Mupid system nowadays, you do not have to time travel to the past in order to connect to the today\u0027s defunct Prestel system. You even do not have to buy a floppy disc system for the Mupid system (and they are even more rare than the machines itself). Instead, you can use a PC program that connects your PC to a Mupid serially and that emulates a floppy system (that in turn can emulate a Prestel server).\n\nThe Mupid was followed by the Mupid 2 which had a better keyboard, and which supported the CEPT Prestel standard instead of the national Austrian one. At their time, the Austrian post office even replaces Mupid 1 by Mupid 2s for free (I wonder what they did with all these returned Mupid 1 models).\n\nThere were 3 Mupid 2 models:\n - C2D  (German version of the square tin case with separate keyboard)\n  According to some rumor, these models did not went into sales.\n - C2D2 (German version of the compact case labelled \u0026quot;Komfort MUPID\u0026quot;)\n - C2A2 (Austrian version of the compact case)\n- In addition there was a Mupid card for early PCs.\n\nApart from the floppy disc drive, there was one additional option for the Mupid 2.\nThe so-called \u0026quot;Permanent Memory\u0026quot; upgraded a normal Mupid 2 to a \u0026quot;Komfort Mupid\u0026quot;\n(it seems that all German C2D2 models were Komfort Mupids). This option consists of a battery-buffered 128 KB CMOS memory that costed an enormous 420 Euro (currently about 650$). This memory allowed either:\n - to store and reload existing Prestel pages without additional costs\n - to store BASIC programs or graphics without other external memory\n - to be used as a RAM disc (this even allowed to run CP/M without a floppy disc)\n\nThere were even OEM models of the Mupids. The Grundig PTC 100 was a Mupid C2D2 in a different color (the floppy disc station was the Grundig FL100), the Siemens T3110 a C2D.\n\nNumberwise the Mupids are rather rare computers. The published sale numbers vary, but it sounds reasonable that about 8000 Mupid 1s are reported to be sold (in their selling period between 1984 and August 1985), and 40000 Mupids (i.e. model 1 and 2) in total.\n\nIf you want to test your Mupid, you try the following key-combinations:\n(With (K) I mean the blue K-Key, and ctrl-2 means: hold the ctrl-key and hit \u0026quot;2\u0026quot;)\n\n(K) L .............. changing to the local-mode. Now key-hits are displayed on the screen.\nctrl-2 / B ......... clear screen (only in local-mode)\nctrl-1 # blanc T ... screen is blue\nctrl-shift-c ....... foreground (character) yellow \u0026quot;Text\u0026quot;\n\n___________\n\nContributors : Fritz Hohl.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LARGER VIEW\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Mupid_System_s1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PRICE LIST\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This reseller advert shows the initial price list from 1982 and the new prices of June 1983, about 40% less expensive.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Xerox_820_Pricelist_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (DEC.1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Goupil 3: three micro-computers in one!\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/smt_goupil3_ad_3ordisen1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ITALIAN AD #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Special offer including italian books\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;http://angelmemories.cjb.net/\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sinclair_Spectrum_PubItalie_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Jacquard_J500_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MICROSOFT ADVERT (1979)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt;No one knows better than Microsoft how to increase your TRS-80 BASIC\u0027s power. Microsoft created the TRS-80 Level ll and Disk BASIC plus the industry standard Microsoft BASIC...\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; ...Microsoft Level lll BASIC is an enhancement to the Level ll. It contains all Disk BASIC features not already in Level ll and it adds six new Level lll exclusives...\u0026lt;br\u0026gt; ...Advanced graphics is Level lll\u0027s most exciting addition to the TRS-80 - and it\u0027s exclusive. Draw a line, outline or solid box by specifying just two points, then save it and put it back with BASIC statement. You\u0027ll find yourself writing more programs with charts, graphs and even animation...\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Tandy_Model1_Advert_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROUD MOTHER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_to7_promotional-guide_proudmother.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;QL CATALOGUE #5\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sinclair_QL_Brochure1_s5.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (MAY 1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/ordisor_pcc2000_pub_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. AD APRIL 1983\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Atari_1200xl_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This advert was for the Serie 5 and the ACS-8000 systems.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/altos_serie5_pub.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.guiguy.com/Schiff/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;www.guiguy.com/Schiff/\u0026lt;/a\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/seequa_chameleon_brochure_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROMO PIC #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_to770_promo_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (SEPT. 1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/multitech_mpf2_advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (SEPT. 1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;The amazing TI-99/4A.\u0026lt;br\u0026gt; A computer for 1800fr\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/ti_ti994a_pub_incroyable-1800fr.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sinclair_spectrum-plus_advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;November 1987\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Special Spectrum offers before christmas period. Packages including a Sinclair joystick and 6 games.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Advert said:\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; The new Sinclair ZX Spectrum+3 is a real hero because it helps you to be one.\u0026lt;br\u0026gt; The fantastic 128K memory gives you the power to outsmart the most sophisticated ennemy...\u0026lt;br\u0026gt; ...But the real hero is the person who buy it...\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sinclair_SpectrumPlus3_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPANESE ADVERT #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://pcenginefx.com\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;PC-EngineFX.com\u0026lt;/a\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/nec_pc-fx_jap-advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (APRIL 1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;the computing answer\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sharp_pc1500_french-pub_reponse-informatique.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (JAN. 1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sord_m-serie_ad_gepsi.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DEMO TAPE INLAY #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.primo.homeserver.hu/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;PRIMO home-page\u0026lt;/a\u0026gt; for this picture.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/microkey_primo_promo-pic_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROMOTIONAL LEAFLET\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/fairchild_channelf_leaflet_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (JANUARY 1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;At 68 years old, taunt Rose discovered that she was an exceptionally gifted child\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/atari_2600_ad_tante-rose.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FIRST ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Probably one of the first adverts for the Osborne 1.\u0026lt;br\u0026gt; Personal Computing, February 1982.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;\u0026lt;a href\u003d\u0026quot;http://www.aci.com.pl/mwichary/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Attached\u0026lt;/a\u0026gt;\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Osborne_1_Advert_s4.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT, AUGUST 1985\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/ATT_6300_Advert_s1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d1119",
+    "http://much.iicm.edu/projects/overview.htm/"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/Mupid_System_s2.jpg",
+  "builtInGames": "BASIC interpreter",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "External 5.25\u0027\u0027 floppy drive unit",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

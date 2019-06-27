@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computer>
+    <adverts>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;FRENCH ADVERT (JAN. 1985)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/multitech_mpf1-65_advert_1.jpg</link>
+        </advert>
+    </adverts>
+    <batteries></batteries>
+    <builtInGames>assembler</builtInGames>
+    <buttons></buttons>
+    <colors>None</colors>
+    <controllers></controllers>
+    <coprocessor></coprocessor>
+    <cpu>MOS Technology 6502</cpu>
+    <description>
+The MPF-I/65 is an initiation computer based on the MOS Technology 6502 CPU (hence the name 65). It was designed and produced by Multitech in Ta?wan which would eventually become Acer in 1987.
+
+Multitech was then specialised in such small computers used to study electronic principles and micro-processors. The MPF-I was based on the Z80 CPU, the MPF-I/88 on the Intel 8088 CPU,  the Microkit 09 on the Motorola 6809 CPU and thus the MPF-I/65 on the MOS Technology 6502. All popular chipsets of the time were then covered.
+
+The MPF-I/65 offers 64 KB RAM and 16 KB ROM. It is directly programmed in machine language, no Basic here. The 16 KB ROM thus contains assembler, editor and debugger tools to assist the programmer in its task. On the contrary of other MPF-I systems, there is no built-in LCD display. An external display must be attached to use the computer.
+
+What is interesting about this computer is that it looks A LOT like the MPF-II. Same CPU, same calculator type keyboard and most of all identical motherboard. It all seems like it was a pre-version of the MPF-II system, which is itself more advanced (built-in Basic, graphical possibilities, etc.). But the MPF-II was released in 1982, and first adverts of the MPF-I/65 appeared late 1984 (at least in France)...
+
+So it could be the contrary: the MPF-I/65 being a simplified version of the MPF-II to meet the needs of an initiation computer based on the Motorola 6502 CPU. If you know the answer, contact us.
+ 
+
+
+</description>
+    <emulators>
+        <emulator>
+            <description>This popular emulator can also emulate an MPF-1 computer</description>
+            <link>http://www.mess.org</link>
+            <name>MESS</name>
+            <platform>Multiplatform emulator</platform>
+        </emulator>
+    </emulators>
+    <graphics>None</graphics>
+    <gun></gun>
+    <hardwares/>
+    <image>http://www.old-computers.com/museum/photos/multitech_mpf1-65_1s.jpg</image>
+    <keyboard>calculator type keyboard, 49 keys</keyboard>
+    <language>assembler</language>
+    <links>
+        <link>computer.asp?st=1&amp;amp;c=479</link>
+        <link>computer.asp?st=1&amp;amp;c=525</link>
+        <link>computer.asp?st=1&amp;amp;c=1132</link>
+        <link>http://global.acer.com/about/milestones.htm</link>
+        <link>http://www.flite.co.uk/microprocessor-training-systems-overview.htm</link>
+        <link>http://members.lycos.co.uk/leeedavison/z80/index.html</link>
+    </links>
+    <manufacturer>Multitech</manufacturer>
+    <media></media>
+    <name>MPF-1/65</name>
+    <numGames></numGames>
+    <origin>Ta?wan</origin>
+    <peripherals></peripherals>
+    <ports>video outputs (RF &amp;amp; composite), power in, tape interface, expansion connector</ports>
+    <power>External power supply (+5v, -5v &amp;amp; 12v)</power>
+    <price>2995 FF (France, jan. 1985)</price>
+    <production></production>
+    <ram>64 KB</ram>
+    <rom>16 KB</rom>
+    <screenshots>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;MPF-1/65&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/multitech_mpf1-65_1.jpg</link>
+        </shot>
+    </screenshots>
+    <size>Unknown</size>
+    <sound>yes, but unknown specifications (built-in speaker)</sound>
+    <speed></speed>
+    <switches></switches>
+    <text>24 x 40</text>
+    <type>Home Computer</type>
+    <vram></vram>
+    <year>1984</year>
+</computer>

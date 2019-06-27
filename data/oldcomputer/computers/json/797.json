@@ -1,0 +1,164 @@
+{
+  "name": "Vector 3 (VIP)",
+  "manufacturer": "Vector Graphics",
+  "type": "Professional Computer",
+  "origin": "U.S.A.",
+  "year": "1976 or 1977",
+  "production": "",
+  "language": "None",
+  "keyboard": "Full stroke 72 keys with numeric keypad",
+  "cpu": "Intel 8080 then Zilog Z80A",
+  "speed": "1 MHz (8080) up to 6 MHz (Z80)",
+  "coprocessor": "",
+  "ram": "56 KB",
+  "vram": "",
+  "rom": "Unknown",
+  "text": "80 chars. x 25 lines",
+  "graphics": "",
+  "colors": "Monochrome",
+  "sound": "beeper",
+  "size": "",
+  "ports": "1 x Serial RS-232, 3 x Parallel ports",
+  "power": "Built-in power supply unit",
+  "price": "From $3850",
+  "description": "\nThe Vector Graphics VIP was also called Vector 3 because it was based around the Vector 3 terminal which had an integral 72 key keyboard and 12\u0026quot; video screen.\n\nThe unit had a six slot S-100 bus board which came with a Z80A processor board fitted with 56 KB RAM. The board also had a serial interface and three 8-bit parallel I/O ports. The VIP configuration originally came out with a 340k  Micropolis Floppy Disk drive.  Later this was a 640k Tandon hard sectored floppy drive.\nNot shown configurations had a dual floppy drive or, for the 3005, a 5 megabyte Seagate ST506 drive.\n\nThe Vector 3 ran CP/M operating system and all its associated professionnal software.  It came with Memorite III word processor, Execuplan (a form of planning program like Visicalc), and the Microsoft BASIC interpreter.\nPeachtree Accounting was available on Vector machines as well, probably the first implementation on a microcomputer.\n\nAnecdotally, Vector Graphics Inc of California  was started by two housewives in the late \u002770s. They were called Lore Harp and Carole Ely. The third founder, Robert Harp, was technical director. The Harp\u0027s were divorcing, which ultimately brought the company down.\n\n_________________________________________________\n\n\nMore information from Dennis Wingo who used to work at Vector Graphic:\nThe CPU was housed in an 18 slot (the MZ box) S-100 Chassis designed by Vector. In late 1977 early 78 Vector went to the Z80A processor on a single board. The boot ROM (2k) resided on the Prom/RAM card.  Later versions updated the PROM/RAM card to 8k using 4 kbyte PROMS and one 1k of Fast Static RAM for the processor Stack. The processor speed went from 1 MHz to 4 MHz during that period.\n\nin early 1981 Vector engineer Corey Selby redesigned the Processor Card, PROM/RAM card and Parallel I/O card into the ZCB or Z80 Single Board Computer.  It had a 4 MHz, later a 6 MHz Z80B CPU. The ZCB incorporated two serial ports via and 8251A serial I/O controller. It added an Intel 8020 24 bit parallel I/O port controller, 4k of PROM and 1k of Static RAM.\n\nLater this design was integrated into the motherboard of the Vector 4 Single Board Computer along with an Intel 8088 that we built and released starting in 1982.\n\nThe VIP System shown above had a six slot S-100 card integrated behind the picture tube behind the Mindless Terminal (MT) CRT. In this six slot system there was a ZCB a Floppy Disk Controller Card or an FD/HD (Floppy Disk/Hard Disk) (Single floppy version shown above) controller.  Also plugged into the S-100 motherboard was a 56k DRAM Card, and an 20 X 24 Memory mapped video card with 2k of Fast SRAM (Flashwriter II Card).  \n\nIn very late versions of the Vector 3 series was an FD/HD card with a ten megabyte Seagate ST506 interface hard drive.  This system was also connected to other computers via an 750 kilobit token passing Local Area Network (LinkNet).  The LinkNet card allowed up to 256 different Vector Computers to be hooked together into a seamless net where you had shared disk and printer resources.  This system was a pioneer in the computer industry as the first low cost microcomputer system to have this capability.\n\nThere were several interesting configurations of the vector system.\n\nUllrich Moser adds:\nI had pretty much this computer with a 5 MB hard disk built in.\nExecuplan was a fully functioning spreadsheet and if remember correctly, better than Visicalc.\nMy machine had Magic Wand as word processor.\nOne could buy a (terribly expensive) sheet feeder and write mass mailings just like with a Wang machine for a fraction of the price.\n\n\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SYSTEM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/VectorGraphics_Vector3_System_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FLOPPY DRIVES UNIT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/VectorGraphics_Vector3_FDunit_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/VectorGraphics_Vector3_Inside_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Notice the S-100 boards mounted vertically.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/VectorGraphics_Vector3_Inside_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;VECTOR DUST COVER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/VectorGraphics_Vector3_DustCover_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;RUSSIAN ADVERT - PAGE 1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Taras Ponomarev for this advert\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/agat_ad-elorg_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GENEVA AD, NOV. 1985\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Epson_PX8_Advert_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;METACARD AD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The MetaCard was the first card allowing an Apple II owner to run IBM-PC programs and MS-DOS, CPM/86 and UCSD operating systems.\u0026lt;br\u0026gt; It used a 5 MHz. 8088 processor, 64 to 128 KB of RAM and a dedicated powed supply unit.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; It was priced at \u0026lt;b\u0026gt;$980\u0026lt;/b\u0026gt; (64KB version) and \u0026lt;b\u0026gt;$1,150\u0026lt;/b\u0026gt; (128 KB). \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Apple_II+_MetaCard_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (JAN. 1981)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/eaca_eg3003_advert-fr_1_s.png"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT, NOV. 1985\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Tandy_Model4D_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT. (1984)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is nearly a stupid scan ! \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The young boy says : \u0027\u0027In 1984, my father bought me a MO-5\u0026quot; \u0026lt;br\u0026gt; And on his desk is a 1998 calendar... \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; They meant that if you bought the MO-5 then (the advert is from 1984), you would be rich and clever 14 years later (in 1998). Ha ha ha !! \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; It\u0027s funny to see how they tried to represent an office and a town of 1998. I really love this one !  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_mo5_advert_1998.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Alice, a computer for all levels\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/matra_alice32_advert1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;8-PAGE US ADVERT #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Compaq_PortableIII_Advert_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (1984)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;the competition is dumb !\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/exelvision_exl100_french_advert_muette.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT, OCT 1983\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Last sales in the UK. At the same time, a Commodore VIC-20 cost \u0026pound;139 and a Commodore 64 cost $229\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/TI_TI994A_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;NOT REALLY AN IMSAI!\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;In october 1979, the IMSAI company went bankrupt. The IMSAI brand name and the spare parts stock were sold to the \u0026lt;b\u0026gt;Fischer-Freitas\u0026lt;/b\u0026gt; Company. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; This 1982 advert shows a Z80 CP/M based computer Fisher-Freitas tried to sell with the IMSAI name, without success.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Fisher-Freitas is still selling original parts for the 8080 model! and continue maintaining a nice 8080 history web site (see the Web links section).\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Imsai_8080_Advert_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPANESE ADVERT. #3\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;I love this advert ! Their pullovers are so... colored.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/toshiba_hx10_pub_jap3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;816/C VERSION\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The 816/C version was a multi-user system featuring:\u0026lt;br\u0026gt; - Dual CPU (8085 + 8088) motherboard\u0026lt;br\u0026gt; - 384 KB of RAM, expandable to 1 MB\u0026lt;br\u0026gt; - 2 x 1.2 MB 8\u0026quot; F.D. drives\u0026lt;br\u0026gt; - 9 serial ports\u0026lt;br\u0026gt; - 3 to 16 users expansion\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; As the magazine \u0027computer Age\u0027 said, this system was almost twice as quick as an IBM-PC. \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Compupro_816_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN LIFLEAT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sharp_MZ80B_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT (JUNE 1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Goupil presents its software\u0026quot; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; - S.BASIC programming language\u0026lt;br\u0026gt; - SPG2 accounting / management software\u0026lt;br\u0026gt; - VOLTAIRE word processing\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/smt_goupil2_ad_presente-logiciels.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN ADVERT #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Christian Hart for this scan\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/commodore_C64_ad-de_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH LEAFLET\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Speed serves business.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sharp_MZ3500_FrenchLeaflet_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPANESE ADVERT.\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;She seems so happy to have an Hit-Bit...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sony_HB-75_advert.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPANESE AD #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/casio_pv2000_advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPANESE AD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sharp_mz1500_pub1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CHARLIE CHAPLIN #7 \u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;TopView, one of the first serious multitasking tool for the IBM PC.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Byte Magazine, July 1985\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/IBM_5150_ChaplinAdvert_7.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1ST. U.S. ADVERT #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The first Epson QX-10 advert appeared in January 1983. It took eight pages and explained the advantages of the Valdoc system, the benefits of the CP/M operating system compatibility, and the advanced hardware concepts.   \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; In conclusion, it said: \u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; \u0026lt;b\u0026gt;The most important component is you\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; You don\u0027t buy a computer for how \u0026quot;smart\u0026quot; it is. You buy one for how smart it makes you.\u0026lt;br\u0026gt; The Epson QX-10 was conceived, designed, engineered and built with just one thought in mind: to vastly expand your ability to see, to think, to create with a system that acts as a natural extension of the human mind.\u0026lt;br\u0026gt; The QX-10 is not a computer designed to play games, although it plays games as well as any and better than most.\u0026lt;br\u0026gt; It\u0027s a computer for people who think.\u0026lt;br\u0026gt; And who want to think better.\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Epson_QX10_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;NEW ZEALAND REVIEW\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Review from a New Zealand magazine. Notice the prices in Australian$ at the bottom right of the page.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Murray Moffatt\u0026lt;/b\u0026gt; from New Zealand\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Semitech_PiedPiper_Advert_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT #3\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Picture courtesy of \u0026lt;a href\u003d\u0026quot;http://www.sbrowning.com/vintage\u0026quot;\u0026gt;Steve Browning, www.sbrowning.com/vintage\u0026lt;/a\u0026gt;.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sinclair_zx81_advert_3.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d799",
+    "computer.asp?st\u003d1\u0026amp;c\u003d566",
+    "computer.asp?st\u003d1\u0026amp;c\u003d247",
+    "http://www.vectorgraphics.org.uk",
+    "http://h-net.msu.edu/cgi-bin/wa?A0\u003dVECTOR-GRAPHIC"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/VectorGraphics_Vector3_System_1b.jpg",
+  "builtInGames": "None",
+  "controllers": "",
+  "media": "External 315 KB FDD unit",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

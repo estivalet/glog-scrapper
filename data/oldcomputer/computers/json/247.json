@@ -1,0 +1,156 @@
+{
+  "name": "Vector 4",
+  "manufacturer": "Vector Graphics",
+  "type": "Professional Computer",
+  "origin": "U.S.A.",
+  "year": "1983",
+  "production": "",
+  "language": "",
+  "keyboard": "Full-stroke keyboard with function keys and separate numeric keypad",
+  "cpu": "Zilog Z80C + Intel 8088",
+  "speed": "6 MHz",
+  "coprocessor": "",
+  "ram": "128 KB (up to 256 KB)",
+  "vram": "",
+  "rom": "Unknown",
+  "text": "80 x 24",
+  "graphics": "",
+  "colors": "Optional",
+  "sound": "",
+  "size": "",
+  "ports": "Centronics, Parallel (for Nec Qume Printer), RS232 (two : printer and communication)",
+  "power": "Built-in PSU",
+  "price": "Unknown",
+  "description": "\nThanks to Dennis Wingo, Vector former employee from engineering, for this information:\n\nHistorically, the Vector 4 can be seen as a transitional system, especially for Vector in the quandary in 1982 concerning whether or not to compete directly with the IBM PC.\nThe system shown  below had a 6 Mhz Z-80 CPU and an 8088 \u0026quot;I think\u0026quot; also running at 6 Mhz so it would have been faster in processing than a standard 4.77 MHz IBM PC.\nThe I/O for the system was the S-100 bus but with a reduced functionality so that it was only used for the FD/HD card and other I/O mapped boards. The  \noriginal memory was 128 kilobytes with the ability to add a daughter card that would extend this to 256 kilobytes.\nThe Vector 4 had a much better graphics capability than the Vector III although I can\u0027t recall the resolution. The Vector 4 originally booted CP/M and also had the LinkNet 750 kilobit/sec token passing network card as an option.\n\nInterestingly enough by the time of Comdex in November of 1982 we had the LinkNet integrated to the extent that we could have 32 computers all linked together AND you could map ALL of the disk drives from the entire network onto whichever system you were working on.\nIn March of 1983 I did an install at Digital Research (inventors of CP/M) of a networked system and between Vector and DRI we implemented CP/M 86 that used the much faster 8088 CPU and had all of the same networking features that we had in CP/M-80 as it became to be called.  If it had not been for some collusion between IBM and other parties, we would have had commonplace networking a decade before this actually happened....but that is another story!\n\nAnthony Lefco reports:\nThis computer had a hard sectored floppy. Later a soft sectored model became available so that it was more compatible with prevailing standards. It also had an option to convert to an 8086 chip through an installation by TRW. It came with a full suite of proprietary applications.\n\nThis was my first computer. I remember it well. It was murder to figure out how to get the data out when it was time to convert to a new computer as the company quickly went bankrupt, but it did force me to learn about computers in more detail.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SINGLE BOARD COMPUTER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Notice the dual CPU on the left hand side and the three S-100 expansion slots.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Dennis Wingo\u0026lt;/b\u0026gt; \u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Vector_Vector4_Mainboard_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DUAL CPU CLOSE-UP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Dennis Wingo \u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Vector_Vector4_DualCPU_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FD/HD CONTROLLER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;  This Floppy Disk/Hard Disk controller originally came to market in April 1981 and was an option for the Vector III and Vector MZ computers (The VIP  was a single or dual floppy system). This is, as far as any of us knew at the time, the world\u0027s first integrated FD/HD card in the   S-100 form factor. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; This card originally controlled the Vector 630k Hard Sectored floppy and a 5 megabyte ST-506 MFM hard drive. The same card was used until the demise of vector for higher and higher capacity drives up to about 20 megabytes by the time Vector went bankrupt. The version that is below in the picture here is a design variant that was used to interface to a Quantum 8\u0026quot; 40 megabyte hard drive!!  You could order from Vector in 1981 (Almost always with an MZ) a computer with this controller and a 40 megabyte drive.  No one even came close to what we were doing in that area. From what I remember, the controller would only handle the drive as 32 megabytes formatted but this was a truly a powerhouse computer with the big drive attached.\u0026lt;br\u0026gt; Richard Deigas was the designer of this board and like almost all Vector engineers (excepting Dr. Bob of course), were non degreed but knew their work! \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Dennis Wingo\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Vector_Vector4_FDHDcard_s1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;COMMODORE WATCHES!\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;While manufacturing and selling calculators in 1977, Commodore sold wristwatches.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Chuck Guzis\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Commodore_64_WatchAd_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT. PAGE #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is for the Micromachine 4000, but a picture of the Micromachine 2000 and 3000 is inserted.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/symag_micromachine_pub2_s.gif"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SPANISH ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/mitsubishi_ml-fx1_spanish-advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FLYER - PAGE 2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.peekandpoke.org\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;www.peekandpoke.org\u0026lt;/a\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/pel_orao_flyer_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FIRST ADVERT - NOV.1981\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;\u0026lt;a href\u003d\u0026quot;http://www.aci.com.pl/mwichary/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Attached\u0026lt;/a\u0026gt;\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/IBM_5150_Advert81_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US BROCHURE (RECTO)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Chris Collman for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sanyo_mbc1000_brochure_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (JAN. 1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/datasoft_vdp80_ad_1980.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN LEAFLET #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;The Personal Computer MZ-811 is a class of itself. Its infinite applications mark it.\u0026quot; \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;www.sharpmz.org\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sharp_MZ800_GermanAd_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPANESE ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://web.kyoto-inet.or.jp/people/s-oga/\u0026quot;\u0026gt;Soichiro Oga\u0026lt;/a\u0026gt; for this picture !\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/toshiba_pasopia_ad1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is a German advertisement for the BIT-60 and BIT-90 models. Atari VCS-2600 cartridges are scattered in front of the BIT-60, to show that the BIT-60 is really compatible with the VCS-2600 ! But strangely enough, there is no picture displayed on the TV. Were these models really  working ? ;-)\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/bit-corp_bit60-90_ad_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0027\u0027The memory tool\u0027\u0027\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/basis_108_advert_outil-memoire.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (JULY 1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/oric_oric-1_advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT #4\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/canon_X07_pub5.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (DEC.1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Evolutiv system : Casio\u0027s answer\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/casio_fp1000_ad-popcornmicro.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;AUSTRALIAN TANDY CATALOG (1992)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/tandy_wp2_ad_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Picture courtesy of \u0026lt;a href\u003d\u0026quot;http://www.sbrowning.com/vintage\u0026quot;\u0026gt;Steve Browning, www.sbrowning.com/vintage\u0026lt;/a\u0026gt;.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/tandy_trs80-coco1_ad_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. AD. JUNE 1983\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/HP_Model16_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (JAN. 1985)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/multitech_mpf1-65_advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT (1986)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;November 1986 price list:\u0026lt;br\u0026gt; Monochrome - Single drive: \u0026lt;b\u0026gt;\u0026pound;399\u0026lt;/b\u0026gt; + VAT\u0026lt;br\u0026gt; Monochrome - Dual drive: \u0026lt;b\u0026gt;\u0026pound;499\u0026lt;/b\u0026gt; + VAT\u0026lt;br\u0026gt; Colour - Single drive: \u0026lt;b\u0026gt;\u0026pound;549\u0026lt;/b\u0026gt; + VAT\u0026lt;br\u0026gt; Colour - Dual drive: \u0026lt;b\u0026gt;\u0026pound;649\u0026lt;/b\u0026gt; + VAT\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Optional 10 MB hard disk: \u0026lt;b\u0026gt;\u0026pound;300\u0026lt;/b\u0026gt; + VAT   \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Amstrad_PC1512_UKAdv_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN LEAFLET #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;This flexibly expandable computer grows by the increase of business activities and the rising requirements.\u0026quot;\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; A reliable office computer, which can flexibly adapt to the business work, as it is essential for the office to execute resulting works promptly, correctly, and precisely.\u0026lt;br\u0026gt; A user-friendly conceived EDP-system like the MZ-3541 is essential, particularly for small to medium sized companies.\u0026lt;br\u0026gt; The MZ-3541 contributes for a substantial increase of the productivity in the office by the assumption of routine works. SHARP has designed the new MZ-3541 in such a way that it can be used for the most diverse resulting office works. And because multiple peripheral devices are available, the system can grow dynamically with the business activities.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The MZ-3541 is the result of Sharp\u0027s extensive market study and ergonomics studies. The free mobile keyboard makes data input and the operation easier and allows for spatial conditions an adapted installation of the system possible.\u0026lt;br\u0026gt; Sharp\u0027s MZ-3541 - the complete system for the business data processing.      \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;www.sharpmz.org\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sharp_MZ3500_GermanAd_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;IN SCHOOLS #3\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/bull_micral-80-22_in-use_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;COMPUTERS IN THE EXAM ROOM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/osborne_1_exams.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp; ACORN AD #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said:\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; This attractive package inherits the traditions of the famous Model B BBC microcomputer which is used by children in almost every school in the United Kingdom as well as colleges, hospitals, laboratories, factories, offices, banks and shops. \u0026lt;/font\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;8bs.com\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Acorn_MasterCompact_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;November 1987\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; ...This elegant little machine takes family computing into new dimensions of creativity, excitement and productivity. It outruns and outguns office PCs as a business multi-tasker, performing a deskful of different jobs simultaneously at over 7 million steps per second in realtime... \u0026lt;/font\u0026gt;  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Commodore_Amiga500_Advert_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d799",
+    "computer.asp?st\u003d1\u0026amp;c\u003d566",
+    "computer.asp?st\u003d1\u0026amp;c\u003d797",
+    "http://www.vectorgraphics.org.uk",
+    "http://h-net.msu.edu/cgi-bin/wa?A0\u003dVECTOR-GRAPHIC"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/vector-graphics_vector4_1.jpg",
+  "builtInGames": "Two 5.25\u0027\u0027 floppy disk drives",
+  "controllers": "",
+  "media": "Two 5.25\u0027\u0027 floppy disk drives",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

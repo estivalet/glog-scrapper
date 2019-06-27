@@ -1,0 +1,109 @@
+{
+  "name": "PC 8801",
+  "manufacturer": "NEC",
+  "type": "Home Computer",
+  "origin": "Japan",
+  "year": "December 1981",
+  "production": "",
+  "language": "N88-BASIC, N-BASIC (PC8001 MODE)",
+  "keyboard": "Full-stroke keyboard 67 key + 20 key numeric pad + 5 function keys",
+  "cpu": "uPD780C-1(Z80A compatible)",
+  "speed": "4 MHz",
+  "coprocessor": "",
+  "ram": "64 KB (up to 576 KB)",
+  "vram": "48 KB",
+  "rom": "72 KB",
+  "text": "36/40/72/80 characters x 20/25 lines",
+  "graphics": "640 x 200 (8 colours), 640 x 400 (Monochrome)",
+  "colors": "8",
+  "sound": "3 FM channels + 3 SSG + 6 rhythms + 1 ADPCM",
+  "size": "main case: 496W x 342D x 107H / 7.1 Kgkeyboard: 464W x 214D x 73H / 2 Kg",
+  "ports": "4 expansion slotsTape recorder (600/1200 baud)RS232CCRT(MONO/DIGITAL), Centronics",
+  "power": "PSU built-in, AC100V?10%, 40w-70w",
+  "price": "228 000 yen (Japan, 1981)",
+  "description": "\nThe NEC PC 8801 was the successor of PC 8001. It offered fine colour graphics. \nIt had an optional MS-Dos board. It was one of the fist, if not the first color CPM computer.\n\nIt ran in three bootable modes: CPM, MS-Dos, and N88-Basic. The N-Basic would natively boot on the system without disk, just like the PC 8001. It also had a software / hardware switch to turn it into PC 8001 mode.\n\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PC 8801\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/nec_pc8801_2b.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CLOSE-UP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/nec_pc8801_zoom.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/nec_pc8801_rear.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT  APR. 1983\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Nec_PC8800_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT JUNE 1983\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said: \u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; With NEC\u0027s PC-8800 personal computer, you don\u0027t have to ask yourself which comes first, the hardware or the software.\u0026lt;br\u0026gt; It\u0027s designed to be uncompromising in both areas. So you come first. In the office or at home.\u0026lt;br\u0026gt; The hardware gives you your choice of 8-bit or 16-bit processors, 5 1/4\u0026quot; or 8\u0026quot; disk drives and standard green or high resolution color monitor.\u0026lt;br\u0026gt; The software includes advanced, user friendly programs for all types of banking, accounting and business management. Plus free WordStar word processing, and MailMerge, Multiplan spread sheet, BASIC (two versions), and CP/M... \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Nec_PC8800_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT SEPT. 1983\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Nec_PC8800_Advert_s3.jpg"
+    }
+  ],
+  "hardware": [
+    {
+      "type": "PC-80S31",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Nec_PC8001MK2SR_FDunit-s1.jpg",
+          "description": "Dual 5.25\u0027\u0027 floppy discs unit||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DUAL 5.25\u0027\u0027 FLOPPY DISCS UNIT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Dual 5.25\u0026quot; Double-side, double-density 320 KB floppy drive unit. \u0026lt;br\u0026gt; The unit uses the 8255 parallel interface. It can be also used with PC-8001/mkII, PC-8801 Series, PC-9801/E/F/M etc.\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    }
+  ],
+  "emulator": [
+    {
+      "platform": "Windows emulator",
+      "name": "M88 emulator",
+      "link": "http://retropc.net/cisc/m88/",
+      "description": "Japanese emulator"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "PC88 Emulator",
+      "link": "http://home.highway.ne.jp/soltin/pc88win.html",
+      "description": "Japanese emulator"
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "PC-8801mk2SR Emulator\u0027s Page",
+      "link": "http://webclub.kcom.ne.jp/mb/ume-3/pc88emu.html",
+      "description": "Emultors list"
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "QUASI88",
+      "link": "http://www.117.ne.jp/~show/pc8801/pc88emu2.html",
+      "description": "Multiplatform emulator"
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d178",
+    "computer.asp?st\u003d1\u0026amp;c\u003d396",
+    "computer.asp?st\u003d1\u0026amp;c\u003d397",
+    "computer.asp?st\u003d1\u0026amp;c\u003d399",
+    "computer.asp?st\u003d1\u0026amp;c\u003d400",
+    "computer.asp?st\u003d1\u0026amp;c\u003d401",
+    "http://my.reset.jp/~toragiku/kopa/88.htm"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/nec_pc8801_1.jpg",
+  "builtInGames": "N88-BASIC, N-BASIC (PC8001 MODE)",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "Dual 5\u0027\u0027 (2x320 KB) or 8\u0027\u0027 (2x1 MB) floppy drive unit",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

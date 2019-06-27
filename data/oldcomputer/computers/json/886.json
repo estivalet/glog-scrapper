@@ -1,0 +1,352 @@
+{
+  "name": "MPC 100",
+  "manufacturer": "Sanyo",
+  "type": "Home Computer",
+  "origin": "Japan",
+  "year": "1984",
+  "production": "",
+  "language": "Microsoft Extended Basic (MSX Basic V1.0)",
+  "keyboard": "Full-stroke keyboard (including 5 F-keys with 10 functions and 4 arrow keys)",
+  "cpu": "Zilog Z80A",
+  "speed": "3.58 MHz",
+  "coprocessor": "Video chip compatible with the Texas Instruments TMS 9918/A  or TMS 9928/A",
+  "ram": "64 KB",
+  "vram": "16 KB",
+  "rom": "32 KB BASIC/BIOS ( MSX BASIC V1.0)",
+  "text": "Mode 0 : 40 x 24 Mode 1 : 32 x 24",
+  "graphics": "Mode 2 : 256 x 192 with 16 colors (Hires mode)Mode 3 : 64 x 48 with 16 colors (Multi colour mode)32 sprites",
+  "colors": "16",
+  "sound": "General Instruments AY-3-8910 Programmable Sound Generator3 channels, 8 octaves",
+  "size": "",
+  "ports": "Joystick connector, Cardridge slot, Expansion bus, Tape-recorder plug (1200/2400 bauds), A/V video output, RF video output (with channel 1 or 2 selection switch), Centronics interface, Light-pen",
+  "power": "Built-in power supply unit",
+  "price": "Unknown",
+  "description": "\nThe MPC 100 is a classic MSX 1 computer with 64 KB RAM.\n\nIts main particularity is to be delivered with a light pen. There is of course a connector to use it, and more surprising a hole is placed at the top right part of the case to store the light pen when not in use! However, some versions had the light pen hole but were delivered without neither the pen nor its connector.\n\nThe MPC-100, apart from its memory size, is the same computer as the Wavy 10 / MPC 10.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MPC-100\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Sanyo-MPC100_System_s3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BOTH SIDES\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Note the Reset switch and dual joystick connectors on the right side. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Light-pen versions had a specific connector next to the right joystick connector. \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Sanyo-MPC100_Sides_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CLOSE-UP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;light pen hole and ROM cartridge slot.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Sanyo-MPC100_LightPenHole_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR CONNECTORS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;From left to right: \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026bull; Z80 expansion port, mainly used for the external floppy drive unit\u0026lt;br\u0026gt; \u0026bull; Printer connector\u0026lt;br\u0026gt; \u0026bull; Tape recorder DIN socket. In, out and remote control\u0026lt;br\u0026gt; \u0026bull; Audio output jack\u0026lt;br\u0026gt; \u0026bull; Composite video output jack\u0026lt;br\u0026gt; \u0026bull; RF/aerial video output jack\u0026lt;br\u0026gt; \u0026bull; Power cable and switch\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Sanyo-MPC100_RearCon_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;OPENED UP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(1)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; NEC 8255 I/O chip\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(2)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; General Instruments AY-3-8910 sound generator\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(3)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Z80A CPU, here a NEC D780C version\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(4)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Cartridge slot\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(5)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; MSX BASIC 16 KB ROM\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(6)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Tape recorder remote control relay\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(7)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 64 KB RAM chips (8x4164 equivalent)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(8)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; RF/TV aerial circuitry. Could be replaced by a RGB card in some countries\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(9)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; TMS-9929 video controller, 50Hz version.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Sanyo-MPC100_Opened_s1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;NORTHSTAR BROCHURE #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;NorthStar brochure - Page 2 \u0026lt;b\u0026gt;EXPANSION OPTIONS\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;HRAM.64\u0026lt;/b\u0026gt; - High Speed 64Kb Dynamic RAM memory board with parity (up to a total of six)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;HSIO.4\u0026lt;/b\u0026gt; - Four Serial Port Expansion Board (RS-232C or Current Loop).\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;FPB\u0026lt;/b\u0026gt; - Floating Point Arithmetic Board.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;ADC-2D\u0026lt;/b\u0026gt; - Two additionaI 5 1/4 inch Double capacity floppy disk drives incorporated within a cabinet (360 Kb total capacity).\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;ADC-2Q\u0026lt;/b\u0026gt; - Two additionaI 5 1/4 inch Quad capacity floppy disk drives incorporated within a cabinet (720 Kb total capacity).\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;HDS-5\u0026lt;/b\u0026gt; - 5 1/4 inch Winchester Hard Disk 5 Mb formatted capacity.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;HDS-18\u0026lt;/b\u0026gt; - 14 inch Winchester Hard Disk 18 Mb formatted capacity.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Tape Backup\u0026lt;/b\u0026gt; - 13.4 Mb Tape Backup system for HDS-18 or HDS-5.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;CRT\u0026lt;/b\u0026gt; - Hazeltine 1420/Soroc 120. (Other software drivers available.)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Printer\u0026lt;/b\u0026gt; - 35 or 55 cps letter quality printer. \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Gordon Dyer\u0026lt;/b\u0026gt; from England \u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/NorthStar_Horizon_Brochure_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SPECTRUM+ FRENCH AD.\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sinclair_spectrumplus_pub1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Picture courtesy of \u0026lt;a href\u003d\u0026quot;http://www.sbrowning.com/vintage\u0026quot;\u0026gt;Steve Browning, www.sbrowning.com/vintage\u0026lt;/a\u0026gt;.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/apple_advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FIRST SDK-85 AD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Notice the Intel logo. Does Intel copies the Apple logo or vice versa?\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Intel_sdk85_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT OCT 1983\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Apple hardware advertisement.\u0026lt;br\u0026gt; From Personal Computing, October 1983 issue\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;\u0026lt;a href\u003d\u0026quot;http://www.aci.com.pl/mwichary/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Attached\u0026lt;/a\u0026gt;\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Apple_II+_USadInside_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MICROSOFT FS II, APR. 1986\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Commodore_128_Advert_s5.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CHARLIE CHAPLIN #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;1982 - Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt;Stop in a store near you. Take a look. You\u0027ll be instantly taken with some of the features that make the IBM Personal Computer so different...\u0026lt;/font\u0026gt; \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/IBM_5150_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT (JULY 1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Goupil has all talents\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/smt_goupil2_ad_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;QUASAR AD (1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The 8 KB quasar system with the 4 color plotter/printer interface.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The small picture shows a complete system with memory expansion, modem and video interfaces.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Panasonic_Quasar_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;COMMERCIAL PAMPHLET  - PAGE #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;... from Australia\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;thanks to Richard Rogers\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/centraldata_2650_flyers_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SORD BROCHURE #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Tim Mackay\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sord_M100ACE_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (JAN. 1981)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/ai-electronics_abc26_advert-fr_2_s.png"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;COMPUTERS IN THE EXAM ROOM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/osborne_1_exams.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (DEC. 1987)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/commodore_amiga500_pub_pour-faire-fort.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1979)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt;... One of the results is our new identity and our new product: the Intersystems DPS-1. An IEEE S-100 compatible mainframe with features that live up to its look. \u0026lt;i\u0026gt;Dependable\u0026lt;/i\u0026gt; operation to 4 Mhz. Twenty-card capacity, a modular power supply. And something no one else has: built-in break points to give you a faster, more powerful tool for testing software as well as hardware...\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/InterSystems_Dps1_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (JAN. 1985)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;It\u0027s him\u0026quot; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; This is not an Apple official advert, but from french distributor called Micro Informatique Diffusion (MID)\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/apple_IIc_pub_c-lui.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1978 BROCHURE #14\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/MSI_6800_Brochure_s14.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ORIGINAL ARTICLE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The history of the Galaksija started with a magazine article - called \u0026quot;Ra\u0026egrave;unara u va\u0026scaron;oj ku\u0026aelig;i\u0026quot; (computers in your home) by Dejan Ristanovi\u0026aelig;. This magazine was the first issue of the magazine series called later \u0026quot;Ra\u0026egrave;unara\u0026quot;. This first issue included an article about the do-if-yourself computer \u0026quot;Galaksija\u0026quot; written by Voja Antonic. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt;Source : \u0026lt;a href\u003d\u0026quot;http://www.homecomputer.de/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;HomeComputerMuseum.de\u0026lt;/a\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/galaksija_cover.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;STRAPPING MAN!\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; A compact problem-solving add for engineers, statisticians, scientists and financial and business analysts. \u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/IBM_5100_advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (AUGUST 1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Intellivision video games. Intelligence is in the game\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/mattel_intellivision_ad-fr_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.K. AD. (AUG. 1986)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert says: \u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; In other words, how to pop your office into a shoulder bag and then go out and about.\u0026lt;br\u0026gt; You see the Sharp PC7000 is no ordinary computer. Not only it is light, compact body packed with a much speed and power as most desk top computers, it\u0027s also very, very versatile... \u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sharp_PC5000_UKadvert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;AN ADVERTISING FOR THE BM JR\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/bmjr.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;HOMO-COMPUTERUS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This image is from a brochure of a Dutch exhibition called \u0026quot;The office of the future\u0026quot;  \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of the \u0026lt;b\u0026gt;Computer museum of the University of Amsterdam\u0026lt;/b\u0026gt; \u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Holborn_9100_leaflet_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ARGENTINIAN ADVERT \u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.speccy.org/czarg/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;CZARG\u0026lt;/a\u0026gt; for this picture.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/cz_cz-spectrum_ad-arg_1.jpg"
+    }
+  ],
+  "hardwareDescription": "",
+  "hardware": [
+    {
+      "type": "MEMORY EXPANSIONS",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/national_cf2131_16k-cart.jpg",
+          "description": "National CF-2131|||16 KB RAM expansion|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;NATIONAL CF-2131\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;16 KB RAM expansion\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/casio_or216_16kbramexpansion_box.jpg",
+          "description": "Casio OR-216 - 16 KB RAM expansion|||Box|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CASIO OR-216 - 16 KB RAM EXPANSION\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Box\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Philips_VG8020_Cartridges_s1.jpg",
+          "description": "Philips RAM expansion||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PHILIPS RAM EXPANSION\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;RAM expansion and LOGO language cartridges.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Daniele from Italy\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/msx_megaram256-ddx_1.jpg",
+          "description": "MEGA RAM DISK 256|||from DDX (Brazil)|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MEGA RAM DISK 256\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;from DDX (Brazil)\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is the famous Megaram cartridge made in Brzail, used to play all Konami cracked Megarom games.6401999243\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "MISC",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/msx_FS-IFA1_FW-RSU1W.jpg",
+          "description": "Panasonic  FS-IFA1 \u0026amp; FW-RSU1W|||Scanner/Printer interface|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PANASONIC  FS-IFA1 \u0026amp; FW-RSU1W\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Scanner/Printer interface\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The FS-IFA1 is the printer/scanner interface (left on the picture) and the FW-RSU1W is the handheld scanner (right on the picture). These expansions are for MSX2 systems.\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/sony_msx_rs232c-cartridge.jpg",
+          "description": "Sony HBI-232|||RS232c cartridge|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SONY HBI-232\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;RS232c cartridge\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Used to connect serial printers.\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Yamaha_Mouse_s2.jpg",
+          "description": "Yamaha mouse #1||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;YAMAHA MOUSE #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This mouse was compatible with all MSX systems. It connects to the first Joystick port.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;www.zonadepruebas.com\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Yamaha_Mouse_s1.jpg",
+          "description": "Yamaha mouse #2||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;YAMAHA MOUSE #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Brand new!\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;www.zonadepruebas.com\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "PRINTERS",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Philips_VG8020_PrinterVW0020_s1.jpg",
+          "description": "Philips VW0020|||80-col dot-matrix printer|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PHILIPS VW0020\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;80-col dot-matrix printer\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This printer was a rebadged version of the Seikosha GP-500.\u0026lt;br\u0026gt;  It was a 80-column, 50 CPS model with a 7x5 dot matrix head.\u0026lt;br\u0026gt;  Commodore and Atari used same hardware basis for their MPS-801 and 1029 printers. \u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "TAPE RECORDERS",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/sanyo_phc-drII_side_1.jpg",
+          "description": "Sanyo PHC-DR II|||Side|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SANYO PHC-DR II\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Side\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/sanyo_phc-drII_front_1.jpg",
+          "description": "Sanyo PHC-DR II|||Front|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SANYO PHC-DR II\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Front\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Sanyo_Phc28_DR202tapeDrive_s1.jpg",
+          "description": "Sanyo DR-202||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SANYO DR-202\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The ADSS system allowed to quickly search a specific program in a cassette tape and load it. Seach time for a C60 cassette was less than 1 minute.\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/national_tape_rq8030.jpg",
+          "description": "National RQ-8030|||tape-recorder|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;NATIONAL RQ-8030\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;tape-recorder\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Sony_HB201_BitCorder_1.jpg",
+          "description": "Bit-corder||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BIT-CORDER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Cassete recorder dedicated to Hit-Bit MSX systems, though it could be used with any home computers.\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    }
+  ],
+  "emulator": [
+    {
+      "platform": "MS DOS emulator",
+      "name": "fMSX for MS DOS Homepage",
+      "link": "http://www.komkon.org/~dekogel/fmsx.html"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "BlueMSX",
+      "link": "http://www.bluemsx.com/",
+      "description": "Excellent free MSX emulator"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "BrMSX",
+      "link": "http://www.lsi.usp.br/~ricardo/brmsx.htm",
+      "description": "A Bresilian MSX Emulator written in 100% assembler"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "CompuJunk\u0027s MSX Emulator",
+      "link": "http://ftp.castel.nl/msx/",
+      "description": "A MSX1 and MSX2 Emulator"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "RuMSX",
+      "link": "http://members.eunet.at/lexlechz/msx.html",
+      "description": "A MSX Emulator for Win95 and Win NT + Direct X"
+    },
+    {
+      "platform": "Apple emulator",
+      "name": "fMSX for MAC OS Homepage",
+      "link": "http://www.emulation.net/msx/index.html"
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "fMSX official Homepage",
+      "link": "http://www.komkon.org/fms/fMSX",
+      "description": "fMSX is a portable MSX emulator ported on : Amiga OS, Mac OS, MS DOS, OS/2, Sony Playstation, Risc OS, Towns OS, Unix / X, Win95 / NT, X68K."
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "openMSX - The MSX emulator that aims for perfection.",
+      "link": "http://openmsx.sourceforge.net/",
+      "description": "This new MSX emulator can reproduce, among many other MSX, MSX2and  MSX2+ machines, both Panasonic Turbo-R models. Be sure to get the catapult frontend and the system roms from FUNET."
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d788",
+    "computer.asp?st\u003d1\u0026amp;c\u003d432",
+    "computer.asp?st\u003d1\u0026amp;c\u003d585",
+    "computer.asp?st\u003d1\u0026amp;c\u003d1012",
+    "computer.asp?st\u003d1\u0026amp;c\u003d587",
+    "computer.asp?st\u003d1\u0026amp;c\u003d441",
+    "computer.asp?st\u003d1\u0026amp;c\u003d88",
+    "computer.asp?st\u003d1\u0026amp;c\u003d443",
+    "computer.asp?st\u003d1\u0026amp;c\u003d807",
+    "computer.asp?st\u003d1\u0026amp;c\u003d832",
+    "computer.asp?st\u003d1\u0026amp;c\u003d425",
+    "computer.asp?st\u003d1\u0026amp;c\u003d588",
+    "computer.asp?st\u003d1\u0026amp;c\u003d589",
+    "computer.asp?st\u003d1\u0026amp;c\u003d426",
+    "computer.asp?st\u003d1\u0026amp;c\u003d581",
+    "computer.asp?st\u003d1\u0026amp;c\u003d848",
+    "computer.asp?st\u003d1\u0026amp;c\u003d783",
+    "computer.asp?st\u003d1\u0026amp;c\u003d887",
+    "computer.asp?st\u003d1\u0026amp;c\u003d851",
+    "computer.asp?st\u003d1\u0026amp;c\u003d437",
+    "computer.asp?st\u003d1\u0026amp;c\u003d784",
+    "computer.asp?st\u003d1\u0026amp;c\u003d436",
+    "computer.asp?st\u003d1\u0026amp;c\u003d833",
+    "computer.asp?st\u003d1\u0026amp;c\u003d438",
+    "computer.asp?st\u003d1\u0026amp;c\u003d580",
+    "computer.asp?st\u003d1\u0026amp;c\u003d1056",
+    "computer.asp?st\u003d1\u0026amp;c\u003d435",
+    "computer.asp?st\u003d1\u0026amp;c\u003d582",
+    "computer.asp?st\u003d1\u0026amp;c\u003d431",
+    "computer.asp?st\u003d1\u0026amp;c\u003d782",
+    "computer.asp?st\u003d1\u0026amp;c\u003d583",
+    "computer.asp?st\u003d1\u0026amp;c\u003d90",
+    "computer.asp?st\u003d1\u0026amp;c\u003d578",
+    "computer.asp?st\u003d1\u0026amp;c\u003d444",
+    "computer.asp?st\u003d1\u0026amp;c\u003d1084",
+    "computer.asp?st\u003d1\u0026amp;c\u003d301",
+    "computer.asp?st\u003d1\u0026amp;c\u003d422",
+    "computer.asp?st\u003d1\u0026amp;c\u003d433",
+    "computer.asp?st\u003d1\u0026amp;c\u003d434",
+    "computer.asp?st\u003d1\u0026amp;c\u003d859",
+    "computer.asp?st\u003d1\u0026amp;c\u003d464",
+    "computer.asp?st\u003d1\u0026amp;c\u003d858",
+    "computer.asp?st\u003d1\u0026amp;c\u003d576",
+    "computer.asp?st\u003d1\u0026amp;c\u003d229",
+    "computer.asp?st\u003d1\u0026amp;c\u003d575",
+    "computer.asp?st\u003d1\u0026amp;c\u003d428",
+    "computer.asp?st\u003d1\u0026amp;c\u003d429",
+    "computer.asp?st\u003d1\u0026amp;c\u003d300",
+    "computer.asp?st\u003d1\u0026amp;c\u003d250",
+    "computer.asp?st\u003d1\u0026amp;c\u003d251",
+    "computer.asp?st\u003d1\u0026amp;c\u003d857",
+    "computer.asp?st\u003d1\u0026amp;c\u003d482",
+    "computer.asp?st\u003d1\u0026amp;c\u003d777",
+    "computer.asp?st\u003d1\u0026amp;c\u003d442",
+    "computer.asp?st\u003d1\u0026amp;c\u003d440",
+    "computer.asp?st\u003d1\u0026amp;c\u003d439",
+    "http://www.baboo.net/baboo.shtml",
+    "http://www.file-hunter.com/",
+    "http://www.caetano.eng.br/msxsoft/",
+    "http://www.moai-tech.com/",
+    "http://www.faq.msxnet.org/hardware.html",
+    "http://www.msx.org/",
+    "http://dynamo.geol.msu.ru/MSX/",
+    "http://www.msxgamesbox.com",
+    "http://www.msxmuseumbox.com",
+    "http://www.faq.msxnet.org",
+    "ftp://ftp.funet.fi/pub/msx",
+    "news:comp.sys.msx"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/Sanyo-MPC100_System_s2.jpg",
+  "builtInGames": "Microsoft Extended Basic (MSX Basic V1.0)",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

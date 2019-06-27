@@ -1,0 +1,279 @@
+{
+  "name": "MO5 NR",
+  "manufacturer": "Thomson",
+  "type": "Home Computer",
+  "origin": "France",
+  "year": "1984",
+  "production": "",
+  "language": "Microsoft Basic 1.0 and Microsoft Basic 128 1.0",
+  "keyboard": "AZERTY layout, full-stroke keyboard. Arrow keys, SHIFT, BASIC key, INS (insert), EFF (delete), ACC (accent), STOP, CNT (continue), CLEAR (cls), HOM (home), RESET button.",
+  "cpu": "Motorola 6809e",
+  "speed": "1 MHz",
+  "coprocessor": "",
+  "ram": "128 KB (31003 bytes free with Basic 1.0 and 111015 bytes free with Basic 128)",
+  "vram": "16 KB",
+  "rom": "64 KB expandable ROM (Monitor + Basic 1.0 + Basic 128)",
+  "text": "40 x 25",
+  "graphics": "320 x 200 (16 colors), 640 x 200 (2 colors), 320 x 200 (4 colors pixel by pixel), 160 x 200 (16 colors per pixel), 320 x 200 (3 colors with 1 transparency level), 320 x 200 (2 colors with alternative 2-page display), 160 x 200 (5 colors with 3 transparency levels)",
+  "colors": "4096",
+  "sound": "4 voices,  5 octaves",
+  "size": "440 x 231 x 84 mm / 2 Kg",
+  "ports": "Light pen connector, Tape interface (1200 bauds), SCART video cable (RGB + synchro + sound), Cartridge slot (Memo5), Expansion bus, Power in, 2 x joystick connectors (Atari standard), 2 x Nanor?seau connectors",
+  "power": "External power supply unit. 18 to 22 volts DC. 8 W",
+  "price": "Unknown",
+  "description": "\nThe Thomson MO5 NR is a special version of the MO5, developped especially for the educative network called NanoReseau, hence the \u0026quot;NR\u0026quot;. The NanoR?seau was initially composed of several original MO5 systems with their NanoR?seau expansions (64 KB RAM + Network features). The MO5 NR includes the network expansion and much more.\n\nThe system uses the same case as the MO5E, but the MO5 NR is maybe closer to the MO6 than to the original MO5. It is the first \u0026quot;MO\u0026quot; system to offer a boot menu, later found on the MO6, T08, TO8D, TO9 and TO9+. This feature is closely related to the fact that these systems hold two Basic languages: the Microsoft Basic 1.0 (in fact level 5) initially found on the TO-7, TO-7/70 and MO5; and the Basic Microsoft 128 offering among other things, full 128 KB RAM to work with, which is quite a tour de force as most 8-bit systems of the time couldn\u0027t handle more than 64 KB RAM.\n\nThe MO5 NR also offer a palette of 4096 colours to choose from, though only 16 could be displayed at the same time on the screen. Graphic resolutions come from 160 x 200 to 640 x 200, though the most used was 320 x 200. There is the possibility to display 80 and 40 text columns.\n\nLike on the MO5E, two controller ports (Atari standard) can be found at the front of the system. In fact the MO5 expansion called \u0026quot;music \u0026amp; games\u0026quot; is also built-in and offer these two controller ports and 4 voices with 5 octaves. But at the back is where you can tell the difference! Compared to the MO5E, the SCART connector has been replaced by two Network DIN connectors, the RF TV video output by the power in plug, the Centronics interface by Network dip switches (for network station numbering, the same found on the Network expansion of the original MO5), and the power cord (MO5E had a built-in power supply) by a SCART cord... quite different indeed (see MORE PICTURES section). Thus the MO5NR need to be powered by an external power supply. The MO5 PSU can be used, but in schools, the MO5 NR was generaly powered by its own dedicated monitor.\n\nThe MO5NR is thus a kind of super MO5, a mix between the MO5 and the soon to be released MO6. Unfortunately, as it was very expensive, schools prefered to buy MO5E systems with a network expansion...\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MO5 NR\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/thomson_mo5nr_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LEFT SIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Here is the power on/off button.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/thomson_mo5nr_l-side.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;RIGHT SIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;We can spot here the light-pen connector (right) and the tape interface connector (right)\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/thomson_mo5nr_r-side.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CLOSE UP \u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;We can see here the two controller connectors (Atari standard) et the Reset button.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/thomson_mo5nr_closeup_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/thomson_mo5nr_back.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DIP SWITCHES\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;These are the dip switches used to configure the MO5 NR for the Nanor\u0026eacute;seau (dedicated network).\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/thomson_mo5nr_dip-switches.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LOGO\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Thomson \u0026amp; Leanord are at the origin of the MO5 NR.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/thomson_mo5nr_logo.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MO5 E AND MO5 NR\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Both use exactly the same case.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/thomson_mo5e-nr_comparatif.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR COMPARISON\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The back of the systems is where you can tell the difference. The SCART connector of the MO5E has been replaced by two network connectors, the RF TV output by a power in connector, the Centronics interface by network dip switches and the power cord by the SCART video cord.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/thomson_mo5e-nr_rear.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/tandy_1000series_ad_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1979)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt;... One of the results is our new identity and our new product: the Intersystems DPS-1. An IEEE S-100 compatible mainframe with features that live up to its look. \u0026lt;i\u0026gt;Dependable\u0026lt;/i\u0026gt; operation to 4 Mhz. Twenty-card capacity, a modular power supply. And something no one else has: built-in break points to give you a faster, more powerful tool for testing software as well as hardware...\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/InterSystems_Dps1_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ENGLISH POSTER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Poster in a 1982 english computer show.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Osborne_1_Poster_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CHARLIE CHAPLIN #7 \u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;TopView, one of the first serious multitasking tool for the IBM PC.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Byte Magazine, July 1985\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/IBM_5150_ChaplinAdvert_7.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FIRST U.S. ADVERT (1977)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Tandy_Model1_Advert_4.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FIRST US AD.\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Tandy_Model12_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT #2 (1979)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt;Compare the built-in features of leading microcomputers with the Atari personal computers. And go ahead, compare apples and oranges. Their most expensive against our least expensive: the Atari 400...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Atari_400-800_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;New Brain complet package with FDD\u0026acute;s and peripherals... (the dot matrix printer was connected to the RS232 port)... The main box you see in the photo is the \u0026quot;school network controller\u0026quot; that permitted that \u0026quot;n\u0026quot; computers were plugged in as a network sharing one \u0026quot;5Mb hard drive\u0026quot;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Rui Santos for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/newbrain_completo.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;AMTEXT BROCHURE #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Jacquard_J100_AmText_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROMOTIONAL LEAFLET - INSIDE #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/bandai_gundam-rx-78_promo-leaflet_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT. PAGE #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/symag_micromachine_4000_pub.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN ADVERT (1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;A computer for each job\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Tandy_Model2_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;THINKJET ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;August 1985\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/HP_150_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;EQUIPED FOR COMPETITION\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;French advert (december 1984)\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_to770_pub_compet.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DEMO TAPE INLAY #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.primo.homeserver.hu/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;PRIMO home-page\u0026lt;/a\u0026gt; for this picture.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/microkey_primo_promo-pic_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (JAN. 1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Computing is very simple with the AIM65 from Rockwell\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/rockwell_aim65_ad_system-contact.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0027\u0027The memory tool\u0027\u0027\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/basis_108_advert_outil-memoire.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROMO PIC #3\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This promotional picture was used to emphasize the programming assets of the TO-7/70 : Microsoft Basic v5, Microsoft assembler and SOLI Logo. They want to make us believe that architects used TO-7/70 !  \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; As usual there are no cables shown... The arm looks weird, lifeless... did they cut it to take the picture more easily ?! or is the woman completely laid down on the table ?\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_to770_pub-archi.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROMOTIONAL LEAFLET\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Juan Antonio Maestre for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/trQ_h21_ss_catalog.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0027\u0027Each day, go on the computing road\u0027\u0027\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/epson_advert_hx-qx_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (FEB. 1986)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Educatel advert for their correspondance courses using the Microlab system.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/educatel_microlab_advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. AD #1 (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Better features, cheaper price, the PC price war  has just started.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Columbia_PC_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SOFTWARE CATALOGUE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;AcornSoft software catalogue for the Electron\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Acorn_Electron_SoftCatalogue_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PRINTERS ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Tandy_Color1_PrinterAdv_1.jpg"
+    }
+  ],
+  "hardwareDescription": "",
+  "hardware": [
+    {
+      "type": "DISK DRIVES",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/thomson_to7_diskdrive_2.jpg",
+          "description": "5.25\u0027\u0027 disk drive|||320 KB model|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;5.25\u0027\u0027 DISK DRIVE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;320 KB model\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This 5.25\u0027\u0027 disk-drive offers a 320 KB capacity (40 tracks \u0026gt; 16 sectors \u0026gt; 256 bytes) and a built-in controller.\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/thomson_to7_disk-interface.jpg",
+          "description": "Disk Controller|||CD 90-351|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DISK CONTROLLER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CD 90-351\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This interface was used to connect a disk drive or a Quick Disc Drive (QDD) to a TO-7, TO-7/70, MO5 or MO6.\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "JOYSTICK EXPANSIONS",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Thomson_To9_JoyModule_1.jpg",
+          "description": "Joystick module||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JOYSTICK MODULE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Dual Atari compatible joysticks module\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/thomson_to7_joy-interface.jpg",
+          "description": "Music \u0026amp; Game Module|||CM 90-112|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MUSIC \u0026amp; GAME MODULE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CM 90-112\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This module offers two joystick connectors (Videopac joysticks can be used) and adds three channels to the TO-7  or MO-5 (resulting in a total of 4 voices). Sadly, these new sound features were scarcely used in games...\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Thomson_MO5_MusicEtJeu_s1.jpg",
+          "description": "Music \u0026amp; Game Module #2||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MUSIC \u0026amp; GAME MODULE #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/thomson_to7_joy-atari.jpg",
+          "description": "Ordi 94|||Joystick Interface|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ORDI 94\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Joystick Interface\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This interface enables Atari joysticks to be used with TO-7, TO-7/70 and MO5. It was sold by Ordivisuel under the name Ordi 94.\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "PRINTERS",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Thomson_TO7_Imp_PR90-080.jpg",
+          "description": "Printer PR-90 080||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PRINTER PR-90 080\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;80 columns dot-matrix printer which was a rebadged version of the Seikosha GP-80\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Thomson_To9_ImpPR90_600_1.jpg",
+          "description": "Printer PR-90 600||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PRINTER PR-90 600\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;80-column 9-pin dot matrix printer. A rebadged version of the Seikosha SP-1000 with graphics capabilities\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    }
+  ],
+  "emulator": [
+    {
+      "platform": "Windows emulator",
+      "name": "DCMO5",
+      "link": "http://dcmo5.free.fr/",
+      "description": "Thomson MO5 emulator for PC"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "DCMO5 Gamer Edition",
+      "link": "HTTP://DCMO5.FREE.FR",
+      "description": "Easy to use emulator, to run MO5 games without knowing MO5 commands"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "DCMO6",
+      "link": "http://dcmo6.free.fr/",
+      "description": "Thomson MO5NR, Thomson MO6 and Olivetti Prodest PC128 emulator for PC"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "DCMOTO",
+      "link": "http://dcmoto.free.fr/",
+      "description": "Universal 8-bit Thomson emulator for Windows. Emulates Thomson MO5, MO5E, MO5NR, MO6, T9000, TO7/70, TO8, TO8D, TO9, TO9+ and Olivetti Prodest PC128  !"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "DCTO7 and DCTO8",
+      "link": "http://dcto7.free.fr/",
+      "description": "Thomson T9000, TO7/70, TO8, TO8D emulator for Windows"
+    },
+    {
+      "platform": "Other platform emulator",
+      "name": "TODC",
+      "link": "http://www.jplang.fr.st/",
+      "description": "No, you are not dreaming. This is a TO-7/70 emulator for the Dreamcast game system !"
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d12",
+    "computer.asp?st\u003d1\u0026amp;c\u003d167",
+    "computer.asp?st\u003d1\u0026amp;c\u003d838",
+    "computer.asp?st\u003d1\u0026amp;c\u003d853",
+    "computer.asp?st\u003d1\u0026amp;c\u003d11",
+    "computer.asp?st\u003d1\u0026amp;c\u003d643",
+    "computer.asp?st\u003d1\u0026amp;c\u003d238",
+    "computer.asp?st\u003d1\u0026amp;c\u003d239",
+    "computer.asp?st\u003d1\u0026amp;c\u003d240",
+    "http://membres.lycos.fr/amito8/data/Accueil.html",
+    "http://lair.thomsonistes.org/",
+    "http://gfournier.free.fr/",
+    "http://dcmoto.free.fr/",
+    "http://forumthomson2001.free.fr/forum01.htm",
+    "http://www.multimania.com/tonews/",
+    "http://nostalgies.thomsonistes.org/",
+    "http://wiki.forler.ch",
+    "http://www.logicielsmoto.com/home.php"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/thomson_mo5nr_1s.jpg",
+  "builtInGames": "Microsoft Basic 1.0 and Microsoft Basic 128 1.0",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

@@ -1,0 +1,49 @@
+{
+  "name": "TRS 80 PC-2",
+  "manufacturer": "Tandy Radio Shack",
+  "type": "Pocket",
+  "origin": "Japan",
+  "year": "1982",
+  "production": "",
+  "language": "BASIC interpreter",
+  "keyboard": "66 keys, QWERTY calculator type with numeric key-pad",
+  "cpu": "LH 5801 8-bit CMOS",
+  "speed": "1.3 MHz",
+  "coprocessor": "",
+  "ram": "3.5 KB  expandable up to 19.5 KB with a 16 KB RAM module",
+  "vram": "",
+  "rom": "16 KB",
+  "text": "1 line x 26 chars.  (LCD screen)",
+  "graphics": "7 x 156 pixels",
+  "colors": "Monochrome",
+  "sound": "One-channel Beeper, with frequency and duration controllable by BASIC statement",
+  "size": "19.5 (W) x 8.6 (D) x 2.55 (H) cm / 375 g (with batteries)",
+  "ports": "Proprietary 60 pin expansion bus, 40-pin slot for memory and program modules",
+  "power": "4 x AA 1.5V batteries, 50 hours run time (0.13W) - 6V DC external AC adaptor EA-150",
+  "price": "$280",
+  "description": "\nAfter the success of the TRS-80 Pocket Computer (a.k.a. TRS-80 PC-1), Sharp also manufactured their PC-1500 (see there for more technical information) in a version for Tandy Radio Shack.\n\nThis machine was marketed as the TRS-80 PC-2 (catalog number 26-3601). Internally, it was exactly the same machine. Only the front face design had been changed: the keyboard layout was different, with an additional enter key, and the display had been shifted to the right. Moreover, the colour style was also slightly different, with a light gray instead of brown back of the case.\n\nSome peripherals supplied by Tandy were the \u0026quot;docking station\u0026quot; with 4 colour pen plotter and cassette interface (catalog number 26-3605), 4 and 8 KB RAM module (26-3615 and 26-3616), an external tape interface (26-3605) and an RS-232 interface (26-3612). Of course, all peripherals developed for the Sharp PC-1500 could also be used.\n\nThanks to Roman von Wartburg and his site for information and picture.\n \n\n\n",
+  "shot": [],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT JULY 1982\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;\u0026lt;a href\u003d\u0026quot;http://www.aci.com.pl/mwichary/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Attached\u0026lt;/a\u0026gt;\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Tandy_PC2_Advert_s1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d937",
+    "computer.asp?st\u003d1\u0026amp;c\u003d1003",
+    "http://www.RadioShackCatalogs.com"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/Tandy_PC2_System_1.jpg",
+  "builtInGames": "BASIC interpreter",
+  "controllers": "",
+  "media": "None",
+  "numGames": "",
+  "peripherals": "26-3615  4 kB RAM26-3616  8 kB RAM26-3605  4 colours plotter and cassette interface26-3605  external tape interface26-3612  RS-232 interface",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

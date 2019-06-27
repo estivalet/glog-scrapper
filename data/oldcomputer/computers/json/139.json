@@ -1,0 +1,105 @@
+{
+  "name": "HP-150",
+  "manufacturer": "Hewlett Packard",
+  "type": "Professional Computer",
+  "origin": "U.S.A.",
+  "year": "1983",
+  "production": "",
+  "language": "PAM (Personal Application Manager)",
+  "keyboard": "Full-stroke 107 keys with function keys and numeric keypad",
+  "cpu": "Intel 8088",
+  "speed": "8 MHz",
+  "coprocessor": "",
+  "ram": "256 KB (up to 640 KB)",
+  "vram": "",
+  "rom": "Unknown",
+  "text": "80 x 27 (the 25th and 26th lines are used for function key display and the 27th for status indicators)",
+  "graphics": "512 x 384 dots",
+  "colors": "Monochrome (green \u0026amp; black)",
+  "sound": "Beeper",
+  "size": "305 (W) x 305 (D) x 287 mm (H) / 9.82 Kg",
+  "ports": "HP-IB (IEEE-488), two RS232 serial ports, two expansion slots, Centronics (optional), keyboard port (HP-IL on the HP-150 II)",
+  "power": "Built-in switching power supply unit, 130w",
+  "price": "6100  (France, march 84)  - ?2995 (U.K., 1984)",
+  "description": "\nThe HP 150 was Hewlett Packard\u0027s attempt to produce a user friendly office computer. It is an MS-DOS based system, but is not IBM compatible. It made heavy use of function keys and the built in touch screen to attempt to produce easy to use software. The computer is built into the display unit with disk drives as external units.\n\nIt is the successor of the HP 120 (which runs under CP/M). It uses the same screen and the same case as the HP 120. The keyboard was made in Singapour and the cathodic tube was from Matsushita. But the whole system was assembled in the US Sunnyvale and Corvallis factories, and in Grenoble (France).\n\nOne of its main interesting characteristic is its \u0026quot;touch sensitive screen\u0026quot; (a 9\u0026quot; Sony screen). Actually, it\u0027s not a true touchscreen, there\u0027s a lot of infra red transmitters and receivers around the screen which detect the position of anything on the screen : a finger of course but a pencil too. The idea of the touch screen came from HP Grenoble, but the concept was developped in the USA.\n\nThe HP 150 uses a shell or interface program called the Personal Application Manager or PAM rather than the standard DOS command line shell. This allows the user to select installed applications from the screen. In addition there are utilities to install applications under PAM, format disks and configure peripheral devices.\n\nNotice that the HP 150, as the HP 120, uses 3.5\u0026quot; floppy disks when all other computers used 5.25\u0026quot; floppy disks. The first models used 270 KB disks, they were replaced with 720 KB floppy disks. \n\nIt was possible to insert a small thermic printer into the screen. It was a user installed upgrade. It functioned via internal connections, and would work either as a DOS printer, or direct from the screen for logging, etc. It printed on 80 columns and used a continuous roll of special paper. \n\nThe packing of the 150 was very robust. More than one was rolled down a stairway, then powered up as a demo !\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;HP-150\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;5 MB Hard disc version.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/hp_hp150_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;HP-150 II\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is a completely reworked version of the HP-150. Most obvious feature is the 12\u0026quot; display replacing the original 9\u0026quot; display. Also has 4 expansion slots rather than 2 and used an HP-HIL keyboard interface rather than the HP 150 specific one on earlier models. The touchscreen was an option. Marketed as the HP Touchscreen II in the USA and the HP 150 II elsewhere. Unofficially known as the HP 150C.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/hp_150-II_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BACK OF THE HP-150\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Dual floppy drive version.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; 512 KB memory expansion board\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; 2 x Serial DB25 connectors\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; HP-IB connection between the main unit and the F.D. unit\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(4)\u0026lt;/b\u0026gt; Clock backup batteries housing\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/HP_150_Back_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;THERMAL PRINTER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The 2674A optional printer fitted in the top of the main unit and could be easily installed by the user. It used thermal paper rolls\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/HP_150_Printer_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TOUCH SCREEN\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Just point at what you want to do!\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/hp_150_touchscreen_4.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TOUCH SCREEN #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;See explanations about the touch screen photodiodes technology in the \u0027Read more\u0027 section.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/HP_150_TouchLeds_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Inside the main unit.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; CRT video board\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; Main board (CPU board + 256 KB memory board + Serial board)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; Logic video board\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(4)\u0026lt;/b\u0026gt; Power supply\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/HP_150_Inside_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DUAL F.D. UNIT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;2 x 270 KB floppy drive unit. The disk drives are Sony single side, single density models.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/HP_150_FDunit_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FD/HD UNIT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;15 MB Seagate hard disc drive, and 270 KB floppy drive.\u0026lt;br\u0026gt; The logic board features a Motorola 6809 processor.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/HP_150_HDunit_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MONITOR BEING ASSEMBLED\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This monitor is being assembled in the HP factory of Grenoble (France).  Grenoble was producing HP-150 for the european, african and oriental markets. In March 1984, it was making 5000 units a month, a quarter of the world production (20 000).\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/hp_150_montage.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;HP-150 II \u0026amp; LASERJET\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This picture shows a HP-150 II connected to the first Laserjet printer!\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/hp_150-II_2.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (1984)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is an official advert from Hewlett-Packard. It says \u0026quot;The easy touch\u0026quot;.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/hp_150_advert_hp-1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (1984)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/hp_150_advert_lta.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (1984)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/hp_150_advert_cf.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;THINKJET ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;August 1985\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/HP_150_Advert_s1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [
+    "http://www.blinkenlights.com/classiccmp/hp150faq.txt",
+    "ftp://ftp.funet.fi/pub/misc/hp150/"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/HP_150_System_1.jpg",
+  "builtInGames": "PAM (Personal Application Manager)",
+  "controllers": "",
+  "media": "one or two 3.5\u0027\u0027 disk-drives (270 KB each); optional hard disk (5 or 15 MB)",
+  "numGames": "",
+  "peripherals": "Memory card, ink-jet, thermal or laser printer",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computer>
+    <adverts>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;FRENCH ADVERT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;quot;Canon AS-100. Programmed to succeed.&amp;quot;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/canon_as100_advert_1.jpg</link>
+        </advert>
+    </adverts>
+    <batteries></batteries>
+    <builtInGames>optional 5.25</builtInGames>
+    <buttons></buttons>
+    <colors>27 colours</colors>
+    <controllers></controllers>
+    <coprocessor>optional Intel 8087 (math. co-processor)</coprocessor>
+    <cpu>Intel 8088</cpu>
+    <description>
+The AS-100 is a 16-bit professional computer based on the Intel 8088 CPU. It has 128 KB RAM, built-in speaker, optional 8087 math co-processor and real time clock. The whole system (monitor + disks + keyboard) weights more than 30 Kg! The AS-100 is not a real IBM compatible system. It can use MS-DOS as its Operating System but that's all. 
+
+The computer can display 25 lines of 80 columns, or 640 x 400 pixels, with 8 colours from a total of 27. The character matrix consists of 9 x 7 pixels. There are 128 ASCII characters, and more user re-definable ones. Display attributes are inversed, underlined, wide, blink and masked. The computer was delivered with a monochrome or colour monitor (both 30 cm wide). 
+
+Different optional drives could be connected:
+- one or two 5.25&amp;quot; FDD units, DS/DD, 640 KB each, 250 ms average access time, 250 KB/s average transfer rate
+- from one to four 8&amp;quot; FDD unit, DS/DD, 1.2 MB each, 200 ms average access time, 500 KB/s average transfer rate
+- 8.2 Mb Winchester hard disk 
+
+All the disks can be combined as follow: two 5.25&amp;quot; units + two 8&amp;quot; units + one hard disk, or, four 8&amp;quot; units and one hard disk. 
+
+Some expansion options were available:
+- daisy-wheel (A-1200 &amp;amp; A-1250) and ink jet (A-1210) printers
+- memory expansion cards (128, 256, and 384 KB)
+- Intel 8087 math co-processor
+- real time clock
+- video card
+- expansion interfaces (RS232, parallel, communication and hard-disk) 
+
+Several software packages were bundled or available separately: Canobrain (Canon database &amp;amp; data sheet), DBase II, Datastar, Infostar, Calcstar, Wordstar, Spellbinder, Spellstar, Wordmaster, and Gesmail.  Several different languages were available, as well: Assembler, GW Basic, Canobasic, Pascal UCSD, Fortran, and Cobol. 
+
+The AS-100 does not use any mouse but an innovative jog dialer (see picture). 
+
+</description>
+    <emulators/>
+    <graphics>640 x 400 (8 colours)</graphics>
+    <gun></gun>
+    <hardwares/>
+    <image>http://www.old-computers.com/museum/photos/canon_as100_1.jpg</image>
+    <keyboard>Full-stroke keyboard with function keys, arrow keys and numeric keypad. 98 keys. Characters repetition.</keyboard>
+    <language></language>
+    <links/>
+    <manufacturer>Canon</manufacturer>
+    <media>optional 5.25</media>
+    <name>AS-100</name>
+    <numGames></numGames>
+    <origin>Japan</origin>
+    <peripherals>memory expansions (128, 256 or 384 KB), Intel 8087 math. co-processor, real time clock, video card, expansion board (RS232, parallel, communication &amp;amp; hard-disk interfaces)</peripherals>
+    <ports>2 x RS232c, 1 x Centronics</ports>
+    <power>Built-in PSU, 120 W</power>
+    <price></price>
+    <production></production>
+    <ram>128 KB (up to 512 KB)</ram>
+    <rom>4 KB (boot)</rom>
+    <screenshots>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;COMPLETE SYSTEM&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/canon_as100_3.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;AS-100&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Colour monitor, ink jet printer, 8&amp;quot; floppy disks unit &amp;amp; jog dialer.&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/canon_as100_2.jpg</link>
+        </shot>
+    </screenshots>
+    <size>keyboard: 48 x 18,5 x 3,2 cm - 2.2 Kg / monitor: 40 x 34,4 x 43 cm - 19,5 Kg / 5.25'' disks: 8 x 34,4 x  37 cm - 6,3 Kg</size>
+    <sound>Built-in speaker</sound>
+    <speed>4.7 Mhz</speed>
+    <switches></switches>
+    <text>80 x 25 - character matrix : 9 x 7</text>
+    <type>Professional Computer</type>
+    <vram></vram>
+    <year>october 1982</year>
+</computer>

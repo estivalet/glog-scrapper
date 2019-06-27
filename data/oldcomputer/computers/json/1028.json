@@ -1,0 +1,158 @@
+{
+  "name": "Cellatron 8205",
+  "manufacturer": "B?romaschinenwerke Zella-Mehlis",
+  "type": "Professional Computer",
+  "origin": "Germany",
+  "year": "1963",
+  "production": "",
+  "language": "None",
+  "keyboard": "Primary keyboard",
+  "cpu": "Discrete components",
+  "speed": "Unknown",
+  "coprocessor": "",
+  "ram": "4096 x 33 bits on magnetic drum memory",
+  "vram": "",
+  "rom": "",
+  "text": "No display but lamp array",
+  "graphics": "",
+  "colors": "",
+  "sound": "",
+  "size": "required space: approx. 9 square meters",
+  "ports": "",
+  "power": "1500 VA power consumption",
+  "price": "Unknown",
+  "description": "\nIn 1963, engineers at the Institut f?r Maschinelle Rechentechnik (institute for machine computation technology) in Dresden, GDR (ex-Eastern Germany) finished the D4a. The D4a had been developed on the basis of the Kleinrechenautomat Dresden 1 (D1) from 1956. The system was then manufactured by the VEB B?romaschinenwerk Zella-Mehlis in three versions, under the name Cellatron 8201, 8205, and 8295 Z. About 3000 exemplars were produced. The D4a is seen as the first PC of the GDR.\n\nBy the way, VEB is short for Volkseigener Betrieb and means as much as \u0026quot;factory belonging to the people\u0026quot;.\n\nThe C 8205 central unit was comprised of the Leitwerk (instruction counter, instruction register, and address decoder), the Rechenwerk (accumulator and math operations), and the Trommelspeicher (magnetic drum memory). The former two subsystems were realised as discrete circuits including approximately 400 transistors and 2000 diodes. \n\nWorking memory was realised with a magnetic drum memory providing 4096 words\nof 33 bits. Moreover, the system was comprised of a command desk with keyboard, lamp array for displaying operational states, switches for locking certain tracks of the drum memory, two paper tape readers and one puncher, and a typewriter-like printer. It needed about 9 sqm space in an air conditioned and noise insulated room. Power consumption was 1500 VA.\n\nThe system could be programmed in pure machine code, or in interpreted pseudo-code using a program called GIPS I, Gleitkomma-Interpretationssystem einfacher Wortl?nge, i.e. floating point interpretation system with single word length. It simulates floating point arithmetics as well as a number of pseudo data registers. The GIPS I interpreter had to be read into memory before use.\n\nMoreover, it was possible to program the system in PS 2, which probably meant programming language 2. It was developed by VEB engineers. This language implemented various data types, mathematical operations, I/O commands, and control statements equivalent to GOTO, IF...THEN GOTO, labels, subroutines, and FOR-loops. The source program had first to be punched on paper tape, and then compiled. As the PS 2 compiler occupied the complete memory, the resulting object code (in GIPS I format) was immediately punched out on paper tape. After that, the object code could be read and run with the GIPS I interpreter in memory.\n\nThe picture shows the C 8205 model.\n\nThanks to Roman von Wartburg and his site for information and pictures.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LARGE VIEW\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/VEB_8205_System_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MAGNETIC DRUM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The magnetic drum memory rotated at 18,000 rpm. It was organised in 128 tracks with 32 sectors each, every track having a read/write head of its own. In total, this resulted in a capacity of 4096 words of 33 bits.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/VEB_8205_DrumDiagram_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PS 2 MANUAL COVER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Full reference of this book:\u0026lt;br\u0026gt; \u0026lt;i\u0026gt;Gerd Ehrke et al. \u0026quot;Problemorientierte Programmierung f\u0026uuml;r den Kleinrechner C 8205: Die algorithmische Sprache PS 2\u0026quot;. Verlag Die Wirtschaft, Berlin.\u0026lt;/i\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/VEB_8205_PS2manual_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BLOCK DIAGRAM #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Block diagram of the central unit.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; German to English translation:\u0026lt;br\u0026gt; Hauptspeicher - main memory\u0026lt;br\u0026gt; Operand - operand\u0026lt;br\u0026gt; Adressenw\u0026auml;hler - address selector\u0026lt;br\u0026gt; Akkumulator - accumulator\u0026lt;br\u0026gt; Ergebnis - result\u0026lt;br\u0026gt; Rechenwerk - arithmetical unit\u0026lt;br\u0026gt; Befehlsregister - command register\u0026lt;br\u0026gt; Adressregister - address register\u0026lt;br\u0026gt; Operationsregister - operation register\u0026lt;br\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/VEB_8205_BlockDiagram_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BLOCK DIAGRAM #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Block diagram of the complete system.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;  German to English translation:\u0026lt;br\u0026gt; Tastatur - keyboard\u0026lt;br\u0026gt; Schreibwerk - printer\u0026lt;br\u0026gt; Lochbandleser - paper tape reader\u0026lt;br\u0026gt; Lochbandstanzer - paper tape puncher\u0026lt;br\u0026gt; Kanal - channel\u0026lt;br\u0026gt; Zentraleinheit - central unit\u0026lt;br\u0026gt; Rechenwerk - arithmetical unit\u0026lt;br\u0026gt; Leitwerk - control unit\u0026lt;br\u0026gt; Trommelspeicher - drum memory\u0026lt;br\u0026gt; Stromversorgungseinheit - power supply unit\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/VEB_8205_BlockDiagram_s2.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT, OCT. 1983\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Gemini_Galaxy2_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN AD #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Welcome in the world of the \u0026quot;clean\u0026quot;-computers\u0026quot;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;www.sharpmz.org\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sharp_MZ700_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT #6 (1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Atari_800_Advert_6.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;NICE AD (1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;As computing was a serious and professional subject, the humorus adverts was rare in 1983.\u0026lt;br\u0026gt; This one said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; When I told my Dad about NEC TREK, NEC\u0027s new personal computer, he wanted one right away.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; I told him it has 10 programmable function keys; high powered graphic capabilities, powerful Microsoft BASIC included, and a 8-octave programmable musical tone generator.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; He said it has lot of \u0027fun games\u0027. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; I told him how its memory storage can interface with cassette diskette or cartridge, and how it has a wide variety of of sophisticated software available - important things like financial management package...\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; He just challenged me to a game of Protector.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; That\u0027s my Dad. I love him, but sometimes I wish he could understand how a kid feels.\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Nec_PC6001_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LAST SALES\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;In July 1985, California Digital sold the Tano at $99. The price would decrease down to $35 while stock last.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Dragon_64_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US BROCHURE (RECTO)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Chris Collman for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sanyo_mbc1000_brochure_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp; GERMAN LEAFLET #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Preliminary/New product leaflet. For exhibitions only\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026quot;The new Personal Computer from SHARP - particularly developed for personal use.\u0026quot;\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Note the optional Quick Disc drive.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;www.sharpmz.org\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sharp_MZ800_GermanAd_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LISA ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;He is rich (enough to buy a LISA !), he is relaxed... He is the typical advertising executive of the 80\u0027s.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Lisa_Advert_bind.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.K. AD (APR. 86)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/ThornElmi_Wren_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (JAN. 1981)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Sharp 1211 advert from ILLEL, a french computer seller\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sharp_pc1211_advert-fr_1_s.png"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ITALIAN AD #4\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;http://angelmemories.cjb.net/ \u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sinclair_Spectrum_PubItalie_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPANESE ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to the \u0026lt;a href\u003d\u0026quot;http://web.kyoto-inet.or.jp/people/s-oga/\u0026quot;\u0026gt;PC Leaflets Museum\u0026lt;/a\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/mitsubishi_multi8_advert_1_s.gif"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;COMPACT VERSION\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Promotional picture; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Diego Barizo\u0026lt;/b\u0026gt; adds:\u0026lt;br\u0026gt; In the picture of the compact version of the TK3000, the joystick, a TRS-80 de luxe joystick, and the screen is quite similar to that of a flight simulator for the TRS-CoCo. Maybe they had one behind the monitor? \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Roberto Isiri\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Microdigital_TK3000_CompactAd_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Picture courtesy of \u0026lt;a href\u003d\u0026quot;http://www.sbrowning.com/vintage\u0026quot;\u0026gt;Steve Browning, www.sbrowning.com/vintage\u0026lt;/a\u0026gt;.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/apple_advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Thank you boss !\u0026quot; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The ad incite employees to ask their boss to buy these Apricot systems...clever.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/act_apricot-f2_ad_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US AD (JULY, 1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Eric Buczynski for this advert\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/spectravideo_SV318_ad_us_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BRAZILIAN ADVERT #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.museo8bits.com\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;www.museo8bits.com\u0026lt;/a\u0026gt; for this advert\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/prologica_cp400_advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The personal computer at the top of its form.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/triumph-adler_alphatronic-pc_ad_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPANESE LEAFLET\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.pugly.juice.or.jp/pugly/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Pugly\u0026lt;/a\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sharp_mz80c_leaflet.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPANESE ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/canon_X07_pub4.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sord_is11c_advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LEAFLET (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/interton_vc4000_promo-leaflet.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.K. AD. (AUG. 86)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;U.K. prices:\u0026lt;br\u0026gt; Monochrome: \u0026lt;b\u0026gt;\u0026pound;299\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; Colour: \u0026lt;b\u0026gt;\u0026pound;399\u0026lt;/b\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Amstrad_6128_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;NEW ZEALAND ADVERT  #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert says:\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; Imagine a microcomputer with all the design savvy, ruggedness, and sophistication of the best minicomputers.\u0026lt;br\u0026gt; Imagine a microcomputer supported by dozens of interface, memory and processor option boards. One that can be Interfaced to an indefinite number of peripheral devices including dual floppy discs, CRTs, line printers, cassette recorders, video displays, paper tape readers, teleprinters. plotters, and custom devices.\u0026lt;br\u0026gt; Imagine a microcomputer supported by extensive software IncludIng Extended BASIC, DISK BASIC, DOS and a complete library of business, developmental, and Industrial programs.\u0026lt;br\u0026gt; ImagIne a microcomputer that will do everything a mini will do, only at a fraction of the cost.\u0026lt;br\u0026gt; You are imagining the Altair 8800b. The Altair 8800b is here today, and it may very welt be the mainframe of the 70\u0027s. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The Altair 8800b is a second generation design of the most popular microcomputer In the field, the Altair 8800. Built around the 8800A microprocessor, the Altair 8800b is an open ended machine that is compatible with all Altair 8800 hardware and software. It can be configured to match most any system need.\u0026lt;br\u0026gt; MITS\u0027 plug-In compatible boards for the Altair 8800b now include: 4K static memory. 4K dynamic memory, 16K static memory, multi-port serial interface, multi-port parallel interface, audio cassette record interface, vectored interrupt, real time clock, PROM board, multiplexer, AID convertor, extender card, disc controller and line printer interface.\u0026lt;br\u0026gt; MITS\u0027 peripherals for the Altair 8800b include the Altair Floppy Disc, Altair Line Printer, teletypewriters, and the soon-to-be-announced Altair CRT terminal. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Introductory prices for the Altair 8800b are $840 for a kit with complete assembly instructions, and $1100 for an assembled unit. Complete documentation, membership into the Altair Users Club, subscription to \u0026quot;Computer Notes\u0026quot;, access to the Altair Software Library, and a copy of Charles J. Sippi\u0027s Microcomputer Dictionary are included.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Murray Moffatt\u0026lt;/b\u0026gt; from New Zealand \u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Mits_Altair8800b_Advert_s2.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [],
+  "image": "http://www.old-computers.com/museum/photos/VEB_8205_System_s1.jpg",
+  "builtInGames": "None",
+  "controllers": "",
+  "media": "2 paper tape punchers, 1 paper tape reader",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

@@ -1,0 +1,89 @@
+{
+  "name": "UK-101",
+  "manufacturer": "Compukit",
+  "type": "Home Computer",
+  "origin": "United Kingdom",
+  "year": "1979",
+  "production": "",
+  "language": "Microsoft BASIC",
+  "keyboard": "Full stroke 50 keys",
+  "cpu": "6502",
+  "speed": "1 MHz. (could be \u0027overclocked\u0027 at 2 MHz by modifying the clock divide circuit)",
+  "coprocessor": "None",
+  "ram": "4 KB expandable to 8 KB on board",
+  "vram": "1 KB",
+  "rom": "8 KB (Microsoft BASIC) + 2 KB monitor",
+  "text": "16 to 48 chars. x 16 lines",
+  "graphics": "None, but 128 graphic characters",
+  "colors": "Monochrome",
+  "sound": "",
+  "size": "unknown",
+  "ports": "Tape recorder (at 300 baud) and printer ports",
+  "power": "External AC transformer. Power regulation on board",
+  "price": "?249 in kit form",
+  "description": "\nMade in the UK by Compukit in New Barnet, North London, the UK-101 was originally a copy of the  Ohio Scientific Superboard II. Two years and various legal battles later the UK-101 became, technically, behind its erstwhile rival.\n\nYou could buy the UK101 as a kit or as ready made for an extra fee. The kit came in a cardboard briefcase, in which there were anti-static tubes containing the 65+ ICs, a box of IC sockets, and bags containing passives (mainly 0.1uF ceramic decoupling capacitors) and keyboard bits (the keyboard switches were soldered directly to the PCB).\n\nThe UK101 came with a transformer in a plastic case, which was rectified and regulated down to +5, the regulator\u0027s heatsink was far too small and it would run very very hot, causing the RF modulator to drift channel. Many people relocated the regulator off-board onto a bigger heatsink to solve both problems.\n\nIt came with an A4-size book authored by Dr. A.A. Berk, covering assembly, trouble-shooting, and circuit diagrams with descriptions.\n\nThe UK101 was based around the 6502 processor. On top of ASCII characters, 128 graphic characters were available in ROM. The RAM memory was expandable from 4 KB to 8 KB on board, or 40 KB with an expansion board.\n\nAt the time, The UK101 was heavily supported by Watford Electronics in the UK,  and by various electronics magazines who published circuits. There were many user groups and plenty of software available. It was thus possible to upgrade this machine beyond all recognision !\nSeveral cases were also  made and sold by a number of manufacturers.\n\n_______________________\n\nContributors: Paul Mansfield\n\nJohn reports to us:\nThere were 3 monitor chips available, this being the 8k rom. The only one I can remember the name of was the Cegmon, the latest in the series.\nThe 40 pin expansion slot offered some inpressive (for the time) abilites. Mine had a sound card in it but I also saw systems with colour, hard drives and 5.25 floppy systems.\n\nSome boards had links in them in place of the two sockets on your picture. These needed to be removed if you wanted to use the 40 pin expansion and a couple of 8T28s (buffer chips) put in their place. Other expansions I saw included a \u0027graphics\u0027 chip that could be switched in using software. A small pigiback board replaced the Normal character chip (which is the horizontal one in your picture) with the graphics rom and normal character rom slotted into it. This gave 256 additional characters, and since the replacement rom was an Eprom these new characters could be anything.\n\nProgramming was via Microsoft 8k Basic and involved a lot of Poke instructions to get it to do anything much. Overclocking was a breeze, but you had to get it right otherwise the screen divided into 4!\n\nMartin Ward adds:\nYou could upgrade the graphics RAM by \u0026quot;piggkbacking\u0026quot; two new RAM chips on top of the existing chips, with one pin sticking out sideways which had a flying lead soldered to it. This gave you 48 characters x 32 lines.\nThe tape recorder could also be \u0026quot;overclocked\u0026quot; to 600 or even 1200 baud!\nRAM cost about ?10 per K (?5 per 1KB x 4bit chip).\n\nDick Greening reports:\nAn interesting story is that one of the BBC engineers rewrote the garbage collection routine (in the Microsoft Basic 4 Rom I thing it was,) only to find later that somehow Microsoft had incorporated his routine in their new version of Basic. He was able to prove it was his program as he had encrypted his name in the program! \nSound a familiar story!\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;IVAN\u0027S SYSTEM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Handmade wooden case topped by a metal tray\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Compukit_UK101_RedCase_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;RUNNING\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Boot-up screen\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Ivan Gleaves\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Compukit_UK101_RedCase2running_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(1)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; UHF TV modulator. The UK-101, in its original version, could be connected only to a TV set.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(2)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Normally, the power regulator took place here\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(3)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; RAM chips (2104). the board is here equipped with 6 KB of RAM\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(4)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 6502 processor. Notice at its right hand side two empty sochets used for the optional RS232 interface\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(5)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 40-pin expansion socket\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(6)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 6850 ACIA (Asynchronous Communication Interface Adapter)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(7)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 2 KB monitor ROM\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(8)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 8 KB BASIC ROMs\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(9)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Character generator ROM\u0026lt;br\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Compukit_UK101_RedCase2inside_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MAINBOARD CLOSE-UP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Compukit_UK101_Mainboard_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR SIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The fan and the tape recorder In/Out sockets \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Compukit_UK101_RedCaseRear_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ANOTHER RED CASE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Compukit_UK101_RedCase_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This model features a RAM expansion card fixed on top of the main board.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Compukit_UK101_RedCaseInside_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK101 MANUAL \u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The manual gives constructional details, along with a technical description of the system and a reference description of the Microsoft BASIC language.\u0026lt;br\u0026gt; The cassette tape holds the Extended Monitor as well as some sample games in BASIC.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Compukit_UK101_Manual_s1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT (DEC. 1979)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to David Wilson for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/compukit_uk101_advert_dec1979.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;\u0026pound;149 IN JUNE 1981\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Compukit_UK101_AdvJune81.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;\u0026pound;99 IN JANUARY 1982\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Compukit_UK101_AdvLastSales.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [
+    "http://home.micros.users.btopenworld.com/uk101/uk101.html",
+    "http://www.cse.dmu.ac.uk/~mward/martin/software/UK101-tapes.zip"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/Compukit_UK101_Mainboard_s1.jpg",
+  "builtInGames": "Microsoft BASIC",
+  "controllers": "",
+  "media": "None",
+  "numGames": "",
+  "peripherals": "Supports all Ohio Scientific expansions",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

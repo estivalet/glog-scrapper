@@ -1,0 +1,137 @@
+{
+  "name": "ORB",
+  "manufacturer": "ABS Computer",
+  "type": "Professional Computer",
+  "origin": "United Kingdom",
+  "year": "1980 (?)",
+  "production": "",
+  "language": "Unknown",
+  "keyboard": "Unknown",
+  "cpu": "Intel 8086 / 80186",
+  "speed": "Unknown",
+  "coprocessor": "",
+  "ram": "256 KB, upgradable to 1 MB",
+  "vram": "",
+  "rom": "16 KB EPROM + 16K Nv RAM",
+  "text": "80 x 24",
+  "graphics": "None",
+  "colors": "Monochrome (green \u0026amp; black)",
+  "sound": "Unknown",
+  "size": "",
+  "ports": "8 serial ports, One parallel port",
+  "power": "Unknown",
+  "price": "Unknown",
+  "description": "\nThis information comes from Bruce Newman: \n\nThe Orb computer was designed and made by ABS Computers Ltd (Allied Business Systems) in the early 1980\u0027s. ABS was situated in Portslade (near Brighton) Sussex England. It was a multi-user system running the multi-user version of CPM.\n\nThe main processor unit was housed in the rectangular box along with the monitor logic card and two 800K 51/4 floppy drives. Sitting on top in the ball part was the monitor which was a rehoused mono Tatung RS232 terminal. There were Orb satellite units which again were rehoused Tatung RS232 terminals which had a flat base containing the Tatung logic card and a ball on top containing the screen, raster card and its PSU. All the housings were made of metal so you could have it sprayed any colour of your choice (The London Fire Brigade had bright red).\n\nThe idea was to have the main CPU unit with up to seven RS232 serial satellite terminals scattered around the office with a parallel printer. Serial printers could be used in place of two of the serial terminals.\n\nThe keyboards were made by Rafi in Italy and they were very flat with keycaps which flew off if you typed too fast!\n\nI believe up to 1 MB of memory could be fitted along with a SASI (early SCSI) board to run initially either a 10 MB or 20 MB external Rodime drive, fitted with a SASI-ST506 converter board or later versions could run an 85 MB Fujitsu Drive or an Arapaho cartridge drive. A Kennedy 1/4 Cartridge tape drive could also run externally off the SASI bus.  An external 8\u0026quot; floppy drive was also available.\n\nI think that ABS held the rights to the name \u0026quot;Multi-Buss\u0026quot; which Intel wanted to use so they did a deal which meant that ABS got the first batches of 8086 CPUs and Intel got the name. Unfortunately these early CPUs had a number of bugs in them, the 80186 was then used.  When all the bugs were sorted out they ran ok and it was one of the first, if not the first, multi-user user microprocessor systems. In true British tradition it was very badly marketed and not many were sold and they usually ended up being used as single user systems \u0026quot;PC\u0027s\u0026quot; running WordStar. Sales were better when the ball monitor was removed from the top and it was just a rectangular box which we called a \u0026quot;Flat top\u0026quot;. Another version was in a tower case which was called a \u0026quot;Torb\u0026quot;.\n\nThe development costs were high and a large number of components were bought in for the expected sales which never materialised. As the company was owned by the Trafalgar House Group (they also owned the Cunard shipping line and John Brown Engineering) they survived the losses. ABS were taken over by a company called Datapro Computers in 1994 and then they in turn were taken over by the 4Front Group, an American financed company, in 1997.\n\nThe main designer was a clever chap named Dave Goddard.\n \n\n\n",
+  "shot": [],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is a German advertisement for the BIT-60 and BIT-90 models. Atari VCS-2600 cartridges are scattered in front of the BIT-60, to show that the BIT-60 is really compatible with the VCS-2600 ! But strangely enough, there is no picture displayed on the TV. Were these models really  working ? ;-)\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/bit-corp_bit60-90_ad_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROMOTIONAL LEAFLET\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Juan Antonio Maestre for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/trQ_h21_ss_catalog.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT, OCT. 1983\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Fortune_3216_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT #5 (1979)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt;Compare the built-in features of leading microcomputers with the Atari personal computers. And go ahead, compare apples and oranges. Their most expensive against our least expensive: the Atari 400...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Atari_400-800_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT.\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/spectravideo_sv318_advert_bornes.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DAK ADVERT (US, 1986) - PAGE 2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.dak.com\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;DAK\u0026lt;/a\u0026gt; for this advert\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/visual_commuter_ad_dak_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This advert dated september 1983 says : \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026quot;\u0026lt;b\u0026gt;Orchid\u0026eacute;e : the fabulous computer\u0026lt;/b\u0026gt; (!)\u0026lt;br\u0026gt; With Orchidee, discover you can drive a formula 1 computer and never open the hood. Orchidee offers power and speed of a real professional computer with, as a gift, a lot of innovations never yet combined : interchangeable processors, including the fabulous IAPX 186, removable software cartridges, mouse, light pen. Whether you are a computer specialist or not, you have a fabulous professional tool.\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/symag_orchidee_pub_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Doctors, it gonna cure your work\u0026quot; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026quot;ITT 3030, the absolute intelligence\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/itt_3030_pub-medecins_1_s.gif"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1977 ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Iasis_ia7301_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1979)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Polymorphic_8813_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT \u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;advert said\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; ...If you want a computer that won\u0027t be obsolete in a few years, buy an MSX.\u0026lt;br\u0026gt; If you want one of the best-selling MSX computers in Japan, buy a Toshiba HX10.\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Toshiba_HX10_Advert5.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ABORTED ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;One of the aborted advert campaigns for the 8048 was \u0026quot;Micromania\u0026quot;.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thomas Fischer\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Imsai_8048_Advert_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT (1985?)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is an advert for the Power 3000 released in the USA.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://hem.passagen.se/clab/adam/lambda/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Adam\u0027s Lambda 8300 page\u0026lt;/a\u0026gt; for this picture.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/lambda_8300_advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROMOTIONAL PICTURE #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;The ZX-81 will soon become a precious work tool\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sinclair_zx81_promo-pic_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (JAN. 1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;TI 88/4A. The family computer.\u0026lt;br\u0026gt; It\u0027s easy. Connect it, connect yourself.\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/ti_ti994a_pub_jogger.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1978 BROCHURE #2 \u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/MSI_6800_Brochure_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1979)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt;You may not have thought of all the reasons for buying a personal computer. There are exciting games, of course, but what about financial management, household records, even income tax? You need a versatile, sophisticated machine that\u0027s as limitless as your imagination. You need the Compucolor ll...\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Compucolor_ll_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT (JUNE 1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Goupil presents its software\u0026quot; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; - S.BASIC programming language\u0026lt;br\u0026gt; - SPG2 accounting / management software\u0026lt;br\u0026gt; - VOLTAIRE word processing\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/smt_goupil2_ad_presente-logiciels.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/INTV_System3_ad_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ISAAC ASIMOV #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This November 1982 advert introduces the new CoCo 1 price : $299 instead of $399.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Even if the advert said:\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt;\u0026quot;Hurry - this fantastic offer ends december 31, 1982\u0026quot; \u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;the price never came back to $399.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Tandy_Color1_AsimovAd_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MEMORY BOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Vector Graphics also sold various cards for any S-100 systems. This one is a 8 Kb. static RAM card solded for $265 in kit version and $350 assembled.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/VectorGraphics_Vector1_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;You hesitate between two standards.\u0026quot;\u0026lt;br\u0026gt; \u0026quot;Rank Xerox doesn\u0027t.\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/xerox_16-8_ad_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT #5\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/commodore_vic20_ad_price-of-a-toy.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROMO PIC #4\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This guy is so good as running his budget that he has become rich and bought himself a TO-7/70 ! Or did he get rich since he bought its TO-7/70 ? Anyway he is now smoking cigars and reads stock market newspapers... great\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_to770_pub-budget.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [],
+  "image": "http://www.old-computers.com/museum/photos/orbs.jpg",
+  "builtInGames": "Unknown",
+  "controllers": "",
+  "media": "Two 5.25\u0027\u0027 disk drives (800 KB each)",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

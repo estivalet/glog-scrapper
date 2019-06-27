@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computer>
+    <adverts>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;PROMOTIONAL PICTURE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/timex_2068_promo-pic.jpg</link>
+        </advert>
+    </adverts>
+    <batteries></batteries>
+    <builtInGames>TS 2068 Basic</builtInGames>
+    <buttons></buttons>
+    <colors>16</colors>
+    <controllers></controllers>
+    <coprocessor></coprocessor>
+    <cpu>Z80A</cpu>
+    <description>
+This is the American version of the Spectrum. It has an additional 8K extension ROM, cartridge port, two joystick ports and AY-3-8912 sound chip with extra Sinclair BASIC commands to support these devices (STICK, SOUND). It was packaged in a hard plastic silver case with nonstandard plastic keys.
+
+The TS2068 is Timex's re-engineered 48K Spectrum. It was released in Fall 1983 just before Timex Computer Corp folded in Spring 1984. A rogue arm of Timex in Portugal continued to sell TC2068s (same as TS2068) and TC2048s (an improved Spectrum) until 1989. They, of course, were only allowed to sell in non-Sinclair controlled marketplaces.
+
+Timex recognized that a 48K Spectrum would not continue being competitive in North America for long without changes being made. They developed two computers that were to be North America's debut of the Spectrum. One was called the TS2048 and the other the TS2068. The TS2048 was basically a 48K Spectrum w/ Kempston joystick and the advanced video modes of the TS2068. The TS2068 was a completely different computer with the Spectrum as its roots. Timex decided to only sell the TS2068. When sales over Christmas 1983 were disappointing, they pulled the plug. Timex of Portugal, no doubt encouraged by the Spectrum's popularity in Europe, continued to sell the TS2068 and offered the TS2048 as the TC2068 and TC2048 in parts of Europe, notably Portugal and Poland. When Timex pulled the plug, they dumped all their surplus TS2068s in Argentina.
+
+As for Spectrum compatibilty: The tape I/O is the same so you can load Spectrum tape files.  Spectrum BASIC is a subset of the TS2068's BASIC, so you can run Spectrum BASIC programs.  The TS2068's ROM is different, though, so you can't run Spectrum m/c that makes use of the ROM. Without the aid of a Spectrum emulator, you can run about 7% of the Spectrum's commercially available software.
+
+The Spectrum emulator is really a Spectrum ROM on cartridge (there are other forms) that is bankswitched into the lower 0-16K region. The top 48K region is filled with RAM. To the software this looks exactly the same as a 48K Spectrum. There are a few hardware reasons for incompatibilities but using an emulator, you can reach 97% compatibility.
+
+________
+
+Text taken from Sinclair Computer Hardware Factsheet.
+Thanks Bob Johnson.
+ 
+
+
+</description>
+    <emulators/>
+    <graphics>256 x 192 (with 32x24 or 32x192 attributes), 512 x 192</graphics>
+    <gun></gun>
+    <hardwares/>
+    <image>http://www.old-computers.com/museum/photos/Timex_2068_System_1.jpg</image>
+    <keyboard>Chicklet keyboard</keyboard>
+    <language>TS 2068 Basic</language>
+    <links>
+        <link>computer.asp?st=1&amp;amp;c=639</link>
+        <link>computer.asp?st=1&amp;amp;c=935</link>
+        <link>http://members.fortunecity.com/johnnyred/</link>
+        <link>http://www.ts1000.us/</link>
+        <link>http://www.timexsinclair.org/</link>
+        <link>http://www.worldofspectrum.org/documentation.html</link>
+    </links>
+    <manufacturer>TIMEX / SINCLAIR</manufacturer>
+    <media></media>
+    <name>2068</name>
+    <numGames></numGames>
+    <origin>U.S.A.</origin>
+    <peripherals></peripherals>
+    <ports>Two joystick connectors, RF out, Composite video output, RGB video output, cartridge slot, tape-recorder</ports>
+    <power>DVE power supply, 15 V at 1 Amp DC, and with the outside sleeve of the plug positive and the inside negative.</power>
+    <price>US $199.99 (USA, 1983)</price>
+    <production></production>
+    <ram>48 KB</ram>
+    <rom>24 KB (16 KB + 8 KB Exrom)</rom>
+    <screenshots>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;KEYBOARD CLOSE-UP #1&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Timex_2068_Keyboard_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;KEYBOARD CLOSE-UP #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Timex_2068_Keyboard_2.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;ROM CARTRIDGES HOUSING&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Timex_2068_RightSide_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;LEFT SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Left joystick connector and On/Off switch&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Timex_2068_LetfSide_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;REAR CONNECTORS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;(1)&amp;lt;/b&amp;gt; Right joystick DB9 connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(2)&amp;lt;/b&amp;gt; Expansion connector trap door&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(3)&amp;lt;/b&amp;gt; Composite video RCA connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(4)&amp;lt;/b&amp;gt; Tape recorder In/Out jacks&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(5)&amp;lt;/b&amp;gt; External AC power adaptor jack&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(6)&amp;lt;/b&amp;gt; UHF modulator output for TV set connexion  &amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Timex_2068_Back_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;ROM CARTRIDGES&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Timex_2068_Cartridges_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;MOTHERBOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;(1)&amp;lt;/b&amp;gt; Left joystick DB9 connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(2)&amp;lt;/b&amp;gt; Power switch&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(3)&amp;lt;/b&amp;gt; Loudspeaker&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(4)&amp;lt;/b&amp;gt; RF modulator for TV connexion&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(5)&amp;lt;/b&amp;gt; Sound generator chip AY-3-8912 from General Insrtruments (3 voices, 9 octaves and white noises)&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(6)&amp;lt;/b&amp;gt; External power supply unit connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(7)&amp;lt;/b&amp;gt; Keyboard flat cable connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(8)&amp;lt;/b&amp;gt; Tape recorder Ear/Mic jack plugs&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(9)&amp;lt;/b&amp;gt; RCA plug for a composite video monitor&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(10)&amp;lt;/b&amp;gt; Zilog Z80A processor&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(11)&amp;lt;/b&amp;gt; Spectrum ULA chipset made in USA by NCR&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(12)&amp;lt;/b&amp;gt; 6 x 4416 chips hold 48 KB of RAM memory&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(13)&amp;lt;/b&amp;gt; BASIC and operating system ROM chips&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(14)&amp;lt;/b&amp;gt; ROM cartridges connector and housing&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(15)&amp;lt;/b&amp;gt; Right joystick connector &amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Timex_2068_MotherBoard_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;ULA AND SYSTEM ROM CLOSE-UP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Timex_2068_MotherBoard_2.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;THE BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Timex_2068_Box_1.jpg</link>
+        </shot>
+    </screenshots>
+    <size></size>
+    <sound>AY-3-8912 Sound Chip (same as 128K Spectrums)</sound>
+    <speed>3.58 Mhz</speed>
+    <switches></switches>
+    <text>32 x 24</text>
+    <type>Home Computer</type>
+    <vram></vram>
+    <year>Fall 1983</year>
+</computer>

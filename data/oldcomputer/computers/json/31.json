@@ -1,0 +1,225 @@
+{
+  "name": "A4",
+  "manufacturer": "Acorn Computer",
+  "type": "Portable",
+  "origin": "United Kingdom",
+  "year": "1991",
+  "production": "",
+  "language": "",
+  "keyboard": "84 keys with arrow keys",
+  "cpu": "ARM 3 (with 4 KB of internal RAM cache)",
+  "speed": "24 mHz (internal CPU) and 12 mHz (bus)",
+  "coprocessor": "",
+  "ram": "4MB",
+  "vram": "",
+  "rom": "2 MB",
+  "text": "Max : 132 x 30",
+  "graphics": "47 graphic modes, maximum 640 x 480 with LCD screen and up to 1152 x 896 with VGA screen",
+  "colors": "14 shades of grey (LCD screen)",
+  "sound": "8 voices (stereo 8 bit)",
+  "size": "",
+  "ports": "VGA, Centronics, RS232 C, stereo sound, Mouse, Keyboard",
+  "power": "External PSU",
+  "price": "?1395 (2Mb floppy version) up to ?1895 (4Mb HD120 version)",
+  "description": "\nThe Acorn A4 was the laptop version of the Acorn Archimedes and was one of the first RISC laptops  (and by the way, one of the most powerful - five times faster than a 50 MHz 486 for some operations).\n\nThe operating system (RISC OS 3.10) was located in the 2 MB ROM. The 9\u0027\u0027 LCD screen could only display 14 shades of grey, but used a clever dithering system to make more shades apparent.\n\nThe A4 could be used for about 3 hours with its internal batteries.\n\nRob Kendrick sent us more info :\nThe case is actually an Olivetti laptop case, with an A5000 in it. Olivetti owned large chunks of Acorn at the time. The main difference between an A5000 (a desktop machine) and a A4 is that the A5000 had a 16MHz memory bus and a 33MHz ARM3.\n\nIt had an advanced battery management unit that allows fine-grained control of the clock rate of the CPU (it can drop as low as 2MHz when the computer is idle and go back up to 24MHz when its busy) and the turning off of most of the hardware independently (such as the serial ports, floppy drive, hard drive etc)\n\nThe filing system doesn\u0027t fragment. At all.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ACORN A4\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The A4 used a slightly modified version of the Olivetti M15 laptop case.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_A4_Running_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TOP VIEW\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_A4_Topview_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BOTH SIDES\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;On the right hand side:\u0026lt;br\u0026gt; \u0026bull; 3.5\u0026quot; floppy disk drive\u0026lt;br\u0026gt; \u0026bull; Stereo headphone jack\u0026lt;br\u0026gt; \u0026bull; External standard AT keyboard mini-DIN socket\u0026lt;br\u0026gt; \u0026bull; Acorn mouse mini-DIN socket\u0026lt;br\u0026gt; \u0026bull; Serial RS232 DB9 connector\u0026lt;br\u0026gt; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; On the left hand side:\u0026lt;br\u0026gt; \u0026bull; Battery pack\u0026lt;br\u0026gt; \u0026bull; Trap door allowing to exchange ROM and RAM chips.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_A4_Sides_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR CONNECTORS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;From left to right:\u0026lt;br\u0026gt; \u0026bull; 2nd serial port\u0026lt;br\u0026gt; \u0026bull; External PSU connector\u0026lt;br\u0026gt; \u0026bull; Standard VGA 15-pin video output.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_A4_RearCon_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Note the battery pack, the slim size Epson floppy disk drive and the Conner 3.5\u0026quot; 60 MB hard disk drive.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_A4_Inside_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MOTHERBOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(1)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; LCD display connectors\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(2)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; VLSI Arm co-processors. They manage I/O\u0027s, video, memory, FDD \u0026amp; HDD.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(3)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Hard drive connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(4)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Floppy drive connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(5)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; ARM 3 processor\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(6)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; RISC OS 3.10 ROMs\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(7)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 4 MB RAM chips.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_A4_Mainboard_s1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROMOTIONAL PICT.\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The HP-150 was widely used in industry by engineers and scientists.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/HP_85_PromoPict_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is the home version of the Goupil 3, with only RGB video output and cassette interface. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; What a lucky girl !  Her father offered her a fantastic game machine (the game pictured here must be the only one available for the Goupil 3). This system is perfectly adapted to her small fingers and so delicate knees (have a look at this enormous keyboard, man !).\u0026lt;br\u0026gt; The father must have been working for S.M.T. (manufacturer of the Goupil), as I don\u0027t see any other logical explanation. No one would have made this to his child without fearing eternal reproaches.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Goupil_3_Ad_Games_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MAGAZINE COVER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The TO-7/70 made the cover of french magazine Micro7 on february 1985.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_to770_micro7.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FIRST ADVERT (1989)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This brochure was jointly published by Philips and American Interactive Media (the Philips/PolyGram joint venture that was set up to develop CD-i consumer software prior to the launch of the hardware). It was intented to give a general overview of CD-i\u0027s functionality in a consumer area. The brochure was presented to visitors of multimedia fairs and business partners at around 1989. The CD-i unit (including the remote control) that is displayed is an artist\u0027s impression of a player, it was never actually produced. The first consumer CD-i player, the CDI 910, appeared on the market in the US in October 1991.  \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt;Source \u003d \u0026lt;a href\u003d\u0026quot;http://www.icdia.org/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;The New International CD-i Association\u0026lt;/a\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.icdia.org/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;The New International CD-i Association\u0026lt;/a\u0026gt; for this picture.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/cdi_advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN BROCHURE #3\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Volken \u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Atari_Stacy_GermanDoc_s3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (JAN. 1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/exidy_sorcerer2_ad_voici.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROMO PIC #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;TO-7/70 playing AIRBUS, a flight sim...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_to770_pub-airbus.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sinclair_zx-sepctrum_advrte_sinclair-simpose.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. AD. (1983) #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;First advert - January 1983\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Oki_IF800_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. AD #2 (1983) \u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; The columbia MPC is shipped with fully suported software that will save you $3,000. Included is the entire self-teaching Perfect Software family: Perfect Writer, a word processor; Perfect Speller, a 50,000 word dictionnary; Perfect Filer, a data base manager; and Perfect Calc, a financial calculation system.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; In addition, you get MS-DOS, CP/M-86, Macro/86 assembler, BASICA, Asynchronous communication support, Diagnostics and the Columbia Tutor program...\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Columbia_PC_Advert_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;IBM T-SHIRT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/IBM_AT_T-shirt_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;AN ADVERTISING\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;I couldn\u0027t resist putting this photo here. The girl looks very happy, the ad said \u0026quot;The new System III can be provided with walnut floor cabinet\u0026quot;.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/cro_bural.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SAME IN GERMAN\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Altos_System5_GermanAd_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Teleplay advert for the Teleng Colourstars\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.geocities.com/doubledragon0uk//Home.html\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Double  Dragon Retro Mess\u0026lt;/a\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/teleng_colourstars_ad-teleplay.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (DEC. 1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Sorry, you don\u0027t play with me\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/rair_business-computer_ad_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH BROCHURE #4\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Jacques Sorro\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Oric_1_FrBrochure_s4.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FIRST AD.\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;January 1983\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Telcon needed customers payments before manufacturing the systems:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; Upon receipt of your check, we will forward an end-user agreement. Allow 6 to 8 weeks for delivery of the units. \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Telcon_Zorba_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (DEC.1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/philips_videopac-c52_advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;NEW ZELAND AD. (1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert says:\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; The renaissance machine is a \u0026quot;one-of-a-kind\u0026quot; system for the \u0026quot;one-of-a-kind\u0026quot; person who demands and will not settle for anything less than, the best.\u0026lt;/font\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Murray Moffatt\u0026lt;/b\u0026gt; from New Zeland\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Compucolor_ll_Advert_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH BROCHURE #3\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Jacques Sorro\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Oric_1_FrBrochure_s3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT, OCT. 1983\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Fortune_3216_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;NEW ZELAND AD (1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Murray Moffatt\u0026lt;/b\u0026gt; from New Zeland\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/APF_Imagination_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;RADIOLA ADVERT. 3\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/radiola_vg5000_advert3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. AD (1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Franklin_ACE1200_Advert_1.jpg"
+    }
+  ],
+  "hardware": [
+    {
+      "type": "CARDS",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Acorn_A39000_486card_1.jpg",
+          "description": "486 card||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;486 CARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Allowed Archimedes series computers to run 32-bit PC-DOS software.  It was delivered with a manual, a driver disk and PC-DOS 6.3\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Acorn_A5000_ColorCard_1.jpg",
+          "description": "Graphics accelerator||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GRAPHICS ACCELERATOR\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Graphics accelerator card (called \u0026quot;ColourCard\u0026quot;) for A3000, Archimedes and A5000.\u0026lt;br\u0026gt;  Company : Computer Concepts\u0026lt;br\u0026gt; Enhanced potential for Archimedes series including 15-bit desktop modes (i.e. 800*600 @ 256 colours).\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Chris Syntichakis\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Acorn_A5000_SCSICard_1.jpg",
+          "description": "Cumana SCSI card||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CUMANA SCSI CARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;16-bit SCSI-1 card\u0026lt;br\u0026gt;  Company: Cumana.\u0026lt;br\u0026gt; There are an external port for scanners/CD-ROM etc. and 2 internal ports for SCSI and Floptical drives.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Chris Syntichakis\u0026lt;/b\u0026gt; \u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Acorn_A5000_SerialCard_1.jpg",
+          "description": "Serial card||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SERIAL CARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;From Atomwide\u0027s site:\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; High speed serial card featuring three ports, each in the shape of a standard 9-pin \u0026lsquo;D\u0026rsquo; plug. Each port on the card is capable of running at up to 460,800 bits per second, and employs a 16-byte FIFO buffer to reduce loading on the host computer\u0026rsquo;s processor, so improving communications reliability. All serial cards are standard single-width podules, and are fully compatible with Atomwide 6 and 8-slot RiscPC backplanes.\u0026lt;/font\u0026gt; \u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Acorn_A4000_MidiCard_s1.jpg",
+          "description": "MIDI card||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MIDI CARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Allowed Archimedes systems to interact with any midi sound device.\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    }
+  ],
+  "emulator": [
+    {
+      "platform": "Windows emulator",
+      "name": "Arculator",
+      "link": "http://b-em.bbcmicro.com/arculator/",
+      "description": "An excellent Windows-based Archimedes emulator, plays many games and has simple usage."
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "Red Squirrel",
+      "link": "http://www.red-squirrel.org/",
+      "description": "An Emulator of Arm based Acorn machines for Windows 98/ME/2000/XP"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "Virtual Acorn",
+      "link": "http://www.virtualacorn.co.uk/",
+      "description": "Excellent but commercial software - £30 "
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "ARCHIE",
+      "link": "http://www.geocities.com/siliconvalley/campus/5427/",
+      "description": "Archie is an emulation of the Acorn Archimedes hardware (A3xx/A4xx/A3xxx) for DOS/Windows"
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d75",
+    "computer.asp?st\u003d1\u0026amp;c\u003d697",
+    "computer.asp?st\u003d1\u0026amp;c\u003d707",
+    "computer.asp?st\u003d1\u0026amp;c\u003d706",
+    "computer.asp?st\u003d1\u0026amp;c\u003d709",
+    "computer.asp?st\u003d1\u0026amp;c\u003d710",
+    "computer.asp?st\u003d1\u0026amp;c\u003d931",
+    "ftp://ftp.demon.co.uk/pub/archimedes/",
+    "ftp://ftp.pvv.unit.no/pub/arm",
+    "ftp://ftp.uni-stuttgart.de/pub/systems/acorn/",
+    "http://micros.hensa.ac.uk/micros/arch/riscos/arch-riscos.html"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/Acorn_A4_Running_s1.jpg",
+  "builtInGames": "one 3.5\u0027\u0027 disk-drive",
+  "controllers": "",
+  "media": "one 3.5\u0027\u0027 disk-drive",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

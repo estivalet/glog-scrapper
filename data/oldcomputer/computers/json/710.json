@@ -1,0 +1,137 @@
+{
+  "name": "Archimedes A5000",
+  "manufacturer": "Acorn Computer",
+  "type": "Professional Computer",
+  "origin": "United Kingdom",
+  "year": "1991",
+  "production": "",
+  "language": "BBC BASIC V",
+  "keyboard": "Full-stroke 102 keys PC-style",
+  "cpu": "ARM 3 32 bit RISC",
+  "speed": "25 or 33 Mhz.",
+  "coprocessor": "MEMC (memory), VIDC (Video and Sound), IOC (I/O)",
+  "ram": "2 to 4 MB",
+  "vram": "",
+  "rom": "2 MB",
+  "text": "80 columns x 25 rows up to 132 x 32",
+  "graphics": "VGA video output. Several graphic modes. Among them 640 x 256 or 512 pixels",
+  "colors": "4096",
+  "sound": "8 voices synthesizer",
+  "size": "43 (W) x 33.5 (D) x 9.8 (H) cm",
+  "ports": "Centronics, RS423, VGA, Econet, 4 expansion slots",
+  "power": "Built-in power supply unit",
+  "price": "From ?1,000 to ?1,800",
+  "description": "\nThe Acorn A5000 was an all new model of the Archimedes family replacing the A540.\nIt had 4 slots like previous models but a larger wider case making it look like a workstation computer.\n \nIt was built on the new fast ARM3 processor as used in the A4 laptop.  VGA output and new extra screen modes were introduced as well using cheap standardised IDE hard disks.  The keyboard was the quality \u0027Brisbane\u0027 model as used on the previous high end Acorns.  (Or could \u0027Brisbane\u0027 be the codename for the A5000, as I discovered it inside the keyboard PCB when I did some repairs on mine?)\n \nMany A5000s were fitted with SCSI controller cards and used with caddy-type external CD ROM drives for multimedia applications.\n \nEarly models had just 2MB of RAM with a slot to allow a 4MB RAM card to be mounted on top.  Later A5000s were slightly faster, had 4MB on the motherboard as standard and more generously sized hard disks.\n \nThere are rumours that some of the Liteon built Acorn AKF18 SVGA multisync monitors normally supplied with the A4000/A5000 were recalled as they could overheat and catch fire! :(\n \nInformation supplied by Jonathan Hayward\n\n \n \n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MAIN UNIT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Special thanks to \u0026lt;b\u0026gt;Jerome Mathevet\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_A5000_System_s3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;RUNNING\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;When no hard disk is found, the A5000 offers several applications available in ROM: Hardware and peripherals configuration, Time and alarm, Editor, Calc, Paint and Draw programs, as well as a complete help system.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_A5000_System_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;KEYBOARD CLOSE UP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Same keys layout as a standard PC-AT keyboard, apart from the Reset switch and mouse socket located on the back side.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_A5000_Keyboard_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR PANEL\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;An optional piggy-back card have to be installed to run the Econet network interface.\u0026lt;br\u0026gt; The video socket is a standard 15-pin model.\u0026lt;br\u0026gt; The parallel interface is bi-directional.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_A5000_BackSide_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;OPENED\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Note the 3.5\u0026quot; floppy drive (800 KB, 1.6 MB and 1.44 MB formatted capacities) and a Conner 420 MB IDE HDD.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_A5000_Opened_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MOTHERBOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This version has 4 MB on-board RAM. It is also equipped with a dual card 8 MB RAM expansion. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(1)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; I/O management VLSI custom chipset\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(2)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; VLSI custom video chipset\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(3)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Econet card connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(4)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 2 MB ROM chips. Hold the RISC OS 3 and several applications - Paint, Draw, utilities...\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(5)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 8 MB expansion RAM chips\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(6)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 4 MB on-board chips\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(7)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; ARM 3 processor, moved to the RAM expansion card\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(8)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; On-board memory management VLSI chipset\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(9)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Second memory management chipset, specific to the RAM expansion card\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(10)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Optional math coprocessor\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(11)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; IDE HDD and dual FDD connectors\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(12)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; HDD and FDD power leads.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_A5000_Inside_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;RAM EXPANSION CLOSE-UP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The RAM expansion is composed of two cards linked together by a flat cable:\u0026lt;br\u0026gt; \u0026bull; The RAM card is connected to the expansion slot,\u0026lt;br\u0026gt; \u0026bull; the CPU card is connected to the on-board CPU socket, the ARM CPU is thus moved to its new socket. The card also holds a specific memory management chipset.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_A5000_CpuExp_s1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ENGLISH LEAFLET\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Intended for educational market.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Acorn_A5000_Advert_1.jpg"
+    }
+  ],
+  "hardware": [
+    {
+      "type": "CARDS",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Acorn_A39000_486card_1.jpg",
+          "description": "486 card||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;486 CARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Allowed Archimedes series computers to run 32-bit PC-DOS software.  It was delivered with a manual, a driver disk and PC-DOS 6.3\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Acorn_A5000_ColorCard_1.jpg",
+          "description": "Graphics accelerator||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GRAPHICS ACCELERATOR\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Graphics accelerator card (called \u0026quot;ColourCard\u0026quot;) for A3000, Archimedes and A5000.\u0026lt;br\u0026gt;  Company : Computer Concepts\u0026lt;br\u0026gt; Enhanced potential for Archimedes series including 15-bit desktop modes (i.e. 800*600 @ 256 colours).\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Chris Syntichakis\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Acorn_A5000_SCSICard_1.jpg",
+          "description": "Cumana SCSI card||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CUMANA SCSI CARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;16-bit SCSI-1 card\u0026lt;br\u0026gt;  Company: Cumana.\u0026lt;br\u0026gt; There are an external port for scanners/CD-ROM etc. and 2 internal ports for SCSI and Floptical drives.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Chris Syntichakis\u0026lt;/b\u0026gt; \u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Acorn_A5000_SerialCard_1.jpg",
+          "description": "Serial card||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SERIAL CARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;From Atomwide\u0027s site:\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; High speed serial card featuring three ports, each in the shape of a standard 9-pin \u0026lsquo;D\u0026rsquo; plug. Each port on the card is capable of running at up to 460,800 bits per second, and employs a 16-byte FIFO buffer to reduce loading on the host computer\u0026rsquo;s processor, so improving communications reliability. All serial cards are standard single-width podules, and are fully compatible with Atomwide 6 and 8-slot RiscPC backplanes.\u0026lt;/font\u0026gt; \u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Acorn_A4000_MidiCard_s1.jpg",
+          "description": "MIDI card||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MIDI CARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Allowed Archimedes systems to interact with any midi sound device.\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Acorn_A5000_RamCard_1.jpg",
+          "description": "RAM card||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;RAM CARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;2MB RAM Expansion for A5000.\u0026lt;br\u0026gt; Company: RISC Developments.\u0026lt;br\u0026gt; To increase the max RAM to a total of 4MB.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Chris Syntichakis\u0026lt;/b\u0026gt; \u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    }
+  ],
+  "emulator": [
+    {
+      "platform": "Windows emulator",
+      "name": "Arculator",
+      "link": "http://b-em.bbcmicro.com/arculator/",
+      "description": "An excellent Windows-based Archimedes emulator, plays many games and has simple usage."
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "Red Squirrel",
+      "link": "http://www.red-squirrel.org/",
+      "description": "An Emulator of Arm based Acorn machines for Windows 98/ME/2000/XP"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "Virtual Acorn",
+      "link": "http://www.virtualacorn.co.uk/",
+      "description": "Excellent but commercial software - £30 "
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "ARCHIE",
+      "link": "http://www.geocities.com/siliconvalley/campus/5427/",
+      "description": "Archie is an emulation of the Acorn Archimedes hardware (A3xx/A4xx/A3xxx) for DOS/Windows"
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d31",
+    "computer.asp?st\u003d1\u0026amp;c\u003d75",
+    "computer.asp?st\u003d1\u0026amp;c\u003d697",
+    "computer.asp?st\u003d1\u0026amp;c\u003d707",
+    "computer.asp?st\u003d1\u0026amp;c\u003d706",
+    "computer.asp?st\u003d1\u0026amp;c\u003d709",
+    "computer.asp?st\u003d1\u0026amp;c\u003d931"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/Acorn_A5000_System_s1.jpg",
+  "builtInGames": "BBC BASIC V",
+  "controllers": "",
+  "media": "3.5\u0027\u0027 FDD (800 KB, 1.44 MB and 1.6 MB formatted capacities), HDD from 20 MB",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

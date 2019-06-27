@@ -1,0 +1,70 @@
+{
+  "name": "System 816",
+  "manufacturer": "Compupro",
+  "type": "Professional Computer",
+  "origin": "U.S.A.",
+  "year": "March 1983",
+  "production": "",
+  "language": "None",
+  "keyboard": "Serial video terminal",
+  "cpu": "8085, Z80, 8088, 8086, 80286, NS 16032, Motorola 68000",
+  "speed": "Depending of the CPU",
+  "coprocessor": "",
+  "ram": "From 16 KB to 1 MB",
+  "vram": "",
+  "rom": "Depending of the board",
+  "text": "80 chars. x 25 lines",
+  "graphics": "None",
+  "colors": "Monochrome",
+  "sound": "",
+  "size": "",
+  "ports": "6, 12 or 20-slot motherboards",
+  "power": "Built-in power supply unit",
+  "price": "From $5500 up to almost $20,000",
+  "description": "\nThe Compupro 8/16 system was one of the last, big, expensive CP/M system\nthat appeared at the end of the S-100 Bus and 8-bit professional systems\nera.\nIt was actually a typical S-100 box where the user could insert almost any\nS-100 card build by the manufacturer or anybody else.\nAs Compupro manufactured a large range of S-100 card, the system could be\nfitted with either 8-bit and/or 16-bit processor cards. One of the\nbest-selling card was a dual processor 8088 + 8085 that allowed running\nboth 8 bit CP/M and 16 bit MP/M software, at a speed of 2 or 5 Mhz, in a\nmulti-user, multi-tasking environment.\nSeveral advanced CPU cards were available later: Z80 at 8 Mhz,  Intel 80286\nand National Semiconductor 16032.\nDue to the large range of available CPU cards, practically all operating\nsystems and programming languages of the time could be used.\nIt appears that Compupro still exists and offers a limited support, spare parts\nand manual hard copies.\n\n\n\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This 816 version was composed of:\u0026lt;br\u0026gt; \u0026bull; CompuPro RAM22 256K static RAM card\u0026lt;br\u0026gt; \u0026bull; CompuPro CPU-Z card\u0026lt;br\u0026gt; \u0026bull; CompuPro System Support 1 card (Math coprocessor, RTC, timers, interrupt controller, serial port)\u0026lt;br\u0026gt; \u0026bull; CompuPro Disk1 DMA Floppy Disk Controller card\u0026lt;br\u0026gt; \u0026bull; CompuPro Disk3 DMA Hard Disk Controller card\u0026lt;br\u0026gt; \u0026bull; CompuPro Interfacer 4 card with 3 serial ports, Centronics printer port and general-purpose parallel port.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Compupro_816_Inside_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Seen from above\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Compupro_816_Inside_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FD/HD UNIT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Compupro_816_WithFDunit_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE FD/HD UNIT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This unit holds two Misubishi 8\u0026quot; DSDD floppy disk drives and a Quantum 5.25\u0026quot; 36 MB ATA hard disk drive.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Compupro_816_InsideFDunit_s1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;816/C VERSION\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The 816/C version was a multi-user system featuring:\u0026lt;br\u0026gt; - Dual CPU (8085 + 8088) motherboard\u0026lt;br\u0026gt; - 384 KB of RAM, expandable to 1 MB\u0026lt;br\u0026gt; - 2 x 1.2 MB 8\u0026quot; F.D. drives\u0026lt;br\u0026gt; - 9 serial ports\u0026lt;br\u0026gt; - 3 to 16 users expansion\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; As the magazine \u0027computer Age\u0027 said, this system was almost twice as quick as an IBM-PC. \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Compupro_816_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. AD. (1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Compupro_816_Advert_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. AD. (JUN. 83)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; We\u0027ve wired CompuPro savvy into three of the industry most potent new processor chips. The result: more performance, more quality, more reliability, and higher speed for greater throughput than ever before.\u0026lt;br\u0026gt; CPU 286 and CPU 16032 can upgrade present systems to state-of-the-art operation, or serve as powerful fundations for new systems. CPU 68K, aside from being a superd CPU board, is also the core of our system 816/68K.\u0026lt;br\u0026gt; As always, CompuPro kept an eye on the future in designing these CPUs. With a CompuPro, you don\u0027t shudder a fast-changing technology, you welcome it.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; We give you brains and brawn in one box, and that\u0027s beautiful. \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Compupro_816_Advert_4.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [],
+  "image": "http://www.old-computers.com/museum/photos/Compupro_816_System_1.jpg",
+  "builtInGames": "None",
+  "controllers": "",
+  "media": "External 8\u0027\u0027 F.D. drives",
+  "numGames": "",
+  "peripherals": "S-100 boards",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

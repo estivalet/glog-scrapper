@@ -1,0 +1,146 @@
+{
+  "name": "Challenger",
+  "manufacturer": "Gemini",
+  "type": "Professional Computer",
+  "origin": "United Kingdom",
+  "year": "1985",
+  "production": "1987",
+  "language": "None",
+  "keyboard": "Full stroke 101-key with numeric keypad and 16 function keys",
+  "cpu": "Motorola 68000",
+  "speed": "12 MHz",
+  "coprocessor": "",
+  "ram": "512 KB",
+  "vram": "",
+  "rom": "16 KB",
+  "text": "80 or 132 chars. x 25 lines",
+  "graphics": "768 x 576 - 16 to 16 million col. / 1024 x 1024 - 64 col.  with optional video card",
+  "colors": "16 up to 16 million",
+  "sound": "Unknown",
+  "size": "19.25 (W) x 16 (D) x 5.75 (H) ins",
+  "ports": "SCSI, Parallel, 2 x Serial RS232, 4 x 68K expansion slots",
+  "power": "Built-in 100Watt switching power supply unit",
+  "price": "From ?4750 to ?9500",
+  "description": "\nBefore the Challenger came out, Gemini products were based around the Z80 processor and the company\u0027s 80-bus architecture. They did well in applications where costumers wanted a highly-specialized product.\n\nAt first sight, the Challenger looked like an ordinary PC-compatible computer. The monitor  was a Wyse WY-50 remote terminal finished as the same colours as the main box. However, the Challenger\u0027s main processor was a 12 MHz Motorola  68000 linked with 512 KB of RAM. This configuration made the Challenger a very high speed 16-bit system for the time.\n\nWhile designing the Challenger, Gemini designers also created a new 68000 proprietary bus called 68K, which was originally a 16-bit bus but was later extended to 32-bit when the 68020 became available. Four 68K slots were available on the Challenger mainboard. They also designed an impressive graphic card based on the Hitachi HD63484 graphic processor and consisting in two piggy-back full length cards plugged into a 68K slot. Maximum resolution was 1024 x 1024 pixels with  16 million available colours. \n\nThe Challenger was delivered with a wide range of operating systems:\n- MBOS a business-based multi-user O.S.,\n- Mirage Another multi-user O.S. but more esoteric,\n- TDI p-System, the British version of UCSD p-System well known for its UCSD Pascal language,\n- CP/M 68k, the 68000 version of the 8-bit O.S. which was never very popular.\nEach of these O.S. could cohabit into several partitions of a same hard disk.\n\nDespite it\u0027s advanced features, the Challenger never met success, neither as a businness machine as very few software were developped for it, nor as a development system as the 68K bus never was carried by other manufacturers.\n\nThe last machine made by Gemini was a beautifully built IBM clone using a motherboard designed by British Aerospace. But it was too expensive and couldn\u0027t compete against far east production. Gemini finally disappeared about one year after the Challenger was launched.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BACK SIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; SCSI 50-pin connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; 2 x Serial RS232 DIN plugs\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; Power switch, mains plugs and fan\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(4)\u0026lt;/b\u0026gt; Configuration switches\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(5)\u0026lt;/b\u0026gt; Parallel printer connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(6)\u0026lt;/b\u0026gt; Reset switch\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(7)\u0026lt;/b\u0026gt; Housing for 4 x 64K bus cards\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Gemini_Challenger_Back_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PRICE LIST, NOV. 1985\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Henk Bekkers\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Gemini_Challenger_Price list_s1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (JAN. 1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/northstar_horizon_ad_locasyst_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BROCHURE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/soe_oc2000-black_catalogue.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1982 HEATHKIT CENTERS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Heathkit_H89_Advert_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPANESE ADVERTISEMENT #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;She seems quite happy with her new MB-H1 !\u0026lt;br\u0026gt; Do you think japanese girls used to bring their H1 to school ?!\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Hitachi_mbh1_pub2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;\u0026pound;99 IN JANUARY 1982\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Compukit_UK101_AdvLastSales.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. AD #2 (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Same arguments as #1\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/NorthStar_Advantage_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SAME WITH A MAN\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Less impressive...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Osborne_1_Advert_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BROCHURE - COVER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.retrorene.nl/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Retro Rene\u0027s Gaming Corner\u0026lt;/a\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/ormatu_spelcomputer-2001_brochure_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Jacquard_J500_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Einstein\u0027s face probably means: Buy a ZX-81 and you will become a new genius...\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Karl_Heinz  -  www.sharpmz.org\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sinclair_ZX81_GermanAd_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Pravetz Apple II compatible technology and price  are compared with the IBM compatible Pravetz 8C.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Bojidar Stefanov\u0026lt;/b\u0026gt; for the English translation\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Pravetz_Imko_AdvertCompar_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;NEWBURRY BROCHURE #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;According to this brochure, Newbury had four models:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Model M: Main Only\u0026lt;br\u0026gt; Model MB: Main and with Batteries and display\u0026lt;br\u0026gt; Model MD: Mains only with display\u0026lt;br\u0026gt; Model MBS: Main and with Batteries and display with special low power consumption.  \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;www.oldcomputers.freeserve.co.uk\u0026lt;/b\u0026gt; \u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Grundy_Newbrain_Leaflet_Newburry_Inside.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT, JUL 1985\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Byte Magazine\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Ampere_WS1_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (NOV. 1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The advert says that 37 cartridges are already available and that a BASIC programming cartridge is on the way (though it will never make it to the shelves). \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The advert also clearly says that the system comes from America and that it offers Arcade Hits at home.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/advision_home-arcade_advert_american-connection.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FIRST AD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;February 1983 - The real-size system picture occupied almost the full right page. \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/HP_75C_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Picture courtesy of \u0026lt;a href\u003d\u0026quot;http://www.sbrowning.com/vintage\u0026quot;\u0026gt;Steve Browning, www.sbrowning.com/vintage\u0026lt;/a\u0026gt;.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/commodore_vic20_ad_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MAIL ORDER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Computer assisted mail-order \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; As soon as the home computers could communicate easily through modem with large computer sites, the major mail-order companies had the idea to sell products to the computers users. This  concept was facilitated in France by the free distribution of the \u0027Minitel\u0027 Videotex terminal that was gradually integrated into home computers. The success gained by this system in France did not have any equal in the rest of the world.  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Thomson_TO7_MailOrder_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DIAGRAMS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;PMI-80 diagram located in the case cover.\u0026lt;br\u0026gt; If you are interested in more diagrams of the PMI-80, dowload this zipped \u0026lt;a href\u003d\u0026quot;http://www.old-computers.com/Museum/downloads/Tesla_PMI80_Diagrams.zip\u0026quot;\u0026gt;file\u0026lt;/a\u0026gt; holding three diagrams of the whole system.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Tesla_Pmi80_CaseCover_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.K. AD. (DEC. 1985)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Commodore_128_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LAST SALES\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This advert (a bargain!) was published in the U.K. in September 1987\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Memotech_MTX512_Advert_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1978 BROCHURE #19\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;As the picture is quite unreadable, we have replaced it with a plain text copy.  \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; What kind of diskettes do you recommend for use with the FD-8?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; We have our diskettes manufactured by the Dysan Corporation. They are packaged for us under the MSI label and have proven to be the most reliable diskettes available for use with the FD-8. We have tried other manufactur\u0026shy;ers but have found none to be as reliable as Dysan. We pay more money for Dysan diskettes and, as a result, cannot offer them at a price quite as competitive as some other manufac\u0026shy;turers. However, we feel that the reliability is most important. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; Does the FD-8 use IBM compatible format?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; The FD-8 is not IBM compatible since we use hard-sectoring on the diskette. Our format uses 16 sectors of 256 data bytes each per track. In addition, track and sector identification, checksum (CRC), and other error checking information is written on each sector in addition to the data. This gives a total capacity of 315,392 bytes of data which can be stored per diskette. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; What are diskette hardholes, and what do they do?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; Hardholes are small mylar doughnuts which may be affixed to the center hole of a diskette for additional protection. It is possible to damage the center hole of a diskette if it is not properly centered at the time the disk drive door is closed. The mylar doughnut serves to reinforce the center hole of the diskette and give it additional protection against damage. The hard hole also provides for additional fric\u0026shy;tion between the diskette and the clamping hub in order to provent slippage of the diskette dur\u0026shy;ing rotation. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; Does MSI offer application software packages?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; MSI is in the process of developing ap\u0026shy;plication software for use with the FD-8 System. We will be offering a library of standard busi\u0026shy;ness programs for accounting, inventory and mail list applications in the near future. These programs will be written in BASIC using the disk data file capability of the FD-8. The availability of application software will be announced in periodic MSI newsletters and will be made available to FD-8 users for a small copying charge plus the cost of the diskette. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; Does a user program library exist for the MSI FD-8 Disk System?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; We are in the process of organizing a user group for the FD-8. Users of the FD-8 System are encouraged to submit programs which may be included in the user library. Member\u0026shy;ship in the user group may be achieved by either submitting a program for publication or by payment of a nominal membership fee. Membership then entitles the user to receive periodic listings of user library contents and newsletters. Programs contained within the user library will be made available for a small copying charge. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; What is the difference between MSI TAPE BASIC and MSI BASIC used with the FD-8 Disk System?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; We have added several features to the MSI version of BASIC. We offer multiple statements per line, user defined verbs, a string\u0026shy;length command which allows strings up to 128 characters to be used, and have increased the speed of execution. In addition, we have completely removed the dependence upon the MIKBUG ROM and MIKBUG RAM areas. The stack pointers have been moved to the user program area, and the input/output routines for each of the ports are fully documented so that these can be easily changed. Interrupts are now allowed and can be used to vector the program to a user subroutine and then return to BASIC. We are also developing multi-user BASIC which will be released in the near future. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; Can MSI BASIC and the disk operating system be relocated?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; Essentially, no difference exists between the two versions of BASIC insofar as the BASIC interpreter is concerned. The tape version has disk and DOS commands removed from its library. The interpreter resides from memory location $0100 to $1 FFF in both versions. In addition, memory locations below $0100 are used as pointers. In the Disk version, memory locations from $2000 - $2FFF are used to con\u0026shy;tain disk driver subroutines, DOS, and other file handling routines. User memory begins at $2000 for the tape version and $3800 in the Disk version of BASIC. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; What is the difference between SWTP 8K BASIC and MSI BASIC?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; It is not considered feasible to attempt relocation of these programs since so many of the individual routines which are used in the disk operating system are integrated. It would require a major revision of the disk operating system, BASIC, coresident assembler/editor and other associated utility programs before such a relocation could be performed. However, a version of MSI BASIC will soon be available on PROM which will reside at a high memory location. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; How difficult is it to run MSI BASIC and the disk operating system on the Motorola Ex\u0026shy;orciser, or other 6800 based microcomputer systems?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; The primary changes which must be made are in the input and output character routines. These routines must be changed in all MSI software so as to be compatible with the sys\u0026shy;tem on which software is running. In addition, the PIA Interface which communicates with the disk, the FD-8, is presently located at mem\u0026shy;ory address $801 C. A PIA residing at this ad\u0026shy;dress will also be necessary, or alternatively, this address must also be changed in the disk driver subroutines. Several different versions of the MSI software package are currently being developed for use with other 6800 systems. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; Will MSI BASIC handle tape commands as well as disk?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; Yes, the commands TSAVE AND TLOAD are used with the tape, whereas the commands SAVE and LOAD are reserved for use with the disk. It is also possible to place a label at the front of a block which is saved on tape. When this label is specified during a LOAD opera\u0026shy;tion, the program will search for the appropriate block on tape before loading in the information which has been stored on the tape. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; Will MSI BASIC handle data files?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; Yes, both random and sequential data files are available for the disk system under MSI BASIC. Named files for object code, source code, BASIC program, and BASIC data files are all available. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; I have heard that 1702A PROMs are too slow for use with 6800 systems running at full clock speed. Is this true?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; This is not true, if the memory addressing scheme employed by MSI is used to address the 1702A PROMs. The MSI PROM/RAM Board does not employ Phase 2 of the clock in the memory addressing scheme. This permits a tolerable memory access time of approxi\u0026shy;mately 9OQns. MSI uses 650ns access time 1702A PROMs in all applications. This provides completely satisfactory reliability of operation. We have experienced no problems whatsoever when using fast 1702As. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; Can I buy a Bootstrap routine on PROM in order to bring the disk system into operation quickly?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; Yes, MSI is presently delivering a 512 byte Bootstrap Program known as Short Boot. This routine is available on a two-PROM set using 1702A PROMs for use with the MSI PROM/RAM Board. Short Boot and the PROM Board are delivered with most Disk Systems. This allows the disk to be placed into operation by simply executing the Bootstrap routine which is orged at $COOO. The system then responds immediately with DOS READY and programs may then be called immediately by file name. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; I am interested in purchasing MSI software but am having a hard time evaluating its use\u0026shy;fulness. May I purchase the documentation for your disk system and BASIC separately for evaluation?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; Yes, the complete operating manual for the FD-8 Disk System may be purchased sep\u0026shy;arately for $35.00. This manual includes as\u0026shy;se\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/MSI_6800_Brochure_s19.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROMOTIONAL PICTURE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/rowtron_televisioncomputersystem_promopicture.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ITALIAN AD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Commodore_64_AdItaly_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. AD (1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The Basis 108. Microcomputin\u0027g \u0026quot;Best Of Both Worlds\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Basis_108_USAdvert_2.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [],
+  "image": "http://www.old-computers.com/museum/photos/Gemini_Challenger_System_1.jpg",
+  "builtInGames": "None",
+  "controllers": "",
+  "media": "1 x 5.25\u0027\u0027 1.2 MB floppy disc drive, Hard disks from 20 to 70 MB",
+  "numGames": "",
+  "peripherals": "SCSI peripherals, 68K bus cards",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

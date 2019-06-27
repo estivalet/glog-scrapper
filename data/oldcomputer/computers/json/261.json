@@ -1,0 +1,84 @@
+{
+  "name": "Z-100/110/120",
+  "manufacturer": "Heathkit / Zenith",
+  "type": "Professional Computer",
+  "origin": "U.S.A.",
+  "year": "june 1982",
+  "production": "",
+  "language": "Unknown",
+  "keyboard": "Full-stroke keyboard with separated numeric keypad and function keys. 95 keys.",
+  "cpu": "Intel 8085 (8 bits) @ 5 MHz \u0026amp; Intel 8088 (16 bits) @ 5 MHz",
+  "speed": "",
+  "coprocessor": "",
+  "ram": "128 KB, up to 768 KB through 64 KB or 256 KB modules",
+  "vram": "64 KB (up to 192 KB)",
+  "rom": "16 KB (boot + control tests), up to 64 KB",
+  "text": "80 x 24 + 1 independant line. (characters matrix : 8 x 9)",
+  "graphics": "640 x 500 (semi-graphic mode with 33 special characters available), 640 x 225 (8 colors) - available with a color monitor",
+  "colors": "8",
+  "sound": "Built-in speaker",
+  "size": "Z-120 : 49,5 x 49,5 x 34,3 cm / 22,7 KgZ-110 : 49,5 x 49,5 x 18,1 / 18,1 Kg",
+  "ports": "2 x RS232 connectors, 1 x parallel / Centronics connectors, S-100 bus connector (IEEE 696), phone/light-pen connector, 5 x expansion slots, RGB connector, Composite video output",
+  "power": "Built-in Power Supply Unit",
+  "price": "About $1,800+ - 7408   (France, february 1983)",
+  "description": "\nThe Z-100 series professional systems were bi-processor computers. They used an 8-bit Intel 8085 to keep the CP/M compatibility and thus run a wide range of professional software, and a 16-bit Intel 8088 to run MS-DOS or IBM PC/DOS OS\u0027s\n\nTwo models were released: the Z-110 (pictured) which could display color graphics and was delivered with monochrome or colour monitor, and the Z-120 which had a built-in monochrome (green, amber or white) monitor.\n\nZ-Basic was the only language supported by Zenith directly. It was an extra-cost option on most packages. It could handle colors and graphics.\n\nThe professional keyboard was quite complete with 95 keys, a separate numeric keypad, 7 editing keys and 12 function keys. All the keys could be redefined by software. \n\nA wide range of expansions could be added to the Z-100. They came from Zenith directly, or from third companies, installed by dealers: one or two 1 MB 8\u0026quot; disk drives, 5, 10 or 20 MB hard disk, 64 and 256 KB memory modules, expansion card with 6 x RS232 connectors, analogue/digital conversion card, etc. The computer also had five S-100 bus connectors which offered a lot of possibilities. \n\nThe Z-100 was a very fast machine, one of the fastest in its category in fact. It was thus often used in a multi-user configurations, using Forth-Multix or Prologue operating systems.\n\nThe 8088 ran at 5 MHz initially, and then later at 8 MHz. The first boards could handle 192K RAM, but later boards could have up to (and use) 768K on the main board. The default Video RAM was 64K, but allowed 3 banks for up to 192K for full color.\n\nThe disk controller had support for four 5.25\u0026quot; and four 8\u0026quot; floppy drives, though OSs including CP/M and Z-DOS supported only two of each. The earliest models (pictured here) had full height, but later models had half height drives. There was a hack later on that allowed for four 5.25\u0026quot; drives under MS-DOS 2.x. A Winchester hard disk (5 or 10 MB) could also be connected.\n\nThese models were also available as the Heathkit H-100 series, sold then as kits. In these versions the monitor and video boards were preassembled, but user actually had to assemble the controller board and the analog video circuit on the monitor board.\n\nHere are some software available for the Z-100 serie: CP/M 85, CP/M 86, MS-DOS 2.0, Prologue, Forth-Multix, Assembler, interpreted \u0026amp; compiled Basic, Pascal, Fortran, Cobol, C language, Forth, Condor file manager, DBase II, Multilog, JTBase, Infostar, Lotus 1-2-3, Multiplan, Supercalc, Wordstar, Spellbinder...\n\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Z-110\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Zenith_Z100_System_s5.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Z-120\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/zenith_z100_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Z-110 WITH MONITOR\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Z-110 with Zenith monochrome green monitor.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Zenith_Z100_WithMonitor_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SIDE VIEW\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Zenith_Z100_WithMonitor_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;RUNNING\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Z-110 running a ZBASIC graphic demo.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Zenith_Z100_Running_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;OPENED\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(1)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Switching power supply unit\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(2)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; S-100 slots\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(3)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Floppy disk controller. The flat cable provides connection to an external 8\u0026quot; or 5.25\u0026quot; FDD unit\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(4)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Dual full height 5.25\u0026quot; double sided, single density FDD\u0027s\u0026lt;br\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Zenith_Z100_Opened_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;OPENED #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Keyboard and floppy disk drives are taken apart. Note the add-on video card fixed to the motherboard.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Zenith_Z100_Inside_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MOTHERBOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(1)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; S-100 bus connectors. One of them is used for the FDD controller card\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(2)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Intel 8085 processor\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(3)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; NEC V20 processor, 8 MHz compatible version of the 8088\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(4)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 16 KB BIOS ROM. Holds both CP/M et MS-DOS BIOS\u0027s\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(5)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Keyboard connectors\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(6)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 768 KB RAM chips - 3 banks of 8 x 41256 + 1 parity chip\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(7)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Video card connectors.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Zenith_Z100_Motherboard_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;USER\u0027S MANUAL\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Zenith_Z100_Manual_s1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (SEPTEMBER 1984)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/zenith_z100_advert_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [
+    "http://home.earthlink.net/~z100lifeline/"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/Zenith_Z100_System_s3.jpg",
+  "builtInGames": "Unknown",
+  "controllers": "",
+  "media": "2 x 5\u0027\u00271/4 disk-drives (320 KB each)",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

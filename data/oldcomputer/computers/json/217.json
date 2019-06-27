@@ -1,0 +1,146 @@
+{
+  "name": "M 5",
+  "manufacturer": "Sord",
+  "type": "Home Computer",
+  "origin": "Japan",
+  "year": "1982",
+  "production": "",
+  "language": "Basic-G, Basic-I and Basic-F delivered on cartridges",
+  "keyboard": "Calculator type, 55 keys. Upper/lower case letters, 64 graphic symbols, 28 Basic statementsFUNC, CTRL, SHIFT (x 2), RETURN, SPACE, RESET",
+  "cpu": "Zilog Z80A",
+  "speed": "3.58 MHz",
+  "coprocessor": "Z80A-CTC (timer), TMS 9929 (video processor), SN76489AN (Sound Generator)",
+  "ram": "4 KB (up to 36 KB)",
+  "vram": "16 KB",
+  "rom": "8 KB (up to 28 KB)",
+  "text": "40 x 24 (characters matrix: 6 x 8 pixels)",
+  "graphics": "32 x 24 (character matrix 8x8), 64 x 48 (character matrix 4x4), 256 x 192 (full graphic)",
+  "colors": "16",
+  "sound": "SN76489AN: 3 voices (6 octaves), 1 noise channel, 7 special sounds",
+  "size": "10.5\u0027\u0027 (wide) x 7.25\u0027\u0027 (deep) x 1.5\u0027\u0027 (high)262 x 185 x 36 mm800 gr",
+  "ports": "RF TV output, video \u0026amp; audio outputs, Joystick (2), Cartridge slot, Tape interface (2000 baud), Centronics (printer)",
+  "power": "Big external PSU (1 Kg!) \u0026gt; +5 V/900 mA, +12 V/250 mA, -12 V/250 mA",
+  "price": "49800 yens - ?149",
+  "description": "\nThe SORD M5 had no really great success outside Japan (and later Czechoslovakia) but had lot of interesting characteristics, very close to MSX computers released soon after. \n\nIts design was quite original. The machine xas quite small. The two-tone grey plastic casing opened to reveal a bright yellow back, which housed the ROM cartridge slot. The keyboard was similar to the rubber matting of the Spectrum, but felt markedly better. Most keys had a Basic keyword on them in small light-grey letters (available by holding down the function key as an other key is pressed). There was no full-size space-bar.\n\nThere was only 4K of internal RAM, but memory expansions were available. The joysticks simply plugged into tiny DIN sockets, and there was a port for a Centronics printer. The power supply was external and rather cumbersome. \n\nIt used a dedicated video chip (Texas Instrument 9918, 9928 or 9929, depending on the model) and had the same video characteristics as the MSX computers (same graphic resolution, same number of colors, same number of sprites, etc.) but didn\u0027t belong to this family. The M-5 had 32 graphics symbols in ROM and could handle up to 32 sprites. Its sound chip was the Texas Instruments TI 76489, which wasn\u0027t MSX compliant. It had three independent sound channels which could produce a variety of music and synthesised sounds. The sound was sent through the TV speaker.\n\nSeveral cartidge based languages were available: the Basic-I (very simple version for beginners, delivered with the system), the Basic-G (with lot of graphic commands) and the Basic-F (for mathematic and scientific applications). The M-5 supported Inp and Out in Basic to control Z-80A ports, but had no obvious connector to the external world other than the ROM cartridge slot into which the Basic cartridge had to be be inserted. \n\nOne year later the M5 Pro and M5 Jr were released with a built-in power supply unit (and more RAM?).\n\nJan P. Naidr reports:\nThe Sord M5 was popular in Czechoslovakia because it was the first home computer on the common market. The other computers like Sinclair Spectrum have been imported individually from abroad. But you must understand the statement \u0026quot;common market\u0026quot;. That was not common for everybody in the communist period. The name of the shop selling Sord was TUZEX. There was possible to pay only by dollars or any other hard currency or buy Tuzex Crowns (special voucher), which you could receive changing dollars in the bank. The solution for common people was to by Tuzex Crowns on the black market. 1 Tuzex Crown for 5 Czech Crowns. We are so happy the old times have gone.\n\nJules Allen (UK) adds:\nThese machines were also available in the UK as Sord had a fairly decent presence in the business market. Sord\u0027s \u0027killer app\u0027 was PIPS III, essentially a programmable spreadsheet, and with a nod to this the M5 had a cartridge for a low end version called FALC. It didn\u0027t run PIPS formulas exactly so it wasn\u0027t a great deal of use.\nThe versions of BASIC were partially incompatible with each other which of course makes technical sense. But it didn\u0027t really help the cause and diluted the machine\u0027s appeal to hobbyists.\nThere were several game cartridges available as well. I can\u0027t remember if it came with the game controller or if they were an option. But they were pretty basic: They looked like an original iPod at first blush. There was a large, round 4-way pad in the center of the thing and a bright yellow button towards the top left. They sort of sucked to be honest!\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ORIGINAL VERSION\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Original Sord version sold virtually only in Japan.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Sord_M5_Keyboard_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SORD M5 COMPLETE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Complete system with catridges and documentation\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Daniel Laz\u0026aacute;rik for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/sord_m5_complete_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SORD M5 PRO\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The M5 Pro had a NTSC video ouput, a parallel interface, 20 KB RAM and a built-in power supply unit. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Does someone has more info about this \u0026quot;M5 Pro\u0026quot;?\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/sord_m5pro.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TAKARA GAME PERSONAL COMPUTER M5\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is the Takara Game Personal Computer M5, in fact a Sord M5 marketed by another company (?)\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.tk.airnet.ne.jp/saiey/compimg/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Saiey web site\u0026lt;/a\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/sord_m5_takara-game-m5.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CGL M5 #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Computer Games Limited (CGL), a British company based in London, rebadged and sold the M5 in the UK and some other European countries.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Sord_M5_System_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CGL M5 #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The panel is opened unveiling the cartridge port and some instructions printed on the panel itself. A Basic-I cartridge is inserted into the slot.  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Sord_M5_WithBasicCart_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BROWN AND BLUE KEYBOARDS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Sord_M5_2keyboards_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;KEYBOARD CLOSE-UP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The magazine tests of the time were unanimous: the M5 rubber keyboard was one of the most convenient of this computers category.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Sord_M5_KeybCloseup_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;KEYBOARD PARTS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The keyboard is composed of a rubber membram set on a printed circuit. When a key is pressed a smal conducting disc located below each key set up a link between two lines of the circuit.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Sord_M5_Keyboard_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR CONNECTORS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; Power DIN socket. An external unit supplies the DC power\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; Tape recorder DIN socket\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; Parallel printer connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(4-5)\u0026lt;/b\u0026gt; Game controllers Mini-DIN sockets\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(6)\u0026lt;/b\u0026gt; Sound output jack\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(7)\u0026lt;/b\u0026gt; Composite video output\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(8)\u0026lt;/b\u0026gt; TV-RF modulator output\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Sord_M5_RearSide_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;THE MAINBOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;A serious study and reliable design, as in all Sord computers\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(1)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Sync signal generator for video output\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(2)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; TV aerial modulator (dated 6/12/83!)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(3)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Keyboard connectors\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(4)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Relay for the tape recorder remote control\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(5)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; ROM cartridges connector, mainly intended for the BASIC cartridges\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(6)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 8 KB ROM chip holding Input / Output routines\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(7)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Custom Sord chipset in charge of memory management and various I/O\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(8)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Z80A microprocessor, here a Sharp version\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(9)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 4 KB user RAM chips (2xTMM2016)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(10)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 16 KB video RAM (8x4116)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(11)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Texas Instruments TMM9929 video controller.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Sord_M5_Mainboard_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CGL MANUALS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Sord_M5_Manuals_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ORIGINAL ACCESSORIES\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;A disc digital joystick and a Basic-I cartridge (I for Integer Basic) were delivered with the M5. Two other Basic cartridges were proposed as optional extras: Basic-G with graphic commands and Basic-F with floating point calculations.  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Sord_M5_JoyBasic_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SORD BOX\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://falabella.lf2.cuni.cz/~naidr/sord/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;MUDr. Jan P. Naidr\u0026lt;/a\u0026gt; for this picture!\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Sord_m5_Box_closed.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TAKARA BOX\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/sord_m5-takara_box.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CGL BOX\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/sord_m5-cgl_box.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CGL BOX #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/cgl_m5_box_2.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;M5 JAPANESE ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://web.kyoto-inet.or.jp/people/s-oga/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;The collection of historic PC leaflets\u0026lt;/a\u0026gt; for this picture!\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sord_m5_japanese-ad.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;M5 PRO \u0026amp; M5 JR JAPANESE ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.pugly.juice.or.jp/pugly/oldpc/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Pugly\u0026lt;/a\u0026gt; for this picture!\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sord_m5pro_japanese-ad.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FROM WALKMAN TO M5\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This US dealer advert says that the designer of the M5, Toshiaki Kamijo was before the Walkman inventor in Sony CIE.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sord_M5_Advert_3.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [
+    {
+      "platform": "MS DOS emulator",
+      "name": "SORDEMU",
+      "link": "http://www.emulatronia.com/ordenado.htm",
+      "description": "DOS emulator"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "Emu5",
+      "link": "http://www1.interq.or.jp/t-takeda/m5/index.html",
+      "description": "Emu5 is SORD m5 emulator for Win32"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "MESS",
+      "link": "http://www.mess.org",
+      "description": "MESS emulates the Sord M5"
+    }
+  ],
+  "link": [
+    "http://users.skynet.be/firefly/sordm5/index.htm",
+    "http://falabella.lf2.cuni.cz/~naidr/sord/",
+    "http://sord-m5.zde.cz/",
+    "http://www.gondolin.org.uk/hchof/reviews/yc-sordm5.html"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/Sord_M5_System_s1.jpg",
+  "builtInGames": "Basic-G, Basic-I and Basic-F delivered on cartridges",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "Cartridge multiplexer (EC-5), 32 KB RAM expansion (EM-5), joysticks (JS-5), joypads (JP-5), expansion box (EB-5), thermal printer (PT-5), Parallel I/O cartridge (PI-5), Serial interface cartridge (SI-5), Floppy disk drive (FD-5)",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

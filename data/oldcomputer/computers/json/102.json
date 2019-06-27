@@ -1,0 +1,121 @@
+{
+  "name": "PET 30xx",
+  "manufacturer": "Commodore",
+  "type": "Professional Computer",
+  "origin": "U.S.A.",
+  "year": "1979",
+  "production": "",
+  "language": "Commodore Basic",
+  "keyboard": "QWERTY full-stroke keyboard, and sometimes calculator type",
+  "cpu": "6502",
+  "speed": "1 mHz",
+  "coprocessor": "",
+  "ram": "8, 16 or 32 k",
+  "vram": "",
+  "rom": "14 k",
+  "text": "40 x 25",
+  "graphics": "None",
+  "colors": "monochrom",
+  "sound": "",
+  "size": "Heavy !",
+  "ports": "IEEE 488, Tape (2)",
+  "power": "Built-in PSU",
+  "price": "",
+  "description": "\nThe CBM 3xxx and 4xxx series were revisions of the original PET 2001.\nThe range was rebranded CBM (Commodore Business Machine), as PET was dropped. \n\nThe 3xxx series introduced the 3000 series ROM sets, BASIC v3, and a completely redesigned keyboard layout, which used a full typewriter keyboard instead of the \u0026quot;mickey mouse\u0026quot; keyboard of the PET, and dropped the on-board cassette unit.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADDON KEYBOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This picture shows a PET-30xx with an addon keyboard mounted on top of the original one. \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/commodore_pet-3000_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (MAY 1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;for the Commodore PET 3001\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/commodore_cbm3001_pub_p.jpg"
+    }
+  ],
+  "hardware": [
+    {
+      "type": "EXTERNAL MODULES",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Commodore_Pet_ClockModule_1.jpg",
+          "description": "Clock/Calendar module||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CLOCK/CALENDAR MODULE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Could be connected to any PET/CBM user port. Clock and calendar were battery backed up.\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Commodore_Pet_EpromProg_1.jpg",
+          "description": "Eprom programmer||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;EPROM PROGRAMMER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Could burn 2716 and 2732 Eprom chips.\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Commodore_Pet_TNW2000_1.jpg",
+          "description": "TNW-2000|||IEEE-488 to Serial converter|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TNW-2000\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;IEEE-488 to Serial converter\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Pascal Rollin\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "FLOPPY \u0026amp; HARD DRIVE UNITS",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/commodore_cbm2040-dualdisks_1.jpg",
+          "description": "Dual disk-drives|||Model 2040|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DUAL DISK-DRIVES\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Model 2040\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This dual 5.25\u0026quot; floppy disk is single sided, double density and has a storage capacity of 170 Kb per disk, or 360k total. It\u0027s connected to the computer through an IEEE-488 interface and uses CBM DOS 1.0. \u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/commodore_cbm_8050_diskdrives.jpg",
+          "description": "8050 dual disk-drive||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;8050 DUAL DISK-DRIVE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;CBM PET Model 8050 Dual disk drive. It uses a 100 TPI single headed drive with a storage capacity of 533,248 bytes per drive. Each 8050 disk has 77 tracks, and is read/write compatible with the model 8250 disk. This compatibility is limited to one side of the diskette. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; It can be used with Commodore Series 2001, Series 3000, Series 4000 and Series 8000. It uses an IEEE-488 interface.\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Commodore_700_8250FDDunit_1.jpg",
+          "description": "8250-LP dual drive unit||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;8250-LP DUAL DRIVE UNIT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The 8250-LP (for Low Profile) uses dual half-size double-side, double-density 1 MB capacity floppy drives. The main logic board is entirely different from the full-size 8250. It uses two 6502 processors!\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/commodore_cbm_9090_harddisk.jpg",
+          "description": "9090 Hard-disk||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;9090 HARD-DISK\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is a single drive non-removeable Winchester technology storage device. It features 3 platters with recording surfaces on both sides and provides 7.5 million characters of storage. A single random access file may occupy the entire capacity. It has an IEEE interface connector and a \u0026quot;slow blow\u0026quot; fuse on the back.\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "PRINTERS",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/commodore_printer_8032p.jpg",
+          "description": "8023P COMMODORE TRACTOR PRINTER  ||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;8023P COMMODORE TRACTOR PRINTER  \u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    }
+  ],
+  "emulator": [
+    {
+      "platform": "Windows emulator",
+      "name": "Versatile Commodore 8-bit Emulator (VICE)",
+      "link": "http://www.6502.org/users/andre/index.html"
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d104",
+    "computer.asp?st\u003d1\u0026amp;c\u003d952",
+    "computer.asp?st\u003d1\u0026amp;c\u003d105",
+    "computer.asp?st\u003d1\u0026amp;c\u003d103",
+    "computer.asp?st\u003d1\u0026amp;c\u003d746",
+    "computer.asp?st\u003d1\u0026amp;c\u003d191",
+    "computer.asp?st\u003d1\u0026amp;c\u003d675",
+    "http://www.portcommodore.com/petindex.php?path\u003dmain-cbmidx",
+    "http://www.6502.org/users/andre/petindex/index.html",
+    "http://ca.geocities.com/SJGRAY@ROGERS.COM/CBM/",
+    "http://freespace.virgin.net/ken.ross1/",
+    "http://www.tpug.ca/",
+    "http://www.commodore.ca/products/pet/commodore_pet.htm",
+    "news:comp.binaries.cbm",
+    "news:comp.binaries.cbm",
+    "news:comp.sys.cbm"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/commodore_cbm-3032_1.jpg",
+  "builtInGames": "Commodore Basic",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

@@ -1,0 +1,64 @@
+{
+  "name": "MPF-1/65",
+  "manufacturer": "Multitech",
+  "type": "Home Computer",
+  "origin": "Ta?wan",
+  "year": "1984",
+  "production": "",
+  "language": "assembler",
+  "keyboard": "calculator type keyboard, 49 keys",
+  "cpu": "MOS Technology 6502",
+  "speed": "",
+  "coprocessor": "",
+  "ram": "64 KB",
+  "vram": "",
+  "rom": "16 KB",
+  "text": "24 x 40",
+  "graphics": "None",
+  "colors": "None",
+  "sound": "yes, but unknown specifications (built-in speaker)",
+  "size": "Unknown",
+  "ports": "video outputs (RF \u0026amp; composite), power in, tape interface, expansion connector",
+  "power": "External power supply (+5v, -5v \u0026amp; 12v)",
+  "price": "2995 FF (France, jan. 1985)",
+  "description": "\nThe MPF-I/65 is an initiation computer based on the MOS Technology 6502 CPU (hence the name 65). It was designed and produced by Multitech in Ta?wan which would eventually become Acer in 1987.\n\nMultitech was then specialised in such small computers used to study electronic principles and micro-processors. The MPF-I was based on the Z80 CPU, the MPF-I/88 on the Intel 8088 CPU,  the Microkit 09 on the Motorola 6809 CPU and thus the MPF-I/65 on the MOS Technology 6502. All popular chipsets of the time were then covered.\n\nThe MPF-I/65 offers 64 KB RAM and 16 KB ROM. It is directly programmed in machine language, no Basic here. The 16 KB ROM thus contains assembler, editor and debugger tools to assist the programmer in its task. On the contrary of other MPF-I systems, there is no built-in LCD display. An external display must be attached to use the computer.\n\nWhat is interesting about this computer is that it looks A LOT like the MPF-II. Same CPU, same calculator type keyboard and most of all identical motherboard. It all seems like it was a pre-version of the MPF-II system, which is itself more advanced (built-in Basic, graphical possibilities, etc.). But the MPF-II was released in 1982, and first adverts of the MPF-I/65 appeared late 1984 (at least in France)...\n\nSo it could be the contrary: the MPF-I/65 being a simplified version of the MPF-II to meet the needs of an initiation computer based on the Motorola 6502 CPU. If you know the answer, contact us.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MPF-1/65\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/multitech_mpf1-65_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (JAN. 1985)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/multitech_mpf1-65_advert_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [
+    {
+      "platform": "Multiplatform emulator",
+      "name": "MESS",
+      "link": "http://www.mess.org",
+      "description": "This popular emulator can also emulate an MPF-1 computer"
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d479",
+    "computer.asp?st\u003d1\u0026amp;c\u003d525",
+    "computer.asp?st\u003d1\u0026amp;c\u003d1132",
+    "http://global.acer.com/about/milestones.htm",
+    "http://www.flite.co.uk/microprocessor-training-systems-overview.htm",
+    "http://members.lycos.co.uk/leeedavison/z80/index.html"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/multitech_mpf1-65_1s.jpg",
+  "builtInGames": "assembler",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

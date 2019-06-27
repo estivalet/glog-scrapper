@@ -1,0 +1,158 @@
+{
+  "name": "PC-1401  PC-1402  PC-1421",
+  "manufacturer": "Sharp",
+  "type": "Pocket",
+  "origin": "Japan",
+  "year": "1983",
+  "production": "",
+  "language": "Sharp BASIC interpreter",
+  "keyboard": "76 keys, QWERTY calculator type with numeric key-pad and math function keys",
+  "cpu": "SC 61860 (8 bits)",
+  "speed": "PC-1401, PC-1402: 576 kHz -  PC-1421: 768 kHz",
+  "coprocessor": "",
+  "ram": "PC-1401, PC-1421: 4.2 KB  -  PC-1402: 10.2 KB",
+  "vram": "",
+  "rom": "40 KB",
+  "text": "1 line x 16 chars.  (LCD screen), 5x7 dot matrix",
+  "graphics": "None",
+  "colors": "Monochrome LCD",
+  "sound": "CPU controlled piezo buzzer, fixed frequency and duration via BASIC statement",
+  "size": "170 (W) x 72 (D) x 9.5 (H) mm / 150 g (with batteries and hard cover)",
+  "ports": "Proprietary 11-pin expansion bus",
+  "power": "6 volts, 2 x CR 2032 lithium cells",
+  "price": "PC-1401: 155 , PC-1402: 181  (Germany)",
+  "description": "\nThe PC-1401 was the first of a series of pocket computers with a new concept.\n\nIt combined the advantages of a BASIC programmable pocket computer and a scientific calculator. Nevertheless, it was much thinner than, for instance, the PC-1500, and well worth its price.\nTherefore, the PC-14xx series was very successful, especially among students.\n\nThe PC-1401 was developed based on the PC-125x series, thus it\npossessed the same BASIC core capabilities. In addition, it had a separate\ncalculator mode, in which it could be used like any of Sharp\u0027s scientific\ncalculators, such as the EL506H.\nFor this purpose, the right section of the keyboard had 18 additional math keys, and it could be used as any standard AOS entry calculator. Moreover, a set of statistics functions was implemented.\n\nIn BASIC mode, the additional math buttons could be used as shortcut keys to enter the BASIC keywords of these math functions. A downside was the small display with only 16 characters, which made it somewhat hard to keep track of your BASIC program while programming.\n\nAs the PC-125x series, the PC-1401 was based on the SC61860 8-bit CMOS\nmicroprocessor, clocked with a 576 kHz ceramic resonator circuit, and the same\ndisplay driver chip (SC43536). It had 4.2 KB RAM (two HM6116 2k x 8 chips plus\nsome bytes in the display driver chip) and 40 KB ROM (SC613256). All chips and\nother components were soldered onto a single PCB. The RAM of the PC-1401 could\nnot be extended by modules.\n\nThe PC-14xx series consisted of various models; here, only those directly\nderived from the PC-125x hardware are described. At least three different models were widely available in the West:\nPC-1401: This was the first machine of the series, released in 1983.\nPC-1402: Released about one year later. Basically the same machine, but\nwith more RAM. One of the HM6116 chips had been replaced by a D4364G 8k x 8\nchip, resulting in 10.2 KB RAM (9678 bytes for BASIC).\nPC-1421: This machine was also released in 1984. As the PC-1401, it had\n4.2 KB RAM (3454 for BASIC). However, it was powered by a later release of the\nCPU and clocked with a higher clock rate (768 kHz), which made it one third\nfaster. From the software\u0027s point of view,it was equipped with special math\nfunctions for business/financial matters.\n\nTogether with the PC-1401, the CE-126P thermal printer and micro cassette\ninterface unit was introduced. It was alcaline battery powered and could print\n24 characters per line on special thermal paper.\n\nSpecial thanks to Roman von Wartburg and his Website, who provided us all this information.\n \n\n\n",
+  "shot": [],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. AD APRIL 1983\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Atari_1200xl_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;8-PAGE US ADVERT #5\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Compaq_PortableIII_Advert_s5.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (MAY 1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/ordisor_pcc2000_pub_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1976 PRICE LIST\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Notice that the 16K static RAM expansion is more expensive than the computer itself.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Mark Thompson\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Altair_8800_PriceList_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Picture courtesy of \u0026lt;a href\u003d\u0026quot;http://www.sbrowning.com/vintage\u0026quot;\u0026gt;Steve Browning, www.sbrowning.com/vintage\u0026lt;/a\u0026gt;.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/atari_800_advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TTX 80 FRENCH ADVERT (JAN. 1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;computing against wasted time\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/bull_ttx80_advert_time.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FROM WALKMAN TO M5\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This US dealer advert says that the designer of the M5, Toshiaki Kamijo was before the Walkman inventor in Sony CIE.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sord_M5_Advert_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;OFFICIAL FLYER (RECTO)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.mainbyte.com\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;www.mainbyte.com\u0026lt;/a\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/myarc_geneve_flyer_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROTOTYPE SOFTWARE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This picture from an early advert published in january 1983 is very interesting (the TO-7 was just released then). The text below it said \u0026quot;Hours of entertainment...\u0026quot;. But when you look more carefully at the software boxes you realise that they are fake! Only the two extreme boxes are real, but still shows the same game title \u0026quot;3-D TIC-TAC TOE\u0026quot;! So there is only one game presented here! The photograph was surely taken at an early development stage... \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Even the name of the computer written on top of the boxes: \u0026quot;TOM 7\u0026quot; (Tele Ordinateur Multimedia?) seems to be an early name for the TO-7... \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Hours of entertainment they said...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_to7_software-proto.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT #4 (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Circa September, 1982.  This is likely one of the final Commodore advertisements for the VIC-20, as the C64 was soon to be launched.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Commodore_Vic20_Advert_4.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MICROSOFT MULTIPLAN, APR. 1986\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Commodore_128_Advert_s4.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;HEATHKIT CENTERS #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Heathkit_H89_Advert_4.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LAST SALES\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;In July 1985, California Digital sold the Tano at $99. The price would decrease down to $35 while stock last.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Dragon_64_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD #1 (1984)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Electron, the personal micro which has talents of a pro\u0026quot;...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/acorn_electron_ad1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/tandy_trs80-model3_dossier31.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (JAN. 1981)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Sharp 1211 advert from ILLEL, a french computer seller\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sharp_pc1211_advert-fr_1_s.png"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT #3 (1979) \u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;From Playboy December 1979.  \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Peathead\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Apple_II_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ACORN AD #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said:\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; Success in the future will depend upon confidence in using new technologies. That\u0027s why a computer in the home has to be more than just an interesting diversion or even a useful tool. It has to an investment in tomorrow for you and your children... \u0026lt;/font\u0026gt; \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;8bs.com\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Acorn_MasterCompact_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT, JULY 1985\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Byte magazine\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Casio_FP6000_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0027\u0027It\u0027s time\u0027\u0027\u0026lt;br\u0026gt; \u0027\u0027ATMOS from Oric : the definitive computer\u0027\u0027\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/oric_atmos_ordinateur_definitif.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN LIFLEAT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sharp_MZ80B_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;COMPACT VERSION\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Promotional picture; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Diego Barizo\u0026lt;/b\u0026gt; adds:\u0026lt;br\u0026gt; In the picture of the compact version of the TK3000, the joystick, a TRS-80 de luxe joystick, and the screen is quite similar to that of a flight simulator for the TRS-CoCo. Maybe they had one behind the monitor? \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Roberto Isiri\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Microdigital_TK3000_CompactAd_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT, AUG. 1983\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;\u0026lt;a href\u003d\u0026quot;http://www.aci.com.pl/mwichary/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Attached\u0026lt;/a\u0026gt;\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Osborne_Executive_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (JAN. 1985)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Maxi Basic Yeno SC 3000 : program at full gallop\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/yeno_sc3000h_ad_maxi-basic.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [
+    {
+      "platform": "Unix / Linux emulator",
+      "name": "POEMS",
+      "link": "http://sourceforge.jp/projects/poems/",
+      "description": "PC-12xx, 14xx \u0026amp; 13xx emulator"
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "PockEmul",
+      "link": "http://pockemul.free.fr/",
+      "description": "Emulates nearly all Sharp pocket computers!"
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d936",
+    "computer.asp?st\u003d1\u0026amp;c\u003d1135",
+    "computer.asp?st\u003d1\u0026amp;c\u003d1091",
+    "computer.asp?st\u003d1\u0026amp;c\u003d466",
+    "computer.asp?st\u003d1\u0026amp;c\u003d1173",
+    "computer.asp?st\u003d1\u0026amp;c\u003d965",
+    "computer.asp?st\u003d1\u0026amp;c\u003d184"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/Sharp_PC1401_System_s1.jpg",
+  "builtInGames": "Sharp BASIC interpreter",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "CE-126P thermal printer and tape interface",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Microlab",
+  "manufacturer": "Educatel",
+  "type": "Professional Computer",
+  "origin": "France",
+  "year": "? 1985",
+  "production": "",
+  "language": "",
+  "keyboard": "calculator type keyboard",
+  "cpu": "6809E",
+  "speed": "1 MHz",
+  "coprocessor": "2 x PIA 6821 + Timer 6840",
+  "ram": "2 KB",
+  "vram": "",
+  "rom": "2 KB (EPROM)",
+  "text": "6 digits built-in display",
+  "graphics": "",
+  "colors": "No",
+  "sound": "No",
+  "size": "Unknown",
+  "ports": "yes...",
+  "power": "Unknown",
+  "price": "Unknown",
+  "description": "\nThe Educatel Microlab is training computer used to learn/teach how the 6809 processor works. It was conceived (?) and used by Educatel, a french correspondence school, for their private courses. For this reason, this computer is pretty rare nowadays.\n\nAs it was designed to show the user how the microprocessor works, there are red light indicators monitoring the CPU activity and functions. It is also possible to \u0026quot;slow down\u0026quot; the system and follow step by step the instructions being processed.\n\nSome hardware expansions were apparently available, such as an EPROM burner, memory expansions, printers and a RS232 serial board.\n\nIt is not clear if this system was really designed by Educatel engineers or licenced from another manufacturer.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MICROLAB\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/educatel_microlab_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (FEB. 1986)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Educatel advert for their correspondance courses using the Microlab system.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/educatel_microlab_advert_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [],
+  "image": "http://www.old-computers.com/museum/photos/educatel_microlab_1s.jpg",
+  "builtInGames": "",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "EPROM burner, printer, input/output board, serial RS32 board, memory expansion",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

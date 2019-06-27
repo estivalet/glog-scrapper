@@ -1,0 +1,146 @@
+{
+  "name": "P3000",
+  "manufacturer": "Philips",
+  "type": "Professional Computer",
+  "origin": "Netherlands",
+  "year": "1983",
+  "production": "",
+  "language": "",
+  "keyboard": "Full stroke 81 keys with 8 function keys and numeric keypad",
+  "cpu": "2 x Z80A",
+  "speed": "Unknown",
+  "coprocessor": "",
+  "ram": "64 KB?",
+  "vram": "Unknown",
+  "rom": "Unknown",
+  "text": "80 chars x 25 lines",
+  "graphics": "Unknown",
+  "colors": "Monochrome",
+  "sound": "Simple beep",
+  "size": "Unknown",
+  "ports": "Unknown",
+  "power": "Built-in power supply unit",
+  "price": "Unknown",
+  "description": "\nalmost no information about this computer which features seems to be similar to the P2000C.\n \nHopefully, jim apperley from Canada helps us:\nThe Philips word processors of the early to mid 80s were built in the Town of Mount Royal (TMR), Montreal, Canada, by Micom a subsidiary of Philips.  They retained the Micom brand name in Canada and US where the brand was quite well respected. \nLater Micom was integrated into Philips Information Systems PhIS (always remember the \u0026quot;h\u0026quot; please!). \nThe twin Z80 system was originally designed to retain compatiblity with the mid 1970s Micom 8080 based systems. The earlier systems used 8\u0026quot; hard sectored floppies.  \nAfter a rapid and successful development including transfer of applications (in \u0026lt;12 months),  marketing decided to make it into a CPM machine. This coupled with production delays and problems with the 2/3rd height disk drives from Philips delayed market entry for more than a year, just before the PC came out.\nThe project was codenamed Swift.  \nAt the same time a larger Z8000 system was developed (codenamed Eagle) for the Swedish teletex system. This had amazing  video quality for the time with Black on white, 70Hz, \u0026gt;40Mhz dot rate.  There was even a full page system just like the Xerox systems (screen rotated right with close to 1000 lines).  \nThis design ultimately failed due to code growth  (insufficient memory.)  The code was compressed by changing from compiled to interpreted mode, whereupon speed dropped to the point where it could not keep up with an average typist. The Eagles were replaced in the teletex system by Swifts.\n\nI worked on the Floppy systems of both machines.  Depending  on the age of the system you may find the NEC765 Floppy controller on a daughter board with a PAL.  On later systems this was incorporated onto the motherboard.\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LARGER SYSTEM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Notice that doors of both floppy drives are opened.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Philips_P3000_System_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;KEYBOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Philips_P3000_Keyboard_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT (NOV. 1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert says:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The Acorn Atom is a definitive personal computer. Simple to build, simple to operate. A powerful, full facility computer with all the features you would expect.\u0026lt;br\u0026gt; Just connect the assembled computer to any domestic TV and power source and you are ready to begin. (Power requirement: 8V at 800mA). There is an ATOM power unit available. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Free with every ATOM, kit or built, is a computer manual. The first section explains and teaches you BASIC, the language that most personal computers and the ATOM operate in. The instructions are simple and learning quickly becomes a pleasure. You\u0027ll soon be writing your own programs. The second section is a reference manual giving a full description of the ATOM\u0027s facilities and how to use them. Both sections arE fully illustrated with example programs. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;The standard ATOM includes:\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; HARDWARE\u0026lt;br\u0026gt; . Full-sized QWERTY keyboard. 6502 Microprocessor. Rugged injection-moulded case. 2K RAM. 8K HYPER-ROM\u0026lt;br\u0026gt; . 23 integrated circuits and sockets. Audio cassette interface. UHF TV output. Full assembly instructions\u0026lt;br\u0026gt; SOFTWARE\u0026lt;br\u0026gt; . 32-bit arithmetic (:i: 2,000,000,000). High speed execution. 43 standard/extended BASIC commands. Variable length strings (up to 256 characters) . String manipulation functions. 27 x 32 bit integer variables\u0026lt;br\u0026gt; . 27 additional arrays. Random number function. PUT and GET byte. WAIT command for timing. DO-UNTIL construction . Logical operators (AND, OR, EX-OR) . Link t machine - code routines. PLOT commands, DRAW and MOVE \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;The ATOM modular concept\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; The ATOM has been designed to grow with you. As you build confidence and knowledge you can add more components. For instance the next stage might be to increase the ROM and RAM on the basic ATOM from 8K + 2K to 12K + 12K respectively. This will give you a direct printer drive, floating point mathematics, scientific and trigonometric functions, high resolution graphics.\u0026lt;br\u0026gt; From there you can expand indefinitely. Acorn have produced an enormous range of compatible PCB\u0027s which can be added to your original computer. For instance: A module to give red, green and blue colour signals Teletext VDU card (for Prestel and Ceefax information) An in-board connector for a communications loop interface - any number of ATOMs may be linked to each other or to a master system with mass storage/hard copy facility. \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Paul Durrant\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Acorn_Atom_Advert_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT #5 (1979)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt;Compare the built-in features of leading microcomputers with the Atari personal computers. And go ahead, compare apples and oranges. Their most expensive against our least expensive: the Atari 400...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Atari_400-800_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JUPITER BROCHURE #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Jupiter_Ace_Brochure_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DECEMBER 1972 HP JOURNAL\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy \u0026lt;b\u0026gt;Joe Rigdon\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/HP_9830_HPjournal_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. AD. (1983) #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; Our all-in-one BMC IF-800 computer is easier for dealers to sell, customers to buy and OEM to use in their systems...\u0026lt;br\u0026gt; ... You can upgrade to a 16 bit CPU which offers IBM PC compatible MS-DOS and CP/M-86...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Oki_IF800_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;NORTHSTAR CARDS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Northstar also designed cards for S100 Bus. These cards were used in the Horizon and were also available separately for competing systems.\u0026lt;br\u0026gt; Cards on the photo are:\u0026lt;br\u0026gt; - 16 KB RAM board ($459 assembled)\u0026lt;br\u0026gt; - Micro Disk System (card \u0026amp; interface) to connect Shugart FDD ($799)\u0026lt;br\u0026gt; - Z80A processor board ($259 without EPROM option, $330 with)\u0026lt;br\u0026gt; - Hardware floating point card ($359).  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/NorthStar_Horizon_Cards_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LEAFLET (1982) - PAGE 3\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Notice that the box arts are completely different from the final ones (see software section)\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/interton_vc4000_promo-leaflet_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said : \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0027\u0027The computer which carried away America\u0026quot;\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0027\u0027With its portable computers, Compaq became world number two on the market of the 16 bits computers. With a turnover of 240 million dollars in one year and a half, this young company established in Houston obtained the growth rate record of the American economic history.\u0026quot; \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Compaq_PortablePlus_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Close-up of the previous advert showing the various cards of the Gemini 80-BUS system.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Gemini_Galaxy2_Advert_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (JAN. 1985)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/multitech_mpf1-65_advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;February 1983\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Advert says:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; The new Epson QX-10 is unlike any personal computer you\u0027ve never seen. It\u0027s a computer for people who don\u0027t have the time to learn computer; a computer you can be using within minutes...\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Epson_QX10_Advert_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/magnavox_odyssey2_ad_ouridea.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN PROMOTIONAL PICTURE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.pong-story.com\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;www.pong-story.com\u0026lt;/a\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/magnavox_odyssey_promo-pic_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LAST +4 SALES, APR. 1986\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Commodore_Plus4_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PREVIOUS SYSTEM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Before manufacturing the MPC, Columbia tried to sell a massive multi-user, Z80 based system.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Columbia_PC_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT (JULY 1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Goupil has all talents\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/smt_goupil2_ad_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;IN THE KITCHEN...\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;A TO-7 in the kitchen? For sure it makes smile the woman!\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_to7_cuisine_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/AVT_Comp2_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ITALIAN AD #5\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Upgrade kit to transform a Spectrum into a Spectrum +\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;http://angelmemories.cjb.net/\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sinclair_Spectrum_PubItalie_4.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;THE FIRST M20 VERSION\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This Olivetti ancestor, also called M20, was born in 1920...\u0026lt;br\u0026gt; To note the superb design all the young italian secretaries were in love of! \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Karl-Heinz  -  www.sharpmz.org\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Olivetti_M20_Typewriter_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0027\u0027Each day, go on the computing road\u0027\u0027\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/epson_advert_hx-qx_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0027\u0027PB 700, the extensible personal computer\u0027\u0027\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/casio_pb700_advert_extensible.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1979)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Tandy_Model1_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BROCHURE - SYSTEM IN SPACE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.retrorene.nl/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Retro Rene\u0027s Gaming Corner\u0026lt;/a\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/ormatu_spelcomputer-2001_brochure_3.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [],
+  "image": "http://www.old-computers.com/museum/photos/Philips_P3000_System_1.jpg",
+  "builtInGames": "2 x 5.25\u0027\u0027 floppy discs",
+  "controllers": "",
+  "media": "2 x 5.25\u0027\u0027 floppy discs",
+  "numGames": "",
+  "peripherals": "Unknown",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

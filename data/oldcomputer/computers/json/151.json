@@ -1,0 +1,85 @@
+{
+  "name": "Victor Lambda",
+  "manufacturer": "Micronique",
+  "type": "Home Computer",
+  "origin": "France",
+  "year": "1980",
+  "production": "",
+  "language": "NoneBasic Level II (Microsoft Basic v4.7) and EDU-Basic (french Basic) available on tape",
+  "keyboard": "QWERTY, chicklet keyboard53 keys",
+  "cpu": "Intel 8080 A",
+  "speed": "2 MHz",
+  "coprocessor": "",
+  "ram": "16 KB (4698 bytes free when Basic Level II loaded)",
+  "vram": "",
+  "rom": "2 KB",
+  "text": "12 x 17",
+  "graphics": "112  x 78 in 4 colors",
+  "colors": "8",
+  "sound": "1 voice, 4 octaves",
+  "size": "",
+  "ports": "2 joystick socketsRGB video output",
+  "power": "Integrated power supply",
+  "price": "449  (France, december 82)",
+  "description": "\nThe Victor Lambda is in fact an american computer : the Interact.\n\nA french company (based in Toulouse), Lambda Systemes, bought the rights to sell the system in France under its own name in 1980. The Victor Lambda was born...\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;THE BLACK VICTOR LAMBDA\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is the first \u0026quot;french model\u0026quot;. It\u0027s just an Interact computer with a scart video connector and a built-in PSU.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/micronique_victor_lambda_noir.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LES ENVAHISSEURS !\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is the Victor Lambda playing a space-invaders clone : \u0026quot;Les Envahisseurs\u0026quot;...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/micronique_victor_lambda_noir_space_invaders.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;THE WHITE MODEL\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This model represents a new step in the Victor / Hector family : the new case is white and all the following Micronique models will be white two. This will also be the last model to have this awful keyboard.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/micronique_victor_lambda_blanc.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MECHANICAL KEYBOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This model has a mechanical keyboard. This is the first amelioration made by Micronique from the first Interact Computer. Of course, there is still the integrated tape-recorder.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/micronique_victor_lambda_meca.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This french advert dated may 1980, shows the first model sold in France. It was called Victor Lambda and the company name was Lambda Systemes. This model was nothing more than an Interact computer, sold with an english documentation and a NTSC television !\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/lambda-systemes_victorlambda_pub_svm752.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/micronique_victor-lambda_ad1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [
+    {
+      "platform": "Windows emulator",
+      "name": "DCHector",
+      "link": "http://dchector.free.fr/",
+      "description": "Excellent Interact/Hector emulator !"
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "MESS - Interact, Hector1, Victor, 2HR, 2HR+, HRX, MX40, MX80",
+      "link": "HTTP://WWW.MESS.ORG/",
+      "description": "All machines are emulated since 0.136 and Disc2 until 0.141 by Yo_Fr"
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d142",
+    "computer.asp?st\u003d1\u0026amp;c\u003d169",
+    "computer.asp?st\u003d1\u0026amp;c\u003d152",
+    "computer.asp?st\u003d1\u0026amp;c\u003d427",
+    "http://hectorvictor.free.fr/"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/micronique_victor_lambda_noir.jpg",
+  "builtInGames": "NoneBasic Level II (Microsoft Basic v4.7) and EDU-Basic (french Basic) available on tape",
+  "controllers": "",
+  "media": "Tape recorder (1500 bauds)",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

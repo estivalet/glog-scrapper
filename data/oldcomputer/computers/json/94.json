@@ -1,0 +1,53 @@
+{
+  "name": "IF 800",
+  "manufacturer": "OKI",
+  "type": "Professional Computer",
+  "origin": "Japan",
+  "year": "1982",
+  "production": "",
+  "language": "None",
+  "keyboard": "Full-stroke keyboard with separated numeric keypad",
+  "cpu": "Zilog Z80 A",
+  "speed": "5 mHz",
+  "coprocessor": "",
+  "ram": "64 KB / 128 KB / 256 KB",
+  "vram": "192 KB (3 blocks of 64 KB)",
+  "rom": "Unknown",
+  "text": "20 x 25 / 24 x 80",
+  "graphics": "640 x 400 / 640 x 200",
+  "colors": "8. Also available in monochrome version (8 shades)",
+  "sound": "1 voice - 5 octaves",
+  "size": "Unknown",
+  "ports": "RS232c, light pen, ROM cartridge (20 KB), Tape, 4 x I/O Slots, 3 x accessory slots",
+  "power": "Built-in PSU",
+  "price": "$4995",
+  "description": "\nThis computer had an integrated dot printer which can print on 40 to 132 columns at 120 cps, a 12\u0026quot; color graphic monitor and a dual 5\u0026quot; disc drives. A lot of cards were designed to be placed into the three expansion slots: an 8\u0026quot; disk controler, centronics interface, IEEE488 port, ADC/DAC card or ram expansion (64 or 128 KB).\n\nA bit of trivia: the video card has its own Z80 CPU.\n\nApparently this computer was marketed by BMC outside Japan.\n\nAlexander Velin says :\nThere is OKI if 800 model 50, which is based on 8086, has 256 KB ram, spare keyboard, one 8\u0026quot; 560 KB floppy, 7 MB HDD. Mine has a MS DOS 1.15 on it...\n\nMore technical information from Bruce Grant:\nI serviced IF-800\u0027s in the early 1980\u0027s.\nThe printer was a 7 pin matrix mechanically related to the Oki Microline 82 but largely software driven. It was a frightful device.\nBoth colour and monochrome screens were offered, and were excellent. The colour monitor had, as I recall, three seperate banks of 16K of RAM, one for each of the primary colours, providing an early form of 24-bit colour. Power for the main unit was provided through the monitor. Two people were needed to safely carry the colour monitor.\nThe floppy disks were made by YE-Data and offered good capacity for the time - in the order of 500KB. They were of the solenoid head loading type and were ponderously slow but generally quite reliable.\nCP/M 2.2 and a standalone version of MS-Basic were supplied. Each system used its own disk format. Sadly, these were not interchangeable. Bitmapped graphics were implemented through the MS-Basic system only, as were the bezel-mounted screen \u0026quot;hotkeys\u0026quot;.\nThe IF-800 was crippled commercially by appearing on the market at the same time as the IBM PC-XT, which cost slightly less as I recall.\nThey were distributed in Canada by Canada Computer of Markham, Ontario.\n\n\n \n\n\n",
+  "shot": [],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. AD. (1983) #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;First advert - January 1983\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Oki_IF800_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. AD. (1983) #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; Our all-in-one BMC IF-800 computer is easier for dealers to sell, customers to buy and OEM to use in their systems...\u0026lt;br\u0026gt; ... You can upgrade to a 16 bit CPU which offers IBM PC compatible MS-DOS and CP/M-86...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Oki_IF800_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (JULY 1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;A rainbow in your office\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/oki_if800_ad-rainbow.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [],
+  "image": "http://www.old-computers.com/museum/photos/oki_if800_2.jpg",
+  "builtInGames": "None",
+  "controllers": "",
+  "media": "Two 360 KB - 5.25\u0027\u0027 FDD. Optional 16 MB H.D. and 6.3 MB removable cartridge",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

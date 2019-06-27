@@ -1,0 +1,50 @@
+{
+  "name": "8001 / 8051",
+  "manufacturer": "Compucolor Corporation",
+  "type": "Home Computer",
+  "origin": "U.S.A.",
+  "year": "1975",
+  "production": "",
+  "language": "Basic 8001",
+  "keyboard": "74 keys mechanical keyboard with numeric and arrows keypads",
+  "cpu": "Intel 8080",
+  "speed": "Unknown",
+  "coprocessor": "",
+  "ram": "8 Kb. expandable to 24 Kb.",
+  "vram": "8 Kb.",
+  "rom": "11 Kb. expandable to 33 Kb.",
+  "text": "48 lines of 80 chars.",
+  "graphics": "160 x 192 dots",
+  "colors": "8",
+  "sound": "Unknown",
+  "size": "",
+  "ports": "34 I/O ports",
+  "power": "Built-in P.S.U.",
+  "price": "$2750 (May 1977)",
+  "description": "\nThe Compucolor 1 was the first world integrated system which included a graphic colour display. It came with a flicker-free 75 Hz band width monitor and an external floppy tape drive using continuous loop 8 tracks tape cartridges, the same that the ones used in the radio systems of the time, with 1 MB storage capacity and a transfer \u0027speed\u0027 of 600 char./second. The system could be expanded with additional ROM and RAM. Programs were written with the integrated ROM Basic language which used only one PLOT instruction with numerous parameters to manage graphic displays. A  special  hardware feature called \u0027Vector Graphics\u0027 allowed the computer to draw straight lines. An optional light pen could be used too with the PLOT instruction.\n\nThe only difference between the 8001 and the 8051 versions seems to be in the screen size which is of 19 inches in the 8051 model.\nThis first version of the Compucolor was followed by the Compucolor II, sold by Intelligent Systems Corp.   \n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;COMPUCOLOR MANUALS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Compucolor_1_Manuals_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1977 ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Compucolor_1_Advert_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [],
+  "image": "http://www.old-computers.com/museum/photos/Compucolor_1_System_1.jpg",
+  "builtInGames": "Basic 8001",
+  "controllers": "",
+  "media": "External floppy tape unit (8-tracks cartridges)",
+  "numGames": "",
+  "peripherals": "Diskette drive, light-pen",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

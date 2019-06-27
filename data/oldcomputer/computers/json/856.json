@@ -1,0 +1,72 @@
+{
+  "name": "SYM1",
+  "manufacturer": "Synertek",
+  "type": "Home Computer",
+  "origin": "U.S.A.",
+  "year": "1978",
+  "production": "",
+  "language": "Hexadecimal monitor - Assembler",
+  "keyboard": "29 \u0027sensitive\u0027 keys",
+  "cpu": "Synertek 6502",
+  "speed": "1 MHz",
+  "coprocessor": "",
+  "ram": "1 KB expandable to 4 KB on board",
+  "vram": "",
+  "rom": "4 KB",
+  "text": "6 digit LED display",
+  "graphics": "",
+  "colors": "",
+  "sound": "Built-in loudspeaker",
+  "size": "",
+  "ports": "Tape recorder, Serial RS232, 51 I/O lines connector",
+  "power": "External 5V - 1.5A power supply unit",
+  "price": "$239",
+  "description": "\nSynertek was one of the suppliers of the 6502 processor, and the SYM-1 was intended as a chip evaluation board for hardware developers that were interested in programming and interfacing a 6502.\n\nThe SYM-1 was a single board computer. It had a hexadecimal display and a hex keypad for programs and data entry.  It was originally called the VIM-1 until MOS Technology objected to the name. \n\nIt was actually quite a copy of the MOS KIM 1 offering same fonctionalities plus some enhanced features and connection capabilities, including a true serial RS232 interface instead of a 20mA current loop in the KIM. It also shared same I/O connectors with another 6502 development system, the Rockwell AIM-65\n\nA ROM chip contained the hexadecimal monitor (written by Manny Lemas, the co-founder of Microcomputer Associates) as well as standard I/O routines. Several programming language and utility software were later released. Among them: RAE-1 (Resident Assembler and Editor), FORTH and various flavors of BASIC, of which a powerful single precision version that needed the use of a video terminal.\n\nLike other evaluation boards of the times, the SYM-1 was delivered with a full set of documentations which covered all of the 6502 hardware and software capabilities.\n\nIt was reported to us that the Sym card also came in a 6809 version that supported Motorola compatibility.\n_______________________",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SYM-1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Synertec_Sim1_System_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FIRMWARE ROMS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Monitor, RAE and BASIC language into Signetics ROM modules\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Synertec_Sim1_RomSoft_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;KTM2 VIDEO INTERFACE \u0026amp; KEYBOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Peter de Vroomen\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Synertec_Sim1_KTM2_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;COMPLETE SYSTEM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Complete system with monitor, tape recorder, RAM expansion card, external PSU, Synertek BASIC interpreter and a whopping 8 KB of available RAM.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Peter de Vroomen\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Synertec_Sim1_CompleteSys_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SYNERTEK DOCUMENTATION\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Synertec_Sim1_DocSet_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;THE BOX\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Synertec_Sim1_Box_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (1979)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/synertek_sym1_advert_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [
+    "http://www.6502.org/trainers/synertek/"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/Synertec_Sim1_System_1.jpg",
+  "builtInGames": "Hexadecimal monitor - Assembler",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "ASCII Keyboard, expansion slots card",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

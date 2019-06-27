@@ -1,0 +1,64 @@
+{
+  "name": "PC AT",
+  "manufacturer": "IBM",
+  "type": "Professional Computer",
+  "origin": "U.S.A.",
+  "year": "1984",
+  "production": "",
+  "language": "Microsoft Basic interpreter",
+  "keyboard": "Full stroke keyboard with numeric keypad and function keys",
+  "cpu": "Intel 80286",
+  "speed": "6 MHz",
+  "coprocessor": "",
+  "ram": "512 KB (up to 3 MB)",
+  "vram": "",
+  "rom": "64 KB",
+  "text": "80 x 24 / 40 x 24",
+  "graphics": "EGA mode: 640 x 350",
+  "colors": "64",
+  "sound": "Beeper",
+  "size": "",
+  "ports": "8 x internal slots (six 16 bit ISA and two 8 bit ISA), RS232c, Centronics",
+  "power": "Built-in switching power supply unit",
+  "price": "Unknown",
+  "description": "\nThe IBM PC AT was the successor of the PC and the XT. IBM added a lot of new features: they abandoned the old Intel 8086 to the Intel 80286, so the PC AT used new 16 bit expansion slots.\n\nThe PC AT had a new version of the Microsoft OS: MS-DOS 3.0 which could manage the new 5.25\u0026quot; floppy disk format (1.2 MB), the new hard disk capacities (20 MB and more) and allowed file sharing. It had a new keyboard too (the same we use now, more or less) with cursor keys and a key that could lock it.\n\nTwo models were launched: the PC-AT model 1 (256 KB RAM, two floppy disk units and a color screen) and the PC-AT Model 2 (512 KB RAM, one floppy disk unit, one hard disk and a color screen).\n\nThis computer was revolutionary, but it was the last time IBM imposed a standard to the PC clone industry. The next year, the first PC based on a 80386 was made by Compaq and IBM failed to impose the PS/2 standard in 1986?\n_______________________",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Top view of an opened PC-AT. The new 20Mb hard-drive can be easily spotted (centre, yellow). On the left is the disk-drive. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; On the right we can see the motherboard with the memory chips and the expansion slots. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The big yellow box at the bottom left is the power unit.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/ibm_pc-at_inside.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT, JULY 1985\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Byte magazine\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/IBM_AT_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;IBM T-SHIRT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/IBM_AT_T-shirt_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d861",
+    "computer.asp?st\u003d1\u0026amp;c\u003d274",
+    "computer.asp?st\u003d1\u0026amp;c\u003d183",
+    "computer.asp?st\u003d1\u0026amp;c\u003d19",
+    "computer.asp?st\u003d1\u0026amp;c\u003d446",
+    "computer.asp?st\u003d1\u0026amp;c\u003d286",
+    "computer.asp?st\u003d1\u0026amp;c\u003d260",
+    "computer.asp?st\u003d1\u0026amp;c\u003d195",
+    "computer.asp?st\u003d1\u0026amp;c\u003d1274"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/IBM_AT_System_s1.jpg",
+  "builtInGames": "Microsoft Basic interpreter",
+  "controllers": "",
+  "media": "one 5.25\u0027\u0027 disk-drive, various Hard disk drives, from 20 MB",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

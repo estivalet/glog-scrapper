@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computer>
+    <adverts>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;FRENCH ADVERT.&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;quot;A genius at your reach...&amp;quot;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/tatung_einstein_advert_espacemicro.jpg</link>
+        </advert>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;UK ADVERT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;p class=&amp;quot;petitgris&amp;quot;&amp;gt;Thanks to &amp;lt;a href=&amp;quot;http://wotsit.thingy.com/haj/&amp;quot;&amp;gt;Howard Jones for this picture.&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/tatung_einstein_ad_2.jpg</link>
+        </advert>
+    </adverts>
+    <batteries></batteries>
+    <builtInGames>None</builtInGames>
+    <buttons></buttons>
+    <colors>16</colors>
+    <controllers></controllers>
+    <coprocessor></coprocessor>
+    <cpu>Zilog Z80 A</cpu>
+    <description>
+The Tatung Einstein has characteristics very near those of the MSX machines (same video modes, same sound chip, sprites, etc.) but is not compatible with this standard. It was built in the UK at Tatung's plant in Telford in Shropshire.
+
+The Einstein runs under Xtal/DOS which is an operating system compatible with CP/M. It was possible to connect an other floppy disk drive and a 80 column card was available.
+
+The Einstein was a very attractive computer but it was too expensive to have great market success.
+
+Ste Cork recalls:
+Pretty much every 8-bit development house in the NW of the UK was using these machines in the late '80s, we'd develop for Atari, C64, ZX, Amstrad, MSX, C16, you name it.  Superb keyboard, and the power-supply was so stable that you could quickly flick the switch off and on without the machine even noticing.  No mains spikes could ever interrupt these things.   I even wrote / sold a couple of games on it natively, they did ok. We mainly used them with 5.25 inch disks though, since the 3-inch disks it used weren't so reliable if you were writing to them continuously.  The 256MB silicon-drive was a must-have.Doomed to be for hobbyists / developers only though, since it had no mass market appeal at the price / performance.
+
+Alan Wilson reports us: This computer at the time was a programmers dream, the operating system was easy to reprogram, and an excellent MOS (Machine operating system)  mode meant that disk sectors or tracks could be easily loaded into memory, edited, then written back. Because of this, they were used to develop disk copy protection for the up and coming next generation Amiga and Atari ST.
+
+Trefor Hazlewood-Jones adds:
+Unlike most home computers this one boots up in MOS, it is then necessary to load Xtal/dos and a high level operating system. Xtal/basic was supplied with the machine but I also have disks to boot it into BBC/basic FORTRAN and Pascal. The right hand drive bay will accept a 3.5 inch floppy drive and the machine will happily format and use 3.5 inch floppy disks.
+Note: A 3.5&amp;quot; drive requires modifications to the case and it will only format 720K floppies. You need an updated DOS system first to enable you to access more than the standard DOS
+
+Einstein and Spectrum games, by Matthew Wilkes:
+There was a nifty assembler specially written that we used to use at Elite Systems for programming the ZX Spectrum games - enabling you to write and assemble Z80 code, then download to the Spectrum via interface I (F5 I think it was :-)) - if your buggy code crashed, you could simply re-boot the Spectrum and debug on the Einstein.
+
+ 
+
+
+</description>
+    <emulators>
+        <emulator>
+            <description>MESS emulator now emulates the Einstein !</description>
+            <link>http://www.mess.org/</link>
+            <name>MESS</name>
+            <platform>Multiplatform emulator</platform>
+        </emulator>
+    </emulators>
+    <graphics>256 x 192 dots</graphics>
+    <gun></gun>
+    <hardwares/>
+    <image>http://www.old-computers.com/museum/photos/Tatung_Einstein_System_2.jpg</image>
+    <keyboard>Full-stroke QWERTY keyboard. 51 keys + 8 function keys</keyboard>
+    <language>None</language>
+    <links>
+        <link>http://MEMBERS.LYCOS.CO.UK/ALBERTSTC01/</link>
+        <link>http://mysite.wanadoo-members.co.uk/retrocomputer/xindex.html</link>
+        <link>http://www.catharton.net/electronica/index.php?board=46</link>
+        <link>http://www.mjwilson.demon.co.uk/crash/36/speclt.htm</link>
+        <link>http://members.lycos.co.uk/tatung_einstein/</link>
+    </links>
+    <manufacturer>Tatung</manufacturer>
+    <media>one or two Hitachi 3'' floppy disk unit (380 KB)</media>
+    <name>EINSTEIN TC-01</name>
+    <numGames></numGames>
+    <origin>Ta?wan</origin>
+    <peripherals></peripherals>
+    <ports>RS232c, Centronics, User port, Joystick (2), Bus Z80, Floppy Disk</ports>
+    <power>Built-in switching power supply unit</power>
+    <price>?499</price>
+    <production></production>
+    <ram>64 KB (44 KB free for user)</ram>
+    <rom>8 KB (up to 32 KB)</rom>
+    <screenshots>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;SLEEPING CAT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This Einstein computer converted into a flower pot, seems to be an ideal nap spot for this cat !&amp;lt;p class=&amp;quot;petitgris&amp;quot;&amp;gt;Thank to &amp;lt;a href=&amp;quot;http://www.zyra.org.uk/index.htm&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;Zyra website&amp;lt;/a&amp;gt; for this most original picture !&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/tatung_einstein_cat.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;SYSTEM #1&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;One 3&amp;quot; Floppy disc drive version&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Tatung_Einstein_Console_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;SYSTEM #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;With Tatung color monitor.&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Tatung_Einstein_System_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;KEYBOARD AND FDD CLOSE-UP #1&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Tatung_Einstein_FDCloseup_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;KEYBOARD AND FDD CLOSE-UP #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Tatung_Einstein_KeybCloseup_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;BACK&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;(1)&amp;lt;/b&amp;gt; Colour monitor offered 3 video input modes:&amp;lt;br&amp;gt;   - Monochrome green mode&amp;lt;br&amp;gt;   - Linear RGB mode (Einstein native)&amp;lt;br&amp;gt;   - TTL RGB mode&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Tatung_Einstein_System_Back_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;EINSTEIN CONNECTORS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;(1)&amp;lt;/b&amp;gt; RF/TV modulator output&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(2)&amp;lt;/b&amp;gt; Sound volume adjustment&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(3)&amp;lt;/b&amp;gt; 2 x analog joystick DIN plug&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(4)&amp;lt;/b&amp;gt; Serial RS-232 DIN plug&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(5)&amp;lt;/b&amp;gt; Selectable RGB video output (Linear or TTL)&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(6)&amp;lt;/b&amp;gt; Parallel printer connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(7)&amp;lt;/b&amp;gt; User programmable I/O connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(8)&amp;lt;/b&amp;gt; Tatung Pipe connector (processor bus)&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(9)&amp;lt;/b&amp;gt; External floppy disc unit connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(10)&amp;lt;/b&amp;gt; Reset switch&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Tatung_Einstein_Connectors_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;EINSTEIN'S NEURONS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;(1)&amp;lt;/b&amp;gt; Selectable RGB video output (Linear or TTL)&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(2)&amp;lt;/b&amp;gt; Serial RS-232 DIN plug&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(3)&amp;lt;/b&amp;gt; 2 x analog joystick DIN plug&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(4)&amp;lt;/b&amp;gt; Sound volume adjustment&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(5)&amp;lt;/b&amp;gt; 8251 USART (Universal Synchronus&amp;lt;br&amp;gt;Asynchronus Receiver Transmitter) used for serial port&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(6)&amp;lt;/b&amp;gt; Z80 PIO (Parallel Input/Output Controller)&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(7)&amp;lt;/b&amp;gt; Counter/timer Z80 CTC&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(8)&amp;lt;/b&amp;gt; RF modulator for TV set connexion&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(9)&amp;lt;/b&amp;gt; Keyboard connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(10)&amp;lt;/b&amp;gt; Texas Instruments TMS 9129 video processor (same as MSX systems)&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(11)&amp;lt;/b&amp;gt; General Instrument AY-8910 sound generator (7 octaves, 3 voices)&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(12)&amp;lt;/b&amp;gt; Floppy disc magnetic fields protection&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(13)&amp;lt;/b&amp;gt; 8 x Mostek 4564 chips hold 64 KB of RAM&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(14)&amp;lt;/b&amp;gt; 8 KB 4764 EPROM holding the Einstein monitor&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(15)&amp;lt;/b&amp;gt; Z80-A processor. Here a Mostek version&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(16)&amp;lt;/b&amp;gt; Switching power supply&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(17)&amp;lt;/b&amp;gt; Reset switch&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Tatung_Einstein_Inside_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;CHIPS CLOSE-UP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Video and sound chips area.&amp;lt;br&amp;gt; Note the empty power connector, used for the second optional floppy disc drive&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Tatung_Einstein_MboardCloseUp_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;MANUALS SET&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Tatung_Einstein_Manuals_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;KUMA SOFTWARE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Kuma, an english software publisher, tried to propose some professional software for the Einstein computer &amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Tatung_Einstein_KumaSoft_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;THE BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Tatung_Einstein_Box_1.jpg</link>
+        </shot>
+    </screenshots>
+    <size>43.5 (W) x 51.5 (D) x 11.5 (H) cm</size>
+    <sound>3 voices, 7 octaves</sound>
+    <speed>4 MHz</speed>
+    <switches></switches>
+    <text>40 / 32 columns x 24 rows</text>
+    <type>Home Computer</type>
+    <vram>16 KB</vram>
+    <year>1984</year>
+</computer>

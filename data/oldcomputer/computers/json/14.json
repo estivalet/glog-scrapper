@@ -1,0 +1,54 @@
+{
+  "name": "8 / 16",
+  "manufacturer": "Xerox",
+  "type": "Professional Computer",
+  "origin": "U.S.A.",
+  "year": "1983",
+  "production": "1985",
+  "language": "",
+  "keyboard": "Full-stroke keyboard with numeric and editing keypads, arrow keys, 12 function keys",
+  "cpu": "Zilog Z80A @ 4 Mhz (8-bit)8086 @ 4,77 Mhz (16-bit)",
+  "speed": "4 Mhz (Z80A) and 4,77 Mhz (8086)",
+  "coprocessor": "",
+  "ram": "64 KB (Z80) + 128 KB (8086)",
+  "vram": "",
+  "rom": "4 KB Bootstrap",
+  "text": "80 x 25 / 40 x 25",
+  "graphics": "640 x 256",
+  "colors": "Unknown",
+  "sound": "Beeper",
+  "size": "",
+  "ports": "Serial 9600 bauds, Internal Expansion Slot, External Floppy Connector",
+  "power": "PSU built-in",
+  "price": "from 4575  to 8390  (France, 1984)",
+  "description": "\nThe \u0026quot;best of both worlds\u0026quot;. The Xerox 8 / 16 belongs to a family which appeared at the end of the 8 bit era, when MS-DOS began to be a standard for the 16-bit systems. It has two CPUs, the Z80 allows the use of CP/M and the 8086 is for MS DOS and CP/M 86. This computer was actually two computers sharing certain resources, like the display, the power supply and the floppies but essentially seperate.\nThis computer was one of the first, if not the first PC-sized computer that had concurrent processing (not time share, but real honest to goodness concurrent processing). One could start a task on either operating system, say a spread sheet, and then hot key over to the other processor and perform another task, all while the other \u0026quot;side\u0026quot; was working at full speed at it\u0027s task. Because the 16/8 was actually two computers in one, both sides worked at full capacity and did not share ram or other system resources required for processing data: they worked at full speed regardless of whether or not the other side was in use. Only the \u0026quot;active side\u0026quot; had access to the video, floppies and the hard drive (if avaialble), but with dual floppies, one floppy could be assigned for the 8 bit side and one for the 16 bit side. In that instance, each side would access the its assigned floppy when brought to the active side. \n\nThe 16/8 is made of four units :\n- a 12\u0027\u0027 monochrom monitor, housing the whole hardware of the system, like in the Apple Macintosh,\n- the keyboard, very complete,\n- the disks (two 5\u0027\u00271/4 disks, a hard-disk (5 MB, later 10 MB) was optional),\n- an expansion box meant to house the different expansion boards.\n\nThere was also a Diablo printer in option. The whole system thus took quite some room on your desktop!\n\nAfter the presentation of the first 16/8 in 1983, Xerox launched a new version in 1984, faster, more compact and sold with a hard-disk.\n\nUnfortunately the 16/8 was a bit obsolete as the 8-bit professional systems were dying slowly and the 16/8 wasn\u0027t offering much more than an IBM PC launched a few years before. The price of the system wasn\u0027t even attractive.\nXerox stopped the production of all its micro-computers at the start of the year 1985.\n\nThis computer is the direct successor of the Xerox 820 series, which could be almost converted into a Xerox 8/16 with a special 8086 board.\n\nDale Carpenter adds:\nSeveral things, an 820-II has an extra expansion slot on the motherboard. if you put the 16-bit card into that slot your 820-II is now a 16/8.\nYour picture shows a rectangular box called an EM-II (expansion module - II) to add it to a 16/8 you remove the 16-bit card and install it in the card cage in the center of the EM-II then install the card with 2 wide ribbon cables attached(coming from the EM-II) into the expansion slot on the motherboard.\nThe EM-II has either 1 hard drive, 1 floppy or 1 of each. The system supported the external drives also, the dual 5.25\u0026quot; and 8\u0026quot; boxes.\nOne final note not mentioned: all of the 8\u0026quot; drive boxes had an expansion plug on the back you could daisey chain up to 4 drive units onto any of the 820, 820-II and 16/8 machines.\n\n___________\n\nThanks to chrism3667 for the picture\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;COMPLETE SYSTEM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/xerox_16-8_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BOOT SCREENSHOT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to chrism3667 for the picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/xerox_8-16_boot.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;You hesitate between two standards.\u0026quot;\u0026lt;br\u0026gt; \u0026quot;Rank Xerox doesn\u0027t.\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/xerox_16-8_ad_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [],
+  "image": "http://www.old-computers.com/museum/photos/xerox_8-16_2.jpg",
+  "builtInGames": "One or Two 5.25\u0027\u0027 or 8\u0027\u0027 disk-drives",
+  "controllers": "",
+  "media": "One or Two 5.25\u0027\u0027 or 8\u0027\u0027 disk-drives",
+  "numGames": "",
+  "peripherals": "Memory expansion, Graphical board, printer, hard-disk, mouse",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

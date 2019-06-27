@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computer>
+    <adverts>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;1977 ADVERT #1&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This ad is unique in that it features professional actors and IMSAI employees.  &amp;lt;p class=&amp;quot;petitgris&amp;quot;&amp;gt;Thomas Fischer&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/Imsai_8048_Advert_2.jpg</link>
+        </advert>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;1977 ADVERT #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This ad uses actors, except for IMSAI's Finance Director Hersch Mandelman as the &amp;quot;Milk Man&amp;quot;.&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/Imsai_8048_Advert_1.jpg</link>
+        </advert>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;ABORTED ADVERT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;One of the aborted advert campaigns for the 8048 was &amp;quot;Micromania&amp;quot;.&amp;lt;p class=&amp;quot;petitgris&amp;quot;&amp;gt;Thomas Fischer&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/Imsai_8048_Advert_3.jpg</link>
+        </advert>
+    </adverts>
+    <batteries></batteries>
+    <builtInGames></builtInGames>
+    <buttons></buttons>
+    <colors></colors>
+    <controllers></controllers>
+    <coprocessor></coprocessor>
+    <cpu>Intel 8048</cpu>
+    <description>
+A soon as the Intel single chip microcomputer was available, IMSAI developped this single board computer. The 8048 processor offered integrated RAM, ROM, I/O, Timer/counter and interrupts. IMSAI added a 24 keys hexadecimal keyboard, a 9-digit LED hex display, 26 I/O lines connectors, 5 relays, Teletype and audio cassette interfaces. 2 Kb of ROM and 1 Kb. of RAM was intalled. Sockets was available for one additional Kb. The system was expandable up to 64 Kb. of RAM off board. The 8048 board was intended for computers newcomers particularly interested in interfacing techniques.
+Thanks to Thomas Fischer and his IMSAI site for the pictures and some information.
+ 
+
+
+</description>
+    <emulators/>
+    <graphics></graphics>
+    <gun></gun>
+    <hardwares/>
+    <image>http://www.old-computers.com/museum/photos/Imsai_8048_Board_1.jpg</image>
+    <keyboard>24 pad hexadecimal</keyboard>
+    <language></language>
+    <links>
+        <link>http://www.imsai.net/</link>
+    </links>
+    <manufacturer>IMSAI</manufacturer>
+    <media></media>
+    <name>8048</name>
+    <numGames></numGames>
+    <origin>U.S.A.</origin>
+    <peripherals>RAM expansion up to 64 Kb. 5V. Power supply $99</peripherals>
+    <ports>26 I/O pins, Teletype, tape recorder, relay output, power supply</ports>
+    <power>5V. external P.S.U.</power>
+    <price>ROM kit version: $249EROM kit version: $399ROM assembled version: $299EROM assembled version: $499</price>
+    <production></production>
+    <ram>1 Kb. (processor) + 1 Kb. (board)</ram>
+    <rom>1 Kb. (processor)</rom>
+    <screenshots>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;BOXED VERSION #1&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Thomas says: &amp;quot;This was the most common form of the 8048's that were shipped, mostly as kits.  I believe that fewer than 300 were sold.&amp;quot;&amp;lt;p class=&amp;quot;petitgris&amp;quot;&amp;gt;Thomas Fischer&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Imsai_8048_Boxed_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;BOXED VERSION #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This was a limited production package for the IMSAI Express version of the 8048.  It was targeted for the Model Railroad market and garnered much attention from the hobby community but, overall,  was not successful.  About 50 of these were produced.&amp;lt;p class=&amp;quot;petitgris&amp;quot;&amp;gt;Thomas Fischer&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Imsai_8048_Boxed_2.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;NOTEBOOK PROTOTYPE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;A prototype of a 8048 &amp;quot;notebook&amp;quot; version packaged along with tutorials and design sheets.  It was released with a solder-masked board and manual, all neatly packaged in an attractive white 3-ring binder&amp;lt;p class=&amp;quot;petitgris&amp;quot;&amp;gt;Thomas Fischer&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Imsai_8048_Proto_1.jpg</link>
+        </shot>
+    </screenshots>
+    <size>8.5 x 10 inches</size>
+    <sound></sound>
+    <speed></speed>
+    <switches></switches>
+    <text></text>
+    <type>Home Computer</type>
+    <vram></vram>
+    <year>1977</year>
+</computer>

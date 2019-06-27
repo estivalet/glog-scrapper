@@ -1,0 +1,67 @@
+{
+  "name": "Portable",
+  "manufacturer": "Compaq",
+  "type": "Transportable",
+  "origin": "U.S.A.",
+  "year": "January 1983 (April 1984 European Release)",
+  "production": "",
+  "language": "",
+  "keyboard": "Full-stroke detachable keyboard with function keys and numeric keypad",
+  "cpu": "Intel 8088",
+  "speed": "4.77 Mhz",
+  "coprocessor": "Optional 8087 math coprocessor",
+  "ram": "128 kb, up to 256 kb (and even 640k via IBM PC bus cards)",
+  "vram": "",
+  "rom": "",
+  "text": "80x25, 40x25 - 9\u0027\u0027 Mono CRT Display Built-in",
+  "graphics": "CGA, MDA",
+  "colors": "green phosphor monitor",
+  "sound": "",
+  "size": "34 lbs",
+  "ports": "Parallel Port, RS-232 Serial Port, CGA and composite video output, 5 x 8-bit ISA expansion slots",
+  "power": "Built-in PSU, 130 Watt power supply (the smallest and most powerful per cubic inch made to that date)",
+  "price": "US$2995",
+  "description": "\nAnnounced November 1982, the unit was actually shipped in January of 1983 (300 of them). This was arguably the system that destroyed IBM\u0027s monopoly on the PC market and created the situation we see today.  It WAS the first compatible system that was LEGALLY made, though Columbia first copied the IBM BIOS and later paid the fatal price.\n\nThe system\u0027s BIOS was developed from scratch by using a team of 18 persons (only one guy was \u0026quot;dirty\u0026quot; and he was not allowed to do any part of the code and could only answer vaguely to questions). They took IBM\u0027s BIOS apart and made notes of the system calls contained within it. That way, Compaq was able to develop a PC compatible without any risk of a lawsuit from IBM, since the code was written from scratch (reverse engineering). It cost them $1 million to do it.\n\nThe system itself weighs a hefty 34 pounds and was dubbed a \u0027luggable\u0027 computer\nrather than a true portable. It contained a 9\u0026quot; green phosphor CRT display and both serial and parallel ports. The system did MDA graphics as well as CGA by switching the scan frequencies of the monitor (a first that is the basis for VGA).\n\nThe only difference between the standard and \u0027Plus\u0027 models was that the latter had a single 5.25\u0026quot; floppy drive and a 10Mb hard disk, while the original model had two 5.25\u0026quot; drives. All units supported two 5.25\u0027\u0027 floppies at 160 KB, 320 KB and 360 KB. All units could have 10, 20, or 30 MB hard drives but Compaq only shipped 10MB Rhodime ruggedized drives (good for 40 G shock!). Some models also had a 20/40 MB tape drive. Compaq also shipped a brown nylon or brown leather carrying case and ONE blue case (Rod Canions unit).\n\nIn its first year of trading, Compaq took more than $111 million on this single\nproduct, which was a US business record. During that year (1983), more than\n53,000 units were sold.\n\nMuseum entry added by David Wyn Davies\nThanks to the Computer Closet Museum for the picture.\n\n\nDave (Compaq insider) reports:\nThe portable was the first unit and had silver logo plates. It had the standard 1 or 2 floppy drives. The Plus was the unit with the Rhodime 10MB fixed disk and had gold labels. Many folks get them confused as the Portable was easily upgradable to a Plus and many thousands were. Just check the label color.\n\nOh here\u0027s a tidbit - to remove the case cover, simply lay the unit flat (fold up the bottom feet) and press your elbow into the middle of the top cover and the rear edge of that cover will pop out enough to grab and lift off. One of the test ladies taught me that and we were all muscling it around - she simply figures out how to use what she has.\n\nThe power supply can be a bugger to remove also. It had a special wrench to remove the lower lock screw and the whole thing kinda slides out where you can then remove the connectors.\n\nMy unit had 2 1/2 ht 20 Mg drives and 2 1/2 ht floppy drives. I later swapped a floppy for a tape drive. It is presently in the Compaq internal museum (the \u0026quot;hall of fame\u0026quot;).\n\nPaul Dixon (another Compaq insider) replies:\nThe cover actually can be removed with one hand if you know exactly where to slap the heel of your hand onto the cover and then catch the edge as it pops out with your fingers.\nGraphic modes are shown here as CGA and MDA.  Actualy can MDA be described as a graphics mode?  I suppose if you count lines produced in text mode then it could be. However the Compaq portable did NOT support MDA (or Mode 7).  It emulated MDA in CGA mode 3 which is the text mode for CGA. \n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;COMPAQ FOUNDERS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Compaq Computer Corporation was founded in February 1982 by Rod Canion, Jim Harris and Bill Murto, three senior managers who left Texas Instruments and invested $1,000 each to form their own company. Sketched on a paper place mat in a Houston pie shop, their first product was the portable personal computer able to run all of the software being developed then for the IBM PC. \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/compaq_founders.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PORTABLE +\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This model has only one 5.25\u0027\u0027 Floppy Disk Drive but a 10Mb Hard Disk mounted in the second bay.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/compaq_portable_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE PORTABLE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;Robust but Heavy ! \u0026lt;/b\u0026gt;\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Compaq Plus was build without compromise: robust metal frame, shielding of all the radio waves sensitive parts, thick plastic body. Of course, quality weights a lot and Compaq Plus was intended for strong businessmen! The business women will have to wait for the next portable computers generation...\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;  \u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; Serial interface card with its connector, for printers and modems.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; Video card connector for a composite monochrome monitor.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; RGB Connector for a colour monitor.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(4)\u0026lt;/b\u0026gt; The metal frame has three functions: \u0026lt;br\u0026gt;  \u0026bull; To rigidify the case,\u0026lt;br\u0026gt;  \u0026bull; To absorb the heat emitted by the components and to act as a cooler,\u0026lt;br\u0026gt;  \u0026bull; To reduce the internal and external radio interference (Faraday screen room).\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(5)\u0026lt;/b\u0026gt; Interface slots and extension cards are protected by a plastic mask.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(6)\u0026lt;/b\u0026gt; Compaq Plus was delivered in single / double floppy disk / 10 Mb. hard-disk versions.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(7)\u0026lt;/b\u0026gt; The keyboard is a pure copy of the original PC one, with 10 function keys and numeric keypad, but without arrows block.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(8)\u0026lt;/b\u0026gt; Ventilated power supply housing. The machine can\u0027t be used with batteries.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(9)\u0026lt;/b\u0026gt; The motherboard includes 256 Kb. of Ram. Chip sockets are planned for a mathematical coprocessor 8087 and Rom BIOS extensions.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(10)\u0026lt;/b\u0026gt; Video Card with C.G.A. standard display and connectors for monochrome or colour monitor.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(11)\u0026lt;/b\u0026gt; Parallel interface card for any printer using the Centronics standard.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Compaq_PortablePlus_Inside_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;April 1983 \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Advert said \u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; Simple Isn\u0027t it?. The COMPAQ portable computer can do what the IBM Personal Computer does. To go.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; It runs all the popular programs written for the IBM. It works for the same printers ans other peripherals. It even accepts the same optional expansion electronics that give it additional capabilities and fonctionality.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; There\u0027s really only one big difference. The COMPAQ computer is designed to travel.\u0026lt;br\u0026gt; Carry the COMPAQ computer from office to office. Carry it home on the weekend. Or take it on business trips...\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Compaq_Portable_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said : \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0027\u0027The computer which carried away America\u0026quot;\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0027\u0027With its portable computers, Compaq became world number two on the market of the 16 bits computers. With a turnover of 240 million dollars in one year and a half, this young company established in Houston obtained the growth rate record of the American economic history.\u0026quot; \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Compaq_PortablePlus_Advert_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d1065",
+    "computer.asp?st\u003d1\u0026amp;c\u003d870",
+    "computer.asp?st\u003d1\u0026amp;c\u003d1064",
+    "ftp://ftp.compaq.com/pub/supportinformation/techpubs/qrg/portplus.pdf"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/compaq_portable_2.jpg",
+  "builtInGames": "2 x 5.25\u0027\u0027 floppies at 160 KB, 320 KB, and 360 KB.",
+  "controllers": "",
+  "media": "2 x 5.25\u0027\u0027 floppies at 160 KB, 320 KB, and 360 KB.",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

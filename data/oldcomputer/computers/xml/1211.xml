@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computer>
+    <adverts>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;UK ADVERT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/tandy_1000series_ad_1.jpg</link>
+        </advert>
+    </adverts>
+    <batteries></batteries>
+    <builtInGames>one 3.5'' floppy disk drives (720 KB)</builtInGames>
+    <buttons></buttons>
+    <colors>16 colours</colors>
+    <controllers></controllers>
+    <coprocessor></coprocessor>
+    <cpu>Intel 8088</cpu>
+    <description>
+The Tandy 1000 HX is a member of the Tandy 1000 series family. See this entry for more info.
+
+The Tandy 1000 HX, released in 1987, was designed as another entry level IBM compatible personal computer and the successor to the EX. Like the EX, the HX was a compact computer with the keyboard built into the computer casing. The computer came with an Intel 8088 CPU, 256 KB of memory, and had one 720 KB 3.5&amp;quot; disk drive on the right side of the machine behind the keyboard.
+HX computers came with MS-DOS 2.11 built into the ROM and ?Deskmate 2? on diskette.
+
+The computer's memory could be expanded to 640 KB by the use of a memory expansion card; by default these cards, sold by Tandy, came with 128 KB, but one could add another 384 KB in memory chips to this board. These cards were named ?Plus Cards? and used a pin configuration instead of the slot system used by IBM or the T-1000. The cards themselves followed all the IBM standards and eventually Radio Shack started selling the adaptors in their stores to allow the cards to be inserted into a standard IBM 8-bit ISA slot. There were three such spots available in the computer case.
+
+There was also a spare 3.5&amp;quot; drive bay in the computer case. On the back of the machine there was a port which allowed a user to connect an external 5.25&amp;quot; (360 KB) or 3.5&amp;quot; (720 KB) disk drive. There was also a connector for a printer.
+
+The 1000 HX did not come with a hard drive, and Tandy Corporation did not manufacture fixed disks for this type of computer. A HDD could be purchased from third party vendors, however.
+
+It was also here that the DOS in ROM was getting a little old and for the first time the settings on the computer could be changed so that instead of looking in ROM for DOS at bootup, it would go direct to the floppy drive instead. Most versions of MS-DOS worked with the 1000 HX, including 3.x, DOS 5.x &amp;amp; 6.x. DOS 4.0 did not work due to a bug in its environment that prevented it from working.
+
+__________
+
+Contributors: Derek McDonald (aka ?Skel?)
+Sources: Switchtec's Virtual PC Museum, Emperor Multimedia Electronic Archives, Wikipedia, 8-Bit Micro, Tandy 1000 PC Museum
+ 
+
+
+</description>
+    <emulators>
+        <emulator>
+            <description>Only dedicated Tandy 1000/IBM PC Jr emulator (offical site seems dead)</description>
+            <link>http://www.emu-france.com/?page=fichiers&amp;amp;idMachine=157</link>
+            <name>Tand-Em</name>
+            <platform>MS DOS emulator</platform>
+        </emulator>
+        <emulator>
+            <description>Exellent PC emulator to play old DOS games, including Tandy 1000 ones</description>
+            <link>http://sourceforge.net/projects/dosbox</link>
+            <name>DOSBox</name>
+            <platform>Windows emulator</platform>
+        </emulator>
+        <emulator>
+            <description>This famous emulator can emulate Tandy 1000 systems</description>
+            <link>http://www.mess.org</link>
+            <name>MESS</name>
+            <platform>Multiplatform emulator</platform>
+        </emulator>
+    </emulators>
+    <graphics>CGA/TGA, 160 x 200, 320 x 200, 640 x 200</graphics>
+    <gun></gun>
+    <hardwares>
+        <hardware type="JOYSTICKS">
+            <items>
+                <item>
+                    <description>Tandy joystick||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;TANDY JOYSTICK&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/tandy_1000_joy_1.jpg</photo>
+                </item>
+            </items>
+        </hardware>
+        <hardware type="MODEMS">
+            <items>
+                <item>
+                    <description>Tandy 300 baud modem|||with box &amp;amp; doc|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;TANDY 300 BAUD MODEM&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;with box &amp;amp; doc&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/tandy_1000_300baudmodem.jpg</photo>
+                </item>
+            </items>
+        </hardware>
+    </hardwares>
+    <hardwareDescription></hardwareDescription>
+    <image>http://www.old-computers.com/museum/photos/tandy_1000hx_1s.jpg</image>
+    <keyboard>Full stroke keyboard, 92 keys, 12 function keys</keyboard>
+    <language></language>
+    <links>
+        <link>computer.asp?st=1&amp;amp;c=1210</link>
+        <link>computer.asp?st=1&amp;amp;c=1213</link>
+        <link>computer.asp?st=1&amp;amp;c=1218</link>
+        <link>computer.asp?st=1&amp;amp;c=1215</link>
+        <link>computer.asp?st=1&amp;amp;c=1216</link>
+        <link>http://support.radioshack.com/productinfo/ProductResults.asp?Name=Tandy_Desktops&amp;amp;ID=001001001</link>
+        <link>http://www.RadioShackCatalogs.com</link>
+        <link>http://r.webring.com/hub?ring=tandy1000</link>
+        <link>http://www.brooksdeforest.com/tandy1000/</link>
+        <link>http://retrograde.trustno1.org/tandyroms.htm</link>
+        <link>http://www.oldskool.org/guides/tvdog/1kfaq.html</link>
+        <link>http://en.wikipedia.org/wiki/Tandy_1000</link>
+        <link>ftp://ftp.robertstinnett.com/mirror/Tandy1000/</link>
+    </links>
+    <manufacturer>Tandy Radio Shack</manufacturer>
+    <media>one 3.5'' floppy disk drives (720 KB)</media>
+    <name>1000 HX</name>
+    <numGames></numGames>
+    <origin>U.S.A.</origin>
+    <peripherals></peripherals>
+    <ports>2 x joysticks, monitor video output, composite video output, mono audio output, lightpen, parallel port, serial port (optional), external floppy drive, 3 internal expansion slots</ports>
+    <power>Built-in power supply</power>
+    <price>Unknown</price>
+    <production></production>
+    <ram>256 KB (up to 640 KB)</ram>
+    <rom>16 KB</rom>
+    <screenshots>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;TANDY 1000 HX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;p class=&amp;quot;petitgris&amp;quot;&amp;gt;Thanks to &amp;lt;a href=&amp;quot;http://www.1000bit.net&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;www.1000bit.net&amp;lt;/a&amp;gt; for this picture&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/tandy_1000hx_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;RIGHT SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;p class=&amp;quot;petitgris&amp;quot;&amp;gt;Thanks to &amp;lt;a href=&amp;quot;http://www.vcrp.fr&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;Vintage Computer Rescue Project&amp;lt;/a&amp;gt; for this picture&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/tandy_1000hx_r-side.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;DETAIL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;From left to right: &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; - Volume control knob&amp;lt;br&amp;gt; - Audio mono output&amp;lt;br&amp;gt; - 2 x joystick connectors&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/tandy_1000hx_r-side_2.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;INSIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This is where expansion cards can be mounted&amp;lt;p class=&amp;quot;petitgris&amp;quot;&amp;gt;Thanks to &amp;lt;a href=&amp;quot;http://www.vcrp.fr&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;Vintage Computer Rescue Project&amp;lt;/a&amp;gt; for this picture&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/tandy_1000hx_inside.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;LOGO&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;p class=&amp;quot;petitgris&amp;quot;&amp;gt;Thanks to &amp;lt;a href=&amp;quot;http://www.vcrp.fr&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;Vintage Computer Rescue Project&amp;lt;/a&amp;gt; for this picture&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/tandy_1000hx_logo.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;LOGO #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/tandy_1000hx_logo_2.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;REAR&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;From left to right: &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; - Printer connector&amp;lt;br&amp;gt; - External drive connector&amp;lt;br&amp;gt; - Composite video output&amp;lt;br&amp;gt; - Monitor RGB video output&amp;lt;br&amp;gt; - Three internal expansion slots&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/tandy_1000hx_rear.jpg</link>
+        </shot>
+    </screenshots>
+    <size>Unknown</size>
+    <sound>3 voices + 1 sound channel</sound>
+    <speed>4.77 MHz / 7.16 MHz</speed>
+    <switches></switches>
+    <text>Unknown</text>
+    <type>Home Computer</type>
+    <vram></vram>
+    <year>1987</year>
+</computer>

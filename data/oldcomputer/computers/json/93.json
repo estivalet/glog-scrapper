@@ -1,0 +1,54 @@
+{
+  "name": "BIT 90",
+  "manufacturer": "Bit Corporation",
+  "type": "Home Computer",
+  "origin": "Korea",
+  "year": "? 1983",
+  "production": "",
+  "language": "Basic",
+  "keyboard": "Rubber keyboard, 66 keys with Basic statements and graphic symbolsESC, CAPS LOWER, SHIFT (x2), CTRL, BASIC, FCTN, RETURN, BS (backspace), DEL, INS, RETURN, RST (Reset), arrow keys, symbol key",
+  "cpu": "Zilog Z80A",
+  "speed": "3.85 MHz",
+  "coprocessor": "Texas Instruments TMS-9929 (Video Generator)",
+  "ram": "18 kb (up to 64 kb), 1k left for programming",
+  "vram": "",
+  "rom": "24 kb",
+  "text": "32 x 24 with 16 colors",
+  "graphics": "64 x 48 (semi-graphic mode), 256 x 192",
+  "colors": "16",
+  "sound": "3 voices, 5 octaves",
+  "size": "Unknown",
+  "ports": "Cardridge slot, Cassette interface (2400 bauds), RGB video output, RF TV output, Audio output, 2 x Joystick port (Atari standard), Expansion Bus",
+  "power": "External PSU",
+  "price": "Unknown",
+  "description": "\nThis computer had a completely rubber keyboard a bit like the ZX-Spectrum. Basic statements and graphic symbols could be accessed via combinations of \u0026quot;function\u0026quot; keys such as CTRL, BASIC, FCTN and a special symbol key.\n\nThe BIT-90 could display 16 colors and 32 sprites, with a high-resolution of 256 x 192 pixels.\n\nLike its little brother the BIT-60, the BIT 90 could directly accept Colecovision cartridges, and Atari 2600 cartridges through a special interface. \nThe BIT-90 is also supposed to be a Sega SC-3000 clone with which it bears a striking resemblance.\n\nThe BIT-90, like the BIT-60 seems to have been available in different colored models, at least one white and one grey.\nSurely due to legal problems, this computer didn\u0027t last long.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BIT-90\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Picture courtesy of \u0026lt;a href\u003d\u0026quot;http://www.zock.com\u0026quot;\u0026gt;8-bit Nirvana\u0026lt;/a\u0026gt;.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/bit-corp_bit-90_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ANOTHER PICTURE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Picture courtesy of \u0026lt;a href\u003d\u0026quot;http://www.homecomputer.de/\u0026quot;\u0026gt;Stefan Walgenbach / HomeComputer.de\u0026lt;/a\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/bit-corp_bit-90_3.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is a German advertisement for the BIT-60 and BIT-90 models. Atari VCS-2600 cartridges are scattered in front of the BIT-60 to show that the it is really compatible with the VCS-2600 ! But strangely enough, there is no picture displayed on the TV. Were these models really  working ? ;-)\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/bit-corp_bit60-90_ad_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [],
+  "image": "http://www.old-computers.com/museum/photos/bit-corp_bit90_chicklet.jpg",
+  "builtInGames": "Basic",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "Memory expansion",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

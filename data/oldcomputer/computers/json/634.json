@@ -1,0 +1,89 @@
+{
+  "name": "2068",
+  "manufacturer": "TIMEX / SINCLAIR",
+  "type": "Home Computer",
+  "origin": "U.S.A.",
+  "year": "Fall 1983",
+  "production": "",
+  "language": "TS 2068 Basic",
+  "keyboard": "Chicklet keyboard",
+  "cpu": "Z80A",
+  "speed": "3.58 Mhz",
+  "coprocessor": "",
+  "ram": "48 KB",
+  "vram": "",
+  "rom": "24 KB (16 KB + 8 KB Exrom)",
+  "text": "32 x 24",
+  "graphics": "256 x 192 (with 32x24 or 32x192 attributes), 512 x 192",
+  "colors": "16",
+  "sound": "AY-3-8912 Sound Chip (same as 128K Spectrums)",
+  "size": "",
+  "ports": "Two joystick connectors, RF out, Composite video output, RGB video output, cartridge slot, tape-recorder",
+  "power": "DVE power supply, 15 V at 1 Amp DC, and with the outside sleeve of the plug positive and the inside negative.",
+  "price": "US $199.99 (USA, 1983)",
+  "description": "\nThis is the American version of the Spectrum. It has an additional 8K extension ROM, cartridge port, two joystick ports and AY-3-8912 sound chip with extra Sinclair BASIC commands to support these devices (STICK, SOUND). It was packaged in a hard plastic silver case with nonstandard plastic keys.\n\nThe TS2068 is Timex\u0027s re-engineered 48K Spectrum. It was released in Fall 1983 just before Timex Computer Corp folded in Spring 1984. A rogue arm of Timex in Portugal continued to sell TC2068s (same as TS2068) and TC2048s (an improved Spectrum) until 1989. They, of course, were only allowed to sell in non-Sinclair controlled marketplaces.\n\nTimex recognized that a 48K Spectrum would not continue being competitive in North America for long without changes being made. They developed two computers that were to be North America\u0027s debut of the Spectrum. One was called the TS2048 and the other the TS2068. The TS2048 was basically a 48K Spectrum w/ Kempston joystick and the advanced video modes of the TS2068. The TS2068 was a completely different computer with the Spectrum as its roots. Timex decided to only sell the TS2068. When sales over Christmas 1983 were disappointing, they pulled the plug. Timex of Portugal, no doubt encouraged by the Spectrum\u0027s popularity in Europe, continued to sell the TS2068 and offered the TS2048 as the TC2068 and TC2048 in parts of Europe, notably Portugal and Poland. When Timex pulled the plug, they dumped all their surplus TS2068s in Argentina.\n\nAs for Spectrum compatibilty: The tape I/O is the same so you can load Spectrum tape files.  Spectrum BASIC is a subset of the TS2068\u0027s BASIC, so you can run Spectrum BASIC programs.  The TS2068\u0027s ROM is different, though, so you can\u0027t run Spectrum m/c that makes use of the ROM. Without the aid of a Spectrum emulator, you can run about 7% of the Spectrum\u0027s commercially available software.\n\nThe Spectrum emulator is really a Spectrum ROM on cartridge (there are other forms) that is bankswitched into the lower 0-16K region. The top 48K region is filled with RAM. To the software this looks exactly the same as a 48K Spectrum. There are a few hardware reasons for incompatibilities but using an emulator, you can reach 97% compatibility.\n\n________\n\nText taken from Sinclair Computer Hardware Factsheet.\nThanks Bob Johnson.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;KEYBOARD CLOSE-UP #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Timex_2068_Keyboard_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;KEYBOARD CLOSE-UP #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Timex_2068_Keyboard_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ROM CARTRIDGES HOUSING\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Timex_2068_RightSide_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LEFT SIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Left joystick connector and On/Off switch\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Timex_2068_LetfSide_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR CONNECTORS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; Right joystick DB9 connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; Expansion connector trap door\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; Composite video RCA connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(4)\u0026lt;/b\u0026gt; Tape recorder In/Out jacks\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(5)\u0026lt;/b\u0026gt; External AC power adaptor jack\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(6)\u0026lt;/b\u0026gt; UHF modulator output for TV set connexion  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Timex_2068_Back_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ROM CARTRIDGES\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Timex_2068_Cartridges_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MOTHERBOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; Left joystick DB9 connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; Power switch\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; Loudspeaker\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(4)\u0026lt;/b\u0026gt; RF modulator for TV connexion\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(5)\u0026lt;/b\u0026gt; Sound generator chip AY-3-8912 from General Insrtruments (3 voices, 9 octaves and white noises)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(6)\u0026lt;/b\u0026gt; External power supply unit connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(7)\u0026lt;/b\u0026gt; Keyboard flat cable connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(8)\u0026lt;/b\u0026gt; Tape recorder Ear/Mic jack plugs\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(9)\u0026lt;/b\u0026gt; RCA plug for a composite video monitor\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(10)\u0026lt;/b\u0026gt; Zilog Z80A processor\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(11)\u0026lt;/b\u0026gt; Spectrum ULA chipset made in USA by NCR\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(12)\u0026lt;/b\u0026gt; 6 x 4416 chips hold 48 KB of RAM memory\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(13)\u0026lt;/b\u0026gt; BASIC and operating system ROM chips\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(14)\u0026lt;/b\u0026gt; ROM cartridges connector and housing\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(15)\u0026lt;/b\u0026gt; Right joystick connector \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Timex_2068_MotherBoard_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ULA AND SYSTEM ROM CLOSE-UP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Timex_2068_MotherBoard_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;THE BOX\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Timex_2068_Box_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROMOTIONAL PICTURE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/timex_2068_promo-pic.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d639",
+    "computer.asp?st\u003d1\u0026amp;c\u003d935",
+    "http://members.fortunecity.com/johnnyred/",
+    "http://www.ts1000.us/",
+    "http://www.timexsinclair.org/",
+    "http://www.worldofspectrum.org/documentation.html"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/Timex_2068_System_1.jpg",
+  "builtInGames": "TS 2068 Basic",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

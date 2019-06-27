@@ -1,0 +1,52 @@
+{
+  "name": "PCC 2000",
+  "manufacturer": "Ordisor",
+  "type": "Professional Computer",
+  "origin": "France",
+  "year": "1980",
+  "production": "Unknown",
+  "language": "Unknown",
+  "keyboard": "Full-stroke AZERTY keyboard with editing and numeric keypads. 12 function keys",
+  "cpu": "Intel 8085",
+  "speed": "3 Mhz",
+  "coprocessor": "Unknown",
+  "ram": "64 KB (up to 1MB)",
+  "vram": "",
+  "rom": "Unknown",
+  "text": "Unknown",
+  "graphics": "Unknown",
+  "colors": "Unknown",
+  "sound": "Unknown",
+  "size": "Unknown",
+  "ports": "Unknown",
+  "power": "Built-in power supply",
+  "price": "Unknown",
+  "description": "\nPCC 2000 is an obscure professional computer released in 1980. It was marketed by Ordisor in France, (a company belonging to the group Sofragem) but the machine was in fact imported from U.S.A. The PCC 2000 was designed there in 1978 by Pertec, the company which merged with MITS by the end of 1976.\n\nThe only information source we have for the french version is an advert from may 1980. Looking at the picture, the PCC seems to be conceived as a monobloc machine, where the display and two 8\u0026quot; floppy disk drives are built-in the main case. The keyboard (AZERTY here) with its separated numeric and editing keypads is not detachable.\n\nThe system is powered by an Intel 8085 microprocessor and offers 64 KB RAM. The whole thing was apparently delivered with an extended Basic language, which has DOS commands built-in to control the disk drives.\n\nOptions advertised were: \n- CP/M, Cobol, Fortran, Basic compiler languages\n- 10 MB hard disk\n- wordprocessor software\n- multi-terminals\n- multi-tasking\n\nAs you can see we don\u0027t much about this system, help is largely welcomed.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PCC 2000\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/ordisor_pcc2000_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (MAY 1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/ordisor_pcc2000_pub_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [
+    "http://datareign.co.uk/doku.php?id\u003d1978_pertec_pcc-2000"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/ordisor_pcc2000_1s.jpg",
+  "builtInGames": "Unknown",
+  "controllers": "",
+  "media": "2 x 8\u0027\u0027 floppy disk-drives (500 KB/axis)",
+  "numGames": "",
+  "peripherals": "10 MB hard disks, floppy disk drives, dumb terminals, printers",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

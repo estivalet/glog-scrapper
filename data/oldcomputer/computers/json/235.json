@@ -1,0 +1,61 @@
+{
+  "name": "TELESTRAT",
+  "manufacturer": "Oric",
+  "type": "Home Computer",
+  "origin": "France",
+  "year": "1986",
+  "production": "",
+  "language": "None (Basic on cartridge)",
+  "keyboard": "AZERTY mechanical keyboard57 keys",
+  "cpu": "MOS 6502",
+  "speed": "1 Mhz",
+  "coprocessor": "",
+  "ram": "64 kb",
+  "vram": "",
+  "rom": "48 kb",
+  "text": "40 x 28",
+  "graphics": "240 x 200",
+  "colors": "8",
+  "sound": "AY-3-8912 chipset; 3 channels, 8 octaves",
+  "size": "34,8 x 26 x 7,1 cm",
+  "ports": "RGB video output (Scart), Parallel / Centronics port, Serial RS232s port, 2 Joystick sockets (Atari standard), Tape-recorder, Disk-drive port, Midi sockets, Expansion port (same as Atmos), Minitel plug (serial 1200/75 bauds)",
+  "power": "",
+  "price": "608  (France, september 86)907  with color monitor (France, september 86)",
+  "description": "\nThe Oric Telestrat is the successor of the Oric 1 and Oric Atmos with which it is compatible. It was launched some months after Oric was bought by Eur?ka, a French company in 1985.\n\nIt was designed especially for telecommunications, like the Goupil 2, the Thomson TO-9+ or the Exeltel. It was designed to be used with the Minitel (French videotext terminal): it has a special ROM (8 KB) enabling the Telestrat to act as a videotext server.\n\nA 3\u0026quot; floppy disk drive was available (400 KB) which run under StradSED (the Oric operating system, compatible with the old Oric DOS).\n\nSeveral ROM cartridges were developed for this machine: Midi software (unreleased), Hyper Basic (compiled basic), Telematic Basic (designed for telecommunications), etc...\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SIDE VIEW\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/oric_telestrat.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;COMPLETE CONFIGURATION\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;A Telestrat working and linked to a Minitel (french videotext terminal) and with its Microdisc disk-drive.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/oric_telestrat_complet.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;IN ACTION...\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;A Telestrat with 2 catridges plugged-in (Hyper Basic and Telematic) and emulating a videotext display.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/oric_telestrat_complet2.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT.\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/oric_telestrat_pub1a.jpg"
+    }
+  ],
+  "hardwareDescription": "Many products were planned to be released for the Telestrat but only a few really were produced. The 80 columns card for example never appeared. Same destiny for the Midi cartridge... Only the following items were really produced :\n\n- A mouse\n- 64k RAM expansion cartridge\n- Oric-1 / Atmos compatibility cartridge\n- Hyper-Basic, Tele-Forth, Tele-Ass and Telematic cartridges\n\nBut many Atmos / Oric-1 extensions could be used via the compatible expansion port. ",
+  "hardware": [],
+  "emulator": [],
+  "link": [
+    "http://www.troude.com/Pinky/Index.html-ssi"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/oric_telestrat_2.jpg",
+  "builtInGames": "None (Basic on cartridge)",
+  "controllers": "",
+  "media": "Disk-drive controller built-in, for Microdisc 3\u0027\u0027 disk drive",
+  "numGames": "",
+  "peripherals": "Diskdrive, printers, cartridges, ...",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

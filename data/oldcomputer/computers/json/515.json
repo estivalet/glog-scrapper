@@ -1,0 +1,70 @@
+{
+  "name": "ACS-586 / 686",
+  "manufacturer": "Altos Computer Systems",
+  "type": "Professional Computer",
+  "origin": "U.S.A.",
+  "year": "January 1983",
+  "production": "",
+  "language": "None",
+  "keyboard": "Full-stroke keyboard (108 keys), editing \u0026amp; numeric keypad, 16 function keys",
+  "cpu": "Intel 8086",
+  "speed": "10 Mhz",
+  "coprocessor": "Intel 8089 (I/O), Z80 (Serial ports)",
+  "ram": "512 kb (up to 1Mb)",
+  "vram": "",
+  "rom": "32 kb",
+  "text": "40 x 25, 80 x 25, 132 x 40",
+  "graphics": "800 x 325",
+  "colors": "Monochrome",
+  "sound": "",
+  "size": "",
+  "ports": "6 x RS232, Serial expansion, multibus bus, Ethernet, Altos-Net (RS422)",
+  "power": "Built-in PSU",
+  "price": "$7990 (System with 512 KB RAM, 10 MB hard disk and 1 MB floppy disk)",
+  "description": "\nThe ACS-586 was a multipost system which could handle 5 users or more (8) with optional cards. To connect the terminals, there were several RS232 ports at the back of the system, labeled JA, JB, JC, JD, JE, etc... The ports not used by the terminals could be used to connect any serial peripheral, i.e. modem or printer. \n\nThe 186 was the first computer from a big company to use Xenix as its native operating system. Xenix was the Microsoft \u0026quot;adaptation\u0026quot; of Unix.\n\nThis system was quite well designed with its squashed hexagon shaped box and its thin monitor. These were medium-sized desktop cases, usually beige but often came in custom colors. \n\nA fully-loaded 586 contained four printed-circuit boards.\nThe main board held the 80186 and 512 KB of RAM; a Z80 I/O processor supporting six serial I/O ports, floppy disc access, and an RN422 LAN; and sundry memory management components allowing the 586 to support Xenix.\nA second board held a hard disk and tape controller with an Intel 8089 I/O processor\nAn optional communication board provided an Ethernet chipset and processors supporting either the X25 or SNA protocols, or four additional serial I/O ports.\nThe fourth board was an optional  memory expansion board providing an additional 512 KB of RAM.\n\nIt had a 5\u0027\u00271/4 disk-drive built-in on the right part of the front panel, and a hard-disk on the left part.\nA real-time clock was included with the system. There were 128 semi-graphic symbols available.\n\nThe Altos 686 appears to be the same machine as the 586, but with an 80286 processor.\n\nAltos also produced an 8-bit version of this system, called the ACS-580.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;COMPLETE SYSTEM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/altos_acs-586_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LARGE VIEW\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Altos_ACS686_System_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR SIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(1)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 6 console connectors\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(2)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Worknet connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(3)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; External HDD connectors\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(4)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Aux. port connectors\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Altos_ACS686_BackSide_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The upper part holds the switching power supply unit, the hard disk drive (here a 20 MB), and the floppy disc drive.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Altos_ACS686_Inside_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The bottom part holds the I/O board and the main CPU board.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; Intel 80286 processor\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; 1 MB RAM chips\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; console I/O chips\u0026lt;br\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Altos_ACS686_Inside_s2.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;From 1 to 16 users\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/altos_advert-1-16-utilisateurs_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Isn\u0027t this a stupid advert ?!\u0026lt;br\u0026gt; Look carefully at each face !\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/altos_advert-1-16_stupid.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [],
+  "image": "http://www.old-computers.com/museum/photos/Altos_ACS686_System_s1.jpg",
+  "builtInGames": "None",
+  "controllers": "",
+  "media": "One 5\u0027\u00271/4 disk-drive, 1MbWinchester hard-disk (10, 30 or 40Mb)",
+  "numGames": "",
+  "peripherals": "512k RAM expansion, additional RS232 ports (4), network card, second hard-disk, streamer",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

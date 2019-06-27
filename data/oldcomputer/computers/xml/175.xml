@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computer>
+    <adverts>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;LUCAS LOGIC BROCHURE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/Lucas_Nascom3_Brochure_s1.jpg</link>
+        </advert>
+    </adverts>
+    <batteries></batteries>
+    <builtInGames>Microsoft Basic</builtInGames>
+    <buttons></buttons>
+    <colors>8 (320 x 256) / 2 (640 x 256)</colors>
+    <controllers></controllers>
+    <coprocessor></coprocessor>
+    <cpu>Zilog Z80 A</cpu>
+    <description>
+When the original Nascom company went into liquidation, the owner and a number of staff immediately set up Gemini in the next town. Gemini produced computer boards and systems using the same bus as the original Nascom. After some delay, the original Nascom operation was taken over by a division of Lucas Industries in 1981 (renamed Lucas Nascom), who developed the system and produced new boards and software.
+
+The Nascom 3 was basically a cased version of the original Nascom 2, using the original Nascom 2 mother board, with space for fitting various expansion cards (disc drive interface, Advanced Video Controller, memory, etc).
+
+Both CPM and NAS-DOS operating systems were available for disc users, though the original tape interface remained, and in its most basic form the machine could be used with this, and no disc drives. There was also a network system based on NAS-DOS.
+
+Since the bus of both the Nascom and Gemini systems was the same, it was not unusual for users to create hybrid systems - adding, for example, Gemini boards to their Nascom 3 or 2, or of course fitting Nascom boards into Gemini systems. Lucas designed and manufactured their own boards and systems, and indeed the Gemini and Nascom products were in competition in the market.
+
+There was several software available: Nascal (Financial Modeller), Manor (Data Base Manager), Corplan (Business Modeller), Calcstar (Financial Modeller), Wordstar (Word Processor), FMS 81 (Data Base Manager), etc.
+
+The Nascom III can accept Nascom II boards, and some new hardware: Hires colour graphics, 80 columns, single or double floppy drives (0.75 MB each), printer, etc.
+
+Thanks to Mike Hessey for the help.
+ 
+
+
+</description>
+    <emulators>
+        <emulator>
+            <description>This emulator, written by Paul Robson, supports all the hardware of the standard Nascom 1</description>
+            <link>http://members.aol.com/mk14emu/nascom.htm</link>
+            <name>Nascom 1 emulator</name>
+            <platform>MS DOS emulator</platform>
+        </emulator>
+        <emulator>
+            <description>MESS also emulates Nascom computers !</description>
+            <link>http://www.mess.org</link>
+            <name>MESS</name>
+            <platform>Windows emulator</platform>
+        </emulator>
+        <emulator>
+            <description>This Nascom-2 emulator is a work in progress. It is an attempt to fully emulate a Nascom-2 computer. </description>
+            <link>http://www.myplace.nu/nascom/nasemu.htm</link>
+            <name>Nasemu</name>
+            <platform>Windows emulator</platform>
+        </emulator>
+        <emulator>
+            <description>Java emulator written by Richard Espley is available.</description>
+            <link>http://www.nascomhomepage.com/#Virtual%20Nascom</link>
+            <name>Nascom 2 / 3 Java Emulator</name>
+            <platform>Other platform emulator</platform>
+        </emulator>
+        <emulator>
+            <description>Nascom emulator for Unix/X11 and DOS</description>
+            <link>http://www.nascomhomepage.com/#Virtual%20Nascom</link>
+            <name>Virtual Nascom</name>
+            <platform>Multiplatform emulator</platform>
+        </emulator>
+    </emulators>
+    <graphics>400 x 256 (8 colours) - 800 x 256 (2 colours)</graphics>
+    <gun></gun>
+    <hardwares/>
+    <image>http://www.old-computers.com/museum/photos/Lucas_Nascom3_System_s1.jpg</image>
+    <keyboard>Full-stroke keyboard</keyboard>
+    <language>Microsoft Basic</language>
+    <links>
+        <link>computer.asp?st=1&amp;amp;c=814</link>
+        <link>computer.asp?st=1&amp;amp;c=815</link>
+        <link>HTTP://WWW.80BUS.COM</link>
+        <link>http://www.mixtel.pwp.blueyonder.co.uk/pictures.html</link>
+        <link>http://www.mixtel.pwp.blueyonder.co.uk/nascgem/index.html</link>
+        <link>http://www.bln.de/conzi/nascomhomepage/</link>
+        <link>http://www.myplace.nu/nascom/</link>
+        <link>http://www.nascomhomepage.com/</link>
+    </links>
+    <manufacturer>Lucas</manufacturer>
+    <media>Two 350 KB 5.25'' disk-drives (optional)</media>
+    <name>Nascom 3</name>
+    <numGames></numGames>
+    <origin>United Kingdom</origin>
+    <peripherals>Light pen, NASBUS cards</peripherals>
+    <ports>TV and video outputs, tape recorder, Serial and Parallel ports</ports>
+    <power>built-in power supply unit</power>
+    <price>$1,493 (UK, 1982)</price>
+    <production></production>
+    <ram>8 KB to 60 KB (depending on models)</ram>
+    <rom>Unknown</rom>
+    <screenshots>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;LARGE VIEW&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Lucas_Nascom3_System_s2.jpg</link>
+        </shot>
+    </screenshots>
+    <size></size>
+    <sound>Unknown</sound>
+    <speed>4 MHz</speed>
+    <switches></switches>
+    <text>40 or 80 columns x 25 lines</text>
+    <type>Home Computer</type>
+    <vram></vram>
+    <year>December 1981</year>
+</computer>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computer>
+    <adverts>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;U.S. ADVERT (1979)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The advert says:&amp;lt;br&amp;gt;&amp;lt;br&amp;gt; &amp;lt;font color=&amp;quot;#666666&amp;quot;&amp;gt;The new ASC8000-6 single board computer is packed with ultra-high technology: Z80 double density computer, up to 2048Kb of high speed RAM, Floppy-disk and Winchester Hard Disk controllers, DMA, up to 6 serial / 2 parallel I/O, optional 32 bit floating point processor... All on one board, fully socketed, fully documented, reliable and maintainable...&amp;lt;/font&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/Altos_Acs8000_Advert_2.jpg</link>
+        </advert>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;U.S. ADVERT (1980)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The advert says:&amp;lt;br&amp;gt;&amp;lt;br&amp;gt; &amp;lt;font color =&amp;quot;#666666&amp;quot;&amp;gt;The Altos ACS8000-6 series. It's a barrier breaker in every sense. Our entry level, single-user, hard-disk system with floppy backup is priced under $10,000...&amp;lt;br&amp;gt; ... With MP/M at the helm, your Altos system can support up to four simulteneous users with 48 KB RAM each plus 58 MB of Winchester storage and 4 MB of floppy backup. And that adds up to the first microcomputer to give you the power and performance of a minicomputer.&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/Altos_Acs8000_Advert_1.jpg</link>
+        </advert>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;FRENCH ADVERT.&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This advert was for the Serie 5 and the ACS-8000 systems.&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/altos_serie5_pub.jpg</link>
+        </advert>
+    </adverts>
+    <batteries></batteries>
+    <builtInGames>8'' disk-drives : from 512 kb to 2 Mb10, 20 or 40 Mb Winchester hard-disk (upgradable to 80 Mb)17 Mb magnetic streamer (ACS-8000 MTU only)</builtInGames>
+    <buttons></buttons>
+    <colors></colors>
+    <controllers></controllers>
+    <coprocessor></coprocessor>
+    <cpu>Z80A</cpu>
+    <description>
+The ACS-8xxx were multi-user systems. They could support from 1 to 4 users, but you could also get them in versions for up to 9 users and a supervisor. In appearance, they were large and heavy rectangular desktop boxes with Z80 or 68000 CPUs (ACS-68000 series).
+
+They used a large custom single-board computer the size of the case. The drive controller was a 
+separate half-card mounted on top of the SBC. The early 8000s had separate cases for the 8&amp;quot; FD &amp;amp; HD. In later models the drives and cards were 
+integrated into the same case.
+
+The 8000 systems were labeled ACS-8000-x, where x indicates the size of the disk-drive and hard disk :
+
+x=1 : 500 kb (SS/SD) FDD
+x=2 : 1000 kb (DS/SD) FDD
+x=3 : 1000 kb (SS/DD) FDD 
+x=4 : 2000 kb (DS/DD) FDD
+x=10 : 10 Mb HD
+x=12 : 20 Mb HD
+x=14 : 40 Mb HD
+
+The ACS-8000 had a 10, 20 or 40 MB Winchester hard-drive and could be upgraded to 80 MB. Hard-disk models also had disk-drives. CP/M, MP/M II or Oasis were the available operating systems.
+The ACS-8000 MTU had a 17 MB magnetic streamer.
+
+The ACS-8000 was quite similar to the Altos Serie 5 but was more powerful.
+ 
+
+
+</description>
+    <emulators/>
+    <graphics></graphics>
+    <gun></gun>
+    <hardwares/>
+    <image>http://www.old-computers.com/museum/photos/altos_acs8000-12_1.jpg</image>
+    <keyboard>Terminal keyboard</keyboard>
+    <language></language>
+    <links/>
+    <manufacturer>Altos Computer Systems</manufacturer>
+    <media>8'' disk-drives : from 512 kb to 2 Mb10, 20 or 40 Mb Winchester hard-disk (upgradable to 80 Mb)17 Mb magnetic streamer (ACS-8000 MTU only)</media>
+    <name>ACS-8000</name>
+    <numGames></numGames>
+    <origin>U.S.A.</origin>
+    <peripherals></peripherals>
+    <ports>several RS232 ports (depending on models), parallel</ports>
+    <power>Built-in PSU</power>
+    <price></price>
+    <production></production>
+    <ram>From 32 kb to 208 kb</ram>
+    <rom>Unknown</rom>
+    <screenshots>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;ACS-8000-12&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/altos_acs8000-12_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;INSIDE THE ACS-8000-12&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/altos_acs8000-12_inside.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;REAR OF THE ACS-8000-12&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/altos_acs8000-12_rear.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;REAR OF THE ACS 8000-2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/altos_acs8000-2_rear.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;REAR OF A ACS 8000-10&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Apart from the big fan, we can see the ouputs for 6 terminals, i.e. 6 users.&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/altos_acs8000-10_rear.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;8'' DISK-DRIVE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/altos_acs8000-2_8pouces_closeup.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;INSIDE AN ACS 8000-10&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/altos_acs8000-10_inside.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;&amp;quot;PLAYBOY&amp;quot; MODEL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Ok, it's just a sticker...&amp;lt;p class=&amp;quot;petitgris&amp;quot;&amp;gt;Picture courtesy of &amp;lt;a href=&amp;quot;http://users.knoware.nl/users/stuurmn/&amp;quot;&amp;gt;Albert's Virtual Computer Museum&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/altos_acs8000-playboy_1.jpg</link>
+        </shot>
+    </screenshots>
+    <size>designed to fit a standard 19</size>
+    <sound></sound>
+    <speed>4 Mhz</speed>
+    <switches></switches>
+    <text>Display features depend on the attached terminal</text>
+    <type>Professional Computer</type>
+    <vram></vram>
+    <year>1978</year>
+</computer>

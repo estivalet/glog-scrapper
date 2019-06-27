@@ -1,0 +1,183 @@
+{
+  "name": "1500",
+  "manufacturer": "TIMEX / SINCLAIR",
+  "type": "Home Computer",
+  "origin": "U.S.A.",
+  "year": "August 1983",
+  "production": "",
+  "language": "Sinclair Basic",
+  "keyboard": "Chicklet keyboard (ZX Spectrum style), 40 keys",
+  "cpu": "Zilog Z80A",
+  "speed": "3.5 MHz",
+  "coprocessor": "",
+  "ram": "16 KB",
+  "vram": "",
+  "rom": "8 KB",
+  "text": "32 columns x 24 lines (2 lines are reserved for system messages and commands)",
+  "graphics": "64 x 44 dots",
+  "colors": "Black and white",
+  "sound": "None",
+  "size": "23 x 14,4 x 3 cm / 550g",
+  "ports": "Expansion bus (Z80 bus), tape interface, RF video output",
+  "power": "9V AC adaptor",
+  "price": "US $79.95 (USA, 1983)",
+  "description": "\nThe Timex-Sinclair 1500 is basicaly a Sinclair ZX-81 in a ZX Spectrum case with 16 KB RAM.\n\nTimex marketed the Sinclair computers on the North American market. The ZX-81 was sold as the TS-1000 (with 2 KB RAM instead of 1 KB of the original model) and the ZX Spectrum as the forth-coming TS-2000 (which remained a prototype). As the sales of the TS-1000 were dangerously falling, Timex produced a mix between the ZX-81 and the ZX Spectrum: the TS-1500. The goal was to correct the weaknesses of the TS-1000: too small memory and awfull keyboard.\n\nIt\u0027s in fact just a ZX-81 with the 16 KB RAM expansion built inside a Spectrum style case. But the original black case turned silver for the TS-1500. To prove that it is exactly the Spectrum case re-used here, there is still the speaker grid underneath the system, whereas the TS-1500 has no sound feature! However there are minor cosmetic changes: the \u0026quot;sinclair\u0026quot; encarved logo on top of the case is replaced by a fake grid... In fact, this plastic case was the TS-2000 one (which was never produced), reused here for the TS-1500.\n\nThe chicklet keyboard is also an improvement (really?) over the flat membrane keyboard of the ZX-81. The keys layout is exactly the same as the ZX Spectrum. You can even use keyboard membranes of the Spectrum 48KB to replace the existing one if it breaks. Apart from that it remains a TS-1000. The connectors are the same (RF TV ouput, tape recorder, expansion bus) and the Basic is still the Sinclair Basic. A 16k RAM expansion (the same as the one sold for the TS-1000) can be used to reach 32 KB RAM.\n\nHowever, the TS 1500 had a number of changes that made it different than just a TS 1000 / ZX-81 with 16k:\n\n1. The ROM was updated to check for 16 KB memory and correct faults in the TS 1000 version (which corrected faults in the ZX81 version).\n\n2. You could only add a 16 KB RAM pack (1016). To use any larger 3rd party RAM pack from the TS1000/ZX81 family you need to modify the motherboard.\n\n3. Circuitry was added to allow you to choose which channel to display, 2 or 3, when you turned on the system by holding down the \u0026quot;3\u0026quot; key on the keyboard.\n\n4. The motherboard is a complete redesign with 16 KB onboard and the ULA (Undefined Logic Array) was surface mounted and not socketed.\n\nDespite its funky look, the TS-1500 did not sell well either. In 1983, who wanted to buy a ZX-81 disguised whereas you could offer yourself a splendid Commodore 64 for a few more bucks!\n\n__________\n\nContributed to this page : Bill Hicks\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LARGE VIEW\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Timex_1500_System_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BOTH SIDES\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Timex_1500_Sides_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;KEYBOARD CLOSE-UP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Timex_1500_Keyboard_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR SIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;All of the Sinclair ZX-81 peripherals could be plugged into the expansion connector.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Timex_1500_RearSide_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TIMEX LABEL\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The Timex 1500 were made in Portugal by the Timex Portuguese subsidiary.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Timex_1500_Label_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;RAM EXPANSION\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The Timex 1500 could be expanded up to 32 KB RAM thanks to a 16 KB expansion module (here a Sinclair model). However, some Poke commands had to be entered so that the computer regognizes the module.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Timex_1500_RamModule_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Like the ZX-81\u0027s, this mainboard holds only 5 chips, but with 16 KB of RAM. Two versions were actually produced, the first one had 8 x 4116 RAM chips instead of 2 x 4264. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(1)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; UHF TV modulator\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(2)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Keyboard connector. A second keyboard connector is located near the CPU\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(3)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 16 KB RAM chips (2x4264)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(4)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Sinclair BASIC 8 KB ROM chip\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(5)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Custom Timex chip made by NCR, in charge of... virtually everything! It deals with the keyboard, the tape recorder interface, the RAM \u0026amp; ROM management, the video and the expansion I/O port\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(6)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Zilog Z80 processor\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(7)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 5V power regulator with it heat sink, the black metal plate.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Timex_1500_Inside_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DISMANTLED\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Dismantling a Timex 1500 is quite easy, apart from the two fragile keyboard connectors which  have to be gently disconnected and reconnected.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Timex_1500_Dismantled_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;USER MANUAL\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This Timex 1500 was part of a 6-unit Basic programming course. Like other Sinclair and Timex user manuals, the Timex 1500\u0027s manual was very complete and detailed.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Timex_1500_Manual_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SUITCASE VERSION\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/timex-sinclair_1500_suitcase.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This advert dated december 1983, says: \u0026quot;A true computing system: 3590F\u0026quot;.\u0026lt;br\u0026gt; 3590F was approx. 547 euros, which was cheaper than a TO-7 alone one year earlier. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; This box contained: a TO-7 computer, Basic cartridge with doc, Joystick/Music expansion, 2 joysticks, TRAP game and PICTOR software. This was a special offer for christmas 83. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; On the whole box is written: \u0026quot;A smart present for the whole family\u0026quot;.  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_to7_avdert-unvraisys.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MICROSOFT FS II, APR. 1986\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Commodore_128_Advert_s5.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TANDY 1988 CATALOG\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.switchtech.us/Tandy1000.html\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;SWITCHTECH\u0027S Tandy 1000SX page\u0026lt;/a\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/tandy_1000sx_catalog.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/INTV_System3_ad_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;i\u0026gt;A computer, which grows with your requirements\u0026lt;/i\u0026gt; \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Joscelyn Flores\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Casio_FP6000_GermAdvert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT #3\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Picture courtesy of \u0026lt;a href\u003d\u0026quot;http://www.sbrowning.com/vintage\u0026quot;\u0026gt;Steve Browning, www.sbrowning.com/vintage\u0026lt;/a\u0026gt;.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sinclair_zx81_advert_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Alice, a computer for all levels\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/matra_alice32_advert1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The display says: \u0026quot;Personal computer Pravetz 82\u0026quot;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Bojidar Stefanov\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Pravetz_Imko_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1978 BROCHURE #10\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/MSI_6800_Brochure_s9.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT (MAY 1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert says:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The ATOM -a definitive personal computer. Simple-to-build, simple-to-operate. But a really powerful full-facility computer. And designed on an expandable basis. You can buy a superb expanded package now-tailored to your needs. Or, you can buy just the standard Atom kit, and, as you grow in confidence and knowledge, add more chips. No need to replace your equipment. No need to worry that your investment will be overtaken by new technology. As you need more power, more facilities, you can add them! \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;The standard ATOM kit includes:\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; . Full sized QWERTY keyboard. Rugged polystyrene case\u0026lt;br\u0026gt; . Fibreglass PCB. 2K RAM. 8K ROM. 23 integrated circuits . Full assembly instructions including tests for fault-finding. (Once built, connect it to any domestic TV and power source)\u0026lt;br\u0026gt; . Power requirement: 8V at 800 M A. ATOM power unit available.\u0026lt;br\u0026gt; PLUS FREE MANUAL written in two sections \u0026lt;br\u0026gt; - teach yourself BASIC and machine code for those with no knowledge of computers, and a reference section giving a complete description of the ATOM\u0027s facilities. All sections are fully illustrated with example programs.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;The ATOM concept\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; Adding chips into sockets on the PCB allows you to progress in affordable steps to large-scale expansion. You can see from the specifications that the RAM can be increased to 12K allowing high resolution (256 x 192) graphics. Two further ROM chips, e.g. maths functions, can be added directly to the board giving a 16K capacity. In addition to 5 I/O lines partly used by the cassette interface, an optional VIA device can provide varied I/O and timer functions and via a buffer device allow direct printer drive. An optional module provides red, green and blue signals for colour. An in-board connector strip takes the ATOM communications loop interface. Any number of ATOMs may be tinked to each other - or to a master system with mass storage, hard copy facility. Interface with other ACORN cards is simplicity itself. Anyone ACORN card may be fitted internally. So you can see there are a vast number of modular options and additions available, expanding with your ability and your budget.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;The ATOM hardware includes:\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; .Memory from 2K to 12K RAM on board (up to 35K in case)\u0026lt;br\u0026gt; .8K to 16K ROM (two 4K additions) 86502 processor\u0026lt;br\u0026gt; .Video Display allows high resolution (256 x 192) graphics and red, green and blue output\u0026lt;br\u0026gt; .Cassette Interface-CUTS 300 baud\u0026lt;br\u0026gt; .Loudspeaker allows tone generation of any frequency\u0026lt;br\u0026gt; .Channel36 UHF Modulator Output .Bus output includes internal connections for Acorn Eurocard.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;The ATOM software includes:\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; .32-bit arithmetic (+/- 2,000,000,000)\u0026lt;br\u0026gt; .High speed execution\u0026lt;br\u0026gt; .43 standard/extended BASIC commands \u0026lt;br\u0026gt; .Variable length strings (up to 256 characters)\u0026lt;br\u0026gt; .String manipulation functions\u0026lt;br\u0026gt; .27 32-bit integer variables\u0026lt;br\u0026gt; .27 additional arrays\u0026lt;br\u0026gt; .random number function .PUT and GET byte\u0026lt;br\u0026gt; .WAIT command for timing\u0026lt;br\u0026gt; .DO-UNTIL construction\u0026lt;br\u0026gt; .Logical operators (AND, OR, EX-OR)\u0026lt;br\u0026gt; .LINK to machine-code routines\u0026lt;br\u0026gt; .Plot draw and move. \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Paul Durrant\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Acorn_Atom_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH BROCHURE #3\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Jacques Sorro\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Oric_1_FrBrochure_s3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPANESE ADVERTISEMENT #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;She seems quite happy with her new MB-H1 !\u0026lt;br\u0026gt; Do you think japanese girls used to bring their H1 to school ?!\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Hitachi_mbh1_pub2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN LEAFLET #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;This flexibly expandable computer grows by the increase of business activities and the rising requirements.\u0026quot;\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; A reliable office computer, which can flexibly adapt to the business work, as it is essential for the office to execute resulting works promptly, correctly, and precisely.\u0026lt;br\u0026gt; A user-friendly conceived EDP-system like the MZ-3541 is essential, particularly for small to medium sized companies.\u0026lt;br\u0026gt; The MZ-3541 contributes for a substantial increase of the productivity in the office by the assumption of routine works. SHARP has designed the new MZ-3541 in such a way that it can be used for the most diverse resulting office works. And because multiple peripheral devices are available, the system can grow dynamically with the business activities.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The MZ-3541 is the result of Sharp\u0027s extensive market study and ergonomics studies. The free mobile keyboard makes data input and the operation easier and allows for spatial conditions an adapted installation of the system possible.\u0026lt;br\u0026gt; Sharp\u0027s MZ-3541 - the complete system for the business data processing.      \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;www.sharpmz.org\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sharp_MZ3500_GermanAd_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN ADVERT (1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Karl-Heinz  -  www.sharpmz.org\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Citoh_YD8110_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROMOTIONAL PICTURE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/commodore-vic20_promo_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT #2 (JUNE 1985)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/olivetti_advert_docile-compatibles_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.cobit.kit.net\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;COB-Clube Old Bits\u0026lt;/a\u0026gt; for this picture.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/hotbit_hb8000_advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT, APRIL 1982\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;From Personal Computing, April 1982\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;\u0026lt;a href\u003d\u0026quot;http://www.aci.com.pl/mwichary/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Attached\u0026lt;/a\u0026gt;\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Apple_II+_USadWaves_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (JAN. 1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Computing is very simple with the AIM65 from Rockwell\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/rockwell_aim65_ad_system-contact.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SEEQUA CHAMELEON BROCHURE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Seequa_Chameleon_Leaflet_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPANESE ADVERT #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://osaki.cool.ne.jp/hc/computer/canon/canon.html#x07\u0026quot;\u0026gt;Handheld computer \u0026amp; Pocket calculator Museum\u0026lt;/a\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/canon_x07_jap-advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;IN THE KITCHEN...\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;A TO-7 in the kitchen? For sure it makes smile the woman!\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_to7_cuisine_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROMOTIONAL PICTURE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;found on the system box\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/mattel_aquarius_promo-pic_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1977 ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/ProcessorTech_Sol_Advert_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d634",
+    "computer.asp?st\u003d1\u0026amp;c\u003d935",
+    "http://members.fortunecity.com/johnnyred/home.html",
+    "http://www.ts1000.us/"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/Timex_1500_System_s1.jpg",
+  "builtInGames": "Sinclair Basic",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "16 KB RAM, printer + all the Sinclair ZX81 peripherals",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

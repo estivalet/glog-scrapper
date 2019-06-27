@@ -1,0 +1,107 @@
+{
+  "name": "1000 SX",
+  "manufacturer": "Tandy Radio Shack",
+  "type": "Home Computer",
+  "origin": "U.S.A.",
+  "year": "1986",
+  "production": "",
+  "language": "",
+  "keyboard": "Full stroke keyboard, 90 keys, 12 function keys, numeric keypad",
+  "cpu": "Intel 8088",
+  "speed": "4.77 MHz / 7.16 MHz",
+  "coprocessor": "Intel 8087 math. coprocessor available as an option",
+  "ram": "384 KB (up to 640 KB)",
+  "vram": "",
+  "rom": "",
+  "text": "80 x 25 / 40 x 25",
+  "graphics": "CGA/TGA, 160 x 200, 320 x 200, 640 x 200",
+  "colors": "16 foreground colours + 8 background colours",
+  "sound": "3 voices + 1 sound channel",
+  "size": "354 x 290 x 97 mm / 31 lbs",
+  "ports": "keyboard, 2 x joysticks, RGBI color monitor video output, composite video output, lightpen port, parallel port, serial port, 5 internal expansion slots, audio output (mono)",
+  "power": "Built-in power supply",
+  "price": "$849 (USA, 1988)",
+  "description": "\nThe Tandy 1000 SX was similar to the Tandy 1000 (see this entry for more info about the Tandy 1000 series).\n\nThe difference with the original model 1000, is that the CPU (Intel 8088) can be set to two different speeds: 4.77 MHz and 7.16 MHz thus offering more speed than the original IBM PC on the same software. The SX also comes with more memory (384 KB) than the Tandy 1000 (128 KB).\n\n__________\n\nContributors: Derek McDonald (aka ?Skel?)\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1000 SX\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/tandy_1000sx_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1000 SX RUNNING DESKMATE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/tandy_1000sx_3.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TANDY 1988 CATALOG\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.switchtech.us/Tandy1000.html\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;SWITCHTECH\u0027S Tandy 1000SX page\u0026lt;/a\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/tandy_1000sx_catalog.jpg"
+    }
+  ],
+  "hardwareDescription": "",
+  "hardware": [
+    {
+      "type": "JOYSTICKS",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/tandy_1000_joy_1.jpg",
+          "description": "Tandy joystick||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TANDY JOYSTICK\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "MODEMS",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/tandy_1000_300baudmodem.jpg",
+          "description": "Tandy 300 baud modem|||with box \u0026amp; doc|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TANDY 300 BAUD MODEM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;with box \u0026amp; doc\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    }
+  ],
+  "emulator": [
+    {
+      "platform": "MS DOS emulator",
+      "name": "Tand-Em",
+      "link": "http://www.emu-france.com/?page\u003dfichiers\u0026amp;idMachine\u003d157",
+      "description": "Only dedicated Tandy 1000/IBM PC Jr emulator (offical site seems dead)"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "DOSBox",
+      "link": "http://sourceforge.net/projects/dosbox",
+      "description": "Exellent PC emulator to play old DOS games, including Tandy 1000 ones"
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "MESS",
+      "link": "http://www.mess.org",
+      "description": "This famous emulator can emulate Tandy 1000 systems"
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d1210",
+    "computer.asp?st\u003d1\u0026amp;c\u003d1213",
+    "computer.asp?st\u003d1\u0026amp;c\u003d1211",
+    "computer.asp?st\u003d1\u0026amp;c\u003d1218",
+    "computer.asp?st\u003d1\u0026amp;c\u003d1216",
+    "http://support.radioshack.com/productinfo/ProductResults.asp?Name\u003dTandy_Desktops\u0026amp;ID\u003d001001001",
+    "http://www.RadioShackCatalogs.com",
+    "http://r.webring.com/hub?ring\u003dtandy1000",
+    "http://www.brooksdeforest.com/tandy1000/",
+    "http://retrograde.trustno1.org/tandyroms.htm",
+    "http://www.oldskool.org/guides/tvdog/1kfaq.html",
+    "http://en.wikipedia.org/wiki/Tandy_1000",
+    "ftp://ftp.robertstinnett.com/mirror/Tandy1000/"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/tandy_1000sx_1s.jpg",
+  "builtInGames": "one or two 5.25\u0027\u0027 floppy disk drives (360 KB)3.5",
+  "controllers": "",
+  "media": "one or two 5.25\u0027\u0027 floppy disk drives (360 KB)3.5",
+  "numGames": "",
+  "peripherals": "memory expansions, internal modems, 20 MB hard disk, etc.",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

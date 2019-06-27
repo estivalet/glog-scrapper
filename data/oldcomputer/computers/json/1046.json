@@ -1,0 +1,58 @@
+{
+  "name": "BC-12",
+  "manufacturer": "Billings",
+  "type": "Professional Computer",
+  "origin": "U.S.A.",
+  "year": "",
+  "production": "",
+  "language": "None",
+  "keyboard": "96 key with numeric keypad, 15 function keys and arrow keys",
+  "cpu": "Z80A",
+  "speed": "Unknown",
+  "coprocessor": "Unknown",
+  "ram": "64 KB with parity",
+  "vram": "Unknown",
+  "rom": "Unknown",
+  "text": "80 columns x 25 lines. Geen phosphor CRT memory mapped graphics characters, U/l case",
+  "graphics": "None",
+  "colors": "Monochrome",
+  "sound": "Unknown",
+  "size": "",
+  "ports": "2 x Serial, 1 x Parallel",
+  "power": "Built-in PSU",
+  "price": "Unknown",
+  "description": "\nVirtually no information about this Z80 based computer - we even don\u0027t know its name - and the Billings Co. which name came from Mr. Billings, its founder.\n\nAlong with this machine, Billings also produced another system named 6000 which specialized in organizing and managing distributed processing applications (see advert section).\n\nThe operating system OASIS was a subset of IBM\u0027s CMS running on Virtual Machines (VM) of the IBM 370. The commands have the same syntax and the same options. The file names were the same as in CMS, \u0026quot;filename (8). extension (8): drive (1)\u0026quot;\n\nYou could connect two or more networked computers using the RS232 serial output in a ring topology. Making it possible to send files from one computer to another. The BASIC was very structured, with statements like: SELECT-CASE-CEND, IF-THEN-ELSE-IfEnd, WHILE-WEND, in addition to driving key indexed files with string.\n\n-------------\n\nContributors:  Pablo Montini\n\nMike Gane sent us this additional information:\nI used to have two of these in my office, I seem to recall that we bought them in or around 1980, initially as word processors, but the engineers soon took over one of the systems. The model was a BC12-FD, we paid around about ?5000 for each machine.\nThese systems came with Macro, Basic(compiled and interpreted versions, Assembler, word processing software and Fortran. There were single disk and dual floppy disk versions, ours both had dual disks. These systems were very nice to work with, the Word Processor capability was excellent and so simple to use, it used the function keys extensively to toggle on/off bold/italics/underlining etc.\n\nWe bought them to complement a PDP8 and an Intersil Intercept Junior (256 bytes of RAM, 4 * 7 Segment LED Display) coupled to an ASR33 Teletype with punch paper reader/writer, which we were using to develop ground test software.\n\nWe were to have integrated these systems into a ground station for downloading data from a flight recorder, but unfortunately technology advances caused us to buy WICAT WS150 systems and then these were replaced by Tektronix 8560?s (PDP 11/23 inside) which survived for many years before being replaced by a laptop. \n\nUnfortunately the Billings BC12-FD?s were put in the skip along with the WICAT, shortly before I was able to rescue them when our factory shut in 1992. The Tektronix system went to another factory and was in service until about a year ago, when unfortunately spares became to expensive and rare to warrant it?s repair.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SYSTEM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Billings_System_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;KEYBOARD CLOSE-UP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Billings_Keyboard_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MAIN BOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Billings_Inside_s1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;6000 MODEL\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert says:\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; WE HAVE A NEW APPROACH TO DISTRIBUTED PROCESSING THAT WORKS \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Already implemented are electronic mail, word processing, complete cost accounting with inventory control and more. The secret is a new technology called Functionally Structured Distribution (FSD). At last, a system to organize and manage distributed processing applications that is really up and running. FSD technology is especially applicable to installa\u0026shy;tions that require:\u0026lt;br\u0026gt; \u0026bull; Unlimited expandability supporting extremely large data bases and terminals in many cities.\u0026lt;br\u0026gt; \u0026bull; User-friendly software easily programmed in high level languages (COBOL, FORTRAN, and BASIC)\u0026lt;br\u0026gt; \u0026bull; System reliability (due to distributed hardware) while maintaining multiple levels of data security.\u0026lt;br\u0026gt; \u0026bull; Compatibility with existing mainframes and networks (including the Bell System). \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; We are presently installing Billings 6000 Computer Systems which take full advantage of distributed processing utilizing FSD technology. The 6000 Computer supports multiple hard disk drives with capacities of up to 64 Mbytes (formatted), streaming tapes for backup, auto-dial modems (2400 baud synchronous) for communications, and flexible disk drives for smaller installations.\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Billings_6000_Advert_s1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [],
+  "image": "http://www.old-computers.com/museum/photos/Billings_System_s1.jpg",
+  "builtInGames": "None",
+  "controllers": "",
+  "media": "2 x 5.25\u0027\u0027 160 KB Single Sided Double Density  FDD (can drive up to 4)",
+  "numGames": "",
+  "peripherals": "Unknown",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

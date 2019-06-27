@@ -1,0 +1,71 @@
+{
+  "name": "System 1",
+  "manufacturer": "Acorn Computer",
+  "type": "Home Computer",
+  "origin": "United Kingdom",
+  "year": "1979",
+  "production": "",
+  "language": "Machine code",
+  "keyboard": "Calculator-style hexadecimal keyboard, 25 keys",
+  "cpu": "6502",
+  "speed": "1 Mhz",
+  "coprocessor": "",
+  "ram": "1 kb",
+  "vram": "",
+  "rom": "512 bytes",
+  "text": "8 x 1 (8 digits seven-segment LED display)",
+  "graphics": "None",
+  "colors": "None",
+  "sound": "None",
+  "size": "",
+  "ports": "Eurocard bus (100 x 160 mm cards), Tape interface (300 bauds), RAM I/O (16 lines I/O)",
+  "power": "External power supply unit (Option, ?7)",
+  "price": "UK: Kit: ?75 - Assembled: ?91France: Kit : 198   Assembled : 222 ",
+  "description": "\nThis 6502 modular system was the first computer produced by Acorn in 1979. It was basically the same type of computer as competitors offered at that time (KIM-1, MK14, Nascom, etc...) : a 6502 or Z80 CPU (in this case, a 6502) mounted on a simple \u0026quot;naked\u0026quot; board, with a one-line display and a hexadecimal keyboard.\n\nThe System 1 is no exception : it featured an eight-digit seven-segment LED display, a hexadecimal keyboard (25 keys) and as there was no built-in BASIC in the computer, it had only machine-code.\nFortunately there was a tape-recorder interface communicating at 300 bauds. \n\nLike all these types of \u0026quot;hobbyist\u0026quot; computers, the main advantage was the expandability of the system. They were quite cheap machines because they were shipped basically \u0026quot;naked\u0026quot;. Then you had to buy whatever cards you wanted (video, BASIC, sound, etc...). Here the system was Eurocard compatible, which was a well-known expansion board standard at that time.\nIf then you had \u0026quot;too many\u0026quot; expansion cards, a Eurocard rack was available to organise the whole system. \n\nThe System 1 itself was composed of two Eurocard boards (one for the CPU and the other for the keypad and display) mounted one above the other (sandwiched, you could say), the two being connected by a ribbon cable.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;THE WHOLE SYSTEM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The two boards are \u0026quot;sandwich\u0026quot; mounted.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/acorn_system-1_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UPPER BOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This card deals with the keypad and the display. \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/acorn_system1_keyboard.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LOWER BOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This card is where the 6502, RAM and ROM are mounted. It can be considered the \u0026quot;mainboard\u0026quot;.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/acorn_system1_mainboard.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT (DEC. 1979)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to David Wilson for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/acorn_system1_advert-dec1979.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT (FEB. 1980) \u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to David Wilson for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/acorn_system1_advert-uk_feb1980.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [
+    {
+      "platform": "Windows emulator",
+      "name": "Acorn Microcomputer Emulator ",
+      "link": "http://www.cary.demon.co.uk/acorn/acornEmulator.html",
+      "description": "Nice little emulator written by Mike Cowlishaw"
+    }
+  ],
+  "link": [
+    "http://www.cary.demon.co.uk/acorn/"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/acorn_system1_keyboard_2.jpg",
+  "builtInGames": "Machine code",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "Memory expansion boards (4k / 8k), Video card, 4k Basic card, Assembler/desassembler card",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

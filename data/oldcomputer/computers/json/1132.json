@@ -1,0 +1,84 @@
+{
+  "name": "MPF-I/88",
+  "manufacturer": "Multitech",
+  "type": "Professional Computer",
+  "origin": "Ta?wan",
+  "year": "November 1985",
+  "production": "",
+  "language": "monitor, assembler, desassembler",
+  "keyboard": "QWERTY full-stroke \u0027\u0027membrane\u0027\u0027 keyboard, 59 keys, stroke audio signal.",
+  "cpu": "Intel 8088",
+  "speed": "4,77 MHz",
+  "coprocessor": "",
+  "ram": "8 KB (up to 24 KB)",
+  "vram": "",
+  "rom": "16 KB (up to 48 KB)",
+  "text": "20 characters x 2 lines (from a virtual page of 24 lines)",
+  "graphics": "None",
+  "colors": "None (black \u0026amp; white LCD display)",
+  "sound": "Built-in buzzer. tones are produced through a software interrupt (INT 18),",
+  "size": "30 x 30 x 6 cm / 1,5 Kg",
+  "ports": "Tape interface (from 1000 to 2000 bits/sec), Printer connector (Centronics type), 64-pin expansion bus (EXT-BUS)",
+  "power": "Built-in power supply (9v, 1A)",
+  "price": "3995 F (France, dec. 1986)",
+  "description": "\nThe MPF-I/88 is the most evoluated system of the MPF learning tools computers specifically designed for use in the teaching of microprocessors, microelectronics, and control technology.\n\nThe MPF-I/88 main purpose is to teach the Intel 8088 microprocessor.\n\nUnlike its small brothers (MPF-1B, MPF-1 Plus and Microkit 09), the MPF-I/88 offers a real full-stroke keyboard and a nice 2-lines LCD display. In fact the system can manage virtual screen of 24 lines. It is then possible to scroll the display up \u0026amp; down by pressing ALT+A/Z.\n\nNext to the LCD display are a RESET button and two small lights labeled HOLD and AUDIO. HOLD indicates when the CPU execute the HLT instruction which holds the system. AUDIO is lit when audio signal is passing through the tape interface.\n\nMonitor, Assembler and Disassembler are built-in the system. There are 192 symbols and characters, designed on a 5x7 pixels grid.\n\nThree ROM slots can be found on the motherboard. Only one is used when you buy the computer, but you can use different ROM chipsets if you want, for a maximum of 48 KB (3 x 16 KB).\n\nWhen the computer is turned on you can create/edit/run programs with the Assembler, or you can set break points to analyse memory and registers content all along the execution process.  You can of course also load/save your programs through the tape interface.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MPF-I/88\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/multitech_mpf1-88_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MPF-I/88\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/multitech_mpf1-88_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CLOSE-UP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/multitech_mpf1-88_detail.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/multitech_mpf1-88_inside_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;8088 CPU\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/multitech_mpf1-88_cpu.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;VIDEO \u0026amp; DISPLAY CHIPSETS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/multitech_mpf1-88_cpu_2.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (DEC. 1986)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/multitech_mpf_pub_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [
+    {
+      "platform": "Multiplatform emulator",
+      "name": "MESS",
+      "link": "http://www.mess.org",
+      "description": "This popular emulator can also emulate an MPF-1 computer"
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d479",
+    "computer.asp?st\u003d1\u0026amp;c\u003d525",
+    "computer.asp?st\u003d1\u0026amp;c\u003d1204",
+    "http://global.acer.com/about/milestones.htm",
+    "http://www.flite.co.uk/microprocessor-training-systems-overview.htm",
+    "http://members.lycos.co.uk/leeedavison/z80/index.html"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/multitech_mpf1-88_2s.jpg",
+  "builtInGames": "monitor, assembler, desassembler",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

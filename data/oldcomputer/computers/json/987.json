@@ -1,0 +1,84 @@
+{
+  "name": "FX-702P",
+  "manufacturer": "Casio",
+  "type": "Pocket",
+  "origin": "Japan",
+  "year": "1981",
+  "production": "Unknown",
+  "language": "Basic interpreter",
+  "keyboard": "65 keys, calculator type with alphanumeric keys (non-QWERTY)",
+  "cpu": "4 bit CMOS LSI, 4 x NEC D444G",
+  "speed": "Unknown",
+  "coprocessor": "",
+  "ram": "1680 bytes for BASIC plus 26 memories",
+  "vram": "",
+  "rom": "Unknown",
+  "text": "1 line x 20 chars plus a 4 digit seven segment display part",
+  "graphics": "None",
+  "colors": "Monochrome",
+  "sound": "None",
+  "size": "165 (W) x 82 (D) x 17 (H) mm / 176 g (with batteries)",
+  "ports": "7-pin expansion port for printer and cassette interface, 11-pin slot for memory module",
+  "power": "2 x CR-2032 lithium batteries",
+  "price": "250 ",
+  "description": "\nThe FX-702P was Casio\u0027s answer to Sharp\u0027s PC-121x series. In certain ways, this machine marks the transition from keystroke programmables such as the FX-601P/602P to \u0026quot;real\u0026quot; pocket computers. On the one hand, Casio labeled the FX-702P only as \u0026quot;Programmable Calculator\u0026quot;, and its non-QWERTY layout of the alphanumerical keys differentiate it from most later pocket computers. On the other hand, the FX-702P had a viable BASIC interpreter which allows for more flexible programming.\n\nThe hardware mainly consists of four CMOS LSI chips incorporating logical functions and memory, and four display driver chips. The display provides 20 characters in 5x7 pixel matrix, plus a separate 7-segment display part indicating the remaining program memory.\n\nComparable to the Sharp PC-1211 and 1212, the FX-702P had about 2 KB of RAM, divided into 1680 BASIC steps and 26 memories; more memory for variables could be partitioned out at the expense of BASIC memory. A memory expansion slot was built-in, but a suitable RAM module never came out. \n\nWith this model, Casio introduced their method of dividing program memory into 10 autonomous areas - P0 to P9 - which continued to be implemented in all following Casio models for many years.\nThe nonstandard keyboard makes it most cumbersome to use for anybody familiar with the QWERTY standard; on the other hand, triple assignments of most keys makes programming somewhat more efficient.\n\nThe built-in interpreter supports a variant of the BASIC language, with some keywords spelled in a different way than the later quasi-standard, e.g. PRT instead of PRINT, or GSB and RET for GOSUB and RETURN. Compared to Sharp\u0027s PC-121x models, it has substantially more mathematical and statistical functions, string manipulation functions and a more flexible variable handling scheme.\n\nTwo peripheral devices were available:\n? The FA-2 Cassette Interface, which, as a side note, could also play musical notes when used with the FX-501P/FX-502P or FX-601P/602P calculators, but not with the FX-702P,\n? The FP-10 Mini Electro Printer, a non-impact, electrostatic printer, which used special metalized paper.\n\nThanks to Roman von Wartburg and his site for this information.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRONT VIEW\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Roman Von Wartburg\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Casio_FX702P_Keyboard_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;KEYBOARD CLOSE-UP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Casio_FX702P_KeybCloseUp_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BOTTOM SIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(1)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Batteries housing\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(2)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; RAM module connector \u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(3)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Expansion port\u0026lt;br\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Casio_FX702P_BottomSide_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(1)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Display driver chips\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(2)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Four NEC CMOS LSI chips in charge of CPU functions, ROM and RAM memory and I/O ports\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(3)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Expansion connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(4)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; LCD contrast knob\u0026lt;br\u0026gt; \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Casio_FX702P_Inside_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MANUALS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The FX-702P vas delivered with a user manual and a very useful program library gathering more than 70 programs and complex calculations\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Casio_FX702P_Manuals_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;THE BOX\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Both sides of the FX-702 box.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Casio_FX702P_Box_s1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (MAY 1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Computing pret-a-porter\u0026quot; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026quot;Casio FX-702P : pocket Basic\u0026quot; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026quot;Casio, it counts\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/casio_fx702p_advert_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (DEC. 1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Basic, It is magic\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/casio_fx702p_advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (DEC. 1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Christmas accounts\u0026quot; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026quot;Casio, it counts\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/casio_fx702p_advert_2.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d1002",
+    "computer.asp?st\u003d1\u0026amp;c\u003d1000",
+    "computer.asp?st\u003d1\u0026amp;c\u003d1014",
+    "http://www.silrun.info/",
+    "http://pocket.free.fr/"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/Casio_FX702P_System_s1.jpg",
+  "builtInGames": "Basic interpreter",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "FA-2 cassette interfaceFP-10 mini electro printer: electrostatic printer for 35 mm metallised paper",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

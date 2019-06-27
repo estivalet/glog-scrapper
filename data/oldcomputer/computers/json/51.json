@@ -1,0 +1,82 @@
+{
+  "name": "System 8813",
+  "manufacturer": "Polymorphic",
+  "type": "Professional Computer",
+  "origin": "U.S.A.",
+  "year": "1977",
+  "production": "Unknown",
+  "language": "None",
+  "keyboard": "Full-stroke keyboard",
+  "cpu": "Intel 8080A",
+  "speed": "2 MHz 8080A, running at 1.8432 MHz (so that it could be easily divided to produce standard baud rate clocks)",
+  "coprocessor": "",
+  "ram": "48.5 KB (512 bytes for CPU + 48KB for S100 bus)",
+  "vram": "",
+  "rom": "3 KB (monitor)",
+  "text": "64 characters x 16 lines",
+  "graphics": "128 x 48 using block-graphics",
+  "colors": "Monochrome",
+  "sound": "Unknown",
+  "size": "About 6 kg (main unit)",
+  "ports": "S100 Bus",
+  "power": "Built-in power supply unit",
+  "price": "Unknown",
+  "description": "\nThe Polymorphic System 8813 was the larger brother of the Poly 88.\n\nWilliam Davis reports :\nThis unit could connected to an add-on unit (MS 88) that consisted of two 8\u0026quot; Shugart DSDD disk drives. Near the end Polymorphic System also featured a 10 MB hard disk and a unit called the \u0026quot;Twin Systems\u0026quot; which allowed two simultaneous users on a shared bus.\n\nI had all the above, buying the first of three 8813 in 1978 and continuing to use it until 1987 when I switched to a series of Kaypro machines. As a last attempt to stay alive Poly tried to market a CP/M based version. I also had one of these which was an unmitigated disaster.\n\nThe software sold by Polymorphic Systems consisted of a Word Processor (very much like the early WordStar), a data base program and their OS.\n\nKyle York reports us :\nIt doesn\u0027t use a specific operating system. It could add/extend, delete files but the filesystem was a linked-list. To recover disk space you had to run a utility. Best use was a business-basic package that was incredible.\n\nCharles A Thompson reports:\nwith respect to memory, the Poly was capable of handling 64K -- of which about 8K was for the operating system roms. I have (still have!) several 8813s. One of them has a 48K memory board and an 8K memory board, which placed the upper end of memory at about 56K.\n\nIt took some time for the IBM PC-type of machine to catch up to the capabilities Poly already had when the PC was first introduced (such as subdirectories). Poly could have lengthy file names (up to 32 characters, as I recall, which included any subdirectory names), plus a two-character extension.\n\nI still run several Poly programs, which I significantly wrote, such as General Ledger and Payroll (that is, I got some very crude programs, and rewrote them extensively).\n\nIn addition to their Word Master word processing program, PolyMorphic Systems also sold programs entitled Accounts Receivable, Accounts Payable, Inventory Control, Mailist, Plan (Polymorphic Language for ANalysis), Universal Plotter, and Loan and Investment Analysis. There were probably others -- those are just the ones I have in my collection. Poly also made available a Field Service manual, which contained a significant amount of technical data (I have one of these, also).\n\nMost of the programs were dated 1978, and it\u0027s my understanding that these were spruced-up versions of programs originally written for internal purposes by Interactive Products Corporation (aka PolyMorphic Systems).\n\nNick Taylor reports:\nI bought a used Poly 8813 from my friend Stuart Woods, who is now a famous writer, in about 1979.  It came with an IBM Selectric typewriter that had been converted to a printer and sat atop a massive cabinet full of wires.  Its WordMaster word processor was the best around at the time, but the only tech support came from other PolyMorphic users.  One of these was Mark Sutherland, Atlanta\u0027s resident PolyMorphic genius, whom I bothered on an almost daily basis.  I was still using the Poly when I moved to New York in 1984, and found a fanatic Poly user on Long Island whose name I don\u0027t recall, but who was kind enough to answer my usually dense questions.  He was using Polys and WordMaster to produce newsletters including one for Poly users, and continued to do so into the late 1980s.  I produced my first book, Bass Wars, on the Poly but the support problems became too much for me to overcome.  I sold my Poly for parts to the fellow on Long Island and switched to PCs, but I remember it fondly, kind of like a difficult love relationship.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;8810 MODEL\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The 8810 seems to be a cut down version of the 8813 offering only one built-in floppy disk drive. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; More information needed!\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;John Woodall\u0026lt;/b\u0026gt; for the 8810 pictures\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Polymorphic_8810_System_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE THE 8810\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(1)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Power supply unit\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(2)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 5.25\u0026quot; floppy disk drive\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(3)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Electronic cards slotted into a vertical backplane.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Polymorphic_8810_Inside_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PSU CLOSE-UP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Polymorphic_8810_psu_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;8810 ELECTRONIC CARDS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Polymorphic_8810_LeftSide_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;8810 PLATE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Polymorphic_8810_Plate_s1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1978)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The advert said : \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt;The 8813 was built with you, the professional, in mind...\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Using the 8813, one person can process what would normally require many secretaries, several bookkeepers and a great deal of time...\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The 8813 slashes the professional\u0027s overhead. It\u0027s a powerful time and money-saving ally. Prices for complete system including printer start at less than $8,000.\u0026lt;/font\u0026gt; \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Polymorphic_8813_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1979)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Polymorphic_8813_Advert_2.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [
+    {
+      "platform": "MS DOS emulator",
+      "name": "Bob Bybee\u0027s PolyMorphic Emulator program",
+      "link": "http://www.bybeeweb.com/pm.htm",
+      "description": "Polymorphic systems emulator !"
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d563",
+    "www.bybeeweb.com/polymorphic.htm",
+    "http://www.hartetechnologies.com/manuals/PolyMorphic/",
+    "http://www.retrotechnology.com/restore/poly_restore.html"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/pub_polymorphic.jpg",
+  "builtInGames": "None",
+  "controllers": "",
+  "media": "5.25\u0027\u0027 disk-drives",
+  "numGames": "",
+  "peripherals": "S100 bus cards",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

@@ -1,0 +1,148 @@
+{
+  "name": "WDR-1-Bit Computer",
+  "manufacturer": "Motorola",
+  "type": "Home Computer",
+  "origin": "U.S.A.",
+  "year": "1981",
+  "production": "1990",
+  "language": "None",
+  "keyboard": "29 keys with instruction and octal keypads, Reset and clock keys",
+  "cpu": "Motorola MC-14500",
+  "speed": "From manual clock pulses to 1 MHz",
+  "coprocessor": "",
+  "ram": "256 byte to unlimited memory size",
+  "vram": "",
+  "rom": "Unknown",
+  "text": "LED display",
+  "graphics": "",
+  "colors": "",
+  "sound": "Sound capabilities",
+  "size": "",
+  "ports": "",
+  "power": "9V battery",
+  "price": "135 ",
+  "description": "\nThis is a homemade and nicely built training computer, and probably one of the rare computers in the world based on the 1-bit (yes, one bit) Motorola MC14500 processor.\n\nThis machine was conceived en sold in Germany by DATANorf Hard and Software in kit or ready-built forms. \n\nOriginally, the MC-14500, also called Industrial Control Unit (ICU) was a CMOS processor designed for controlling simple industrial devices and making binary decisions based on successive single bit information. One could find it also in LCD display drivers or as a serial port manager. \n\nIt has 16 instructions, including bit transfer, logical single bit comparisons (OR,  XOR,  AND, NAND), Jump and subroutines. Its internal clock speed started from manual pulses to about 1 MHz.\n\nThe pictured computer, made by a German anthusiast, worked when connected to a 9V battery. It includes a LED IO board, CPU board and 512 byte RAM board. The keyboard featured one key for each processor instruction and an octal numeric keypad. Some sounds may be produced through the attached amplifier and loudspeaker.\n\nMore information from Kai Ludwig:\nThe MC-14500 based \u0026quot;WDR-1-Bit-Computer\u0026quot; was invented about 20 years ago as a holiday-project by Burkhard John and Volker Ludwig for educational purposes.\n\nIn those days I was running the german company \u0026quot;DATANorf Hard and Software\u0026quot;. It sold the \u0026quot;WDR-1-Bit-Computer\u0026quot; as kit. The ciruitboards were homebrew and there were many additional modules available.\nLater we made an 6 part educational school-TV-serial with WDR Television and the German company Raffel-Electronics got the licence for professional distibution of the kits with industrial manufactured circuitboards.\n\nYour picture shows a version sold by DataNorf to a home enthusiast. The attached board contains a NE555 oscillator to make a sound. The pitch can be adjusted by the potentiometer. \n\n\n\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SYSTEM BOARDS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Motorola_MC14500_System_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;KEYBOARD CLOSE-UP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Notice the 16 white keys, one for each processor instruction, and the black octal numeric keypad. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Processor instructions set:\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;NOP\u0026lt;/b\u0026gt;   No Operation\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;LD\u0026lt;/b\u0026gt;    Load result register\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;LDC\u0026lt;/b\u0026gt;   Load complement\u0026lt;br\u0026gt;  \u0026lt;b\u0026gt;AND\u0026lt;/b\u0026gt;   Logical AND\u0026lt;br\u0026gt;  \u0026lt;b\u0026gt;ANDC\u0026lt;/b\u0026gt;  Logical AND complement\u0026lt;br\u0026gt;  \u0026lt;b\u0026gt;OR\u0026lt;/b\u0026gt;    Logical OR\u0026lt;br\u0026gt;  \u0026lt;b\u0026gt;ORC\u0026lt;/b\u0026gt;   Logical OR complement\u0026lt;br\u0026gt;  \u0026lt;b\u0026gt;XNOR\u0026lt;/b\u0026gt;  Exclusive NOR\u0026lt;br\u0026gt;  \u0026lt;b\u0026gt;STO\u0026lt;/b\u0026gt;   Store\u0026lt;br\u0026gt;  \u0026lt;b\u0026gt;STOC\u0026lt;/b\u0026gt;  Store complement\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;IEN\u0026lt;/b\u0026gt;   Input enable\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;OEN\u0026lt;/b\u0026gt;   Output enable\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;JMP\u0026lt;/b\u0026gt;   Jump\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;RTN\u0026lt;/b\u0026gt;   Return\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;SKZ\u0026lt;/b\u0026gt;   RR \u003d 0\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;NOPF\u0026lt;/b\u0026gt;  No Operation, set flag\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Motorola_MC14500_Keyboard_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert for Instructor 50, Byte March 1979, Page 45.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Adam Trinfo for this advert\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Byte (Ad for Instructor 50)(March 1979, Page 45).jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;The TO7 from Thomson has everything needed to fill the empty cells\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_to7_advert-cases-vides.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.K. ADVERT (1990)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;In this U.K. advert, the Amiga 1500 was sold at \u0026pound;1149.99 with a colour monitor, 4 games (Battle Chess, Sim City, Populous, Battle of Britain) and the home business suite Platinium Works. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The Amiga 500 was also sold at \u0026pound;399.99\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.pelikonepeijoonit.net\u0026quot;\u0026gt;The Arctic Computer \u0026amp; Console Museum\u0026lt;/a\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Commodore_Amiga1500_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SORD BROCHURE #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Tim Mackay\u0026lt;/b\u0026gt; \u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sord_M100ACE_Brochure_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FIRST U.S. AD (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;A discreet advert and a nice monitor.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Basis_108_USAdvert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;From the magazine \u0027Micro Sistemas\u0027 of March 1983 \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;www.mci.org.br \u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Microdigital_TK85_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JACQUARD BROCHURE #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Jacquard_J500_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0027\u0027It\u0027s time\u0027\u0027\u0026lt;br\u0026gt; \u0027\u0027ATMOS from Oric : the definitive computer\u0027\u0027\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/oric_atmos_ordinateur_definitif.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/northstar_horizon_ad1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROUD !\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This authentic picture show a proud owner of a Wren transportable computer ! It looks like it bought it 5 minutes ago as he doesn\u0027t really know from which side to handle it...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thorn-emi_wren_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BROCHURE EXTRACT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Rui Santos for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/casio_fx9000p_brochure.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROMO PICTURE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Taken from a Televideo brochure\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Televideo_TS803_PromoPict_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT.\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Your computing teacher at home !\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/vtech_laser310_pub1_bad.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ITALIAN AD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;I bellissimi...\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;http://angelmemories.cjb.net/\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Commodore_600_AdItaly_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;QD VERSION ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;1980 Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt;Our new QD model has all of the features of our phenomenally popular SuperBrain with the addition of double-sided disk drives and an extra of dynamic RAM. So, for only a modest increase in price, you can order your next SuperBrain with more than twice the disk and memory storage capability. But, best of all, the new QD model has the same tough, rugged construction and exceptional quality that made our SuperBrain such a success. \u0026lt;/font\u0026gt;  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Intertec_SuperBrain_QD_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;NEWBRAIN BROCHURE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The first Newbrain brochure only offered two models:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Model AD: with display\u0026lt;br\u0026gt; Model A:  without Display \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;www.oldcomputers.freeserve.co.uk\u0026lt;/b\u0026gt;   \u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Grundy_Newbrain_Leaflet_4.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JUPITER BROCHURE #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Jupiter_Ace_Brochure_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;QL CATALOGUE #6\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sinclair_QL_Brochure1_s6.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;NEW ZELAND AD. (1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert says:\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; The renaissance machine is a \u0026quot;one-of-a-kind\u0026quot; system for the \u0026quot;one-of-a-kind\u0026quot; person who demands and will not settle for anything less than, the best.\u0026lt;/font\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Murray Moffatt\u0026lt;/b\u0026gt; from New Zeland\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Compucolor_ll_Advert_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;NICE AD (1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;As computing was a serious and professional subject, the humorus adverts was rare in 1983.\u0026lt;br\u0026gt; This one said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; When I told my Dad about NEC TREK, NEC\u0027s new personal computer, he wanted one right away.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; I told him it has 10 programmable function keys; high powered graphic capabilities, powerful Microsoft BASIC included, and a 8-octave programmable musical tone generator.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; He said it has lot of \u0027fun games\u0027. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; I told him how its memory storage can interface with cassette diskette or cartridge, and how it has a wide variety of of sophisticated software available - important things like financial management package...\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; He just challenged me to a game of Protector.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; That\u0027s my Dad. I love him, but sometimes I wish he could understand how a kid feels.\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Nec_PC6001_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DISK DRIVE #2 FEB. 1983\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert says:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; These 35-track, 51/4\u0026quot; double-density drives will give you the high-level performance you want from your Color Computer. Each drive puts over 156K of on-line data and program storage right at your fingertips. And you can chain up to four drives together for a total of more than 626K. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Yet all that extra storage is available at a seek time of 30 milliseconds and a data transfer rate of 250 bits per second...\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Tandy_Color1_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BROCHURE - CARTRIDGE LIST\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.retrorene.nl/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Retro Rene\u0027s Gaming Corner\u0026lt;/a\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/ormatu_spelcomputer-2001_brochure_4.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT JUNE 1983\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said: \u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; With NEC\u0027s PC-8800 personal computer, you don\u0027t have to ask yourself which comes first, the hardware or the software.\u0026lt;br\u0026gt; It\u0027s designed to be uncompromising in both areas. So you come first. In the office or at home.\u0026lt;br\u0026gt; The hardware gives you your choice of 8-bit or 16-bit processors, 5 1/4\u0026quot; or 8\u0026quot; disk drives and standard green or high resolution color monitor.\u0026lt;br\u0026gt; The software includes advanced, user friendly programs for all types of banking, accounting and business management. Plus free WordStar word processing, and MailMerge, Multiplan spread sheet, BASIC (two versions), and CP/M... \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Nec_PC8800_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (JAN. 1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/swtpc_6800_ad_mpu_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [
+    "http://www.wdr-1-bit-computer.talentraspel.de"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/Motorola_MC14500_System_1.jpg",
+  "builtInGames": "None",
+  "controllers": "",
+  "media": "none",
+  "numGames": "",
+  "peripherals": "Unknown",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

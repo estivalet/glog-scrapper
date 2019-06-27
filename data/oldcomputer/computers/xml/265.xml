@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computer>
+    <adverts>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;FRENCH AD (DEC. 1983)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/apple_lisa_ad_alti_1.jpg</link>
+        </advert>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;LISA ADVERT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;He is rich (enough to buy a LISA !), he is relaxed... He is the typical advertising executive of the 80's.&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/Lisa_Advert_bind.jpg</link>
+        </advert>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;LISA 1 PIN&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/Apple_Lisa1_Pin_s1.jpg</link>
+        </advert>
+    </adverts>
+    <batteries></batteries>
+    <builtInGames>Lisa OS</builtInGames>
+    <buttons></buttons>
+    <colors>Monochrome (12'' built-in monitor)</colors>
+    <controllers></controllers>
+    <coprocessor></coprocessor>
+    <cpu>Motorola MC 68000</cpu>
+    <description>
+In 1979, Apple had seen a need to complete the Apple II series. After a visit to the Xerox PARC (Palo Alto Research Center) where he saw lots of new technologies (Ethernet network, GUI, OOP &amp;amp; Laser Printers), Steve Jobs (then chairman of Apple) decided to launch a graphical computer. After lots of work (and two rejected prototypes along the way), the Lisa was revealed in January 1983.
+
+Lisa was the original code-name. Supposedly, the Lisa was named after Steve Jobs' eldest daughter, Lisa Nicole. The Lisa project cost over $50 million and was the result of more than 200 person-years of research and development. It was supposed to be the Next Big Thing. It was not however the first personal computer to use a Graphical User Interface (GUI). Several Xerox systems developped in Palo Alto, utilized the STAR operating system. STAR contained a very innovative icon-based interface as well as a built-in word processor and calculator.
+
+Contrary to the &amp;quot;legend&amp;quot;, Lisa was not the ancestor of the Macintosh. Lisa and Macintosh were two distinct projects. The original Lisa couldn't use Macintosh programs and Macintosh couldn't run Lisa software. The LISA OS (Office System) was a true preemptive multitasking operating system.
+
+But, because of its very high price ($9,999.99 USD in 1983!) and because of competition with the Macintosh, the Lisa was one of Apple's biggest flops (alongside the Apple 3 and the Newton!). A new version of the Lisa was presented in January 1984, the Lisa 2. It had virtually same features but used a 3.5&amp;quot; 800 KB floppy drive instead of the old 5.25&amp;quot; &amp;quot;twiggy&amp;quot; floppy drives.
+Three versions of the Lisa 2 were successively released:
+- Lisa 2 basic version which had rather less memory (512 KB instead of 1 MB) and storage capability than the first Lisa,
+- Lisa 2/5, the nearest to the Lisa 1 at approx. half the original price, was sold with a 5 MB 'Profile' hard disk unit, 
+- Lisa 2/10, which offered up to 10 MB of storage on an internal hard-disk.
+All Lisa's were expandable systems thanks to three slots in the back, mainly used for RAM expansion cards. Up to 7 drives hooked up at once on the same interface.
+
+In 1985, the Lisa lost its name and was renamed &amp;quot;Macintosh XL&amp;quot; (the Lisa 2 could become a Mac XL through the replacement of a ROM chip on the inside of the machine), its ROM and its display was modified to use the Macintosh Operating System and was presented as a development system for the Macintosh (Don't forget - in 1985 there was no hard disk available for the Macintosh). The Macintosh XL was sold until 1986 but became obsolete when the new &amp;quot;True&amp;quot; Macintoshes were launched (Macintosh II and Mac SE in 1987).
+
+After the Mac Plus came out, all owners of Lisa's and previous Macintoshes
+were offered the option to exchange their old computers for the new Plus
+(for a fee of course).
+_______________________</description>
+    <emulators>
+        <emulator>
+            <description>Demonstration version of a commercial software (MS DOS &amp;amp; Win95)</description>
+            <link>http://www.ardi.com/</link>
+            <name>Executor</name>
+            <platform>Windows emulator</platform>
+        </emulator>
+        <emulator>
+            <description>A commercial Software which emulates the Atari ST/TT and the Mac 128/Plus/2 (Win95 / Win NT)</description>
+            <link>http://www.emulators.com/</link>
+            <name>Gemulator</name>
+            <platform>Windows emulator</platform>
+        </emulator>
+        <emulator>
+            <description>IDLE (Incomplete Draft of a Lisa Emulator) : (yet another) Apple Lisa emulator project</description>
+            <link>http://sourceforge.net/projects/idle-lisa-emu</link>
+            <name>IDLE Icomplete Draft of a Lisa Emulator</name>
+            <platform>Windows emulator</platform>
+        </emulator>
+        <emulator>
+            <description>Same as Apple lisa emulator for unix but ported to windows</description>
+            <link>http://lisa.sunder.net/</link>
+            <name>LisaEm</name>
+            <platform>Windows emulator</platform>
+        </emulator>
+        <emulator>
+            <description>PearPC is an architecture-independent PowerPC platform emulator capable of running most PowerPC operating systems.</description>
+            <link>http://pearpc.sourceforge.net/</link>
+            <name>PearPC</name>
+            <platform>Windows emulator</platform>
+        </emulator>
+        <emulator>
+            <description>good 68K Emulator For Windows</description>
+            <link>http://www.emulators.com/</link>
+            <name>SoftMac</name>
+            <platform>Windows emulator</platform>
+        </emulator>
+        <emulator>
+            <description>Lisa emulator for Unix, still in development stage...</description>
+            <link>http://lisa.sunder.net/</link>
+            <name>Apple Lisa Emulator</name>
+            <platform>Unix / Linux emulator</platform>
+        </emulator>
+        <emulator>
+            <description>Demo version of a commercial software (Linux / NextStep)</description>
+            <link>http://www.ardi.com/</link>
+            <name>Executor</name>
+            <platform>Unix / Linux emulator</platform>
+        </emulator>
+        <emulator>
+            <link>http://www.leb.net/vmac/</link>
+            <name>vMac - The Virtual Macintosh Emulator Project</name>
+            <platform>Other platform emulator</platform>
+        </emulator>
+        <emulator>
+            <description>Basilisk II is an Open Source 68k Macintosh emulator. Good emulator, runs on several platforms, even Amiga</description>
+            <link>http://basilisk.cebix.net/</link>
+            <name>Basilisk II</name>
+            <platform>Multiplatform emulator</platform>
+        </emulator>
+        <emulator>
+            <description>Mini vMac, a spin off of the program vMac,  emulates a Macintosh Plus and Macintosh SE. So far it works on Macintosh OS, Microsoft Windows, and the X Window System. </description>
+            <link>http://minivmac.sourceforge.net/</link>
+            <name>Mini vMac</name>
+            <platform>Multiplatform emulator</platform>
+        </emulator>
+    </emulators>
+    <graphics>720 x 364 dots</graphics>
+    <gun></gun>
+    <hardwares/>
+    <image>http://www.old-computers.com/museum/photos/apple_lisa2.jpg</image>
+    <keyboard>Full-stroke 77-key with numeric keypad</keyboard>
+    <language>Lisa OS</language>
+    <links>
+        <link>computer.asp?st=1&amp;amp;c=271</link>
+        <link>computer.asp?st=1&amp;amp;c=1043</link>
+        <link>computer.asp?st=1&amp;amp;c=160</link>
+        <link>computer.asp?st=1&amp;amp;c=282</link>
+        <link>computer.asp?st=1&amp;amp;c=1005</link>
+        <link>computer.asp?st=1&amp;amp;c=161</link>
+        <link>computer.asp?st=1&amp;amp;c=162</link>
+        <link>http://www.apple-history.com/</link>
+        <link>http://www.applefritter.com</link>
+        <link>http://www.cmq.qc.ca/cmq.html</link>
+        <link>http://home.earthlink.net/~gamba2/index.html</link>
+        <link>http://www.jagshouse.com/</link>
+        <link>http://www.aci.com.pl/mwichary/guidebook/extras/spotlights/lisa</link>
+        <link>http://www.goodwill.co.jp/oldmac/lisa.html</link>
+        <link>http://www.lowendmac.com</link>
+        <link>http://www.MacForumz.com</link>
+        <link>http://www.macdebate.com</link>
+        <link>http://www.d4.dion.ne.jp/~motohiko/</link>
+        <link>news:comp.sources.mac</link>
+        <link>news:comp.sys.mac.advocacy</link>
+        <link>news:comp.sys.mac.announce</link>
+        <link>news:comp.sys.mac.apps</link>
+        <link>news:comp.sys.mac.comm</link>
+        <link>news:comp.sys.mac.digest</link>
+        <link>news:comp.sys.mac.hardware.misc</link>
+        <link>news:comp.sys.mac.misc</link>
+        <link>news:comp.sys.mac.programmer.help</link>
+        <link>news:comp.sys.mac.programmer.info</link>
+        <link>news:comp.sys.mac.programmer.misc</link>
+        <link>news:comp.sys.mac.system</link>
+    </links>
+    <manufacturer>Apple</manufacturer>
+    <media>Lisa : two 5.25'' floppy drives (871 KB)Lisa 2/Max XL : one Sony 3.5'' floppy drive (400 KB)</media>
+    <name>LISA / LISA 2 - Mac XL</name>
+    <numGames></numGames>
+    <origin>U.S.A.</origin>
+    <peripherals>5 MB or 10 MB external hard disk</peripherals>
+    <ports>2 x RS232, 3 proprietary slots, Parallel (only on original Lisa),</ports>
+    <power>Built-in 150W power supply unit</power>
+    <price>Lisa: $9,995 (USA, 1983)</price>
+    <production>August 1986</production>
+    <ram>1 MB (2MB max. via 3rd party upgrade)</ram>
+    <rom>16 KB</rom>
+    <screenshots>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;THE APPLE LISA 2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;notice the 3.5&amp;quot; unit instead of the two 5.25&amp;quot;)&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Lisa2.JPG</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;THE APPLE LISA 1 WITH THE 5MB PROFILE HARDDISK &amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Apple_Lisa1_CompleteSyst_s1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;LISA 1 FACEPLATE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Apple_Lisa1_Faceplate_s1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;FIRST GRAPHICS DEMO&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The first LISA graphics demonstration &amp;lt;br&amp;gt; &amp;lt;br&amp;gt;  Title : Effects of impurities on a disk surface&amp;lt;br&amp;gt; &amp;lt;br&amp;gt; From left to right : &amp;lt;br&amp;gt;  - Magnetic head suspended at 250 microns above the magnetic disk, spinning at 80 km/h &amp;lt;br&amp;gt; - Hair &amp;lt;br&amp;gt; - Fingerprint &amp;lt;br&amp;gt; - Dust &amp;lt;br&amp;gt; - Cigarette ash &amp;lt;br&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Lisa_First_Graph.jpg</link>
+        </shot>
+    </screenshots>
+    <size>35 (W) x 47.5 (D) x 38.8 (H) cm / 15.2 Kg</size>
+    <sound>Continuously Variable Slope Demodulator (CVSD)</sound>
+    <speed>5 MHz</speed>
+    <switches></switches>
+    <text>40 x 32 bit-mapped</text>
+    <type>Professional Computer</type>
+    <vram></vram>
+    <year>January 1983</year>
+</computer>

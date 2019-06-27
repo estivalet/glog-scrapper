@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computer>
+    <adverts>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;ADVERT (1980)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/Rockwell_AIM65_Advert_1.jpg</link>
+        </advert>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;FRENCH AD (JAN. 1980)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;quot;Computing is very simple with the AIM65 from Rockwell&amp;quot;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/rockwell_aim65_ad_system-contact.jpg</link>
+        </advert>
+    </adverts>
+    <batteries></batteries>
+    <builtInGames>Optional Basic ROM</builtInGames>
+    <buttons></buttons>
+    <colors></colors>
+    <controllers></controllers>
+    <coprocessor></coprocessor>
+    <cpu>Rockwell 6502</cpu>
+    <description>
+This strange computer was designed to be a development system for 6502 based computers. It had no display except for a small 20 character LED screen and a very small thermal printer located directly on the motherboard which could print everything that was typed on the keyboard.
+
+The board featured five 4 KB-ROM sockets. Two of them were dedicated to the AIM monitor program, including an instant input assembler (no labels) and a disassembler. Various programming languages (BASIC, FORTH...) or custom applications could be added in the three remaining sockets.
+
+Several cards were developped for this machine, especially language cards and ROMs: a BASIC card (BASIC language with floating point mathematics capabilities), PL/65 (a mixture of the PL/1 and Algol languages), Instant Pascal (an interpreted version of Pascal), Assembler and the FORTH programming language.
+_______________________</description>
+    <emulators>
+        <emulator>
+            <description>MESS somehow emulates the AIM 65</description>
+            <link>http://www.mess.org</link>
+            <name>MESS</name>
+            <platform>Multiplatform emulator</platform>
+        </emulator>
+    </emulators>
+    <graphics></graphics>
+    <gun></gun>
+    <hardwares>
+        <hardware type="AIM 65 EXPANSION MOTHERBOARD">
+            <items>
+                <item>
+                    <description>#A65-009||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;#A65-009&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This board was designed to take Rockwell's SYSTEM 65, or Motorola Exorcisor bus boards. It has 5 expansion slots.&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/rockwell_aim65_expansion-motherboard-a65-009.jpg</photo>
+                </item>
+                <item>
+                    <description>With disk-drive controller car mounted||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;WITH DISK-DRIVE CONTROLLER CAR MOUNTED&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/rockwell_aim65_dd_board.jpg</photo>
+                </item>
+            </items>
+        </hardware>
+        <hardware type="DISK DRIVE">
+            <items>
+                <item>
+                    <description>Unit||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;UNIT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/rockwell_aim65_dd_1.jpg</photo>
+                </item>
+                <item>
+                    <description>Disk inserted||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;DISK INSERTED&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/rockwell_aim65_dd-disk_1.jpg</photo>
+                </item>
+                <item>
+                    <description>Complete setup||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;COMPLETE SETUP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Disk drive is connected to its controller card, itself mounted on the expansion board.&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/rockwell_aim65_dd-disk_complete.jpg</photo>
+                </item>
+            </items>
+        </hardware>
+    </hardwares>
+    <image>http://www.old-computers.com/museum/photos/rockwell_aim65_r-side_s.jpg</image>
+    <keyboard>Full-stroke keyboard</keyboard>
+    <language>Optional Basic ROM</language>
+    <links>
+        <link>http://highgate.comm.sfu.ca/~rcini/classiccmp/my_docs.htm#RWS</link>
+        <link>http://oldcomputers.net/AIM-65.html</link>
+    </links>
+    <manufacturer>Rockwell</manufacturer>
+    <media></media>
+    <name>AIM 65</name>
+    <numGames></numGames>
+    <origin>U.S.A.</origin>
+    <peripherals></peripherals>
+    <ports>Application bus, expansion bus, ROM connector</ports>
+    <power>Needs four power supply voltages: +5v, +12v, -12v, and +24v for the printer</power>
+    <price>$375</price>
+    <production>Unknown</production>
+    <ram>4 KB (up to 32 KB of static RAM)</ram>
+    <rom>12 KB</rom>
+    <screenshots>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;AIM 65&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/rockwell_aim65_r-side.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;SYSTEM OPENED&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/rockwell_aim65_2.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;TOP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/rockwell_aim65_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;LED SCREEN CLOSE-UP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/rockwell_aim65_screen_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;DISPLAY CLOSE-UP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/rockwell_aim65_display_zoom.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;PRINTER CLOSE-UP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/rockwell_aim65_printer_zoom.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;COMPLETE SYSTEM...&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/rockwell_aim65_complete.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;MOTHERBOARD EXPLAINED&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The AIM-65 was intended to be used for external device control and management. Its two extension connectors give access to all the control signals of the board. Used for this purpose, a one line display and a small printer are sufficient. &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(1)&amp;lt;/b&amp;gt; This connector allows the AIM-65 to be connected to an external device and to manage it. &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(2)&amp;lt;/b&amp;gt; VIA-6522 chipset in charge of two I/O ports control. &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(3)&amp;lt;/b&amp;gt; Expansion connector. It can receive an expansion unit or a memory board. &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(4)&amp;lt;/b&amp;gt; 8 chips holding 4 Kb RAM of which 3 are available for user programs. &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(5)&amp;lt;/b&amp;gt; Microprocessor 6502 from MOS technology. &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(6)&amp;lt;/b&amp;gt; Sockets for additional ROM chips (for programming languages or specific software).&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(7)&amp;lt;/b&amp;gt; 2 ROM chips holding the AIM-65 monitor.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(8)&amp;lt;/b&amp;gt; 20 characters LED display. An external monitor can be used with an optional interface. &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(9)&amp;lt;/b&amp;gt; Switch to turn the computer in step-by-step mode, where each microprocessor instruction is performed step by step.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(10)&amp;lt;/b&amp;gt; Mechanical ASCII Keyboard. &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(11)&amp;lt;/b&amp;gt; 6532 chipset in charge of the keyboard management. &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(12)&amp;lt;/b&amp;gt; System init button (Reset). &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(13)&amp;lt;/b&amp;gt; 20 char./line thermal printer. &amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(14)&amp;lt;/b&amp;gt; Power plug. An external power supply is needed.&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Rockwell_Aim65_Inside_1.jpg</link>
+        </shot>
+    </screenshots>
+    <size>Unknown</size>
+    <sound>None</sound>
+    <speed>1 MHz</speed>
+    <switches></switches>
+    <text>1 line of 20 chracters (LED screen)</text>
+    <type>Home Computer</type>
+    <vram></vram>
+    <year>1976</year>
+</computer>

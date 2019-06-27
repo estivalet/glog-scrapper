@@ -1,0 +1,330 @@
+{
+  "name": "FALCON 030",
+  "manufacturer": "Atari",
+  "type": "Home Computer",
+  "origin": "U.S.A.",
+  "year": "1992",
+  "production": "",
+  "language": "",
+  "keyboard": "",
+  "cpu": "Motorola MC68030",
+  "speed": "16 MHz (68030) / 32 MHz (56001)",
+  "coprocessor": "optional FPU (Motorola 68882)",
+  "ram": "4 MB (up to 14 MB)",
+  "vram": "",
+  "rom": "512 KB",
+  "text": "40 or 80 chars.  x 25 lines (bitmapped graphics)",
+  "graphics": "ST?Modes, TT Modes, VGA (640 x 480), True Color.",
+  "colors": "Two modes : 16 / 15 bit with True color mode or 262144 with paletted mode",
+  "sound": "8 channel 16 bit PCM audio system",
+  "size": "",
+  "ports": "RGB, VGA, PAL, DSP, SCSI, Stereo IN/OUT, Midi (2), LocalTalk, Cardridge, RS232c, Centronics, Analog Joystick (2), Digital Joystick (2), 68030 Bus",
+  "power": "",
+  "price": "",
+  "description": "\nThe Atari Falcon 030 is the successor of the Atari 520 STe and the Atari TT 30.\n\nIt keeps some features these machines :  The graphic modes (320 x 200 / 16 colors, 640 x 200 / 4 colors, 640 x 400 / 2 colors, 320 x 480 / 256 colors and 640 x 480 / 16 colors) and the sound chips (the old Yamaha PSG and the two 8 bits PCM channels of the STe).\n\nTwo new graphic modes have been added : a \u0026quot;small\u0026quot; 256 colors SVGA (640 x 480) and a true color VGA mode (32768 / 65535 colors in 320 x 480). Also when running on a TV, the resolutions are different: True Color mode is 640x480 in PAL and 640x400 in NTSC. The other TV resolutions also have a difference of vertical resolution between PAL and NTSC: 200 or 400 lines in NTSC, 240 or 480 in PAL.\n\nNew interfaces were added too : an ADC 16bit 50 KHz and a DSP I/O port. The videochip has also genlocking features.\n\nThe Falcon was sold with the single-task TOS operating system in ROM (4.04). It is the old Atari ST TOS with new functions to handle the DSP and the new graphic modes. The GUI was slightly enhanced with colored icons and 3D windows.\nHopefully a multi-task TOS - MultiTOS) was also delivered on disks. This multitasking system uses the MiNT kernel and an enhanced GUI. MiNT (which stands for MiNT is NOT TOS) is a multitasking Operating System with lot of Unix features. It was initially done by Eric Smith. It was bought later by Atari and became then \u0026quot;MiNT is NOW TOS). Atari planned first to put it in ROM, but it was not finished and was shipped on disks.\n_______________________",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;NICE PILLOW !\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;My cat, Praline, is using my Atari Falcon 030 as a pillow. It seems to be really comfortable !\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/praline.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CLOSE-UP #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Atari_Falcon30_Keyboard_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CLOSE-UP #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Atari_Falcon30_Keyboard_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CASE SIDES\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Left side\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; MIDI In\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; MIDI Out\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; ROM cartridge connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(4)\u0026lt;/b\u0026gt; 2 x joystick plugs\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Right side\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(5)\u0026lt;/b\u0026gt; Floppy-disc drive \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Atari_Falcon30_Sides_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MOTHERBOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; Midi In/Out DIN plugs\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; Reset switch\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; Lan MiniDIN plug\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(4)\u0026lt;/b\u0026gt; Modem/Serial DB9 connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(5)\u0026lt;/b\u0026gt; Printer/Parallel DB25 connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(6)\u0026lt;/b\u0026gt; IDE bus connector (hard-disk)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(7)\u0026lt;/b\u0026gt; Video signals generator chip called VIDEL\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(8)\u0026lt;/b\u0026gt; RF modulator and TV aerial output chinch plug\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(9)\u0026lt;/b\u0026gt; RGB monitor DB 19 connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(10)\u0026lt;/b\u0026gt; SCSI controller chip\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(11)\u0026lt;/b\u0026gt; SCSI connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(12)\u0026lt;/b\u0026gt; Microphone / Headphone jacks\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(13)\u0026lt;/b\u0026gt; DSP connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(14)\u0026lt;/b\u0026gt; CODEC Chip\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(15)\u0026lt;/b\u0026gt; 56K DSP (Digital Signal Processing) chip\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(16)\u0026lt;/b\u0026gt; 64 KB DSP SRAM chips\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(17)\u0026lt;/b\u0026gt; Direct Memory Access chip\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(18)\u0026lt;/b\u0026gt; Floppy disc drive cables (data and power)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(19)\u0026lt;/b\u0026gt; fan\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(20)\u0026lt;/b\u0026gt; BIOS and GEM ROM\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(21)\u0026lt;/b\u0026gt; Memory expansion connectors\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(22)\u0026lt;/b\u0026gt; COMBEL chip (MMU + GLUE + Blitter)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(23)\u0026lt;/b\u0026gt; Motorola 68030 microprocessor\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(24)\u0026lt;/b\u0026gt; \u0027Direct Processor\u0027 expansion connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(25)\u0026lt;/b\u0026gt; Joystick connectors\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(26)\u0026lt;/b\u0026gt; Motorola Math coprocessor socket\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(27)\u0026lt;/b\u0026gt; Multi-Function Peripheral 68901 chip. Performs a 8-bit parallel port, a built-in serial interface, timers and interrupts.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(28)\u0026lt;/b\u0026gt; ROM cartridges connector\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Atari_Falcon30_Motherboard_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Falcon\u0027s internal peripharals:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; Switching power supply (+5V - 7A, +12V - 0.5A)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; 60 MB  CP-2064 Conner hard-disk\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; 3.5\u0026quot; F.D. drive\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(4)\u0026lt;/b\u0026gt; 4 MB RAM module \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Atari_Falcon30_Inside_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR CONNECTORS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; Second pair of joystick connectors housing\u0026lt;br\u0026gt;  \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; DSP connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; Headphone jack\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(4)\u0026lt;/b\u0026gt; Microphone jack\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(5)\u0026lt;/b\u0026gt; SCSI connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(6)\u0026lt;/b\u0026gt; RGB monitor connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(7)\u0026lt;/b\u0026gt; TV aerial output plug\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(8)\u0026lt;/b\u0026gt; Parallel/Printer connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(9)\u0026lt;/b\u0026gt; Serial/Modem connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(10)\u0026lt;/b\u0026gt; Lan Mini-DIN connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(11)\u0026lt;/b\u0026gt; Mains power plug and switch\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(12)\u0026lt;/b\u0026gt; Reset switch\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Atari_Falcon30_Back_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN BROCHURE #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Volken \u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Atari_Stacy_GermanDoc_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT(1982) #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Osborne_1_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT #4 (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Circa September, 1982.  This is likely one of the final Commodore advertisements for the VIC-20, as the C64 was soon to be launched.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Commodore_Vic20_Advert_4.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SPANISH ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/mitsubishi_ml-fx1_spanish-advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (JAN. 1985)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Laser 3000. For 5980F, play the double compatibility !\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/vtech_laser3000_pub_jouez-la-compatibilite.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH BROCHURE #4\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Jacques Sorro\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Oric_1_FrBrochure_s4.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The memo from the company president:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; Your purchase request for six personal computers just reached my desk.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; What gives?\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; I thought you understood our grouth plans, Jack, but the computers you have recommanded are dead ends. They might do the job today, but what about tomorrow? They don\u0027t connect together to form any kind of functional system. The 8 bits aren\u0027t compatible with the 16 bits models. And I doubt the software that run on the computers you want will be of any use later when we\u0027re forced to buy computers that work together.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; You saved us a little now, Jack, but your decision will cost us a bundle as we grow into the future. We are growing, Jack, and I\u0027m sure that you want to be part of the growth.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; See me before you go home tonight.\u0026lt;br\u0026gt; Tom\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;/font\u0026gt; Cheer up Jack!\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Now the advert:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; If you don\u0027t want your boss to limit you growth, don\u0027t limit the growth of the company. Consider small business computers that can keep up with your business by giving you options for expansion in the future.\u0026lt;br\u0026gt; With Televideo Systems Inc. you get what no other small business computer can offer...\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Perhaps jack was right...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Televideo_TS802_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT.\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/timex_sinclair-1000_leaflet.JPG"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (FEB. 1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/rair_blackbox_advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. AD #1 (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; We know your question: How could Olivetti have developped a better personal computer than the other giants?\u0026lt;br\u0026gt; The answer is in a word: Experience. Olivetti introduced the world\u0027s first desktop computer in 1965. Since then, we\u0027ve continued to market a variety of minicomputers and microcomputers to a wide range of users...\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Olivetti_M20_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;WONDER COMPUTE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/commodore_vic20_adv_wonder-compute.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;NASCOM 1 BROCHURE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Lucas_Nascom1_Brochure_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1978 BROCHURE #19\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;As the picture is quite unreadable, we have replaced it with a plain text copy.  \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; What kind of diskettes do you recommend for use with the FD-8?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; We have our diskettes manufactured by the Dysan Corporation. They are packaged for us under the MSI label and have proven to be the most reliable diskettes available for use with the FD-8. We have tried other manufactur\u0026shy;ers but have found none to be as reliable as Dysan. We pay more money for Dysan diskettes and, as a result, cannot offer them at a price quite as competitive as some other manufac\u0026shy;turers. However, we feel that the reliability is most important. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; Does the FD-8 use IBM compatible format?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; The FD-8 is not IBM compatible since we use hard-sectoring on the diskette. Our format uses 16 sectors of 256 data bytes each per track. In addition, track and sector identification, checksum (CRC), and other error checking information is written on each sector in addition to the data. This gives a total capacity of 315,392 bytes of data which can be stored per diskette. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; What are diskette hardholes, and what do they do?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; Hardholes are small mylar doughnuts which may be affixed to the center hole of a diskette for additional protection. It is possible to damage the center hole of a diskette if it is not properly centered at the time the disk drive door is closed. The mylar doughnut serves to reinforce the center hole of the diskette and give it additional protection against damage. The hard hole also provides for additional fric\u0026shy;tion between the diskette and the clamping hub in order to provent slippage of the diskette dur\u0026shy;ing rotation. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; Does MSI offer application software packages?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; MSI is in the process of developing ap\u0026shy;plication software for use with the FD-8 System. We will be offering a library of standard busi\u0026shy;ness programs for accounting, inventory and mail list applications in the near future. These programs will be written in BASIC using the disk data file capability of the FD-8. The availability of application software will be announced in periodic MSI newsletters and will be made available to FD-8 users for a small copying charge plus the cost of the diskette. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; Does a user program library exist for the MSI FD-8 Disk System?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; We are in the process of organizing a user group for the FD-8. Users of the FD-8 System are encouraged to submit programs which may be included in the user library. Member\u0026shy;ship in the user group may be achieved by either submitting a program for publication or by payment of a nominal membership fee. Membership then entitles the user to receive periodic listings of user library contents and newsletters. Programs contained within the user library will be made available for a small copying charge. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; What is the difference between MSI TAPE BASIC and MSI BASIC used with the FD-8 Disk System?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; We have added several features to the MSI version of BASIC. We offer multiple statements per line, user defined verbs, a string\u0026shy;length command which allows strings up to 128 characters to be used, and have increased the speed of execution. In addition, we have completely removed the dependence upon the MIKBUG ROM and MIKBUG RAM areas. The stack pointers have been moved to the user program area, and the input/output routines for each of the ports are fully documented so that these can be easily changed. Interrupts are now allowed and can be used to vector the program to a user subroutine and then return to BASIC. We are also developing multi-user BASIC which will be released in the near future. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; Can MSI BASIC and the disk operating system be relocated?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; Essentially, no difference exists between the two versions of BASIC insofar as the BASIC interpreter is concerned. The tape version has disk and DOS commands removed from its library. The interpreter resides from memory location $0100 to $1 FFF in both versions. In addition, memory locations below $0100 are used as pointers. In the Disk version, memory locations from $2000 - $2FFF are used to con\u0026shy;tain disk driver subroutines, DOS, and other file handling routines. User memory begins at $2000 for the tape version and $3800 in the Disk version of BASIC. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; What is the difference between SWTP 8K BASIC and MSI BASIC?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; It is not considered feasible to attempt relocation of these programs since so many of the individual routines which are used in the disk operating system are integrated. It would require a major revision of the disk operating system, BASIC, coresident assembler/editor and other associated utility programs before such a relocation could be performed. However, a version of MSI BASIC will soon be available on PROM which will reside at a high memory location. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; How difficult is it to run MSI BASIC and the disk operating system on the Motorola Ex\u0026shy;orciser, or other 6800 based microcomputer systems?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; The primary changes which must be made are in the input and output character routines. These routines must be changed in all MSI software so as to be compatible with the sys\u0026shy;tem on which software is running. In addition, the PIA Interface which communicates with the disk, the FD-8, is presently located at mem\u0026shy;ory address $801 C. A PIA residing at this ad\u0026shy;dress will also be necessary, or alternatively, this address must also be changed in the disk driver subroutines. Several different versions of the MSI software package are currently being developed for use with other 6800 systems. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; Will MSI BASIC handle tape commands as well as disk?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; Yes, the commands TSAVE AND TLOAD are used with the tape, whereas the commands SAVE and LOAD are reserved for use with the disk. It is also possible to place a label at the front of a block which is saved on tape. When this label is specified during a LOAD opera\u0026shy;tion, the program will search for the appropriate block on tape before loading in the information which has been stored on the tape. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; Will MSI BASIC handle data files?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; Yes, both random and sequential data files are available for the disk system under MSI BASIC. Named files for object code, source code, BASIC program, and BASIC data files are all available. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; I have heard that 1702A PROMs are too slow for use with 6800 systems running at full clock speed. Is this true?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; This is not true, if the memory addressing scheme employed by MSI is used to address the 1702A PROMs. The MSI PROM/RAM Board does not employ Phase 2 of the clock in the memory addressing scheme. This permits a tolerable memory access time of approxi\u0026shy;mately 9OQns. MSI uses 650ns access time 1702A PROMs in all applications. This provides completely satisfactory reliability of operation. We have experienced no problems whatsoever when using fast 1702As. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; Can I buy a Bootstrap routine on PROM in order to bring the disk system into operation quickly?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; Yes, MSI is presently delivering a 512 byte Bootstrap Program known as Short Boot. This routine is available on a two-PROM set using 1702A PROMs for use with the MSI PROM/RAM Board. Short Boot and the PROM Board are delivered with most Disk Systems. This allows the disk to be placed into operation by simply executing the Bootstrap routine which is orged at $COOO. The system then responds immediately with DOS READY and programs may then be called immediately by file name. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Q.\u0026lt;/b\u0026gt; I am interested in purchasing MSI software but am having a hard time evaluating its use\u0026shy;fulness. May I purchase the documentation for your disk system and BASIC separately for evaluation?\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;A.\u0026lt;/b\u0026gt; Yes, the complete operating manual for the FD-8 Disk System may be purchased sep\u0026shy;arately for $35.00. This manual includes as\u0026shy;se\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/MSI_6800_Brochure_s19.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/AVT_Comp2_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DIAGRAMS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;PMI-80 diagram located in the case cover.\u0026lt;br\u0026gt; If you are interested in more diagrams of the PMI-80, dowload this zipped \u0026lt;a href\u003d\u0026quot;http://www.old-computers.com/Museum/downloads/Tesla_PMI80_Diagrams.zip\u0026quot;\u0026gt;file\u0026lt;/a\u0026gt; holding three diagrams of the whole system.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Tesla_Pmi80_CaseCover_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERTISING FOR THE SMC 70\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/smc70-pub.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT (MAY 1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert says:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The ATOM -a definitive personal computer. Simple-to-build, simple-to-operate. But a really powerful full-facility computer. And designed on an expandable basis. You can buy a superb expanded package now-tailored to your needs. Or, you can buy just the standard Atom kit, and, as you grow in confidence and knowledge, add more chips. No need to replace your equipment. No need to worry that your investment will be overtaken by new technology. As you need more power, more facilities, you can add them! \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;The standard ATOM kit includes:\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; . Full sized QWERTY keyboard. Rugged polystyrene case\u0026lt;br\u0026gt; . Fibreglass PCB. 2K RAM. 8K ROM. 23 integrated circuits . Full assembly instructions including tests for fault-finding. (Once built, connect it to any domestic TV and power source)\u0026lt;br\u0026gt; . Power requirement: 8V at 800 M A. ATOM power unit available.\u0026lt;br\u0026gt; PLUS FREE MANUAL written in two sections \u0026lt;br\u0026gt; - teach yourself BASIC and machine code for those with no knowledge of computers, and a reference section giving a complete description of the ATOM\u0027s facilities. All sections are fully illustrated with example programs.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;The ATOM concept\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; Adding chips into sockets on the PCB allows you to progress in affordable steps to large-scale expansion. You can see from the specifications that the RAM can be increased to 12K allowing high resolution (256 x 192) graphics. Two further ROM chips, e.g. maths functions, can be added directly to the board giving a 16K capacity. In addition to 5 I/O lines partly used by the cassette interface, an optional VIA device can provide varied I/O and timer functions and via a buffer device allow direct printer drive. An optional module provides red, green and blue signals for colour. An in-board connector strip takes the ATOM communications loop interface. Any number of ATOMs may be tinked to each other - or to a master system with mass storage, hard copy facility. Interface with other ACORN cards is simplicity itself. Anyone ACORN card may be fitted internally. So you can see there are a vast number of modular options and additions available, expanding with your ability and your budget.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;The ATOM hardware includes:\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; .Memory from 2K to 12K RAM on board (up to 35K in case)\u0026lt;br\u0026gt; .8K to 16K ROM (two 4K additions) 86502 processor\u0026lt;br\u0026gt; .Video Display allows high resolution (256 x 192) graphics and red, green and blue output\u0026lt;br\u0026gt; .Cassette Interface-CUTS 300 baud\u0026lt;br\u0026gt; .Loudspeaker allows tone generation of any frequency\u0026lt;br\u0026gt; .Channel36 UHF Modulator Output .Bus output includes internal connections for Acorn Eurocard.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;The ATOM software includes:\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; .32-bit arithmetic (+/- 2,000,000,000)\u0026lt;br\u0026gt; .High speed execution\u0026lt;br\u0026gt; .43 standard/extended BASIC commands \u0026lt;br\u0026gt; .Variable length strings (up to 256 characters)\u0026lt;br\u0026gt; .String manipulation functions\u0026lt;br\u0026gt; .27 32-bit integer variables\u0026lt;br\u0026gt; .27 additional arrays\u0026lt;br\u0026gt; .random number function .PUT and GET byte\u0026lt;br\u0026gt; .WAIT command for timing\u0026lt;br\u0026gt; .DO-UNTIL construction\u0026lt;br\u0026gt; .Logical operators (AND, OR, EX-OR)\u0026lt;br\u0026gt; .LINK to machine-code routines\u0026lt;br\u0026gt; .Plot draw and move. \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Paul Durrant\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Acorn_Atom_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROMOTIONAL LEAFLET\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;cover\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_to770_promo_couv.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1983 BADGES\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Commodore__64_Badges_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/magnavox_odyssey2_ad_ouridea.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;QL MONITOR AD.\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;It was actually a rebadged Taxan monitor\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sinclair_QL_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PREVIOUS SYSTEM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Before manufacturing the MPC, Columbia tried to sell a massive multi-user, Z80 based system.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Columbia_PC_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT #2 (JUNE 1985)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/olivetti_advert_docile-compatibles_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.pong-story.com\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;www.pong-story.com\u0026lt;/a\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/magnavox_odyssey_advert_1.jpg"
+    }
+  ],
+  "hardware": [
+    {
+      "type": "\u0026gt; DISK-DRIVES",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/atari_st_sf354-diskdrive_1.jpg",
+          "description": "SF-354|||Single density disk-drive |||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SF-354\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Single density disk-drive \u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/atari_st-disk-drive_sf314.jpg",
+          "description": "SF-314|||Disk-drive|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SF-314\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Disk-drive\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Atari_520_CumanaDrive_1.jpg",
+          "description": "Cumana Drive||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CUMANA DRIVE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "\u0026gt; HARD-DRIVES",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/atari_supradrive_20mb.jpg",
+          "description": "Supradrive|||20 Mb hard-disk|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SUPRADRIVE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;20 Mb hard-disk\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/atari_st_quamtum_hd170.jpg",
+          "description": "170Mb Quantum hard-drive||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;170MB QUANTUM HARD-DRIVE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This unit has an ICD Host Adapter.\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/atari_st_megafile30_1.jpg",
+          "description": "Atari Megafile 30||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ATARI MEGAFILE 30\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This hard-drive has a 30Mb capacity.\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Atari_MegaST_InsideMegaFile_1.jpg",
+          "description": "Inside the Megafile 30||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE THE MEGAFILE 30\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; Seagate MFM 30 MB hard-disk Type ST-238\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; Power supply\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; Logical board\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(4)\u0026lt;/b\u0026gt; Power and disk access LED\u0027s\u0026lt;br\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "\u0026gt; MISC",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Atari_520_ModemSX212_1.jpg",
+          "description": "Atari universal modem||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ATARI UNIVERSAL MODEM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The SX212 modem was one of the rare Atari peripherals that could be used with all the Atari computers range, from the 400/800 series up to the Falcon. It had both the Atari I/O ports for the 8-bit systems and a standard RS-232 connector for ST\u0027s\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; It was a 300/1200 baud modem compatible with the well-known Hayes \u0027AT\u0027 commands.\u0026lt;br\u0026gt; Cable and software was sold separately, depending of the computer used. \u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Atari_MegaST_SLM804printer_s1.jpg",
+          "description": "SML-804|||Laser printer|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SML-804\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Laser printer\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The SLM-804 was actually a Kyocera F1000 printer but without neither on-board processor and memory nor buttons other than the on/off switch. It was first delivered with the Mega ST but could be connected on all of the ST series computers through a dedicated interface box.\u0026lt;br\u0026gt; The printer used the processing power and the RAM memory of the ST computer for printing at 8 pages per minute and 300 DPI. The paper tray held 250 sheets.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Francois Michaud\u0026lt;/b\u0026gt; who donated us this printer.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Atari_MegaST_SLMCinterface_s1.jpg",
+          "description": "SMLC-804|||Laser printer interface|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SMLC-804\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Laser printer interface\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This interface allowed the SML-804 printer to be connected to any Atari ST holding at least 1 MB RAM.\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    }
+  ],
+  "emulator": [
+    {
+      "platform": "MS DOS emulator",
+      "name": "Pacifist !",
+      "link": "http://www.pacifist.fatal-design.com/",
+      "description": "Pretty good emulator"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "Gemulator",
+      "link": "http://www.emulators.com/gemul8r.htm"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "MagiCPC",
+      "link": "http://www.application-systems.de/magicpc/index.html"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "SainT",
+      "link": "http://saint.atari.org",
+      "description": "The best Atari ST Emulator !"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "Steem",
+      "link": "http://steem.atari.st/",
+      "description": "Excellent emulator for 1040/520 STE !"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "Tos2Win",
+      "link": "http://www.aixit.com/tos2win/",
+      "description": "A good Atari GEM Emulator !"
+    },
+    {
+      "platform": "Apple emulator",
+      "name": "MagiCMac",
+      "link": "http://www.application-systems.de/magicmac/index.html"
+    },
+    {
+      "platform": "Apple emulator",
+      "name": "NoSTalgia \u0026amp; PowerST",
+      "link": "http://users.skynet.be/sky39147/"
+    },
+    {
+      "platform": "Unix / Linux emulator",
+      "name": "STonX Homepage",
+      "link": "http://www.complang.tuwien.ac.at/nino/stonx.html"
+    },
+    {
+      "platform": "Other platform emulator",
+      "name": "Atari ST Emulator ",
+      "link": "http://www.atari-st.lovely.net/",
+      "description": "Written in Java !"
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "ARAnyM",
+      "link": "HTTP://ARANYM.ATARI.ORG",
+      "description": "Multiplatform project"
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "Hatari",
+      "link": "http://hatari.sourceforge.net/",
+      "description": "Hatari is an Atari ST emulator for Linux, BSD, BeOS, Mac OS X and other systems that are supported by the SDL library. More precisely, Hatari is an adaption of the WinSTon source code to the SDL library."
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d922",
+    "computer.asp?st\u003d1\u0026amp;c\u003d272",
+    "computer.asp?st\u003d1\u0026amp;c\u003d24",
+    "computer.asp?st\u003d1\u0026amp;c\u003d25",
+    "computer.asp?st\u003d1\u0026amp;c\u003d20",
+    "computer.asp?st\u003d1\u0026amp;c\u003d270",
+    "computer.asp?st\u003d1\u0026amp;c\u003d635",
+    "computer.asp?st\u003d1\u0026amp;c\u003d165",
+    "computer.asp?st\u003d1\u0026amp;c\u003d164",
+    "computer.asp?st\u003d1\u0026amp;c\u003d283",
+    "computer.asp?st\u003d1\u0026amp;c\u003d225",
+    "computer.asp?st\u003d1\u0026amp;c\u003d269",
+    "computer.asp?st\u003d1\u0026amp;c\u003d245",
+    "http://www.best.com/~hmk/",
+    "http://www.atarimusic.net/",
+    "http://wwwbrauer.in.tum.de/~brandtf/ataridemos.html",
+    "http://www.chebucto.ns.ca/Services/PDA/atari.shtml",
+    "http://www.atari.org/",
+    "http://www.dhs.nu/",
+    "http://www.atari.st/",
+    "http://www.kingx.com/kingx/medusa/thes.html",
+    "http://www.milan-computer.de/",
+    "http://www.earth.ox.ac.uk/~steve/mintos.html",
+    "HTTP://MUSIQUE.ATARI.ORG",
+    "http://www.plopbox.net/",
+    "http://atariki.krap.pl",
+    "http://my.blackpoint.ch/stab/",
+    "http://www.atarimuseum.com/",
+    "http://www.megacom.net/~q-funk/ST/",
+    "http://b.webring.com/hub?ring\u003datari",
+    "http://www.atari.org",
+    "http://www.vanc.igs.net/~roughley/tos_main.htm",
+    "http://www.umich.edu/~archive/atari/",
+    "news:comp.sys.atari.advocacy",
+    "news:comp.sys.atari.announce",
+    "news:comp.sys.atari.programmer",
+    "news:comp.sys.atari.st",
+    "news:comp.sys.atari.st.tech",
+    "news:fr.comp.sys.atari"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/Atari_Falcon30_System_1.jpg",
+  "builtInGames": "3.5\u0027\u0027 FDD and 2.5\u0027\u0027 IDE hard disk (44, 65 or 80 MB) depending models.",
+  "controllers": "",
+  "media": "3.5\u0027\u0027 FDD and 2.5\u0027\u0027 IDE hard disk (44, 65 or 80 MB) depending models.",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

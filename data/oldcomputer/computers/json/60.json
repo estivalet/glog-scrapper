@@ -1,0 +1,147 @@
+{
+  "name": "ALICE",
+  "manufacturer": "Matra Hachette",
+  "type": "Home Computer",
+  "origin": "France",
+  "year": "1983",
+  "production": "Alice 4k : 1982Alice 32 : end of 1985",
+  "language": "Basic Microsoft 1.0 (1982)",
+  "keyboard": "AZERTY, chicklet keyboard47 keys (1 SHIFT, 1 CONTROL, BREAK, ENTER)Basic statements written above each key",
+  "cpu": "Motorola 6803 (a cross between 6800 and 6809)",
+  "speed": "0.89 MHz",
+  "coprocessor": "MC-6847 Video Generator",
+  "ram": "Alice 4k : 4 kb, 3 kb left for userAlice 32 : 16 kb, 8 kb left for user",
+  "vram": "",
+  "rom": "Alice 4k : 8 kbAlice 32 : 16 kb",
+  "text": "Alice 4k : 32 x 16Alice 32 : 32 x 16, 40 x 25, 80 x 25",
+  "graphics": "Alice 4k : 64 x 32Alice 32 : 64 x 32, 160 x 125, 320 x 250",
+  "colors": "Alice 4k : 9Alice 32 : 9 with Basic, 32 with machine code",
+  "sound": "1 channel",
+  "size": "51 x 216 x 178 / 850gt",
+  "ports": "Expansion port (18 pins)Tape-recorder (1500 bauds)TV (7 pins DIN plug)I/O serial port (4 pins DIN plug)",
+  "power": "10v  - 1,3A",
+  "price": "182  (France, dec. 83)118  (France, july 85)53  (France, april 87)",
+  "description": "\nAs the Sinclair ZX-81, the Alice was clearly marketed as an initiation machine.\n\nIn 1981, Matra signed a deal with Tandy/RadioShack to develop a MC-10 clone for 1983 : the Alice. Matra then worked with Hachette (both were owned by the Lagard?re group) to produce the documentation and to organize the distribution. Last but not least, the well known and excellent french illustrator Moebius drew a beautiful illustration for the docs and the box of the Alice.\n\nAlice is quite limited in its possibilities but is also quite pleasant to use. Its case is whole red and the computer really looks like a toy.\n\nSeveral educational programs were developed for this computer.\nThen in 1984, Matra presents a new version : The Alice 32 with 16 kb RAM and improved graphical possibilities.\n\nBut this computer was, like the MC 10, a flop in the marketplace. It was replaced one year later by the Alice 90.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRONT VIEW\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/matra_alice_front.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UNDER THE THING\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/matra_alice_below.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SIDE VIEW 1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/matra_alice_side1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SIDE VIEW 2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;You can spot here the on/off switch.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/matra_alice_side2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR VIEW\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Power in | TV plug | Expansion bus | Red RESET button  | Serial DIN plug | Tape recorder DIN plug\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/matra_alice_rear.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE THE ALICE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/matra_alice_inside.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;KEYBOARD (LEFT)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;We can see here the only CONTROL key and the other keys with their basic statements and graphical characters associated.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/matra_alice_kbd1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;KEYBOARD (RIGHT)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Here is the only SHIFT key. Note also the BREAK key...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/matra_alice_kbd2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ALICE 4K MOTHERBOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; 8 bits 6803 microprocessor running (slowly) at 890 Khz.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; Cassette recorder connector. Data transfer rate is of 150 char./second.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; Serial connector, mainly used for printers. Data tranfer rate is of 60 char./second.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(4)\u0026lt;/b\u0026gt; System init button (Reset).\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(5)\u0026lt;/b\u0026gt; Extensions connector mainly for used the 16 Kb. RAM expansion pack.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(6)\u0026lt;/b\u0026gt; 8 Kb. Rom chip. Holds the Microsoft Basic interpreter.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(7)\u0026lt;/b\u0026gt; 6847 Video chip.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(8)\u0026lt;/b\u0026gt; RGB video output connector.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(9)\u0026lt;/b\u0026gt; Power connector. Power is supplied by an external unit.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(10)\u0026lt;/b\u0026gt; Heat cooler.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(11)\u0026lt;/b\u0026gt; 4 Kb. Ram chips (2 x 4016 of 2 Kb. each).\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Matra_Alice_Inside_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ALICE 32 MOTHERBOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is the new version of the Alice : Alice 32 (codenamed \u0026quot;Alice 2\u0026quot; on the mother board). \u0026quot;32\u0026quot; because it has 16k RAM + 16k ROM. It also has a better video generator (9345).\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/matra_alice32_mobo.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;THE ALICE CASE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This was how the Alice 32 was sold as an initiation package. It includes the Alice 32 + 16k RAM expansion + a tape recorder + Basic and Assembler documentation + tapes. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The whole package was sold for 2495fr in 1984.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/matra_alice_valise_opened.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;THE ALICE HANDBOOK\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The Alice handbook, illustrated by Mo\u0026euml;bus, is a true success. It summarizes perfectly the objectives set by Matra-Hachette for the Alice : demystify computers and make it usable by the youngest. The content of this handbook is also neat, progressive, didactic and strewn with humour.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Matra_Alice_Manual_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Alice, a computer for all levels\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/matra_alice32_advert1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;With the Alice, change the level without changing the computer\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/matra_alice32_advert2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT #3\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;With a cool teacher, computers is a child game\u0026quot; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026quot;Alice, the Basic teacher\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Matra_Alice_Adv_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT #4\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Learn computers with a cool teacher\u0026quot; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026quot;Alice, the Basic teacher\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Matra_Alice_Adv_4.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [
+    {
+      "platform": "Windows emulator",
+      "name": "DCAlice",
+      "link": "http://alice32.free.fr/index.html",
+      "description": "Excellent working Alice emulator"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "Emucompboy\u0027s Alice emulator",
+      "link": "http://www.geocities.com/emucompboy/",
+      "description": "This is the first real Alice emulator !! (MC-10 emulators do not emulate Alice)"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "Emucompboy\u0027s MC-10 Emulator",
+      "link": "http://www.geocities.com/emucompboy/",
+      "description": "Nice Windows emulator"
+    },
+    {
+      "platform": "Unix / Linux emulator",
+      "name": "The MC-10 Emulation project",
+      "link": "http://www.student.cs.uwaterloo.ca/~camennie/mc10/",
+      "description": "Still active ?"
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "The MESS project",
+      "link": "http://www.mess.org/",
+      "description": "This multi-platform emulator can emulate the MC-10"
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d61",
+    "computer.asp?st\u003d1\u0026amp;c\u003d163",
+    "computer.asp?st\u003d1\u0026amp;c\u003d942",
+    "http://membres.lycos.fr/romualdl/alice/alice_faq.txt",
+    "http://membres.lycos.fr/romualdl/alice/alice.html",
+    "http://www.slowcomputing.org/ssouth/mc10/",
+    "http://mymc10.tripod.com/",
+    "http://mc10archive.com",
+    "http://clubs.yahoo.com/clubs/trs80mc10club"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/matra_alice_top.jpg",
+  "builtInGames": "Basic Microsoft 1.0 (1982)",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "Printer, 16k RAM expansion",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

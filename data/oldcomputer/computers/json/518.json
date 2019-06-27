@@ -1,0 +1,55 @@
+{
+  "name": "Teradrive",
+  "manufacturer": "Sega",
+  "type": "Home Computer",
+  "origin": "Japan",
+  "year": "May 1991",
+  "production": "",
+  "language": "",
+  "keyboard": "Full-stroke professional keyboard. 106 keys with function keys, cursor keys and numeric keypad",
+  "cpu": "Intel 80286 + Motorola MC68000 + Zilog Z80A (used for sound system)",
+  "speed": "10 MHz (80286) / 10 MHz (68000) / 3.58 MHz (Z80A)",
+  "coprocessor": "Megadrive customchips (?)",
+  "ram": "2.5 MB (512 KB onboard + two 1 MB SIMM RAMs)",
+  "vram": "256 KB",
+  "rom": "128 KB",
+  "text": "40 or 80 chars x 25 lines",
+  "graphics": "320 x 244 (Megadrive VDP Mode) / 320 x 200 (MCGA) / 640 x 480 (VGA)",
+  "colors": "64 among 512 (Megadrive Mode) / 256 among 262144 (S/VGA Modes)",
+  "sound": "FM Sound / PCM Sound (Megadrive) - Beeper (PC)",
+  "size": "36 (W) x 33.4 (D) x 8 (H) cm / 5.6 to 6.2 Kg according to versions",
+  "ports": "RGB analog vide output, composite video output, 1 ISA slot, mouse, keyboard, serial (2) \u0026amp; parallel (1) ports, headphone output, 2 joystick ports",
+  "power": "Built-in PSU",
+  "price": "148,000? (Mod.1), 188,000 ? (Mod.2), 248,000 (Mod.3)  (Japan, 1991)",
+  "description": "\nWhat a strange computer ! It was built by IBM (like the Atari Jaguar few years later) in Japan for Sega, and was sold only there.\n\nIt is an IBM PC AT compatible system mixed with a Sega Megadrive (Genesis) console. On the front panel, one can find a Megadrive cartridge slot, two joystick connectors, a reset button, a MD/PC switch, a volume slider, a headphone output, a power button, keyboard/mouse connectors (PS/2) and one 3.5\u0027\u0027 disk drive.\n\nThree models were released, a low-end Model 1, with 640k RAM and no HD, a Model 2 with two floppies and no HD and 1MB RAM, and the high-end Model 3, with one floppy, 2.5MB RAM and a 30MB drive. All three shipped with the same software and accessories.\n\nAmstrad made later a similar computer called MegaPC.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MAIN UNIT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/sega_teradrive_main-unit.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPANESE ADVERT (1991)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This japanese advert indicates that there were at least 3 different models sold...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sega_teradrive_jap-ad_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [
+    "http://assembler.roarvgm.com/teradrive/teradrive.html",
+    "http://www1.odn.ne.jp/~caa09810/old_pc/pc_tera.htm",
+    "http://nfg.2y.net/games/teradrive/",
+    "http://www.ai.wakwak.com/~ex4/kb/main_sega_teradrive.htm"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/sega_teradrive_1.jpg",
+  "builtInGames": "3.5\u0027\u0027 disk-drive, 30 MB hard drive",
+  "controllers": "",
+  "media": "3.5\u0027\u0027 disk-drive, 30 MB hard drive",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

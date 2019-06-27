@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computer>
+    <adverts>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;FRENCH ADVERT #1&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;quot;The family advice&amp;quot;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/triumph-adler_alphatronic-pc_ad_1.jpg</link>
+        </advert>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;FRENCH ADVERT #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The personal computer at the top of its form.&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/triumph-adler_alphatronic-pc_ad_2.jpg</link>
+        </advert>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;END OF LIFE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;At the end of 1985, the entire stock of Alphatronic PC and peripherals is sold to brokers which sold them at 25% of the original price.&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/TriumphAdler_AlfatronicPC_Advert_3.jpg</link>
+        </advert>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;FRENCH AD (JUNE 1986)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;In 1986, the Alphatronic PC was bargained in many broker shops for a low price.&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/triumph-adler_alphatronic_pc_pub_alpax.jpg</link>
+        </advert>
+    </adverts>
+    <batteries></batteries>
+    <builtInGames>Microsoft Basic 5.11</builtInGames>
+    <buttons></buttons>
+    <colors>8</colors>
+    <controllers></controllers>
+    <coprocessor></coprocessor>
+    <cpu>Zilog Z80</cpu>
+    <description>
+Triumph was originally Triumph-Adler - the merger company of the 2 typewriter manufacturers Triumph and Adler, to which Triumph (which also produced mechanical calculators and sewing-machines) was the bigger one. Later they got US-typewriter Royal merged into it and had the best years between 1975 and 1988, when they even build competiting machines to IBM System /34 and /36 ... but they did neither understand nor learn the business and ran out of the financial power.
+
+The technical part of TA is today a subsidary of Olivetti which tells it all about the downfall of TA. The operational part is a Holding in Nuremberg, which deals with offices, buildings and health-care.
+
+The Alphatronic was mainly sold in Germany and was intended as a 'hybrid' Business / Home machine. For Business it was sold as either a 'dumb' Terminal or as a stand-alone Word Processor 'package' (consisting of base unit, WP Cartridge and (Centronics) printer.
+
+For home the base unit had a 'built in' Basic ROM - it was also available with either a single or dual Floppy Disks (which included CP/M and Disk basic).
+
+It never sold very well in either market - it was much too expensive for home use.
+
+Thanks to its Z80 CPU, the Alphatronic PC can run CP/M and quite a few software packages available for it. There were two external disk-drives available: F1 and F2. F1 had the controller built-in. You had to have F1 to use F2, the second one.
+
+Sometimes, the Alphatronic PC was sold as a complete wordprocessing package with a daisy-wheel printer (Triumph-Adler TR-170) and a word-processing cartridge inserted into the ROM-pack slot (top left part of the case).
+
+Towards the end of it's life, the British Company, MATMOS sold off the final 'batch' or single &amp;amp; dual floppy packages together with a RGB-PAL convertor
+ box.
+
+___________
+
+Contributors: Steeve Buniak
+ 
+
+
+</description>
+    <emulators/>
+    <graphics>80 x 72 / 160 x 72 dots</graphics>
+    <gun></gun>
+    <hardwares>
+        <hardware type="DISK DRIVES">
+            <items>
+                <item>
+                    <description>External disk drive||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;EXTERNAL DISK DRIVE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;p class=&amp;quot;petitgris&amp;quot;&amp;gt;Thanks to Steve Buniak for this picture&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/TA_alphatronic-pc_disk-drive.jpg</photo>
+                </item>
+                <item>
+                    <description>F1 and F2 disk-drives||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;F1 AND F2 DISK-DRIVES&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;These are 5''1/4 diskdrives (320kb each). F1 has the disk-controller built-in and can be connected directly to the computer, whereas F2 is a stand-alone disk-drive and has to be linked to F1 (thus the disk controller) to be used.&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/triumph-adler_alphatronic-pc_disks_1.jpg</photo>
+                </item>
+            </items>
+        </hardware>
+    </hardwares>
+    <image>http://www.old-computers.com/museum/photos/TA_alphatronic-pc_1s.jpg</image>
+    <keyboard>Full-stroke keyboard, 6 function keys, arrow keys and separated numeric keypad, 85 keys</keyboard>
+    <language>Microsoft Basic 5.11</language>
+    <links/>
+    <manufacturer>Triumph Adler</manufacturer>
+    <media>optional one or two 5.25'' disk-drives (320 kb each)</media>
+    <name>ALPHATRONIC PC</name>
+    <numGames></numGames>
+    <origin>Germany</origin>
+    <peripherals>5''1/4 disk-drives, printers (DRH 80/1 and TRD-170)</peripherals>
+    <ports>RGB video out, Tape interface, Serial RS232c/V24 port (from 300 to 9600 baud), Centronics/Parallel port, Disk-drive connector, Cartridge/Rompack slot</ports>
+    <power>Built-in power supply unit</power>
+    <price>1500 DM (Germany, 83) - 760  (France, 83)?347 (U.K., 1984)UC + monochrom monitor + 2 disk-drives = 2142  (France, 84)105  (France, June 86)</price>
+    <production></production>
+    <ram>64 KB</ram>
+    <rom>32 KB</rom>
+    <screenshots>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;ALPHATRONIC PC&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;p class=&amp;quot;petitgris&amp;quot;&amp;gt;Thanks to Steve Buniak for this picture&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/TA_alphatronic-pc_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;REAR&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;p class=&amp;quot;petitgris&amp;quot;&amp;gt;Thanks to Steve Buniak for this picture&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/TA_alphatronic-pc_rear.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;LEFT SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;p class=&amp;quot;petitgris&amp;quot;&amp;gt;Thanks to Steve Buniak for this picture&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/TA_alphatronic-pc_l-side.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;ABOVE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/triumph-adler_alphatronic-pc_2.jpg</link>
+        </shot>
+    </screenshots>
+    <size>40.5 (W) x 25.5 (D) x 7.3 (H) cm / 3,5 kg</size>
+    <sound>1 voice, built-in speaker</sound>
+    <speed>4 MHz</speed>
+    <switches></switches>
+    <text>40 or 80 chars. x 24 lines</text>
+    <type>Professional Computer</type>
+    <vram></vram>
+    <year>1983</year>
+</computer>

@@ -1,0 +1,94 @@
+{
+  "name": "H-89",
+  "manufacturer": "Heathkit / Zenith",
+  "type": "Professional Computer",
+  "origin": "U.S.A.",
+  "year": "1979",
+  "production": "1983",
+  "language": "None",
+  "keyboard": "Full stroke keyboard with numeric keypad",
+  "cpu": "Zilog Z80",
+  "speed": "2.048 MHz",
+  "coprocessor": "",
+  "ram": "From 16 KB up to 64 KB",
+  "vram": "",
+  "rom": "Custom bootup \u0026amp; monitor",
+  "text": "80 chars. x 24 lines ( + one independant line)",
+  "graphics": "No graphics mode. 33 graphic characters",
+  "colors": "Monochrome green phosphore display",
+  "sound": "Beep - HUG magazine had a article on how to use one of the serial ports as a crude",
+  "size": "",
+  "ports": "RS232 (two, up to six), Centronics, IEEE 488",
+  "power": "Built-in power supply unit",
+  "price": "$1,800 as kit in 1979 w/ 1 floppy drive",
+  "description": "\nThe H-89 was sold under the two names: Heathkit H-89 and Zenith Data Systems Z-89. The H-89 was sold in kit form, the Z-89 came assembled.\n\nIt originally came with 16 KB of memory, later versions provided up to 48KB on the main CPU board (in groups of 1 KB chips). Zenith and Heathkit offered a 16 KB expansion card ($120) for a total of 64 KB when using CP/M.  \n\nThe system was identical to the H-19 video terminal but had an additional CPU board between the CRT and the terminal board. (Really identical because Heath offered upgrade kits to convert an H-19 to an H-88/H-89 computer).\n\nIt used hard sectored disks with a built-in card controller. Under either H-DOS or CP/M, disk capacity was of 90 KB. Another model the H-88 was identical to the H-89, but did not include the floppy drive or controller. It had a cassette port.\n\nA couple of years later, the H/Z-37 soft sectored controller and ROMS came out, then was replaced with a double 5.25\u0026quot; floppy disk drive called H/Z-87 (102 KB, 250 ms). A double 8\u0026quot; floppy disk drive called H/Z-47 (1 Mb each) and a hard disk called H/Z-67, it contained one 10MB 8\u0026quot; winchester drive and one 8\u0026quot; floppy drive (like the one in the H/Z-47).\n\nIt ran under HDOS or CP/M (the operating system used 16 KB of RAM).\nHDOS was originally written for the H-8, it ran without modification on the \u002789. This was a single-user OS written by J. Gordon Letwin for Heath. It included a Basic interpreter and assembler.\nFor CP/M, H/Z wrote a custom BIOS in assembler that the new user could further customize for his specific hardware and assemble right on the machine.\nA version of MP/M was also available for the system. \n\nA lot of extension boards were available for this computer including 64 KB memory boards, hard-disk controller cards, 3-port serial I/O board, H19 terminal board, etc.\nA third party small upgrade card was also offered which doubled the processor speed to 4 Mhz.\n\nAn assembler/debugger was given with the DOS. A paper tape reader was available as well. Microsoft has adapted its various programming languages (Basic, Fortran, Cobol) for this computer. Borland also offered a version of Turbo Pascal that worked great with the CP/M. \n\nDennis reports:\nThe base H-89 had no graphic modes, just 33 graphic characters. At least two different add-on boards were created that gave the H-89 bitmapped graphics capabilities, but I\u0027m pretty sure they both required hardware modifications to tie them in to the terminal board - this was not a simple plug-in expansion card\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;H89 AND H77 FD UNIT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Complete Heathkit H89 system with the H77 F.D. unit and the Heathkit H-14 serial printer.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The H77 unit had a storage capacity of 150 KB x 2. This configuration allowed a system disk to be installed in the H89 integrated floppy and data disks in the external unit drives.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Heathkit_H89_H89-H77_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;THE PERFORATED RUBBON READER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;it can read 50 characters / second and write 10 characters / seconds\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/rub_h11.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;H/Z-67 HARD DISK UNIT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;It contained one 10MB 8\u0026quot; winchester drive and one 8\u0026quot; floppy drive\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/p_z891.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Z-47 (8\u0027\u0027 FDD)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/p_z892.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;THE H19 / Z19 TERMINAL\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This terminal is simply a H89 system without the logic CPU board and disk storage.  It was called Heathkit H19 in kit form and Zenith Z19 in assembled form. It could be connected to any system via a serial connection.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Heathkit_H19_Terminal_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UNOPENED KIT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;When a customer ordered a H89 in kit version, he received five boxes. The 5th. one holded the case, floppy disc drive and manuals\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Heathkit_H89_KitUnopened_4.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DUST COVER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Heathkit_H89_DustCover_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1979 RANGE ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert shows: \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; - the \u0026lt;b\u0026gt;WH89\u0026lt;/b\u0026gt; computer ($2295)\u0026lt;br\u0026gt; - the \u0026lt;b\u0026gt;WH11A\u0026lt;/b\u0026gt; 16-bit computer, DEC PDP 11/03 compatible ($1895)\u0026lt;br\u0026gt; - the \u0026lt;b\u0026gt;WH19\u0026lt;/b\u0026gt; video terminal ($995)\u0026lt;br\u0026gt; - the \u0026lt;b\u0026gt;WH26\u0026lt;/b\u0026gt; dual floppy disc system ($2595)\u0026lt;br\u0026gt; - the \u0026lt;b\u0026gt;WH14\u0026lt;/b\u0026gt; serial printer ($895)\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;  To note: in 1979, the company name was \u0026lt;b\u0026gt;Heath Schlumberger data systems.\u0026lt;/b\u0026gt; \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Heathkit_H89_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1980 RANGE ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt;Choose from three computer systems:\u0026lt;br\u0026gt; The H-89 All-In-One Computer gives you everything in one compact, convenient unit.\u0026lt;br\u0026gt; The flexible H8 gives you the freedom to combine memory and interfacing for exactly the system you require.\u0026lt;br\u0026gt; And the powerful H11A gives you 16-bit power for your most complex programs.\u0026lt;br\u0026gt; The Heathkit line  includes video terminals, matrix and letter quality printers, and accessories. You\u0027ll even find award-winning self-instruction packages to teach yourself programming in Basic or Assembly.\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Heathkit_H89_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1982 HEATHKIT CENTERS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Heathkit_H89_Advert_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;HEATHKIT CENTERS #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Heathkit_H89_Advert_4.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;HEATH 19 TERMINAL (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;$595 was the price in kit form, F.O.B. Benton Harbor...\u0026lt;br\u0026gt; The assembled version, called Zenith Z-19, costed $895. An expensive price, not compatible with a   home computer budget. \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Heathkit_H19_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (JAN. 1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Adopt a little gifted\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/zenith-heathkit_h89_french-pub_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [],
+  "image": "http://www.old-computers.com/museum/photos/h89.jpg",
+  "builtInGames": "None",
+  "controllers": "",
+  "media": "90 KB floppy drive",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

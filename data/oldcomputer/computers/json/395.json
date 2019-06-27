@@ -1,0 +1,56 @@
+{
+  "name": "PC 6601",
+  "manufacturer": "NEC",
+  "type": "Home Computer",
+  "origin": "Japan",
+  "year": "1985",
+  "production": "",
+  "language": "N66 Basic + machine language monitor",
+  "keyboard": "Full-stroke keyboard, JIS standard layout, 5 function keys",
+  "cpu": "?PD780C-1 (Z80A compatible)",
+  "speed": "4 Mhz",
+  "coprocessor": "?PD8049 (8 Mhz)",
+  "ram": "64 KB + 1KB (loppy disk interface)",
+  "vram": "50 KB ?",
+  "rom": "32 KB (Basic + machine language monitor) + 32 KB (chinese characters) + 16 KB (voice data) + 16 KB",
+  "text": "40 x 20",
+  "graphics": "80 x 40 (15 colors), 160 x 200 (15 colors), 320 x 200 (4 colors)",
+  "colors": "15",
+  "sound": "3 voices, 8 octaves (AY-3-8910)optional speech synthesizer",
+  "size": "365 (W) ?380 (D) ?113 (H) mm / 4.5 Kg",
+  "ports": "Tape interface (600/1200 baud), RGB video output, composite video output, RF TV output, parallel interface, optional RS-232c interface",
+  "power": "PSU built-in",
+  "price": "143 000 yen (Japan, 1985)",
+  "description": "\nThe PC-6601 is basicaly a PC-6001 MK2 with a built-in 3.5\u0027\u0027 disk drive. The second optional disk drive could also be mounted. The N60m Basic od the PC-6001 MK2 has been enhanced to the N66 Basic.\n\nThe japanese adverts focused on the fact that this computer could sing with its optional speech synthesizer!\n\nMore info badly needed!\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PC-6601\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/nec_pc6601_monitor.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/nec_pc6601_rear.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPANESE ADVERT (1985)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.pugly.juice.or.jp/pugly/oldpc/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Pugly\u0027s web site\u0026lt;/a\u0026gt; for this picture.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/nec_pc6601_advert.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [
+    "http://my.reset.jp/~toragiku/kopa/6601.htm"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/nec_pc6601_1.jpg",
+  "builtInGames": "N66 Basic + machine language monitor",
+  "controllers": "",
+  "media": "One or two 3.5\u0027\u0027 floppy disk drive (SS/DD 143 KB)",
+  "numGames": "",
+  "peripherals": "Grpahics tablet, speech synthesizer",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

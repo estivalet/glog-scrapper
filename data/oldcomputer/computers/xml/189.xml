@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computer>
+    <adverts>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;U.K. AD (MAR. 86)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Advert said&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;#666666&amp;quot;&amp;gt; The electric typewriter's days are numbered. Because now there's a machine that put real wordprocessing power within everyone's reach.&amp;lt;br&amp;gt; The Amstrad PCW 8256 is a complete word-processor and a powerful computer in one unit.&amp;lt;br&amp;gt; And it's unbelievably low price includes a screen with built-in disc drive, keyboard, printer and word processing software...&amp;lt;/font&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/Amstrad_8256_Advert_1.jpg</link>
+        </advert>
+    </adverts>
+    <batteries></batteries>
+    <builtInGames>Mallard Basic</builtInGames>
+    <buttons></buttons>
+    <colors>monochrome (black &amp;amp; green)</colors>
+    <controllers></controllers>
+    <coprocessor>Video : Amstrad ASIC custom chipDD controler : NEC 765</coprocessor>
+    <cpu>Zilog Z80 A</cpu>
+    <description>
+The Amstrad PCW 8256 was a dedicated word processing computer (PCW stands for Personal Computer Wordprocessor). It was supplied with everything necessary, the word processor, printer and dedicated keyboard (with Cut, Copy, Paste and Print keys). This model had great success because it was the first word-processing system available for such a low price. Once again Amstrad used the same principles with this professional computer as it did with the CPC-464 on the home-computer market. Two years later, 700 000 PCW systems had been sold!
+All the hardware was located in the monitor case, as well as the 3&amp;quot; floppy disk drive. An optional secondary disk drive could be added (360 kb/side). There was only one power cord used for the printer, monitor and keyboard - it couldn?t be simpler. 
+
+Actually, the PCW was odd in that it has NO ROM. The boot sequence was loaded into the main CPU from the printer control ASIC and only had enough smarts to load and run the first sector from the floppy drive. 
+
+The printer was an Amstrad matrix printer (90 cps in draft mode and 20 cps in letter-quality mode), but it was not possible to connect another printer to the PCW. To use another printer, optional RS232 or Centronics interfaces were available. 
+
+The system was supplied with a word processor (on disk) developed by Locomotive Software (the company who made the BASIC language for the Amstrad CPC series) called LocoScript. Dr. Logo and a Basic called Mallard Basic were also delivered on disks (fun fact: Mallard is the name of an old train engine). This Basic was powerful and offered a lot of file-management capabilities. The Amstrad PCW-8256 was also delivered with CP/M+. 
+
+Locoscript was powerful but somewhat austere. You had to read 700 pages of documentation in order to master it. It used 154 Kb RAM, and the remaining 102 Kb could be used as a virtual disk. Each floppy disk, called a volume, could be divided in up to 8 sub-volumes. A particular page layout could be assigned to each of these sub-volumes. The system displayed text in an odd but useful 90 x 32 resolution. Of course as it was text-based software, you could not see exactly what would be printed (no WYSIWYG  here).  Another drawback was that it was not possible to link a document with an address book or a database, to generate multiple documents (this was to be corrected with LocoMail, LocoFile and LocoScript 2 a few years later). The 320k disks stored up to 90 pages of 2000 characters. 
+
+In Germany, the PCW series was called Joyce
+
+Another PCW model was launched a few months later: the Amstrad PCW 8512. It has the same characteristics apart from having 512 Kb RAM to handle bigger documents, and two 3&amp;quot; floppy disk drives. The top one is a single-sided, 40-track (180 Kbyte) drive, the bottom is a double-sided, 80-track (720 Kbyte) drive. 40-track disks could be read in the 80-track drive, but it's not advisable to write to them there because the 80-track drive has a narrower head. It had slightly darker plastic mouldings than the PCW-8256, grey instead of white. It was followed by the Amstrad PCW 9512.
+
+The PCW systems were still used in 2000 by some people and a lot of CP/M software is still available.
+
+__________
+
+Contributors: Andrew Ball, Allan Stirling
+ 
+
+
+</description>
+    <emulators>
+        <emulator>
+            <description>JOYCE emulates the Amstrad PCW on Unix, Windows and Mac OS X</description>
+            <link>http://www.seasip.demon.co.uk/Unix/Joyce/index.html</link>
+            <name>Joyce</name>
+            <platform>Multiplatform emulator</platform>
+        </emulator>
+    </emulators>
+    <graphics>720 x 256 (PAL), 720 x 200 (NTSC)</graphics>
+    <gun></gun>
+    <hardwares/>
+    <image>http://www.old-computers.com/museum/photos/Amstrad_8512_System_s1.jpg</image>
+    <keyboard>Mechanical keyboard with numeric keypad end special edit keys (COPY,CUT,PASTE,PRINT,etc.). 8 function keys.</keyboard>
+    <language>Mallard Basic</language>
+    <links>
+        <link>computer.asp?st=1&amp;amp;c=190</link>
+        <link>http://ciberia.ya.com/tuamstradpcw/</link>
+        <link>http://www.btinternet.com/~pinboardcomputers/pcws/indexa.htm</link>
+        <link>http://www.pcwking1.netfirms.com</link>
+        <link>http://www.caliban.org/PCW.html</link>
+        <link>http://pcwgallery.cjb.net</link>
+        <link>http://www.3pro.de/mb/pcw8256.htm</link>
+        <link>http://members.aol.com/sdmicro/index.htm</link>
+    </links>
+    <manufacturer>Amstrad</manufacturer>
+    <media>1 Hitachi 3'' disk-drive (160 kb/side)</media>
+    <name>PCW 8256 / 8512</name>
+    <numGames></numGames>
+    <origin>United Kingdom</origin>
+    <peripherals>Printer, parallel/Centronics interface</peripherals>
+    <ports>Z80 Bus, Parallel</ports>
+    <power>PSU built-in</power>
+    <price>1065  (september 85)</price>
+    <production></production>
+    <ram>256 KB (16 banks of 16 kb each)</ram>
+    <rom></rom>
+    <screenshots>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;COMPLETE SYSTEM&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Amstrad_8256_System_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;INSIDE THE 8512 #1&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;(1)&amp;lt;/b&amp;gt; First 3'' FDD, single side, single density 180 KB&amp;lt;br&amp;gt;  &amp;lt;b&amp;gt;(2)&amp;lt;/b&amp;gt; Second 3'' FDD, double side, double density 720 KB&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(3)&amp;lt;/b&amp;gt; Motherboard&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(4)&amp;lt;/b&amp;gt; Same board for the power supply unit and the video management&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(5)&amp;lt;/b&amp;gt; Green phosphorescent 12'' tube&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Amstrad_8512_Inside_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;INSIDE THE 8512 #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Amstrad_8512_Inside_3.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;8256 / 8512 MOTHERBOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;8256 and 8512 models used the same motherboard, except that the 8256 version featured 8 socketted memory chips and 8 empty sockets. It was thus very easy to upgrade a 8256 system to 512 KB of RAM.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(1)&amp;lt;/b&amp;gt; 512 KB user RAM chips (41256 x 16)&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(2)&amp;lt;/b&amp;gt; FDD power cable&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(3)&amp;lt;/b&amp;gt; FDD data cable&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(4)&amp;lt;/b&amp;gt; Bios and FDD management routines ROM&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(5)&amp;lt;/b&amp;gt; Power connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(6)&amp;lt;/b&amp;gt; Beeper&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(7)&amp;lt;/b&amp;gt; 24 volts DC printer power connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(8)&amp;lt;/b&amp;gt; Printer connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(9)&amp;lt;/b&amp;gt; FDD NEC 765 (up) and Amstrad printer management chips&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(10)&amp;lt;/b&amp;gt; Amstrad custom Asic chip in charge of various I/O, video and memory management.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(11)&amp;lt;/b&amp;gt; Z80-A microprocessor, here, a SGS version&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(12)&amp;lt;/b&amp;gt; Expansion port connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(13)&amp;lt;/b&amp;gt; Video signal output connector&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;(14)&amp;lt;/b&amp;gt; Keyboard input connector&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Amstrad_8512_Inside_2.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;ARTISTIC TUBE CLOSE UP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Amstrad_8512_Tube_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;8256 PRINTER&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The printer mechanism was made by Seikosha, a well-known Japanese printer manufacturer at the time.&amp;lt;br&amp;gt; It was a dot impact model with letter quality capability.&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Amstrad_8256_Printer_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;DUST COVER&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Amstrad_8256_DustCover_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;USER MANUALS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Amstrad_8512_Manuals_s1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;LOCOMOTIVE SOFTWARE SUITE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Amstrad_8512_Locoprograms_s1.jpg</link>
+        </shot>
+    </screenshots>
+    <size></size>
+    <sound>Beeper, 1 channel</sound>
+    <speed>The CPU is running at 4 MHz, but is slowed down by the internal clock to 3,4 Mhz</speed>
+    <switches></switches>
+    <text>90 x 32</text>
+    <type>Professional Computer</type>
+    <vram></vram>
+    <year>September 1985</year>
+</computer>

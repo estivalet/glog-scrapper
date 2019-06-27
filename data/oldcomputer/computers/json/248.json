@@ -1,0 +1,52 @@
+{
+  "name": "Vegas 6809",
+  "manufacturer": "Microkit",
+  "type": "Professional Computer",
+  "origin": "France",
+  "year": "1982",
+  "production": "Unknown",
+  "language": "Basic on disk",
+  "keyboard": "Full-stroke keyboard",
+  "cpu": "Motorola 6809",
+  "speed": "1 MHz",
+  "coprocessor": "",
+  "ram": "64 KB",
+  "vram": "",
+  "rom": "2 KB",
+  "text": "80 x 24",
+  "graphics": "80 x 48 with 8 colors (in fact 40 x 24 with semi-graphic characters)",
+  "colors": "8 colors",
+  "sound": "mono square signal with variable frequency",
+  "size": "Unknown",
+  "ports": "Centronics, 2 x RS232 (9600 baud max) connectors, Clock, Joystick, Bus S100 (8 slots), Monochrome video output, RGB video output, Audio output",
+  "power": "Built-in power supply",
+  "price": "Kit model : 9885 FF (France, Dec. 83)",
+  "description": "\nThe French electronics magazine Le Haut-Parleur (The loudspeaker) published several articles about how to assemble the first modular computer based on the Motorola 6809 microprocessor. The author of the articles was Christian Tavernier, the computer was thus named \u0026quot;Tavernier\u0026quot;. The operating system was Flex, also choosed by SMT Co. for its Goupil II and III which were selected by the French Department of Education as small network servers.\n\nBut the Vegas was actually conceived in the editorial offices of another French Electronics magazine named Microsyst?me which published the schematics of this professionnal computer based on a single card holding all the nesessary components: 6809 CPU, 64 KB of RAM, 2 x Parallel Centronics I/O, 2 x Serial RS232 I/O, one SS30 expansion bus. The diagram of the computer took advantage of the application notes published by Motorola, about the 6809, 6821, 6850, 6840 and 6545 chips.\n\nIn 1983, the MICROKIT company started to sell the machine in kit form, it was a modern and professionnal computer that could be gradually enhanced.\n\nA 6545 chip managed the video interface, which could work in 80x24 or videotext mode (40x24). This mode was used in the French Minitel and TV Videotext. The same chip was used to manage this graphics mode in the last TV generation at the time. The VEGAS had no graphic mode. The display unit could be either a standard TV set or a monochrome composite monitor. The keyboard could be acquired separately. It was connected to one of the Parallel ports and used 8 data lines and one \u0027strobe\u0027 signal.\n\nSeveral 5.25\u0026quot; or 8\u0026quot; floppy disk drives could be used, from 360 KB to 1.2 MB (single or double-sided, single or double density). Up to 4 FDD could be connected in chain. To our knowledge, there were no hard disk connection because the card lacked a DMA port and the Flex OS didn\u0027t managed directories.\nThe sound output was a bit basic, only an square signal provided by a Motorola MC6840 with variable frequency, but no volume adjustment. \n\nIn the first Microsyst?me articles, several expansion card were promised: Enhanced video, EPROM programmer, synthesiser, etc. But most of the expansions were home assembled by anthousiasts who acquired the main board. A 512 x 512 video card was described in the magazine though, holding 64 KB of RAM and allowing image superimposition. It was connected to the Parallel port and seen by the system as a printer!\n\nThe main board held a simple hexadecimal monitor in ROM. Lots of programming languages were available under FLEX: several versions of Basic interpreters ands compilers, PASCAL, C, LISP, FORTH, etc. A spreadsheet, a word processor (Stylo) and a database management were also available. However, the Flex version of the Vegas wasn\u0027t compatible with the Tavernier and Goupil versions.\n\nThanks to Jacques Rivet for most of the information.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;VEGAS 6809\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/microkit_vegas_2.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (DEC. 1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/microkit_vegas_ad_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [
+    "http://forum.wda-fr.org/viewtopic.php?f\u003d1\u0026amp;t\u003d1640"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/vegas_6809_1.jpg",
+  "builtInGames": "Basic on disk",
+  "controllers": "",
+  "media": "Two 5.25\u0027\u0027 disk drives",
+  "numGames": "",
+  "peripherals": "High resolution graphic card, SS39 Bus card",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

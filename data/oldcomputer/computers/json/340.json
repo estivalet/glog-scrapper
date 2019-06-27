@@ -1,0 +1,50 @@
+{
+  "name": "BUBCOM 80",
+  "manufacturer": "System Formulet Inc.",
+  "type": "Professional Computer",
+  "origin": "Japan",
+  "year": "? 1980",
+  "production": "",
+  "language": "Bubcom 80 Basic",
+  "keyboard": "Full-stroke keyboard with numeric and editing keypads, function keys",
+  "cpu": "Zilog Z80 + Motorola 6809A",
+  "speed": "",
+  "coprocessor": "",
+  "ram": "64 KB",
+  "vram": "",
+  "rom": "Unknown",
+  "text": "80 x 24 ?",
+  "graphics": "Unknown",
+  "colors": "yes",
+  "sound": "Unknown",
+  "size": "",
+  "ports": "",
+  "power": "Built-in PSU",
+  "price": "BC-80RN (64 KB) \u003d 168 000 yen (Japan, 1980?)",
+  "description": "\nAlmost nothing is known about this rare japanese system... Apparently its was first marketed as the System Formulet Bubcom 80, then bought back by Fujitsu and sold as the Fujitsu Bubcom 80.\n\nOriginaly it was a CP/M machine which used Fujitsu magnetic bubble memory. It had filesystem support for the bubble memory cartridge right in the CP/M BIOS. It seems also to have been one of the first japanese system to offer 8 colors display and is considered at the origin of the popular Fujitsu FM-8 computer (anyone can confirm that ?).\n\nThere were different versions, at least two : BC-80RN and BC-80RS with memory differences. The RN model had 64 KB RAM, and the RS ... more ?!\n\nIt was apparently possible to upgrade it with modules inserted in one of the two slots on top of the case.\n\nJake Christie sent us this information:\nThe Bubcom 80 used \u0026quot;bubble memory\u0026quot;, which was supposed to be the solution to the storage limitations of 1980s microcomputers.\nI believe the machine cost over 10,000 yen in Japan when it was introduced sometime between 1982 or 1984, and there was an attempt to export the Bubcom 80 to the US because it was a business computer.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;COMPLETE SYSTEM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/bubcom80_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPANESE ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://mayura.jp/blog\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Mayura Labo\u0026lt;/a\u0026gt; for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/bubcom80_advert_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [],
+  "image": "http://www.old-computers.com/museum/photos/bubcom80_2.jpg",
+  "builtInGames": "Bubcom 80 Basic",
+  "controllers": "",
+  "media": "2 x 8\u0027\u0027 disk-drives",
+  "numGames": "",
+  "peripherals": "Light pen, disk-drive, printer",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

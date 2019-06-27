@@ -1,0 +1,170 @@
+{
+  "name": "X68000",
+  "manufacturer": "Sharp",
+  "type": "Home Computer",
+  "origin": "Japan",
+  "year": "1987",
+  "production": "",
+  "language": "",
+  "keyboard": "Full-stroke keyboard",
+  "cpu": "Motorola MC68000",
+  "speed": "10 MHz",
+  "coprocessor": "Unknown",
+  "ram": "1 MB (up to 12 MB)",
+  "vram": "512 KB graphic + 512 KB text",
+  "rom": "1 MB",
+  "text": "Unknown",
+  "graphics": "256 x 240 / 256 x 256 / 512 x 240 / 512 x 256 / 512 x 512 / 640 x 480 / 768 x 512 / 1024 x 1024  / 128 sprites (16 x 16 dots)",
+  "colors": "65535 (16 colors in 1024 x 1024 to 65K in 512 x 512)",
+  "sound": "FM Sound (Yamaha 2151 : 2 channels / 8 octaves stereo) + PCM (OKI MSM6258V : 4 bit mono)",
+  "size": "",
+  "ports": "Joystick(2), Audio IN / OUT, Stereo scope, TV Control, NTSC Video Image I/O, Expansion (2 slots), External FDD, SASI, RS232",
+  "power": "",
+  "price": "",
+  "description": "\nHere is the first of a great family. It is the successor of the Sharp X1 family, shipped with a unique square screen monitor, fist in a grey case, then in black.\n\nInstead of using the Zilog Z80, it uses a powerful Motorola MC 68000. This computer (and all its family) has great features (look at the emulator), it was more powerful than the other 68000 computers at this time (Atari ST or Amiga 500) : more colors or more hardware sprites, hardware scrolling, genlocking, perspective or playfields (up to 16) . \n\nUnfortunately, it was never marketed outside Japan where it was and still is very very popular ! Too bad, I\u0027m sure it would have a great success !! A very great range of games were developed for the X680x0 serie and the best arcade conversions were done on this computer.\n\nIt runs under Human 68K, an operating system which looks like CP/M 68 or MSDOS and uses a graphic user interface called VS.\n\nNotice that the development is still active on that computer, several OSes have been ported on the X68000, the most famous are Minix and Unix NetBSD and all the GNU tools and there are some projects under development : XNeptune (a Ethernet card) or Ko-Windows (a \u0027NextStep-like\u0027 graphic environment).\n\nIt was followed by the X68000 Ace and Ace HD.\n \n\n\n",
+  "shot": [],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (JULY 1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/oric_oric-1_advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LUCAS LOGIC BROCHURE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Lucas_Nascom3_Brochure_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1976 PRICE LIST\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Notice that the 16K static RAM expansion is more expensive than the computer itself.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Mark Thompson\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Altair_8800_PriceList_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;STUPID PICTURE #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The same women has changed its shirt... But hey, what\u0027s the message behind this pictures ? Would it be that it\u0027s sexy to work on an Alpha Plus, or that women prefer men owning an Alpha Plus ?!\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/alcatel_alphaplus_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SOFTWARE CATALOGUE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;AcornSoft software catalogue for the Electron\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Acorn_Electron_SoftCatalogue_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. AD (1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Franklin_ACE1200_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPANESE FLYER - RECTO\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/epoch_scv_flyer_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;IN THE KITCHEN...\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;A TO-7 in the kitchen? For sure it makes smile the woman!\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_to7_cuisine_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT (1986)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;November 1986 price list:\u0026lt;br\u0026gt; Monochrome - Single drive: \u0026lt;b\u0026gt;\u0026pound;399\u0026lt;/b\u0026gt; + VAT\u0026lt;br\u0026gt; Monochrome - Dual drive: \u0026lt;b\u0026gt;\u0026pound;499\u0026lt;/b\u0026gt; + VAT\u0026lt;br\u0026gt; Colour - Single drive: \u0026lt;b\u0026gt;\u0026pound;549\u0026lt;/b\u0026gt; + VAT\u0026lt;br\u0026gt; Colour - Dual drive: \u0026lt;b\u0026gt;\u0026pound;649\u0026lt;/b\u0026gt; + VAT\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Optional 10 MB hard disk: \u0026lt;b\u0026gt;\u0026pound;300\u0026lt;/b\u0026gt; + VAT   \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Amstrad_PC1512_UKAdv_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (DEC. 1987)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/commodore_amiga500_pub_pour-faire-fort.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Einstein\u0027s face probably means: Buy a ZX-81 and you will become a new genius...\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Karl_Heinz  -  www.sharpmz.org\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sinclair_ZX81_GermanAd_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT #4\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Learn computers with a cool teacher\u0026quot; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026quot;Alice, the Basic teacher\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Matra_Alice_Adv_4.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;RADIOLA ADVERT. 3\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/radiola_vg5000_advert3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. AD. (1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Compupro_816_Advert_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is a German advertisement for the BIT-60 and BIT-90 models. Atari VCS-2600 cartridges are scattered in front of the BIT-60, to show that the BIT-60 is really compatible with the VCS-2600 ! But strangely enough, there is no picture displayed on the TV. Were these models really  working ? ;-)\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/bit-corp_bit60-90_ad_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;8-PAGE US ADVERT #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Compaq_PortableIII_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CREATIVITY BUILT-IN\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is a French advert from december 1985 for a special christmas pack : TO-7/70 + Microsoft Basic level 5 + tape recorder + Colorpaint + Basic initiation cube for \u0026quot;only\u0026quot; 3990 FF. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026quot;All the world in a present\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_to7-70_advert_creativite-comprise.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ISAAC ASIMOV AD #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; Our word processing system changed Isaac Asimov\u0027s mind about writing...\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026quot;I may never use a typewriter again!\u0026quot;\u0026lt;/b\u0026gt; Isaac likes the time he saves using SuperSCRIPSIT, our newest word processing program...\u0026lt;font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Tandy_Model3_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1978)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The advert said : \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt;The 8813 was built with you, the professional, in mind...\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Using the 8813, one person can process what would normally require many secretaries, several bookkeepers and a great deal of time...\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The 8813 slashes the professional\u0027s overhead. It\u0027s a powerful time and money-saving ally. Prices for complete system including printer start at less than $8,000.\u0026lt;/font\u0026gt; \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Polymorphic_8813_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (APRIL 1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/nec_pc8000_french-pub_biset.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (DEC. 1985)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;At the fingertip of the mouse...\u0026quot; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026quot;... 16/32 bits technology\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/atari_520stf_pub_auboutdelasouris.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to chrism3667 for the picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/tandy_2000_german-ad_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.K. AD (APR. 86)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/ThornElmi_Wren_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;NORTHSTAR BROCHURE #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;NorthStar brochure - Page 2 \u0026lt;b\u0026gt;EXPANSION OPTIONS\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;HRAM.64\u0026lt;/b\u0026gt; - High Speed 64Kb Dynamic RAM memory board with parity (up to a total of six)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;HSIO.4\u0026lt;/b\u0026gt; - Four Serial Port Expansion Board (RS-232C or Current Loop).\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;FPB\u0026lt;/b\u0026gt; - Floating Point Arithmetic Board.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;ADC-2D\u0026lt;/b\u0026gt; - Two additionaI 5 1/4 inch Double capacity floppy disk drives incorporated within a cabinet (360 Kb total capacity).\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;ADC-2Q\u0026lt;/b\u0026gt; - Two additionaI 5 1/4 inch Quad capacity floppy disk drives incorporated within a cabinet (720 Kb total capacity).\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;HDS-5\u0026lt;/b\u0026gt; - 5 1/4 inch Winchester Hard Disk 5 Mb formatted capacity.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;HDS-18\u0026lt;/b\u0026gt; - 14 inch Winchester Hard Disk 18 Mb formatted capacity.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Tape Backup\u0026lt;/b\u0026gt; - 13.4 Mb Tape Backup system for HDS-18 or HDS-5.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;CRT\u0026lt;/b\u0026gt; - Hazeltine 1420/Soroc 120. (Other software drivers available.)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Printer\u0026lt;/b\u0026gt; - 35 or 55 cps letter quality printer. \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Gordon Dyer\u0026lt;/b\u0026gt; from England \u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/NorthStar_Horizon_Brochure_s2.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [
+    {
+      "platform": "Windows emulator",
+      "name": "Virtual X68000 Project",
+      "link": "http://www.vx68k.org/vx68k/",
+      "description": "X68000 emulator for linux and windows"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "X68000 emulator for Windows ",
+      "link": "http://www.ksky.ne.jp/~yamama/emul/",
+      "description": "For Win9x / Me / 2K / NT"
+    },
+    {
+      "platform": "Apple emulator",
+      "name": "X68000 Emulator PPC",
+      "link": "http://emulation.net/x68000/",
+      "description": "X68000 Emulator PPC is currently the only X68000 emulator available for the Macintosh"
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d302",
+    "computer.asp?st\u003d1\u0026amp;c\u003d303",
+    "computer.asp?st\u003d1\u0026amp;c\u003d306",
+    "computer.asp?st\u003d1\u0026amp;c\u003d304",
+    "computer.asp?st\u003d1\u0026amp;c\u003d305",
+    "computer.asp?st\u003d1\u0026amp;c\u003d307",
+    "computer.asp?st\u003d1\u0026amp;c\u003d308",
+    "computer.asp?st\u003d1\u0026amp;c\u003d309",
+    "computer.asp?st\u003d1\u0026amp;c\u003d310",
+    "http://nna.c-get.ne.jp/X68000/index.html",
+    "http://en.wikipedia.org/wiki/Sharp_X68000",
+    "http://www.yo.rim.or.jp/~m_araki/kowin/index.html",
+    "news:fj.sys.x68000"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/sharp_x68000_1.jpg",
+  "builtInGames": "2 x 5.25\u0027\u0027 disk-drive",
+  "controllers": "",
+  "media": "2 x 5.25\u0027\u0027 disk-drive",
+  "numGames": "",
+  "peripherals": "Built-in power supply unit",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

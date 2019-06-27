@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computer>
+    <adverts>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;GERMAN ADVERT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;p class=&amp;quot;petitgris&amp;quot;&amp;gt;Thanks to chrism3667 for the picture&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/tandy_2000_german-ad_1.jpg</link>
+        </advert>
+    </adverts>
+    <batteries></batteries>
+    <builtInGames>2 x 5.25'' disk-drives (720 KB, DS 80 Track)</builtInGames>
+    <buttons></buttons>
+    <colors>16 colours</colors>
+    <controllers></controllers>
+    <coprocessor>optional Intel 8087 math. co-processor</coprocessor>
+    <cpu>Intel 80186</cpu>
+    <description>
+The Tandy 2000 was launched in December 1981, a full year BEFORE the 1000, and proved to be a mistake on the part of Tandy, but to their credit they weren?t alone, many manufacturers who built systems based on the Intel 80186 CPU suffered the same fate.
+
+On the surface the computer was quite the catch:
+The ?T-2000? featured new instructions and new fault tolerance protection over the TRS-80 and COCO lines. Tandy built the 2000 with advanced color graphics, Intel 16bit processing at 8 Mhz and 2 720K 5.25? Floppy disks; and a CPU that was out performing even the 80286 computers of the time! It was a robust computer with excellent features but that 80186 CPU would come back to haunt it. The Tandy 2000 by many was considered the first AT style computer in North America, a bold and risky move by Tandy.
+
+Despite all the advancements, the 80186 CPU was not popular with software developers, so few wrote software for the 80186. More to the point, however, the Tandy 2000, while touted as being compatible with the IBM XT, was different enough for most software beyond purely text oriented to not work properly. It differed by having a Tandy-specific video mode (640x400, not related to or forward-compatible with VGA), along with the new concept of keyboard scan codes, and the proprietary 720kb 5-1/4&amp;quot; floppy format: no other computer used this disk format, which was single-sided high-density, using standard 1.2Mb double-sided high-density disks; the drives could read and write 360kb floppies, but be careful when doing so if the disks were to be subsequently used in an IBM-compatible; there were hardware hacks to use 720kb 3.5&amp;quot; floppy drives, but it was unclear whether disks formatted in this way were compatible with standard PC-compatibles.
+
+In addition: The Tandy 2000 was nominally BIOS-compatible with the IBM XT, which allowed extremely well-behaved DOS software to run on both platforms. However, most DOS software is not so well behaved and many PC programmers would bypass the PC-BIOS to achieve higher performance, rendering the software incompatible with the Tandy 2000. Microsoft provided a special version of MS-DOS that could combat these problems, but it was a proprietary programming venture. All other units, including the later Tandy 1000, operated on what was essentially the standard PC-DOS (IBMs version) or MS-DOS.  The Tandy 2000 was further killed by the arrival of the 80286 CPU 2 months after its release.
+
+In fairness, Tandy wasn't the only casualty of the 80186. Other computers that were built on that format, mostly from Europe, such as the Compis and the Dulmont Magnum were marketed with the CP/M operating system suffered the same fate. If you had a machine based on those systems the only thing that could realistically run on them was the CP/M operating system, but software was scarce, at least with MS-DOS you had some options with software.
+
+In the end the computer was poorly supported by Radio Shack; eventually the remaining unsold computers were converted into the first Radio Shack Terminals (which, oddly enough, had been one of the original backup plans for the original TRS-80 Model 1). The Tandy 2000 computer was the only computer sold by Radio Shack that had both logos on the case &amp;quot;Tandy&amp;quot; and &amp;quot;TRS-80&amp;quot;. The Tandy 2000 computer was the first to have the &amp;quot;Tandy&amp;quot; logo on it.
+
+__________
+
+Contributors: Derek McDonald (aka ?Skel?)
+Sources: Switchtec's Virtual PC Museum, Emperor Multimedia Electronic Archives, Wikipedia, 8-Bit Micro, Tandy 1000 PC Museum
+ 
+
+
+</description>
+    <emulators/>
+    <graphics>640x400 with 16 colours</graphics>
+    <gun></gun>
+    <hardwares/>
+    <image>http://www.old-computers.com/museum/photos/tandy_2000_1s.jpg</image>
+    <keyboard>full stroke keyboard, 90 keys</keyboard>
+    <language></language>
+    <links>
+        <link>http://support.radioshack.com/ProductInfo/CategoryResults2.asp?Name=Tandy_Computers&amp;amp;ID=001001</link>
+        <link>http://groups.yahoo.com/group/Tandy2000/</link>
+    </links>
+    <manufacturer>Tandy Radio Shack</manufacturer>
+    <media>2 x 5.25'' disk-drives (720 KB, DS 80 Track)</media>
+    <name>2000</name>
+    <numGames></numGames>
+    <origin>U.S.A.</origin>
+    <peripherals></peripherals>
+    <ports>4 internal expansion slots, monochrome video output (DIN8), Serial connector (DB25 F), Centronics/Parallel connector (34 pin header)</ports>
+    <power>Built-in power supply</power>
+    <price>$2999 (USA, 1983)</price>
+    <production>Unknown</production>
+    <ram>256 KB (up to 768 KB)the BIOS checks for up to 896k of RAM, although it's not clear if add-on boards were ever made to support that much</ram>
+    <rom>8 KB</rom>
+    <screenshots>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;BILL GATES&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;...promoting how well his Windows product was running on a Tandy 2000 system.&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/tandy_2000_bill-gates.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;TANDY 2000HD LABEL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/tandy_2000hd_label.jpg</link>
+        </shot>
+    </screenshots>
+    <size>19 x 16 x 6 / 26.5 lbs</size>
+    <sound>Unknown</sound>
+    <speed>8 MHz</speed>
+    <switches></switches>
+    <text>40 x 25, 80 x 25</text>
+    <type>Professional Computer</type>
+    <vram>Unknown</vram>
+    <year>december 1981</year>
+</computer>

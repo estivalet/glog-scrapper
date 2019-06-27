@@ -1,0 +1,381 @@
+{
+  "name": "ZX 81",
+  "manufacturer": "Sinclair",
+  "type": "Home Computer",
+  "origin": "United Kingdom",
+  "year": "march 1981",
+  "production": "",
+  "language": "Sinclair Basic",
+  "keyboard": "Touch-sensitive keyboard, 40 keys",
+  "cpu": "Zilog Z80A",
+  "speed": "3.5 MHz",
+  "coprocessor": "",
+  "ram": "1 KB (901 bytes available, up to 64 KB)",
+  "vram": "",
+  "rom": "8 KB",
+  "text": "32 x 24 (but 2 lines are reserved for system messages and commands)",
+  "graphics": "64 x 44",
+  "colors": "Black and white",
+  "sound": "None",
+  "size": "167 x 175 x 40 mm / 350gr",
+  "ports": "Z80 Bus, tape, video",
+  "power": "9V DC , 600 mA (centre polarity \u003d +ve)",
+  "price": "Kit  :?50 (UK, june 1981) / Ready-built : ?70 (UK, june 1981)",
+  "description": "\nThe Sinclair ZX 81 was the successor of the ZX 80, and can be regarded as an evolution of it.\n\nThe ZX80 could not handle floating point numbers or cassette data files, but the ZX-81 could. The ZX-80 had 4k ROM : the ZX-81 had 8K ROM with 30 additional functions and some instructions to drive the printer. Thanks to a higher level of integrations (the total number of chips in the basic system was 4, against the ZX80\u0027s 21), the ZX-81 cost ?30 less than the ZX-80. The plastic case was also different. Whereas the ZX-80 looked cheap in it lightweight white case, the ZX-81 was beautifully designed in its black ABS plastic case.\n\nThe keyboard was still formed by an underprinted plastic, but this one was made of non-reflective material. Even with this slight improvement it was quite horrible to use, that\u0027s why a lot of additional keyboards appeared quickly on the market. Some of the keys sported up to 5 functions, right in the Sinclair tradition, accessible through the \u0026quot;GRAPHICS\u0026quot;, \u0026quot;SHIFT\u0026quot; and \u0026quot;FUNCTION\u0026quot; keys.\n\nHere are the functions added over the ZX-80 : ASN, ACS, ATN COS, EXP, INKEY$, PI, SGN, SIN SQR, INT, LEN, LN, TAN, VAL, \u0026lt;\u003d, \u0026gt;\u003d, \u0026lt; \u0026gt;, COPY, DIM A$, FAST, FOR ... TO ... STEP, LLIST, LLIST n, LPRINT, PAUSE, PLOT, PRINT AT, PRINT TAB, SCROLL, SLOW, UNPLOT. Some are quite useful and make you wonder how it was possible to make anything on the ZX-80 !? However, one function disappeared: TL$ which was used to return a string minus its first character.\n\nThe ZX-81 could be operated in two modes, SLOW and FAST. The FAST mode which was the only mode available on the ZX-80, only  refreshed the display when the system had completed computing, resulting in a painful screen flicker! It was a useful mode when you had to do a lot of calculation without the need to see what\u0027s going on all the time on the screen. The SLOW mode, which was indeed quite slooooowwww, behaved like all other computers did, refreshing the screen all the time.\n\nThe ZX81 contained only four main chips : the ROM, Z80A CPU, 1K RAM and the Ferranti custom-made chip! It is as simple as that. The machine was assembled by Timex Corporation in their Scottish plant.\n\nThis computer was a very great success in Europe in the beginning of the 80\u0027s. It was very cheap and a lot of people who now are working on modern PCs or Macs, made their first move on a ZX 81 even though its performance was actually poor! \n\nA very great range of peripherals were developed for this computer, among them : 3.5\u0026quot; floppy disk units, keyboards, high resolution graphic cards, RS232 or Centronics interfaces, RAM expansions, etc... In fact, it was possible to make a pretty good computer from the ZX 81! \n\nThe range of expansion options was quite extraordinary. For instance, Memotech created a whole range of modules which would piggy-back, one after another (and using velcro pads to secure to each other and the to the ZX81, as there was no mechanical locking on the edge connector).\n\nSo, for instance, you could have additional memory (up to 128k!), high-resolution graphics, disc controllers, joystick controllers, serial ports, and so on.\n\nPopular add-ons also included replacement keyboards - one was a series of mechanical keys which stuck over the membrane keyboard, others involved re-housing the ZX81 inside a new, larger case with a \u0026quot;proper\u0026quot; keyboard.\n\nIn fact, the options were - seemingly - endless. Sadly the power supply wasn\u0027t particularly stable, so \u0026quot;glitches\u0026quot; were common, resulting in a system reset and the loss of hours of painstaking coding!\n\nIt was followed by the ZX-Spectrum and was also sold as the Timex Sinclair 1000 in the USA.\n\nContributors: Silas Denyer\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LEFT SIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;From left to right :\u0026lt;br\u0026gt; - UHF TV output,\u0026lt;br\u0026gt; - MIC \u0026amp; EAR (Tape interface),\u0026lt;br\u0026gt; - Power in (9v DC).\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/sinclair_zx81_l-side.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRONT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/sinclair_zx81_front.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ZX-81\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/sinclair_zx81_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;RIGHT SIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/sinclair_zx81_r-side.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The only thing here is the expansion port, which can be used for many things...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/sinclair_zx81_rear.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TOP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/sinclair_zx81_top.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE ZX-81\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; Z-80 microprocessor.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; Peripherals and memory expansions connector.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; RAM memory chips. One or two chips can be used.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(4)\u0026lt;/b\u0026gt; 8 Kb. ROM circuit holding Basic interpreter, Input/Output routines and character generator.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(5)\u0026lt;/b\u0026gt; Keyboard connectors.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(6)\u0026lt;/b\u0026gt; Three jack connectors for the external power supply and tape recorder.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(7)\u0026lt;/b\u0026gt; Specialized circuit named ULA in charge of the whole computer\u0027s logical management.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(8)\u0026lt;/b\u0026gt; TV aerial RF modulator.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(9)\u0026lt;/b\u0026gt; Keyboard. Each key can perform up to six different functions. \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Sinclair_ZX81_Inside_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;\u0026quot;COFFRET INITIATEUR\u0026quot;\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This \u0026quot;inititateur\u0026quot; box included a ZX-81 + an ABS chicklet keyboard + a BASIC book + 2 tapes with 10 games. It cost 100 Euros in 1984.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Sinclair_ZX81_Initiateur_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BOX\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/sinclair_zx81_box_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BOX #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/sinclair_zx81_box_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;THE DEF 3000\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This computer was launched in 1983. It was compatible with the ZX 81 and had the same features (except the 2KB RAM). It had very limited success. The photo shows the DEF with the \u0027color pack\u0027 extension (color + enhanced graphic mode)\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/dcf.JPG"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;THE LAMBDA 8300\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The Lambda 8300 is another ZX81 clone.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/lambda8300.JPG"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ARTIST IMPRESSION\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Sculpture made by italian ArteStudio53 using a ZX-81...\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;From \u0026lt;a href\u003d\u0026quot;http://www.artestudio53.it/arte/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;ArteStudio53\u0026lt;/a\u0026gt;\u0026lt;b\u0026gt; (Italy)\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Sinclair_ZX81_SpecialCase_s1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Picture courtesy of \u0026lt;a href\u003d\u0026quot;http://www.sbrowning.com/vintage\u0026quot;\u0026gt;Steve Browning, www.sbrowning.com/vintage\u0026lt;/a\u0026gt;.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sinclair_zx81_advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Picture courtesy of \u0026lt;a href\u003d\u0026quot;http://www.sbrowning.com/vintage\u0026quot;\u0026gt;Steve Browning, www.sbrowning.com/vintage\u0026lt;/a\u0026gt;.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sinclair_zx81_advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT #3\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Picture courtesy of \u0026lt;a href\u003d\u0026quot;http://www.sbrowning.com/vintage\u0026quot;\u0026gt;Steve Browning, www.sbrowning.com/vintage\u0026lt;/a\u0026gt;.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sinclair_zx81_advert_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT #5\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;\u0026lt;a href\u003d\u0026quot;http://www.aci.com.pl/mwichary/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Attached\u0026lt;/a\u0026gt;\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sinclair_ZX81_Advert_s5.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT #6 (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The new sale price is $99.95 instead of 149.95 \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Advert said: \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt;The ZX81 represents the latest technology in microelectronics. More than 10,000 are sold every week. In fact, the ZX81 is the best selling personal computer in the world.\u0026lt;/font\u0026gt;  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sinclair_ZX81_Advert_4.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;KIT VERSION (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sinclair_ZX81_KitAdvert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MEMOTECH LEAFLET\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sinclair_ZX81_Memopak_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Einstein\u0027s face probably means: Buy a ZX-81 and you will become a new genius...\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Karl_Heinz  -  www.sharpmz.org\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sinclair_ZX81_GermanAd_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (1981)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sinclair_zx81_advert_avenir-offre-a-vous.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (1981)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;It has not finished to surprise you\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sinclair_zx81_advert_pas-fini-etonner.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (FEBRUARY 1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sinclair_zx81_ad-french_surprenante.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (APRIL1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;The Sinclair Phenomenon\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sinclair_zx81_pub_phenomene_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (DEC. 1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Your personnal computer for 670 F\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sinclair_zx81_pub_670f_s.gif"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (SEPT. 83)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;The initiator\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sinclair_zx81_fr-advert_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (MAY 1984)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;A selection for the Initiator... at Sinclair price\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sinclair_zx81_advert_selection.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (JULY 1984)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sinclair_zx81_ad_initiateur_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (JULY 1984)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sinclair_zx81_advert-ordi-5-vitesses.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROMOTIONAL PICTURE #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Learn computing today to be ready for tomorrow\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sinclair_zx81_promo-pic_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROMOTIONAL PICTURE #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;The ZX-81 will soon become a precious work tool\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sinclair_zx81_promo-pic_2.jpg"
+    }
+  ],
+  "hardware": [
+    {
+      "type": "AUDIO \u0026amp; SOUND",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/sinclair_zx81_sound-card.jpg",
+          "description": "Sound card|||brand unknown|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SOUND CARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;brand unknown\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/sinclair_zx81_vocal-synthesizer.jpg",
+          "description": "Vocal synthesizer||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;VOCAL SYNTHESIZER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "DATA STORAGE",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/sinclair_zx81_eprom2732_1.jpg",
+          "description": "EPROM storage||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;EPROM STORAGE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This little black box contains a 2732 EPROM on which you can save \u0026amp; read your data. Maximum amount is 4 KB. Programs stored in the EPROM can then be automaticaly loaded at startup.\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/sinclair_zx81_eprom-programmer_1.jpg",
+          "description": "EPROM burner|||brand unknown|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;EPROM BURNER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;brand unknown\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "JOYSTICKS",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/sinclair_zx81_joysticks_1.jpg",
+          "description": "\u0026quot;No name\u0026quot; joysticks||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;\u0026quot;NO NAME\u0026quot; JOYSTICKS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "KEYBOARDS",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Sinclair_ZX81_Keyboard_2.jpg",
+          "description": "Chicklet keyboard||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CHICKLET KEYBOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;An essential option if one used the ZX81 more than 5 minutes per day.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Could be stuck on top of the original keyboard in seconds. \u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Sinclair_ZX81_Keyboard_1.jpg",
+          "description": "DK\u0027tronics keyboard||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DK\u0027TRONICS KEYBOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The Sinclair ZX-81 may be the most popular computer, but that doesn\u0027t mean people like its keyboard. Numerous add-on keyboards and enclosures were manufactured for the ZX-81. This one, from DK\u0027tronics, includes a full-size keyboard with numeric keypad, and an enclosure large enough to fit the Sinclair board and other Sinclair peripherals. Sadly, its price (\u0026pound;45) was almost as much as the ZX-81 computer one. \u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Sinclair_ZX81_MemotechKeyb_1.jpg",
+          "description": "Memotech keyboard||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MEMOTECH KEYBOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Before manufacturing computers (MTX Series) Memotech sold various add-ons for Sinclair computers.\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "MEMORY EXPANSIONS",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/timex_1000-suntronics-64k_1.jpg",
+          "description": "64 KB|||from Suntroncis|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;64 KB\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;from Suntroncis\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Suntronics T/S 1000 \u0026amp; ZX81 64K Memory Pack (Male Socket on Back, Female Socket on Front).\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/timex_sinclair-1000_16kram-1016.JPG",
+          "description": "Timex Sinclair 1016|||16k RAM extension|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TIMEX SINCLAIR 1016\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;16k RAM extension\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Sinclair_ZX81_Indescomp_16KRam_s1.jpg",
+          "description": "Indescomp 16K RAM expansion||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INDESCOMP 16K RAM EXPANSION\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;16K RAM expansion module made by a spanish company\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;www.zonadepruebas.com\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/sinclair_zx81_16kb-ram_expansion_1.jpg",
+          "description": "16 KB memory expansion|||brand unknown|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;16 KB MEMORY EXPANSION\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;brand unknown\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Sinclair_ZX81_Memopak_2.jpg",
+          "description": "Memopak modules||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MEMOPAK MODULES\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt;\u0026lt;b\u0026gt;MEMOPAK 64K RAM\u0026lt;/b\u0026gt; The 64K RAM extends the memory of ZX-81 to a full 64 KB. The unit is user transparent and accepts such BASIC command as DIM A (9000). It does not inhibit the use of the printer or other add-on units. No additional power supply is required. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;MEMOPAK 32K RAM\u0026lt;/b\u0026gt; The 32K RAM offers your Sinclair a full 32K of directly addressable RAM. Like the 64K Memopak it is neither switched nor paged and enables you to execute sophisticated programs and store large data bases. It is also fully compatible with Sinclair\u0027s or Memotech\u0027s 16K RAM to give you a full 48K of RAM \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;MEMOPAK 16K RAM\u0026lt;/b\u0026gt; The Memopak 16K RAM provides an economical way to increase the capabilities of your Sinclair. And at the same time, it enables you to continue to add on other features with its \u0026quot;piggy back\u0026quot; connectors. It is compatible with the Sinclair 16K or a second Memopak 16K or Memopak 32K to give you 32K or 48K of RAM respectively. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;MEMOPAK High Resolution Graphics\u0026lt;/b\u0026gt; The Memopak HRG contains a 2K EPROM monitor and is fully programmable for high resolution graphics. The HRG provides for up to 192 x 248 pixels resolution.    \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;MEMOPAK Printer Interface\u0026lt;/b\u0026gt; The Memotech Centronics parallel or RS232 printer interface packs enable your Sinclair to use a wide range of compatible printers. The resident software in the units gives the ASCII set of characters. Both Memopak printer interfaces provide lower case character capabilities. The RS232 interface is also compatible with modems. \u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Memopak 64K Memory map:\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;0...8K:\u0026lt;/b\u0026gt; Sinclair ROM\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;8...16K:\u0026lt;/b\u0026gt; This section of memory switches in or out in 4 KB blocks to leave space for memory mapping, holds its content during cassette loads, allows comunication between programs and can be used to run assembly language routines.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;16...32K:\u0026lt;/b\u0026gt; This area can be used for BASIC programs and assembly language routines.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;32...64K:\u0026lt;/b\u0026gt; 32 KB of RAM memory for BASIC variables and large arrays. \u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Sinclair_ZX81_Memopak32_1.jpg",
+          "description": "Memopak 32||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MEMOPAK 32\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Sinclair_ZX81_PandaRam.jpg",
+          "description": "Panda 16K||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PANDA 16K\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;One of the numerous second-source 16 KB memory expansion modules\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "MISC",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/sinclair_zx81_i-o-card_1.jpg",
+          "description": "8 inputs/outputs card|||brand unknown|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;8 INPUTS/OUTPUTS CARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;brand unknown\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/sinclair_zx81_8-inputs--card_1.jpg",
+          "description": "8 inputs card|||brand unknown|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;8 INPUTS CARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;brand unknown\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/timex-sinclair_t1000_modem_1.jpg",
+          "description": "Modem card|||by Timex|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MODEM CARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;by Timex\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is a modem card developed by Timex around 1982, originally for the Timex-Sinclair 1000 system.\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "PRINTERS",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Sinclair_ZX81_ZXPrinter_1.jpg",
+          "description": "ZX thermal printer||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ZX THERMAL PRINTER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is a small thermal printer (of very poor quality !). It can print all graphical characters of the ZX-81 and can print 9 lines of text per inch. It was possible to do a hard copy of the screen thanks to the \u0026quot;Copy\u0026quot; command.  \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; This tiny thermic printer can also be used with the ZX-Spectrum. \u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/sinclair_zx81_zx-printer_box_1.jpg",
+          "description": "ZX Printer\u0027s box||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ZX PRINTER\u0027S BOX\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    }
+  ],
+  "emulator": [
+    {
+      "platform": "Windows emulator",
+      "name": "EightyOne",
+      "link": "http://www.chuntey.com/eightyone/",
+      "description": "Excellent emulator emulating nearly all ZX computers (80, 81, Spectrums, Timex, etc.). As well as emulating the machines themselves, numerous addon cards are supported, including hi-res graphics, custom character sets, sound and colour cards."
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "Timex Sinclair 1000",
+      "link": "ftp://oak.oakland.edu/SimTel/msdos/emulator/ts1000-c.zip",
+      "description": "Timex 1000 / ZX81 Emulator for DOS"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "VB81",
+      "link": "http://freestuff.grok.co.uk/vb81/",
+      "description": "Sinclair ZX81 Emulator (with Visual Basic sources). Excellent emulator"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "X-Tender",
+      "link": "http://www.delhez.demon.nl/",
+      "description": "The best ZX emulator for PC compatibles"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "ZX 81 Homepage",
+      "link": "http://www.maxon.de/homes/r_kurz/"
+    },
+    {
+      "platform": "Apple emulator",
+      "name": "ZX81",
+      "link": "http://www.w-4.de/~kurz/"
+    },
+    {
+      "platform": "Unix / Linux emulator",
+      "name": "XZ81",
+      "link": "http://www.zx81.nl/",
+      "description": "And other ZX-81 emulators there..."
+    },
+    {
+      "platform": "Atari emulator",
+      "name": "ZX-81 Emulator 2.1",
+      "link": "http://www.hh.schule.de/hhs/mjaap/ftp/zx81_v21.zip"
+    },
+    {
+      "platform": "Other platform emulator",
+      "name": "Java ZX81 Emulator",
+      "link": "http://home.clara.net/rsergeant/",
+      "description": "Java emulator"
+    },
+    {
+      "platform": "Other platform emulator",
+      "name": "Timex/Sinclair 1000 Emulator (Java)",
+      "link": "http://www.vavasour.ca/jeff/trs80.html#ts1000",
+      "description": "With this JAVA emulator, you\u0027ll be able to run a Timex/Sinclair 1000 in your browser window "
+    },
+    {
+      "platform": "Other platform emulator",
+      "name": "zx81emu",
+      "link": "http://www.tlienhard.com/ap800.shtml",
+      "description": "ZX-81 Emulator for the SonyEricsson P800 Smart Phone"
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "MESS",
+      "link": "http://www.mess.org",
+      "description": "MESS emulates the ZX-81, Lambda 8300, Power 3000 and other clones !"
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d477",
+    "computer.asp?st\u003d1\u0026amp;c\u003d925",
+    "computer.asp?st\u003d1\u0026amp;c\u003d928",
+    "computer.asp?st\u003d1\u0026amp;c\u003d1179",
+    "computer.asp?st\u003d1\u0026amp;c\u003d1271",
+    "computer.asp?st\u003d1\u0026amp;c\u003d1168",
+    "computer.asp?st\u003d1\u0026amp;c\u003d262",
+    "http://zx81.achromic.co.uk/",
+    "http://www.8bit.ht.st/",
+    "http://web.ukonline.co.uk/sinclair.zx81/",
+    "http://james.istop.com/zx81/",
+    "http://www.nvg.ntnu.no/sinclair/computers/zx81/zx81.htm",
+    "http://www.xs4all.nl/~echorod/zx/index.htm",
+    "http://zx81.atspace.com/",
+    "http://www.ts1000.us/",
+    "http://www.zebrasystems.com/zebrasystems/zx81/index.html",
+    "http://www.zx81stuff.org.uk/",
+    "http://zx81.tlienhard.com/",
+    "http://www.honneamise.u-net.com/zx81/",
+    "http://www.imarshall.karoo.net/zx81/zx81technical.htm",
+    "http://www.zx81.de/webring/index.htm",
+    "http://www.zx81.de/",
+    "http://www.zx81.de/",
+    "news:comp.sys.sinclair"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/sinclair_zx81_1s.jpg",
+  "builtInGames": "Sinclair Basic",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

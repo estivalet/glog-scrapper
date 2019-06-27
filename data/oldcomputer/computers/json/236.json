@@ -1,0 +1,147 @@
+{
+  "name": "TI 99 / 4A",
+  "manufacturer": "Texas Instruments",
+  "type": "Home Computer",
+  "origin": "U.S.A.",
+  "year": "1981",
+  "production": "1984",
+  "language": "TI Basic",
+  "keyboard": "QWERTY full-stroke keyboard, 48 keys2 x SHIFT, CTRL, ALPHA LOCK, FCTN",
+  "cpu": "TI TMS 9900 (with 256 bytes \u0027cache\u0027, actually it accesses to 256 bytes of RAM)",
+  "speed": "3,3 MHz",
+  "coprocessor": "TMS 9918 (TMS 9929 in Europe) - Video / Sprite",
+  "ram": "16 KB - Memory expansion card can be added : 4 KB or 32 KB (up to 52 KB)",
+  "vram": "16 KB",
+  "rom": "26 KB? : 8 KB ROM connected to the CPU + 18 KB ROM in byte-serial bit-mapped circuits (usually known as GROM, Graphic Only Memory)",
+  "text": "32 x 24 (16 colors), 40 x 24 (2 colors)",
+  "graphics": "Multicolor mode : 48 x 64 with 16 colors256 x 192 with 16 colors (only accesed via machine code)Sprites (only with TI-Extended Basic)",
+  "colors": "16",
+  "sound": "3 channels, 5 octaves (110hz to 55khz) and 1 noise channel (periodic and white)",
+  "size": "38 x 25,5 x 6 cm / 2,15 kg",
+  "ports": "Tape interface, RGB video, Joystick (2), cartridge slot (Solid State Cartridge)",
+  "power": "Special TI external PSU(pins 1,2 : 16v / 1,6A -- pins 2,4 : 8v / 0,15A)",
+  "price": "?99 (UK, 1983)",
+  "description": "\nThe Texas Instrument TI 99/4A was a very succesful computer. A large number ROM cartridges (36 KB each) were developped for this computer, as the popular Extended Basic.\n\nUp to seven peripherals could be connected : 32 KB RAM extension, RS232c, Disk controler (90 KB per disk, up to 3 disk-drives), speech synthetiser, Peripheral Expansion box, and so on... One item of note is that the bus architecture for the Peripheral Expansion box (PE) was the basis for the NuBus used in the later Macintosh computers.\n\n_________\n\nContributors : Stephen Boutillette\n\nBen Yates says :\nThe TI VDP had 16K of dedicated VRAM, outside of the CPU RAM memory map.\nThe 99/4A has 4 VDP modes :\n1. Graphic I (32x24, 255 redefineable characters, 16 colors, 1 background and 1 foreground color for each character set of 8 characters, 8x8 character matrix)\n2. Text mode (40x24, foreground/background colors out of 16)\n3. Multicolor (weird 48 x 64 mode, 4x4 unicolor character matrix)\n4. Bitmap - same as 1, except 768 characters and each character can have a foreground and background color (of 16) for each pixel row of that character.\n\nDavid Stites adds:\nYou list the TI 99/4a as being released in June 1979. At about that time I\npurchased a TI 99/4 for around $700. Besides the built-in BASIC and the\nfirmware cartridges it had a third function called an Equation Calculator. I\nnever used it and when the computer went insane they replaced it with the\n/4a for $50. The /4a didn\u0027t have the Equation Calculator.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SIDE VIEW\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Notice the expansion port on the right side.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/texas-instrument_ti994a_side-r_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;VIEW FROM ABOVE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The whole right part is the cartridge slot (Solid State Sotfware slot).\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/texas-instrument_ti994a_above_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;VIEW FROM UNDER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Ok,it\u0027s not that interesting, but hey, who knows ? Maybe someone\u0027s interested out there...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/texas-instrument_ti994a_under_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRONT VIEW\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/texas-instrument_ti994a_front_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROFILE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;There is the joystick plug, so alone...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/texas-instrument_ti994a_profile_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LEFT SIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;I guess you can spot the joystick plug ?!\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/texas-instrument_ti994a_side-l_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;RIGHT SIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;You can easily spot the expansion port.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/texas-instrument_ti994a_side-r_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;From left to right we have : \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; - Cassette interface (DB9 !)\u0026lt;br\u0026gt; - Power IN\u0026lt;br\u0026gt; - RGB video out (DIN6)\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/texas-instrument_ti994a_rear_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;COMPLETE SYSTEM \u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Complete system with expansion box and vocal syntesizer module\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Blake Patterson\u0026lt;/b\u0026gt; \u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/TI_TI994A_CompleteSystem_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; Our Peripheral Expansion System gives you plug-in cards for memory expansion, P-Code capabilities, a disk drive controler and the RS-232 interface. You can also add a modem, speech synthetiser, disk drive and matrix printer...\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; ... TI BASIC is built into the computer, but it can also handle TI Extended BASIC, UCSD Pascal, TI LOGO, TMS-9900 Assembly language and TI PILOT ... \u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/TI_TI994A_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT (STUPID !)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Dated august 1982\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://wotsit.thingy.com/haj/\u0026quot;\u0026gt;Howard Jones\u0026lt;/a\u0026gt; for this picture.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/texas-instrument_ti994a_ad_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (JAN. 1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;TI 88/4A. The family computer.\u0026lt;br\u0026gt; It\u0027s easy. Connect it, connect yourself.\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/ti_ti994a_pub_jogger.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (SEPT. 1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;The amazing TI-99/4A.\u0026lt;br\u0026gt; A computer for 1800fr\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/ti_ti994a_pub_incroyable-1800fr.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;i\u0026gt;Texas Instruments home computer, simply unbeatable\u0026lt;/i\u0026gt; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Notice that the man seems not to feel at ease with a computer keyboard and still doesn\u0027t use the right finger...\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Charles da Silva\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/TI_TI994A_AdvertFr_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT, OCT 1983 \u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Probably the last advert made by T.I. in the UK\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/TI_TI994A_Advert_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT, OCT 1983\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Last sales in the UK. At the same time, a Commodore VIC-20 cost \u0026pound;139 and a Commodore 64 cost $229\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/TI_TI994A_Advert_s1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [
+    {
+      "platform": "MS DOS emulator",
+      "name": "Mess emulator",
+      "link": "http://www.mess.org",
+      "description": "Emulates all of the TI-99 versions, including the Geneve card"
+    },
+    {
+      "platform": "MS DOS emulator",
+      "name": "PC99",
+      "link": "http://pw2.netcom.com/~mjmw/index.html",
+      "description": "Quality emulator for the TI 99/4A"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "Classic99",
+      "link": "http://www.harmlesslion.com/software/Classic99",
+      "description": "Open Source \u0026amp; freeware TI-99/4A emulator for Windows 9x"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "Win994a",
+      "link": "http://www.99er.net/win994a.shtml",
+      "description": " Win994a is a TI-99/4A simulator written by Cory Burr that installs and runs in Windows "
+    },
+    {
+      "platform": "Apple emulator",
+      "name": "MacV9T9 official homepage",
+      "link": "http://perso.club-internet.fr/pytheas/english/MacV9T9.html",
+      "description": "MacV9T9 is a TI99 emulator for the Macintosh"
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d268",
+    "computer.asp?st\u003d1\u0026amp;c\u003d267",
+    "computer.asp?st\u003d1\u0026amp;c\u003d929",
+    "http://www.planet-99.net/",
+    "http://sometimes.99er.net/",
+    "http://e.webring.com/hub?ring\u003dti994a",
+    "http://www.ti99.com",
+    "http://www.99er.net/",
+    "ftp://ftp.whtech.com/"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/texas-instrument_ti994a_1.jpg",
+  "builtInGames": "TI Basic",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

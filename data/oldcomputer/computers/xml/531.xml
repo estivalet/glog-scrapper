@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computer>
+    <adverts>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;US ADVERT, AUGUST 1985&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/ATT_6300_Advert_s1.jpg</link>
+        </advert>
+    </adverts>
+    <batteries></batteries>
+    <builtInGames>GW-Basic delivered on disk</builtInGames>
+    <buttons></buttons>
+    <colors>16</colors>
+    <controllers></controllers>
+    <coprocessor>optional Intel 8087 arithmetic co-processor</coprocessor>
+    <cpu>Intel 8086</cpu>
+    <description>
+The PC 6300 was in fact an Olivetti M24 sold under the ATT brand.
+
+Launched a few months after the presentation of six new UNIX super-micro and mini ATT computers (march 1984), the PC 6300 was the first ATT system to be IBM PC compatible. It represented the low-end system of the ATT products.
+
+But the PC-6300 (and the Olivetti M24) was an excellent PC compatible system, twice faster than the IBM PC XT computer thanks to a real 16 bit CPU, the Intel 8086, which ran at 8Mhz as opposed to the 8088 of the IBM PC running at 4,7Mhz. The standard graphic possibilities were also better than those of the IBM PC.
+
+Michael Hildenbrand reports :
+When I got it, there was also an option to get a 720k 3.5
+floppy with it instead of the 5.25 floppy. When I got mine in 1986, one of the 5.25 floppy drives went bad and I had them replace it under warranty. It would have cost me $500 to replace it if I had had to replace it. Cool machine, anyway. I used that machine for many years!
+
+David Punia adds:
+During the early 80's, it became apparent that PC's were becoming an important tool to engineers and to businesses. The University of Vermont, where I worked at the time, was an early adopter of what later became common practice, that of requiring incoming students in certain disciplines to purchase personal computers.
+
+In those days, compatibility was a huge issue, i.e. there was very little, so sole-source vendors were often chosen to supply PC's. The AT&amp;amp;T PC6300 offered a significant performance advantage over the IBM PC and others. It's full 16-bit processor/bus interface, 8 MHz processor, high resolution graphics modes (proprietary to Olivetti/AT&amp;amp;T) and 8087 math coprocessor socket made it a good choice for CAD, circuit analysis, and other graphical and math-intensive applications. There were a couple of 16-bit expansion slots also, but the card configuration was proprietary, eventually supplanted by the PC/AT's form factor for expansion cards.
+
+The design of the chassis was interesting; the motherboard was accessed by removing the bottom cover of the system unit, exposing the entire motherboard. A daughterboard in the upper section of the system unit carried hardware for the expansion slots, and housed the drives. I still have one of these boxed away in my basement, with a side-attached hard drive chassis that could carry a full-height 5.25&amp;quot; hard disk. Mine has a 72 MB Seagate, about 5 pounds and $650 at the time, that dims the lights while it spins up ;-). and makes a loud clunk when the mechanical brake kicks in during power down.
+ 
+
+
+</description>
+    <emulators/>
+    <graphics>640 x 400 - 640 x 200 - 320 x 200</graphics>
+    <gun></gun>
+    <hardwares/>
+    <image>http://www.old-computers.com/museum/photos/att_pc6300_1.jpg</image>
+    <keyboard>QWERTY full-stroke keyboard, function keys, separated numeric keypad</keyboard>
+    <language>GW-Basic delivered on disk</language>
+    <links>
+        <link>http://www.obsoletecomputermuseum.org/att-6300.html</link>
+    </links>
+    <manufacturer>ATT</manufacturer>
+    <media>5.25'' disk-drive (360k or 640k) and optional 10Mb hard-disk</media>
+    <name>PC 6300</name>
+    <numGames></numGames>
+    <origin>U.S.A.</origin>
+    <peripherals></peripherals>
+    <ports>RS232c, Centronics, mouse, keyboard, monitor, 7 expansion slots</ports>
+    <power>Built-in PSU</power>
+    <price>Monochrome, 2xFDD $2745 - Color $3395 - Mono+10 MB HDD $3975</price>
+    <production></production>
+    <ram>128 kb or 256 kb, expandable to 640 kb</ram>
+    <rom>16 kb</rom>
+    <screenshots>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;ANOTHER VIEW&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;p class=&amp;quot;petitgris&amp;quot;&amp;gt;Thanks to &amp;lt;b&amp;gt;Blake Patterson&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/ATT_6300_System_1.jpg</link>
+        </shot>
+    </screenshots>
+    <size>38 (W) x 37 (D) x 16 (H) cm / 14 kg</size>
+    <sound>Beeper</sound>
+    <speed>8 MHz</speed>
+    <switches></switches>
+    <text>40 x 25, 80 x 25</text>
+    <type>Professional Computer</type>
+    <vram></vram>
+    <year>June 1984</year>
+</computer>

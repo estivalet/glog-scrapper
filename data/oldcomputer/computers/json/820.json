@@ -1,0 +1,91 @@
+{
+  "name": "FP 6000",
+  "manufacturer": "Casio",
+  "type": "Professional Computer",
+  "origin": "Japan",
+  "year": "1985",
+  "production": "",
+  "language": "None",
+  "keyboard": "94-key QWERTY, configurable with FP-Conv 6000 options.",
+  "cpu": "16-bit, i8086 compatible, 8 Mhz",
+  "speed": "16 Mhz.",
+  "coprocessor": "Optional 8087 arithmetic processor",
+  "ram": "256 KB expandable to 768 KB",
+  "vram": "32 KB expandable to 96 KB",
+  "rom": "4 KB (BIOS)",
+  "text": "80 chars. x 25 lines.",
+  "graphics": "640 x 400 pixels",
+  "colors": "16",
+  "sound": "1 canal - Built-in loudspeaker",
+  "size": "CPU : 12 (W) x x30.3 (H) x 37.5 (D) cm / 8,5 KgKeyboard : 45.2 (W) x 20 (D) x 3.8 (H) cm / 2 KgMonitor : 31 (W) x 30.8 (H) x 39.9 (D) cm / 7 Kg",
+  "ports": "1 x Parallel, 1 x Serial RS232",
+  "power": "Built-in power supply unit",
+  "price": "From about $3150256 KB / 2 Disk-Drives model \u003d 28 500 FF (France, febr. 84)10 MB Hard-Disk / Color monitor model \u003d 56 000 FF (France, febr. 84)",
+  "description": "\nThe Casio FP-6000S is Casio\u0027s most ambitious computer for overseas market. It has been marketed in all of Europe\u0027s countries. However, it is also Casio\u0027s biggest (and costiest) failure on the market. It was hindered by three things : it was pretty late to arrive to the marketplace (developed in 1984, it only arrived in Europe in 1986), it was very expensive (US$ 10000 for a system with monitor, FDD and HDD), and the distribution channels (accustomed to watches and calculators) did not know how to sell this beast. Moreover, it was NOT IBM compatible, although it was indeed MS-DOS (ver. 2.11) compatible, which certainly did not help. Very few specific software was developed for the 6000.\n\nThe FP-6000S still has a beautiful, modular design. The CPU unit is housed in a tall vertical white unit with a grey faceplate. The on/off switch is bright orange (the white and orange colors has been consistently used by Casio for its professional computer range). The 94-key keyboard was one of the best mechanical keyboards ever produced, along with IBM\u0027s \u0027M\u0027 \u0026quot;clicky type\u0026quot; model. The CPU has three slots for expansion. Both the mono and color monitor are antiglare and have a very good image quality.\n\nThe CPU offered 256Kb standard memory, upgradeable to 768 kb using 256Kb ram boards. Hence, up to two RAM boards could be added. Since these would eat all the available slots on the FP-6000S, Casio produced a special expansion cabinet (FP-6060S-IO) similar to the one of the FP-1000 line (FP-1060 I/O), therefore adding 5 more slots. Which would total 3+5 (-1 for the expansion cabinet board)\u003d7 useable slots.\n\nAll the disk and expansion units are housed in same sized and shaped cabinets. User had the choice of adding 1 or 2-drive, 5.25\u0026quot; (320kb or hi density 1.2 Mb), or even 2x8\u0026quot; (1.2 Mb). The FDD unit was connected through the FDD Interface Board, using one of the slots of the FP-6000S. An optional splitter box (FP-6051) allowed to connect two disk cabinets, for up to 4 floppy disk drives total.\n\nThe Hard Disk Drive unit offered similar modularity. One could start with a 10-MB HDD, and daisychain a second 10-MB Unit. Later on, Casio offered 20-MB models. These were connected using an dedicated Hard Disk Drive Interface Unit, using another slot.\n\nThere were a lot of options available to the FP-6000S, which concurred to increase the cost of a complete system. The most curious one was the 64kb Video Ram Expansion (consisting of 8x8kb chips), since the standard video ram was only 32kb. Having 96kb video ram total allowed use of all of the hi-resolution graphic modes in color.\n\nOther options included a mouse (with an interface board), a GPIB interface board, a printer board (up to 2 printer boards could be added), a printer buffer board (with 32 Kb RAM), a \u0026quot;universal\u0026quot; board (a bare PCB in fact), and an RS-232C interface.\n\nThe Casio FP-6000S used MS-DOS 2.11, which supported directories. it also sported a high-end Basic language, the C86-Basic which was a simple DOS executable consisting of a loader (C86BASIC.EXE) and an overlay (C86BASIC.BIN). C86Basic took up some 50 to 60 Kb, leaving very small useable memory for BASIC programs on an 256Kb machine. The FP-6000S had a fantastic demo Casio used on trade shows and such, with sound and graphics, that only runned on a 512kb machine with 96kb Vram. Like all Casio Computers, C86-Basic used 10 program zones, and was upwards compatible. One could  transpose pretty easily programs coming from the FP-200\u0027s C85-Basic and FP-1000/1100\u0027s C82-Basic. An extended graphics command set (for that time) allowed for lots of graphics fantasies, including virtual/ layered screens, adaptive X-Y coordinates and graphic modes (from 160x100 upto 640x400).\n\nThanks to Joscelyn FLORES, fond of Casio computers, for all this information.\n\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SYSTEM #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;All pictures from \u0026lt;b\u0026gt;Joscelyn FLORES\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Casio_FP6000_System_s3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SYSTEM #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;From left to right, the 3 units are:\u0026lt;br\u0026gt; \u0026bull; the dual floppy drives unit,\u0026lt;br\u0026gt; \u0026bull; the hard disk unit,\u0026lt;br\u0026gt; \u0026bull; the CPU unit.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Casio_FP6000_SystemFront_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UPPER VIEW\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Casio_FP6000_Upperview_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CPU AND FD UNITS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Casio_FP6000_CPUFDunits_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE THE MAIN UNIT #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Casio_FP6000_InsideMainUnit_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE THE MAIN UNIT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Casio_FP6000_InsideMainUnit_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BACK SIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(1)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Hard disk interface board\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(2)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Mouse board\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(3)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Floppy disk drive interface board\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(4)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Monitor mode dip switches\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(5)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; CPU dip switches\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(6)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Printer connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(7)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Mono and colour monitor connectors\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(8)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Speaker volume\u0026lt;br\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Casio_FP6000_RearSide_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE THE FD UNIT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Casio_FP6000_InsideFDunit_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;USER MANUALS #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Casio_FP6000_Manuals_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;USER MANUALS #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Casio_FP6000_Manual_s1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT, JULY 1985\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Byte magazine\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Casio_FP6000_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;i\u0026gt;A computer, which grows with your requirements\u0026lt;/i\u0026gt; \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Joscelyn Flores\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Casio_FP6000_GermAdvert_s1.jpg"
+    }
+  ],
+  "hardwareDescription": "FP-6000 options\n\nMonitors\nFP-6001S : Hi Resolution Monochrome Monitor, 640x400 pixels\nFP-6002S : Hi Resolution Color Monitor, 640x400 pixels\nn.b. : some low graphic modes are compatible with FP-1000/1100\u0027s FP-1004 color monitor (uses the same connector).\n\nFloppy Disk Drive Units (FDD)\nFP-6022S-FD : bare drive, 320Kb\nFP-6023S-FD2 : 2 x 1.2Mb FDD, 5.25\u0026quot;\nFP-6024S-FD2 : 2x1.2Mb FDD, 8\u0026quot;\n\nHard Disk Drive Units (HDD)\nFP-6025S-DK1 : 1 x 10Mb HDD (1st unit)\nFP-6026S-DK2 : 1 x 10Mb HDD (2nd unit)\nFP-6027S-DK1 : 1 x 20Mb HDD (1st unit)\nFP-6028S-DK2 : 1 x 20Mb HDD (2nd unit)\n\nInterface Boards\nFP-6032S-RAM : 256Kb board\nFP-6035S-DKB : Hard Disk Interface Board\nFP-6036S-PIF : Centronics Printer Interface Board\nFP-6038S-RS : RS-232C Interface Board\nFP-6039S-UB : Universal Board (blank, ready to wire PCB)\nFP-6040S-GP : GPIB Interface Board\nFP-6041S-VR : 64Kb Video RAM Expansion\nFP-6051S : FDD Expansion adapter (to connect 2 FDD units for up to 4 drives)\nFP-6052S-MS : Mouse\nFP-6053S-PB : 32Kb Printer Buffer RAM Board\nFP-6060S-IO : 5-slot expansion cabinet\nFP-Conv 6000 : Keyboard conversion kit\n\nCables\nFP-6083S-RS : RS-232C Cable\nFP-6085S-PRC : Printer Cable\n\nPrinters\nFP-6016 : Dot Matrix Wide Printer (Epson MX-100 OEM)\nFP-6017 : Daisywheel Printer (Brother HR-15 OEM)",
+  "hardware": [],
+  "emulator": [],
+  "link": [],
+  "image": "http://www.old-computers.com/museum/photos/Casio_FP6000_System350_s1.jpg",
+  "builtInGames": "None",
+  "controllers": "",
+  "media": "1/2  x 5.25\u0027\u0027 320 KB or 2 x 8\u0027\u0027 1.2 MB floppy drivesOptional 10 MB and 20 MB hard-disks",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

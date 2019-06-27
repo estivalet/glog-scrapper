@@ -1,0 +1,97 @@
+{
+  "name": "MPF-1 A/B",
+  "manufacturer": "Multitech",
+  "type": "Home Computer",
+  "origin": "Ta?wan",
+  "year": "1981",
+  "production": "",
+  "language": "Machine code",
+  "keyboard": "Hexadecimal calculator-type keyboard36 keys including, 16 hexadecimal keys, 19 function keys, and one user-definable key",
+  "cpu": "Zilog Z80",
+  "speed": "1,79 Mhz",
+  "coprocessor": "8255 Programmable Peripheral Interface (used for keyboard scanning and control of seven-segment LED display)",
+  "ram": "2 KB (up to 4 KB)",
+  "vram": "",
+  "rom": "2 KB (up to 8 KB)",
+  "text": "6 digits (Six digit half-inch seven-segment red LED display)",
+  "graphics": "None",
+  "colors": "No (red ;-) )",
+  "sound": "Beeper",
+  "size": "1575 x 2230 x 160 mm / 1.41lb",
+  "ports": "Z80 bus, PIO CPC I/O bus, cassette interface, EPROM slot",
+  "power": "External PSU, 9v 600mAThe board operates from a single 5V power supply and has a current consumption of 500mA",
+  "price": "MPF-1A : 1295 FF (France, oct. 83)MPF-1B : 1395 FF (France, oct. 83)MPF-1 - Micro-Professor: $149",
+  "description": "\nThe MPF-1 (MicroProFessor 1) was a computer system specifically designed by Multitech (now known as Acer!) as a learning tool for use in the teaching of microprocessor, microelectronics, and control technology. In the 80\u0027s it was sold as an Z80 CPU learning and initiation system, and believe it or not, it is still in production and sold by www.flite.co.uk !! at the time this article is written.\n\nThe capacities of the system were quite poor. The standard model could be programmed only in machine code through the small hexadecimal keyboard. When sold in it\u0027s original package it had the particularity to look like a book when closed.\n\nThere was an EPROM socket which can be compared to a cartridge slot. A mini-Basic EPROM and some other utilities and languages were available as options.\n\nThere are in fact two models : MPF-1 (later called MPF-1A) and MPF-1B. The MPF-1(A) is machine code programmed only whereas the MPF-1B offers a really crude version of BASIC (one button \u003d 1 command,  as per the early TRS-80) in addition to the machine code capabilities. \n\n_______________________\n\nChris remembers:\nAfter teaching myself 6510 machine code on the C64 (well Commodore Basic was useless) aged 15, I \u0027formally\u0027 learnt machine code programming at college (aged 16) on one of these things when I was aged 16~18 during my Ordinary National Diploma in Electronics Engineering.\nI can remember the abject frustration of typing in Machine Code in Hex, I suppose it could of been worse - ie binary\nIt was an excellent teaching tool though. No distractions in the way of fancy GUIs and you had to concentrate on the job in hand.\nEveryone should be made to learn machine code programming first before high level languages. It makes you break problems down into the lowest level possible. It certainly makes you more concious that you are writing sloppy code in hll\u0027s  such as C.\n\nDavid Shepherd reports:\nThe picture you have is not of  this board as it was in 1979-84. I suspect  that this is of the  modern version which was clearly re-designed at what point in time I do not know. Although, the specification does appear to be identical; hopefully they have replaced the power regulator, which on the originals heated up to 70?C and you were advised not to touch it! \n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BOOK OPENED\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/multitech_mpf1_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ZOOM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Notice that casette interface on the top-left part of the board (labeled RD \u0026amp; WR). \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The display consits of a 7-segments LED screen (6 digits). \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The hexadecimal keyboard has quite a lot of commands available.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/multitech_mpf1_zoom_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CLOSED\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;It really looks like a book !\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/multitech_mpf1_closed.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CLOSED #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;It really looks like a book !\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/multitech_mpf1_closed_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BOX\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/multitech_mpf1_box_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;E\u0026amp;L INSTRUMENTS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;E\u0026amp;L Instruments still sell (2003) a training system called FOX MT-80Z which is a  MPF-1B grafted to an expansion board with a prototype area.\u0026lt;br\u0026gt; Also included is a socket for STD-Bus cards.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Multitech_Mpf1b_elInstr_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Multitech_MPF1_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (JAN. 1984)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;French advert for correspondance courses using MPF-1 computers.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Multitech_MPF1_Advert_4.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (MAY 1984)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Multitech_MPF1_Advert_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (DEC. 1986)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/multitech_mpf_pub_1.jpg"
+    }
+  ],
+  "hardwareDescription": "Price list:\n\nSSB-MPF - Speech Synthetiser board: $129\nEPB-MPF EPROM programming board: $169\nPRT-MPF - Printer: $99\nBASIC-MPF: $19",
+  "hardware": [],
+  "emulator": [
+    {
+      "platform": "Multiplatform emulator",
+      "name": "MESS",
+      "link": "http://www.mess.org",
+      "description": "This popular emulator can also emulate an MPF-1 computer"
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d525",
+    "computer.asp?st\u003d1\u0026amp;c\u003d1204",
+    "computer.asp?st\u003d1\u0026amp;c\u003d1132",
+    "http://global.acer.com/about/milestones.htm",
+    "http://www.flite.co.uk/microprocessor-training-systems-overview.htm",
+    "http://members.lycos.co.uk/leeedavison/z80/index.html"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/multitech_mpf-1b_1.jpg",
+  "builtInGames": "Machine code",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

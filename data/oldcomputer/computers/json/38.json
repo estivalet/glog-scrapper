@@ -1,0 +1,77 @@
+{
+  "name": "PRIMO A-32",
+  "manufacturer": "Microkey KFFT",
+  "type": "Home Computer",
+  "origin": "Hungary",
+  "year": "1984",
+  "production": "",
+  "language": "BASIC interpreter",
+  "keyboard": "Membrane keyboard",
+  "cpu": "U880A (GDR Z80A)",
+  "speed": "2.5 MHz (up to 3.5 MHz with some hacking)",
+  "coprocessor": "",
+  "ram": "16 KB (up to to 32 KB)",
+  "vram": "",
+  "rom": "16 KB",
+  "text": "16 lines x 42 characters",
+  "graphics": "192 x 256 dots",
+  "colors": "Monochrome",
+  "sound": "Beeper",
+  "size": "",
+  "ports": "",
+  "power": "External power supply unit",
+  "price": "",
+  "description": "\nThe Primo computer series was manufactured by Microkey Kftt. (Kutat?si Fejleszt?si Termel?si T?rsul?s), and was originaly developed to be a school computer in Hungary.\nThe system was sold in various memory configurations:\nA-32: 16K ROM 16K RAM\nA-48: 16K ROM 32K RAM \nA-64: 16K ROM 48K RAM \nB-64: 16K ROM 48K RAM\nOther differences were:\nA type did not have built-in joystick and serial ports.\nB type could works togewther with the Commodore VC1541 \nfloppy drive unit (external software had to be load for this from tape).\nB type also featured a full stroke keyboard (capacitive was not a \nperfect way for quick typing).\n\nThere was a colour prototype as well, called pro PRIMO.\n\nThanks to Viktor Varga for information and pictures.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PRIMO-B\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The Primo-B has a mechanical keyboard.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.primo.homeserver.hu/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;PRIMO home-page\u0026lt;/a\u0026gt; for this picture.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/microkey_primo-b_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROMOTIONAL PICTURE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.primo.homeserver.hu/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;PRIMO home-page\u0026lt;/a\u0026gt; for this picture.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/microkey_primo_promo-pic_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PRIMO ADVERT #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Primo_A32_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DEMO TAPE INLAY #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.primo.homeserver.hu/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;PRIMO home-page\u0026lt;/a\u0026gt; for this picture.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/microkey_primo_promo-pic_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DEMO TAPE INLAY #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.primo.homeserver.hu/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;PRIMO home-page\u0026lt;/a\u0026gt; for this picture.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/microkey_primo_promo-pic_3.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [
+    {
+      "platform": "MS DOS emulator",
+      "name": "PrimoEMU",
+      "link": "http://www.primo.homeserver.hu/",
+      "description": "DOS emulator"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "Ultimo",
+      "link": "http://www.primo.homeserver.hu/",
+      "description": "Windows based emulator"
+    }
+  ],
+  "link": [
+    "http://www.primo.homeserver.hu"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/Primo_A32_System_1.jpg",
+  "builtInGames": "BASIC interpreter",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

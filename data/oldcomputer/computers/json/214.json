@@ -1,0 +1,147 @@
+{
+  "name": "SORCERER",
+  "manufacturer": "Exidy",
+  "type": "Home Computer",
+  "origin": "U.S.A.",
+  "year": "1978",
+  "production": "1982",
+  "language": "BASIC interpreter ROM cartridge",
+  "keyboard": "Full-stroke keyboard, 79 keys with numeric keypad",
+  "cpu": "Zilog Z80 A",
+  "speed": "2.106 Mhz.",
+  "coprocessor": "",
+  "ram": "8 KB, later 16KB (up to 48 KB)",
+  "vram": "2 KB",
+  "rom": "8 KB",
+  "text": "64 chars. x 32 lines",
+  "graphics": "128 programmable graphics characters",
+  "colors": "Monochrome",
+  "sound": "By connecting a speaker to pins 1 and 4 of the parallel port.",
+  "size": "48.3 (W)  32.8 (D)  9.7 (H) cm",
+  "ports": "Expansion Bus (S100), Parallel Interface, Video out, Serial Interface, Tape recorder EAR \u0026amp; MIC (300 / 1200 bauds)",
+  "power": "Built-in PSU",
+  "price": "From $895 to $1395",
+  "description": "\nThe Sorcerer II was the successor of the Sorcerer I (launched in 1978).\n\nThe computer used programs on 16KB ROM packs encased in 8-track tape cartridges. It shipped with Microsoft\nMBASIC and a development tools assembler / editor ROM pack. A word processor\nROM pack was also available.\n\nExidy initially provided an expansion chassis that would accept up to 6\nS-100 cards, and a Micropolis dual-disk quad-density 16-sector hard sector\nfloppy disk drive was available. These disks would hold up to 330kb of data\non a single side. A later version of the expansion chassis also included a\ngreen-screen monitor and two floppy drives, but may have held only 4 S-100\nslots. A standard serial port was available, but shared internal resources\nwith the keyboard which made baud rates higher than 300 a problem. The\nPennywhistle 300-baud modem was often provided with this machine.\n\nThe MECA digital \u0026quot;intelligent\u0026quot; tape drive could also be used and inserted into the Exidy monochrome monitor. (1 MB storage capacity, 8000 bauds transfer rate, file access in 10s, plugged into the parallel port)\n\nDutch CompuData (CD) imported the Sorcerer into the European mainland. When sales in the US dropped because of the heavy competition in home computers market, Exidy Inc. stopped production of the Sorcerer. CompuData then produced the original Sorcerer in Holland in exactly the same outfit, but with the CompuData Systems Trademark for the European market. EXIDY Inc. of Richardson, Texas, finally closed the doors on March 26th 1982.\n\n_______________________\n\nBrian Shoebridge adds:\nThe Exidy Sorcerer II was used in Australia by a few scientific and research people, like my father. Not many were sold as it was hugely expensive (\u0026gt;AUD$3,000 1981) and no good for games (the best was \u0026quot;Tank-Trap\u0026quot;). Sorcerers here shipped with either 32k or 48k. As it used a standard cassette tape for data storage, volume control was always an issue when loading or saving. Disk drives cost as much again as the basic machine, but there was a urious \u0026quot;stringy-floppy\u0026quot; which was less expensive. I owned one for a year or two, and used it with a large Unisys greenscreen monitor unit i sourced from a mini-computer.\n\nTim Bishop specifies:\n\nThe sorcerer had better games than Tank Trap. (Though I fondly remember the game, playing it for hours when I was a kid, and would love to get a copy of the source code.) The graphics were quite good, with Chomp a Pac Man clone and Glaxians a Space Invaders clone. \n\nAlan Meyer reports:\nI bought an Exidy Sorcerer II for $715 some time near the end of its sales life from a store that wanted to get rid of the last one it had.  My son, then aged 6, wrote his first program on the machine and played \u0026quot;Arrows and Alleys\u0026quot; for hours.  In addition to a 6.5KB MBASIC interpreter that was smaller and less functional than those found on Apple, Radio Shack, Atari or Commodore computers, a Forth compiler / interpreter was also available.  It produced programs that were intermediate in efficiency between Basic and assembler.\n\nTwo distinguishing features of the Sorcerer were the ROM cartridge port and the screen size.  It supported, IIRC, a 30 line by 64 column display.  The good part of that was that far more information could be displayed than in the competing systems.  The bad side was that a real video monitor was required.  A TV RF modulator would not produce readable text on screen.  The keyboard was also quite nice, as can be seen from the image.\n\nSorcerer sales were never very high and the manufacturers never had the money to get all the bugs out of the hardware and software.  Crashes and hardware failures seemed to me to be more common than on other machines - though that may have just been my experience.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;EXIDY SORCERER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Exidy_SorcererII_System_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;RIGHT SIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/exidy_sorcerer-vm_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DINASTY SMART-ALEC\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Compudata European version.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/exidy_sorcerer_smart-alec_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;KEYBOARD CLOSE-UP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Exidy_SorcererII_Keyboard_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BOTH SIDES\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Note the Cartridge slot on the right hand side.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Exidy_SorcererII_Sides_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ROM CARTRIDGES SLOT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Exidy_SorcererII_CartSlot_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR CONNECTORS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;An additional TV/RF video output was added to this model, red jack, next to the expansion bus connector.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Exidy_SorcererII_RearCon_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;COMPLETE SYSTEM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Complete system with the standard Exidy monochrome monitor and the FDM 180 floppy drive unit.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Exidy_SorcererII_CompleteSys_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;OPENED\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The power regulation card is fastened on top of the motherboard.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Exidy_SorcererII_Opened_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MOTHERBOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;In 1978, all the functions of the motherboard - memory management and various I/O, were carried out by numerous standard logic chips.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(1)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Character generator 2 KB ROM\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(2)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Z80 processor, here a NEC D780 version\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(3)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; AY-3-1015 UART \u0026lt;i\u0026gt;Universal Asynchronous Receiver-Transmitter\u0026lt;/i\u0026gt; Manages various serial communications\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(4)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Power regulation card connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(5)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; ROM cartridge connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(6)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 8 KB monitor ROMs\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(7)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 48 KB RAM chips (24 x 4116)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(8)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; RAM banks selector switches\u0026lt;br\u0026gt;  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Exidy_SorcererII_Mainboard_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MOTHERBOARD CLOSE-UP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Exidy_SorcererII_Mainboard_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TAPE DRIVE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Provision was made inside the monitor case for either 1 or 2 5.25\u0026quot; floppy disk drives or an intelligent tape drive. The monitor and tape drive could be switched on separately (2 black switches on the right hand side). The two chrome buttons allowed to adjust read and record levels.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Exidy_SorcererII_TapeMonitor_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TAPE DRIVE #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The tape drive and card were provided by a third company called MECA. The card holds its own CPU, ROM and RAM.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Exidy_SorcererII_MonitorInside_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;USER\u0027S MANUAL\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;User\u0027s manual and Word processor cartridge.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Exidy_SorcererII_Manual_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;THE BOX\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Exidy_SorcererII_Box_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BOOT UP SCREEN\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Boot up screen followed by a memory dump command.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Exidy_SorcererII_BootScreen_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TEST SHEET\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Final test before the system left the factory.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Exidy_SorcererII_TestSheet_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (JAN. 1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/exidy_sorcerer2_ad_voici.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [
+    {
+      "platform": "Windows emulator",
+      "name": "WSorcerer",
+      "link": "http://www.geocities.com/emucompboy/",
+      "description": "The only Sorcerer Win32 emulator. Supports *.SNP format file"
+    },
+    {
+      "platform": "Other platform emulator",
+      "name": "Exidy Sorcerer Emulator",
+      "link": "http://www.liaquay.co.uk/sorcerer/index.html",
+      "description": "emulator with files to download"
+    },
+    {
+      "platform": "Other platform emulator",
+      "name": "JSorcerer",
+      "link": "http://www.liaquay.demon.co.uk/sorcerer/",
+      "description": "Java Exidy Sorcerer emulator that can be played online with some games !"
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "MESS",
+      "link": "http://www.mess.org",
+      "description": "MESS can emulate the Sorcerer computer"
+    }
+  ],
+  "link": [
+    "http://www.digibarn.com/collections/systems/exidy-sorcerer/index.html",
+    "http://www.lisp.com.au/~michael/exidy/",
+    "http://oldcomputers.net/sorcerer.html",
+    "http://www.liaquay.co.uk/sorcerer/",
+    "http://www.trailingedge.com/exidy/",
+    "http://en.wikipedia.org/wiki/Exidy_Sorcerer",
+    "http://www.computer-museum.nl/Exidy.html"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/Exidy_SorcererII_System_s1.jpg",
+  "builtInGames": "BASIC interpreter ROM cartridge",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "Floppy drive unit, S-100 bus expansion box, Intelligent tape recorder, Micromation\u0027s Doubler disk drive controller",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

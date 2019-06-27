@@ -1,0 +1,65 @@
+{
+  "name": "MBC-55x",
+  "manufacturer": "Sanyo",
+  "type": "Home Computer",
+  "origin": "Japan",
+  "year": "1982",
+  "production": "1988",
+  "language": "Sanyo Basic",
+  "keyboard": "QWERTY full-stroke keyboard with numeric keypad",
+  "cpu": "Intel 8088",
+  "speed": "3.58 MHz",
+  "coprocessor": "Optional Intel 8087 math coprocessor",
+  "ram": "128 KB or 256 KB depending models, includes 16 KB V-RAM",
+  "vram": "48 KB(includes 16 KB of main RAM)",
+  "rom": "8 KB  (IPL/CG)",
+  "text": "40 x 25 / 80 x 25",
+  "graphics": "144 x 200 / 576 x 200 / 640 x 400 (or 640 x 200 ?)",
+  "colors": "8",
+  "sound": "Buzzer, can only generate a single buzztone sound (fixed duration)",
+  "size": "main unit :  380(W)x112(H)x360(D) mmkeyboard : 442(W)x45(H)x174(D) mm",
+  "ports": "Centronics printer port, RS-232c (optional), RGB (DIN-8) \u0026amp; composite vide outputs, joystick/paddle (optional), keyboard (DIN-5), external ? (optional)",
+  "power": "Built-in PSU",
+  "price": "MBC-550: ?800 - MBC-555 ?1150 (U.K., 1984)MBC-555-2 : 14200 FF (France, january 1986)MBC-55 : 178000 yens (Japan, 83)MBC-555-3 : 16590 FF (France, january 1986)",
+  "description": "\nThe Sanyo MBC-550 was the first of the legitimate \u0026quot;clones\u0026quot; of the IBM Personal Computer. While others (notably the Taiwanese) were duplicating the circuitry and Read-Only Memories (ROMs) of the IBM PC, Sanyo Business Systems designed their own circuitry and wrote their own Basic Input/Output System (BIOS), part of which was in ROM and part was on disk. The character set was also in ROM. In Japan, this computer was the MBC-55. It came with a kanji character set and the CP/M-86 operating system. Sanyo had Microsoft write a special version of their disk operating system (MS-DOS) and command interpreter (COMMAND.COM). They had MicroPro write special versions of WordStar, CalcStar, and EasyWriter which they bundled with the MBC-550, making it a very attractive package, not only for their intended market, business; but also for the computer hobbyist.\n\nThe Sanyo 55x was the first MS-DOS compatible computer that retailed for under US$1000. It was also quite possibly the only (somewhat) IBM-compatible system that was actually slower than an IBM PC (the PC clocked at 4.77 MHz, while the Sanyo clocked at 3.6, giving it a Norton SI rating of 0.8). \n\nIt came with 5.25\u0026quot; floppy drives sized from 160 KB to 800 KB. One thing the machine had that was odd was a floppy controller for 4 floppy drives, you simply chained them and adjusted the DSx jumper on the drives. The drives were labeled ABCD and if a hard drive was added it became E even if you only had 2 floppy drives as the BIOS reserved A-D for floppy drives. The floppy drives in these models were from Teac. Interestingly, the drive lights always stayed on when the door was closed. They did not go out even if the drive was not currently being accessed.\n\nThey were manufactured \u0026amp; sold from about 1983 to about 1988. The different models are:\n- MBC-550 : 1 x 5.25\u0026quot; disk-drive (160 KB)\n- MBC-555 : 2 x 5.25\u0026quot; disk-drive (160 KB)\n- MBC-555-2 : 2 x 5.25\u0026quot; disk-drive (360 KB)\n- MBC-555-3 : 2 x 5.25\u0026quot; disk-drive (720 KB)\n\nThe default graphics were easy to use: three straight 640x400 bitplanes, R, G, and B. There was no text mode, so stock IBM PC apps that bypassed the video BIOS did not work. The main add-on card was a Sanyo CGA color card, that transformed the original Sanyo into about a 90% PC IBM compatible computer. The CGA board was EXPENSIVE and one version added memory to 640 KB as well.\n\nWhile the mixed text-and-graphics video made it incompatible with many programs intended for the IBM (Lotus 1-2-3 being the benchmark at the time), WordStar worked just fine, as did Microsoft Excel (the original MS-DOS version) and also Borland\u0027s Turbo Pascal compiler. If your consideration was more for file interchangeability (it ran MS-DOS 2.1) than for software compatibility, the Sanyo was a solid, workhorse system at a very reasonable price.\n\nA lot of \u0026quot;IBM PC\u0026quot; software at the time accessed the address of the video cards directly - B800:0000 for color and B000:0000 for monochrome, since the Sanyo had no video card at this address the video output was never seen. Sanyo offered the CGA card that was present at this address for direct memory writing.\n\nThere was a pinout on the motherboard for a ribbon cable that would accept a 5 MB hard disk. The 55x motherbaord also included a socket for an 8087 math coprocessor, which helped with spreadsheet applications.\n\nSoft Sector magazine and all the BBS systems specific such as First Sanyo Opus and the Sanyo supporting clubs kept these working and many many mods from power supply fixes to memory addons (768 KB was possible) to serial board mods, hard drive addons, etc came out of these.\n\nThe MS-DOS had to be specific to this machine as well, you couldnt boot the generic versions. There were a few aftermarket DOS\u0027s that gave extra abilities to include 800 KB from 720 KB floppy drives. A few people even professed to adding 3.5\u0026quot; drives. A-OK company wrote a OS for the system as well, called A-OK DOS. \n\nAmong the quirks to the machine: the power supply was not a regular switching power supply. It was a transformer. Also the keyboard had no ALT key - made it nuts to operate software made for IBM specific machines! The IBM PC/XT at the time had 10 function keys while the Sanyo had half that amount. To get the higher function keys you would need to do these strange shift combinations.\n\nWhen you push the power button, you definately had the feeling that Sanyo had borrowed some parts from their stereo division!\n\nThis systems was also proposed when you got a course through NRI.\n\n_________________\n\nContributors: Russ Blakeman, David Botkin, Joe Dellea, Steven Koehler, Victor Frank\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MONOCHROME VERSION\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Like most Sanyo products, the MBC-550 has a perfect manufacturing quality and design. This is also true for the monitor and the peripherals. Sadly, the hardware designers didn\u0027t make it a true IBM PC compatible...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Sanyo_55X_MonoVersion_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BACK SIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Even the back of the machine has a perfect finish\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Sanyo_55X_Back_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE THE MBC-550\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt; This plastic housing can receive a second 5\u0027\u00271/4 disk drive or an hard disk. \u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt; NEC 5.25\u0026quot; disk drive (single sided, single density, 160 Kb). \u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt; Socket for the optional Intel 8087 mathematical coprocessor.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(4)\u0026lt;/b\u0026gt; Intel 8088 microprocessor.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(5)\u0026lt;/b\u0026gt; The mother board is originaly fitted with 128 kb RAM, but it\u0027s possible to add up to 256 Kb of additional RAM.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(6)\u0026lt;/b\u0026gt; MBC 550 uses a traditional power supply, with a transformer. \u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(7)\u0026lt;/b\u0026gt; A small loudspeaker for poor sound features.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(8)\u0026lt;/b\u0026gt; The video chip can use, if necessary, almost all the available RAM for graphic display. \u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(9)\u0026lt;/b\u0026gt; The 8255 interface chipset handle all the peripherals connected to the computer. It was found in every PC compatible systems.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(10)\u0026lt;/b\u0026gt; Parallel Centronics connectors for printers.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Sanyo_55X_Inside_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MBC-550 FRENCH ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0027\u0027The personal computer 550, an opened door upon you computing future\u0027\u0027\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sanyo_mbc550_advert_porte-ouverte.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH LEAFLET\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Opening to the computers universe.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sanyo_55X_FrenchLeaflet_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [
+    "http://www.qsl.net/k6fv/sanyo.html",
+    "http://www.seasip.info/VintagePC/sanyo.html"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/sanyo_mbc550_1.jpg",
+  "builtInGames": "Sanyo Basic",
+  "controllers": "",
+  "media": "MBC-550 : 1 x 5\u0027\u00271/4 disk-drive (160k)MBC-555 : 2 x 5\u0027\u00271/4 disk-drive (160k)MBC-555-2 : 2 x 5\u0027\u00271/4 disk-drive (360k)",
+  "numGames": "",
+  "peripherals": "128 KB RAM expansion",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

@@ -1,0 +1,132 @@
+{
+  "name": "Electron",
+  "manufacturer": "Acorn Computer",
+  "type": "Home Computer",
+  "origin": "United Kingdom",
+  "year": "July 1983",
+  "production": "",
+  "language": "Acorn Electron Basic + 6502 assembler",
+  "keyboard": "QWERTY full-stroke keyboard, 56 keys, basic statements accessible through keys, 10 function keys (0...9 keys + FUNC)ESCAPE, CAPS LK/FUNC, CTRL,BREAK,COPY,RETURN,DELETE,SHIFT (x2)",
+  "cpu": "MOS 6502A",
+  "speed": "1 MHz",
+  "coprocessor": "custom ULA",
+  "ram": "32 kb",
+  "vram": "",
+  "rom": "32 kb",
+  "text": "20 x 32, 40 x 25, 40 x 32, 80 x 25, 80 x 32",
+  "graphics": "160 x 256 (4 or 16 colors), 320 x 256 (2 or 4 colors), 640 x 256 (2 colors)",
+  "colors": "8 colors + 8 flashing versions of the same colors",
+  "sound": "1 channel of sound + 1 channel of white sound, 7 octaves. In fact 3 virtual sound channels mapped to the single available physical channel.Built-in speaker",
+  "size": "16 x 34 x 6.5 cm",
+  "ports": "Expansion port, Tape-recorder connector (1200 baud), aerial TV connector (RF modulator), RGB video output",
+  "power": "External PSU, 18v",
+  "price": "?199 (UK, august 83)2950 fr (France, february 84)",
+  "description": "\nThe Acorn Electron is basically a cut-down version of the Acorn BBC-B with which it is partly compatible. After the success of the BBC, Acorn and founder Chris Cury wanted a product to compete with \u0026quot;under ?200\u0026quot; computers and especially with the Sinclair Spectrum, its main threat. But sadly, Acorn failed to meet the demand for the new system, mainly because of production problems related to the large custom ULA at the heart of the Electron.\n\nThe next year (1984), Acorn decided to anticipate all these problems and focused on producing the Electron in vast numbers. But unfortunately, public demand and enthusiasm were on the wane, and despite an extensive ?4-million advertising campaign, a third of the Electrons that were built never made it to the shelves, leaving behind large stockpiles of components that had been paid for but were never used.  \n\nCompared to the BBC and its flexible connectivity, the Electron was quite basic with only one expansion port to play around with. Fortunately, Acorn quickly released the Plus 1 expansion offering two ROM cartridge slots, a parallel / centronics interface and a joystick connector. \n\nThe built-in Acorn Electron BASIC, largely derived from the famous BBC BASIC, was impressive with innovative features such as the ability to define real procedures with DEF PROC and ENDPROC, or the handling of error events (in 1983 !). There was even an OLD statement which would recover a program erased by NEW. A complete assembler language was also stored in the 32K ROM.  \n\nThe graphics capabilities were also quite impressive for a computer of this category. Text mode of up to 80 columns and a high resolution of up to 640 x 256 pixels with 2 colors. The custom ULA developed especially for the Electron handled the video display,  sound and I/O communications! This was the real heart of the Electron.\n\nThe mechanical keyboard was very good. BASIC statements were printed on most of the keys, allowing users to type them in one go. A small amber LED placed on the left part of the keyboard indicated if you were in lowercase or uppercase mode. \nDespite being more powerful than the ZX Spectrum, the Electron didn\u0027t sell well and suffered from a lack of certain software.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;THE BOX\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Here you can see the box that the Electron shipped in. Please, take your time and look carefully at the stupid pictures! \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/acorn_electron_box.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;A very compact and beautifully laid out electronic board, thanks to the integration of a new ULA circuit as well as a very serious technical development.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;Flont color\u003d\u0026quot;blue\u0026quot;\u0026gt;(1)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 32 KB ROM chips holding the BBC BASIC interpreter. Later version would use only one ROM chip\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;Flont color\u003d\u0026quot;blue\u0026quot;\u0026gt;(2)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 6502A microprocessor\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;Flont color\u003d\u0026quot;blue\u0026quot;\u0026gt;(3)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 32 KB RAM chips (4 x 4164)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;Flont color\u003d\u0026quot;blue\u0026quot;\u0026gt;(4)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; ULA gate array custom chip in charge of video, memory and I/O management\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;Flont color\u003d\u0026quot;blue\u0026quot;\u0026gt;(5)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Power regulation card.   \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_Electron_Inside_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ELECTRON DESIGNERS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Chris Curry (left) and Hermann Hauser. They also created the famous BBC BASIC. Chris Curry was a former engineer from Clive Sinclair\u0027s company. \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Acorn_Electron_Designers_s1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD #1 (1984)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Electron, the personal micro which has talents of a pro\u0026quot;...\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/acorn_electron_ad1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD #2 (1984)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Electron, software in profusion\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/acorn_electron_ad-profusion.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD #3 (1984)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The guy on the right is \u0026quot;Sidney\u0026quot;, a well known french break dancer back in 1984 !\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/acorn_electron_ad2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PLUS3 ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said:\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; The Plus 3 is a self contained disc interface and 3.5 single sized disc drive providing the user with over 300 Kbytes of storage and the new powerful advanced Disc Filing System (ADFS). ADFS provides easy to use facilities at the Basic level but also has features making it ideal for business use...\u0026lt;br\u0026gt; ...A second expansion socket on the Plus 3 allows the connection of a further disc drive, this can be either 3.5 inch or 5.25 inch. \u0026lt;/font\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;8bs.com\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Acorn_Electron_Plus3Adv_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;IEEE INTERFACE ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said:\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; The Acorn IEEE interface enables full implementation of the IEEE standard 488-1978. IEEE488 is also known, and is equivalent to IEC625-1 (in Europe), and GPIB or HP-IB (Hewlett Packard General Purpose Interface Bus)...\u0026lt;br\u0026gt; ...The interface can support a network of up to 14 other IEEE-488 compatible devices. Devices can be interconnected in a star or linear fashion. \u0026lt;/font\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;8bs.com\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Acorn_Electron_IEEEAdv_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TAPE RECORDER ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;8bs.com\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Acorn_Electron_TapeRecAdv_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ELECTRON USER MAG #1 (1985)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The first issue of the official Electron magazine.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://home.iae.nl/users/bverhoev/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;The Electron Lives !\u0026lt;/a\u0026gt; for the picture.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/acorn_electron_electron-user_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SOFTWARE CATALOGUE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;AcornSoft software catalogue for the Electron\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Acorn_Electron_SoftCatalogue_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [
+    {
+      "platform": "MS DOS emulator",
+      "name": "The BBC Lives !",
+      "link": "http://www.nvg.org/bbc/emulators.php3",
+      "description": "This excellent site has a complete list of Acorn systems emulators"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "ElectrEm",
+      "link": "http://electrem.emuunlim.com/",
+      "description": "Electron Emulator for MSDOS, Windows \u0026amp; Linux"
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "MESS",
+      "link": "http://www.mess.org",
+      "description": "MESS also emulates the Acorn Electron"
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d80",
+    "computer.asp?st\u003d1\u0026amp;c\u003d850",
+    "computer.asp?st\u003d1\u0026amp;c\u003d989",
+    "computer.asp?st\u003d1\u0026amp;c\u003d729",
+    "computer.asp?st\u003d1\u0026amp;c\u003d29",
+    "http://www.acornelectron.co.uk/",
+    "http://www.acornusers.org/",
+    "http://www.landfield.com/faqs/acorn/games/",
+    "http://www.walkerworks.co.uk/Electron.html",
+    "http://members.aon.at/~musher/bbc/essentials.htm",
+    "http://www.argonet.co.uk/users/lionels/CompNyb/TechStuff/8-Bit/Electron/Electron.html",
+    "http://www.strafom.force9.co.uk/bbc/Retrobbc/Index.htm",
+    "http://8bs.com/",
+    "http://bbc.nvg.org/",
+    "http://www.walkerworks.co.uk/Electron.html",
+    "http://www.stairwaytohell.com/",
+    "http://www.poppyfields.net/acorn/",
+    "news:comp.binaries.acorn",
+    "news:comp.sources.acorn",
+    "news:comp.sys.acorn.advocacy",
+    "news:comp.sys.acorn.announce",
+    "news:comp.sys.acorn.apps",
+    "news:comp.sys.acorn.hardware",
+    "news:comp.sys.acorn.misc",
+    "news:comp.sys.acorn.networking",
+    "news:comp.sys.acorn.programmer"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/Acorn_Electron_System_s1.jpg",
+  "builtInGames": "Acorn Electron Basic + 6502 assembler",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

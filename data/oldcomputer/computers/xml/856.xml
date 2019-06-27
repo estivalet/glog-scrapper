@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computer>
+    <adverts>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;FRENCH ADVERT (1979)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/synertek_sym1_advert_1.jpg</link>
+        </advert>
+    </adverts>
+    <batteries></batteries>
+    <builtInGames>Hexadecimal monitor - Assembler</builtInGames>
+    <buttons></buttons>
+    <colors></colors>
+    <controllers></controllers>
+    <coprocessor></coprocessor>
+    <cpu>Synertek 6502</cpu>
+    <description>
+Synertek was one of the suppliers of the 6502 processor, and the SYM-1 was intended as a chip evaluation board for hardware developers that were interested in programming and interfacing a 6502.
+
+The SYM-1 was a single board computer. It had a hexadecimal display and a hex keypad for programs and data entry.  It was originally called the VIM-1 until MOS Technology objected to the name. 
+
+It was actually quite a copy of the MOS KIM 1 offering same fonctionalities plus some enhanced features and connection capabilities, including a true serial RS232 interface instead of a 20mA current loop in the KIM. It also shared same I/O connectors with another 6502 development system, the Rockwell AIM-65
+
+A ROM chip contained the hexadecimal monitor (written by Manny Lemas, the co-founder of Microcomputer Associates) as well as standard I/O routines. Several programming language and utility software were later released. Among them: RAE-1 (Resident Assembler and Editor), FORTH and various flavors of BASIC, of which a powerful single precision version that needed the use of a video terminal.
+
+Like other evaluation boards of the times, the SYM-1 was delivered with a full set of documentations which covered all of the 6502 hardware and software capabilities.
+
+It was reported to us that the Sym card also came in a 6809 version that supported Motorola compatibility.
+_______________________</description>
+    <emulators/>
+    <graphics></graphics>
+    <gun></gun>
+    <hardwares/>
+    <image>http://www.old-computers.com/museum/photos/Synertec_Sim1_System_1.jpg</image>
+    <keyboard>29 'sensitive' keys</keyboard>
+    <language>Hexadecimal monitor - Assembler</language>
+    <links>
+        <link>http://www.6502.org/trainers/synertek/</link>
+    </links>
+    <manufacturer>Synertek</manufacturer>
+    <media></media>
+    <name>SYM1</name>
+    <numGames></numGames>
+    <origin>U.S.A.</origin>
+    <peripherals>ASCII Keyboard, expansion slots card</peripherals>
+    <ports>Tape recorder, Serial RS232, 51 I/O lines connector</ports>
+    <power>External 5V - 1.5A power supply unit</power>
+    <price>$239</price>
+    <production></production>
+    <ram>1 KB expandable to 4 KB on board</ram>
+    <rom>4 KB</rom>
+    <screenshots>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;SYM-1&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Synertec_Sim1_System_2.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;FIRMWARE ROMS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Monitor, RAE and BASIC language into Signetics ROM modules&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Synertec_Sim1_RomSoft_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;KTM2 VIDEO INTERFACE &amp;amp; KEYBOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;p class=&amp;quot;petitgris&amp;quot;&amp;gt;Thanks to &amp;lt;b&amp;gt;Peter de Vroomen&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Synertec_Sim1_KTM2_s1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;COMPLETE SYSTEM&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Complete system with monitor, tape recorder, RAM expansion card, external PSU, Synertek BASIC interpreter and a whopping 8 KB of available RAM.&amp;lt;p class=&amp;quot;petitgris&amp;quot;&amp;gt;Thanks to &amp;lt;b&amp;gt;Peter de Vroomen&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Synertec_Sim1_CompleteSys_s1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;SYNERTEK DOCUMENTATION&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Synertec_Sim1_DocSet_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;THE BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Synertec_Sim1_Box_1.jpg</link>
+        </shot>
+    </screenshots>
+    <size></size>
+    <sound>Built-in loudspeaker</sound>
+    <speed>1 MHz</speed>
+    <switches></switches>
+    <text>6 digit LED display</text>
+    <type>Home Computer</type>
+    <vram></vram>
+    <year>1978</year>
+</computer>

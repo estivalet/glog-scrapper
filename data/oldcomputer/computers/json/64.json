@@ -1,0 +1,320 @@
+{
+  "name": "Amiga 600",
+  "manufacturer": "Commodore",
+  "type": "Home Computer",
+  "origin": "U.S.A.",
+  "year": "March 1992",
+  "production": "1993",
+  "language": "",
+  "keyboard": "Built-in keyboard, 78 keys",
+  "cpu": "Motorola MC68000",
+  "speed": "7.09379 MHz (PAL)7.15909 MHz (NTSC)",
+  "coprocessor": "ECS based chipset: 8375 Fat Agnus (memory controller and blitter), 8373 ECS Denise (video control chip), 8364R7 Paula (sound \u0026amp; I/O), Gayle (I/O, IDE interface)",
+  "ram": "1 MB Chip RAM, expandable to 6 MB max (2 MB Chip RAM + 4 MB Fast RAM)",
+  "vram": "",
+  "rom": "Kickstart 2.05: 512 KB",
+  "text": "",
+  "graphics": "320x256, 320x512, 640x256, 640x480, 640x512, 1280x200, 1280x256",
+  "colors": "Palette: 4096On screen: 4 in 1280 modes, 16 in 640 modes, 32 in 320 modes, 64 in EHB, 4096 in HAM",
+  "sound": "4 channel 8 bit PCM, stereo output",
+  "size": "14\u0027\u0027 deep x 9.5\u0027\u0027 wide x 3\u0027\u0027 high / 6 lbs",
+  "ports": "RS-232 serial port, Centronics parallel port, external disk interface, 2x RCA audio, PCMCIA/JEIDA card interface, IDE hard drive interface, composite video out, RF out, 2x Atari joystick/mouse ports",
+  "power": "External PSU",
+  "price": "?399 (U.K. 1992)",
+  "description": "\nAfter being on sale for only a few months the Amiga 500 Plus was replaced with the Amiga 600 in March 1992. \n\nThe smallest Amiga ever made, it is similar in size to a laptop and weighs just 6 lbs. Originally the A600 was to be sold alongside the A500+ as a budget model to be named the Amiga 300, but instead replaced the A500+ which required a name change. \n\nVery early models of the A600 have A300 printed on their motherboards, an indication of the confusion that was taking hold at Commodore after the surprise launch of the A500+. These early models also have a slightly different version of AmigaOS (although it is still version 2.05, it has the internal revision number 37.299) which doesn\u0027t have built-in support for the IDE or PCMCIA interfaces, the drivers for which must be loaded from a floppy disk. Later revisions of the AmigaOS (versions 37.300 \u0026amp; 37.350) have these drivers built-in.\n\nThe small size of the A600 also added to the incompatibility problems of the A500+. The numeric keypad had been removed from the A600 and this added hardware incompatibility to the already existing AmigaOS incompatibilities. Problems occurred with software that used the numeric keypad for inputs, mostly flight sims but also things like spreadsheets or office software, although a numeric keypad emulator was later released to address this problem.\n\nAs usual with the Amiga there were a number of official and unofficial bundles were available, with prices starting at ?399. Also released was the Amiga 600HD which included a built-in hard drive.\n\nBut with the release of the powerful new Amiga 1200 later the same year, and at the same price as the A600, a great opportunity was missed. By this time sales of the Amiga\u0027s great rival the Atari ST were slowing considerably and instead of marketing the A600 as a budget machine (as it should have been originally), it was effectively pushed out of the market thanks to competition from Commodore themselves.\n_______________________",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;AMIGA 600\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/commodore_amiga600_front_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;A600\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Commodore_Amiga600_System_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;WITH PSU \u0026amp; MOUSE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Commodore_Amiga600_System_s3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;RUNNING WORKBENCH 2.0\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Commodore_Amiga600_Running_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LEFT \u0026amp; RIGHT SIDES\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;On the right hand side: floppy disk drive, mouse and joystick DB9 connectors.\u0026lt;br\u0026gt; On the left hand side: PCMCIA card slot.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Commodore_Amiga600_Sides_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR CONNECTORS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;From left to right:\u0026lt;br\u0026gt; \u0026bull; External FDD DB23 connector\u0026lt;br\u0026gt; \u0026bull; Serial DB25 port\u0026lt;br\u0026gt; \u0026bull; Parallel DB25 port\u0026lt;br\u0026gt; \u0026bull; Left \u0026amp; right audio jacks\u0026lt;br\u0026gt; \u0026bull; Video DB23 connector\u0026lt;br\u0026gt; \u0026bull; Composite video jack\u0026lt;br\u0026gt; \u0026bull; RF modulator jack, channel selector and adjustment\u0026lt;br\u0026gt; \u0026bull; Power plug. \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Commodore_Amiga600_RearConn_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;OPENED\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The motherboard is protected against magnetic fields by a metallic cover.\u0026lt;br\u0026gt; Note the empty RAM expansion location and the support for an optional 2.5\u0026quot; hard disk drive. \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Commodore_Amiga600_Opened_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MOTHERBOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(1)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Gayle Chip, controls the IDE HDD connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(2)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Kickstart V2.05, holds all the I/O routines, may be compared with the PC\u0027s BIOS ROM\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(3)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Motorola MC-68000 processor\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(4)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; PCMCIA connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(5)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Fat Agnus chip. Among other things, controls the memory addressing (up to 6 MB), the system clock, DMA channels and parts of the display graphics\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(6)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Super Denise chip, in charge of most of the graphics related tasks\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(7)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; IDE HDD connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(8)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; TV/RF modulator\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(9)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Keyboard connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(10)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Zorro interface connector, intended for RAM extension cards\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(11)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 1st CIA chip, Manages serial communications between the main unit and peripherals. A 2nd CIA chip is located next to the FDD connector\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(12)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Paula chip, provides the 4-channel audio sound, also controls the FDD interface\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(13)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 1 MB RAM chips\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;(14)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Internal FDD connector.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Commodore_Amiga600_Mainboard_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;USER\u0027S MANUALS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Commodore_Amiga600_Manuals_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LAPTOP PROTOTYPE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;One of the numerous attempts in designing a portable version of the Amiga system. Same design was applied to the Amiga 1200 version.     \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Moshe Elmashali\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Commodore_Amiga600_Proto_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT.\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/timex_sinclair-1000_leaflet.JPG"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROMOTIONAL LEAFLET\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Juan Antonio Maestre for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/trQ_h21_ss_catalog.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1977) #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This advert (May 1977) introduced the \u0026lt;b\u0026gt;System 16\u0026lt;/b\u0026gt;, same as assembled System 7 with 16 Kb of RAM. ($1995)\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Polymorphic_Poly88_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US BROCHURE (RECTO)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Chris Collman for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sanyo_mbc1000_brochure_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT (JANUARY 1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;A computer for all french people\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/smt_goupil2_ad_pourtouslesfrancais.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Picture courtesy of \u0026lt;a href\u003d\u0026sect;http://www.sbrowning.com/vintage\u0026sect;\u0026gt;Steve Browning, www.sbrowning.com/vintage\u0026lt;/a\u0026gt;.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sinclair_zx80_advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT, OCT. 1983\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;From Personal Computer World magazine.\u0026lt;br\u0026gt; Advert says:\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; This is an entirely new computer system. It was designed with both eyes fixed firmly on the future. So that whatever shape the future takes, we\u0027ll be able to fit it into the system. Just as simply as the peripherals and software already available fit into the system. That way, the system will grow with you. And you\u0027ll never get left behind. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Based around the Z80A microprocessor, and utilising Microsoft BASIC, Aquarius has 8K ROM and 4K RAM resident within its console. It is able to provide up to 16 colours and resolution of 320 x 192, and generates its sound directly through the television\u0027s speakers. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; With twin cartridge ports, the mini-expander allows simultaneous use of additional RAM and software cartrldges. Twin disc game hand controls are included and the unit provides two additional sound channels. The 16K RAM cartridge plugs into either the console or the mini-expander, increasing Aquarius\u0027s RAM capacity to 20K. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; With the ability to reproduce the entire graphic and character set of Aquarius at 80 characters a second, the printer\u0027s 40 column output allows transcription of the complete monitor image. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Using standard audio cassettes, the data recorder provides storage for programs and information, and allows the use of cassette based software. Incorporating a digital tape counter and transmission indicator, it operates sequential searching. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; A large number of games, designed to take advantage of Aquarius\u0027s sophisticated colour and sound capabilities, are available on cartridges that plug into the console either direct, or through the mini-expander. Cassette based games can be used via the data recorder. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; A wide range of preprogrammed cartridges is available, including the LOGO teaching program and practical home data systems like FILEFORM and the spreadsheet calculator package FINFORM. \u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Mattel_Aquarius_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This advert dated september 1983 says : \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026quot;\u0026lt;b\u0026gt;Orchid\u0026eacute;e : the fabulous computer\u0026lt;/b\u0026gt; (!)\u0026lt;br\u0026gt; With Orchidee, discover you can drive a formula 1 computer and never open the hood. Orchidee offers power and speed of a real professional computer with, as a gift, a lot of innovations never yet combined : interchangeable processors, including the fabulous IAPX 186, removable software cartridges, mouse, light pen. Whether you are a computer specialist or not, you have a fabulous professional tool.\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/symag_orchidee_pub_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT, JULY 1985\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;We love this photo!\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Tandy_200_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT MARCH 1982\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;From Personal Computing, March 1982 issue.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;\u0026lt;a href\u003d\u0026quot;http://www.aci.com.pl/mwichary/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Attached\u0026lt;/a\u0026gt;\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Apple_III_AdvertUS0382_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT (1984)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/tandy_1000_ad_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (JULY 1985)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Page 1\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/amstrad_cpc664_pub_haute-performabce-p1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said: \u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; ...You will get more performances than with the IBM PC, the Apple II, TRS80 Model II or TRS80 Model III along with software support of TRSDOS or CP/M, the two most widely used operating systems. This means you, the user, can select from the largest base of business or personal software... \u0026lt;font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/LNW_LNW80_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SILEX DOCUMENTATION\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/leanord_silex_doc1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/mbc_alcyane_ad_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. AD (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;In this advert, Altos emphasized its software package offer.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt;You also get the new ALTOS ACCOUNTANT, a completely integrated business accounting system...\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; There\u0027s more. You get the unique ALTOS COMPUTER TUTOR, the self-teaching tutorial that provides simple, self paced, step-by-step training that make using the computer easy...\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Altos_System5_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;1976 PRICE LIST\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Notice that the 16K static RAM expansion is more expensive than the computer itself.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Mark Thompson\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Altair_8800_PriceList_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK BROCHURE #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Commodore_700_4pageLeaflet2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ADVERT #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/magnavox_odyssey2_ad_ouridea.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN LEAFLET #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;The Personal Computer MZ-811 is a class of itself. Its infinite applications mark it.\u0026quot; \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Courtesy of \u0026lt;b\u0026gt;www.sharpmz.org\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sharp_MZ800_GermanAd_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT, OCT 1985 \u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Yamaha_CX5MII_advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;RUSSIAN ADVERT - PAGE 2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Taras Ponomarev for this advert\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/agat_ad-elorg_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (APRIL 1987)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;You\u0027re never so well served than by yourself...\u0026quot; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026quot;...create your own micro-server on Thomson.\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_to9_advert_microserveur_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;THINKJET ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;August 1985\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/HP_150_Advert_s1.jpg"
+    }
+  ],
+  "hardwareDescription": "AS the A600 belongs to the Amiga family, all \u0026quot;compatible\u0026quot; devices are automatically listed.\n\nBut none of the devices listed on this page are in fact compatible with the A600, except for possibly the Midi Gold 500 and the Amiga 1300 genlock. The A600 lacked the required slot connector seen on the \u0026quot;Memory expansion board\u0026quot;, \u0026quot;Video board\u0026quot; and \u0026quot;Hard Disk card\u0026quot;, and did not have the expansion slot for the A570 (which was an Amiga 500 device only).",
+  "hardware": [
+    {
+      "type": "AUDIO",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/commodore_amiga_golden-hawk-midi-interface.jpg",
+          "description": "MIDI Gold 500 |||by Golden Hawk Technology|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MIDI GOLD 500 \u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;by Golden Hawk Technology\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is a MIDI interface for the Amiga 500, 2000, or 3000... \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; It features :\u0026lt;br\u0026gt; - one MIDI In\u0026lt;br\u0026gt; - two MIDI Out\u0026lt;br\u0026gt; - one switchable Out/Thru\u0026lt;br\u0026gt; - one MIDI/Serial Switch\u0026lt;br\u0026gt; - one Out/Thru Switch\u0026lt;br\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "CARDS",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/commodore_amiga1000_1300-genlock.jpg",
+          "description": "Amiga 1300|||Genlock|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;AMIGA 1300\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Genlock\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Commodore_Amiga1500_MemBoard_1.jpg",
+          "description": "Memory expansion board||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MEMORY EXPANSION BOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;2 / 4 / 6 / 8 MB expansion card here fitted with 2 MB.\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Commodore_Amiga1500_VideoBoard_1.jpg",
+          "description": "Video board||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;VIDEO BOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This board featured 2 MB of RAM and allowed the Amiga to be connected to a standard VGA monitor. All the video modes could be displayed, including the interlace one.\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "DRIVES",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/amiga_cdrom_a570_1.jpg",
+          "description": "A570 CD-ROM||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;A570 CD-ROM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to David Griffith for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Commodore_Amiga1500_HDBoard_1.jpg",
+          "description": "Hard Disk card||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;HARD DISK CARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;40 MB SCSI card from SUPRA CORP.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Additional SCSI devices could be connected in chain trough the back connector\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    }
+  ],
+  "emulator": [
+    {
+      "platform": "Windows emulator",
+      "name": "Amiga Forever",
+      "link": "http://www.amigaforever.com/",
+      "description": "Complete but commercial Amiga emulator"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "AMIthlon \u0026amp; AmigaXL",
+      "link": "http://amigaosxl.haage-partner.de/index-e.html",
+      "description": "Powerful commercial emulators"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "WinFellow",
+      "link": "HTTP://FELLOW.SOURCEFORGE.NET",
+      "description": "Probably better at some games than UAE, but not as versatile."
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "WinUAE",
+      "link": "http://www.winuae.net/",
+      "description": "The best Amiga emulator ? :-)"
+    },
+    {
+      "platform": "Apple emulator",
+      "name": "Max UAE",
+      "link": "http://maxuae.de/",
+      "description": "UAE for Mac OS X"
+    },
+    {
+      "platform": "Unix / Linux emulator",
+      "name": "AmigaSYS",
+      "link": "http://amigasys.fw.hu/",
+      "description": "AmigaSYS is a pre-installed full Amiga OS for WinUAE"
+    },
+    {
+      "platform": "Other platform emulator",
+      "name": "Pocket UAE",
+      "link": "http://pocketinsanity.sourceforge.net/",
+      "description": "Amiga Emulator for Pocket PC"
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "Experimental UAE",
+      "link": "http://www.rcdrummond.net/uae/",
+      "description": "Standard UAE enhanced with features from WinUAE."
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "MESS",
+      "link": "http://www.mess.org",
+      "description": "MESS now emulates the Commodore Amiga"
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "UAE",
+      "link": "http://www.freiburg.linux.de/~uae/",
+      "description": "(Ubiquitous Amiga Emulator) for BeOS, Mac OS, Linux, NextStep, MSDOS, OS/2 and Win95/NT : Homepage."
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d28",
+    "computer.asp?st\u003d1\u0026amp;c\u003d628",
+    "computer.asp?st\u003d1\u0026amp;c\u003d624",
+    "computer.asp?st\u003d1\u0026amp;c\u003d63",
+    "computer.asp?st\u003d1\u0026amp;c\u003d907",
+    "computer.asp?st\u003d1\u0026amp;c\u003d30",
+    "computer.asp?st\u003d1\u0026amp;c\u003d32",
+    "computer.asp?st\u003d1\u0026amp;c\u003d65",
+    "computer.asp?st\u003d1\u0026amp;c\u003d1260",
+    "computer.asp?st\u003d1\u0026amp;c\u003d1261",
+    "computer.asp?st\u003d1\u0026amp;c\u003d106",
+    "http://www.randelshofer.ch/animations/",
+    "http://amiga.emugaming.com/",
+    "http://www.virtualpast.de/",
+    "http://www.cucug.org/amiga.html",
+    "http://www.amigart.com",
+    "HTTP://WWW.BACK2ROOTS.ORG/",
+    "http;//www.lemonamiga.com",
+    "http://amiga.multigraph.com/",
+    "http://www.netbsd.org/Ports/amiga/index.html",
+    "http://www.old-computer-mags.com/",
+    "http://www.recordedamigagames.org",
+    "http://www.retropack.co.uk/",
+    "http://ourworld.compuserve.com/homepages/MikeWebb/amhome.html",
+    "http://www.amiga-hardware.com/",
+    "http://eab.abime.net/",
+    "http://www.amiga.org/",
+    "news:comp.binaries.amiga",
+    "news:comp.sources.amiga",
+    "news:comp.sys.amiga.advocacy",
+    "news:comp.sys.amiga.announce",
+    "news:comp.sys.amiga.announce",
+    "news:comp.sys.amiga.emulations",
+    "news:comp.sys.amiga.games",
+    "news:comp.sys.amiga.hardware",
+    "news:comp.sys.amiga.marketplace",
+    "news:comp.sys.amiga.misc",
+    "news:comp.sys.amiga.programmer",
+    "news:comp.sys.amiga.programmer"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/Commodore_Amiga600_System_s1.jpg",
+  "builtInGames": "3.5\u0027\u0027 floppy disk drive",
+  "controllers": "",
+  "media": "3.5\u0027\u0027 floppy disk drive",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computer>
+    <adverts>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;JAPANESE ADVERT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/panasonic_fs-a1wx_advert_1.jpg</link>
+        </advert>
+    </adverts>
+    <batteries></batteries>
+    <builtInGames>MSX-BASIC V3.0</builtInGames>
+    <buttons></buttons>
+    <colors>19268</colors>
+    <controllers></controllers>
+    <coprocessor>Yamaha V9958 Video Display Processor</coprocessor>
+    <cpu>Z80B</cpu>
+    <description>
+After Microsoft left the MSX project in 1986, ASCII continued alone. They presented a new improvement of the MSX 2 standard in 1988.
+
+No great enhancements, the MSX 2+ has 19268 colors instead of 512, some more graphic / KANJI resolutions and the built in MSX-Music, providing 9 channels of FM sound without drums or 6 channels FM sound with 5 FM drums.
+
+The Panasonic FS A1 WX features the Rensha Turbo, which is a built-in auto-fire system. The repetition speed can be adjusted with a slider. Its ROM contains A1 Cockpit Internal Software, MSX Word Processor, MSX-JE, FM-BIOS (MSX Music Basic ROM) and JIS 1st+2nd Class Kanji Support (256KB).
+
+The Panasonic FS A1 WSX is the successor of the FS A1 WX from which it differs very slightly: no tape support anymore, S-Video interface added and color print support with Word Processor (and color printer).
+
+Contrary to Sony and Sanyo MSX2+ systems which used a Z80A, the Panasonic systems used a Z80B cpu which could be set up to 6 MHz.
+ 
+
+
+</description>
+    <emulators>
+        <emulator>
+            <description>Excellent emulator for Windows</description>
+            <link>http://www.bluemsx.com/</link>
+            <name>BlueMSX</name>
+            <platform>Windows emulator</platform>
+        </emulator>
+        <emulator>
+            <description>This new MSX emulator can reproduce, among many other MSX, MSX2and  MSX2+ machines, both Panasonic Turbo-R models. Be sure to get the catapult frontend and the system roms from FUNET. </description>
+            <link>http://openmsx.sourceforge.net/</link>
+            <name>openMSX - The MSX emulator that aims for perfection.</name>
+            <platform>Multiplatform emulator</platform>
+        </emulator>
+    </emulators>
+    <graphics>Same as MSX2 specs, plus 256 ?~ 212/424 (19268 colors), 512x212 (16 colors)Additional KANJI screen modes (Japanese text screen modes): 40x24, 32x24, 256x192, 64x48</graphics>
+    <gun></gun>
+    <hardwares>
+        <hardware type="FS PA1 - PRINTER">
+            <items>
+                <item>
+                    <description>Printing||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;PRINTING&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/panasonic_fs-pa1_printer_1.jpg</photo>
+                </item>
+                <item>
+                    <description>Box||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/panasonic_fs-pa1_printer_box.jpg</photo>
+                </item>
+            </items>
+        </hardware>
+    </hardwares>
+    <image>http://www.old-computers.com/museum/photos/panasonic_fs-a1wsx_1.jpg</image>
+    <keyboard>Full-stroke keyboard with 5 function keys, 4 arrow keys, numeric keypad &amp;amp; several special keys</keyboard>
+    <language>MSX-BASIC V3.0</language>
+    <links>
+        <link>computer.asp?st=1&amp;amp;c=626</link>
+        <link>computer.asp?st=1&amp;amp;c=291</link>
+        <link>computer.asp?st=1&amp;amp;c=778</link>
+        <link>computer.asp?st=1&amp;amp;c=779</link>
+        <link>http://www.file-hunter.com/</link>
+        <link>http://www.file-hunter.com/</link>
+        <link>http://www.faq.msxnet.org/msx2p.html</link>
+    </links>
+    <manufacturer>Panasonic</manufacturer>
+    <media>720 KB 3,5'' floppy drive built in</media>
+    <name>FS A1 WX / WSX</name>
+    <numGames></numGames>
+    <origin>Japan</origin>
+    <peripherals></peripherals>
+    <ports>Joysticks, Cardridge(2), Tape(1200/2400 bauds), RGB video output, CVBS/RF video output, Centronics, Sound output</ports>
+    <power>Built-in PSU</power>
+    <price></price>
+    <production></production>
+    <ram>64 KB</ram>
+    <rom>32 KB (Basic &amp;amp; BIOS) + 16 KB (SUB ROM &amp;gt; MSX-BASIC V3.0) + 16 KB (KANJI BASIC ROM + KANJI ROM) + 16 KB (DISK ROM)  + 16 KB (built-in software)</rom>
+    <screenshots>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;FS A1 WX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/panasonic_fs-a1wx_2.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;FRONT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/panasonic_a1wx_2.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;LEFT SIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/panasonic_a1wsx_vm_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;LEDS CLOSE-UP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/panasonic_fsa1wx_leds.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;REAR&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/panasonic_fs-a1wx_rear.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;REAR #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;From left to right : &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; - Tape interface (DB8)&amp;lt;br&amp;gt; - RGB video output (DB8)&amp;lt;br&amp;gt; - Composite video output (cinch)&amp;lt;br&amp;gt; - Audio output (cinch)&amp;lt;br&amp;gt; - Channel 1/2 switch&amp;lt;br&amp;gt; - RF video output&amp;lt;br&amp;gt; - Printer connector&amp;lt;br&amp;gt; - Expansion bus&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/panasonic_fsa1wx_rear2.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;WSX BOX&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/panasonic_fs-a1wsx_box_1.jpg</link>
+        </shot>
+    </screenshots>
+    <size></size>
+    <sound>PSG (3 voices) + MSX-Music (OPLL YM-2413, 9 channel FM synthesizer)</sound>
+    <speed>3.57 Mhz and 6 Mhz</speed>
+    <switches></switches>
+    <text>40 x 24 / 32 x 24</text>
+    <type>Home Computer</type>
+    <vram>128 KB</vram>
+    <year>A1 WX : 1988A1 WSX : 1989</year>
+</computer>

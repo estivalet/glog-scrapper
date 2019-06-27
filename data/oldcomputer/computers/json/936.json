@@ -1,0 +1,87 @@
+{
+  "name": "PC-1210 / 1211 / 1212",
+  "manufacturer": "Sharp",
+  "type": "Pocket",
+  "origin": "Japan",
+  "year": "1980",
+  "production": "",
+  "language": "BASIC interpreter",
+  "keyboard": "57 keys, QWERTY calculator type with numeric key-pad",
+  "cpu": "Sharp CMOS SC-43177(A) and SC43178 (4 bits)",
+  "speed": "256 kHz",
+  "coprocessor": "",
+  "ram": "PC-1210: 896 Bytes (400 steps / 50 memories available for user)PC-1211/12: 1920 Bytes (1424 steps, 178 memories)",
+  "vram": "",
+  "rom": "11,2 kB (?)",
+  "text": "1 line x 24 chars. (LCD screen)",
+  "graphics": "None",
+  "colors": "Black and White",
+  "sound": "CPU controlled piezo buzzer, fixed frequency and duration",
+  "size": "175 (W) x 70 (D) x 15 (H) mm / 170 g",
+  "ports": "9 pin expansion port for printer and cassette interface",
+  "power": "4 x 1,35 V button cell MR44 or similar",
+  "price": "PC-1210: $125.- (USA 03.1980)PC-1211: 200  (Germany, France - 1980)PC-1212: 125  (Germany, 05.1983)",
+  "description": "\nThe Sharp PC-121x series is generally regarded as the first commercially available pocket computers ever. Its design was based on the way normal pocket calculators were built, but the case was turned 90 degrees to allow for a wider display, and most mathematical function keys were replaced with alphanumerical keys. Its main intended use was BASIC programming, although it could be used as a calculator as well, by simply typing in the math functions with the alphanumerical keyboard in one line of up to 80 characters.\n\nAs for the release date of the different models, sources somewhat differ, but based on model numbers and a careful examination of exemplars of all three types, the following course of events seems the most probable: The PC-1210 was the first model, released in 1980. Contrary to the other models, it had only 896 bytes of RAM (1 RAM chip of 1k*4bit \u003d 512 Bytes, plus 3 times 128 Bytes incorporated in the three display chips), resulting in 400 Bytes user memory, shared between BASIC (max. 400 steps) and variables, the so-called \u0026quot;flexible memories\u0026quot; (max. 50). Moreover, there are 26 \u0026quot;fixed memories\u0026quot; (A~Z) and 48 steps \u0026quot;reserve memory\u0026quot;, which do not use up any user memory. When looking at the \u0026quot;inner values\u0026quot;, the PC-1210 looks a bit like a prototype, as there are multiple \u0026quot;fixes\u0026quot; on the PCBs, and a small additional PCB with a single logic chip had been squeezed in, which is missing in the later models.\n\nThis first model was quickly replaced by the PC-1211, which was released in the same year, and had two additional RAM chips, thus having 1920 bytes of RAM at its command (1424 steps, 178 flexible memories). The PCB had been slightly redesigned, and some of the chips updated.\n\nAt the same time, it was also marketed by Tandy/Radio Shack as the TRS-80 Pocket Computer, which had a slightly earlier version of the main PCBs (judging from the fixes), a slightly different look (outer plastic parts in black, not brown, and gray display frame), but exactly the same technical data.\n\nIn 1983, the PC-1211 was re-released as the PC-1212. The innards are exactly the same (identical PCB number). Allegedly, some minor changes had been made to the ROMs, and the only visible difference was that the display does not have the strangely yellowish background colour, but looks like any LCD as they are commonly known.\n\nThe PC-121x series provided a display of 24 characters (some of the later Sharp PCs had even less!), and was a pseudo \u0026quot;multi-processor system\u0026quot; with two 4bit-CPUs. However, this design was probably not chosen in order to improve speed, but simply because the available CMOS processors did not have enough on-board ROM to implement BASIC functionality in one CPU alone. Thus, they basically do not work in parallel, but in a \u0027time sharing\u0027 manner: CPU I functions to read key-in data or read the instruction to be executed from RAM, and scheduling math operations and BASIC statements. Operations are then performed by CPU II, which also handles display and buzzer output as well as low-level printer and cassette functions.\n\nThe picture represents a PC-1210 with the CE-122 printer and cassette interface unit (single needle mechanical dot printer). Other peripherals were the CE-121 cassette interface, and the CE-152 tape recorder, which could of course be used with most other models as well.\n\nSpecial thanks to Roman von Wartburg and his site for all this information.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LARGE VIEW\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Sharp_PC1211_System_s3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CLOSE-UP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Sharp_PC1211_CloseUp_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PC-1211 AND PC-1212\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Externally, the only difference between the two versions is the LCD display background colour, grey for the PC-1212, greenish-yellow for the PC-1211.\u0026lt;br\u0026gt; Internally, the ROM content has been slightly improved.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Sharp_PC1211_12111212_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CE-122\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;PC-1212 and CE-122 printer and cassette interface unit in their carrying case.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Sharp_PC1211_CE122Case_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;USER MANUALS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Sharp_PC1211_Manuals_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (JAN. 1981)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Sharp 1211 advert from ILLEL, a french computer seller\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sharp_pc1211_advert-fr_1_s.png"
+    }
+  ],
+  "hardware": [],
+  "emulator": [
+    {
+      "platform": "Unix / Linux emulator",
+      "name": "POEMS",
+      "link": "http://sourceforge.jp/projects/poems/",
+      "description": "PC-12xx, 14xx \u0026amp; 13xx emulator"
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "PockEmul",
+      "link": "http://pockemul.free.fr/",
+      "description": "Emulates nearly all Sharp pocket computers!"
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d1135",
+    "computer.asp?st\u003d1\u0026amp;c\u003d1091",
+    "computer.asp?st\u003d1\u0026amp;c\u003d466",
+    "computer.asp?st\u003d1\u0026amp;c\u003d1170",
+    "computer.asp?st\u003d1\u0026amp;c\u003d1173",
+    "computer.asp?st\u003d1\u0026amp;c\u003d965",
+    "computer.asp?st\u003d1\u0026amp;c\u003d184"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/Sharp_PC1211_System_s2.jpg",
+  "builtInGames": "BASIC interpreter",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "CE-121 cassette interfaceCE-122 printer and cassette interface (single needle impact printer)CE-152 tape recorder",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

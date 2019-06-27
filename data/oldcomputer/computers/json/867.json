@@ -1,0 +1,142 @@
+{
+  "name": "RT (6150)",
+  "manufacturer": "IBM",
+  "type": "Professional Computer",
+  "origin": "U.S.A.",
+  "year": "late 1986",
+  "production": "",
+  "language": "None",
+  "keyboard": "Special RT 102-key  keyboard, PC-AT layout.",
+  "cpu": "ROMP RISC processor",
+  "speed": "5.88, 10 or 12.5 MHz (170, 100 or 80ns cycle time)",
+  "coprocessor": "Memory Management Unit (MMU), optional 20 MHz Motorola 68881 Math coprocessor",
+  "ram": "From 1 MB to 16 MB",
+  "vram": "",
+  "rom": "Unknown",
+  "text": "80 chars. x 25 lines",
+  "graphics": "720 x 512 (mono or colour), 1024 x 768 (mono)",
+  "colors": "16",
+  "sound": "Beeper",
+  "size": "Unknown",
+  "ports": "2 x serial ports",
+  "power": "Built-in power supply unit",
+  "price": "From ?9800",
+  "description": "\nThe IBM RT (or PC/RT or 6150 in Europe) was a 32-bit RISC machine. In fact \u0027RT\u0027 meant \u0027RISC Technology\u0027 where RISC itself was initials of Reduced Instruction Set Computers. This machine was IBM\u0027s first try into the single-user workstation world and was the ancestor of the RS/6000 range. \n\nThe advantages of RISC technology were smaller processor chips, since they needed less on-chip storage for the instruction set, faster signal transfer between devices, and faster instruction execution since the reduced set was designed so that most instructions was executed in a single clock cycle.\n\nThe RISC processor of the 6150 was called ROMP for Reshearch Office Products Division. Its study started in IBM Texas labs in 1977 and a prototype form ran in 1978\n\nThere were two RT models, the floor-standing 6150 and the desktop 6151. The differences between them lie in the positioning of some I/O ports and in the storage options available.\nDespite processor incompatibility with MS-DOS software, the 6150 could run PC software thanks to a PC expansion card holding a Intel 80286 and designed to fit in one of the AT compatible slots of the 6150. the motherboard featured four 32-bit expansion slots to hold the ROMP board, an optional floating-point accelerator board, and two 2 MB RAM boards; two 8-bit and six 16-bit PC slots.\n\nThe 6150 operating system was called AIX for Advanced Interactive eXecutive. It succeded to IBM OSes. In fact, it was just an Unix System V with Berkeley 4.2 enhancements and IBM adds for the 6150 environment. Among these adds, the VRM (Virtual Ressource Manager) handled the interface between the Unix kernel and the specific 6150 harware it ran on. A DOS shell was also provided for MS-DOS applications. \n\nNowadays, one finds RISC processors mainly in numerous small devices like PalmTops or mobile phones. Apple and IBM also use them today, the biggest examples being the PowerPC 7455 (G4) and PowerPC G5 Processor, mostly used in the Power Macintosh and Powerbook series of computers. Many Proprietary Unix systems used them up until only a few years ago (Sun, Silicon Graphics).\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BACK SIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;No doubt, the 6150 hardware is very reliable and designed for a long use.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/IBM_6150_Back_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (FEB. 1986)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Educatel advert for their correspondance courses using the Microlab system.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/educatel_microlab_advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT, JAN. 1984\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Seductive Sanco computing.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Treat you to a star for less than 3,000 Euros\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Sanco_8000_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (AUGUST 1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is an advert for the Yannick Noah Tennis cartridge. The game is only called \u0026quot;Grand Slam Tennis\u0026quot; on the Emerson Arcadia 2001, but in France was marketed with the most famous french tennis player\u0027s name, Yannick Noah.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/advision_home-arcade_advert_yannick-noah-tennis.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PRIMO ADVERT #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Primo_A32_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (DEC.1983)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Evolutiv system : Casio\u0027s answer\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/casio_fp1000_ad-popcornmicro.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sinclair_ql_sicob_advert.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/digital_VT180_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FIRST AD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;February 1983\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; For years, people have been trying to build a better Apple II.\u0026lt;br\u0026gt; It finally happened.\u0026lt;br\u0026gt; Meet the Apple IIe, an impressive new version of a most impressive machine.\u0026lt;br\u0026gt; The \u0027e\u0027 means enhanced. Which means a bundle of new features...\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Apple_2e_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GERMAN ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is a German advertisement for the BIT-60 and BIT-90 models. Atari VCS-2600 cartridges are scattered in front of the BIT-60, to show that the BIT-60 is really compatible with the VCS-2600 ! But strangely enough, there is no picture displayed on the TV. Were these models really  working ? ;-)\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/bit-corp_bit60-90_ad_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SOL PRICE LIST\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;\u0026lt;u\u0026gt;Sol Systems price list (january 1977)\u0026lt;/u\u0026gt;\u0026lt;/b\u0026gt; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; (K) \u003d Kit   (A) \u003d Assembled\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Sol Terminal Computers\u0026lt;br\u0026gt; \u0026lt;/b\u0026gt;SOL-PC Single board (K) \u0026lt;b\u0026gt; $475\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; SOL-10 (K) \u0026lt;b\u0026gt; $795\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; SOL-20 (K) \u0026lt;b\u0026gt; $995\u0026lt;/b\u0026gt; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Memory Modules\u0026lt;/b\u0026gt; \u0026lt;br\u0026gt; PROM Resident Assembly Language (A) \u0026lt;b\u0026gt;$425\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; Interpretive Simulator (PROM option) (A) \u0026lt;b\u0026gt;$95\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; Text Editing (PROM option) (A) \u0026lt;b\u0026gt;$95\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; Erasable PROM module (K) \u0026lt;b\u0026gt;$65  \u0026lt;/b\u0026gt;(A) \u0026lt;b\u0026gt;$89\u0026lt;/b\u0026gt; \u0026lt;br\u0026gt; 4 Kb. low power static Ram (K) \u0026lt;b\u0026gt; $159\u0026lt;/b\u0026gt;  (A) \u0026lt;b\u0026gt; $195\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; 8 Kb. low power static Ram (K) \u0026lt;b\u0026gt;$295\u0026lt;/b\u0026gt;  (A) \u0026lt;b\u0026gt;$375\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; 16 Kb. Dynamic Ram  (A) \u0026lt;b\u0026gt;$529\u0026lt;/b\u0026gt; \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Interface Modules\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; Parallel / Serial I/O Module  (K) \u0026lt;b\u0026gt;$149\u0026lt;/b\u0026gt;  (A) \u0026lt;b\u0026gt;$199\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; System cassette interface  (K) \u0026lt;b\u0026gt;$87 \u0026lt;/b\u0026gt; (A) \u0026lt;b\u0026gt;$119\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; Video Display Module  (K) \u0026lt;b\u0026gt;$199 \u0026lt;/b\u0026gt; (A) \u0026lt;b\u0026gt;$295\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; \u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Mass Storage System\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; Helios II Disk system  (K) \u0026lt;b\u0026gt;$1895\u0026lt;/b\u0026gt;  (A) \u0026lt;b\u0026gt;$2295\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Software\u0026lt;br\u0026gt; \u0026lt;/b\u0026gt;(C) \u003d Cassette  (P) \u003d Paper tape\u0026lt;br\u0026gt; Basic 5  (P) \u0026lt;b\u0026gt;$19.95\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; 8K Basic (C) \u0026lt;b\u0026gt;$29\u0026lt;/b\u0026gt;  (P) \u0026lt;b\u0026gt;$37\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; New 8080 Focal  (C) \u0026lt;b\u0026gt;$14.50\u0026lt;/b\u0026gt;  \u0026lt;br\u0026gt; Trek 80 Video game  (C) \u0026lt;b\u0026gt;$9.50\u0026lt;/b\u0026gt;  (P) \u0026lt;b\u0026gt;$14.50\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; GamePack 1  (C) \u0026lt;b\u0026gt;$9.50\u0026lt;/b\u0026gt;  (P) \u0026lt;b\u0026gt;$14.50\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; MathPack Video calculator  (C) \u0026lt;b\u0026gt;$14.50\u0026lt;/b\u0026gt;  (P) \u0026lt;b\u0026gt;$19.50\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; Assembler  (C) \u0026lt;b\u0026gt;$14.50\u0026lt;/b\u0026gt;  (P) \u0026lt;b\u0026gt;$19.50\u0026lt;/b\u0026gt;\u0026lt;br\u0026gt; ALS 8  (C) \u0026lt;b\u0026gt;$35\u0026lt;/b\u0026gt; (P) \u0026lt;b\u0026gt;$45\u0026lt;/b\u0026gt; \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/ProcessorTech_Sol_System_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT#2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is another french advert, not from CBS, but from an independant store \u0026quot;le jeu electronique\u0026quot;. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Only the expansion module #3 was available in France and people had to buy a Colecovision if they wanted to have an Adam !\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/coleco_adam_advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;AUSTRALIAN TANDY CATALOGS (1993)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;WP-3 model\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/tandy_wp3_ad_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (JULY 1985)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;compare!\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/oric_atmos_pub_comparez.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;One of the first 1982 U.S. Advert.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Advert said \u0026lt;br\u0026gt;\u0026lt;br\u0026gt;THE COMMODORE 64 COULD BE THE MICROCOMPUTER INDUSTRY\u0027S OUTSTANDING NEW PRODUCT INTRODUCTION SINCE THE BIRTH OF THIS INDUSTRY.  (Shearson / American Express) \u0026lt;br\u0026gt;\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt;             The value of a computer is determined by what it can do. What it can do is largely determined by its memory.\u0026lt;br\u0026gt;             The Commodore 64\u0027s basic RAM is 64K. This amount of power is unusual in a micro at any price.\u0026lt;br\u0026gt;             At $595 it is astonishing.\u0026lt;br\u0026gt;             Compared with an Apple II+, for instance, the Commodore 64 offers 33% more power and considerably les than 50% of the cost.\u0026lt;br\u0026gt;             Compared with anything else, it\u0027s even more impressive...\u0026lt;br\u0026gt;\u0026lt;br\u0026gt;             If you\u0027ve been waiting for the \u0026quot;computer revolution\u0026quot;, consider it as having arrived...  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Commodore_64_Advert_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;POPULAR ELECTRONICS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Cover and extracts of a 6 page article in the January 1975 issue of Popular Electronics\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Altair_8800_PopularElectronics_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DAK ADVERT (US, 1986) - PAGE 2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.dak.com\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;DAK\u0026lt;/a\u0026gt; for this advert\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/visual_commuter_ad_dak_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;UK ADVERT \u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;One of the first advert for the Atari 520ST checked against an Apple Mac and an Apricot computer. \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Bradley Sturch\u0026lt;/b\u0026gt;\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Atari_520ST_Advert_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT, SEPTEMBER 1985\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Vtech_Laser3000_Advert_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (SEPT. 1987)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;Arcades games in an armchair\u0026quot;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sega_sms_advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;JAPANESE ADVERT (1985)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;a href\u003d\u0026quot;http://www.pugly.juice.or.jp/pugly/oldpc/\u0026quot; target\u003d\u0026quot;_blank\u0026quot;\u0026gt;Pugly\u0027s web site\u0026lt;/a\u0026gt; for this picture.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/nec_pc6601_advert.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;NEW ZEALAND ADVERT  #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert says:\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; Imagine a microcomputer with all the design savvy, ruggedness, and sophistication of the best minicomputers.\u0026lt;br\u0026gt; Imagine a microcomputer supported by dozens of interface, memory and processor option boards. One that can be Interfaced to an indefinite number of peripheral devices including dual floppy discs, CRTs, line printers, cassette recorders, video displays, paper tape readers, teleprinters. plotters, and custom devices.\u0026lt;br\u0026gt; Imagine a microcomputer supported by extensive software IncludIng Extended BASIC, DISK BASIC, DOS and a complete library of business, developmental, and Industrial programs.\u0026lt;br\u0026gt; ImagIne a microcomputer that will do everything a mini will do, only at a fraction of the cost.\u0026lt;br\u0026gt; You are imagining the Altair 8800b. The Altair 8800b is here today, and it may very welt be the mainframe of the 70\u0027s. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; The Altair 8800b is a second generation design of the most popular microcomputer In the field, the Altair 8800. Built around the 8800A microprocessor, the Altair 8800b is an open ended machine that is compatible with all Altair 8800 hardware and software. It can be configured to match most any system need.\u0026lt;br\u0026gt; MITS\u0027 plug-In compatible boards for the Altair 8800b now include: 4K static memory. 4K dynamic memory, 16K static memory, multi-port serial interface, multi-port parallel interface, audio cassette record interface, vectored interrupt, real time clock, PROM board, multiplexer, AID convertor, extender card, disc controller and line printer interface.\u0026lt;br\u0026gt; MITS\u0027 peripherals for the Altair 8800b include the Altair Floppy Disc, Altair Line Printer, teletypewriters, and the soon-to-be-announced Altair CRT terminal. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; Introductory prices for the Altair 8800b are $840 for a kit with complete assembly instructions, and $1100 for an assembled unit. Complete documentation, membership into the Altair Users Club, subscription to \u0026quot;Computer Notes\u0026quot;, access to the Altair Software Library, and a copy of Charles J. Sippi\u0027s Microcomputer Dictionary are included.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;Murray Moffatt\u0026lt;/b\u0026gt; from New Zealand \u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Mits_Altair8800b_Advert_s2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ENGLISH ADVERT (1984)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;English advert for the 86A model.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Tony Mattson for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/advance-86a_advert_1s.gif"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026quot;TO8D, the smart present\u0026quot;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Yoann Riou for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/thomson_to8d_advert_cadeau-fute.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (JAN. 1981)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Sharp 1211 advert from ILLEL, a french computer seller\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sharp_pc1211_advert-fr_1_s.png"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [],
+  "image": "http://www.old-computers.com/museum/photos/IBM_6150_System_1.jpg",
+  "builtInGames": "None",
+  "controllers": "",
+  "media": "1 or 2 5.25\u0027\u0027 1.2 MB floppy disc drivesUp to three 40 MB or 70 MB hard disks",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

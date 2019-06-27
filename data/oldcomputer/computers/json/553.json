@@ -1,0 +1,61 @@
+{
+  "name": "JR-200U",
+  "manufacturer": "Panasonic",
+  "type": "Home Computer",
+  "origin": "U.S.A.",
+  "year": "January 1983",
+  "production": "1984",
+  "language": "JR Basic 5.0",
+  "keyboard": "Chicklet keyboard with basic statements printed on the keys, 64 keys",
+  "cpu": "MN 1800A (6802 compatible)",
+  "speed": "Unknown",
+  "coprocessor": "MN1544",
+  "ram": "36kb (32k + 2k for graphic characters + 2k VRAM)",
+  "vram": "2 kb",
+  "rom": "16 kb",
+  "text": "32 x 24",
+  "graphics": "64 x 48",
+  "colors": "8",
+  "sound": "3 voices, 5 octaves",
+  "size": "348 ? 208 ? 56 mm / 1,7 Kg",
+  "ports": "Composite video out, RF video out, RGB video out, Expansion bus, Tape (600/2400 bauds), RS-232c/printer port, External speaker",
+  "power": "AC100V 50/60Hz, 8w",
+  "price": "$349.95 (USA, march 1983)",
+  "description": "\nThis computer is the same as the Matsushita JR-200U.\n\nTwo years in the making, the Panasonic JR-200 computer was officially announced in January of 1983, with additional launch dates provided for the computer and peripherals. The JR-200u received early and strong support from two software publishing companies; Data-Most and Walt Disney Telecommunications. \nHaving the support of both of these companies, especially Data-Most, was crucial in Panasonic\u0027s strategy to successfully market this computer, as well as it\u0027s plans to have 30 software titles available by the official launch in the spring of 1983. Additionally, Panasonic planned for an additional 24 titles to become available by mid-summer of 1983 by consulting with other software developers.\n\nFrom the start, the Panasonic JR-200u was never meant to be a cartridge based machine. Panasonic had other plans for a cartridge based system which never materialized. Initially, software was to be developed first on cassette tapes, and later floppy disks.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR CONNECTORS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Panasonic_JR-200U_Back_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;US ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Panasonic_JR-200U_Advert_s1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [
+    {
+      "platform": "Windows emulator",
+      "name": "Virtual Panasonic JR-200U",
+      "link": "http://www.geocities.com/emucompboy/",
+      "description": "Thanks to James the Animal Tamer , there is now a JR200 emulator !"
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d324",
+    "http://www.armchairarcade.com/neo/node/1598",
+    "http://dec.sakura.ne.jp/~hayashi/jr/index.html"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/Panasonic_JR-200U_System_1.jpg",
+  "builtInGames": "JR Basic 5.0",
+  "controllers": "",
+  "media": "None",
+  "numGames": "",
+  "peripherals": "JR-F11 floppy disk-drive, JR-U07 Joystick interface, JR-U05 RS232 interface, JR-PO1 Centronics interface",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

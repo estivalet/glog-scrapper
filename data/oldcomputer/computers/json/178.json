@@ -1,0 +1,136 @@
+{
+  "name": "PC 8001",
+  "manufacturer": "NEC",
+  "type": "Home Computer",
+  "origin": "Japan",
+  "year": "1979",
+  "production": "",
+  "language": "BASIC interpreter",
+  "keyboard": "Full-stroke keyboard with numeric keypad, 5 function keys, JIS standard layout",
+  "cpu": "uPD 780c-1 (compatible with Z80)",
+  "speed": "4 MHz",
+  "coprocessor": "?PD3301D (CRT controller), ?PD8257C-5 (DMA controller)",
+  "ram": "16 KB (upgradable to 32 KB and 64 KB)",
+  "vram": "3 KB",
+  "rom": "24 KB",
+  "text": "36x20, 36x25, 40x20, 40x25, 72x20, 72x25, 80x20, 80x25",
+  "graphics": "160 x 100 (320 x 200 in option)",
+  "colors": "8",
+  "sound": "Built-in beeper",
+  "size": "440 x 265 x 80 mm / 4 Kg",
+  "ports": "Centronics, RS232c, IEEE 488 (optional), cassette interface (600 baud)",
+  "power": "AC100V?10% 50/60Hz, 20w",
+  "price": "168,000 yens (Japan, 1979)",
+  "description": "\nIn 1979, the NEC PC-8001 was an excellent machine, offering 8 colors when most of its competitors were still monochrome. There is even a (low) graphic resolution of 160 x 100 dots. It could display capital and small letters.\n\nThe PC-8001 had great success with Japanese businesses, where it was widely used. At the time, NEC claimed that the PC-8001 represented at least 45% of their home japanese market. This is when the PC serie from NEC and MZ serie from Sharp started competing!\n\nThe base system was 32K, but a company in Concord, CA. made a thing called the \u0026quot;WEDGE\u0026quot; that mounted below the Base system and added the needed 32K plus it had analog and digital input ports and other goodies.\n\nThe US version of the PC-8001 was named PC-8001A.\n\n________\n\nContributors : Jeff Denno\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PC-8001\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/nec_pc8001_4.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SYSTEM + PRINTER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/nec_pc8001_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;IN USE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Complete system in use, including NEC dual 5.25\u0026quot; floppy drives unit, hard disk unit and printer\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Nec_PC8000_InUse_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PC-8001A\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;U.S. version of the PC-8001\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Nec_PC8001_System_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;COMPLETE SYSTEM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Complete system with PC-8012 I/O unit and PC-8031 dual floppy drive unit \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Nec_PC8001_CompleteSyst_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SIDE VIEWS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Nec_PC8001_Sides_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;KEYBOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Nec_PC8001_Keyboard_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR SIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;\u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt;\u0026lt;/font\u0026gt; Reset switch\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;\u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt;\u0026lt;/font\u0026gt; Tape recorder DIN plug\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;\u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt;\u0026lt;/font\u0026gt; Monochrome composite video output\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;\u0026lt;b\u0026gt;(4)\u0026lt;/b\u0026gt;\u0026lt;/font\u0026gt; Colour TTL RGB output\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;\u0026lt;b\u0026gt;(5)\u0026lt;/b\u0026gt;\u0026lt;/font\u0026gt; Parallel printer connector\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;\u0026lt;b\u0026gt;(6)\u0026lt;/b\u0026gt;\u0026lt;/font\u0026gt; Z80 bus extension connector\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Nec_PC8001_RearSide_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;INSIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;On the U.S. version, the mainboard is covered with a metallic protection against magnetic fields. The switching power supply unit occupies the whole width of the computer.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Nec_PC8001_Inside_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MOTHERBOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;\u0026lt;b\u0026gt;(1)\u0026lt;/b\u0026gt;\u0026lt;/font\u0026gt; 16 x 4116 chips (here Nec \u0026micro;PD416-30) hold 32 KB of RAM\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;\u0026lt;b\u0026gt;(2)\u0026lt;/b\u0026gt;\u0026lt;/font\u0026gt; 3 x 8K 2364 ROM hold the NBASIC interpreter. One socket remains empty\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;\u0026lt;b\u0026gt;(3)\u0026lt;/b\u0026gt;\u0026lt;/font\u0026gt; Z80 processor (Nec D780C version)\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;\u0026lt;b\u0026gt;(4)\u0026lt;/b\u0026gt;\u0026lt;/font\u0026gt; Nec 8257 DMA controller\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;\u0026lt;b\u0026gt;(5)\u0026lt;/b\u0026gt;\u0026lt;/font\u0026gt; Nec D3301, manages video and colours\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;\u0026lt;b\u0026gt;(6)\u0026lt;/b\u0026gt;\u0026lt;/font\u0026gt; Nec 8251 USART (Synchronous/Asynchronous receiver/transmitter)\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;\u0026lt;b\u0026gt;(7)\u0026lt;/b\u0026gt;\u0026lt;/font\u0026gt; Keyboard connectors\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;\u0026lt;b\u0026gt;(8)\u0026lt;/b\u0026gt;\u0026lt;/font\u0026gt; Nec D2316, video RAM chip\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;\u0026lt;b\u0026gt;(9)\u0026lt;/b\u0026gt;\u0026lt;/font\u0026gt; Parallel printer connector\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;blue\u0026quot;\u0026gt;\u0026lt;b\u0026gt;(10)\u0026lt;/b\u0026gt;\u0026lt;/font\u0026gt; External bus connector\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Nec_PC8001_Mainboard_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ROM \u0026amp; RAM AREA\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Nec_PC8001_Mainboard_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;USER MANUALS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Nec_PC8001_Manuals_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (APRIL1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/nec_pc8000_french-pub_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (APRIL 1982)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/nec_pc8000_french-pub_biset.jpg"
+    }
+  ],
+  "hardware": [
+    {
+      "type": "PC-80S31",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Nec_PC8001MK2SR_FDunit-s1.jpg",
+          "description": "Dual 5.25\u0027\u0027 floppy discs unit||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DUAL 5.25\u0027\u0027 FLOPPY DISCS UNIT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Dual 5.25\u0026quot; Double-side, double-density 320 KB floppy drive unit. \u0026lt;br\u0026gt; The unit uses the 8255 parallel interface. It can be also used with PC-8001/mkII, PC-8801 Series, PC-9801/E/F/M etc.\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    }
+  ],
+  "emulator": [
+    {
+      "platform": "Windows emulator",
+      "name": "M88 emulator",
+      "link": "http://retropc.net/cisc/m88/",
+      "description": "Japanese emulator"
+    },
+    {
+      "platform": "Windows emulator",
+      "name": "PC88 Emulator",
+      "link": "http://home.highway.ne.jp/soltin/pc88win.html",
+      "description": "Japanese emulator"
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "QUASI88",
+      "link": "http://www.117.ne.jp/~show/pc8801/pc88emu2.html",
+      "description": "Multiplatform emulator"
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d396",
+    "computer.asp?st\u003d1\u0026amp;c\u003d397",
+    "computer.asp?st\u003d1\u0026amp;c\u003d398",
+    "computer.asp?st\u003d1\u0026amp;c\u003d399",
+    "computer.asp?st\u003d1\u0026amp;c\u003d400",
+    "computer.asp?st\u003d1\u0026amp;c\u003d401",
+    "http://my.reset.jp/~toragiku/kopa/8001.htm",
+    "http://tje12.is.s.u-tokyo.ac.jp/~mino/PC-8001/PC-8001.html"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/nec_pc8001_2.jpg",
+  "builtInGames": "BASIC interpreter",
+  "controllers": "",
+  "media": "One or two 5.25\u0027\u0027 disk-drives (PC-8031)",
+  "numGames": "",
+  "peripherals": "Fixed expansion unit with dual 5\u0027\u0027 163 KB FDD, extra 32 KB of RAM, 2 x RS232C, IEEE488 and Parallel interfaces",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

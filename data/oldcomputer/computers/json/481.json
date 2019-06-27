@@ -1,0 +1,52 @@
+{
+  "name": "IS-11c",
+  "manufacturer": "Sord",
+  "type": "Portable",
+  "origin": "Japan",
+  "year": "1985",
+  "production": "",
+  "language": "Spreadsheet, Wordprocessor, Communication software",
+  "keyboard": "Full-stroke keyboard, QWERTY/AZERTY, 72 keys, 4 arrow keys, 6 function keys",
+  "cpu": "Zilog Z80A CMOS",
+  "speed": "3,4 Mhz",
+  "coprocessor": "",
+  "ram": "80kb (max. 144kb)",
+  "vram": "",
+  "rom": "72kb (max.128kb via ROM cartridges)",
+  "text": "80 x 25",
+  "graphics": "640 x 200",
+  "colors": "No, monochrom LCD display (greenish)",
+  "sound": "Beeper ?",
+  "size": "300 x 215 x 85 mm / 3Kg",
+  "ports": "RS232, Centronics, Barcode reader, two expansion ports, serial I/O for disks",
+  "power": "External PSU (12v DC) or internal Ni-Cd batteries (3h autonomy)",
+  "price": "1990   (France, july 1985)",
+  "description": "\nThis is an upgraded version of the original IS-11 computer. Basically, it has a much wider LCD screen (80 x 25), which means it\u0027s 6 times larger than the original IS-11 screen.\n\nThe IS-11c is more wordprocessor and communication oriented than the IS-11, that\u0027s why wordprocessing and communication software are included, as welle as a Modem.\nThe DB-PIPS package (spreadhseet, graphics, file manager) delivered with the IS-11 is there available on a ROM cartridge.\n\nThe RAM is also bigger : 80kb instead of 32kb for the original IS-11.\n\nThe microcassette recorder still acts as virtual disk-drive (indexed access) and one tape can old as much as 128kb.\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;CLOSED\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/sord_is11c_closed.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/sord_is11c_advert_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d215"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/sord_is11c_1.jpg",
+  "builtInGames": "Spreadsheet, Wordprocessor, Communication software",
+  "controllers": "",
+  "media": "Microcassette recorder built-in (128kb)",
+  "numGames": "",
+  "peripherals": "Numeric keypad, thermal printer, barecode reader, 3,5\u0027\u0027 disk-drive",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

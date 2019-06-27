@@ -1,0 +1,56 @@
+{
+  "name": "SVI 738 - X\u0027press",
+  "manufacturer": "Spectravideo",
+  "type": "Home Computer",
+  "origin": "Hong Kong",
+  "year": "1986",
+  "production": "",
+  "language": "MSX Basic (Microsoft Extended)",
+  "keyboard": "Full-stroke keyboard",
+  "cpu": "Zilog Z80A",
+  "speed": "3.58 MHz",
+  "coprocessor": "",
+  "ram": "64 KB (up to 144 KB)",
+  "vram": "16 KB",
+  "rom": "64 KB (32 KB BIOS/Basic, 16 KB RS232 BIOS, 16 KB DISK ROM)",
+  "text": "40 x 24 / 32 x 24 / 80 x 24 (only for MSXDOS)",
+  "graphics": "256 x 192 / 64 x 48 dots",
+  "colors": "256",
+  "sound": "AY-3-8910 chipset, three channels, 8 octaves",
+  "size": "",
+  "ports": "Joystick (2), ROM Cardridge, Tape recorder, Monitor, Centronics, Expansion port, Mono sound output, Keyboard, Floppy, RS232",
+  "power": "External power supply unit",
+  "price": "?400",
+  "description": "\nThis computer was a MSX 1 computer equipped with V9938 Video chip, which was quite unusual. It was probably meant to become an MSX 2, thus first versions were prepared to hold a CLOCK-IC chip. Thanks to its V9938 it could display 80-column text. \n\nIt was called SPECTRAVIDEO XPRESS because it was delivered with a bag to easily carry it around in. The XPRESS designation was also used in a MSX 2 and PC hybrid (X\u0027PRESS 16, for 16-bits) SPECTRAVIDEO computers. \nThis machine is in fact pretty much a \u0026quot;MSX 1.5\u0026quot;. Converting it into an MSX2 machine is not difficult at all and as a result many MSX hobbyists have done it. For example in Finland, when it came out many people converted it simply because there were no MSX2 machines widely available in the country.\nThe main selling point was the ability to show 80-column text even on normal TV\u0027s without problems, you just had to adjust the colors a bit. It was also very well priced and had much better specs than the other machines in it\u0027s price range.\n\nBut the SVI 738 also has many quality problems like all SVI machines. The keyboard is just as bad as in the 328 and 728 computers. The original disk drive is noisy, unreliable and only single sided. The screw holes are not in standard locations, but other ways it can be replaced with standard DD disk drive. The first versions of disk ROM could not format 720KB \u0026quot;PC-disks\u0026quot; but reading works. Almost all MSX2 and up computers had internal disk drive, and it?s also possible to use external disk controllers with this machine. Disk expansion port for external drive has however nonstandard DB25 connector, just as the RS-232 connector (DB9 female).\n\nThe machine also suffers from the same problems (won\u0027t work at all or bad sound) as the earlier 728 model with Konami\u0027s SCC-sound chip games.\n\n___\n\n\nContributors : Taneli Lukka, Nyyrikki\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;SVI-730 X\u0027PRESS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/spectravideo_svi738xpress_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DISK-DRIVE CLOSE-UP\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/spectravideo_738_diskdrive_1.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.K. AD (AUG. 1986)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/SVI_Xpress738_Advert_1.jpg"
+    }
+  ],
+  "hardware": [],
+  "emulator": [],
+  "link": [
+    "http://8bit.yarek.pl/upgrade/svi.msx2/"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/spectravideo_738_1.jpg",
+  "builtInGames": "MSX Basic (Microsoft Extended)",
+  "controllers": "",
+  "media": "Internal 3.5\u0027\u0027 disk drive",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

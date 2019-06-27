@@ -1,0 +1,366 @@
+{
+  "name": "TRS 80 MODEL I",
+  "manufacturer": "Tandy Radio Shack",
+  "type": "Home Computer",
+  "origin": "U.S.A.",
+  "year": "1977",
+  "production": "",
+  "language": "Basic Level 1 (4k ROM models)Basic Level II (12k ROM models)",
+  "keyboard": "Full-stroke keyboard, 53 Keys, optional numeric keypad",
+  "cpu": "Zilog Z80",
+  "speed": "1.77 MHz",
+  "coprocessor": "",
+  "ram": "4 kb / 16 kb depending on models (up to 48 kb)",
+  "vram": "1 kb",
+  "rom": "4 kb (Basic Level 1) or 12kb (Basic Level 2)",
+  "text": "32 x 16, 64 x 16",
+  "graphics": "128 x 48",
+  "colors": "monochrome",
+  "sound": "None",
+  "size": "",
+  "ports": "Monitor, cassette interface, expansion port",
+  "power": "",
+  "price": "#26-1003 : Model I, Level I, 16K \u003d 700  (France,81)#26-1004 : Model I, Level II, 4K \u003d 640 r (France,81)#26-1006 : Model I, Level II, 16K \u003d $1099",
+  "description": "\nThe Tandy TRS 80 model 1 was the first member of one of the most famous computer family. It was one of the first home computer and was launched at the same time as famous computers like the Apple II or the Commodore PET. Beside, Tandy competitors nicknamed was \u0026quot;Trash-80\u0026quot;.\n\nThe TRS-80 was developed was developed within the Radio Shack engeneering group, based upon several processor chips, SC/MP, PACE, 8008, 8080 and finally the Z80.\n\nIt used a black \u0026amp; white TV set, made by RCA, without tuner as monitor. The earlier models use a poor basic called Basic Level 1 (the Basic and the OS fit in the 4 KB ROM!). It was replaced later with the Basic Level 2 which needed a 12 KB ROM.\n\nTo offset its poor characteristics, Tandy developed a device called Expansion Interface which brings a lot of new features : additional 16 or 32kb RAM, two tape unit connectors, a printer port, a floppy disk controller, a serial port and a real time clock.\n\nTandy did as well 5, 10 and 15 MB hard drives. The case for them is about the size of a small PC tower. It\u0027s possible to fit 2 drives into each case. They were compatible with all TRS-80 versions.\n\nWhen it was connected to a floppy disk unit, the TRS-80 uses the TRS DOS operating system, it was pretty bugged and most of the TRS-80 users prefered NEW DOS, it was an operating system done by a third-party company called Apparat. This OS was the real TRS-80 operating system.\n\nLS-DOS was also an excellent DOS, superior to NEW DOS for most users. Interestingly, Microsoft\u0027s MS-DOS became more and more like LS-DOS each time it was updated, although never as good. LS-DOS was finally adopted by Tandy as the official DOS for the Model 4.\n\nDocumentation for all the TRS machines was superb. Even Microsoft provided documentation for its BASIC interpreter listing all the machine calls. You could use these calls when programming with either machine code or BASIC.\n\nThe Model I was followed by the TRS 80 model II (a business computer) and model III which had almost the same characteristics as the model I.\n\n_________\n\nContributors : Donald French, Paul D Moore\n \n\n\n",
+  "shot": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LEVEL 1 MODEL\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Basic version of the first Level 1 model with its power supply unit and tape recorder.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Tandy_Model1_SystemL1_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BOOT-UP SREEN\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Tandy_Model1_BootScreen_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TOP VIEW\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Model II connected to the expansion unit located below the monitor.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Tandy_Model1_TopView_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;BOTH SIDES\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Tandy_Model1_2sides_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REAR SIDE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;From left to right:\u0026lt;br\u0026gt; \u0026bull; Tape recorder DIN socket\u0026lt;br\u0026gt; \u0026bull; Monitor DIN socket\u0026lt;br\u0026gt; \u0026bull; Power trasformer DIN socket\u0026lt;br\u0026gt; \u0026bull; Power switch\u0026lt;br\u0026gt; \u0026bull; Expansion connector.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Tandy_Model1_RearSide_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;COMPLETE SYSTEM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Very complete (and expensive at the time!) version including the expansion unit, two floppy drive units, a 5 MB hard disk unit and the Line Printer 1 dot matrix printer.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Special thanks to \u0026lt;b\u0026gt;Georges Chapuzot \u0026lt;/b\u0026gt; who donated us this system.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Tandy_Model1_CompleteSystem_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;COMPLETE SYSTEM #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;TRS 80 Model 1 + expansion unit + voice synthesizer + tape recorder + disk drives + printer\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/tandy_trs80-model1_complete_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LEVEL I \u0026amp; LEVEL II\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Externally, the only difference is the numeric keypad added to the Level II.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Tandy_Model1_SystemL1L2_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;OPENED\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The keyboard circuit is supported by the main board which components face the bottom of the case. This model was a Level I version converted into a level II. The BASIC ROMs are located below the numeric keypad and connected to the ROM socket of the main board by a flat cable.  \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Tandy_Model1_Inside_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MAINBOARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;A true Level II version.\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;#FFA000\u0026quot;\u0026gt;(1)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Reset switch\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;#FFA000\u0026quot;\u0026gt;(2)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Power regulators\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;#FFA000\u0026quot;\u0026gt;(3)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 16 KB RAM chips (8 x 4116)\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;#FFA000\u0026quot;\u0026gt;(4)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Keyboard cable\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;#FFA000\u0026quot;\u0026gt;(5)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; Z80 CPU, here a Mostek version\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;#FFA000\u0026quot;\u0026gt;(6)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; 8K + 4K ROM chips\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;\u0026lt;font color\u003d\u0026quot;#FFA000\u0026quot;\u0026gt;(7)\u0026lt;/font\u0026gt;\u0026lt;/b\u0026gt; DIN sockets ans power switch.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Tandy_Model1_Mainboard_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;THE BOX\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The box holds a complete Level 1 4K system.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Tandy_Model1_Box_s1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;THE VERY FIRST VERSION\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The TRS-80 during one of its first public show, in October, 1977, with F.D. unit prototypes. \u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/Tandy_Model1_First_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PROMOTIONAL PICTURE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/photos/tandy-trs80m1_promo-pic.jpg"
+    }
+  ],
+  "advert": [
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FIRST U.S. ADVERT (1977)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Tandy_Model1_Advert_4.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1978)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to Orion Young for this picture\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Tandy_Model1_Advert_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1979)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Tandy_Model1_Advert_2.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MICROSOFT ADVERT (1979)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Advert said:\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt;No one knows better than Microsoft how to increase your TRS-80 BASIC\u0027s power. Microsoft created the TRS-80 Level ll and Disk BASIC plus the industry standard Microsoft BASIC...\u0026lt;br\u0026gt;\u0026lt;br\u0026gt; ...Microsoft Level lll BASIC is an enhancement to the Level ll. It contains all Disk BASIC features not already in Level ll and it adds six new Level lll exclusives...\u0026lt;br\u0026gt; ...Advanced graphics is Level lll\u0027s most exciting addition to the TRS-80 - and it\u0027s exclusive. Draw a line, outline or solid box by specifying just two points, then save it and put it back with BASIC statement. You\u0027ll find yourself writing more programs with charts, graphs and even animation...\u0026lt;/font\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Tandy_Model1_Advert_3.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;U.S. ADVERT (1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;In september 1980, over 200,000 Model 1 were sold, more than 50,000 units per month since the computer was launched.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Tandy_Model1_Advert_5.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH AD (JAN. 1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/tandy_trs80-model1_ad_computercenter_1.jpg"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;FRENCH ADVERT (1980)\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Dated december 1980\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/tandy_trs80-model1_ad_grande-ouverture_s.gif"
+    },
+    {
+      "description": "\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TANDY BROCHURE COVER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Cover of a Tandy catalogue.\u0026lt;/blockquote\u0026gt;",
+      "link": "http://www.old-computers.com/museum/adverts/Tandy_Model1_Advert_6.jpg"
+    }
+  ],
+  "hardware": [
+    {
+      "type": "AUDIO",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/tandy_trs80-m1_voxbox_1.jpg",
+          "description": "Voxbox|||Serial# 26-1181|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;VOXBOX\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Serial# 26-1181\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The VoxBox is a voice recognition device with a CB-style microphone attached. You have to push-to-talk, and though it can only recognize a few words at a time, it is fun to play with. You can program the TRS-80 Model 1 (level II) so it can react to specific words. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; It cost 925fr (France, 1981)\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/tandy_trs80_music-synthesizer_1.jpg",
+          "description": "Music Synthesizer||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MUSIC SYNTHESIZER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;It has a left and right audio output.\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/tandy_trs80-m1_voice-synth_1.jpg",
+          "description": "Voice Synthesizer|||Serial# 26-1180|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;VOICE SYNTHESIZER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Serial# 26-1180\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is a real voice synthesizer with built-in speaker. Is sounds too cool with its robotic voice. Can be used with Level I or II Basic but the TRS-80 must have at least 16k RAM. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; It cost 2695fr (France, 1981)\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/tandy_trs80_voice-synthesizer_2.jpg",
+          "description": "Voice Synthesizer|||Another picture|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;VOICE SYNTHESIZER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Another picture\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "DISKS",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Tandy_Model1_FDunits_s1.jpg",
+          "description": "Dual minidisk unit #1|||Ref #26-1160|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DUAL MINIDISK UNIT #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Ref #26-1160\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Up to 4 minidisks could be attached. They used 5\u0027\u00271/4 disks. Minidisk 1 had a capacity of 55kb and additional ones 89kb, or 160 KB for dual density version. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; #26-1160 : Minidisk 1 cost 470 Euros (France, 81), $699.00 (USA)\u0026lt;br\u0026gt; #26-1161 : Additional minidisks cost 426 Euros (France, 81)\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Tandy_Model1_InsideFDD_s1.jpg",
+          "description": "Dual minidisk unit #2|||Inside|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DUAL MINIDISK UNIT #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Inside\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The floppy drive was a Tandon single side, single density model.\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Tandy_Model1_HDunit_s1.jpg",
+          "description": "5 MB hard disk unit #1||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;5 MB HARD DISK UNIT #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Tandy_Model1_InsideHDunit_s1.jpg",
+          "description": "5 MB hard disk unit #2|||Inside|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;5 MB HARD DISK UNIT #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Inside\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The unit used a Tandon 5.25\u0026quot; HDD. Up to 4 similar HDD could be connected to this unit.\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "MISC",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Tandy_Model1_ExpansionBox_s1.jpg",
+          "description": "Expansion Unit #1|||Ref.  26-114x|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;EXPANSION UNIT #1\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Ref.  26-114x\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Most of the serious TRS-80 users bought this expansion unit which gave 16 or 32 KB more RAM. The TRS-80 thus reached a wooping 48 KB RAM \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; It also offered a provision for using two cassette tape units, a Parallel printer port, the floppy disk controller (single then dual density), a serial port and a real-time clock interrupt that was used by various DOS systems for time keeping functions.  \u0026lt;br\u0026gt; French Prices (1981):\u0026lt;br\u0026gt; 26-1140 : Expansion unit alone \u003d 320 Euros\u0026lt;br\u0026gt; 26-1141 : ... with 16k RAM \u003d 452 Euros\u0026lt;br\u0026gt; 26-1142 : ... with 32k RAM \u003d 585 Euros\u0026lt;br\u0026gt; 26-1102 : 16k RAM kit \u003d 135 Euros\u0026lt;br\u0026gt;   US prices:\u0026lt;br\u0026gt; 26-1140 : Expansion unit alone \u003d $449\u0026lt;br\u0026gt; 26-1102 : 16k RAM kit \u003d $189  \u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Tandy_Model1_InsideExpBox_s1.jpg",
+          "description": "Expansion box #2|||Inside|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;EXPANSION BOX #2\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Inside\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This version holds 32 KB RAM and an add-on card for dual density floppy disk drives. Provision was made for the main unit\u0027s AC adaptor.\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Tandy_Model1_TapeRecorder_s2.jpg",
+          "description": "Tape recorder|||Ref# 14-841|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TAPE RECORDER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Ref# 14-841\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The tape recorder was a standard version also sold separately in Tandy shops.\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/tandy_trs80-m1_keypad_1.jpg",
+          "description": "Numeric keypad|||Serial# 26-1031 / 26-1103|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;NUMERIC KEYPAD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Serial# 26-1031 / 26-1103\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The numeric keypad was mounted on 16k models, but could also be added to 4k models (Level I or II) in place of the \u0026quot;TRS-80\u0026quot; label...\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/tandy_trs80-m1_rs232c-card_1.jpg",
+          "description": "RS232c card|||Serial# 26-1145|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;RS232C CARD\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Serial# 26-1145\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This RS232c card is meant to be mounted into the expansion unit and enables the TRS-80 to communicate with various devices such as a modem. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; It cost 729fr (France, 1981)\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "MODEMS",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Tandy_Model1_Modems_1.jpg",
+          "description": "Radio Shack modems||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;RADIO SHACK MODEMS\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;b\u0026gt;(1) Direct-Connect Modem 1\u0026lt;/b\u0026gt;  Full-duplex modem. 300 baud Bell 103J compatible. Did not need an RS-232 board in TRS-Model 1 computers.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(2) Direct-Connect Modem 2\u0026lt;/b\u0026gt;  Same as Modem 1 + Built-in 6805 microprocessor. 25 chars. register to store commands and parameters for automatic dialing and operations.\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;(3) Telephone Interface 2\u0026lt;/b\u0026gt;  Used to transfer data through a telephone handset. 300 baud, full or half duplex operations.\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/tabdy_TRS80_modem1_1.jpg",
+          "description": "Modem 1B||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;MODEM 1B\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/tandy_trs80-m1_acoustic-modem_1.jpg",
+          "description": "Acoustic modem||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;ACOUSTIC MODEM\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Tandy_Model1_LynxAdvert_1.jpg",
+          "description": "Lynx telephone coupler||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LYNX TELEPHONE COUPLER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "NETWORK",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/tandy_trs80-m1_remote-unit-active.jpg",
+          "description": "Remote Unit Active|||Serial# 26-1210|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;REMOTE UNIT ACTIVE\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Serial# 26-1210\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This rare unit is meant for teachers to control up to 16 TRS-80 Model 1 from a another TRS-80 equiped with min-disk. All the controled TRS-80 model 1 must be equiped with Level II. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; It cost 2895fr (France, 1981)\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Tandy_Network2_s1.jpg",
+          "description": "Network II box|||p/n 26-1211|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;NETWORK II BOX\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;p/n 26-1211\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This box allowed up to 16 TRS computer to be networked. Three network boxes were released by Tandy (I, II and III).\u0026lt;br\u0026gt; The Network II required verbal communication between the server operator and the remote user, and data transfer had to be completed one user  at a time.\u0026lt;br\u0026gt; The network III allowed automated control of the network so that users could easily access programs and data stored on the server\u0027s storage device.\u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;David Sutherland\u0026lt;/b\u0026gt; for the pictures.\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "PRINTERS",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/tandy_trs80_printer-controller_1.jpg",
+          "description": "TRS80 Printer Controller||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TRS80 PRINTER CONTROLLER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/tandy_trs80_dmp200-printer_1.jpg",
+          "description": "DMP-200||||||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DMP-200\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;80-column, 100 cps dot matrix printer.\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/tandy_trs80-m1_quick-printer-2_1.jpg",
+          "description": "Quick Printer II|||Serial# 26-1155|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;QUICK PRINTER II\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Serial# 26-1155\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Ideal affordable printer for TRS-80 users (that\u0027s what the ad says...). It uses special paper-rolls (6cm large). Can print 16 or 32 c/line. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; It cost 1495fr in 1981 (France).\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/tandy_trs80-m1_daisy-wheel-printer-2_1.jpg",
+          "description": "Daisy Wheel Printer II|||Serial# 26-1158|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;DAISY WHEEL PRINTER II\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Serial# 26-1158\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This is a high-quality printer meant to be used with wordprocessors. Some interchangeable daisy-wheels were available (Courrier, Elite, Madeleine). It could print 163 characters per line (34cm), at a 43 cps rate. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; It cost 9595fr (France, 1981)\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/tandy_trs80-m1_plotter_1.jpg",
+          "description": "Plotter|||Serial# 26-1190|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;PLOTTER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Serial# 26-1190\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;Multidirectionnal printer/plotter.\u0026lt;br\u0026gt; 10 c/s print rate.\u0026lt;br\u0026gt; Printing wide size : 19cm \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; It cost 6250fr (France) in 1981.\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/tandy_trs80_graphic-plotter_1.jpg",
+          "description": "Graphic plotter|||4-pen mini printer-plotter|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;GRAPHIC PLOTTER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;4-pen mini printer-plotter\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Tandy_Model1_LinePrinter1_s1.jpg",
+          "description": "Line Printer I |||Ref# 26-7017|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LINE PRINTER I \u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Ref# 26-7017\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This printer was a custom version of the Oki Microline 80.\u0026lt;br\u0026gt; Printed lower and upper case on paper rolls or listing paper (24cm wide) from 40 to 80 columns/line, at a speed rate of 28 lines/minute. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; It cost 716 Euros in 1981 (France).\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/tandy_trs80-m1_line-printer-3_1.jpg",
+          "description": "Line Printer III|||Serial# 26-1156|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LINE PRINTER III\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Serial# 26-1156\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This printer can print lower and upper case, at a speed rate of 120 c/s, on paper up to 38cm wide. It is conceived for intensive use ! \u0026lt;br\u0026lt;\u0026lt;br\u0026gt; It cost 9950fr in 1981 (France).  \u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/tandy_trs80-m1_line-printer-6_1.jpg",
+          "description": "Line Printer VI|||Serial# 26-1166|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;LINE PRINTER VI\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Serial# 26-1166\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;This large printer can print lower and upper case, graphic characters and symbols at a speed rate of 100 c/s ! This is definately a professional printer. \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; It cost 5495fr in 1981 (France).\u0026lt;/blockquote\u0026gt;"
+        },
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/tandy_trs80_tp-10_thermal-printer_box.jpg",
+          "description": "TP-10 Thermal Printer|||Box|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;TP-10 THERMAL PRINTER\u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Box\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    },
+    {
+      "type": "STORAGE",
+      "item": [
+        {
+          "photo": "http://www.old-computers.com/museum/hardware/Tandy_Model3_ExatronWafer_s1.jpg",
+          "description": "Exatron |||Stringy Floppy  drive|||\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;red\u0026quot;\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;EXATRON \u0026lt;/strong\u0026gt;\u0026lt;/font\u0026gt;\u0026lt;br\u0026gt;\u0026lt;strong\u0026gt;\u0026gt;\u0026nbsp;Stringy Floppy  drive\u0026lt;/strong\u0026gt;\u0026lt;br\u0026gt;\u0026lt;blockquote\u0026gt;The Exatron Stringy Floppy (ESF) was a low-cost data\u0026mdash;storage system that fitted the gap, between cassettes and disk drives.\u0026lt;br\u0026gt; The system was based on a miniature endless\u0026mdash;loop tape cartridge called a \u0026quot;wafer\u0026quot;.\u0026lt;br\u0026gt; The amount of data that could be recorded on a wafer depended on the length of tape in it, typically, a 50\u0026mdash;foot wafer could hold at least 40 KB of programs or data.  \u0026lt;br\u0026gt;\u0026lt;br\u0026gt; \u0026lt;b\u0026gt;Matt\u0026lt;/b\u0026gt; reports to us:\u0026lt;br\u0026gt;\u0026lt;font color\u003d\u0026quot;#666666\u0026quot;\u0026gt; A curiousity about the model 1, CPU SPEED had a direct relatonship with STORAGE CAPACITY. if you doubled the clock speed of your MODEL 1 CPU you doubled the amount of data you could store on your stringy floppies. this is a feat that no other computer no matter how many ghz you have in your PC can do today without using compression.\u0026lt;/font\u0026gt; \u0026lt;p class\u003d\u0026quot;petitgris\u0026quot;\u0026gt;Thanks to \u0026lt;b\u0026gt;David Sutherland\u0026lt;/b\u0026gt; for the pictures\u0026lt;/p\u0026gt;\u0026lt;/blockquote\u0026gt;"
+        }
+      ]
+    }
+  ],
+  "emulator": [
+    {
+      "platform": "MS DOS emulator",
+      "name": "David Keil\u0027s TRS-80 Computer Emulator Pages",
+      "link": "http://discover-net.net/~dmkeil/",
+      "description": "This program emulates a complete TRS-80"
+    },
+    {
+      "platform": "MS DOS emulator",
+      "name": "David Keil\u0027s TRS-80 Model III/4/4P Emulator Page",
+      "link": "http://discover-net.net/~dmkeil/trs80/model4.htm",
+      "description": "This program emulates a complete TRS-80"
+    },
+    {
+      "platform": "MS DOS emulator",
+      "name": "Jeff Vavasour\u0027s TRS-80 EMULATION Page",
+      "link": "http://www.vavasour.ca/jeff/trs80.html#model1",
+      "description": "This emulator simulates a 48K TRS-80 Model I with 4 disk drives, printer, RS-232 board, and cassette drive."
+    },
+    {
+      "platform": "MS DOS emulator",
+      "name": "Matthew Reed\u0027s TRS-80 Emulator Web Site",
+      "link": "http://www.arrowweb.com/mkr/",
+      "description": "This page offers shareware versions of a TRS-80 Model 4 emulator and a TRS-80 Model 1-2 emulator"
+    },
+    {
+      "platform": "MS DOS emulator",
+      "name": "THE TRSF-80 HOME PAGE",
+      "link": "http://members.aol.com/trsf80/",
+      "description": "The TRSF-80 emulator is designed to emulate a TRS-80 Model I computer on a DOS-based Intel x86 platform"
+    },
+    {
+      "platform": "MS DOS emulator",
+      "name": "TRS-80 Model III/4 Emulator",
+      "link": "http://www.vavasour.ca/jeff/trs80.html#model4",
+      "description": "This TRS-80 Model III/4 Emulator is a commercial product "
+    },
+    {
+      "platform": "Apple emulator",
+      "name": "Yves Lempereur\u0027s TRS-80 Emulator for Mac OS",
+      "link": "http://www.vcnet.com/~skyrider/trs80.html",
+      "description": "TRS-80 emulator for MAC which simulates the TRS-80 emulator simulates a TRS-80 Model I with an Expansion Interface, two 5\u0026quot; floppy drives and 48K of RAM"
+    },
+    {
+      "platform": "Unix / Linux emulator",
+      "name": "xtrs: TRS-80 Model I/III/4 Emulator for Unix",
+      "link": "http://www.tim-mann.org/xtrs.html",
+      "description": "xtrs is a Radio Shack TRS-80 Model I/III/4/4P emulator for Unix and the X Window System"
+    },
+    {
+      "platform": "Other platform emulator",
+      "name": "TRS-80 Level I BASIC in a browser ",
+      "link": "http://www.vavasour.ca/jeff/trs80.html#simulator",
+      "description": "With this Java emulator, you\u0027ll be able to write a BASIC program directly in your browser!"
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "Ira Goldklang\u0027s TRS-80 Revived Pages ",
+      "link": "http://www.trs-80.com/trs80-e.htm",
+      "description": "A complete list of TRS-80 emulators for various platforms !"
+    },
+    {
+      "platform": "Multiplatform emulator",
+      "name": "MESS",
+      "link": "http://www.mess.org",
+      "description": "MESS emulator also emulates a TRS-80 systems"
+    }
+  ],
+  "link": [
+    "computer.asp?st\u003d1\u0026amp;c\u003d1302",
+    "computer.asp?st\u003d1\u0026amp;c\u003d242",
+    "computer.asp?st\u003d1\u0026amp;c\u003d244",
+    "computer.asp?st\u003d1\u0026amp;c\u003d1083",
+    "computer.asp?st\u003d1\u0026amp;c\u003d243",
+    "computer.asp?st\u003d1\u0026amp;c\u003d18",
+    "computer.asp?st\u003d1\u0026amp;c\u003d766",
+    "HTTP://WWW.8BIT-MICRO.COM",
+    "http://freespace.virgin.net/david.sampson/",
+    "http://www.trs-80.com/",
+    "http://ganley.org/software/trs80.html",
+    "http://personal.nbnet.nb.ca/mclays/trsmod1.html",
+    "http://www.RadioShackCatalogs.com",
+    "http://www.kjsl.com/trs80",
+    "http://www.tim-mann.org/trs80.html",
+    "news:comp.sys.tandy"
+  ],
+  "image": "http://www.old-computers.com/museum/photos/Tandy_Model1_System_s1.jpg",
+  "builtInGames": "Basic Level 1 (4k ROM models)Basic Level II (12k ROM models)",
+  "controllers": "",
+  "media": "",
+  "numGames": "",
+  "peripherals": "",
+  "switches": "",
+  "batteries": "",
+  "buttons": "",
+  "gun": ""
+}

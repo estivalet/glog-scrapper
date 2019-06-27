@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computer>
+    <adverts>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;US ADVERT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This guy has so much power in his hands that he has attracted two girls (so far) in his swimming-pool ! &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; Notice the classical symbol of the 80s adverts : the glass of orange juice with a straw...&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/commodore_sx64_sweden-ad_1.jpg</link>
+        </advert>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;UK ADVERT (1984)&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;p class=&amp;quot;petitgris&amp;quot;&amp;gt;Thanks to Tony Mattson for this picture&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/commodore_sx64_advert-uk_1s.png</link>
+        </advert>
+    </adverts>
+    <batteries></batteries>
+    <builtInGames>SX-64 Basic v2.0</builtInGames>
+    <buttons></buttons>
+    <colors>16</colors>
+    <controllers></controllers>
+    <coprocessor>VIC II (Video), SID (Sound)</coprocessor>
+    <cpu>6510</cpu>
+    <description>
+The SX/DX 64 is the &amp;quot;laptop version&amp;quot; (though hardly portable) of the C64. This computer has a built-in 5&amp;quot; color screen (just about enough for the eyes), a detachable keyboard with new functions, and one or two 5.25&amp;quot; floppy disk drives (the famous 1541), depending on the model.
+
+The DX-64 and the SX-100 (SX-64 with black &amp;amp; white monitor) were first announced in January 1983 but the SX-100 never made it to the shelves and was replaced by the SX-64 later that year.
+
+One important feature is that the SX/DX-64 lacks a cassette interface ! People who upgraded from the classic C64 couldn't play their games stored on tapes !
+Some programs that used the tape buffer for storage (of sprites say) had problems too.
+
+The cartridge slot is found on top of the case, and there is a sound speaker inside the unit (unlike the C64).
+
+The DX-64 has the same characteristics as the SX64 except its two 5.25&amp;quot; floppy disk drives instead of one. A very small quantity was produced. It was probably never sold but only used by Commodore insiders.
+
+The SX64 and DX64 computers never had success, probably because of higher selling prices, but were known as the world's first color portables.
+
+The SX64 was not the only machine that Commodore made in this chassis, there was also the SX500, which was an Amiga in the SX case (see 'More pictures').
+ 
+
+
+</description>
+    <emulators>
+        <emulator>
+            <description>The best C64 emulator for the PC</description>
+            <link>http://www.ccs64.com/</link>
+            <name>CCS64</name>
+            <platform>Windows emulator</platform>
+        </emulator>
+        <emulator>
+            <description>A Freeware emulator for MS DOS</description>
+            <link>http://www.umr.edu/~bmartin/</link>
+            <name>Free64</name>
+            <platform>Windows emulator</platform>
+        </emulator>
+        <emulator>
+            <description>This fantastic emulator can emulate the mlost of the 8-bit Commodore systems</description>
+            <link>http://www.mess.org</link>
+            <name>MESS</name>
+            <platform>Windows emulator</platform>
+        </emulator>
+        <emulator>
+            <description>The Best C64 Emulator for Win95 / WinNT</description>
+            <link>http://www.geocities.com/SiliconValley/Park/6558/win64.htm</link>
+            <name>Win 64</name>
+            <platform>Windows emulator</platform>
+        </emulator>
+        <emulator>
+            <description>Good Commodore 64 for Windows</description>
+            <link>http://www.geocities.com/siliconvalley/park/6558/win64.htm</link>
+            <name>Win64</name>
+            <platform>Windows emulator</platform>
+        </emulator>
+        <emulator>
+            <description>The MAC OS version of Frodo, one of the best C64 Emulator</description>
+            <link>http://internetter.com/titan/macfrodo/</link>
+            <name>Mac Frodo</name>
+            <platform>Apple emulator</platform>
+        </emulator>
+        <emulator>
+            <description>Emulator for PPC Macintoshes</description>
+            <link>http://www.infinite-loop.at/Power64/index.html</link>
+            <name>Power 64</name>
+            <platform>Apple emulator</platform>
+        </emulator>
+        <emulator>
+            <description>A player for C64 Musics</description>
+            <link>http://stud1.tuwien.ac.at/~e9426444/sidplay/</link>
+            <name>SID PLay</name>
+            <platform>Apple emulator</platform>
+        </emulator>
+        <emulator>
+            <description>C64 emulator for Unix</description>
+            <link>http://www.funet.fi/pub/cbm/crossplatform/emulators/unix/</link>
+            <name>ccs</name>
+            <platform>Unix / Linux emulator</platform>
+        </emulator>
+        <emulator>
+            <description>The best C64 Emulator for Amiga</description>
+            <link>http://www.uni-mainz.de/~bauec002/FRMain.html</link>
+            <name>Frodo for Amiga OS</name>
+            <platform>Amiga OS emulator</platform>
+        </emulator>
+        <emulator>
+            <description>This AmigaOS4 version is ported by Mathias &amp;quot;AmiDog&amp;quot; Roslund </description>
+            <link>http://amidog.se/amiga/vice/</link>
+            <name>VICE for Amiga OS4</name>
+            <platform>Amiga OS emulator</platform>
+        </emulator>
+        <emulator>
+            <description>C64 online emulator. Play favorite games in your browser!</description>
+            <link>http://www.c64.gr/</link>
+            <name>c64.gr</name>
+            <platform>Other platform emulator</platform>
+        </emulator>
+        <emulator>
+            <description>Hardware emulator (re-configurable computer)</description>
+            <link>http://c64upgra.de/c-one/</link>
+            <name>C-ONE</name>
+            <platform>Other platform emulator</platform>
+        </emulator>
+        <emulator>
+            <description>Frodo for PalmOS</description>
+            <link>http://frodopalm.sourceforge.net/</link>
+            <name>Frodo for PalmOS</name>
+            <platform>Other platform emulator</platform>
+        </emulator>
+        <emulator>
+            <description>Emulates the C64, C128, VIC20, all the PET models and the CBM-II under Unix, MS-DOS, Win95/NT, OS/2, Acorn RISC OS or BeOS !! </description>
+            <link>http://viceteam.bei.t-online.de/</link>
+            <name>VICE</name>
+            <platform>Other platform emulator</platform>
+        </emulator>
+        <emulator>
+            <description>The 64 as a Java applet in your Browser. Excellent !</description>
+            <link>http://www.dreamfabric.com/c64/</link>
+            <name>Web C64</name>
+            <platform>Other platform emulator</platform>
+        </emulator>
+        <emulator>
+            <description>Freeware emulator for OS/2</description>
+            <link>http://home.hccnet.nl/w.m.brul/emulator/index.html</link>
+            <name>C=64 Emulator for OS/2 Full Screen</name>
+            <platform>OS2 emulator</platform>
+        </emulator>
+    </emulators>
+    <graphics>several, most used : 320 x 200</graphics>
+    <gun></gun>
+    <hardwares>
+        <hardware type="AUDIO &amp;amp; MUSIC">
+            <items>
+                <item>
+                    <description>Song Producer|||from Moog|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;SONG PRODUCER&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;from Moog&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;MIDI interface with sequencer software plugged in an SX-64 computer.&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/commodore_sx64_moog-sound-producer.jpg</photo>
+                </item>
+            </items>
+        </hardware>
+        <hardware type="CPU">
+            <items>
+                <item>
+                    <description>CMD SuperCPU||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;CMD SUPERCPU&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The SuperCPU by Creative Micro Devices is an accelerator cartridge for the Commodore 64. It contains an W65C816S processor running at 20 MHz, providing 20 times the performance of the stock 6510 processor! CMD later added a SuperRAM Card option that could include up to 16 MB of additional memory. There is also a v2 version that offers native 128 mode support (also called SuperCPU/128). It is one of the most sought-after Commodore peripherals.&amp;lt;p class=&amp;quot;petitgris&amp;quot;&amp;gt;Thomas Cont&amp;eacute;&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/C64_SuperCPU.jpg</photo>
+                </item>
+            </items>
+        </hardware>
+        <hardware type="DRIVES">
+            <items>
+                <item>
+                    <description>CMD RAMLink||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;CMD RAMLINK&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This RAM expansion unit by Creative Micro Devices was intended to be used as a RAM drive to accelerate disk access. It is externally powered, and thus will preserve the data even when the computer is turned off.&amp;lt;p class=&amp;quot;petitgris&amp;quot;&amp;gt;Thomas Cont&amp;eacute;&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/C64_CMD_RAMLink.jpg</photo>
+                </item>
+                <item>
+                    <description>Floppy disk unit 1540-1541||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;FLOPPY DISK UNIT 1540-1541&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;It is connected to the C64 via a serial link.&amp;lt;br&amp;gt; It is very very slow and can store 170 kb per disk.&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/commodore-diskdrive_1540_1.jpg</photo>
+                </item>
+                <item>
+                    <description>Quick Data Drive||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;QUICK DATA DRIVE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;Cheaper and faster than diskettes.&amp;lt;/b&amp;gt; &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; This Quick Data Drive from Dean Electronics is dedicated to Commodore 64 and &amp;lt;$252$&amp;gt;Vic 20&amp;lt;/a&amp;gt; systems. It uses a special tape called 'Wafer', of 16, 64 or 128 Kb capacity. This wafer was also used by a product marketed for the &amp;lt;$223$&amp;gt;Sinclair Spectrum&amp;lt;/a&amp;gt;, called Wafadrive. Various tests proved that the Q.D.D. was approximately 20 times faster than a normal cassette recorder and 2 or 3 times faster than the Commodore 1541 disk drive. The reason : data transfer routines (called QOS) much more efficient than those of Commodore, and a file management operating system (FMU) much more modern and powerful. &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; The Q.D.D. is however not more than an advanced tape recorder using a magnetic tape, and the delay to access a specific file still remains higher than with a normal disk drive. Despite its qualities, the Q.D.D. did not meet success because most C64 software was sold on disks or tapes and users had to acquire both Commodore peripherals before investing in a third powerful storage system.&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/Commodore_64_Quick_Data_1.jpg</photo>
+                </item>
+                <item>
+                    <description>CMD HD-20|||20Mb hard-drive|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;CMD HD-20&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;20Mb hard-drive&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This is a hard drive for the C64 or 128. SWAP-Devicenumber-Buttons let the HD become drive 8 or 9. It can create sub-directories and partitions, including 1541 emulation.&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/commodore_c64_cmd-hd20_1.jpg</photo>
+                </item>
+            </items>
+        </hardware>
+        <hardware type="MODEMS">
+            <items>
+                <item>
+                    <description>VICMODEM|||Advert|||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;VICMODEM&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;Advert&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;You could already send emails !!&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/commodore_vicmodem_ad_1.jpg</photo>
+                </item>
+            </items>
+        </hardware>
+        <hardware type="MUSIC &amp;amp; AUDIO">
+            <items>
+                <item>
+                    <description>Wersiboard Music 64||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;WERSIBOARD MUSIC 64&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;p class=&amp;quot;petitgris&amp;quot;&amp;gt;Thomas Cont&amp;eacute;&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/C64_Wersiboard.jpg</photo>
+                </item>
+            </items>
+        </hardware>
+        <hardware type="PRINTERS">
+            <items>
+                <item>
+                    <description>Model 1525||||||&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;MODEL 1525&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;It can print all the semi graphic characters of the C64. (30 characters per second)  &amp;lt;/blockquote&amp;gt;</description>
+                    <photo>http://www.old-computers.com/museum/hardware/commodore_printer_1525_1.jpg</photo>
+                </item>
+            </items>
+        </hardware>
+    </hardwares>
+    <image>http://www.old-computers.com/museum/photos/Commodore_sx64_System_s1.jpg</image>
+    <keyboard>Full-stroke detachable keyboard, 66 keys, 4 function keys</keyboard>
+    <language>SX-64 Basic v2.0</language>
+    <links>
+        <link>computer.asp?st=1&amp;amp;c=96</link>
+        <link>computer.asp?st=1&amp;amp;c=98</link>
+        <link>computer.asp?st=1&amp;amp;c=1138</link>
+        <link>computer.asp?st=1&amp;amp;c=1086</link>
+        <link>computer.asp?st=1&amp;amp;c=1293</link>
+        <link>computer.asp?st=1&amp;amp;c=998</link>
+        <link>computer.asp?st=1&amp;amp;c=1136</link>
+        <link>computer.asp?st=1&amp;amp;c=655</link>
+        <link>computer.asp?st=1&amp;amp;c=108</link>
+        <link>computer.asp?st=1&amp;amp;c=1291</link>
+        <link>http://www.c64.com/</link>
+        <link>http://www.c64.gr/</link>
+        <link>http://www.c64files.com/</link>
+        <link>http://folkvagn.commodore64.org</link>
+        <link>http://www.c64endings.co.uk/</link>
+        <link>http://www.staggs.pair.com/c64/</link>
+        <link>http://www.commodorescene.org.uk/</link>
+        <link>http://www.devili.iki.fi/Computers/Commodore/</link>
+        <link>http://home.comcast.net/~c64proglib</link>
+        <link>http://www.hut.fi/~msmakela/cbm/netresources.html</link>
+        <link>http://speccy.altervista.org/</link>
+        <link>http://www.ozemail.com.au/~gvincent/</link>
+        <link>http://www.talent.demon.co.uk/64/</link>
+        <link>http://www.lemon64.com/</link>
+        <link>http://www.mayhem64.co.uk/main.htm</link>
+        <link>http://remix.kwed.org</link>
+        <link>http://s64.emuunlim.com/</link>
+        <link>http://www.hut.fi/~msmakela/cbm/</link>
+        <link>http://www.floodgap.com/retrobits/ckb/secret/</link>
+        <link>http://sta.c64.org/sc.html</link>
+        <link>news:comp.binaries.cbm</link>
+        <link>news:comp.binaries.cbm</link>
+        <link>news:comp.sys.cbm</link>
+        <link>TELNET://RENAISSANCECITYBBS.DYNDNS.TV:23</link>
+    </links>
+    <manufacturer>Commodore</manufacturer>
+    <media>SX-64 : 1 x 5''1/4 FDDDX-64 : 2 x 5''1/4 FDD</media>
+    <name>SX/DX 64 - Executive computer</name>
+    <numGames></numGames>
+    <origin>U.S.A.</origin>
+    <peripherals>Z80 card</peripherals>
+    <ports>2 joystick sockets (Atari standard), cartridge slot, expansion port, serial, RGB video output, keyboard</ports>
+    <power>Built-in power supply unit</power>
+    <price>SX-64 : US$ 1000 (USA, may 1983) - ?895 (U.K., 1984)</price>
+    <production></production>
+    <ram>64k (38911 bytes free)</ram>
+    <rom>20k</rom>
+    <screenshots>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;SX-64 #1&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;p class=&amp;quot;petitgris&amp;quot;&amp;gt;Special thanks to &amp;lt;b&amp;gt;Marc Horchler&amp;lt;/b&amp;gt; who donated us the pictured computer&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Commodore_sx64_System_s3.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;SX-64 #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Commodore_sx64_System_s2.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;SX-64 #3&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/commodore_sx64_hr_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;FRONT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/commodore_sx64_front_hr_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;RUNNING SYSTEM&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Same well known boot-up screen as the Commodore 64.&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Commodore_sx64_BootScreen_s1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;CARTRIDGE SLOT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Commodore_sx64_Cartridge_s1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;FRONT BUTTONS&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;These buttons, protected by a cover, allow video and sound adjustments, as well as the floppy drive reset.&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Commodore_sx64_Videobuttons.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;FRONT&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/commodore_sx64_front_hr_2.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;CLOSED #1&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The cable you see below the computer is used to connect the detachable keyboard to the central unit. If you find a SX-64, make sure you get this cable as it is often missing.&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Commodore_sx64_closed_s1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;CLOSED #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Commodore_sx64_closed_s2.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;CLOSED #3&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/commodore_sx64_closed_hr_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;CLOSED #4&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/commodore_sx64_closed_hr_2.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;REAR PANEL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;From left to right :&amp;lt;br&amp;gt; &amp;bull; 2 joystick DB9 sockets,&amp;lt;br&amp;gt; &amp;bull; RGB video output DIN socket,&amp;lt;br&amp;gt; &amp;bull; Serial DIN socket,&amp;lt;br&amp;gt; &amp;bull; Expansion port,&amp;lt;br&amp;gt; &amp;bull; Power in,&amp;lt;br&amp;gt; &amp;bull; Fuse,&amp;lt;br&amp;gt; &amp;bull; ON/OFF switch  &amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Commodore_sx64_BackSide_s1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;REAR #2&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/commodore_sx64_rear_hr_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;KEYBOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/commodore_sx64_keyboard_hr_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;UNCOVERED&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The upper plasic housing was replaced with a second floppy drive in the DX-64 version.&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Commodore_sx64_Uncovered_s1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;INSIDE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(1)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Main CPU card&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(2)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; I/O card. The cartridge slot is connected to this card&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(3)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Floppy drive controller card&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(4)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Power supply unit&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;(5)&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt; Video CRT card&amp;lt;br&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Commodore_sx64_Inside_s1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;INSIDE CLOSE-UP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Commodore_sx64_Inside_s2.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;COMMODORE LABEL&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Where we can see that this model was manufactured in Japan, in December 1983&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Commodore_sx64_Label_s1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;SX500&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;The SX500 was an Amiga 500 cased into a SX64 chassis.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;  Only a few prototypes were made, although the machines creator has 1 of them, often shown at Computer shows over in the states.  It used the same case, as you can see where the top cartridge slot has been blocked off! &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; About the SX-500, &amp;lt;b&amp;gt;Bob Eller&amp;lt;/b&amp;gt; adds:&amp;lt;br&amp;gt; Your SX-500 picture is a one of a kind computer built by Dale Luck, who was with the Amiga Los Gatos engineering team.  As I understand it, he wanted a portable Amiga and put the machine in a gutted SX-64 case. &amp;lt;p class=&amp;quot;petitgris&amp;quot;&amp;gt;Thanks to &amp;lt;b&amp;gt;Malcolm Ramage&amp;lt;/b&amp;gt; - Picture from &amp;lt;b&amp;gt;www.retrobits.com&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Commodore_sx64_SX500_s1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;MIDI SYSTEM&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;John Tudder&amp;lt;/b&amp;gt; sent us this amazing pictures along with the following comment:&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;#666666&amp;quot;&amp;gt; I made some great music and played live with this setup. All in a rack mount now.&amp;lt;/font&amp;gt; &amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Commodore_sx64_MidiSystem_s1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;GPIB VERSION&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This special version held a GPIB interface controller. It was probably modified by a third company.&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/Commodore_sx64_GPIBmodel.jpg</link>
+        </shot>
+    </screenshots>
+    <size>36.8 (W) x 36.8 (D) x 12.7 (H) cm</size>
+    <sound>3 voices, 9 octaves, 4 waveforms</sound>
+    <speed>1 Mhz</speed>
+    <switches></switches>
+    <text>40 chars. x 25 lines with 16 colors</text>
+    <type>Transportable</type>
+    <vram></vram>
+    <year>1983</year>
+</computer>

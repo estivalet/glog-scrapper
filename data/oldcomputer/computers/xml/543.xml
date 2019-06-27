@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computer>
+    <adverts>
+        <advert>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;1980 ADVERT &amp;amp; PRICE LIST&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;b&amp;gt;Price list&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;  &amp;lt;b&amp;gt;VP-111  &amp;lt;/b&amp;gt;Low cost microcomputer  &amp;lt;b&amp;gt;$99&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;VP-114  &amp;lt;/b&amp;gt;Expansion kit for VP-111 (3 KB RAM, I/O port and connectors)  &amp;lt;b&amp;gt;$76&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;VP-711  &amp;lt;/b&amp;gt;Original VIP microcomputer &amp;lt;b&amp;gt;$199&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;VP-44    &amp;lt;/b&amp;gt;On board RAM expansion (4 x 2114 RAM chips)  &amp;lt;b&amp;gt;$36&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;VP-590  &amp;lt;/b&amp;gt;Color board  &amp;lt;b&amp;gt;$69&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;VP-595  &amp;lt;/b&amp;gt;Simple sound board (256 programmable frequencies) with speaker  &amp;lt;b&amp;gt;$30&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;VP-550  &amp;lt;/b&amp;gt;Super sound board (Synthetiser with two sound channels  &amp;lt;b&amp;gt;$49&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;VP-551  &amp;lt;/b&amp;gt;Super sound 4 channels expansion &amp;lt;b&amp;gt;$74&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;VP-570  &amp;lt;/b&amp;gt;4 KB RAM memory expansion board  &amp;lt;b&amp;gt;$95&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;VP-580  &amp;lt;/b&amp;gt;Two players keypad  &amp;lt;b&amp;gt;$20&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;VP-585  &amp;lt;/b&amp;gt;Keypad interface board  &amp;lt;b&amp;gt;$15&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;VP-560  &amp;lt;/b&amp;gt;Eprom board for two 2716 EPROMS  &amp;lt;b&amp;gt;$34&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;VP-565  &amp;lt;/b&amp;gt;2716 EPROM programmer with software  &amp;lt;b&amp;gt;$99&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;VP-575  &amp;lt;/b&amp;gt;Expansion board with 5 expansions sockets  &amp;lt;b&amp;gt;$59&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;VP-700  &amp;lt;/b&amp;gt;4 KB Tiny Basic  &amp;lt;b&amp;gt;$39&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;VP-701  &amp;lt;/b&amp;gt;Floating point Basic (cassette)  &amp;lt;b&amp;gt;$49&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;VP-710  &amp;lt;/b&amp;gt;Game listings  &amp;lt;b&amp;gt;$10&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;VP-720  &amp;lt;/b&amp;gt;Game listings II  &amp;lt;b&amp;gt;$15&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;VP-601  &amp;lt;/b&amp;gt;Keyboard 128-character ASCII  &amp;lt;b&amp;gt;$69&amp;lt;/b&amp;gt; &amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/adverts/RCA_Cosmac_Advert_1.jpg</link>
+        </advert>
+    </adverts>
+    <batteries></batteries>
+    <builtInGames>CHIP-8 interpreter</builtInGames>
+    <buttons></buttons>
+    <colors>Black &amp;amp; white</colors>
+    <controllers></controllers>
+    <coprocessor>RCA CDP-1861 video chip</coprocessor>
+    <cpu>RCA CDP-1802</cpu>
+    <description>
+The Cosmac VIP, originaly named VP-111, is a typical hobbyist &amp;quot;single-board&amp;quot; computer sold as a kit. You had to build it yourself ! The system uses a RCA CDP-1802 microprocessor like the RCA Studio II video game system. In fact the Studio II is very similar to the VIP and can be considered as its video-game version. But the VIP is also somehow an improved version of the original Cosmac Elf board system, described in Popular Electronics magazine, august 76 and the following months. The CDP-1802 CPU was also used as the heart of the Voyager, Viking and Galileo probes ! Until recently the 1802 was quite popular (for alarm systems for example) thanks to its CMOS technology ideal for low power systems.
+
+The Cosmac VIP has a most basic hexadecimal keyboard (16 keys). The language stored in ROM is called CHIP-8 and is only 512 bytes long ! It consists of 31 instructions each of which is two bytes (or four hex digits) long. It's a kind of simplified machine language. 16 one-byte variables are provided. Subroutine nesting and machine language inserts are permitted. CHIP-8 was quite popular at that time (Telmac 1800, ETI 660 and DREAM 6800 used it) as it allowed to program video games easily. CHIP-8 was not only used in the late 70's and early 80's. It was used in the early 90's on the HP48 calculator because there was no programming tools to develop fast games on it. Then, a better version of CHIP-8 appeared: SUPER-CHIP. This interpreter has all the CHIP-8 features, as well as and some new ones like a 128*64 resolution (source : David Winter).
+RCA also sold Tiny Basic, a simple Basic interpreter, as a 4K ROM on an expansion board.
+
+With this system, basic functions are : type programs into RAM from the hex keyboard, save and load programs on tapes, display memory bytes in hex on CRT, step through RAM contents and examine microprocessor registers. Wow.
+
+The Cosmac VIP is equiped with a sound chip and a real-time crystal clock. The sound produced can be heard through the tape output connector. It was delivered with some documentations (CHIP-8, machine language) and listings of 20 video games !
+
+To the left of the hexadecimal keyboard are a reset switch and LED indicators for power-on and cassette operation. Memory add-ons, expansion port and parallel interface are pre-wired on the motherboard but have to be implemented as options. With the I/O interface, you could connect interface relays, sensors, printers or ASCII keyboards.
+ 
+
+
+</description>
+    <emulators>
+        <emulator>
+            <description>MS-DOS emulator bundled with games</description>
+            <link>http://myweb.worldnet.net/~winter/chip8/chip8.htm</link>
+            <name>CHIP-8 emulator</name>
+            <platform>MS DOS emulator</platform>
+        </emulator>
+        <emulator>
+            <description>Emulation of 1802-based computer now on Mac OS X</description>
+            <link>http://www.tinyelf.com/</link>
+            <name>TinyELF for MacOS</name>
+            <platform>Apple emulator</platform>
+        </emulator>
+        <emulator>
+            <description>Elf, Elf II, Super ELF and Studio II emulator (Windows compilation also available)</description>
+            <link>http://www.elf-emulation.com/emulator.html</link>
+            <name>RCS Elf Emulator</name>
+            <platform>Unix / Linux emulator</platform>
+        </emulator>
+        <emulator>
+            <description>Emulates an Elf computer on PalmOS systems. The Elf is quite similar to the Cosmac VIP.</description>
+            <link>http://www.cosmacelf.com/tinyelf.htm</link>
+            <name>TinyELF for PalmOS</name>
+            <platform>Other platform emulator</platform>
+        </emulator>
+    </emulators>
+    <graphics>64 x 32</graphics>
+    <gun></gun>
+    <hardwares/>
+    <hardwareDescription>The following optional accessories were available :
+- VP-114 expansion kit : it expands the VP-111 to full VP-711 capability. Includes : 3K RAM and sockets, components for 8 bit input and 8 bit ouput port, sockets for system expansion and I/O port.
+- VP-155 plastic cover,
+- Memory VP-570 RAM expansion board adds 4Kb of memory. Jumper locates RAM in any 4k block of up to 32k of memory. On-board memory protect switch.
+- Color VP-590 color board allows program control of 8 brilliant colors for graphics, color games, plus 4 selectable background colors. Includes sockets for 2 auxiliary keypads.
+- Music VP-550 Super Sound Board turns the VP-111 into a music synthesizer. Two sound channels with independent control od frequency, time and amplitude envelope (voice). Sync provisions for controlling multiple VP-111's, multitrack recording or other synthesizers. 2k VP-111 memory required. Can be expanded to 4 channels by adding VP-551 and 4K RAM.
+- VP-565 EPROM Programmer Board complete with software to program, copy and verify 5v 2716 EPROMs ZIF PROM socket.
+- Auxiliary Keypads : Program your VP for 2 player interaction games! 16-key keypad VP-580 with cable connects to sockets provided on VP-590 Color Board or VP-585 Keyboard Interface Card.
+- VP-700 Expanded Tiny Basic board : the language is stored in 4k ROM. This expanded Basic includes the standard Tiny Basic commands plus 12 additional - including color and sound control. An external ASCII encodedd, alpha-numeric keyboard is required.
+- VP-114 expansion kit.
+- VP-595 Simple Sound Board provides 256 tone frequencies. Programmable tone and duration.
+- VP-601 ASCII Keyboard, fully encoded, 128-character ASCII encoded alpha-numeric keyboard. 58 light touch keys including 2 user defined keys. Selectable upper and lower case. A similar keyboardn VP-611n which includes a 16-key numeric keypad is also available.</hardwareDescription>
+    <image>http://www.old-computers.com/museum/photos/rca_cosmac-vip_1.jpg</image>
+    <keyboard>Hexadecimal membrane keyboard, 16 keys</keyboard>
+    <language>CHIP-8 interpreter</language>
+    <links>
+        <link>computer.asp?st=1&amp;amp;c=908</link>
+        <link>http://incolor.inebraska.com/bill_r/rca_cosmac_vip_brochure.htm</link>
+        <link>http://groups.yahoo.com/group/rcacosmac/</link>
+        <link>http://www.cosmacelf.com/</link>
+        <link>http://www.elf-emulation.com</link>
+    </links>
+    <manufacturer>RCA</manufacturer>
+    <media></media>
+    <name>Cosmac VIP</name>
+    <numGames></numGames>
+    <origin>U.S.A.</origin>
+    <peripherals>Expansion interface, Parallel I/O interface</peripherals>
+    <ports>Video output, tape cassette interface (100 bytes per second)</ports>
+    <power>VP-111 : +5.0 +/- 0.25 VDC @ 250 mAVIP : 5v dc, 600mA</power>
+    <price>$275 (USA, 1977)</price>
+    <production></production>
+    <ram>1 kb (VP-111) or 2 Kb (VIP), upgradable to 32 kb</ram>
+    <rom>VP-111 : 1 kbVIP : 4 kb CMOS ROM + 512 byte Monitor ROM</rom>
+    <screenshots>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;COSMAC VIP&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/rca_cosmac_vip_top.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;MOTHER BOARD&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;This is quite a simple electronic layout.&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/rca_cosmac-vip_mobo_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;MOTHER BOARD - TOP VIEW&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/rca_cosmac_vip_mobo_top.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;IN USE&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;Someone courageous enough to test the Cosmac VIP...&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/rca_cosmac-vip_in-use_1.jpg</link>
+        </shot>
+        <shot>
+            <description>&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;gt;&amp;nbsp;FAMILY&amp;lt;/strong&amp;gt;&amp;lt;/font&amp;gt;&amp;lt;br&amp;gt;&amp;lt;blockquote&amp;gt;&amp;quot;Cosmac VIP. The computer for the whole family.&amp;quot; &amp;lt;br&amp;gt;&amp;lt;br&amp;gt; They indeed seem to have a lot of fun !&amp;lt;/blockquote&amp;gt;</description>
+            <link>http://www.old-computers.com/museum/photos/rca_cosmac-vip_family_1.jpg</link>
+        </shot>
+    </screenshots>
+    <size>8.5'' x 11'' x 1'' / 2.2 lbs</size>
+    <sound>1.4 kHz tone generator. Ouput may be connected to any small standard 8 ohm speaker</sound>
+    <speed>1.7609 MHz (4.54 microsecond per machine cycle)</speed>
+    <switches></switches>
+    <text>Texts are displayed using graphical features</text>
+    <type>Home Computer</type>
+    <vram></vram>
+    <year>1977</year>
+</computer>
