@@ -11,8 +11,38 @@ var systemSchema = new Schema(
     manufacturer: { type: String },
     country: { type: String },
     year: { type: String },
+    price: { type: String },
+    description: { type: String },
+    image: { type: String },
+    shots: [],
+    adverts: [],
+    emulators: [],
+    links: [],
     technicalInformation: {
+        batteries: { type: String },
+        buttons: { type: String },
+        builtInGames: { type: String },
+        colors: { type: String },
+        controllers: { type: String },
+        coprocessor: { type: String },
+        cpu: { type: String },
+        graphics: { type: String },
+        gun: { type: String },
+        keyboard: { type: String },
+        language: { type: String },
+        media: { type: String },
+        numGames: { type: String },
+        peripherals: { type: String },
+        ports: { type: String },
+        power: { type: String },
         ram: { type: String },
+        rom: { type: String },
+        size: { type: String },
+        sound: { type: String },
+        speed: { type: String },
+        switches: { type: String },
+        text: { type: String },
+        vram: { type: String },
     }
 
   },
@@ -36,15 +66,47 @@ var url = "mongodb://localhost:27017/mytestingdb";
 mongoose.connect(url, { useNewUrlParser: true })
 .then(()=> {
 
+    console.log(content.shot);
+
     const systemx = new Systemx({
         name: content.name,
         type: content.type,
         manufacturer: content.manufacturer,
         country: content.origin,
         year: content.year,
+        price: content.price,
+        description: content.description,
+        image: content.image,
+        shots: content.shot,
+        adverts: content.advert,
+        emulators: content.emulator,
+        links: content.link,
         technicalInformation: {
+            batteries: content.batteries,
+            buttons: content.buttons,
+            builtInGames: content.builtInGames,
+            colors: content.colors,
+            controllers: content.controllers,
+            coprocessor: content.coprocessor,
+            cpu: content.cpu,
+            graphics: content.graphics,
+            gun: content.gun,
+            keyboard: content.keyboard,
+            language: content.language,
+            media: content.media,
+            numGames: content.numGames,
+            peripherals: content.peripherals,
+            ports: content.ports,
+            power: content.power,
             ram: content.ram,
-        }
+            rom: content.rom,
+            size: content.size,
+            sound: content.sound,
+            speed: content.speed,
+            switches: content.switches,
+            text: content.text,
+            vram: content.vram
+            }
             
         
     });
