@@ -62,7 +62,7 @@ var content = JSON.parse(fs.readFileSync("C:\\Users\\lestivalet\\dev\\stuff\\glo
 console.log("Output Content : \n"+ content);
 
 // 3. import into db
-var url = "mongodb://localhost:27017/mytestingdb";
+var url = "mongodb://localhost:27017/barch";
 mongoose.connect(url, { useNewUrlParser: true })
 .then(()=> {
 
