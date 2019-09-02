@@ -148,7 +148,34 @@ public class PostProcessingJSON {
 		System.exit(0);
 	}
 
+	public static void generateListComparingGenerationMSXWithAttractMode() throws Exception {
+		Set<String> genmsxtitle = new HashSet<String>();
+		Gson gson = new Gson();
+		for (String file : new File("c:/temp/generationmsx/json").list()) {
+			String json = IOUtil.readFully(new FileInputStream("c:/temp/generationmsx/json/" + file));
+			GenerationMSXGame game = gson.fromJson(json, GenerationMSXGame.class);
+			if ("Game".equals(game.getKind())) {
+				String title = game.getTranslatedTitle();
+				if (title.trim().equals("") || title.contains("Japanese")) {
+					title = game.getOriginalTitle();
+				}
+				if (title.indexOf("(") > 0) {
+					title = title.substring(0, title.indexOf("(") - 1);
+				}
+				genmsxtitle.add(title + ";" + file);
+			}
+		}
+
+		Iterator<String> iterator = genmsxtitle.iterator();
+		while (iterator.hasNext()) {
+			System.out.println(iterator.next());
+		}
+	}
+
 	public static void main(String[] args) throws Exception {
+		PostProcessingJSON.generateListComparingGenerationMSXWithAttractMode();
+		System.exit(0);
+
 		PostProcessingJSON.importGamesUsinMyStructure();
 		System.exit(0);
 
@@ -156,8 +183,8 @@ public class PostProcessingJSON {
 
 		Set<String> companies = new HashSet<String>();
 		Set<String> genres = new HashSet<String>();
-		for (String file : new File("data/generationmsx/json").list()) {
-			String json = IOUtil.readFully(new FileInputStream("data/generationmsx/json/" + file));
+		for (String file : new File("c:/temp/generationmsx/json").list()) {
+			String json = IOUtil.readFully(new FileInputStream("c:/temp/generationmsx/json/" + file));
 			GenerationMSXGame game = gson.fromJson(json, GenerationMSXGame.class);
 			for (GenerationMSXGameRelease r : game.getReleases()) {
 				if (r.getPublisher() != null) {
