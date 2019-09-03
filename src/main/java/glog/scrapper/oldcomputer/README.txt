@@ -18,6 +18,7 @@ var systemSchema = new Schema(
     adverts: [],
     emulators: [],
     links: [],
+    hardware: [],
     technicalInformation: {
         batteries: { type: String },
         buttons: { type: String },
@@ -92,6 +93,7 @@ fs.readdir("C:\\Users\\lestivalet\\dev\\stuff\\glog-scrapper\\data\\oldcomputer\
                 adverts: content.advert,
                 emulators: content.emulator,
                 links: content.link,
+                hardware: content.hardware,
                 technicalInformation: {
                     batteries: content.batteries,
                     buttons: content.buttons,
