@@ -1,3 +1,4 @@
+// db.system.drop()
 
 // 1. define model
 var mongoose = require('mongoose');
@@ -60,8 +61,8 @@ var Systemx = mongoose.model('Systemx', systemSchema);
 var fs = require("fs");
 
 
-//fs.readdir("C:\\Users\\lestivalet\\dev\\stuff\\glog-scrapper\\data\\oldcomputer\\computers\\json", function (err, files) {
-fs.readdir("C:\\Temp\\oldcomputer", function (err, files) {
+fs.readdir("C:\\Users\\lestivalet\\dev\\stuff\\glog-scrapper\\data\\oldcomputer\\pongs\\json", function (err, files) {
+//fs.readdir("C:\\Temp\\oldcomputer", function (err, files) {
     //handling error
     if (err) {
         return console.log('Unable to scan directory: ' + err);
@@ -71,8 +72,8 @@ fs.readdir("C:\\Temp\\oldcomputer", function (err, files) {
         // Do whatever you want to do with the file
        // console.log(file); 
 
-//        var content = JSON.parse(fs.readFileSync("C:\\Users\\lestivalet\\dev\\stuff\\glog-scrapper\\data\\oldcomputer\\computers\\json\\" + file));
-        var content = JSON.parse(fs.readFileSync("C:\\temp\\oldcomputer\\" + file));
+        var content = JSON.parse(fs.readFileSync("C:\\Users\\lestivalet\\dev\\stuff\\glog-scrapper\\data\\oldcomputer\\pongs\\json\\" + file));
+        //var content = JSON.parse(fs.readFileSync("C:\\temp\\oldcomputer\\" + file));
        // console.log("Output Content : \n"+ content);
         
         // 3. import into db
@@ -107,7 +108,10 @@ fs.readdir("C:\\Temp\\oldcomputer", function (err, files) {
 
             const systemx = new Systemx({
                 name: content.name,
-                type: content.type,
+                //type: content.type,
+                //type: 'Consoles',
+                //type: 'Computers',
+                type: 'Pongs',
                 manufacturer: content.manufacturer,
                 country: content.origin,
                 year: content.year,
@@ -166,4 +170,5 @@ fs.readdir("C:\\Temp\\oldcomputer", function (err, files) {
         });
                 
     });
+    console.log('DONE!')
 });
