@@ -151,8 +151,8 @@ public class PostProcessingJSON {
 	public static void generateListComparingGenerationMSXWithAttractMode() throws Exception {
 		Set<String> genmsxtitle = new HashSet<String>();
 		Gson gson = new Gson();
-		for (String file : new File("c:/temp/generationmsx/json").list()) {
-			String json = IOUtil.readFully(new FileInputStream("c:/temp/generationmsx/json/" + file));
+		for (String file : new File("d:/msx/generationmsx/json").list()) {
+			String json = IOUtil.readFully(new FileInputStream("d:/msx/generationmsx/json/" + file));
 			GenerationMSXGame game = gson.fromJson(json, GenerationMSXGame.class);
 			if ("Game".equals(game.getKind())) {
 				String title = game.getTranslatedTitle();
