@@ -1,3 +1,4 @@
+// db.system.drop()
 
 // 1. define model
 var mongoose = require('mongoose');
@@ -18,6 +19,7 @@ var systemSchema = new Schema(
     adverts: [],
     emulators: [],
     links: [],
+    hardware: [],
     technicalInformation: {
         batteries: { type: String },
         buttons: { type: String },
@@ -59,7 +61,8 @@ var Systemx = mongoose.model('Systemx', systemSchema);
 var fs = require("fs");
 
 
-fs.readdir("C:\\Users\\lestivalet\\dev\\stuff\\glog-scrapper\\data\\oldcomputer\\computers\\json", function (err, files) {
+fs.readdir("C:\\Users\\lestivalet\\dev\\stuff\\glog-scrapper\\data\\oldcomputer\\pongs\\json", function (err, files) {
+//fs.readdir("C:\\Temp\\oldcomputer", function (err, files) {
     //handling error
     if (err) {
         return console.log('Unable to scan directory: ' + err);
@@ -67,31 +70,59 @@ fs.readdir("C:\\Users\\lestivalet\\dev\\stuff\\glog-scrapper\\data\\oldcomputer\
     //listing all files using forEach
     files.forEach(function (file) {
         // Do whatever you want to do with the file
-        console.log(file); 
+       // console.log(file); 
 
-        var content = JSON.parse(fs.readFileSync("C:\\Users\\lestivalet\\dev\\stuff\\glog-scrapper\\data\\oldcomputer\\computers\\json\\" + file));
-        console.log("Output Content : \n"+ content);
+        var content = JSON.parse(fs.readFileSync("C:\\Users\\lestivalet\\dev\\stuff\\glog-scrapper\\data\\oldcomputer\\pongs\\json\\" + file));
+        //var content = JSON.parse(fs.readFileSync("C:\\temp\\oldcomputer\\" + file));
+       // console.log("Output Content : \n"+ content);
         
         // 3. import into db
         var url = "mongodb://localhost:27017/barch";
         mongoose.connect(url, { useNewUrlParser: true })
         .then(()=> {
         
-            console.log(content.shot);
-        
+            content.hardware.forEach(function(hardware) {
+                hardware.item.forEach(function(item) {
+                    item.description = item.description
+                                        .replace(/\u0026lt;/g,'')
+                                        .replace(/\u0026gt;/g,'')
+                                        .replace(/lt;/g,'')
+                                        .replace(/gt;/g, '')
+                                        .replace(/\u003d/g,'')
+                                        .replace(/\u0026quot;/g,"")
+                                        .replace(/\|/g,' ')
+                                        .replace(/&nbsp;/g,' ')
+                                        .replace(/brfont/g,'')
+                                        .replace(/colorredstrong/g,'')
+                                        .replace(/\/strong\/fontbrstrong/g,'')
+                                        .replace(/\/strongbrblockquote\/blockquote/g,'')
+                                        .replace(/\/strong\/fontbrblockquote/g,'')
+                                        .replace(/\/p\/blockquote/g,'')
+                                        .replace(/\&amp;/g,'&')
+                                        .replace(/\/strongbrblockquote/g,'')
+                                        .replace(/\/blockquote/g,'')
+                                        .replace(/p classpetitgris/g,'')
+                                        .replace(/\/b/g,'')
+                });
+            });
+
             const systemx = new Systemx({
                 name: content.name,
-                type: content.type,
+                //type: content.type,
+                //type: 'Consoles',
+                //type: 'Computers',
+                type: 'Pongs',
                 manufacturer: content.manufacturer,
                 country: content.origin,
                 year: content.year,
                 price: content.price,
-                description: content.description,
+                description: content.description.replace(/\n/g,'<br>'),
                 image: content.image,
                 shots: content.shot,
                 adverts: content.advert,
                 emulators: content.emulator,
                 links: content.link,
+                hardware: content.hardware,
                 technicalInformation: {
                     batteries: content.batteries,
                     buttons: content.buttons,
@@ -122,12 +153,12 @@ fs.readdir("C:\\Users\\lestivalet\\dev\\stuff\\glog-scrapper\\data\\oldcomputer\
                 
             });
         
-            console.log('go');
+            //console.log('go');
         
             systemx.save()
                 .then(data => {
-                    console.log('OK');
-                    console.log(data);
+                //    console.log('OK');
+              //      console.log(data);
                     mongoose.disconnect();
                 }).catch(err => {
                     console.log("errrrrrr" +err )
@@ -139,4 +170,5 @@ fs.readdir("C:\\Users\\lestivalet\\dev\\stuff\\glog-scrapper\\data\\oldcomputer\
         });
                 
     });
+    console.log('DONE!')
 });
