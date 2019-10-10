@@ -7,6 +7,10 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
+import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Set;
 
 import com.google.gson.Gson;
 
@@ -14,6 +18,32 @@ import glog.util.IOUtil;
 
 public class ImportToSQLite {
 
+	private List<OldComputer> computers = new ArrayList<OldComputer>();
+
+	/**
+	 * 
+	 */
+	public ImportToSQLite() {
+		String[] files = new File("data/oldcomputer/consoles/json").list();
+		for (String file : files) {
+			File json = new File("data/oldcomputer/consoles/json/" + file);
+			computers.add(new Gson().fromJson(IOUtil.getContents(json), OldComputer.class));
+		}
+		files = new File("data/oldcomputer/computers/json").list();
+		for (String file : files) {
+			File json = new File("data/oldcomputer/computers/json/" + file);
+			computers.add(new Gson().fromJson(IOUtil.getContents(json), OldComputer.class));
+		}
+		files = new File("data/oldcomputer/pongs/json").list();
+		for (String file : files) {
+			File json = new File("data/oldcomputer/pongs/json/" + file);
+			computers.add(new Gson().fromJson(IOUtil.getContents(json), OldComputer.class));
+		}
+	}
+
+	/**
+	 * @return
+	 */
 	private Connection connect() {
 		String url = "jdbc:sqlite:C://temp/octupus.db";
 		Connection conn = null;
@@ -25,14 +55,55 @@ public class ImportToSQLite {
 		return conn;
 	}
 
+	/**
+	 * 
+	 */
+	private void insertManufacturer() {
+		Set<String> manufacturers = new HashSet<String>();
+		for (OldComputer oc : this.computers) {
+			if (oc.getManufacturer() != null) {
+				manufacturers.add(oc.getManufacturer().trim());
+			}
+		}
+
+		for (String manufacturer : manufacturers) {
+			String sql = "INSERT INTO manufacturer (name)" + "values (?)";
+
+			try (Connection conn = this.connect(); PreparedStatement pstmt = conn.prepareStatement(sql)) {
+				pstmt.setString(1, manufacturer);
+				pstmt.executeUpdate();
+				pstmt.close();
+			} catch (SQLException e) {
+				System.out.println(e.getMessage());
+			}
+
+		}
+	}
+
 	public void insert(OldComputer oc) {
 		Long systemId = 0L;
-		String sql = "INSERT INTO system (name, manufacturer, type, country, year, description, price)"
+		Long manufacturerId = 0L;
+
+		String sql = "SELECT id FROM manufacturer WHERE name = ?";
+		try (Connection conn = this.connect(); PreparedStatement pstmt = conn.prepareStatement(sql)) {
+			pstmt.setString(1, oc.getManufacturer());
+			ResultSet rs = pstmt.executeQuery();
+			if (rs.next()) {
+				manufacturerId = rs.getLong("id");
+			} else {
+				System.out.println("***WARNING manufacturer not found for " + oc.getName() + " " + oc.getUrl());
+			}
+			rs.close();
+		} catch (SQLException e) {
+			System.out.println(e.getMessage());
+		}
+
+		sql = "INSERT INTO system (name, manufacturer_id, type, country, year, description, price)"
 				+ "values (?, ?, ?, ?, ?, ?, ?)";
 
 		try (Connection conn = this.connect(); PreparedStatement pstmt = conn.prepareStatement(sql)) {
 			pstmt.setString(1, oc.getName());
-			pstmt.setString(2, oc.getManufacturer());
+			pstmt.setLong(2, manufacturerId);
 			pstmt.setString(3, oc.getType());
 			pstmt.setString(4, oc.getOrigin());
 			pstmt.setString(5, oc.getYear());
@@ -43,7 +114,6 @@ public class ImportToSQLite {
 			ResultSet rs = stmt.executeQuery("select last_insert_rowid()");
 			rs.next();
 			systemId = rs.getLong(1);
-			System.out.println("--->" + systemId);
 			rs.close();
 		} catch (SQLException e) {
 			System.out.println(e.getMessage());
@@ -86,16 +156,25 @@ public class ImportToSQLite {
 
 	}
 
-	public static void main(String[] args) {
-		ImportToSQLite imp = new ImportToSQLite();
-
-		String[] files = new File("data/oldcomputer/consoles/json").list();
-		for (String file : files) {
-			File json = new File("data/oldcomputer/consoles/json/" + file);
-			OldComputer oc = new Gson().fromJson(IOUtil.getContents(json), OldComputer.class);
-			System.out.println(oc.getManufacturer() + " " + oc.getName());
-			imp.insert(oc);
+	private void importData() {
+		insertManufacturer();
+		for (OldComputer oc : computers) {
+			insert(oc);
 		}
 
 	}
+
+	private void deleteData() throws SQLException {
+		Connection conn = this.connect();
+		conn.prepareStatement("DELETE FROM manufacturer").execute();
+		conn.prepareStatement("DELETE FROM system").execute();
+		conn.prepareStatement("DELETE FROM technical_information").execute();
+	}
+
+	public static void main(String[] args) throws SQLException {
+		ImportToSQLite imp = new ImportToSQLite();
+		imp.deleteData();
+		imp.importData();
+	}
+
 }
