@@ -27,17 +27,23 @@ public class ImportToSQLite {
 		String[] files = new File("data/oldcomputer/consoles/json").list();
 		for (String file : files) {
 			File json = new File("data/oldcomputer/consoles/json/" + file);
-			computers.add(new Gson().fromJson(IOUtil.getContents(json), OldComputer.class));
+			OldComputer oc = new Gson().fromJson(IOUtil.getContents(json), OldComputer.class);
+			oc.setType("Console");
+			computers.add(oc);
 		}
 		files = new File("data/oldcomputer/computers/json").list();
 		for (String file : files) {
 			File json = new File("data/oldcomputer/computers/json/" + file);
-			computers.add(new Gson().fromJson(IOUtil.getContents(json), OldComputer.class));
+			OldComputer oc = new Gson().fromJson(IOUtil.getContents(json), OldComputer.class);
+			oc.setType("Computer");
+			computers.add(oc);
 		}
 		files = new File("data/oldcomputer/pongs/json").list();
 		for (String file : files) {
 			File json = new File("data/oldcomputer/pongs/json/" + file);
-			computers.add(new Gson().fromJson(IOUtil.getContents(json), OldComputer.class));
+			OldComputer oc = new Gson().fromJson(IOUtil.getContents(json), OldComputer.class);
+			oc.setType("Pong");
+			computers.add(oc);
 		}
 	}
 
@@ -45,7 +51,7 @@ public class ImportToSQLite {
 	 * @return
 	 */
 	private Connection connect() {
-		String url = "jdbc:sqlite:C://temp/octupus.db";
+		String url = "jdbc:sqlite:C:\\luisoft\\develop\\octupusgdb-web\\octupusgdb.db";
 		Connection conn = null;
 		try {
 			conn = DriverManager.getConnection(url);
@@ -98,8 +104,7 @@ public class ImportToSQLite {
 			System.out.println(e.getMessage());
 		}
 
-		sql = "INSERT INTO system (name, manufacturer_id, type, country, year, description, price)"
-				+ "values (?, ?, ?, ?, ?, ?, ?)";
+		sql = "INSERT INTO system (name, manufacturer_id, type, country, year, description, price)" + "values (?, ?, ?, ?, ?, ?, ?)";
 
 		try (Connection conn = this.connect(); PreparedStatement pstmt = conn.prepareStatement(sql)) {
 			String description = oc.getDescription();
