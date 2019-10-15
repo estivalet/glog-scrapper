@@ -102,12 +102,14 @@ public class ImportToSQLite {
 				+ "values (?, ?, ?, ?, ?, ?, ?)";
 
 		try (Connection conn = this.connect(); PreparedStatement pstmt = conn.prepareStatement(sql)) {
+			String description = oc.getDescription();
+			description = description.replaceAll("\n", "<br>");
 			pstmt.setString(1, oc.getName());
 			pstmt.setLong(2, manufacturerId);
 			pstmt.setString(3, oc.getType());
 			pstmt.setString(4, oc.getOrigin());
 			pstmt.setString(5, oc.getYear());
-			pstmt.setString(6, oc.getDescription());
+			pstmt.setString(6, description);
 			pstmt.setString(7, oc.getPrice());
 			pstmt.executeUpdate();
 			Statement stmt = conn.createStatement();
