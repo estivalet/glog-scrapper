@@ -29,6 +29,7 @@ public class ImportToSQLite {
 			File json = new File("data/oldcomputer/consoles/json/" + file);
 			OldComputer oc = new Gson().fromJson(IOUtil.getContents(json), OldComputer.class);
 			oc.setType("Console");
+			oc.setUrl("http://www.old-computers.com/museum/computer.asp?c=" + file.replace(".json", ""));
 			computers.add(oc);
 		}
 		files = new File("data/oldcomputer/computers/json").list();
@@ -36,6 +37,7 @@ public class ImportToSQLite {
 			File json = new File("data/oldcomputer/computers/json/" + file);
 			OldComputer oc = new Gson().fromJson(IOUtil.getContents(json), OldComputer.class);
 			oc.setType("Computer");
+			oc.setUrl("http://www.old-computers.com/museum/computer.asp?c=" + file.replace(".json", ""));
 			computers.add(oc);
 		}
 		files = new File("data/oldcomputer/pongs/json").list();
@@ -43,6 +45,7 @@ public class ImportToSQLite {
 			File json = new File("data/oldcomputer/pongs/json/" + file);
 			OldComputer oc = new Gson().fromJson(IOUtil.getContents(json), OldComputer.class);
 			oc.setType("Pong");
+			oc.setUrl("http://www.old-computers.com/museum/computer.asp?c=" + file.replace(".json", ""));
 			computers.add(oc);
 		}
 	}
@@ -104,18 +107,19 @@ public class ImportToSQLite {
 			System.out.println(e.getMessage());
 		}
 
-		sql = "INSERT INTO system (name, manufacturer_id, type, country, year, description, price)" + "values (?, ?, ?, ?, ?, ?, ?)";
+		sql = "INSERT INTO system (name, name_alt, manufacturer_id, type, country, year, description, price)" + "values (?, ?, ?, ?, ?, ?, ?, ?)";
 
 		try (Connection conn = this.connect(); PreparedStatement pstmt = conn.prepareStatement(sql)) {
 			String description = oc.getDescription();
 			description = description.replaceAll("\n", "<br>");
 			pstmt.setString(1, oc.getName());
-			pstmt.setLong(2, manufacturerId);
-			pstmt.setString(3, oc.getType());
-			pstmt.setString(4, oc.getOrigin());
-			pstmt.setString(5, oc.getYear());
-			pstmt.setString(6, description);
-			pstmt.setString(7, oc.getPrice());
+			pstmt.setString(2, oc.getName());
+			pstmt.setLong(3, manufacturerId);
+			pstmt.setString(4, oc.getType());
+			pstmt.setString(5, oc.getOrigin());
+			pstmt.setString(6, oc.getYear());
+			pstmt.setString(7, description);
+			pstmt.setString(8, oc.getPrice());
 			pstmt.executeUpdate();
 			Statement stmt = conn.createStatement();
 			ResultSet rs = stmt.executeQuery("select last_insert_rowid()");
@@ -161,6 +165,17 @@ public class ImportToSQLite {
 			System.out.println(e.getMessage());
 		}
 
+		sql = "INSERT INTO link (system_id, url, description) VALUES(?, ?, ?)";
+
+		try (Connection conn = this.connect(); PreparedStatement pstmt = conn.prepareStatement(sql)) {
+			pstmt.setLong(1, systemId);
+			pstmt.setString(2, oc.getUrl());
+			pstmt.setString(3, "old-computers.com");
+			pstmt.executeUpdate();
+		} catch (SQLException e) {
+			System.out.println("--->" + e.getMessage());
+		}
+
 	}
 
 	private void importData() {
@@ -174,6 +189,7 @@ public class ImportToSQLite {
 	private void deleteData() throws SQLException {
 		Connection conn = this.connect();
 		conn.prepareStatement("DELETE FROM manufacturer").execute();
+		conn.prepareStatement("DELETE FROM link").execute();
 		conn.prepareStatement("DELETE FROM system").execute();
 		conn.prepareStatement("DELETE FROM technical_information").execute();
 	}
