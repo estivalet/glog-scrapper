@@ -28,6 +28,7 @@ public class ImportToSQLite {
 		for (String file : files) {
 			File json = new File("data/oldcomputer/consoles/json/" + file);
 			OldComputer oc = new Gson().fromJson(IOUtil.getContents(json), OldComputer.class);
+			oc.setCategoryId(2);
 			oc.setType("Console");
 			oc.setUrl("http://www.old-computers.com/museum/computer.asp?c=" + file.replace(".json", ""));
 			computers.add(oc);
@@ -36,6 +37,7 @@ public class ImportToSQLite {
 		for (String file : files) {
 			File json = new File("data/oldcomputer/computers/json/" + file);
 			OldComputer oc = new Gson().fromJson(IOUtil.getContents(json), OldComputer.class);
+			oc.setCategoryId(1);
 			oc.setType("Computer");
 			oc.setUrl("http://www.old-computers.com/museum/computer.asp?c=" + file.replace(".json", ""));
 			computers.add(oc);
@@ -44,6 +46,7 @@ public class ImportToSQLite {
 		for (String file : files) {
 			File json = new File("data/oldcomputer/pongs/json/" + file);
 			OldComputer oc = new Gson().fromJson(IOUtil.getContents(json), OldComputer.class);
+			oc.setCategoryId(4);
 			oc.setType("Pong");
 			oc.setUrl("http://www.old-computers.com/museum/computer.asp?c=" + file.replace(".json", ""));
 			computers.add(oc);
@@ -107,7 +110,8 @@ public class ImportToSQLite {
 			System.out.println(e.getMessage());
 		}
 
-		sql = "INSERT INTO system (name, name_alt, manufacturer_id, type, country, year, description, price)" + "values (?, ?, ?, ?, ?, ?, ?, ?)";
+		sql = "INSERT INTO system (name, name_alt, manufacturer_id, category_id, type, country, year, description, price)"
+				+ "values (?, ?, ?, ?, ?, ?, ?, ?, ?)";
 
 		try (Connection conn = this.connect(); PreparedStatement pstmt = conn.prepareStatement(sql)) {
 			String description = oc.getDescription();
@@ -115,11 +119,12 @@ public class ImportToSQLite {
 			pstmt.setString(1, oc.getName());
 			pstmt.setString(2, oc.getName());
 			pstmt.setLong(3, manufacturerId);
-			pstmt.setString(4, oc.getType());
-			pstmt.setString(5, oc.getOrigin());
-			pstmt.setString(6, oc.getYear());
-			pstmt.setString(7, description);
-			pstmt.setString(8, oc.getPrice());
+			pstmt.setInt(4, oc.getCategoryId());
+			pstmt.setString(5, oc.getType());
+			pstmt.setString(6, oc.getOrigin());
+			pstmt.setString(7, oc.getYear());
+			pstmt.setString(8, description);
+			pstmt.setString(9, oc.getPrice());
 			pstmt.executeUpdate();
 			Statement stmt = conn.createStatement();
 			ResultSet rs = stmt.executeQuery("select last_insert_rowid()");
@@ -194,6 +199,12 @@ public class ImportToSQLite {
 		conn.prepareStatement("DELETE FROM technical_information").execute();
 	}
 
+	/**
+	 * WARNING! Must have the CATEGORY table created and populated BEFORE running this script. Check octupusgdb project.
+	 * 
+	 * @param args
+	 * @throws SQLException
+	 */
 	public static void main(String[] args) throws SQLException {
 		ImportToSQLite imp = new ImportToSQLite();
 		imp.deleteData();

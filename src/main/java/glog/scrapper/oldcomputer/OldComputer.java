@@ -51,6 +51,8 @@ public class OldComputer {
 	private String buttons;
 	private String gun;
 
+	private int categoryId;
+
 	/**
 	 * @return the release
 	 */
@@ -267,8 +269,7 @@ public class OldComputer {
 	}
 
 	/**
-	 * @param url
-	 *            the url to set
+	 * @param url the url to set
 	 */
 	public void setUrl(String url) {
 		this.url = url;
@@ -283,8 +284,7 @@ public class OldComputer {
 	}
 
 	/**
-	 * @param screenshots
-	 *            the screenshots to set
+	 * @param screenshots the screenshots to set
 	 */
 	public void setShot(List<OldComputerShot> shot) {
 		this.shot = shot;
@@ -303,8 +303,7 @@ public class OldComputer {
 	}
 
 	/**
-	 * @param screenshots
-	 *            the screenshots to set
+	 * @param screenshots the screenshots to set
 	 */
 	public void setAdvert(List<OldComputerAdvert> advert) {
 		this.advert = advert;
@@ -331,8 +330,7 @@ public class OldComputer {
 	}
 
 	/**
-	 * @param screenshots
-	 *            the screenshots to set
+	 * @param screenshots the screenshots to set
 	 */
 	public void setLink(List<String> link) {
 		this.link = link;
@@ -420,6 +418,14 @@ public class OldComputer {
 
 	public void setGun(String gun) {
 		this.gun = gun;
+	}
+
+	public int getCategoryId() {
+		return categoryId;
+	}
+
+	public void setCategoryId(int categoryId) {
+		this.categoryId = categoryId;
 	}
 
 }
