@@ -6,6 +6,7 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.PrintWriter;
+import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Iterator;
 import java.util.List;
@@ -14,8 +15,10 @@ import java.util.Set;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
+import glog.util.IOUtil;
 import glog.util.URLGrabber;
 
 public class AtariManiaScript {
@@ -71,9 +74,40 @@ public class AtariManiaScript {
 
 	}
 
+	public static void getFirstAtariScreenshot() throws Exception {
+		System.setProperty("webdriver.chrome.driver", "c:/users/luisoft/Downloads/chromedriver.exe");
+		WebDriver driver = new ChromeDriver();
+		driver.get("http://www.atarimania.com/list_games_atari_search_97.98.122.111.111._S_G.html");
+		ArrayList<String> games = IOUtil.getContentsAsArray(new File("c:/temp/st.txt"));
+		for (String game : games) {
+			String tmp = game;
+			if (tmp.indexOf("(") > 0) {
+				tmp = tmp.substring(0, tmp.indexOf("(")).trim();
+			}
+
+			driver.findElement(By.id("C2")).clear();
+			driver.findElement(By.id("C2")).sendKeys(tmp);
+			driver.findElement(By.xpath("//span[@class='btnvalignmiddle']")).click();
+			try {
+				String results = driver.findElement(By.xpath("//span[@class='TxtBlancGras']")).getText();
+				// if ("1".equals(results)) {
+				String href = driver.findElement(By.xpath("(//img[@class='Img'])[1]")).getAttribute("src");
+				System.out.println(href);
+				URLGrabber ug = new URLGrabber(href, "c:/temp/" + game + ".gif");
+				ug.saveURLBinary();
+				// }
+			} catch (Exception e) {
+				System.out.println("NOT FOUND:" + game);
+			}
+		}
+
+	}
+
 	public static void main(String[] args) throws Exception {
 		AtariManiaScript ams = new AtariManiaScript();
-		ams.saveLinks();
+//		ams.saveLinks();
+
+		AtariManiaScript.getFirstAtariScreenshot();
 
 	}
 
