@@ -110,8 +110,8 @@ public class ImportToSQLite {
 			System.out.println(e.getMessage());
 		}
 
-		sql = "INSERT INTO system (name, name_alt, manufacturer_id, category_id, type, country, year, description, price)"
-				+ "values (?, ?, ?, ?, ?, ?, ?, ?, ?)";
+		sql = "INSERT INTO system (name, name_alt, manufacturer_id, category_id, type, country, year, description, price, active)"
+				+ "values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)";
 
 		try (Connection conn = this.connect(); PreparedStatement pstmt = conn.prepareStatement(sql)) {
 			String description = oc.getDescription();
@@ -125,6 +125,7 @@ public class ImportToSQLite {
 			pstmt.setString(7, oc.getYear());
 			pstmt.setString(8, description);
 			pstmt.setString(9, oc.getPrice());
+			pstmt.setInt(10, 0);
 			pstmt.executeUpdate();
 			Statement stmt = conn.createStatement();
 			ResultSet rs = stmt.executeQuery("select last_insert_rowid()");
