@@ -41,8 +41,7 @@ public class MobyGamesScript {
 	private List<MobyGame> games;
 
 	/**
-	 * @param system
-	 *            System to scrap the games.
+	 * @param system System to scrap the games.
 	 */
 	public MobyGamesScript(String system) {
 		this.system = system;
@@ -57,7 +56,24 @@ public class MobyGamesScript {
 		XPathParser xp = new XPathParser(GAMES_URL + this.system + "/list-games");
 		String total = xp.parse(XPATH_GAMES_COUNT);
 
+		if ("".equals(total)) {
+			return 1;
+		}
+
 		return Integer.parseInt(total.substring(total.indexOf("of") + 3, total.length() - 1));
+	}
+
+	public void full() throws Exception {
+		XPathParser xp = new XPathParser("https://www.mobygames.com/browse/games/full,1/");
+		NodeList nl = xp.parseList("//h4[.='Platform']/following::a[contains(@href,'games')]/@href");
+		for (int i = 0; i < nl.getLength(); i++) {
+			System.out.println(nl.item(i).getNodeValue());
+		}
+
+	}
+
+	private void saveGamesLinksToFile() throws Exception {
+		saveGamesLinksToFile(OUTPUT_FILE);
 	}
 
 	/**
@@ -65,11 +81,15 @@ public class MobyGamesScript {
 	 * 
 	 * @throws Exception
 	 */
-	private void saveGamesLinksToFile() throws Exception {
+	private void saveGamesLinksToFile(String fileName) throws Exception {
+		if (new File(fileName).exists()) {
+			System.out.println("Skipping " + fileName + " already exists");
+			return;
+		}
 		Vector<String> links = new Vector<String>();
 		int totalGames = this.getGamesCount();
 		System.out.println(totalGames);
-		PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter(OUTPUT_FILE, true)));
+		PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter(fileName, true)));
 		for (int p = 0; p <= totalGames; p += PAGE_SIZE) {
 			XPathParser xp = new XPathParser(GAMES_URL + this.system + "/offset," + p + "/so,0a/list-games/");
 			NodeList nl = xp.parseList(XPATH_GAME_LINK.replace("%param1%", this.system));
@@ -106,8 +126,10 @@ public class MobyGamesScript {
 		String description = contents.substring(i + 16, j);
 		game.setDescription(description);
 
-		String[] infos = { "Published by", "Developed by", "Released", "Also For", "Genre", "Perspective", "Theme", "Non-Sport", "Sport", "Misc", "Country", "Release Date", "Visual", "Gameplay", "setting" };
-		String[] attrs = { "publishedBy", "developedBy", "released", "alsoFor", "genre", "perspective", "theme", "nonSport", "sport", "misc", "country", "releaseDate", "visual", "gamePlay", "setting" };
+		String[] infos = { "Published by", "Developed by", "Released", "Also For", "Genre", "Perspective", "Theme", "Non-Sport", "Sport", "Misc", "Country",
+				"Release Date", "Visual", "Gameplay", "setting" };
+		String[] attrs = { "publishedBy", "developedBy", "released", "alsoFor", "genre", "perspective", "theme", "nonSport", "sport", "misc", "country",
+				"releaseDate", "visual", "gamePlay", "setting" };
 		for (i = 0; i < infos.length; i++) {
 			String info = xp.parse("//div[.='" + infos[i] + "']/following::div[1]");
 			// The unicode character \u0160 is not a non-breaking space.
@@ -148,47 +170,59 @@ public class MobyGamesScript {
 					continue;
 				}
 
-				String currentPub = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName + "\"]/following::div[.='Developed by']/preceding::div[.='Published by'][1]/following::a[1]");
+				String currentPub = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName
+						+ "\"]/following::div[.='Developed by']/preceding::div[.='Published by'][1]/following::a[1]");
 				String developerName = "";
 				if (currentPub.equals(publisherName)) {
-					developerName = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName + "\"]/following::div[.='Developed by']/following::a[1]");
+					developerName = xp
+							.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName + "\"]/following::div[.='Developed by']/following::a[1]");
 				}
 
-				currentPub = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName + "\"]/following::div[.='Country']/preceding::div[.='Published by'][1]/following::a[1]");
+				currentPub = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName
+						+ "\"]/following::div[.='Country']/preceding::div[.='Published by'][1]/following::a[1]");
 				String country = "";
 				if (currentPub.equals(publisherName)) {
 					country = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName + "\"]/following::div[.='Country']/following::span[1]");
 				}
 
 				if (country.equals("")) {
-					currentPub = xp.parse("(//h2[.='" + systemName + "']/following::a[.=\"" + publisherName + "\"]/following::div[.='Countries'])[1]/preceding::div[.='Published by'][1]/following::a[1]");
+					currentPub = xp.parse("(//h2[.='" + systemName + "']/following::a[.=\"" + publisherName
+							+ "\"]/following::div[.='Countries'])[1]/preceding::div[.='Published by'][1]/following::a[1]");
 					if (currentPub.equals(publisherName)) {
-						NodeList countriesList = xp.parseList("(//h2[.='" + systemName + "']/following::a[.=\"" + publisherName + "\"]/following::div[.='Countries'])[1]/following-sibling::div[1]/span");
+						NodeList countriesList = xp.parseList("(//h2[.='" + systemName + "']/following::a[.=\"" + publisherName
+								+ "\"]/following::div[.='Countries'])[1]/following-sibling::div[1]/span");
 						for (int c = 0; c < countriesList.getLength(); c++) {
 							country += countriesList.item(c).getTextContent();
 						}
 					}
 				}
 
-				currentPub = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName + "\"]/following::div[.='Release Date']/preceding::div[.='Published by'][1]/following::a[1]");
+				currentPub = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName
+						+ "\"]/following::div[.='Release Date']/preceding::div[.='Published by'][1]/following::a[1]");
 				String releaseDate = "";
 				if (currentPub.equals(publisherName)) {
-					releaseDate = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName + "\"]/following::div[.='Release Date']/following-sibling::div[1]");
+					releaseDate = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName
+							+ "\"]/following::div[.='Release Date']/following-sibling::div[1]");
 				}
 
-				currentPub = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName + "\"]/following::div[.='EAN-13']/preceding::div[.='Published by'][1]/following::a[1]");
+				currentPub = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName
+						+ "\"]/following::div[.='EAN-13']/preceding::div[.='Published by'][1]/following::a[1]");
 				String ean13 = "";
 				if (currentPub.equals(publisherName)) {
-					ean13 = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName + "\"]/following::div[.='EAN-13']/following-sibling::div[1]");
+					ean13 = xp.parse(
+							"//h2[.='" + systemName + "']/following::a[.=\"" + publisherName + "\"]/following::div[.='EAN-13']/following-sibling::div[1]");
 				}
 
-				currentPub = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName + "\"]/following::div[.='Comments']/preceding::div[.='Published by'][1]/following::a[1]");
+				currentPub = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName
+						+ "\"]/following::div[.='Comments']/preceding::div[.='Published by'][1]/following::a[1]");
 				String comments = "";
 				if (currentPub.equals(publisherName)) {
-					comments = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName + "\"]/following::div[.='Comments']/following-sibling::div[1]");
+					comments = xp.parse(
+							"//h2[.='" + systemName + "']/following::a[.=\"" + publisherName + "\"]/following::div[.='Comments']/following-sibling::div[1]");
 				}
 
-				currentPub = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName + "\"]/following::div[.='Ported by']/preceding::div[.='Published by'][1]/following::a[1]");
+				currentPub = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName
+						+ "\"]/following::div[.='Ported by']/preceding::div[.='Published by'][1]/following::a[1]");
 				String portedBy = "";
 				if (currentPub.equals(publisherName)) {
 					portedBy = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName + "\"]/following::div[.='Ported by']/following::a[1]");
@@ -272,8 +306,7 @@ public class MobyGamesScript {
 	/**
 	 * Get game information: main summary, releases, screenshots and cover art
 	 * 
-	 * @param url
-	 *            game URL
+	 * @param url game URL
 	 * @return String in XML format.
 	 * @throws Exception
 	 */
@@ -298,8 +331,7 @@ public class MobyGamesScript {
 	/**
 	 * Convert the XML to JSON to store in MONGODB database.
 	 * 
-	 * @param file
-	 *            XML file to convert.
+	 * @param file XML file to convert.
 	 * @throws Exception
 	 */
 	private void convertXMLtoJSON(String file) throws Exception {
@@ -324,14 +356,21 @@ public class MobyGamesScript {
 	 * @throws Exception
 	 */
 	public static void main(String[] args) throws Exception {
-		MobyGamesScript mgs = new MobyGamesScript("msx");
-		// mgs.saveGamesLinksToFile();
+//		MobyGamesScript mgs = new MobyGamesScript("zx-spectrum");
+//		mgs.saveGamesLinksToFile();
 
-		String urls = IOUtil.readFully(new FileInputStream("data/mobygames/mobygames_msx.txt"));
+		String urls = IOUtil.readFully(new FileInputStream("data/mobygames/all.txt"));
 		for (String url : urls.split(System.getProperty("line.separator"))) {
 			System.out.println(url);
-			IOUtil.write(".", url.substring(url.lastIndexOf("/") + 1) + ".json", mgs.getGameInfo(url));
+			MobyGamesScript mgs = new MobyGamesScript(url);
+			mgs.saveGamesLinksToFile(url + ".txt");
 		}
+
+//		String urls = IOUtil.readFully(new FileInputStream("data/mobygames/mobygames_msx.txt"));
+//		for (String url : urls.split(System.getProperty("line.separator"))) {
+//			System.out.println(url);
+//			IOUtil.write(".", url.substring(url.lastIndexOf("/") + 1) + ".json", mgs.getGameInfo(url));
+//		}
 
 		// String[] files = new File("data/mobygames/MSX - MSX 1/").list();
 		// for (String file : files) {

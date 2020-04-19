@@ -35,8 +35,15 @@ public class ImportToSQLite {
 		ResultSet rs = ps.executeQuery();
 		while (rs.next()) {
 			String name = rs.getString("name");
+
+//			genmsx.forEach((k, v) -> {
+//				if (k.contains(name)) {
+//					System.out.println("Found genmsx entry for " + name + " (" + k + ")");
+//				}
+//			});
+
 			if (genmsx.get(name) != null) {
-				System.out.println("Found genmsx entry for " + name);
+				System.out.format("Found for %s (%s)%n", name, genmsx.get(name));
 			}
 		}
 		rs.close();
