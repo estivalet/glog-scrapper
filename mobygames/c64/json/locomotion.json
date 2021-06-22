@@ -1,0 +1,100 @@
+{
+  "name": "Locomotion",
+  "shortName": "locomotion",
+  "description": "<i>Locomotion</i> is an arcade-puzzle game in which you are presented with a top-down view of a railway network with a number of stations and junctions. Trains are released from stations at random intervals, each with a destination station. Your job is to get a set number of them to this destination within a time limit. <br><br>You control a cursor which can click on each of the junctions, toggling their positions. When trains reach a junction which is not set in a direction they can move through, they will stop until you move it. When they reach the wrong station they simply reverse and continue. If two trains make contact, they are lost, and a penalty is accrued.",
+  "publishedBy": "Kingsoft GmbH",
+  "developedBy": "Prestige Softwareentwicklung GmbH",
+  "released": "1992",
+  "alsoFor": "Amiga, Atari ST, DOS | Combined View",
+  "genre": "Puzzle",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/locomotion",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "Kingsoft GmbH",
+          "developer": "Prestige Softwareentwicklung GmbH",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1992",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/152925-locomotion-commodore-64-screenshot-developer-logo.png",
+      "caption": "Developer logo"
+    },
+    {
+      "link": "/images/shots/l/152926-locomotion-commodore-64-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/152927-locomotion-commodore-64-screenshot-main-menu.png",
+      "caption": "Main menu"
+    },
+    {
+      "link": "/images/shots/l/152928-locomotion-commodore-64-screenshot-level-selection-you-ll.png",
+      "caption": "Level selection - you'll need passwords for later ones"
+    },
+    {
+      "link": "/images/shots/l/152929-locomotion-commodore-64-screenshot-level-loading-screen.png",
+      "caption": "Level loading screen"
+    },
+    {
+      "link": "/images/shots/l/152930-locomotion-commodore-64-screenshot-game-start.png",
+      "caption": "Game start"
+    },
+    {
+      "link": "/images/shots/l/152931-locomotion-commodore-64-screenshot-a-train-is-on-the-move.png",
+      "caption": "A train is on the move"
+    },
+    {
+      "link": "/images/shots/l/152932-locomotion-commodore-64-screenshot-turning-a-junction.png",
+      "caption": "Turning a junction"
+    },
+    {
+      "link": "/images/shots/l/152933-locomotion-commodore-64-screenshot-turn-the-tracks-to-avoid.png",
+      "caption": "Turn the tracks to avoid a collision"
+    },
+    {
+      "link": "/images/shots/l/152937-locomotion-commodore-64-screenshot-the-train-aimed-for-c-is.png",
+      "caption": "The train aimed for C is buffered here, so it can't hit the one aimed for A"
+    },
+    {
+      "link": "/images/shots/l/152939-locomotion-commodore-64-screenshot-a-river-jazzes-up-the-appearance.png",
+      "caption": "A river jazzes up the appearance of this level"
+    },
+    {
+      "link": "/images/shots/l/152940-locomotion-commodore-64-screenshot-sometimes-trains-only-have.png",
+      "caption": "Sometimes trains only have a short distance to go"
+    },
+    {
+      "link": "/images/shots/l/152941-locomotion-commodore-64-screenshot-level-score.png",
+      "caption": "Level score"
+    },
+    {
+      "link": "/images/shots/l/152942-locomotion-commodore-64-screenshot-level-3.png",
+      "caption": "Level 3"
+    },
+    {
+      "link": "/images/shots/l/152943-locomotion-commodore-64-screenshot-high-scores.png",
+      "caption": "High scores"
+    }
+  ],
+  "cover": []
+}

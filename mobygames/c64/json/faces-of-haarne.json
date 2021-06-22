@@ -1,0 +1,56 @@
+{
+  "name": "Faces of Haarne",
+  "shortName": "faces-of-haarne",
+  "description": "<i>Faces of Haarne</i> is a single screen shooter where you play a strange creature who has to protect a face/head in the centre of the screen from various objects that move around the screen over various levels. You are able to move around the screen and to remove an object you throw your hat at them while avoiding being touched, though this does remove them as well. If you or the face/head are touched by an object, then a shape moves from right to left along a bar called Face below the playing area, and when this reaches the left side then you lose one of four lives and the face/head changes. To move off a level and shoot new objects, a timer counts down and when it reaches zero then you move to the next level but if you lose a life then it resets. Another bar has a shape moving from left to right and this is called Music, and if it reaches the right then the shape on the Face bar moves back to the right. The shape will move back to the left if you lose a life.",
+  "publishedBy": "Software Supersavers Ltd.",
+  "developedBy": "Software Projects Ltd.",
+  "released": "1984",
+  "alsoFor": "",
+  "genre": "Action",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/faces-of-haarne",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade, Shooter",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "Software Supersavers Ltd.",
+          "developer": "Software Projects Ltd.",
+          "ported": "",
+          "country": " France, Germany, Italy, Spain, United Kingdom",
+          "releaseDate": "1984",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/744989-faces-of-haarne-commodore-64-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/744990-faces-of-haarne-commodore-64-screenshot-protect-the-head.png",
+      "caption": "Protect the head."
+    },
+    {
+      "link": "/images/shots/l/744991-faces-of-haarne-commodore-64-screenshot-needles-to-shoot.png",
+      "caption": "Needles to shoot"
+    },
+    {
+      "link": "/images/shots/l/744992-faces-of-haarne-commodore-64-screenshot-another-level-of-shooting.png",
+      "caption": "Another level of shooting"
+    }
+  ],
+  "cover": []
+}

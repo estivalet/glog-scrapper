@@ -1,0 +1,92 @@
+{
+  "name": "Blackjack",
+  "shortName": "blackjack_sorcerer",
+  "description": "<i>Blackjack</i> is an adaptation of the card game that uses original Las Vegas rules. The game is for one player who plays against an AI opponent. Like in the real game, the player draws cards and has to attempt to get closer to 21 than the opponent. Commands are entered through a text parser and the player can choose to hit, double, split or stand. If the opponent gets an ace an insurance is offered which allows the player to bet on if it has blackjack. If taken the player will come out square if the opponent has blackjack and lose the insurance if it does not. The amount of money to have is decided ahead of a game and the game goes on until it has all been spent.",
+  "publishedBy": "Dick Smith Electronics Pty Ltd",
+  "developedBy": "",
+  "released": "1979",
+  "alsoFor": "",
+  "genre": "Strategy / tactics",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/exidy-sorcerer/blackjack_sorcerer",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Cards / tiles, Casino / gambling",
+  "setting": "",
+  "release": [
+    {
+      "system": "Exidy Sorcerer",
+      "releases": [
+        {
+          "publisher": "Dick Smith Electronics Pty Ltd",
+          "developer": "",
+          "ported": "",
+          "country": " Australia",
+          "releaseDate": "1979",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/958835-blackjack-exidy-sorcerer-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/958836-blackjack-exidy-sorcerer-screenshot-the-game-starts-with-some.png",
+      "caption": "The game starts with some dialogue"
+    },
+    {
+      "link": "/images/shots/l/958837-blackjack-exidy-sorcerer-screenshot-instructions.png",
+      "caption": "Instructions"
+    },
+    {
+      "link": "/images/shots/l/958838-blackjack-exidy-sorcerer-screenshot-more-instructions.png",
+      "caption": "More instructions"
+    },
+    {
+      "link": "/images/shots/l/958839-blackjack-exidy-sorcerer-screenshot-entering-the-amount-of.png",
+      "caption": "Entering the amount of money"
+    },
+    {
+      "link": "/images/shots/l/958840-blackjack-exidy-sorcerer-screenshot-start-of-game.png",
+      "caption": "Start of game"
+    },
+    {
+      "link": "/images/shots/l/958841-blackjack-exidy-sorcerer-screenshot-winning-the-first-bet.png",
+      "caption": "Winning the first bet"
+    },
+    {
+      "link": "/images/shots/l/958842-blackjack-exidy-sorcerer-screenshot-getting-busted.png",
+      "caption": "Getting busted"
+    },
+    {
+      "link": "/images/shots/l/958843-blackjack-exidy-sorcerer-screenshot-losing-a-bet.png",
+      "caption": "Losing a bet"
+    },
+    {
+      "link": "/images/shots/l/958844-blackjack-exidy-sorcerer-screenshot-getting-the-insurance.png",
+      "caption": "Getting the insurance option when opponent gets an ace"
+    },
+    {
+      "link": "/images/shots/l/958845-blackjack-exidy-sorcerer-screenshot-losing-the-insurance-bet.png",
+      "caption": "Losing the insurance bet"
+    },
+    {
+      "link": "/images/shots/l/958846-blackjack-exidy-sorcerer-screenshot-running-out-of-money.png",
+      "caption": "Running out of money"
+    },
+    {
+      "link": "/images/shots/l/958847-blackjack-exidy-sorcerer-screenshot-ending-the-game.png",
+      "caption": "Ending the game"
+    }
+  ],
+  "cover": []
+}

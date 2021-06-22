@@ -1,0 +1,74 @@
+{
+  "name": "Mac Pan",
+  "shortName": "mac-pan",
+  "description": "<em>Mac Pan</em> is an extended implementation of <a href=\"https://www.mobygames.com/game/arcade/pac-man\">Pac-Man</a> idea on Atari ST computers with monochrome monitor. Like in the original game, the player controls a circled avatar trying to munch all dots in a level before getting caught by four wandering ghosts. On eating on of the rare power-pills, you can temporarily reverse this and chase the ghosts and kill them for extra points.<br><br>The game features four different mazes, all with four power-pills and the possibility to transfer to the other side in the centre of the screen (you leave the screen on one side and enter on the other). On finishing all four levels the game continues in the first maze in a higher level, increasing the aggression and speed of the ghosts. The ghosts themselves vary and speed and follow slightly different strategies to hunt the player. After each 10.000 points an extra life is rewarded. Points can only be collected by eating points in the level and chasing ghosts with power-pills, there are no bonus items like in the original. <br><br>The game has a flexible difficulty level: with a slider you can adjust the game's speed, which affect both the player and the ghosts. On very slow setting the game is far easier than with higher speeds. An unique extension to the <em>Pac-Man</em> theme is a temporary speed boost: by pressing the joystick button the player moves quicker for a short time period and so may escape the ghosts. But using this feature comes at a cost: after using the boost, you are slowed for the rest of the life or the level, whichever comes first.<br><br>Two different multi-player modes for two players are available in <em>Mac Pan</em>: you can either play after each other trying to beat the high-score. The other mode is a simultaneous coop mode, in which both players play in the same level at the same time. Both players share the score and the live-reserves, so if the last life is lost, the game ends for both players. A high-score table can be reached and is saved to disk.",
+  "publishedBy": "",
+  "developedBy": "",
+  "released": "Aug 21, 1987",
+  "alsoFor": "",
+  "genre": "Action",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-st/mac-pan",
+  "visual": "",
+  "gamePlay": "Arcade",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari ST",
+      "releases": []
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/802206-mac-pan-atari-st-screenshot-title-screen-and-menu-monochrome.png",
+      "caption": "Title screen and menu (monochrome monitor): select game mode and all options. The slider controls the movement speed of player and ghosts, adjusting the difficulty of the game"
+    },
+    {
+      "link": "/images/shots/l/802207-mac-pan-atari-st-screenshot-the-first-maze.png",
+      "caption": "The first maze."
+    },
+    {
+      "link": "/images/shots/l/802208-mac-pan-atari-st-screenshot-after-eating-a-power-pill-cross.png",
+      "caption": "After eating a power pill (cross), the ghosts fade and are can be eaten! Let's hunt them."
+    },
+    {
+      "link": "/images/shots/l/802209-mac-pan-atari-st-screenshot-after-killing-a-ghost-it-s-remains.png",
+      "caption": "After killing a ghost, it's remains must travel to the ghost house (centre of the screen) first, which gives you some additional time"
+    },
+    {
+      "link": "/images/shots/l/802210-mac-pan-atari-st-screenshot-the-second-maze-ghost-on-the-bottom.png",
+      "caption": "The second maze: ghost on the bottom, long straight ways"
+    },
+    {
+      "link": "/images/shots/l/802211-mac-pan-atari-st-screenshot-maze-3-has-a-more-narrow-design.png",
+      "caption": "Maze 3 has a more narrow design"
+    },
+    {
+      "link": "/images/shots/l/802212-mac-pan-atari-st-screenshot-the-final-frame-of-a-single-player.png",
+      "caption": "The final frame of a single player game. Surrounded by very aggressive ghosts (it's level 2 as marked by &quot;L: 2&quot; at the top)"
+    },
+    {
+      "link": "/images/shots/l/802213-mac-pan-atari-st-screenshot-three-angry-ghosts-and-one-friendly.png",
+      "caption": "Three angry ghosts and one friendly one. And myself vanished."
+    },
+    {
+      "link": "/images/shots/l/802231-mac-pan-atari-st-screenshot-two-player-simultaneous-mode-both.png",
+      "caption": "Two player simultaneous mode: both player's sprite are looking identical and share the same reserve lives, but have individual scores"
+    },
+    {
+      "link": "/images/shots/l/802232-mac-pan-atari-st-screenshot-it-seems-player-1-is-the-ghost.png",
+      "caption": "It seems player 1 is the ghost magnet. So player 2 has to clear the level"
+    },
+    {
+      "link": "/images/shots/l/802233-mac-pan-atari-st-screenshot-instructions-german.png",
+      "caption": "Instructions (German)"
+    }
+  ],
+  "cover": []
+}

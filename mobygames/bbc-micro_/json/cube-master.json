@@ -1,0 +1,72 @@
+{
+  "name": "Cube Master",
+  "shortName": "cube-master",
+  "description": "<i>Cube Master</i> is a digital version of the <a href=\"https://www.mobygames.com/search/quick?game=Rubik%27s+Cube\">Rubik's Cube</a> puzzle game. The screen is split in two areas. Bottom half has a graphical presentation of the cube viewed from two different perspectives with all of its faces visible. The top half is used to enter text commands to interact with the cube. Each face has a letter and by entering it that face is turned 90 degrees clockwise while entering it with shift held down turns it 90 degrees anti-clockwise. To scramble the cube the player enters X followed by the number of moves to shuffle. It's also possible to have the computer solve the cube by typing S. There's also a feature for the player to draw his own cube by entering the colour wanted for each square.",
+  "publishedBy": "Acornsoft Limited",
+  "developedBy": "",
+  "released": "1982",
+  "alsoFor": "",
+  "genre": "Puzzle",
+  "perspective": "Bird's-eye view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/bbc-micro_/cube-master",
+  "visual": "Fixed / flip-screen, Isometric",
+  "gamePlay": "Tile matching puzzle",
+  "setting": "",
+  "release": [
+    {
+      "system": "BBC Micro",
+      "releases": [
+        {
+          "publisher": "Acornsoft Limited",
+          "developer": "",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1982",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/759714-cube-master-bbc-micro-screenshot-loading-screen.png",
+      "caption": "Loading screen"
+    },
+    {
+      "link": "/images/shots/l/759715-cube-master-bbc-micro-screenshot-starting-out.png",
+      "caption": "Starting out"
+    },
+    {
+      "link": "/images/shots/l/759716-cube-master-bbc-micro-screenshot-playing-around-with-the-cube.png",
+      "caption": "Playing around with the cube by entering commands"
+    },
+    {
+      "link": "/images/shots/l/759717-cube-master-bbc-micro-screenshot-x-scrambles-the-cube.png",
+      "caption": "X scrambles the cube"
+    },
+    {
+      "link": "/images/shots/l/759718-cube-master-bbc-micro-screenshot-the-computer-tries-to-solve.png",
+      "caption": "The computer tries to solve the cube"
+    },
+    {
+      "link": "/images/shots/l/759719-cube-master-bbc-micro-screenshot-it-s-getting-there.png",
+      "caption": "It's getting there..."
+    },
+    {
+      "link": "/images/shots/l/759720-cube-master-bbc-micro-screenshot-it-did-it-in-the-end.png",
+      "caption": "It did it in the end"
+    },
+    {
+      "link": "/images/shots/l/759721-cube-master-bbc-micro-screenshot-you-can-also-draw-your-own.png",
+      "caption": "You can also draw your own cube"
+    }
+  ],
+  "cover": []
+}

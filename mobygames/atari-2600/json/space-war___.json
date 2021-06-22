@@ -1,0 +1,122 @@
+{
+  "name": "Space War",
+  "shortName": "space-war___",
+  "description": "<i>Space War</i> for the Atari 2600 was among the first home adaptations of the classic mainframe game <a href=\"https://www.mobygames.com/game/mainframe/spacewar__\">Spacewar!</a>.<br><br>The cartridge includes two different game modes: <i>Space War</i> and <i>Space Shuttle</i>. <i>Space War</i> is the classic one-on-one game of dueling spaceships and requires two players. The goal is to shoot down the opponent with missiles for one point per kill. Each player's ship carries eight missiles and a limited amount of fuel for its thrusters. Once the ammunition has run out, it is refilled automatically, but only if the other player is also out of shots. The controls follow the Spacewar!/Asteroids model of momentum preservation: once accelerated, the ship will keep flying in the same direction until its thrusters fire again. Seven different variants of <i>Space War</i> are available, each toggling different options: the screen boundary is either solid and ships and shots will bounce off, or it can be passed through and the ships and missiles will reappear on the other side of the screen. If hyperspace is available, a player can become temporarily invisible, which uses a lot of fuel and disables the guns, however. If there is a sun in the center of the play field, its gravity will pull the ships towards it and crashing into it will award the opponent one point. Finally, if a starbase is present, ships can fly by it to resupply fuel and ammo. <br><br><i>Space Shuttle</i> is a more peaceful game and in some variants can also be played by only one player. The goal is for the players' ships to dock at a fast-moving space module. To do that, speed and direction must be perfectly matched to the module. A successful docking maneuver awards one point. There are 10 different variants of <i>Space Shuttle</i>, toggling one- or two-player mode, solid screen boundary, presence of the sun and whether one or two space modules are available for docking.<br><br>Both types of game end after 10 minutes have passed or once a player has reached a score of 10.",
+  "publishedBy": "Atari, Inc.",
+  "developedBy": "Atari, Inc.",
+  "released": "1978",
+  "alsoFor": "Windows, Xbox 360 | Combined View",
+  "genre": "Action",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-2600/space-war___",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade, Shooter",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari 2600",
+      "releases": [
+        {
+          "publisher": "Atari, Inc.",
+          "developer": "Atari, Inc.",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1978",
+          "ean13": "",
+          "comments": ""
+        },
+        {
+          "publisher": "Sears, Roebuck and Co.",
+          "developer": "Atari, Inc.",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1978",
+          "ean13": "",
+          "comments": "Sears Tele-Games release"
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/107584-space-war-atari-2600-screenshot-startup-game-selection-screen.png",
+      "caption": "Startup / game selection screen; the screen flashes different colors if you just let it sit for a while"
+    },
+    {
+      "link": "/images/shots/l/107585-space-war-atari-2600-screenshot-a-space-war-battle.png",
+      "caption": "A space war battle!"
+    },
+    {
+      "link": "/images/shots/l/107586-space-war-atari-2600-screenshot-don-t-crash-into-the-sun-at.png",
+      "caption": "Don't crash into the sun at the center of the screen!"
+    },
+    {
+      "link": "/images/shots/l/107587-space-war-atari-2600-screenshot-single-player-game-try-to.png",
+      "caption": "Single player game; try to catch the bouncing pink dot"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/44249-space-war-atari-2600-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Atari 2600"
+    },
+    {
+      "link": "/images/covers/l/50642-space-war-atari-2600-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Atari 2600"
+    },
+    {
+      "link": "/images/covers/l/205519-space-war-atari-2600-back-cover.png",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Atari 2600"
+    },
+    {
+      "link": "/images/covers/l/50644-space-war-atari-2600-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Atari 2600"
+    },
+    {
+      "link": "/images/covers/l/101416-space-war-atari-2600-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "Sweden",
+      "platforms": "Atari 2600"
+    },
+    {
+      "link": "/images/covers/l/101417-space-war-atari-2600-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "Sweden",
+      "platforms": "Atari 2600"
+    },
+    {
+      "link": "/images/covers/l/101418-space-war-atari-2600-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "Sweden",
+      "platforms": "Atari 2600"
+    },
+    {
+      "link": "/images/covers/l/135244-space-war-atari-2600-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "Germany",
+      "platforms": "Atari 2600"
+    }
+  ]
+}

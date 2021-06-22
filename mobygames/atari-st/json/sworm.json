@@ -1,0 +1,84 @@
+{
+  "name": "Sworm",
+  "shortName": "sworm",
+  "description": "<em>Sworm</em> is a <a href=\"https://www.mobygames.com/search/quick?gamegroup=Snake+variants\">Snake variant</a>. The player controls the head of a snake and on eating numbered extras, the tail grows by the amount of elements of the value of eaten extras. After eaten one of the extras, there instantly appear the next one. The level borders can be crossed on all four sides, with the snake re-entering on the other side (e.g. moving out of the upper border let the head appear at the bottom). There are five different levels with different wall structures immanent. Touching one of these obstacles or your own tails instantly ends the game. An additional &quot;zero&quot; level contains no obstacles.<br><br>Optionally, bonus elements can be activated: those can decrease or increase the snake's tail, create a random wall element in the level or even restart the level, resetting all structures and the tail, but keeps the score.<br><br>As addition to the traditional 2D game, the game can also be played on a 3D cube: six two dimensional play-fields are texture-mapped on the automatically rotating cube and crossing the border of a single 2D map brings your snake on another side of the cube.",
+  "publishedBy": "Reservoir Gods",
+  "developedBy": "Reservoir Gods",
+  "released": "Aug, 1996",
+  "alsoFor": "",
+  "genre": "Action",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-st/sworm",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari ST",
+      "releases": [
+        {
+          "publisher": "Reservoir Gods",
+          "developer": "Reservoir Gods",
+          "ported": "",
+          "country": " Worldwide",
+          "releaseDate": "Aug, 1996",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/805441-sworm-atari-st-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/805442-sworm-atari-st-screenshot-main-menu-chose-viewing-mode-2d.png",
+      "caption": "Main menu: chose viewing mode (2D/3D), level, and bonus settings"
+    },
+    {
+      "link": "/images/shots/l/805443-sworm-atari-st-screenshot-level-zero-contains-no-obstacles.png",
+      "caption": "Level Zero contains no obstacles like walls"
+    },
+    {
+      "link": "/images/shots/l/805444-sworm-atari-st-screenshot-with-each-eaten-of-a-numbered-extra.png",
+      "caption": "With each eaten of a numbered extra element, the tail grows by the amount of elements"
+    },
+    {
+      "link": "/images/shots/l/805445-sworm-atari-st-screenshot-slowly-the-tail-gets-really-big.png",
+      "caption": "Slowly the tail gets really big"
+    },
+    {
+      "link": "/images/shots/l/805446-sworm-atari-st-screenshot-level-1-with-walls-leaving-the-level.png",
+      "caption": "Level 1 with walls. Leaving the level on one side brings you to the other side. But of course, your tail is moving behind"
+    },
+    {
+      "link": "/images/shots/l/805447-sworm-atari-st-screenshot-3d-mode-you-play-on-2d-fields-mapped.png",
+      "caption": "3D mode: you play on 2D fields mapped on each side of the cube"
+    },
+    {
+      "link": "/images/shots/l/805448-sworm-atari-st-screenshot-nobody-said-it-is-easy-the-cube.png",
+      "caption": "Nobody said it is easy: the cube is rotating automatically"
+    },
+    {
+      "link": "/images/shots/l/805449-sworm-atari-st-screenshot-later-level-in-3d-mode-bonus-elements.png",
+      "caption": "Later level in 3D mode, bonus elements activated: you do not see if they have a good or bad effect upfront"
+    },
+    {
+      "link": "/images/shots/l/805450-sworm-atari-st-screenshot-level-4-with-different-walls.png",
+      "caption": "Level 4 with different walls"
+    },
+    {
+      "link": "/images/shots/l/805451-sworm-atari-st-screenshot-level-5-move-carefully-now.png",
+      "caption": "Level 5: move carefully now!"
+    }
+  ],
+  "cover": []
+}

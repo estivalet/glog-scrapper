@@ -1,0 +1,64 @@
+{
+  "name": "Dominoes",
+  "shortName": "dominoes_",
+  "description": "<i>Dominoes</i> is an adaptation of the traditional board game where the player competes against one computer opponent. The two players take turns laying domino bricks so that they create a chain of bricks. The bricks are placed so that adjacent numbers match. To win a game the player has to score exactly 72 points. Points are scored when the end dominoes totals a multiple of 3 or 5. So for example if the sum of the bricks is fifteen then the player scores eight points (15/3 + 15/5 = 8). If the sum is not divisible by 3 or 5 then no points will be given. If a player scores higher than 72, the score will be 72 minus the number of points above 72. When the player has used all his bricks a new game is started but the score will be kept. ",
+  "publishedBy": "Phipps Associates",
+  "developedBy": "",
+  "released": "1983",
+  "alsoFor": "ZX81 | Combined View",
+  "genre": "Strategy / tactics",
+  "perspective": "",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/zx-spectrum/dominoes_",
+  "visual": "",
+  "gamePlay": "Board game",
+  "setting": "",
+  "release": [
+    {
+      "system": "ZX Spectrum",
+      "releases": [
+        {
+          "publisher": "Phipps Associates",
+          "developer": "",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1983",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/715570-dominoes-zx-spectrum-screenshot-loading-screen.png",
+      "caption": "Loading Screen"
+    },
+    {
+      "link": "/images/shots/l/715571-dominoes-zx-spectrum-screenshot-deciding-who-goes-first.png",
+      "caption": "Deciding who goes first"
+    },
+    {
+      "link": "/images/shots/l/715572-dominoes-zx-spectrum-screenshot-lets-play.png",
+      "caption": "Lets play"
+    },
+    {
+      "link": "/images/shots/l/715573-dominoes-zx-spectrum-screenshot-placing-dominoes.png",
+      "caption": "Placing dominoes"
+    },
+    {
+      "link": "/images/shots/l/715574-dominoes-zx-spectrum-screenshot-leading-at-the-moment.png",
+      "caption": "Leading at the moment"
+    },
+    {
+      "link": "/images/shots/l/715575-dominoes-zx-spectrum-screenshot-no-more-moves-for-either-player.png",
+      "caption": "No more moves for either player"
+    }
+  ],
+  "cover": []
+}

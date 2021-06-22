@@ -1,0 +1,72 @@
+{
+  "name": "Beerslinger",
+  "shortName": "beerslinger",
+  "description": "<i>Beerslinger</i> is a time management game with a concept similar to the arcade classic <a href=\"https://www.mobygames.com/game/arcade/tapper\">Tapper</a>. It is the second game in the <i>Holiday</i> series by the developer, this time made for Saint Patrick's Day.<br><br>The player controls a bartender who needs to serve customers in a pub. Each level is a different day and introduces two bars, one with the beers on tap and one where customers sit down and order. Based on the customer's order the bartender needs to fill up the mug with the correct type of beer (e.g. IPA, lager, stout, wheat) and serve it in time. A timer below the customer's stool shows the remaining time and if the bartender messes up three times by being too late or serving the wrong type, he is fired and the game is over. The goal is to make it through the seven days of the week. Each day also has a cash target.<br><br>A single button is used to fill up the mug and then again to serve it. The second button is used to empty the mug when it does not contain the correct type of beer to get rid of it. The customers order using a voice sample expressing their choice in addition to the next on screen. Levels gradually get more difficult, introducing multiple types of beer and more room for patrons who also turn up faster. Starting with two kegs and two stools the game ends with four kegs and six stools.",
+  "publishedBy": "Greeting Carts",
+  "developedBy": "Greeting Carts",
+  "released": "May 22, 2015",
+  "alsoFor": "",
+  "genre": "Action",
+  "perspective": "Bird's-eye view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/nes/beerslinger",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade, Time management",
+  "setting": "",
+  "release": [
+    {
+      "system": "NES",
+      "releases": [
+        {
+          "publisher": "Greeting Carts",
+          "developer": "Greeting Carts",
+          "ported": "",
+          "country": " Worldwide",
+          "releaseDate": "May 22, 2015",
+          "ean13": "",
+          "comments": "cartridge version (mail order release)"
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/1009362-beerslinger-nes-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/1009363-beerslinger-nes-screenshot-introduction-story.png",
+      "caption": "Introduction story"
+    },
+    {
+      "link": "/images/shots/l/1009364-beerslinger-nes-screenshot-start-of-the-first-day.png",
+      "caption": "Start of the first day"
+    },
+    {
+      "link": "/images/shots/l/1009365-beerslinger-nes-screenshot-two-customers-arrive.png",
+      "caption": "Two customers arrive."
+    },
+    {
+      "link": "/images/shots/l/1009366-beerslinger-nes-screenshot-notice-the-timer-below-the-customer.png",
+      "caption": "Notice the timer below the customer."
+    },
+    {
+      "link": "/images/shots/l/1009367-beerslinger-nes-screenshot-it-is-getting-busy-with-three.png",
+      "caption": "It is getting busy with three kegs on the third day."
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/652684-beerslinger-nes-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Electronic",
+      "country": "Worldwide",
+      "platforms": "NES"
+    }
+  ]
+}

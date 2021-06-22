@@ -1,0 +1,42 @@
+{
+  "name": "Beyond the Tesseract",
+  "shortName": "beyond-the-tesseract",
+  "description": "Early (1983) TRS-80 BASIC text adventure game, the middle in a forgotten trilogy (sandwiched between &quot;<a href=\"https://www.mobygames.com/game/project-triad\">Project Triad</a>&quot; and &quot;<a href=\"https://www.mobygames.com/search/quick?game=Codename+Intrepid\">Codename Intrepid</a>&quot;), remembered for its no-holds-barred approach to math and logic concepts informing game settings and puzzles: in one section, sparking a genre cliche, one has to play a text adventure game <i>inside the text adventure game</i>; in another, one falls asleep and in a dream constructs a proof utilising physical representations of various components of symbolic logic; additional game areas are accessed by pushing and popping the stack, objects extruded from 2 to 3 dimensions by <i>_y_</i>ing them.<br><br>The supporting documentation understates when it claims <i>the scenario for the adventure is meant to be vague</i> -- searching for a 12-word code phrase (unlocked in chunks upon completion of certain puzzles) is just an excuse for sending an unwary player through an alien and abstract setting two words at a time (using VERB NOUN gameplay with a vocabulary of about 200).<br><br>Later (1988) versions of this game were ported in C to Solaris, Atari ST and MS-DOS environments; more recently, in December 2003, <a href=\"https://www.mobygames.com/search/quick?developer=Andrew+Plotkin\">Andrew Plotkin</a> ported it to the interactive fiction standard of machine-independent Z-code.",
+  "publishedBy": "",
+  "developedBy": "",
+  "released": "Oct, 1988",
+  "alsoFor": "DOS, TRS-80 | Combined View",
+  "genre": "Adventure",
+  "perspective": "1st-person",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-st/beyond-the-tesseract",
+  "visual": "",
+  "gamePlay": "Interactive fiction / text adventure, Puzzle elements",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari ST",
+      "releases": []
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/305245-beyond-the-tesseract-atari-st-screenshot-start-screen.png",
+      "caption": "Start screen"
+    },
+    {
+      "link": "/images/shots/l/305246-beyond-the-tesseract-atari-st-screenshot-introduction.png",
+      "caption": "Introduction"
+    },
+    {
+      "link": "/images/shots/l/305247-beyond-the-tesseract-atari-st-screenshot-starting-location.png",
+      "caption": "Starting location and some typically mind-boggling navigational options"
+    }
+  ],
+  "cover": []
+}

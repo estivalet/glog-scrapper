@@ -1,0 +1,39 @@
+{
+  "name": "Fourspriter (included games)",
+  "shortName": "fourspriter-included-games",
+  "description": "<i>Fourspriter</i> is a free ZX Spectrum programming library to create games with up to four 16x16 sprites that can move across the entire 8-in-8 pixel screen at the character level without flickering and keeping the background shown. It is intended to be used with BASIC compiled with Hisoft BASIC or MCoder III, but it can also be used with assembly language, C using z88dk or from a BASIC program written to compile with ZX BASIC. It includes a manual as well as a demo game <i>Classic Japanese Monster Castle 3</i> with the BASIC source code on the tape itself and the support binary with the graphics and routines used.<br><br>Two games are included with this application for demonstration purposes, not available separately:<ul>\n<li><i>Classic Japanese Monster Castle 3 (Kurashiku Nihongo Monsuta Shiro 3)</i></li>\n<li><i>Phantomas in Ataria</i></li></ul><i>Classic Japanese Monster Castle 3</i> is the third game in the <i>Classic Japanese Monster Castle</i> series. After escaping the Monster Forest in the <a href=\"https://www.mobygames.com/game/classic-japanese-monster-castle-2\">previous game</a>, the protagonist Bolote visits his grandfather. He finds out he is sick, infected by a disease passed on by ghosts. The only way to cure him is by letting him drink a good cup of boñato soup. The game takes place in a small environment of single-screen rooms linked through a flip-screen mechanic.  They can be explored freely. The goal of the game is to plant 32 boñatos at locations marked by a yellow dot, water them by transporting water from a well, harvest them before they rot, and carry them to put them in a cauldron at a central location to make the soup. This is done while moving around platform-based environments, dodging enemies and deadly spikes. The character starts with 20 lives. <br><br><i>Phantomas in Ataria</i> is a new version of the 1992 <a id=\"d948cdb01d8025328ea78102a99e86aa3\" href=\"https://www.mobygames.com/search/quick?game=Phantomas+in+Ataria\">game of the same name</a> by the same developer. The gameplay and design is identical, but the visuals have been redone using Fourspriter.<br><br>Most likely an updated release of Fourspriter includes an additional game, a remake of the 1992 game <a id=\"d419637aa2ada1343e74f2d1f5a3073e4\" href=\"https://www.mobygames.com/search/quick?game=Phantomas+en+la+luna\">Phantomas en la luna</a>. While some parts are familiar, the visuals have been redone entirely using Fourspriter and the gameplay is vastly expanded. The platforming is fleshed out with many more enemies, keys to open sections and levers. The second part of the game inside the rocket now has enemies as well while the key phrase is composed.",
+  "publishedBy": "Mojon Twins, The",
+  "developedBy": "Mojon Twins, The",
+  "released": "Sep 30, 2009",
+  "alsoFor": "",
+  "genre": "Action, Compilation",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "Fangame",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/zx-spectrum/fourspriter-included-games",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Platform",
+  "setting": "",
+  "release": [
+    {
+      "system": "ZX Spectrum",
+      "releases": [
+        {
+          "publisher": "Mojon Twins, The",
+          "developer": "Mojon Twins, The",
+          "ported": "",
+          "country": " Worldwide",
+          "releaseDate": "Sep 30, 2009",
+          "ean13": "",
+          "comments": "v1.0 (download release)"
+        }
+      ]
+    }
+  ],
+  "shot": [],
+  "cover": []
+}

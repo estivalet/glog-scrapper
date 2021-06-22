@@ -1,0 +1,83 @@
+{
+  "name": "Buzz Bombers",
+  "shortName": "buzz-bombers",
+  "description": "<i>Buzz Bombers</i> is an arcade action game similar to <a href=\"https://www.mobygames.com/search/quick?game=Centipede\">Centipede</a>. You control a can of bug spray at the bottom of the screen, and you need to defend yourself from the swarms of incoming bees. The bees start at the top of the screen, and fly their way back and forth, slowly heading towards the bottom of the screen. If they reach the ground, they will pollinate the flowers there which causes them to grow and will restrict movement of your spray can. When you shoot a bee, it will turn into a honeycomb. The honeycombs will cause the bees to head towards the ground even faster, since they will turn around when one is in their way. Your spray can is able to shoot the honeycombs, but if you leave them in place a hummingbird will fly around and eat the honey from them. The more honey the hummingbird eats, the more points you get. The game ends when all of your spray cans are destroyed by growing flowers.",
+  "publishedBy": "Mattel Electronics",
+  "developedBy": "Mattel Electronics",
+  "released": "Jul, 1983",
+  "alsoFor": "Windows, Xbox 360 | Combined View",
+  "genre": "Action",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/intellivision/buzz-bombers",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade, Shooter",
+  "setting": "",
+  "release": [
+    {
+      "system": "Intellivision",
+      "releases": [
+        {
+          "publisher": "Mattel Electronics",
+          "developer": "Mattel Electronics",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "Jul, 1983",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/51370-buzz-bombers-intellivision-screenshot-title-screen.gif",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/51371-buzz-bombers-intellivision-screenshot-spraying-the-incoming.gif",
+      "caption": "Spraying the incoming bees"
+    },
+    {
+      "link": "/images/shots/l/51372-buzz-bombers-intellivision-screenshot-level-complete.gif",
+      "caption": "Level complete!"
+    },
+    {
+      "link": "/images/shots/l/51373-buzz-bombers-intellivision-screenshot-the-growing-flowers-restrict.gif",
+      "caption": "The growing flowers restrict movement of the spray can"
+    },
+    {
+      "link": "/images/shots/l/51374-buzz-bombers-intellivision-screenshot-there-is-a-short-intermission.gif",
+      "caption": "There is a short intermission from time to time"
+    },
+    {
+      "link": "/images/shots/l/51375-buzz-bombers-intellivision-screenshot-the-blue-hummingbird.gif",
+      "caption": "The blue hummingbird likes to eat honey from the honecombs"
+    },
+    {
+      "link": "/images/shots/l/51376-buzz-bombers-intellivision-screenshot-game-over.gif",
+      "caption": "Game over"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/25642-buzz-bombers-intellivision-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Intellivision"
+    },
+    {
+      "link": "/images/covers/l/25643-buzz-bombers-intellivision-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Intellivision"
+    }
+  ]
+}

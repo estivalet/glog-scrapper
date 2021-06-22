@@ -1,0 +1,64 @@
+{
+  "name": "Pub Trivia Simulator",
+  "shortName": "pub-trivia-simulator",
+  "description": "<i>Pub Trivia Simulator</i> is a game that attempts to simulate an Arcade Quiz Machine found in public houses. The idea is to move up a pyramid answering questions on various subjects to reach the top so you can attempt another pyramid but for money. Before you start the game you can select how many players (1-4), which question block to load (1-3) and which avatar for your player.<br><br>The game costs 10p and you select a square on the bottom row of the pyramid with various categories. When you have selected your question you then move to a new screen and press the start button. The question appears with the choice of three answers and you must answer before a timer reaches zero and if you get it correct you receive points and move back to the pyramid screen. You pick a new question on a new row and one that is touching the square you last answered. If you get it wrong and you are on the bottom row of the first pyramid you can try again but get it wrong at any other time and it is game over. The next player if selected now plays and if you have any money then you can play again after the other players turns.<br><br>If you reach the top of the pyramid and answer the question correctly then you move to the money maze. This is another pyramid similar to the first one but now has money hidden on certain squares. If you answer a question correctly with money then it is added to the bank and allows you to carry on if you get any questions wrong. Once all players have finished then the points collected during the game goes towards a high score.<br><br>",
+  "publishedBy": "Codemasters",
+  "developedBy": "",
+  "released": "1989",
+  "alsoFor": "Amiga, Amstrad CPC, Atari ST, ZX Spectrum | Combined View",
+  "genre": "Puzzle",
+  "perspective": "",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/pub-trivia-simulator",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Game show / trivia / quiz",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "Codemasters",
+          "developer": "",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1989",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/675285-pub-trivia-simulator-commodore-64-screenshot-title-screen.png",
+      "caption": "Title Screen."
+    },
+    {
+      "link": "/images/shots/l/675286-pub-trivia-simulator-commodore-64-screenshot-contestant-selection.png",
+      "caption": "Contestant Selection."
+    },
+    {
+      "link": "/images/shots/l/675287-pub-trivia-simulator-commodore-64-screenshot-pick-a-category.png",
+      "caption": "Pick a category."
+    },
+    {
+      "link": "/images/shots/l/675288-pub-trivia-simulator-commodore-64-screenshot-a-b-or-c.png",
+      "caption": "A, B or C?"
+    },
+    {
+      "link": "/images/shots/l/675289-pub-trivia-simulator-commodore-64-screenshot-player-3-has.png",
+      "caption": "Player 3 has a correct answer."
+    },
+    {
+      "link": "/images/shots/l/675290-pub-trivia-simulator-commodore-64-screenshot-moving-up-the.png",
+      "caption": "Moving up the pyramid"
+    }
+  ],
+  "cover": []
+}

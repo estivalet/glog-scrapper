@@ -1,0 +1,75 @@
+{
+  "name": "Wargle!",
+  "shortName": "wargle",
+  "description": "<i>Wargle!</i> is a 1-player arcade game for multiple systems.<br><br>The player controls a small character within a maze who can move in 4 cardinal directions.  The player can fire forwards and backwards.  Multiple enemy creatures move about the maze, and work their way towards the player.  The player's goal is to shoot all enemies before they touch the player.  If the player is hit, they lose a life.  The player starts with 5 lives, and when all are lost it's game over.",
+  "publishedBy": "Hayden Book Company, Inc.",
+  "developedBy": "Eastgate Systems, Inc.",
+  "released": "1983",
+  "alsoFor": "Apple II, Atari 8-bit | Combined View",
+  "genre": "Action",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/wargle",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "Hayden Book Company, Inc.",
+          "developer": "Eastgate Systems, Inc.",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1983",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/972156-wargle-commodore-64-screenshot-title-screen.png",
+      "caption": "Title Screen"
+    },
+    {
+      "link": "/images/shots/l/972157-wargle-commodore-64-screenshot-main-menu.png",
+      "caption": "Main Menu"
+    },
+    {
+      "link": "/images/shots/l/972158-wargle-commodore-64-screenshot-game-start.png",
+      "caption": "Game Start"
+    },
+    {
+      "link": "/images/shots/l/972159-wargle-commodore-64-screenshot-firing-at-an-enemy.png",
+      "caption": "Firing at an Enemy"
+    },
+    {
+      "link": "/images/shots/l/972160-wargle-commodore-64-screenshot-next-level.png",
+      "caption": "Next Level"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/593220-wargle-commodore-64-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/593221-wargle-commodore-64-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Commodore 64"
+    }
+  ]
+}

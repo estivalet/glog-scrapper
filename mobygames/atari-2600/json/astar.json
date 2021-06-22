@@ -1,0 +1,60 @@
+{
+  "name": "AStar",
+  "shortName": "astar",
+  "description": "Inspired by a calculator game called DStar, collect all the items on the screen in the fewest moves. Your character can only move in one direction until he hits something then he can change directions. If you collect all items on each screen without exceeding the minimum moves required, you win the game. If you exceed the minimum moves for your screen, a tone will sound and the score area will change color. You will not be stopped but you will not have been counted as won.",
+  "publishedBy": "AtariAge",
+  "developedBy": "",
+  "released": "Jun 10, 2006",
+  "alsoFor": "",
+  "genre": "Puzzle",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-2600/astar",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari 2600",
+      "releases": [
+        {
+          "publisher": "AtariAge",
+          "developer": "",
+          "ported": "",
+          "country": " Worldwide",
+          "releaseDate": "Jun 10, 2006",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/244378-astar-atari-2600-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/244379-astar-atari-2600-screenshot-level-1-cherries.png",
+      "caption": "Level 1: Cherries"
+    },
+    {
+      "link": "/images/shots/l/244380-astar-atari-2600-screenshot-i-finished-but-not-in-the-minimum.png",
+      "caption": "I finished but not in the minimum moves"
+    },
+    {
+      "link": "/images/shots/l/244381-astar-atari-2600-screenshot-level-2-strawberries.png",
+      "caption": "Level 2: Strawberries"
+    },
+    {
+      "link": "/images/shots/l/244382-astar-atari-2600-screenshot-level-3-not-sure-what-these-are.png",
+      "caption": "Level 3: Not sure what these are."
+    }
+  ],
+  "cover": []
+}

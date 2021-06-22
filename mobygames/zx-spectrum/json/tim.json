@@ -1,0 +1,108 @@
+{
+  "name": "TIM",
+  "shortName": "tim",
+  "description": "<i>TIM</i> is a collection of three games:<ul>\n<li><i>Samotnik</i> - A game of peg solitaire, taking place on an 8 by 8 square board, with the middle 16 squares free. The player can take any peg and have it jump over a neighboring peg horizontally, vertically or diagonally, removing the jumped-over peg from the board. The goal is to have only one peg left on board. Moves are made by typing in the coordinates of the peg to pick up and the coordinates of the square to jump to. </li><br>\n<li><i>Uk?adanka</i> - A &quot;fifteen puzzle&quot; game where the player must assemble 15 letters into alphabetical order by moving them around a board with one place free.</li><br>\n<li><i>Nim</i> - A game of &quot;Nim&quot;, where the players take away matches from three rows. The players can choose to take away any amount of matches from any row. The winner is the player who takes the last match.</li></ul>",
+  "publishedBy": "Krajowe Wydawnictwo Czasopism",
+  "developedBy": "",
+  "released": "1986",
+  "alsoFor": "",
+  "genre": "Puzzle, Strategy / tactics",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/zx-spectrum/tim",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Board game",
+  "setting": "",
+  "release": [
+    {
+      "system": "ZX Spectrum",
+      "releases": [
+        {
+          "publisher": "Krajowe Wydawnictwo Czasopism",
+          "developer": "",
+          "ported": "",
+          "country": " Poland",
+          "releaseDate": "1986",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/570977-tim-zx-spectrum-screenshot-loading-screen.png",
+      "caption": "Loading screen"
+    },
+    {
+      "link": "/images/shots/l/570972-tim-zx-spectrum-screenshot-choosing-the-game.png",
+      "caption": "Choosing the game"
+    },
+    {
+      "link": "/images/shots/l/570970-tim-zx-spectrum-screenshot-peg-solitaire-menu.png",
+      "caption": "Peg solitaire menu"
+    },
+    {
+      "link": "/images/shots/l/570971-tim-zx-spectrum-screenshot-peggin-it-up.png",
+      "caption": "Peggin' it up"
+    },
+    {
+      "link": "/images/shots/l/570974-tim-zx-spectrum-screenshot-the-fifteen-puzzle-menu.png",
+      "caption": "The fifteen puzzle menu"
+    },
+    {
+      "link": "/images/shots/l/570973-tim-zx-spectrum-screenshot-puzzled.png",
+      "caption": "Puzzled!"
+    },
+    {
+      "link": "/images/shots/l/570975-tim-zx-spectrum-screenshot-nim-the-mental-game-where-your.png",
+      "caption": "Nim, &quot;The mental game where your computer is your opponent&quot;! "
+    },
+    {
+      "link": "/images/shots/l/570976-tim-zx-spectrum-screenshot-match.png",
+      "caption": "Match"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/359877-tim-zx-spectrum-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Cassette Case",
+      "country": "Poland",
+      "platforms": "ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/359876-tim-zx-spectrum-inside-cover.jpg",
+      "scanOf": "Inside Cover",
+      "packaging": "Cassette Case",
+      "country": "Poland",
+      "platforms": "ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/359879-tim-zx-spectrum-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Cassette Case",
+      "country": "Poland",
+      "platforms": "ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/359878-tim-zx-spectrum-spine-sides.jpg",
+      "scanOf": "Spine/Sides",
+      "packaging": "Cassette Case",
+      "country": "Poland",
+      "platforms": "ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/359880-tim-zx-spectrum-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Cassette Case",
+      "country": "Poland",
+      "platforms": "ZX Spectrum"
+    }
+  ]
+}

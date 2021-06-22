@@ -1,0 +1,60 @@
+{
+  "name": "Star Soccer",
+  "shortName": "star-soccer",
+  "description": "<i>Star Soccer</i> is a football game played through text input. The game is designed for two players and doesn't feature any AI, although it is possible for one player to control both teams. In the original ZX81 version it's only possible to play single matches with no options for cups, leagues or tournaments. There are in total 24 teams to choose from. Side A of the cassette features twelve English league teams, while side B features twelve international teams from the 1982 World Cup. The ZX Spectrum differs in that it does not feature single matches. Instead the English side features a super league of eight teams (including three Scottish teams) while the World Cup side is a replay of the finals, starting with the quarter finals. The ZX Spectrum version also allows the player to choose formations before games. <br><br>The game is played using three commands: P for passing, R for running and S for shooting. This means that to make a pass the player types P followed by the number of the player to receive it. When using the run command the player also has to enter the distance of the run. If a pass or shot is intercepted by a member of the opposing team, it's the second player's turn to attack. There are no commands for defensive actions. A 2D top down view shows all the action on the pitch.",
+  "publishedBy": "Watson Software Services Ltd",
+  "developedBy": "Watson Software Services Ltd",
+  "released": "1983",
+  "alsoFor": "ZX81 | Combined View",
+  "genre": "Sports",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "Football (European) / Soccer",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/zx-spectrum/star-soccer",
+  "visual": "",
+  "gamePlay": "",
+  "setting": "",
+  "release": [
+    {
+      "system": "ZX Spectrum",
+      "releases": [
+        {
+          "publisher": "Watson Software Services Ltd",
+          "developer": "Watson Software Services Ltd",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1983",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/695736-star-soccer-zx-spectrum-screenshot-english-scottish-super.png",
+      "caption": "English/Scottish Super League"
+    },
+    {
+      "link": "/images/shots/l/695740-star-soccer-zx-spectrum-screenshot-world-cup.png",
+      "caption": "World cup"
+    },
+    {
+      "link": "/images/shots/l/695737-star-soccer-zx-spectrum-screenshot-formation-selection.png",
+      "caption": "Formation selection"
+    },
+    {
+      "link": "/images/shots/l/695738-star-soccer-zx-spectrum-screenshot-kick-off.png",
+      "caption": "Kick off"
+    },
+    {
+      "link": "/images/shots/l/695739-star-soccer-zx-spectrum-screenshot-game-in-progress.png",
+      "caption": "Game in progress"
+    }
+  ],
+  "cover": []
+}

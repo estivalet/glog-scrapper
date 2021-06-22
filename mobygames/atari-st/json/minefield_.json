@@ -1,0 +1,68 @@
+{
+  "name": "Minefield",
+  "shortName": "minefield_",
+  "description": "In <i>Minefield</i>, the player competes against the computer to see who can get most tanks to the other side of the minefield. <br><br>First, both players places their mines (5 to be exact) on the mine field (represented by a 8x8 grid) there may only be one mine per row. Then the player and the computer takes turns to try to navigate their tanks to the other side. Secondly, a start square is selected and then the player chooses in which direction to go (diagonally or straight); the tank may not be moved sideways or back. Once a square has been used for movement, it is removed from the game and that space may not be used of passage again. The tanks gun can be fired at suspected squares to see if there is a mine there (this can be done twice each turn). Both players have 8 tanks.",
+  "publishedBy": "Budgie UK",
+  "developedBy": "",
+  "released": "Nov, 1992",
+  "alsoFor": "",
+  "genre": "Strategy / tactics",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-st/minefield_",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari ST",
+      "releases": [
+        {
+          "publisher": "Budgie UK",
+          "developer": "",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "Nov, 1992",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/828898-minefield-atari-st-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/828899-minefield-atari-st-screenshot-the-computer-places-its-mines.png",
+      "caption": "The computer places its mines"
+    },
+    {
+      "link": "/images/shots/l/828900-minefield-atari-st-screenshot-the-computer-is-advancing.png",
+      "caption": "The computer is advancing"
+    },
+    {
+      "link": "/images/shots/l/828901-minefield-atari-st-screenshot-my-turn.png",
+      "caption": "My turn"
+    },
+    {
+      "link": "/images/shots/l/828902-minefield-atari-st-screenshot-got-one-of-the-computers-tanks.png",
+      "caption": "Got one of the computers tanks"
+    },
+    {
+      "link": "/images/shots/l/828903-minefield-atari-st-screenshot-the-smily-face-shows-that-there.png",
+      "caption": "The smily face shows that there is no mine there"
+    },
+    {
+      "link": "/images/shots/l/828904-minefield-atari-st-screenshot-level-complete.png",
+      "caption": "Level complete!"
+    }
+  ],
+  "cover": []
+}

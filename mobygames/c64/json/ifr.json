@@ -1,0 +1,86 @@
+{
+  "name": "IFR",
+  "shortName": "ifr",
+  "description": "<i>IFR</i> is a flight simulator of Cessna 172RG Cutlass light aircraft. Due to limitations of early 1980s computers it doesn't offer external cockpit view, only an instrument panel (hence the name: Instrument Flight Rules) with full set of gauges: altimeter, tachometer, artificial horizon, airspeed, turn, and rate of climb indicators. The plane is also equipped with flaps, retractable landing gear, LORAN-C inertial navigation system, ILS and ADF (picking up 4 beacons and 2 airfields on the map).<br><br>The objective is to safely navigate between 4 airfields located on the map, while avoiding terrain obstacles etc. and within the aircraft fuel limit (~30 min.); the game flight model also includes stalls, wind and turbulence (difficulty level is adjustable).",
+  "publishedBy": "Academy Software Inc.",
+  "developedBy": "",
+  "released": "1983",
+  "alsoFor": "Commodore 16, Plus/4, VIC-20 | Combined View",
+  "genre": "Simulation",
+  "perspective": "1st-person",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/ifr",
+  "visual": "",
+  "gamePlay": "",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "Academy Software Inc.",
+          "developer": "",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1983",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/564902-ifr-commodore-64-screenshot-title-screen.png",
+      "caption": "Title screen."
+    },
+    {
+      "link": "/images/shots/l/564903-ifr-commodore-64-screenshot-ready-to-take-off.png",
+      "caption": "Ready to take off."
+    },
+    {
+      "link": "/images/shots/l/564904-ifr-commodore-64-screenshot-cockpit.png",
+      "caption": "Cockpit."
+    },
+    {
+      "link": "/images/shots/l/564905-ifr-commodore-64-screenshot-taking-off.png",
+      "caption": "Taking off."
+    },
+    {
+      "link": "/images/shots/l/564906-ifr-commodore-64-screenshot-crashed.png",
+      "caption": "Crashed."
+    },
+    {
+      "link": "/images/shots/l/564907-ifr-commodore-64-screenshot-flight-report.png",
+      "caption": "Flight report."
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/272760-ifr-commodore-64-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/272761-ifr-commodore-64-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/272762-ifr-commodore-64-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Commodore 64"
+    }
+  ]
+}

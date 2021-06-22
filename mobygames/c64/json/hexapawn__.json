@@ -1,0 +1,52 @@
+{
+  "name": "Hexapawn",
+  "shortName": "hexapawn__",
+  "description": "<i>Hexapawn</i> is a strategy game played against the computer played on a 3 x 3 grid, with each player having three pawns at either end of the grid in a horizontal row. The aim is to be the first player to get one piece to the other side of the grid or stop the other player from making a move. Each player takes it in turns to move forwards one place and to take the opponents piece of the board you move into their square diagonally. The computer at first only knows how to move and win but after every game it learns from any bad moves it makes and after a few games is near impossible to beat. Before you play you can make the computer move random or sequential.",
+  "publishedBy": "A.R. Softwear",
+  "developedBy": "",
+  "released": "1983",
+  "alsoFor": "",
+  "genre": "Strategy / tactics",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/hexapawn__",
+  "visual": "",
+  "gamePlay": "Board game",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "A.R. Softwear",
+          "developer": "",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1983",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/747843-hexapawn-commodore-64-screenshot-title-screen.png",
+      "caption": "Title Screen"
+    },
+    {
+      "link": "/images/shots/l/747844-hexapawn-commodore-64-screenshot-your-move.png",
+      "caption": "Your move"
+    },
+    {
+      "link": "/images/shots/l/747845-hexapawn-commodore-64-screenshot-about-to-win-a-game.png",
+      "caption": "About to win a game"
+    }
+  ],
+  "cover": []
+}

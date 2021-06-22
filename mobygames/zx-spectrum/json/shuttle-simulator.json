@@ -1,0 +1,175 @@
+{
+  "name": "Shuttle Simulator",
+  "shortName": "shuttle-simulator",
+  "description": "This game is an early simulation of <a href=\"https://www.mobygames.com/search/quick?company=NASA\">NASA</a>'s space shuttle, on a mission to retrieve a failed satellite. Most of the controls are handled using the joystick. The mission is comprised of five different stages:\n<ul>\n<li><b>Launch:</b> After an automatic lift-off out of Earth's gravity, you guide the shuttle to a rendezvous point.\n<li><b>Park:</b> With the satellite in sight, approach it until you are right next to it.\n<li><b>Arm:</b> Use the robot arm to catch the floating satellite and bring it into the cargo space of the shuttle.\n<li><b>Entry:</b> Just like the launch stage, but without throttle control, you guide the shuttle to a target box indicated in the plotter instrument.\n<li><b>Final approach:</b> From an outside view of the shuttle, try to decelerate at the same time as dropping to an altitude of zero.\n</ul>\nThe main view is from the cockpit, with a small stripe in the centre dedicated to the outside view, and the rest comprised of instruments and indicators. All of these instruments, indicating the stages of the mission, the attitude of the craft and its course, as well as altitude and speed, are functional. Certain parts of the mission are moved to an outside view for pædagogical reasons. To make the game more beginner-friendly, the mission is not aborted if a certain stage is not fulfilled, but points are awarded for how well each stage is completed.",
+  "publishedBy": "MicroDeal Ltd.",
+  "developedBy": "",
+  "released": "1984",
+  "alsoFor": "Atari 8-bit, BBC Micro, Commodore 64, Dragon 32/64, Electron, Oric, TRS-80 CoCo | Combined View",
+  "genre": "Simulation",
+  "perspective": "1st-person",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/zx-spectrum/shuttle-simulator",
+  "visual": "",
+  "gamePlay": "",
+  "setting": "",
+  "release": [
+    {
+      "system": "ZX Spectrum",
+      "releases": [
+        {
+          "publisher": "MicroDeal Ltd.",
+          "developer": "",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1984",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/481928-shuttle-simulator-zx-spectrum-screenshot-loader-screen.png",
+      "caption": "Loader screen"
+    },
+    {
+      "link": "/images/shots/l/481930-shuttle-simulator-zx-spectrum-screenshot-title.png",
+      "caption": "Title"
+    },
+    {
+      "link": "/images/shots/l/481931-shuttle-simulator-zx-spectrum-screenshot-control-selection.png",
+      "caption": "Control selection joystick or keyboard"
+    },
+    {
+      "link": "/images/shots/l/481932-shuttle-simulator-zx-spectrum-screenshot-weather-report-for.png",
+      "caption": "Weather report for launch"
+    },
+    {
+      "link": "/images/shots/l/481933-shuttle-simulator-zx-spectrum-screenshot-countdown-to-launch.png",
+      "caption": "Countdown to launch"
+    },
+    {
+      "link": "/images/shots/l/481935-shuttle-simulator-zx-spectrum-screenshot-launch.png",
+      "caption": "Launch!"
+    },
+    {
+      "link": "/images/shots/l/481936-shuttle-simulator-zx-spectrum-screenshot-moving-into-orbit.png",
+      "caption": "Moving into orbit"
+    },
+    {
+      "link": "/images/shots/l/481940-shuttle-simulator-zx-spectrum-screenshot-moving-to-catch-the.png",
+      "caption": "Moving to catch the satellite "
+    },
+    {
+      "link": "/images/shots/l/481942-shuttle-simulator-zx-spectrum-screenshot-park-ready-to-fetch.png",
+      "caption": "Park ready to fetch satellite "
+    },
+    {
+      "link": "/images/shots/l/481943-shuttle-simulator-zx-spectrum-screenshot-cargo-doors-open.png",
+      "caption": "Cargo doors open ready for arm deployment"
+    },
+    {
+      "link": "/images/shots/l/481944-shuttle-simulator-zx-spectrum-screenshot-moving-arm-to-lock.png",
+      "caption": "Moving arm to lock on the satellite "
+    },
+    {
+      "link": "/images/shots/l/481945-shuttle-simulator-zx-spectrum-screenshot-locked-the-satellite.png",
+      "caption": "Locked the satellite "
+    },
+    {
+      "link": "/images/shots/l/481946-shuttle-simulator-zx-spectrum-screenshot-secure-in-cargo-bay.png",
+      "caption": "Secure in cargo bay"
+    },
+    {
+      "link": "/images/shots/l/481947-shuttle-simulator-zx-spectrum-screenshot-closing-cargo-bay.png",
+      "caption": "Closing cargo bay doors getting ready for retro fire"
+    },
+    {
+      "link": "/images/shots/l/481948-shuttle-simulator-zx-spectrum-screenshot-retro-fire-for-re.png",
+      "caption": "Retro fire for re-entry sequence "
+    },
+    {
+      "link": "/images/shots/l/481949-shuttle-simulator-zx-spectrum-screenshot-on-final-approach.png",
+      "caption": "On final approach with runway in distance"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/424555-shuttle-simulator-zx-spectrum-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/424557-shuttle-simulator-zx-spectrum-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/424558-shuttle-simulator-zx-spectrum-full-cover.jpg",
+      "scanOf": "Full Cover",
+      "packaging": "Box",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/424559-shuttle-simulator-zx-spectrum-spine-sides.jpg",
+      "scanOf": "Spine/Sides",
+      "packaging": "Box",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/424560-shuttle-simulator-zx-spectrum-spine-sides.jpg",
+      "scanOf": "Spine/Sides",
+      "packaging": "Box",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/424561-shuttle-simulator-zx-spectrum-spine-sides.jpg",
+      "scanOf": "Spine/Sides",
+      "packaging": "Box",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/424562-shuttle-simulator-zx-spectrum-spine-sides.jpg",
+      "scanOf": "Spine/Sides",
+      "packaging": "Box",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/424566-shuttle-simulator-zx-spectrum-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/424567-shuttle-simulator-zx-spectrum-manual.jpg",
+      "scanOf": "Manual",
+      "packaging": "Box",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/424568-shuttle-simulator-zx-spectrum-manual.jpg",
+      "scanOf": "Manual",
+      "packaging": "Box",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    }
+  ]
+}

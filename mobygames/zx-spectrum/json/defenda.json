@@ -1,0 +1,104 @@
+{
+  "name": " Defenda",
+  "shortName": "defenda",
+  "description": "<i>Defenda</i> is a clone of the arcade shooter <a href=\"https://www.mobygames.com/game/arcade/defender\">Defender</a> where the player is in control of a craft that flies over the surface of a planet protecting humanoids from the alien forces. <br><br>Landers will swoop down and attempt to grab your humanoids and if they succeed in bringing them to the top of the screen, the humanoid will turn into a mutant that will hunt the player craft down. The only way to destroy mutants is to use your smart bombs, you get a new smart bomb every 20000 pts.\nIf you manage to shoot the Lander, the humanoid is released and you should catch it with your ship and bring it to the ground. If it is high up and you don't catch it, the human will be killed once it hits the ground.\nYour craft has a laser cannon and a limited amount of smart bombs that kill every enemy on screen. The landscape scrolls along with movement in horizontal directions until it wraps around, the craft can also move up and down. In a pinch it can hyperspace to another location on the level.  At the top there is a long range scanner that can be used to anticipate where on the screen the aliens appear.<br><br>If you hit any alien or an alien projectile, then you lose one of three lives, once all lives are spent, it's game over.",
+  "publishedBy": "Insterstella Software",
+  "developedBy": "",
+  "released": "Feb, 1984",
+  "alsoFor": "",
+  "genre": "Action",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/zx-spectrum/defenda",
+  "visual": "2D scrolling",
+  "gamePlay": "Arcade, Shooter",
+  "setting": "",
+  "release": [
+    {
+      "system": "ZX Spectrum",
+      "releases": [
+        {
+          "publisher": "Insterstella Software",
+          "developer": "",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "Feb, 1984",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/851987--defenda-zx-spectrum-screenshot-loading-screen.gif",
+      "caption": "Loading screen"
+    },
+    {
+      "link": "/images/shots/l/851993--defenda-zx-spectrum-screenshot-main-menu.png",
+      "caption": "Main menu"
+    },
+    {
+      "link": "/images/shots/l/851994--defenda-zx-spectrum-screenshot-game-start.png",
+      "caption": "Game start"
+    },
+    {
+      "link": "/images/shots/l/851996--defenda-zx-spectrum-screenshot-mutant.png",
+      "caption": "Mutant!"
+    },
+    {
+      "link": "/images/shots/l/851995--defenda-zx-spectrum-screenshot-level-completed.png",
+      "caption": "Level completed"
+    },
+    {
+      "link": "/images/shots/l/851997--defenda-zx-spectrum-screenshot-mine-layers.png",
+      "caption": "Mine layers"
+    },
+    {
+      "link": "/images/shots/l/851998--defenda-zx-spectrum-screenshot-game-over.png",
+      "caption": "Game Over"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/392261--defenda-zx-spectrum-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/392259--defenda-zx-spectrum-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/392263--defenda-zx-spectrum-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/392262--defenda-zx-spectrum-spine-sides.jpg",
+      "scanOf": "Spine/Sides",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/392260--defenda-zx-spectrum-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    }
+  ]
+}

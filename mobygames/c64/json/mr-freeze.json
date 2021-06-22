@@ -1,0 +1,85 @@
+{
+  "name": "Mr. Freeze",
+  "shortName": "mr-freeze",
+  "description": "<i>Mr. Freeze</i> is a flick-screen platformer where your task is to de-ice six compartments of a giant fridge by moving from the bottom-left of each compartment to the top-right to touch the de-icer. In each compartment are various platforms and you climb ladders or drop down through gaps but you can only fall a certain height. A compartment doesn't have to be de-iced to move to the next one but you can only move between them where an arrow points. There are various deadly obstacles that need avoiding and they are ice cubes, robots, other creatures and a laser at the top of the screen. When you climb a ladder, the laser moves across and fires at you and if you are hit by any obstacle or fall too far then you lose one of six lives. You are armed with a gun and although it can't destroy anything it can push items back.",
+  "publishedBy": "Firebird Software",
+  "developedBy": "",
+  "released": "1984",
+  "alsoFor": "Amstrad CPC, BBC Micro, ZX Spectrum | Combined View",
+  "genre": "Action",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/mr-freeze",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Platform",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "Firebird Software",
+          "developer": "",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1984",
+          "ean13": "5 012439 000150",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/768415-mr-freeze-commodore-64-screenshot-loading-screen.png",
+      "caption": "Loading Screen"
+    },
+    {
+      "link": "/images/shots/l/768416-mr-freeze-commodore-64-screenshot-title-screen.png",
+      "caption": "Title Screen"
+    },
+    {
+      "link": "/images/shots/l/768417-mr-freeze-commodore-64-screenshot-de-ice-the-fridge-compartments.png",
+      "caption": "De-ice the fridge compartments"
+    },
+    {
+      "link": "/images/shots/l/768418-mr-freeze-commodore-64-screenshot-heading-for-the-top-right.png",
+      "caption": "Heading for the top-right corner"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/696693-mr-freeze-commodore-64-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/696696-mr-freeze-commodore-64-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/696694-mr-freeze-commodore-64-spine-sides.jpg",
+      "scanOf": "Spine/Sides",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/696695-mr-freeze-commodore-64-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "Commodore 64"
+    }
+  ]
+}

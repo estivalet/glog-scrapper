@@ -1,0 +1,80 @@
+{
+  "name": "Sudoku",
+  "shortName": "sudoku___",
+  "description": "<i>Sudoku</i> is, obviously, a Sudoku game for CPC and Speccy. Players can select the grid size of 4x4, 6x6, 8x8, 9x9, 10x10 and 12x12, although 9x9 is default. Players then choose the difficulty. The object is to fill in each empty spot with a number of 1 to 9. On the 10x10 and 12x12 grids, the letters A and A to C are also used. Each horizontal row, vertical column and sub-grid can contain a number only once.",
+  "publishedBy": "Cronosoft",
+  "developedBy": "",
+  "released": "2008",
+  "alsoFor": "ZX Spectrum | Combined View",
+  "genre": "Puzzle",
+  "perspective": "Text-based / spreadsheet, Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/cpc/sudoku___",
+  "visual": "",
+  "gamePlay": "",
+  "setting": "",
+  "release": [
+    {
+      "system": "Amstrad CPC",
+      "releases": [
+        {
+          "publisher": "Cronosoft",
+          "developer": "",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "2008",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/534607-sudoku-amstrad-cpc-screenshot-loading-screen.png",
+      "caption": "Loading screen"
+    },
+    {
+      "link": "/images/shots/l/534608-sudoku-amstrad-cpc-screenshot-title-screen-and-main-menu.png",
+      "caption": "Title screen and main menu"
+    },
+    {
+      "link": "/images/shots/l/534609-sudoku-amstrad-cpc-screenshot-choose-your-game-type.png",
+      "caption": "Choose your game type"
+    },
+    {
+      "link": "/images/shots/l/534610-sudoku-amstrad-cpc-screenshot-choose-your-grid-size.png",
+      "caption": "Choose your grid size"
+    },
+    {
+      "link": "/images/shots/l/534611-sudoku-amstrad-cpc-screenshot-as-i-suck-at-sudoku-i-choose.png",
+      "caption": "As I suck at Sudoku, I choose a 4x4 grid."
+    },
+    {
+      "link": "/images/shots/l/534612-sudoku-amstrad-cpc-screenshot-choose-your-difficulty.png",
+      "caption": "Choose your difficulty."
+    },
+    {
+      "link": "/images/shots/l/534613-sudoku-amstrad-cpc-screenshot-game-on.png",
+      "caption": "Game on"
+    },
+    {
+      "link": "/images/shots/l/534614-sudoku-amstrad-cpc-screenshot-puzzle-solved.png",
+      "caption": "Puzzle solved"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/233883-sudoku-amstrad-cpc-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "Amstrad CPC"
+    }
+  ]
+}

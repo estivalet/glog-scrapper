@@ -1,0 +1,107 @@
+{
+  "name": "Palamedes",
+  "shortName": "palamedes",
+  "description": "The goal of Palamedes is to clear the screen which is, line by line, filling up with dice. Players control a small person situated near the bottom of the screen, who can only be moved to the left or right. The number of the dice the person is holding can be changed with the B button, pressing the A button will shoot the dice upwards. If the die hits another one with a matching number, the targeted dice disappears from the playing area and is added to a column at the bottom of the screen. Pressing down after lining up at least three dice of either the same number or consecutive numbers in the bottom row will destroy up to five lines at once.<br><br>There are three modes of play: The standard single player mode, which requires the player to destroy a set number of lines in order to advance to the next stage; a tournament mode in which the player has to duel a number of CPU-controlled opponents and a two player mode.",
+  "publishedBy": "HOT-B USA, Inc.",
+  "developedBy": "Taito Corporation",
+  "released": "Nov, 1990",
+  "alsoFor": "Arcade, FM Towns, Game Boy, MSX | Combined View",
+  "genre": "Puzzle",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/nes/palamedes",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Tile matching puzzle",
+  "setting": "",
+  "release": [
+    {
+      "system": "NES",
+      "releases": [
+        {
+          "publisher": "Hot-B Co., Ltd.",
+          "developer": "Taito Corporation",
+          "ported": "Natsume Co., Ltd.",
+          "country": " Japan",
+          "releaseDate": "Jul 06, 1990",
+          "ean13": "4 967948 000348",
+          "comments": ""
+        },
+        {
+          "publisher": "HOT-B USA, Inc.",
+          "developer": "Taito Corporation",
+          "ported": "Natsume Co., Ltd.",
+          "country": " United States",
+          "releaseDate": "Nov, 1990",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/234494-palamedes-nes-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/234495-palamedes-nes-screenshot-game-in-progress.png",
+      "caption": "Game in progress"
+    },
+    {
+      "link": "/images/shots/l/234496-palamedes-nes-screenshot-2-line-combo.png",
+      "caption": "2 line combo"
+    },
+    {
+      "link": "/images/shots/l/234497-palamedes-nes-screenshot-stage-3-preparing-a-combination.png",
+      "caption": "Stage 3, preparing a combination"
+    },
+    {
+      "link": "/images/shots/l/234498-palamedes-nes-screenshot-about-to-finish-this-stage.png",
+      "caption": "About to finish this stage"
+    },
+    {
+      "link": "/images/shots/l/234499-palamedes-nes-screenshot-stage-clear.png",
+      "caption": "Stage clear!"
+    },
+    {
+      "link": "/images/shots/l/234500-palamedes-nes-screenshot-beginning-a-tournament.png",
+      "caption": "Beginning a tournament"
+    },
+    {
+      "link": "/images/shots/l/234501-palamedes-nes-screenshot-duel-against-a-cpu-controlled-opponent.png",
+      "caption": "Duel against a CPU-controlled opponent"
+    },
+    {
+      "link": "/images/shots/l/234502-palamedes-nes-screenshot-this-doesn-t-look-good.png",
+      "caption": "This doesn't look good..."
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/194159-palamedes-nes-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "NES"
+    },
+    {
+      "link": "/images/covers/l/194160-palamedes-nes-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "NES"
+    },
+    {
+      "link": "/images/covers/l/194161-palamedes-nes-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "NES"
+    }
+  ]
+}

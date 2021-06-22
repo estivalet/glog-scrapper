@@ -1,0 +1,107 @@
+{
+  "name": "The Bulge: Battle for Antwerp",
+  "shortName": "bulge-battle-for-antwerp",
+  "description": "This early simulation of &quot;The Battle of the Bulge&quot; uses a semi-realtime system for gameplay, consisting of 15 minute time-ticks and will jump to 7:00 AM of the next day as soon as midnight is reached. The game has a pause command, so you can examine the battlefield without pressure of time. Units are displayed as icons and represent a regiment, brigade or even division, each having a certain strength value. At the beginning the units are placed in their historical starting locations of Dec 16th, 1944. Orders are given by selecting an unit and pointing to a target on the map. The unit will then try to move towards the ordered location (or enemy unit), and engage into combat. During the course of the battle each side will receive a number of reinforcements appearing at predefined (historical) positions. Units will fight until completely wiped out. When this happens you will receive a message displayed in a ticker on the top of the screen. This is also the place where you receive information like weather reports, air support and incoming reinforcements.<br><br>Victory points are accumulated by destroying enemy units and taking cities (each city has a victory point value). There are some special conditions for the German side, like not taking the city of Spa in time (with intact fuel depot) will result in decreased combat value for all units. The current points are displayed at the bottom of the screen. The game will end on Jan 3rd, 1945, also showing the final points again, along with statements which sides claim victory. You can examine final unit positions and restart the game afterwards.",
+  "publishedBy": "Argus Press Software Ltd.",
+  "developedBy": "Choice Software, M.C. Lothlorien Ltd",
+  "released": "1985",
+  "alsoFor": "ZX Spectrum | Combined View",
+  "genre": "Simulation, Strategy / tactics",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/bulge-battle-for-antwerp",
+  "visual": "",
+  "gamePlay": "",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "Argus Press Software Ltd.",
+          "developer": "Choice Software",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1985",
+          "ean13": "5 013248 320019",
+          "comments": "Dual C64 / ZX Spectrum release"
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/347662-the-bulge-battle-for-antwerp-commodore-64-screenshot-title.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/347663-the-bulge-battle-for-antwerp-commodore-64-screenshot-victory.png",
+      "caption": "Victory conditions"
+    },
+    {
+      "link": "/images/shots/l/347664-the-bulge-battle-for-antwerp-commodore-64-screenshot-strategic.png",
+      "caption": "Strategic map"
+    },
+    {
+      "link": "/images/shots/l/347665-the-bulge-battle-for-antwerp-commodore-64-screenshot-tactical.png",
+      "caption": "Tactical map"
+    },
+    {
+      "link": "/images/shots/l/347666-the-bulge-battle-for-antwerp-commodore-64-screenshot-a-defense.png",
+      "caption": "A defense line is build by American troops"
+    },
+    {
+      "link": "/images/shots/l/347667-the-bulge-battle-for-antwerp-commodore-64-screenshot-final.png",
+      "caption": "Final outcome of the battle"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/674345-the-bulge-battle-for-antwerp-commodore-64-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "Commodore 64 and ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/674346-the-bulge-battle-for-antwerp-commodore-64-inside-cover.jpg",
+      "scanOf": "Inside Cover",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "Commodore 64 and ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/674347-the-bulge-battle-for-antwerp-commodore-64-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "Commodore 64 and ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/674348-the-bulge-battle-for-antwerp-commodore-64-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "Commodore 64 and ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/674349-the-bulge-battle-for-antwerp-commodore-64-manual.jpg",
+      "scanOf": "Manual",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "Commodore 64 and ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/674350-the-bulge-battle-for-antwerp-commodore-64-manual.jpg",
+      "scanOf": "Manual",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "Commodore 64 and ZX Spectrum"
+    }
+  ]
+}

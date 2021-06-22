@@ -1,0 +1,68 @@
+{
+  "name": "Rogue",
+  "shortName": "rogue",
+  "description": "<i>Rogue</i> is a turn-based dungeon crawler in which the player controls an adventurer who must explore the dangerous Dungeon of Doom in order to retrieve the precious Amulet of Yendor and make it out alive. The player character starts on the upper-most level and slowly makes his way downwards.<br><br>The game uses ASCII characters to represent locations, items, monsters, and the protagonist himself. There are twenty-six different types of monsters, symbolized by their initial letters (e.g. L for Leprechaun). Monsters have different abilities and modes of attack. The dungeon and the items in it are randomly generated each time the player begins a new game. Each dungeon level contains a grid of three by three rooms and dead ends. <br><br>Levels get progressively more complex and maze-like, and monsters grow in strength the deeper the hero ventures into the dungeon. The player character can acquire better weapons and armor, gain experience points and level up. Should the protagonist perish in the dungeon, the player must restart the game anew.",
+  "publishedBy": "Epyx, Inc.",
+  "developedBy": "A.I. Design",
+  "released": "Aug, 1986",
+  "alsoFor": "Amstrad CPC, Android, Atari 8-bit, Atari ST, Commodore 64, DOS, GP2X, GP32, Linux, Macintosh, Mainframe, PC-88, PC-98, Roku, TRS-80 CoCo, Windows, ZX Spectrum | Combined View",
+  "genre": "Role-Playing (RPG)",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/amiga/rogue",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Roguelike",
+  "setting": "",
+  "release": [
+    {
+      "system": "Amiga",
+      "releases": [
+        {
+          "publisher": "Epyx, Inc.",
+          "developer": "A.I. Design",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "Aug, 1986",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/260751-rogue-amiga-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/260752-rogue-amiga-screenshot-in-the-dungeon.png",
+      "caption": "In the dungeon"
+    },
+    {
+      "link": "/images/shots/l/260753-rogue-amiga-screenshot-better-than-ascii.png",
+      "caption": "Better than ASCII?"
+    },
+    {
+      "link": "/images/shots/l/260754-rogue-amiga-screenshot-nice-menu.png",
+      "caption": "Nice menu"
+    },
+    {
+      "link": "/images/shots/l/260755-rogue-amiga-screenshot-fight-with-an-ice-monster.png",
+      "caption": "Fight with an ice monster"
+    },
+    {
+      "link": "/images/shots/l/260756-rogue-amiga-screenshot-equipment.png",
+      "caption": "Equipment"
+    },
+    {
+      "link": "/images/shots/l/260757-rogue-amiga-screenshot-hall-of-fame.png",
+      "caption": "Hall of fame"
+    }
+  ],
+  "cover": []
+}

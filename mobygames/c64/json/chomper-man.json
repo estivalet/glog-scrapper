@@ -1,0 +1,65 @@
+{
+  "name": "Chomper Man",
+  "shortName": "chomper-man",
+  "description": "<i>Chomper Man</i> is a single screen maze game inspired by the arcade game <a href=\"https://www.mobygames.com/game/arcade/pac-man\">Pac-Man</a> where you must move around various mazes eating all the dots while avoiding the Bullies that move around the maze. As you eat the dots you can press the fire button to give yourself a burst of speed but this is limited. Also to help you are four ghost repellents and when collected allow you to eat the Bullies for a short time. If you are touched by a Bully then you lose one of three lives. To clear a maze all the dots have to be eaten but the maze has to be cleared three times to move to a new maze and the third time you play the maze, the walls are invisible. Two players can play with each player taking it in turns when a maze is cleared by the other player or a player loses all their lives.",
+  "publishedBy": "Victory Software Corporation",
+  "developedBy": "Victory Software Corporation",
+  "released": "1983",
+  "alsoFor": "VIC-20 | Combined View",
+  "genre": "Action",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/chomper-man",
+  "visual": "",
+  "gamePlay": "Arcade",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "Victory Software Corporation",
+          "developer": "Victory Software Corporation",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1983",
+          "ean13": "",
+          "comments": ""
+        },
+        {
+          "publisher": "Mogul Communications",
+          "developer": "Victory Software Corporation",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1983",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/740731-chomper-man-commodore-64-screenshot-title-screen.png",
+      "caption": "Title Screen"
+    },
+    {
+      "link": "/images/shots/l/740732-chomper-man-commodore-64-screenshot-lets-eat-the-dots.png",
+      "caption": "Lets eat the dots"
+    },
+    {
+      "link": "/images/shots/l/740733-chomper-man-commodore-64-screenshot-walls-are-invisible.png",
+      "caption": "Walls are invisible"
+    },
+    {
+      "link": "/images/shots/l/740734-chomper-man-commodore-64-screenshot-next-maze.png",
+      "caption": "Next maze"
+    }
+  ],
+  "cover": []
+}

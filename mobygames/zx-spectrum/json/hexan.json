@@ -1,0 +1,96 @@
+{
+  "name": "Hexan",
+  "shortName": "hexan",
+  "description": "<i>Hexan</i> is an educational game that tasks the player with solving math problems. The premise is that the player character is exploring a maze where the treasure of a medieval sect &quot;HEXAN&quot; is hidden. The maze consists of featureless corridors, through which the player moves in a first-person view, using arrows (or, on the Atari, a joystick) to walk forward and turn 90 or 180 degrees. <br><br>Some places in the maze contain &quot;messages&quot; - these are math problems where the player has to type in the answer. Only one chance at a correct answer is given. <br><br>Once all ten problems have been found and answered (successfully or not), the player can gain entry to the treasure room. Depending on the number of correct answers throughout the game, the treasure is more or less difficult to acquire. If all ten problems have been solved correctly, the game is now won immediately. If less than seven problems have been bested, the game is over. If between seven and nine problems have been bested, the player must type in a password to win the game. The password is generated randomly each time and no hints are given as to what it is. The number of digits in the password varies based on the number of correctly solved problems, but the number of allowed attempts is always just enough to give the player a one-in-ten chance of winning. <br><br>If the game is won, the player is shown a code. Until September 30th 1987, those who sent the code to the publisher had a chance at winning a prize. ",
+  "publishedBy": "Krajowa Agencja Wydawnicza",
+  "developedBy": "Rabbit Software",
+  "released": "1987",
+  "alsoFor": "Atari 8-bit, Commodore 64 | Combined View",
+  "genre": "Adventure, Educational, Puzzle",
+  "perspective": "1st-person",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/zx-spectrum/hexan",
+  "visual": "",
+  "gamePlay": "",
+  "setting": "",
+  "release": [
+    {
+      "system": "ZX Spectrum",
+      "releases": [
+        {
+          "publisher": "Krajowa Agencja Wydawnicza",
+          "developer": "Rabbit Software",
+          "ported": "",
+          "country": " Poland",
+          "releaseDate": "1987",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/530135-hexan-zx-spectrum-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/530136-hexan-zx-spectrum-screenshot-the-maze-definitely-doesn-t-look.png",
+      "caption": "The maze definitely doesn't look too tall. "
+    },
+    {
+      "link": "/images/shots/l/530137-hexan-zx-spectrum-screenshot-with-our-face-up-against-a-wall.png",
+      "caption": "With our face up against a wall; the small arrow points to where some free space is. "
+    },
+    {
+      "link": "/images/shots/l/530138-hexan-zx-spectrum-screenshot-a-math-problem-awaits-us.png",
+      "caption": "A math problem awaits us. "
+    },
+    {
+      "link": "/images/shots/l/530139-hexan-zx-spectrum-screenshot-can-you-solve-this.png",
+      "caption": "Can you solve this? "
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/726803-hexan-zx-spectrum-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Cassette Case",
+      "country": "Poland",
+      "platforms": "ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/726801-hexan-zx-spectrum-inside-cover.png",
+      "scanOf": "Inside Cover",
+      "packaging": "Cassette Case",
+      "country": "Poland",
+      "platforms": "ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/726805-hexan-zx-spectrum-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Cassette Case",
+      "country": "Poland",
+      "platforms": "ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/726804-hexan-zx-spectrum-spine-sides.jpg",
+      "scanOf": "Spine/Sides",
+      "packaging": "Cassette Case",
+      "country": "Poland",
+      "platforms": "ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/726802-hexan-zx-spectrum-media.png",
+      "scanOf": "Media",
+      "packaging": "Cassette Case",
+      "country": "Poland",
+      "platforms": "ZX Spectrum"
+    }
+  ]
+}

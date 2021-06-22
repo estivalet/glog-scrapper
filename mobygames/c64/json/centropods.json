@@ -1,0 +1,83 @@
+{
+  "name": "Centropods",
+  "shortName": "centropods",
+  "description": "<i>Centropods</i> is a single screen shooter viewed from the side inspired by the arcade game <a href=\"https://www.mobygames.com/game/arcade/centipede_\">Centipede</a> where you control a craft at the bottom of the screen and you must shoot and destroy a Centropod. You are able to move your craft left or right as well as forwards and backwards a short distance. The Centropd appears at the top of the screen and moves across and when it hits a sticky glue pod or the edge of the screen then it lowers one place and changes direction. When you hit the Centropod then it splits into two and further shooting keeps splitting it until it is finally destroyed. <br><br>The sticky glue pods are scattered in great numbers around the screen and can be removed after various shots to receive bonus points. Also on screen are a spinning alien buzzer which moves around the screen and a hovering saucer which moves across the screen and when shot gets you more bonus points. Once the Centropod has been destroyed then another one appears and this keeps happening until you run out of lives. If you touch the Centropod, buzzer or saucer then you lose one of three lives.",
+  "publishedBy": "Comm*Data Computer House, Inc.",
+  "developedBy": "",
+  "released": "1983",
+  "alsoFor": "VIC-20 | Combined View",
+  "genre": "Action",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/centropods",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade, Shooter",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "Rabbit Software Ltd",
+          "developer": "",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1983",
+          "ean13": "",
+          "comments": ""
+        },
+        {
+          "publisher": "Comm*Data Computer House, Inc.",
+          "developer": "",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1983",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/740524-centropods-commodore-64-screenshot-title-screen.png",
+      "caption": "Title Screen"
+    },
+    {
+      "link": "/images/shots/l/740525-centropods-commodore-64-screenshot-blast-the-centropod.png",
+      "caption": "Blast the Centropod"
+    },
+    {
+      "link": "/images/shots/l/740526-centropods-commodore-64-screenshot-the-centropod-is-split.png",
+      "caption": "The Centropod is split"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/641621-centropods-commodore-64-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Clamshell",
+      "country": "United States",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/641622-centropods-commodore-64-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Clamshell",
+      "country": "United States",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/641623-centropods-commodore-64-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Clamshell",
+      "country": "United States",
+      "platforms": "Commodore 64"
+    }
+  ]
+}

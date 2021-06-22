@@ -1,0 +1,86 @@
+{
+  "name": "Exerion",
+  "shortName": "exerion",
+  "description": "This is a shoot-em-up game with parallax effects in the background. It does have a simulation of inertia in the control of the ship.\nThere are dozens of enemies and two types of shooting: slow and fast. Two weapon systems: one slow double-shot cannon and one fast single-shot cannon.\nWith each enemy hit by the slow cannon you get one shot added to the fast cannon ammunition supply.\nA challenge stage follows each stage in which you can build up your fast-shot bullet supply.",
+  "publishedBy": "Jaleco Ltd.",
+  "developedBy": "Jaleco Ltd.",
+  "released": "Feb 11, 1985",
+  "alsoFor": "Antstream, Arcade, MSX, Nintendo Switch, PlayStation 4, SG-1000, Wii, Wii U, Windows | Combined View",
+  "genre": "Action",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/nes/exerion",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade, Shooter",
+  "setting": "",
+  "release": [
+    {
+      "system": "NES",
+      "releases": [
+        {
+          "publisher": "Jaleco Ltd.",
+          "developer": "Jaleco Ltd.",
+          "ported": "Tose Co., Ltd.",
+          "country": " Japan",
+          "releaseDate": "Feb 11, 1985",
+          "ean13": "4 907859 101017",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/134781-exerion-nes-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/134782-exerion-nes-screenshot-shoot-the-aliens.png",
+      "caption": "Shoot the aliens"
+    },
+    {
+      "link": "/images/shots/l/134783-exerion-nes-screenshot-they-form-fast-moving-formations.png",
+      "caption": "They form fast moving formations"
+    },
+    {
+      "link": "/images/shots/l/134784-exerion-nes-screenshot-shoot-as-fast-as-you-can.png",
+      "caption": "Shoot as fast as you can"
+    },
+    {
+      "link": "/images/shots/l/134785-exerion-nes-screenshot-move-around-or-you-ll-get-hit.png",
+      "caption": "Move around or you'll get hit!"
+    },
+    {
+      "link": "/images/shots/l/134786-exerion-nes-screenshot-shoot-that-strange-bird-for-bonus-points.png",
+      "caption": "Shoot that strange bird for bonus points"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/295494-exerion-nes-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "Japan",
+      "platforms": "NES"
+    },
+    {
+      "link": "/images/covers/l/295495-exerion-nes-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "Japan",
+      "platforms": "NES"
+    },
+    {
+      "link": "/images/covers/l/295496-exerion-nes-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "Japan",
+      "platforms": "NES"
+    }
+  ]
+}

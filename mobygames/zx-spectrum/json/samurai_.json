@@ -1,0 +1,126 @@
+{
+  "name": "Samurai",
+  "shortName": "samurai_",
+  "description": "<i>Samurai</i> is a turn based strategy/war game where you control an army of samurai and ninja attacking Japanese imperial forces in a temple.<br><br>At the start of each game, one of three difficulty levels may be selected. These correspond to increasing amounts of money with which to buy military units (so that level 3 is easiest). One of three scenarios may then be selected. All of these use the same map, but have different starting locations for the troops. The player then purchases units which may be of four types: mounted samurai, samurai, ninja and ashigaru.<br><br>On starting the main game, the screen shows a top-down view of part of the area around a temple which is surrounded by a moat, and has stairs and bridges. The player's forces are in orange and yellow, while the computer opponent's forces are in blue. Units are located on a square grid, with each unit taking up 2x2 squares. The computer's forces are made up of monks, young samurai monks and samurai monks. Play consists of a number of turns, each consisting of a movement phase followed by a combat phase.<br><br>In the movement phase, the player is cycled through his units (in the order in which they were purchased) and requested to move each. Every type of unit has a different number of movement points, and the number used each step depends on the terrain. A unit whose last step moves it next to an enemy unit loses its remaining movement points. There seems to be no way of deferring movement of a piece until later in the round. Before moving, a ninja also has the option of throwing a shuriken at an enemy unit.<br><br>After movement is combat. The player's unit does a fixed amount of damage to a randomly chosen adjacent enemy, and then the enemy unit retaliates. The amount of damage depends on the unit. Also, a unit may only attack once in a round. This means that if more than one unit is next to an enemy, only one gets damaged while the rest have free hits. The player alternates turns with the computer until one side has completely destroyed the other's units.",
+  "publishedBy": "CRL Group PLC",
+  "developedBy": "Astros Productions",
+  "released": "1986",
+  "alsoFor": "",
+  "genre": "Strategy / tactics",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/zx-spectrum/samurai_",
+  "visual": "2D scrolling",
+  "gamePlay": "Wargame",
+  "setting": "",
+  "release": [
+    {
+      "system": "ZX Spectrum",
+      "releases": [
+        {
+          "publisher": "CRL Group PLC",
+          "developer": "Astros Productions",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1986",
+          "ean13": "9 780854 010356",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/873826-samurai-zx-spectrum-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/873827-samurai-zx-spectrum-screenshot-choosing-a-level.png",
+      "caption": "Choosing a level."
+    },
+    {
+      "link": "/images/shots/l/873828-samurai-zx-spectrum-screenshot-level-3-is-the-easiest.png",
+      "caption": "Level 3 is the easiest."
+    },
+    {
+      "link": "/images/shots/l/873829-samurai-zx-spectrum-screenshot-some-of-my-troops-in-a-river.png",
+      "caption": "Some of my troops in a river."
+    },
+    {
+      "link": "/images/shots/l/873830-samurai-zx-spectrum-screenshot-approaching-the-temple.png",
+      "caption": "Approaching the temple."
+    },
+    {
+      "link": "/images/shots/l/873831-samurai-zx-spectrum-screenshot-victory-is-mine.png",
+      "caption": "Victory is mine."
+    },
+    {
+      "link": "/images/shots/l/873832-samurai-zx-spectrum-screenshot-try-again-on-level-1.png",
+      "caption": "Try again on level 1."
+    },
+    {
+      "link": "/images/shots/l/873833-samurai-zx-spectrum-screenshot-my-ninja-aims-a-shuriken-roughly.png",
+      "caption": "My ninja aims a shuriken roughly east."
+    },
+    {
+      "link": "/images/shots/l/873834-samurai-zx-spectrum-screenshot-level-1-was-too-difficult.png",
+      "caption": "Level 1 was too difficult."
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/418776-samurai-zx-spectrum-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/418777-samurai-zx-spectrum-inside-cover.jpg",
+      "scanOf": "Inside Cover",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/418778-samurai-zx-spectrum-inside-cover.jpg",
+      "scanOf": "Inside Cover",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/418779-samurai-zx-spectrum-inside-cover.jpg",
+      "scanOf": "Inside Cover",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/418774-samurai-zx-spectrum-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/418775-samurai-zx-spectrum-spine-sides.jpg",
+      "scanOf": "Spine/Sides",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/418786-samurai-zx-spectrum-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    }
+  ]
+}

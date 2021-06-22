@@ -1,0 +1,78 @@
+{
+  "name": "Arex",
+  "shortName": "arex",
+  "description": "In <i>Arex</i>, you play as a spaceship commander invading enemy territory.  You goal is to cover as much ground of a grid as possible, while dispensing arrows behind you, and avoiding alien vessels.  The player's ship can move in 4 cardinal directions.  The player is unable to cross ground they have already covered, but the trail can be destroyed by alien creatures under specific circumstances.  <br><br>Enemies encountered, include: Snarfs, Snuffers, Diagons, and Rippers.  Snuffers move at right angles up or down, and can only be destroyed if trapped in a single space.  Diagons are bird-like creatures which will move inexorably at a 45 degree angle, and can be destroyed by trapping between two parallel trails.   Snarfs are defenseless creatures which will mutate into Snuffers or Diagons after an unpredictable time period has passed.  The Ripper will follow your Arex's trail while stationary, and will only relent if the player keeps moving.  Trying to cross the Ripper's trail will lead to the ship's destruction.  <br><br>There are two play styles, dungeon and arena.  Arena features a wide open field, where the goal is to maximize score by surviving as long as possible.  Dungeon features a single screen with permanent walls which must be maneuvered around, while attempting to explore the entire environment.  If the player explores 90% of the level, they will advance to the next stage.  The player starts with 3 vessels, and if all are lost, then it's game over.  ",
+  "publishedBy": "Adventure International",
+  "developedBy": "",
+  "released": "1983",
+  "alsoFor": "Apple II, Commodore 64, DOS, TRS-80, TRS-80 CoCo | Combined View",
+  "genre": "Action",
+  "perspective": "",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-8-bit/arex",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari 8-bit",
+      "releases": [
+        {
+          "publisher": "Adventure International",
+          "developer": "",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1983",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/956314-arex-atari-8-bit-screenshot-title-screen.png",
+      "caption": "Title Screen"
+    },
+    {
+      "link": "/images/shots/l/956315-arex-atari-8-bit-screenshot-ready-player-1.png",
+      "caption": "Ready Player 1"
+    },
+    {
+      "link": "/images/shots/l/956316-arex-atari-8-bit-screenshot-trapped-in-the-dungeon-the-ripper.png",
+      "caption": "Trapped in The Dungeon, The Ripper is Coming"
+    },
+    {
+      "link": "/images/shots/l/956317-arex-atari-8-bit-screenshot-i-am-destroyed.png",
+      "caption": "I am Destroyed"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/707551-arex-atari-8-bit-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Plastic Folder",
+      "country": "United States",
+      "platforms": "Atari 8-bit"
+    },
+    {
+      "link": "/images/covers/l/707552-arex-atari-8-bit-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Plastic Folder",
+      "country": "United States",
+      "platforms": "Atari 8-bit"
+    },
+    {
+      "link": "/images/covers/l/707553-arex-atari-8-bit-spine-sides.jpg",
+      "scanOf": "Spine/Sides",
+      "packaging": "Plastic Folder",
+      "country": "United States",
+      "platforms": "Atari 8-bit"
+    }
+  ]
+}

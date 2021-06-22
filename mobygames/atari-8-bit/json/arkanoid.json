@@ -1,0 +1,99 @@
+{
+  "name": "Arkanoid",
+  "shortName": "arkanoid",
+  "description": "The original <a href=\"https://www.mobygames.com/search/quick?game=Breakout\">Breakout</a> concept involves controlling a bat at the bottom of the screen and using it to catch and direct a ball so as to hit all the bricks which are arranged at the top of the screen. It was unpopular for over a decade, before Taito revived it with some new ideas in this arcade game.<br><br>The game's plot redefines the bat as a Vaus spaceship, the ball as an energy bolt, and the bricks form a mysterious wall stopping the ship from progressing to safety.<br><br>By the mid-80s, power-ups were popular in most types of arcade games, and <i>Arkanoid</i> features them. They are caught by positioning the bat below them as they fall (meaning that you risk missing the ball if you go for them at the wrong time). The power-ups include lasers (which are mounted to each side of the ship and allow you to shoot out the blocks), a catching device (so as to be able to fire the ball off at a different angle every time you hit it) and one that slows the bolt down.",
+  "publishedBy": "Imagine Software Ltd.",
+  "developedBy": "Taito Corporation",
+  "released": "1987",
+  "alsoFor": "Amiga, Amstrad CPC, Apple II, Apple IIgs, Arcade, Atari ST, BBC Micro, Commodore 64, DOS, Macintosh, MSX, NES, PC-88, PC-98, Sharp X1, Thomson MO, Thomson TO, TRS-80 CoCo, ZX Spectrum | Combined View",
+  "genre": "Action",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-8-bit/arkanoid",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade, Paddle / Pong",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari 8-bit",
+      "releases": [
+        {
+          "publisher": "Imagine Software Ltd.",
+          "developer": "Taito Corporation",
+          "ported": "",
+          "country": " France, Germany, United Kingdom",
+          "releaseDate": "1987",
+          "ean13": "5 013156 110863",
+          "comments": "Floppy Disk release"
+        },
+        {
+          "publisher": "Hit Squad, The",
+          "developer": "Taito Corporation",
+          "ported": "",
+          "country": " Germany, United Kingdom",
+          "releaseDate": "1989",
+          "ean13": "",
+          "comments": "Budget re-release"
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/149219-arkanoid-atari-8-bit-screenshot-the-main-menu.png",
+      "caption": "The main menu"
+    },
+    {
+      "link": "/images/shots/l/149220-arkanoid-atari-8-bit-screenshot-beginning-the-first-level.png",
+      "caption": "Beginning the first level"
+    },
+    {
+      "link": "/images/shots/l/149221-arkanoid-atari-8-bit-screenshot-gameplay-with-the-extra-wide.png",
+      "caption": "Gameplay with the extra wide paddle"
+    },
+    {
+      "link": "/images/shots/l/149222-arkanoid-atari-8-bit-screenshot-the-tricky-third-level-some.png",
+      "caption": "The tricky third level; some bricks can't be destroyed!"
+    },
+    {
+      "link": "/images/shots/l/149223-arkanoid-atari-8-bit-screenshot-blasting-bricks-with-lasers.png",
+      "caption": "Blasting bricks with lasers"
+    },
+    {
+      "link": "/images/shots/l/149224-arkanoid-atari-8-bit-screenshot-some-bricks-require-multiple.png",
+      "caption": "Some bricks require multiple hits to destroy"
+    },
+    {
+      "link": "/images/shots/l/149225-arkanoid-atari-8-bit-screenshot-each-level-features-a-different.png",
+      "caption": "Each level features a different layout of bricks"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/148316-arkanoid-atari-8-bit-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Cassette Case",
+      "country": "France  and Germany",
+      "platforms": "Atari 8-bit"
+    },
+    {
+      "link": "/images/covers/l/148317-arkanoid-atari-8-bit-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Cassette Case",
+      "country": "France  and Germany",
+      "platforms": "Atari 8-bit"
+    },
+    {
+      "link": "/images/covers/l/324481-arkanoid-atari-8-bit-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Cassette Case",
+      "country": "France  and Germany",
+      "platforms": "Atari 8-bit"
+    }
+  ]
+}

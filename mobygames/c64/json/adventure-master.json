@@ -1,0 +1,83 @@
+{
+  "name": "Adventure Master",
+  "shortName": "adventure-master",
+  "description": "<i>Adventure Master</i> is one in a series of adventure creation programs that were popular in the mid-80s and allows you to create text-adventures with some graphics.<br><br>The system uses a simple two-word parser, so you are limited to commands like &quot;Go North&quot; or &quot;Get Thingamajig&quot;. The creation process is not overly complex: You can create rooms, objects and descriptions and add graphical illustrations and words to the parser. Graphics are limited to 160x96 4-color mode; there is also a limit of about ten pictures per created game  <br><br>It also included one complete and two unfinished sample adventures:\n<ul><li><i>Becca in Outlaw Cave</i></li>\n<li><i>Clever Catacombs</i> (finished)</li>\n<li><i>Wild Trails</i></li></ul>",
+  "publishedBy": "CBS Software",
+  "developedBy": "CBS Software",
+  "released": "1984",
+  "alsoFor": "Apple II, Atari 8-bit, DOS | Combined View",
+  "genre": "Adventure",
+  "perspective": "",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/adventure-master",
+  "visual": "",
+  "gamePlay": "Interactive fiction / text adventure, Puzzle elements",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "CBS Software",
+          "developer": "CBS Software",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1984",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/261466-adventure-master-commodore-64-screenshot-title.png",
+      "caption": "Title"
+    },
+    {
+      "link": "/images/shots/l/261467-adventure-master-commodore-64-screenshot-main-menu.png",
+      "caption": "Main Menu"
+    },
+    {
+      "link": "/images/shots/l/261468-adventure-master-commodore-64-screenshot-introduction-to-the.png",
+      "caption": "Introduction to the program"
+    },
+    {
+      "link": "/images/shots/l/261469-adventure-master-commodore-64-screenshot-this-is-the-startup.png",
+      "caption": "This is the startup screen for one of the two sample games called &quot;Restart&quot;"
+    },
+    {
+      "link": "/images/shots/l/261470-adventure-master-commodore-64-screenshot-for-a-command-such.png",
+      "caption": "For a command such as &quot;Go East&quot;, which all text adventures understand, you'd expect this game to as well"
+    },
+    {
+      "link": "/images/shots/l/261471-adventure-master-commodore-64-screenshot-we-have-graphics.png",
+      "caption": "We have graphics"
+    },
+    {
+      "link": "/images/shots/l/261472-adventure-master-commodore-64-screenshot-to-understand-what.png",
+      "caption": "To understand what the troll is saying, you need to read backwards"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/70611-adventure-master-commodore-64-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/70612-adventure-master-commodore-64-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Commodore 64"
+    }
+  ]
+}

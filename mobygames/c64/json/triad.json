@@ -1,0 +1,48 @@
+{
+  "name": "Triad",
+  "shortName": "triad",
+  "description": "<i>Triad</i> is a combination Tic-Tac-Toe game and space shooter for 2 players.<br><br>The game starts as a Tic-Tac-Toe game, where nine separate icons are randomly assigned to each portion of the board.  The include: an arrow, a green mask, a blue mask, an insect, a bat, a chess piece, a UFO, a spider, and a butterfly.  When a player selects a location on the board, the game changes to an overhead shooter, where the player must defeat all enemies on the screen.  If all enemies are defeated, the player gains the position.  If the player is defeated by the enemies, then the position remains vacant.   A player wins by obtaining three positions in a row.\n",
+  "publishedBy": "Adventure International",
+  "developedBy": "",
+  "released": "1983",
+  "alsoFor": "Apple II, Atari 8-bit, TRS-80 CoCo | Combined View",
+  "genre": "Action, Puzzle",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/triad",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "Adventure International",
+          "developer": "",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1983",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/960514-triad-commodore-64-screenshot-main-screen.png",
+      "caption": "Main Screen"
+    },
+    {
+      "link": "/images/shots/l/960515-triad-commodore-64-screenshot-battling-bugs.png",
+      "caption": "Battling Bugs"
+    }
+  ],
+  "cover": []
+}

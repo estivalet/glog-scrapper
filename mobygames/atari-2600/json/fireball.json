@@ -1,0 +1,97 @@
+{
+  "name": "Fireball",
+  "shortName": "fireball",
+  "description": "<i>Fireball</i> is an arcade action game similar to <a href=\"https://www.mobygames.com/search/quick?game=Breakout\">Breakout</a>. The player controls a juggler who needs to keep multiple fireballs within the play field. The juggler can hold on to two fireballs at a time, so be careful because if he tries to catch a third it will fall off the screen. The goal is to destroy the bricks at the top of the screen by hitting them with the fireballs. When all the bricks are destroyed, the player moves on to the next round and is given one additional fireball to keep in play. Five different game variations are included:\n<ul>\n<li><b>Firetrap:</b> Two additional fireballs are trapped within brick walls. Once a hole forms in the walls, the player will also need to keep these additional fireballs in play.<br><br><li><b>Marching Blocks:</b> In this game, each time the player catches a fireball, the rows of blocks will drop down one level. From time to time, a mystery fireball may also appear.<br><br><li><b>Knock-A-Block:</b> This is the most basic game variation. There is a solid wall of blocks at the top of the screen that the player needs to destroy.<br><br><li><b>Migrating Blocks:</b> In this game, the rows of blocks move. Every few seconds each row of blocks will rotate either to the left or to the right.<br><br><li><b>Cascade:</b> There are five additional fireballs trapped within the block formation. When the player destroys enough blocks to release an extra fireball, it too will need to be kept in play.\n</ul>",
+  "publishedBy": "Arcadia Corporation",
+  "developedBy": "Arcadia Corporation",
+  "released": "1982",
+  "alsoFor": "",
+  "genre": "Action",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-2600/fireball",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade, Paddle / Pong",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari 2600",
+      "releases": [
+        {
+          "publisher": "Arcadia Corporation",
+          "developer": "Arcadia Corporation",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1982",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/48255-fireball-atari-2600-screenshot-title-screen.gif",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/48256-fireball-atari-2600-screenshot-choose-a-game-option.gif",
+      "caption": "Choose a game option"
+    },
+    {
+      "link": "/images/shots/l/48257-fireball-atari-2600-screenshot-firetrap.gif",
+      "caption": "Firetrap"
+    },
+    {
+      "link": "/images/shots/l/48258-fireball-atari-2600-screenshot-marching-blocks.gif",
+      "caption": "Marching blocks"
+    },
+    {
+      "link": "/images/shots/l/48259-fireball-atari-2600-screenshot-knock-a-block.gif",
+      "caption": "Knock-A-Block"
+    },
+    {
+      "link": "/images/shots/l/48260-fireball-atari-2600-screenshot-migrating-blocks.gif",
+      "caption": "Migrating blocks"
+    },
+    {
+      "link": "/images/shots/l/48261-fireball-atari-2600-screenshot-cascade.gif",
+      "caption": "Cascade"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/24126-fireball-atari-2600-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Atari 2600"
+    },
+    {
+      "link": "/images/covers/l/24127-fireball-atari-2600-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Atari 2600"
+    },
+    {
+      "link": "/images/covers/l/24129-fireball-atari-2600-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Atari 2600"
+    },
+    {
+      "link": "/images/covers/l/24130-fireball-atari-2600-other.jpg",
+      "scanOf": "Other",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Atari 2600"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Astro Invader",
+  "shortName": "astro-invader_",
+  "description": "<i>Astro Invader</i> is a fixed screen shoot 'em up. The player moves his laser base across the bottom of the screen and has to shoot down the aliens that appear above him. What sets Astro Invader apart from other early shoot 'em ups is that the aliens, after being dropped from their mothership, position themselves in columns. Once a column is full the lowest alien drops down and suicide dives towards the player. As they hit the ground they explode and the player must make sure he is not within the blast radius. In addition to the standard aliens there are also UFOs that appear in the middle and to the sides of the screen. These must be shot down as they will kill the player when landing, no matter where the player is positioned. The game is over when all three lives are lost.<br><br>The Japanese version (<i>Kamikaze</i>) has some differences. Most noticeable is that it has more columns and that the UFOs only appear in the middle of the screen. It also has regular aliens that attack on the sides of the screen without going through the columns. Aliens that crash into the ground has a greater blast radius than in the US version.",
+  "publishedBy": "Bandai Co., Ltd.",
+  "developedBy": "Konami Industry Co. Ltd.",
+  "released": "1982",
+  "alsoFor": "Arcade | Combined View",
+  "genre": "Action",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/arcadia-2001/astro-invader_",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade, Shooter",
+  "setting": "",
+  "release": [
+    {
+      "system": "Arcadia 2001",
+      "releases": [
+        {
+          "publisher": "Bandai Co., Ltd.",
+          "developer": "Konami Industry Co. Ltd.",
+          "ported": "UA Limited",
+          "country": " Japan",
+          "releaseDate": "1982",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/779001-astro-invader-arcadia-2001-screenshot-title-screen.gif",
+      "caption": "Title Screen"
+    },
+    {
+      "link": "/images/shots/l/779002-astro-invader-arcadia-2001-screenshot-level-1.gif",
+      "caption": "Level 1"
+    },
+    {
+      "link": "/images/shots/l/779003-astro-invader-arcadia-2001-screenshot-level-4.gif",
+      "caption": "Level 4"
+    },
+    {
+      "link": "/images/shots/l/779004-astro-invader-arcadia-2001-screenshot-game-over.gif",
+      "caption": "Game Over"
+    }
+  ],
+  "cover": []
+}

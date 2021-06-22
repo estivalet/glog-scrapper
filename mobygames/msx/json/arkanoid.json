@@ -1,0 +1,102 @@
+{
+  "name": "Arkanoid",
+  "shortName": "arkanoid",
+  "description": "The original <a href=\"https://www.mobygames.com/search/quick?game=Breakout\">Breakout</a> concept involves controlling a bat at the bottom of the screen and using it to catch and direct a ball so as to hit all the bricks which are arranged at the top of the screen. It was unpopular for over a decade, before Taito revived it with some new ideas in this arcade game.<br><br>The game's plot redefines the bat as a Vaus spaceship, the ball as an energy bolt, and the bricks form a mysterious wall stopping the ship from progressing to safety.<br><br>By the mid-80s, power-ups were popular in most types of arcade games, and <i>Arkanoid</i> features them. They are caught by positioning the bat below them as they fall (meaning that you risk missing the ball if you go for them at the wrong time). The power-ups include lasers (which are mounted to each side of the ship and allow you to shoot out the blocks), a catching device (so as to be able to fire the ball off at a different angle every time you hit it) and one that slows the bolt down.",
+  "publishedBy": "Taito Corporation",
+  "developedBy": "Taito Corporation",
+  "released": "1987",
+  "alsoFor": "Amiga, Amstrad CPC, Apple II, Apple IIgs, Arcade, Atari 8-bit, Atari ST, BBC Micro, Commodore 64, DOS, Macintosh, NES, PC-88, PC-98, Sharp X1, Thomson MO, Thomson TO, TRS-80 CoCo, ZX Spectrum | Combined View",
+  "genre": "Action",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/msx/arkanoid",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade, Paddle / Pong",
+  "setting": "",
+  "release": [
+    {
+      "system": "MSX",
+      "releases": [
+        {
+          "publisher": "Taito Corporation",
+          "developer": "Taito Corporation",
+          "ported": "",
+          "country": " Japan",
+          "releaseDate": "1987",
+          "ean13": "",
+          "comments": ""
+        },
+        {
+          "publisher": "Hit Squad, The",
+          "developer": "Taito Corporation",
+          "ported": "",
+          "country": " Italy, United Kingdom",
+          "releaseDate": "1990",
+          "ean13": "5 013156 410352",
+          "comments": "Budget re-release"
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/123402-arkanoid-msx-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/123404-arkanoid-msx-screenshot-gameplay-on-the-first-level.png",
+      "caption": "Gameplay on the first level"
+    },
+    {
+      "link": "/images/shots/l/123405-arkanoid-msx-screenshot-i-now-have-a-big-paddle.png",
+      "caption": "I now have a big paddle!"
+    },
+    {
+      "link": "/images/shots/l/123406-arkanoid-msx-screenshot-the-always-tricky-third-level.png",
+      "caption": "The always tricky third level"
+    },
+    {
+      "link": "/images/shots/l/123407-arkanoid-msx-screenshot-firing-lasers.png",
+      "caption": "Firing lasers..."
+    },
+    {
+      "link": "/images/shots/l/123409-arkanoid-msx-screenshot-those-silver-bricks-require-multiple.png",
+      "caption": "Those silver bricks require multiple hits to destroy"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/118702-arkanoid-msx-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Cassette Case",
+      "country": "Italy  and United Kingdom",
+      "platforms": "MSX"
+    },
+    {
+      "link": "/images/covers/l/118703-arkanoid-msx-inside-cover.jpg",
+      "scanOf": "Inside Cover",
+      "packaging": "Cassette Case",
+      "country": "Italy  and United Kingdom",
+      "platforms": "MSX"
+    },
+    {
+      "link": "/images/covers/l/118701-arkanoid-msx-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Cassette Case",
+      "country": "Italy  and United Kingdom",
+      "platforms": "MSX"
+    },
+    {
+      "link": "/images/covers/l/120670-arkanoid-msx-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Cassette Case",
+      "country": "Italy  and United Kingdom",
+      "platforms": "MSX"
+    }
+  ]
+}

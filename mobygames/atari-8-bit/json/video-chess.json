@@ -1,0 +1,73 @@
+{
+  "name": "Video Chess",
+  "shortName": "video-chess",
+  "description": "This is an early home chess game. The standard U. S. chess rules are used in this game. To move a piece, place the X on the board onto the piece to be moved then press the red button. Next, move the X to where you want the piece to go and press the button again. If the move is illegal, the 2600 will give a warning sound and not make the move.<br><br>To castle your king, the king and rook must not have been moved. You move your king two squares in the direction of the rook to castle with. The 2600 will then automatically move your rook around your king, completing the move. You cannot castle out of check and you cannot castle to the king's side if any squares between the king and rook are threatened.<br><br>Another maneuver is called en passant. This move is used to counteract the enemy pawn's initial double move on a adjacent square.  To carry out the en passant, you must advance your\npawn to the fifth rank.  Your opponent then has the option of moving\nhis or her pawn one square (where it would be under attack) or two\nsquares.  If you opponent elects to move two squares, the en passant move allows you to take that pawn by diagonally moving your pawn to the square that was skipped over.<br><br><b>Skill levels</b><br>\nThese determine how long the computer will think on its move. These times are approximate and may vary slightly, depending on what move you did.<br>\nLevel 1=15 seconds<br>\nLevel 2=30 seconds<br>\nLevel 3=45 seconds<br>\nLevel 4=2 minutes, 45 seconds<br>\nLevel 5=3 minutes, 15 seconds<br>\nLevel 6=12 minutes<br>\nLevel 7=10 hours<br>\nLevel 8=10 seconds<br><br>Level 8 is a beginner level.",
+  "publishedBy": "Atari, Inc.",
+  "developedBy": "Atari, Inc.",
+  "released": "1979",
+  "alsoFor": "Atari 2600, Windows, Xbox 360 | Combined View",
+  "genre": "Strategy / tactics",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-8-bit/video-chess",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Board game, Chess",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari 8-bit",
+      "releases": [
+        {
+          "publisher": "Atari, Inc.",
+          "developer": "Atari, Inc.",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1979",
+          "ean13": "",
+          "comments": ""
+        },
+        {
+          "publisher": "Atari Corp. (UK) Ltd.",
+          "developer": "Atari, Inc.",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1985",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/252042-video-chess-atari-8-bit-screenshot-initially-loaded-screen.png",
+      "caption": "Initially loaded screen"
+    },
+    {
+      "link": "/images/shots/l/252043-video-chess-atari-8-bit-screenshot-game-started.png",
+      "caption": "Game started"
+    },
+    {
+      "link": "/images/shots/l/252044-video-chess-atari-8-bit-screenshot-i-am-in-check.png",
+      "caption": "I am in check."
+    },
+    {
+      "link": "/images/shots/l/252045-video-chess-atari-8-bit-screenshot-checkmate-i-lose.png",
+      "caption": "Checkmate. I lose."
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/101176-video-chess-atari-8-bit-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Atari 8-bit"
+    }
+  ]
+}

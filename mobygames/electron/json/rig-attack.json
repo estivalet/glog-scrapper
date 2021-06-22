@@ -1,0 +1,52 @@
+{
+  "name": "Rig Attack",
+  "shortName": "rig-attack",
+  "description": "<i>Rig Attack</i> is a side view horizontal game where the screen scrolls left or right when the player moves. The goal is to patrol an oil rig and surrounding oil fields in the helicopter searching for enemy submarines over various levels. As the player flies over the ocean and encounter a sub, the player must fly as close to the water to bomb the sub while avoiding its missiles. Once a certain amount have been destroyed then it's on to the next level.<br><br>Flying uses fuel which is shown by the colour of the border (bottom of the screen on the Amstrad) which starts green, then amber, then red before flashing red. The player is able to land on helipads scattered over each level to refuel, however the player cannot refuel while fighting a sub. Getting hit by a missile, hitting the water, or hitting a rig or oil field, will subtract a life (three on the C16, five on the Amstrad).",
+  "publishedBy": "Tynesoft Computer Software",
+  "developedBy": "Tynesoft Computer Software",
+  "released": "1985",
+  "alsoFor": "Amstrad CPC, BBC Micro, Commodore 16, Plus/4 | Combined View",
+  "genre": "Action",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/electron/rig-attack",
+  "visual": "",
+  "gamePlay": "",
+  "setting": "",
+  "release": [
+    {
+      "system": "Electron",
+      "releases": [
+        {
+          "publisher": "Tynesoft Computer Software",
+          "developer": "Tynesoft Computer Software",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1985",
+          "ean13": "",
+          "comments": "Dual BBC/Electron tape release"
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/727208-rig-attack-electron-screenshot-title-screen-with-controls.png",
+      "caption": "Title screen with controls"
+    },
+    {
+      "link": "/images/shots/l/727209-rig-attack-electron-screenshot-start-of-the-game.png",
+      "caption": "Start of the game"
+    },
+    {
+      "link": "/images/shots/l/727210-rig-attack-electron-screenshot-duel-with-a-submarine.png",
+      "caption": "Duel with a submarine"
+    }
+  ],
+  "cover": []
+}

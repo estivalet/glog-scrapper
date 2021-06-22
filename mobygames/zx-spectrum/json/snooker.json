@@ -1,0 +1,100 @@
+{
+  "name": "Snooker",
+  "shortName": "snooker",
+  "description": "The game of snooker was surging in popularity in the early 80s, and this was one of the first interpretations of the sport for the Spectrum (at least three others called simply 'Snooker' exist). Shot direction is achieved by rotating a line which comes off the cue ball, which can be steered in either direction at slow or fast speed, and the shot's pace is set by pressing a letter key, allowing for 26 different shot strengths, A being the lightest and Z the hardest. As well as playing full matches, you can set up practice shots by moving the cue-ball.<br><br>The game uses a slightly simplified version of the game's rules,\nwith only 9 reds, and therefore the maximum possible score is only 99, rather than 147 in a full game. The touching ball and free ball rules aren't featured, which make it possible to cheat, either exploiting the former absence by playing 'push shots', or the latter by rolling into a colour to play an impossible snooker, immediately getting the foul points back and probably leaving yourself a good position.",
+  "publishedBy": "Microbyte",
+  "developedBy": "Artic Computing Ltd",
+  "released": "1983",
+  "alsoFor": "",
+  "genre": "Simulation, Sports",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "Pool / snooker",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/zx-spectrum/snooker",
+  "visual": "",
+  "gamePlay": "",
+  "setting": "",
+  "release": [
+    {
+      "system": "ZX Spectrum",
+      "releases": [
+        {
+          "publisher": "Artic Computing Ltd",
+          "developer": "Artic Computing Ltd",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1983",
+          "ean13": "",
+          "comments": ""
+        },
+        {
+          "publisher": "Microbyte",
+          "developer": "Artic Computing Ltd",
+          "ported": "",
+          "country": " Spain",
+          "releaseDate": "1983",
+          "ean13": "",
+          "comments": ""
+        },
+        {
+          "publisher": "Paxman Promotions Ltd.",
+          "developer": "Artic Computing Ltd",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1986",
+          "ean13": "",
+          "comments": "Budget release"
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/478403-snooker-zx-spectrum-screenshot-title.png",
+      "caption": "Title"
+    },
+    {
+      "link": "/images/shots/l/478404-snooker-zx-spectrum-screenshot-game-start.png",
+      "caption": "Game start"
+    },
+    {
+      "link": "/images/shots/l/478405-snooker-zx-spectrum-screenshot-position-cue.png",
+      "caption": "Position cue"
+    },
+    {
+      "link": "/images/shots/l/478406-snooker-zx-spectrum-screenshot-break.png",
+      "caption": "Break"
+    },
+    {
+      "link": "/images/shots/l/478407-snooker-zx-spectrum-screenshot-2-reds-pick-a-color-for-next.png",
+      "caption": "2 reds pick a color for next shot"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/44053-snooker-zx-spectrum-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/44054-snooker-zx-spectrum-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/97329-snooker-zx-spectrum-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    }
+  ]
+}

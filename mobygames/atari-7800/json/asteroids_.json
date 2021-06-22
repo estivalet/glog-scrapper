@@ -1,0 +1,82 @@
+{
+  "name": "Asteroids",
+  "shortName": "asteroids_",
+  "description": "Play the role of a spaceship pilot trapped in a gigantic asteroid cloud and pulverize incoming asteroids with the ship's photon cannon.  When all asteroids are destroyed, the player can then move on to the next round. In addition to the asteroids, the player will also face an Alien Robot Saucer which shoots randomly across the screen.<br><br>The player using the controller may rotate the ship (left or right) in any direction or move the ship forward. Shots will be fired according to the ship's direction. The player has three reserved ships available to replace a destroyed spaceship. The spaceship is destroyed if an asteroid collides with the spaceship or is shot by an Alien Robot Saucer. Additionally, the player may opt to use the hyperspace warp to avoid a collision. The warp, however, may also destroy the spaceship in the process.<br><br>Asteroids when shot will break-up into smaller pieces or be destroyed. There are three types of asteroids: large asteroids, medium asteroids, and small asteroids. Large asteroids and medium asteroids when shot will break-up into two smaller sized asteroids. Small asteroids when shot will be destroyed. <br><br>Alien Robot Saucers come in two sizes: small and large. Both use photon lasers to shoot and will explode when destroyed. Alien Robot Saucers will not appear at the Novice Level.<br><br><b>Game Difficulty and Variations</b><br>\nThere are 4 available difficulty settings: Novice, Intermediate, Advanced, and Expert. <br><br>The game also offers three different game variations:<ul>\n<li><b>Standard Play</b> - For one or two players, taking turns when a player's ship is destroyed.</li><br>\n<li><b>Competition Asteroids</b> - Two players appear on the screen at the same time. Friendly fire is in affect, which means shots fired from one player's spaceship will destroy the other player's spaceship. Each player has separate ship reserves.</li><br>\n<li><b>Team Asteroids</b> - Two players on the screen at the same time. Friendly fire is disabled, which means shots fired from one player's spaceship will not destroy the other player's spaceship and just pass through. Ship reserves for both players are combined.</li></ul><b>Scoring</b><br>\nThe score of the Player 1 is viewable on the upper left side of the screen, while Player 2 on the opposite upper right side. A player will be awarded a new reserve ship for every 10,000 points.<ul>\n<li>Small saucer - 1,000 points</li>\n<li>Other player's ship - 500 points</li>\n<li>Large saucer - 200 points</li>\n<li>Small asteroid - 100 points</li>\n<li>Medium asteroid  - 50 points</li>\n<li>Large asteroid - 20 points</li></ul>",
+  "publishedBy": "Atari Corporation",
+  "developedBy": "Atari, Inc.",
+  "released": "1987",
+  "alsoFor": "Arcade, Atari 2600, Atari 8-bit, Game Boy, Windows, Xbox 360 | Combined View",
+  "genre": "Action",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-7800/asteroids_",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade, Shooter",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari 7800",
+      "releases": [
+        {
+          "publisher": "Atari Corporation",
+          "developer": "Atari, Inc.",
+          "ported": "General Computer Corporation",
+          "country": " United States",
+          "releaseDate": "1987",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/54985-asteroids-atari-7800-screenshot-atari-logo.gif",
+      "caption": "Atari logo"
+    },
+    {
+      "link": "/images/shots/l/54986-asteroids-atari-7800-screenshot-title-screen.gif",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/54987-asteroids-atari-7800-screenshot-a-game-in-progress.gif",
+      "caption": "A game in progress"
+    },
+    {
+      "link": "/images/shots/l/54988-asteroids-atari-7800-screenshot-watch-out-for-that-flying-saucer.gif",
+      "caption": "Watch out for that flying saucer!"
+    },
+    {
+      "link": "/images/shots/l/54989-asteroids-atari-7800-screenshot-each-level-begins-with-large.gif",
+      "caption": "Each level begins with large asteroids that break up into smaller ones"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/27258-asteroids-atari-7800-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Atari 7800"
+    },
+    {
+      "link": "/images/covers/l/27259-asteroids-atari-7800-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Atari 7800"
+    },
+    {
+      "link": "/images/covers/l/27260-asteroids-atari-7800-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Atari 7800"
+    }
+  ]
+}

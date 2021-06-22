@@ -1,0 +1,52 @@
+{
+  "name": "Radio Game",
+  "shortName": "radio-game",
+  "description": "<i>Radio Game</i> is an advergame made for <i>History Worth Playing</i>, a campaign for the Computer Spiele Museum of Berlin in Germany because of the museum's 20th anniversary and the ZX Spectrum's 35th anniversary. The game was made available through advertisements in several European countries on the radio.<br><br>To capture and obtain the game the player has to record a 15-second sound on a cassette tape during the advertisement and then play the tape on a ZX Spectrum to load it. Alternatively users can record the sound with their smartphone and visit the website historyworthplaying.com. By allowing it to access the device's microphone the sound can be played and it is loaded on the website which then emulates a ZX Spectrum with the game.<br><br>The size of the game is only 2k. The entire game's source code was also distributed to posters which were put up in the streets of Berlin. By copying the code columns on the poster it is possible to recreate the game. The experience of recording the sound and loading the game can also be experienced inside the museum.<br><br>The game itself is a simple <a href=\"https://www.mobygames.com/search/quick?game=Breakout\">Breakout</a> variant. There are 16 blocks to remove and they reveal a message behind it with a code that can be used on the website to get a 50% reduction for the entrance ticket. There are three lives and two keys are used to move the paddle left or right.",
+  "publishedBy": "Gamehouse GmbH",
+  "developedBy": "DBB Tandem S.A., Mojon Twins, The",
+  "released": "Mar 01, 2017",
+  "alsoFor": "Browser | Combined View",
+  "genre": "Action",
+  "perspective": "",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/zx-spectrum/radio-game",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade, Paddle / Pong",
+  "setting": "",
+  "release": [
+    {
+      "system": "ZX Spectrum",
+      "releases": [
+        {
+          "publisher": "Gamehouse GmbH",
+          "developer": "DBB Tandem S.A.",
+          "ported": "",
+          "country": " Germany",
+          "releaseDate": "Mar 01, 2017",
+          "ean13": "",
+          "comments": "audio release"
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/980237-radio-game-zx-spectrum-screenshot-start-of-the-game.png",
+      "caption": "Start of the game"
+    },
+    {
+      "link": "/images/shots/l/980238-radio-game-zx-spectrum-screenshot-the-game-in-progress.png",
+      "caption": "The game in progress"
+    },
+    {
+      "link": "/images/shots/l/980239-radio-game-zx-spectrum-screenshot-game-complete.png",
+      "caption": "Game complete"
+    }
+  ],
+  "cover": []
+}

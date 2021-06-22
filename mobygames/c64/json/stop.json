@@ -1,0 +1,52 @@
+{
+  "name": "Stop!",
+  "shortName": "stop",
+  "description": "<i>Stop!</i> is tactical board game with dice. The player plays against an AI opponent and must try to get three markers to the top of either eleven columns (market two to twelve). Each turn the player starts with with throwing four dice. The player may than place three markers on the board in any columns which number equals the sum of exactly two of the dice. If Two different sums lead to the same number the player can also move one marker twice instead of adding an additional marker. Once the three markers are set the player may choose to stop and the markers will be made permanent, or the player can roll again to try to advance his markers further. Any non-permanent markers already on the board can only be moved further in the column where they are, but if a marker is not yet in play it can be placed anywhere where the dice allow. If the dice don't correspond with any of the columns in play and the player has no free markers left, the player's turn ends and all gain from this round is lost. In a new turn the player may choose new positions for his or her markers again.<br><br>The size of each column is different based on the chance of rolling that number using dice. The first player to get to the top of three columns wins the game.",
+  "publishedBy": "Code Works, The",
+  "developedBy": "",
+  "released": "1983",
+  "alsoFor": "Commodore PET/CBM | Combined View",
+  "genre": "Strategy / tactics",
+  "perspective": "",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/stop",
+  "visual": "",
+  "gamePlay": "Board game",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "Code Works, The",
+          "developer": "",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1983",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/566830-stop-commodore-64-screenshot-title-screen.png",
+      "caption": "Title screen."
+    },
+    {
+      "link": "/images/shots/l/566831-stop-commodore-64-screenshot-the-board.png",
+      "caption": "The board."
+    },
+    {
+      "link": "/images/shots/l/566832-stop-commodore-64-screenshot-placing-the-dice.png",
+      "caption": "Placing the dice."
+    }
+  ],
+  "cover": []
+}

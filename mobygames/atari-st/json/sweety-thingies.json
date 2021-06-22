@@ -1,0 +1,56 @@
+{
+  "name": "Sweety Thingies",
+  "shortName": "sweety-thingies",
+  "description": "<em>Sweety Thingies</em> is a conversion of <a href=\"https://www.mobygames.com/game/poux\">Poux</a> by <a href=\"https://www.mobygames.com/search/quick?game=Nick+Kouvaris\">Nick Kouvaris</a>. The game starts with four rows of candies representing different colors. After a short amount of time, another whole row of stones is added at the bottom, pushing all stones above one line further. The goal is to avoid that any column is reaching the upper border of the board. To do this, stones have to be removed by the player. Stones can be removed if at least two stones of the same color are next to each other. On removal, any stone of the same color with direct (non-diagonal) connection to any removed stone is also removed. Like in <em>Tetris</em> all stones above fall down into the now empty slots. Given that rule, often more than two stones are removable.<br><br>The game awards removed stones with points and the level is increased automatically after a certain amount of rows is added. In higher levels, the amount of different colored stones is increased up to seven, making removal more difficult. Compared to the original game, the speed of rows added is much higher. Reaching a big score is rewarded with an entry in the high-score list.",
+  "publishedBy": "Paradize",
+  "developedBy": "Paradize",
+  "released": "Nov, 2011",
+  "alsoFor": "",
+  "genre": "Puzzle",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-st/sweety-thingies",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Falling block puzzle, Tile matching puzzle",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari ST",
+      "releases": [
+        {
+          "publisher": "Paradize",
+          "developer": "Paradize",
+          "ported": "",
+          "country": " Worldwide",
+          "releaseDate": "Nov, 2011",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/796360-sweety-thingies-atari-st-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "https://www.mobygames.com/images/shots/l/796361-sweety-thingies-atari-st-screenshot-game-start-four-different.png",
+      "caption": "Game start: four different colors. Brown seems nice to pick, as 11 stones will be removed"
+    },
+    {
+      "link": "/images/shots/l/796362-sweety-thingies-atari-st-screenshot-in-level-3-it-s-game-over.png",
+      "caption": "In level 3 it's Game Over as the most left column reached the top border"
+    },
+    {
+      "link": "/images/shots/l/796363-sweety-thingies-atari-st-screenshot-with-my-low-score-i-didn.png",
+      "caption": "With my low score I didn't managed to access the high-score table..."
+    }
+  ],
+  "cover": []
+}

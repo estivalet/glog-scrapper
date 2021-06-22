@@ -1,0 +1,78 @@
+{
+  "name": "Sarakon",
+  "shortName": "sarakon",
+  "description": "A simple variation of the classic game of  Mahjongg (also known as <a href=\"https://www.mobygames.com/search/quick?game=Shanghai\">Shanghai</a>). Each of the 40 levels consist of rows and piles of tiles, patterned with symbols such as butterflies and masks. Pair them up within the time limit to move on a level. The difficulty is that a tile can only be moved if it has no tile on top of it, and a gap either to the left or right (or both). Careful planning ahead is required if all tiles are to be cleared.",
+  "publishedBy": "Starbyte Software",
+  "developedBy": "Starbyte Software",
+  "released": "1990",
+  "alsoFor": "Amiga, Atari ST, DOS | Combined View",
+  "genre": "Puzzle",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/sarakon",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Cards / tiles, Tile matching puzzle",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "Starbyte Software",
+          "developer": "Starbyte Software",
+          "ported": "Digital Excess",
+          "country": " Germany",
+          "releaseDate": "1990",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/73031-sarakon-commodore-64-screenshot-title-screen.gif",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/73032-sarakon-commodore-64-screenshot-the-gameplay-screen.gif",
+      "caption": "The gameplay screen"
+    },
+    {
+      "link": "/images/shots/l/73033-sarakon-commodore-64-screenshot-attempting-to-match-tiles.gif",
+      "caption": "Attempting to match tiles..."
+    },
+    {
+      "link": "/images/shots/l/73034-sarakon-commodore-64-screenshot-game-over.gif",
+      "caption": "Game over"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/238197-sarakon-commodore-64-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "Germany",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/238198-sarakon-commodore-64-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "Germany",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/238199-sarakon-commodore-64-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "Germany",
+      "platforms": "Commodore 64"
+    }
+  ]
+}

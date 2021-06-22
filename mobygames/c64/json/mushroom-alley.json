@@ -1,0 +1,52 @@
+{
+  "name": "Mushroom Alley",
+  "shortName": "mushroom-alley",
+  "description": "<i>Mushroom Alley</i> is a single screen shooter inspired by the arcade game <a href=\"https://www.mobygames.com/game/arcade/centipede_\">Centipede</a> where you move left and right, and a certain distance forwards and backwards to protect your garden from various insects. You had planned to work on your garden, but after light rain overnight, the garden is full of mushrooms attracting the insects to nest, so you need to destroy the insects to protect your beloved garden. Insects appear from the top of the screen and move across the screen, and if they hit a mushroom or the edge of the screen, then they move one place down and move in the opposite direction.<br><br>You cannot move through the mushrooms so you have to move around them and each mushroom takes a couple of hits from your gun to remove them. When an insect is hit then it leaves behind more mushrooms. Also on screen are butterflies and spiders with the butterflies moving around the screen while the spiders move down the screen leaving behind a trail of mushrooms. All insects and creatures must be avoided and if you touch one then you lose one of three lives. Once all insects are shot then you move to the next screen full of mushrooms once again.",
+  "publishedBy": "Mogul Communications",
+  "developedBy": "Victory Software Corporation",
+  "released": "1983",
+  "alsoFor": "",
+  "genre": "Action",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/mushroom-alley",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade, Shooter",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "Mogul Communications",
+          "developer": "Victory Software Corporation",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1983",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/768210-mushroom-alley-commodore-64-screenshot-title-screen.png",
+      "caption": "Title Screen"
+    },
+    {
+      "link": "/images/shots/l/768211-mushroom-alley-commodore-64-screenshot-blast-the-insects.png",
+      "caption": "Blast the insects"
+    },
+    {
+      "link": "/images/shots/l/768212-mushroom-alley-commodore-64-screenshot-spider-to-blast-or.png",
+      "caption": "Spider to blast or avoid"
+    }
+  ],
+  "cover": []
+}

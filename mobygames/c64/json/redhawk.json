@@ -1,0 +1,97 @@
+{
+  "name": "Redhawk",
+  "shortName": "redhawk",
+  "description": "By shouting 'Kwah!' ordinary Kevin Oliver can transform himself into superhero Redhawk, a power you must use in this cartoon adventure. As you travel the city you must pay attention to your popularity ratings - you can play the game either to perform good or evil. <br><br>The game uses a text parser with a vocabulary allowing for actions such as walking, looking around, arresting people, hitting them, using objects, or waiting in a set position for a set amount of time - every action sees time get used up. Standard input methods such as using AND or commas to delimit multiple commands, and leaving out words like THE and SOME are implemented.<br><br>Being in Redhawk mode uses up energy, so this must be used sparingly.The screen display is in comic book style, with the last 3 drawings on screen at each time.",
+  "publishedBy": "Melbourne House",
+  "developedBy": "Silhouette Software",
+  "released": "Apr, 1986",
+  "alsoFor": "Amstrad CPC, ZX Spectrum | Combined View",
+  "genre": "Adventure",
+  "perspective": "3rd-person (Other)",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/redhawk",
+  "visual": "",
+  "gamePlay": "Interactive fiction / text adventure, Puzzle elements",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "Melbourne House",
+          "developer": "Silhouette Software",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "Apr, 1986",
+          "ean13": "9 780861 616961",
+          "comments": "Cassette Tape release"
+        },
+        {
+          "publisher": "Melbourne House",
+          "developer": "Silhouette Software",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "Apr, 1986",
+          "ean13": "9 780861 616961",
+          "comments": "Cassette Tape release"
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/244060-redhawk-commodore-64-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/244061-redhawk-commodore-64-screenshot-the-game-begins-in-a-hospital.png",
+      "caption": "The game begins in a hospital"
+    },
+    {
+      "link": "/images/shots/l/244062-redhawk-commodore-64-screenshot-kwah-kevin-turns-into-red.png",
+      "caption": "KWAH! Kevin turns into Red Hawk."
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/48279-redhawk-commodore-64-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "United Kingdom",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/48280-redhawk-commodore-64-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "United Kingdom",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/59828-redhawk-commodore-64-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/59829-redhawk-commodore-64-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/59830-redhawk-commodore-64-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "Commodore 64"
+    }
+  ]
+}

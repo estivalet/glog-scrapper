@@ -1,0 +1,72 @@
+{
+  "name": "Hex",
+  "shortName": "hex",
+  "description": "Hex is a turn-based strategy game, played out on a grid of hexagons, each linked to up to 5 other tiles. You face one or two of the 12 computer opponents (various animals including a jellyfish, a dodo, and a morphing elemental character) depending on the level, each of whom claims a colour, and aims to step on every square to turn in their colour a lá <a href=\"https://www.mobygames.com/search/quick?game=Q%2aBert\">Q*Bert</a>. Whenever a tile is touching another of the same colour, those tiles become linked (think in terms of how a country forms an alliance with another), and you must activate them all to see any difference.<br><br>The game rewards successful completion of levels by offering spells, ranging from faster movement to position swapping to 'confuse' sells which change the colour the squares appear in. These are selected form a drop-down menu using the mouse.",
+  "publishedBy": "Software Express",
+  "developedBy": "Mark of the Unicorn, Inc.",
+  "released": "1986",
+  "alsoFor": "Atari ST | Combined View",
+  "genre": "Role-Playing (RPG), Strategy / tactics",
+  "perspective": "",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/amiga/hex",
+  "visual": "Isometric",
+  "gamePlay": "Board game",
+  "setting": "",
+  "release": [
+    {
+      "system": "Amiga",
+      "releases": [
+        {
+          "publisher": "Software Express",
+          "developer": "Mark of the Unicorn, Inc.",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1986",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/513089-hex-amiga-screenshot-loading-screen.png",
+      "caption": "Loading screen"
+    },
+    {
+      "link": "/images/shots/l/513090-hex-amiga-screenshot-main-menu.png",
+      "caption": "Main menu"
+    },
+    {
+      "link": "/images/shots/l/513091-hex-amiga-screenshot-starting-new-game-level-0-has-no-opponent.png",
+      "caption": "Starting new game. Level 0 has no opponent."
+    },
+    {
+      "link": "/images/shots/l/513092-hex-amiga-screenshot-finished-level-0.png",
+      "caption": "Finished level 0."
+    },
+    {
+      "link": "/images/shots/l/513093-hex-amiga-screenshot-starting-level-1-versus-a-bird.png",
+      "caption": "Starting level 1 versus a bird."
+    },
+    {
+      "link": "/images/shots/l/513094-hex-amiga-screenshot-finished-level-1.png",
+      "caption": "Finished level 1."
+    },
+    {
+      "link": "/images/shots/l/513095-hex-amiga-screenshot-level-2-is-versus-a-jellyfish.png",
+      "caption": "Level 2 is versus a jellyfish."
+    },
+    {
+      "link": "/images/shots/l/513096-hex-amiga-screenshot-sadly-i-lost.png",
+      "caption": "Sadly I lost."
+    }
+  ],
+  "cover": []
+}

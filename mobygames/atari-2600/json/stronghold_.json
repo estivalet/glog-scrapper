@@ -1,0 +1,82 @@
+{
+  "name": "Stronghold",
+  "shortName": "stronghold_",
+  "description": "You are sent to check out an abandoned asteroid base called Stronghold. As you approach, drones are launched from the surface. It may be abandoned but apparently the automatic defense system still works.<br><br>You must shoot or avoid the drones. If the drones are cloned, and traveling in sets, shooting any drone in the set destroys all the ones in the set, if they are destroyable (see Game variations). You can move in any direction but cannot shoot straight left or right. You can shoot in any other direction, however. After you get past the drones, three shields form near the bottom of the screen. Also, interceptor and patrol ships appear. The interceptors track you and the patrol ships just move back and forth over the shields.<br><br>You must shoot through the shields while dodging these ships so you can shoot the command crawler on the asteroid's surface. Be warned, though, that once there is a hole in the shield, the command crawler will shoot through it to destroy you. The crawler tries to stay below you but it is slow. In some game variations, the Mega-Field starts to form at the top of the screen, reducing your maneuvering room(see Game variations).<br><br><b>Difficulty switches</b><br>\nThe difficulty switches determine what level you will start on.<br>\nBoth are set to B=start at level 1<br>\nLeft is set to A and right is set to B=start at level 9<br>\nLeft is set to B and right is set to A=start at level 17<br>\nBoth set to A=start at level 25<br><br><b>Game variations</b><br>\nA=drones cannot be destroyed, only avoided<br>\nR=you will keep firing if you hold down the button (Rapid fire)<br>\nM=Mega-Field is in the game<br>\nC=drones are cloned and travel in sets<br><br>Game 1 R; M<br>\nGame 2 A; R; M<br>\nGame 3 M<br>\nGame 4 A; M<br>\nGame 5 R<br>\nGame 6 A; R<br>\nGame 7<br>\nGame 8 A<br>\nGame 9 R; M; C<br>\nGame 10 A; R; M; C<br>\nGame 11 M; C<br>\nGame 12 A; C<br>\nGame 13 R; C<br>\nGame 14 A; R; C<br>\nGame 15 C<br>\nGame 16 A; C",
+  "publishedBy": "CommaVid, Inc.",
+  "developedBy": "CommaVid, Inc.",
+  "released": "Jul, 1983",
+  "alsoFor": "",
+  "genre": "Action",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-2600/stronghold_",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade, Shooter",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari 2600",
+      "releases": [
+        {
+          "publisher": "CommaVid, Inc.",
+          "developer": "CommaVid, Inc.",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "Jul, 1983",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/185069-stronghold-atari-2600-screenshot-starting-screen.png",
+      "caption": "Starting screen"
+    },
+    {
+      "link": "/images/shots/l/185070-stronghold-atari-2600-screenshot-single-drones-are-rising.png",
+      "caption": "Single drones are rising from the asteroid"
+    },
+    {
+      "link": "/images/shots/l/185071-stronghold-atari-2600-screenshot-drones-in-sets.png",
+      "caption": "Drones in sets"
+    },
+    {
+      "link": "/images/shots/l/185072-stronghold-atari-2600-screenshot-i-need-to-get-get-through.png",
+      "caption": "I need to get get through the shields but not get killed"
+    },
+    {
+      "link": "/images/shots/l/185073-stronghold-atari-2600-screenshot-the-mega-field-is-beginning.png",
+      "caption": "The Mega-Field is beginning to form at the top."
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/260953-stronghold-atari-2600-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Atari 2600"
+    },
+    {
+      "link": "/images/covers/l/260954-stronghold-atari-2600-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Atari 2600"
+    },
+    {
+      "link": "/images/covers/l/260955-stronghold-atari-2600-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Atari 2600"
+    }
+  ]
+}

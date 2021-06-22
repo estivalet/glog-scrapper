@@ -1,0 +1,72 @@
+{
+  "name": "Super Nibbly",
+  "shortName": "super-nibbly",
+  "description": "<i>Super Nibbly</i> is a Snake-variant where you control a worm in a maze, eating pills while growing.\nThe game is a successor to the previous game by the same developer, <a href=\"https://www.mobygames.com/search/quick?game=nibbly92\">Nibbly '92</a><br>.\nThe game starts with an overview map, where the snake moves on a path on a group of islands, going from location to location while having some non-interactive funny animation events on the way. At each named village, the game switches to a maze screen where the player can control the snake. The mazes are similar in layout as the Pac-Man style maze, a fixed single screen, only without enemies.<br>\nThe objective is for the snake to eat all pills/cookies in the maze, before returning to the overhead map and moving to the next location.<br>\nThe player controls the snake's movement one step at a time, and there is some strategy involved in navigating the mazes, while there also is a timer ticking down.<br>\nThe rules are that the snake can move forward, or to the side, and avoid being blocked by its own body from moving anywhere.<br>\nEating a pill makes the snake grow one segment longer. There are special objects appearing in the maze for a limited time, that can affect how the snake grows (longer/shorter), or give extra points, a time extension or a special object called a 'puck'. In some locations there are dead-ends, which if entered could trap the snake, but it can shoot a puck (which looks as if it split off its head) into these locations, and so get all pills in the dead-end.<br>\nEach location has multiple mazes to traverse before the player returns to the overhead map.<br>\nFailing to avoid the snake's own body loses a life, and the maze restarts anew. Fail three times and it's game over.<br>",
+  "publishedBy": "Computec Verlag GmbH &amp; Co. KG",
+  "developedBy": "Cosmos Designs",
+  "released": "1994",
+  "alsoFor": "Amiga, DOS | Combined View",
+  "genre": "Action, Strategy / tactics",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/super-nibbly",
+  "visual": "",
+  "gamePlay": "Arcade",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "Computec Verlag GmbH &amp; Co. KG",
+          "developer": "Cosmos Designs",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1994",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/899279-super-nibbly-commodore-64-screenshot-loading-screen.png",
+      "caption": "Loading screen"
+    },
+    {
+      "link": "/images/shots/l/899278-super-nibbly-commodore-64-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/899280-super-nibbly-commodore-64-screenshot-world-screen.png",
+      "caption": "World screen"
+    },
+    {
+      "link": "/images/shots/l/899281-super-nibbly-commodore-64-screenshot-level-1.png",
+      "caption": "Level 1"
+    },
+    {
+      "link": "/images/shots/l/899282-super-nibbly-commodore-64-screenshot-level-2.png",
+      "caption": "Level 2"
+    },
+    {
+      "link": "/images/shots/l/899283-super-nibbly-commodore-64-screenshot-level-3.png",
+      "caption": "Level 3"
+    },
+    {
+      "link": "/images/shots/l/899284-super-nibbly-commodore-64-screenshot-level-4.png",
+      "caption": "Level 4"
+    },
+    {
+      "link": "/images/shots/l/899285-super-nibbly-commodore-64-screenshot-level-5.png",
+      "caption": "Level 5"
+    }
+  ],
+  "cover": []
+}

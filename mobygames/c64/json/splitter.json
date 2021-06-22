@@ -1,0 +1,60 @@
+{
+  "name": "Splitter",
+  "shortName": "splitter",
+  "description": "<i>Splitter</i> is a puzzle game. The player has to complete the picture using randomly selected pieces in a given amount of time. However all the pieces are not visible at once - the game proposes one piece but the player can rotate it using up and down arrow keys selecting a different one to be placed. From the regular puzzle it is distinguished by the fact that each piece has to be slided into its place on the final picture. If it is placed wrong, then the piece goes back to the pool of pieces. <br><br>But there is also a penalty - a misplaced piece activates a bomb explosion that removes, in a horizontal or vertical line from it, several pieces that have been already correctly placed. The player has to be also aware if placing the pieces do not block others to be slid in. If such thing happens, the only possibility is to misplace a piece and wait for the explosion to remove the blocking pieces,",
+  "publishedBy": "L.K. Avalon",
+  "developedBy": "Nebula ",
+  "released": "1993",
+  "alsoFor": "",
+  "genre": "Puzzle",
+  "perspective": "",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/splitter",
+  "visual": "",
+  "gamePlay": "Cards / tiles",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "L.K. Avalon",
+          "developer": "Nebula ",
+          "ported": "",
+          "country": " Poland",
+          "releaseDate": "1993",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/932186-splitter-commodore-64-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/932187-splitter-commodore-64-screenshot-first-picture-presented-before.png",
+      "caption": "First picture presented before the game."
+    },
+    {
+      "link": "/images/shots/l/932188-splitter-commodore-64-screenshot-first-picture-during-the.png",
+      "caption": "First picture during the creation time"
+    },
+    {
+      "link": "/images/shots/l/932189-splitter-commodore-64-screenshot-second-picture-presented.png",
+      "caption": "Second picture presented before the game."
+    },
+    {
+      "link": "/images/shots/l/932190-splitter-commodore-64-screenshot-second-picture-during-the.png",
+      "caption": "Second picture during the creation time"
+    }
+  ],
+  "cover": []
+}

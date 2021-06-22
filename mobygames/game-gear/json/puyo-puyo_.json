@@ -1,0 +1,106 @@
+{
+  "name": "Puyo Puyo",
+  "shortName": "puyo-puyo_",
+  "description": "A year after the release of the falling block puzzle game <i>Puyo Puyo</i> for <a href=\"https://www.mobygames.com/game/msx/puyo-puyo\"> MSX and Famicom</a>, an arcade version was released that took the basic concept, but transformed it from a solo into a competitive game, changing the series fundamentally: all ports and later entries in the series are based on this version.<br><br>The original arcade version has two modes: a single-player story mode and a two-player competitive mode. In story mode (which is based on characters from Compile's RPG series <a href=\"https://www.mobygames.com/search/quick?gamegroup=Mad%c5%8d+Monogatari+series\">Mad? Monogatari</a>), the player controls Arle Nadja (Silvana in the English translation of the arcade version), a young sorceress, whose goal is to defeat Satan. To do so, she has to win 12 battles against his minions until she can meet him in a final confrontation. The game offers an extra training mode against three lesser opponents, as well as the ability to start from level 4 of the main game.<br><br>During a match, pairs of puyos fall down from the top of the screen into each player's field. They can be moved left or right, rotated in either direction and made to drop faster. The goal is to arrange puyos of the same color into patterns of at least four, with horizontal or vertical (but no diagonal) connections. Doing so removes them from the field (with any unconnected puyos falling down) while at the same time sending garbage blocks into the opponent's field. Creating patterns of more than four, several different patterns at the same time, or chain reactions creates more garbage blocks. The garbage blocks can only be removed by creating patterns adjacent to them. The player whose playing field reaches the top first loses. In single-player mode, the falling speed of the puyos increases level by level and each of the enemies plays in a unique style.<br><br>The home ports also add an endless single-player mode, in which there is no opponent (and thus no garbage blocks) and one simply plays for a high score, similar to the MSX/Famicom version.<br><br>Unique to the Game Gear version is an additional quest mode. Similar to the mission mode of the original MSX/Famicom version, it presents a series of pre-filled playing fields with a specific task, like making a minimum number of puyos disappear in one move, or removing all puyos of a certain color. Progress is saved via passwords.",
+  "publishedBy": "SEGA Enterprises Ltd.",
+  "developedBy": "Compile",
+  "released": "Mar 19, 1993",
+  "alsoFor": "Arcade, FM Towns, Game Boy, Genesis, Macintosh, Nintendo 3DS, Nintendo Switch, PC-98, Sharp X68000, SNES, TurboGrafx CD, Wii, Windows, Windows 3.x | Combined View",
+  "genre": "Puzzle",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/game-gear/puyo-puyo_",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Falling block puzzle",
+  "setting": "",
+  "release": [
+    {
+      "system": "Game Gear",
+      "releases": [
+        {
+          "publisher": "SEGA Enterprises Ltd.",
+          "developer": "Compile",
+          "ported": "",
+          "country": " Japan",
+          "releaseDate": "Mar 19, 1993",
+          "ean13": "4 974365 133245",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/137194-puyo-puyo-game-gear-screenshot-the-game-was-only-sold-in-japan.png",
+      "caption": "The game was only sold in Japan..."
+    },
+    {
+      "link": "/images/shots/l/137193-puyo-puyo-game-gear-screenshot-but-if-you-insert-it-into-a.png",
+      "caption": "...but if you insert it into a non-Japanese machine, you get this!"
+    },
+    {
+      "link": "/images/shots/l/137196-puyo-puyo-game-gear-screenshot-main-menu.png",
+      "caption": "Main menu"
+    },
+    {
+      "link": "/images/shots/l/137197-puyo-puyo-game-gear-screenshot-level-selection.png",
+      "caption": "Level selection"
+    },
+    {
+      "link": "/images/shots/l/137198-puyo-puyo-game-gear-screenshot-a-normal-game-of-puyo-puyo.png",
+      "caption": "A normal game of Puyo Puyo"
+    },
+    {
+      "link": "/images/shots/l/137199-puyo-puyo-game-gear-screenshot-game-over.png",
+      "caption": "Game over"
+    },
+    {
+      "link": "/images/shots/l/137200-puyo-puyo-game-gear-screenshot-the-gg-version-also-has-a-quest.png",
+      "caption": "The GG version also has a quest mode"
+    },
+    {
+      "link": "/images/shots/l/137201-puyo-puyo-game-gear-screenshot-quest-1-destroy-all-red-bubbles.png",
+      "caption": "Quest 1: Destroy all red bubbles"
+    },
+    {
+      "link": "/images/shots/l/137202-puyo-puyo-game-gear-screenshot-select-a-level-for-endless.png",
+      "caption": "Select a level for endless Puyo game"
+    },
+    {
+      "link": "/images/shots/l/137203-puyo-puyo-game-gear-screenshot-endless-puyo-game.png",
+      "caption": "Endless Puyo game"
+    },
+    {
+      "link": "/images/shots/l/137195-puyo-puyo-game-gear-screenshot-high-scores.png",
+      "caption": "High scores"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/64893-puyo-puyo-game-gear-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "Japan",
+      "platforms": "Game Gear"
+    },
+    {
+      "link": "/images/covers/l/64894-puyo-puyo-game-gear-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "Japan",
+      "platforms": "Game Gear"
+    },
+    {
+      "link": "/images/covers/l/64895-puyo-puyo-game-gear-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "Japan",
+      "platforms": "Game Gear"
+    }
+  ]
+}

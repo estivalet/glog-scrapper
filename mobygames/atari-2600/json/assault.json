@@ -1,0 +1,87 @@
+{
+  "name": "Assault",
+  "shortName": "assault",
+  "description": "A mothership drops aliens, up to three on screen at a time. There are ten per level. You must shoot them but avoid the items they fire at you. You fire by pushing up on the joystick. Pushing left or right makes you go left or right. If you hold down the button, pushing left or right makes you fire left or right.<br><br>Later enemies will drop fireballs that chase you along the ground or split in two smaller enemies when shot. If you fire non-stop, you will build up heat as indicated by the green bar at the bottom right.<br><br>If you overheat or are hit by an enemy, you loser a life. The game is over when you lose all lives or reach a score of 999,999. You get a new man (4 max) every 10,000 points.",
+  "publishedBy": "Bomb",
+  "developedBy": "Onbase Co. Ltd.",
+  "released": "1983",
+  "alsoFor": "",
+  "genre": "Action",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-2600/assault",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade, Shooter",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari 2600",
+      "releases": [
+        {
+          "publisher": "Colorlux-Service",
+          "developer": "Onbase Co. Ltd.",
+          "ported": "",
+          "country": " Germany",
+          "releaseDate": "1983",
+          "ean13": "",
+          "comments": ""
+        },
+        {
+          "publisher": "Bomb",
+          "developer": "Onbase Co. Ltd.",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1983",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/184186-assault-atari-2600-screenshot-level-1.png",
+      "caption": "Level 1"
+    },
+    {
+      "link": "/images/shots/l/184187-assault-atari-2600-screenshot-level-2.png",
+      "caption": "Level 2"
+    },
+    {
+      "link": "/images/shots/l/184188-assault-atari-2600-screenshot-level-3.png",
+      "caption": "Level 3"
+    },
+    {
+      "link": "/images/shots/l/184189-assault-atari-2600-screenshot-level-4-fireballs-will-chase.png",
+      "caption": "Level 4. Fireballs will chase you along the ground."
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/276467-assault-atari-2600-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "Australia  and United Kingdom",
+      "platforms": "Atari 2600"
+    },
+    {
+      "link": "/images/covers/l/276466-assault-atari-2600-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "Australia  and United Kingdom",
+      "platforms": "Atari 2600"
+    },
+    {
+      "link": "/images/covers/l/276914-assault-atari-2600-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "Australia  and United Kingdom",
+      "platforms": "Atari 2600"
+    }
+  ]
+}

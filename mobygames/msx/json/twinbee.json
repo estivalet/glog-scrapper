@@ -1,0 +1,122 @@
+{
+  "name": "TwinBee",
+  "shortName": "twinbee",
+  "description": "<i>TwinBee</i> is a vertical scrolling shooter. The players control cartoon-like spacecrafts with anthropomorphic arms, player one being TwinBee and player two being WinBee. The spacecrafts can be moved in all 8 directions, with one button for regular shooting flying enemies and one button for dropping ground bombs.<br><br>Power-ups in the form of bells can be collected by shooting clouds. The color of the bell will change if it is shot by the player, assuming one of the possible colors:\n<ul><li>Yellow: grants bonus points;</li>\n<li>White: upgrades player's guns to a twin cannon;</li>\n<li>Blue: increases player's speed (up to five levels);</li>\n<li>Green: creates image copies of the craft for more firepower;</li>\n<li>Red: provides a shield to sustain damage.</li></ul>\nThe green and red bells cannot be combined. Alternate power ups can be collected from the ground, such as an alternate bell which upgrades the craft with a three way gun and a star which destroys all enemies on screen.<br><br>One shot in the middle section of the craft will destroy it. Shots which hit one of the craft's arms will destroy only the arm. If both arms are lost, the craft won't be able to shoot bombs anymore and will have to be repaired by an ambulance.<br><br>In the two-player mode, TwinBee (cyan craft) and WinBee (red craft) have the same speed and they can join &quot;hand-to-hand&quot; and fire a super blast. Also in two player mode, if one craft is hit by the other from behind, it will fire four multi-directional shots.",
+  "publishedBy": "Konami Industry Co. Ltd.",
+  "developedBy": "Konami Industry Co. Ltd.",
+  "released": "1986",
+  "alsoFor": "Arcade, Game Boy Advance, NES, Nintendo 3DS, Nintendo Switch, PlayStation 4, Sharp X68000, Wii, Wii U, Windows, Xbox 360 | Combined View",
+  "genre": "Action",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/msx/twinbee",
+  "visual": "2D scrolling",
+  "gamePlay": "Arcade, Shooter",
+  "setting": "",
+  "release": [
+    {
+      "system": "MSX",
+      "releases": [
+        {
+          "publisher": "Konami Industry Co. Ltd.",
+          "developer": "Konami Industry Co. Ltd.",
+          "ported": "",
+          "country": " Japan",
+          "releaseDate": "1986",
+          "ean13": "4 988602 510034",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/233972-twinbee-msx-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/226189-twinbee-msx-screenshot-destroy-all-the-flying-hostile-enemy.png",
+      "caption": "Destroy all the flying hostile enemy objects"
+    },
+    {
+      "link": "/images/shots/l/226190-twinbee-msx-screenshot-hit-by-an-object.png",
+      "caption": "Hit by an object"
+    },
+    {
+      "link": "/images/shots/l/226191-twinbee-msx-screenshot-catch-the-bells-for-bonus-points.png",
+      "caption": "Catch the bells for bonus points"
+    },
+    {
+      "link": "/images/shots/l/226193-twinbee-msx-screenshot-hi-score-screen.png",
+      "caption": "Hi Score screen"
+    },
+    {
+      "link": "/images/shots/l/233973-twinbee-msx-screenshot-twinbee-flies-into-the-first-level.png",
+      "caption": "Twinbee flies into the first level"
+    },
+    {
+      "link": "/images/shots/l/233974-twinbee-msx-screenshot-shoot-the-carrots-shoot-the-bell.png",
+      "caption": "Shoot the carrots, shoot the bell"
+    },
+    {
+      "link": "/images/shots/l/233975-twinbee-msx-screenshot-green-bell-gives-you-a-ghosting-effect.png",
+      "caption": "Green bell gives you a ghosting effect"
+    },
+    {
+      "link": "/images/shots/l/233976-twinbee-msx-screenshot-dock-with-the-ambulance-to-regain-your.png",
+      "caption": "Dock with the ambulance to regain your gloves"
+    },
+    {
+      "link": "/images/shots/l/233977-twinbee-msx-screenshot-red-bell-gives-you-a-protective-shield.png",
+      "caption": "Red bell gives you a protective shield"
+    },
+    {
+      "link": "/images/shots/l/233978-twinbee-msx-screenshot-the-first-boss-protected-by-a-ring.png",
+      "caption": "The first boss, protected by a ring of spheres and sprite multiplexing"
+    },
+    {
+      "link": "/images/shots/l/233979-twinbee-msx-screenshot-the-boss-is-defeated.png",
+      "caption": "The boss is defeated"
+    },
+    {
+      "link": "/images/shots/l/233981-twinbee-msx-screenshot-level-2-takes-place-above-ground.png",
+      "caption": "Level 2 takes place above ground"
+    },
+    {
+      "link": "/images/shots/l/233982-twinbee-msx-screenshot-shoot-the-clouds-to-release-bells.png",
+      "caption": "Shoot the clouds to release bells"
+    },
+    {
+      "link": "/images/shots/l/233983-twinbee-msx-screenshot-game-over.png",
+      "caption": "Game over"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/383139-twinbee-msx-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "Japan",
+      "platforms": "MSX"
+    },
+    {
+      "link": "/images/covers/l/383140-twinbee-msx-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "Japan",
+      "platforms": "MSX"
+    },
+    {
+      "link": "/images/covers/l/327933-twinbee-msx-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "Japan",
+      "platforms": "MSX"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Serpentine",
+  "shortName": "serpentine",
+  "description": "In <i>Serpentine</i> you control a multi-segmented snake in a maze; your goal is to survive and earn as many points as possible. At the beginning of each level, three enemy snakes will also enter the maze. To complete the level, you need to eat all of the enemy snakes. If an enemy snake has more segments than your snake, you can only eat segments that form the tail of the snake; a collision with the head is lethal! Each time you eat a segment, the enemy snake will become smaller until eventually you can devour it completely. For enemy snakes that have fewer segments than you, you can eat the tail segments or the head segment. From time to time, a frog will appear in the maze; eating this will cause your snake to grow. Both your snake and enemy snakes will leave eggs behind occasionally; left alone, these will hatch (your eggs earn you an extra life, enemy eggs will hatch another snake). Eggs can also be eaten to remove them from the playfield, so it's usually a good idea to eat enemy eggs before a new snake hatches! The maze changes for each level, and the enemy snakes progressively become larger and tougher to catch.",
+  "publishedBy": "Br&oslash;derbund Software, Inc.",
+  "developedBy": "Br&oslash;derbund Software, Inc.",
+  "released": "Sep, 1983",
+  "alsoFor": "Apple II, Atari 8-bit, PC Booter, VIC-20 | Combined View",
+  "genre": "Action",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/serpentine",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "Br&oslash;derbund Software, Inc.",
+          "developer": "Br&oslash;derbund Software, Inc.",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "Sep, 1983",
+          "ean13": "",
+          "comments": "Cartridge release"
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/86700-serpentine-commodore-64-screenshot-catch-that-frog-to-grow.gif",
+      "caption": "Catch that frog to grow your snake"
+    },
+    {
+      "link": "/images/shots/l/86701-serpentine-commodore-64-screenshot-try-to-catch-those-opposing.gif",
+      "caption": "Try to catch those opposing serpents"
+    },
+    {
+      "link": "/images/shots/l/86702-serpentine-commodore-64-screenshot-yikes-a-head-on-collision.gif",
+      "caption": "Yikes, a head on collision about to happen!"
+    },
+    {
+      "link": "/images/shots/l/86703-serpentine-commodore-64-screenshot-your-snake-begins-with-only.gif",
+      "caption": "Your snake begins with only a few segments"
+    }
+  ],
+  "cover": []
+}

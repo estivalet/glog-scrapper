@@ -1,0 +1,56 @@
+{
+  "name": "Moo + Hangman",
+  "shortName": "moo-hangman",
+  "description": "<i>Moo + Hangman</i> is a double games pack that contains the following games:<br><br><b>Moo: </b>Based on the board game Mastermind, the idea is to guess a four digit number the computer is thinking off. Once you enter a number, the computer will tell you how many digits are correct and in the right place (Bulls) and how many are correct but in the wrong place (Cows). <br><br><b>Hangman: </b>A two player game based on the pen and paper game where one player enters a word and the other player has to guess it. The player guessing enters a letter and if correct then the letter appears in the word and if it is wrong then part of a scaffold appears. After so many guesses and a picture of a scaffold appears with a hanged man, then that player has lost. ",
+  "publishedBy": "Jupiter Cantab Ltd.",
+  "developedBy": "",
+  "released": "1983",
+  "alsoFor": "",
+  "genre": "Puzzle",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/jupiter-ace/moo-hangman",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Word construction",
+  "setting": "",
+  "release": [
+    {
+      "system": "Jupiter Ace",
+      "releases": [
+        {
+          "publisher": "Jupiter Cantab Ltd.",
+          "developer": "",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1983",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/724818-moo-hangman-jupiter-ace-screenshot-moo-guessing-the-number.png",
+      "caption": "Moo: Guessing the number"
+    },
+    {
+      "link": "/images/shots/l/724819-moo-hangman-jupiter-ace-screenshot-moo-got-the-number.png",
+      "caption": "Moo: Got the number"
+    },
+    {
+      "link": "/images/shots/l/724820-moo-hangman-jupiter-ace-screenshot-hangman-can-you-guess-the.png",
+      "caption": "Hangman: Can you guess the word?"
+    },
+    {
+      "link": "/images/shots/l/724821-moo-hangman-jupiter-ace-screenshot-hangman-got-it.png",
+      "caption": "Hangman: Got it"
+    }
+  ],
+  "cover": []
+}

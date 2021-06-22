@@ -1,0 +1,62 @@
+{
+  "name": "Roguelike",
+  "shortName": "roguelike",
+  "description": "<i>Roguelike</i> is, unsurprisingly, a roguelike game, created for the &quot;NOMAM Basic Ten-Liners 2014&quot; competition. The entire code, written in the Turbo Basic XL language, is 10 lines long. <br><br>The player character moves around a randomly generated dungeon, collecting gold (which has no use) and fighting monsters of various strength. The monsters are represented by numbers which show how many hit points they have. The strength of a monster's attacks is proportional to its health. The player character can collect healing potions to restore hit points and scrolls that increase maximum health, as well as more powerful weapons that increase the maximum damage. However, monsters can steal items from the ground. <br><br>Each dungeon level has a staircase to the lower level, where more powerful monsters and weapons can be found. The goal is to get to level 8 of the dungeon. ",
+  "publishedBy": "",
+  "developedBy": "",
+  "released": "Feb 28, 2014",
+  "alsoFor": "",
+  "genre": "Role-Playing (RPG)",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-8-bit/roguelike",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Roguelike",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari 8-bit",
+      "releases": []
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/695784-roguelike-atari-8-bit-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/695786-roguelike-atari-8-bit-screenshot-a-level-is-being-generated.png",
+      "caption": "A level is being generated. Wait patiently. "
+    },
+    {
+      "link": "/images/shots/l/695787-roguelike-atari-8-bit-screenshot-the-completed-level.png",
+      "caption": "The completed level"
+    },
+    {
+      "link": "/images/shots/l/695789-roguelike-atari-8-bit-screenshot-other-levels-have-different.png",
+      "caption": "Other levels have different colors"
+    },
+    {
+      "link": "/images/shots/l/695790-roguelike-atari-8-bit-screenshot-the-stakes-get-higher-as.png",
+      "caption": "The stakes get higher as you get to later levels"
+    },
+    {
+      "link": "/images/shots/l/695791-roguelike-atari-8-bit-screenshot-the-penultimate-level-with.png",
+      "caption": "The penultimate level, with stairs (the &quot;greater than&quot; sign) just almost next to us"
+    },
+    {
+      "link": "/images/shots/l/695792-roguelike-atari-8-bit-screenshot-not-a-bad-victory-screen.png",
+      "caption": "Not a bad victory screen for a ten-liner game"
+    },
+    {
+      "link": "/images/shots/l/695785-roguelike-atari-8-bit-screenshot-game-over.png",
+      "caption": "Game over"
+    }
+  ],
+  "cover": []
+}

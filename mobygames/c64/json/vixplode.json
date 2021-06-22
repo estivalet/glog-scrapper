@@ -1,0 +1,72 @@
+{
+  "name": "Vixplode",
+  "shortName": "vixplode",
+  "description": "<i>Vixplode</i> is a strategy game played on a 6x6 board. The player and an AI opponent take turns placing counters on the board and it is possible to do so on squares that are vacant or squares that the player already occupies. The aim is to make counters vixplode which happens when the total number of counters on a square equals the number of adjacent squares. Counters will then move over to each adjacent squares which the player then will gain control of. A vixplosion can lead to chain reactions across the board. The game ends when only one of the players has counters left on the board. There are six different levels to play on with different playing abilities of the opponent.",
+  "publishedBy": "Abrasco Ltd.",
+  "developedBy": "",
+  "released": "1983",
+  "alsoFor": "VIC-20 | Combined View",
+  "genre": "Strategy / tactics",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/vixplode",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Board game",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "Abrasco Ltd.",
+          "developer": "",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1983",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/881484-vixplode-commodore-64-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/881485-vixplode-commodore-64-screenshot-instructions.png",
+      "caption": "Instructions"
+    },
+    {
+      "link": "/images/shots/l/881486-vixplode-commodore-64-screenshot-examples.png",
+      "caption": "Examples"
+    },
+    {
+      "link": "/images/shots/l/881487-vixplode-commodore-64-screenshot-starting-out.png",
+      "caption": "Starting out"
+    },
+    {
+      "link": "/images/shots/l/881488-vixplode-commodore-64-screenshot-some-counters-placed.png",
+      "caption": "Some counters placed"
+    },
+    {
+      "link": "/images/shots/l/881489-vixplode-commodore-64-screenshot-some-more-counter-being-placed.png",
+      "caption": "Some more counter being placed"
+    },
+    {
+      "link": "/images/shots/l/881490-vixplode-commodore-64-screenshot-one-move-from-winning.png",
+      "caption": "One move from winning"
+    },
+    {
+      "link": "/images/shots/l/881491-vixplode-commodore-64-screenshot-end-of-game.png",
+      "caption": "End of game"
+    }
+  ],
+  "cover": []
+}

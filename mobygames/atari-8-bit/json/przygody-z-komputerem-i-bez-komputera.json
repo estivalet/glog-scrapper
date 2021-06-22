@@ -1,0 +1,54 @@
+{
+  "name": "Przygody z komputerem i bez komputera",
+  "shortName": "przygody-z-komputerem-i-bez-komputera",
+  "description": "<i>Przygody z komputerem i bez komputera</i> (&quot;Adventures With and Without a Computer&quot;) is an educational book for children which teaches programming in BASIC on 8-bit computers (Atari XL/XE, Amstrad CPC, Commodore 64, ZX Spectrum, with the differences between their BASIC dialects explained.) The book is divided into twenty-four chapters, each of which teaches a new BASIC command and features several example type-in programs, including games. It also contains a number of supplemental chapters, including longer games to type in. The book also comes with a cardboard model, an &quot;artificial computer&quot;, which the reader can use to emulate the workings of a real computer (writing text output by hand, keeping track of variable values on a separate strip of paper, etc.)<br><br>The example programs within the book include the following games: \n<ul><li>A short choose-your-own-adventure game, teaching the usage of IF-THEN-ELSE constructions. In this fantasy-themed game the player must search an old, foreboding castle for a priceless golden rose. After each paragraph the player is given a list of choices and must select one by typing in a letter. If the player ever makes a selection that leads to death or harm, he is informed that &quot;the attempt has failed&quot; and the game is immediately over.</li>\n<li>&quot;Frog race&quot;, teaching the usage of the RND (random number) command. This is a game for multiple players. The players' frogs start at one edge of a table 100 centimeters long. A player's frog jumps a random distance between 0 and 50 centimeters, and the player decides if he wants the frog to immediately jump again, or to end his turn. Once a player's turn is over, he receives penalty points, equal to the frog's distance from the other end of the table. If a frog falls off the table, the player gets 100 penalty points and his turn ends. The game lasts 5 rounds, after which the players' score is tallied.</li>\n<li>&quot;The search for uncle Teodor&quot;, again making use of the RND command. The player must find his uncle, a train conductor, who is on one of the train stations numbered from 1 (south) to 50 (north). Each turn, the player types in the number of the station he wishes to investigate. If uncle Teodor is not on this station, the player is told whether he can be found to the south or to the north. Each turn, the uncle moves two, one, or zero stations in a random direction.</li>\n<li>&quot;Scale&quot;. An educational, mathematical game. The player is asked to solve a subtraction problem involving two numbers, one between 3 and 9, one between 1 and 8. The game then displays an ASCII-art balance scale with the equation on one pan, and the player's answer on the other. Depending on whether the player's answer was too small, too large, or right, the scale's pans are out of balance, or in balance with each other.</li>\n<li>&quot;Transit&quot;. There are five cities, each with four units of cargo addressed to various other cities. The player owns a truck with a capacity of three units of cargo. Delivering each cargo to the right city gives a reward of 100 coins. The player can only make seven trips, and must make as much money as possible in the process. The game contains ASCII graphics depicting the city warehouses and the truck, and an animation of the truck moving from city to city.</li>\n<li>&quot;Treasure&quot;. The player is in a maze with 100 rooms. He needs to find three items in the maze, which will allow him to take the treasure hidden in yet another room. The current room is displayed with ASCII graphics, and the player can see what exits there are from the room, and whether there is anything to pick up in the room. </li></ul>",
+  "publishedBy": "Wydawnictwa Komunikacji i ??czno?ci",
+  "developedBy": "",
+  "released": "1991",
+  "alsoFor": "Amstrad CPC, Commodore 64, ZX Spectrum | Combined View",
+  "genre": "Adventure, Compilation, Educational, Strategy / tactics",
+  "perspective": "Text-based / spreadsheet",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-8-bit/przygody-z-komputerem-i-bez-komputera",
+  "visual": "",
+  "gamePlay": "",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari 8-bit",
+      "releases": [
+        {
+          "publisher": "Wydawnictwa Komunikacji i ??czno?ci",
+          "developer": "",
+          "ported": "",
+          "country": " Poland",
+          "releaseDate": "1991",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [],
+  "cover": [
+    {
+      "link": "/images/covers/l/289752-przygody-z-komputerem-i-bez-komputera-amstrad-cpc-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Book",
+      "country": "Poland",
+      "platforms": "Amstrad CPC, Atari 8-bit, Commodore 64 and ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/289753-przygody-z-komputerem-i-bez-komputera-amstrad-cpc-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Book",
+      "country": "Poland",
+      "platforms": "Amstrad CPC, Atari 8-bit, Commodore 64 and ZX Spectrum"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Cluedo",
+  "shortName": "cluedo",
+  "description": "<i>Cluedo</i> is a version of the popular <a href=\"https://www.mobygames.com/search/quick?company=Waddington\">Waddington's</a> board game known as <i>Clue</i> in the U.S.A.<br><br>The game is a detective / puzzle game for one to six players, though the computer will play five of these for a single player game. The objective is to determine who killed Dr Black, where they killed him, and what the murder weapon was. This is achieved by a process of elimination. Each player has three clue cards. When all of these have been accounted for, what remains unaccounted for is the solution.\nPlayers can learn what other cards other players have by making suggestions. The game rules require opposing players are asked in turn if they  possess any of the items suggested and if they do one card must be revealed.<br><br>This computer game follows the board game very closely starting with rolling the dice for a high number to see who goes first.\nAfter that the cards are shuffled and play commences. The dice is rolled. When it is the turn of a human player a series of options are presented\n<ul>\n<li>Roll Dice : self explanatory</li>\n<li>Notes : is used by the player to record who &amp; what they suspect and who &amp; what has been eliminated</li>\n<li>Clue Cards : the player can view their own clue cards</li>\n<li>Passage : As in the board game, the player may surrender a turn and take a secret passage to another room</li>\n<li>Suggestion : Ask opposing players if they possess any of the cards suggested</li>\n<li>Accusation : used when a player has enough information to end the game</li>\n<li>Next : used after a roll of the dice to pass control to the next player</li>\n</ul>\nThe game also has an optional sound feature which plays music before each player, 'Colonel Bogey' before Col. mustard etc.\n",
+  "publishedBy": "Leisure Genius",
+  "developedBy": "",
+  "released": "1986",
+  "alsoFor": "Amstrad CPC, Commodore 64, MSX, Tatung Einstein, ZX Spectrum | Combined View",
+  "genre": "Puzzle, Strategy / tactics",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "Licensed",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/bbc-micro_/cluedo",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Board game",
+  "setting": "",
+  "release": [
+    {
+      "system": "BBC Micro",
+      "releases": [
+        {
+          "publisher": "Leisure Genius",
+          "developer": "",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1986",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [],
+  "cover": [
+    {
+      "link": "/images/covers/l/216291-cluedo-bbc-micro-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "United Kingdom",
+      "platforms": "BBC Micro"
+    },
+    {
+      "link": "/images/covers/l/216290-cluedo-bbc-micro-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "United Kingdom",
+      "platforms": "BBC Micro"
+    },
+    {
+      "link": "/images/covers/l/216292-cluedo-bbc-micro-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "United Kingdom",
+      "platforms": "BBC Micro"
+    }
+  ]
+}

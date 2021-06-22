@@ -1,0 +1,78 @@
+{
+  "name": "Shanghai",
+  "shortName": "shanghai",
+  "description": "<i>Shanghai</i> is one of the first video game adaptations of the tile-based game played with the Chinese mahjong stones - essentially a puzzle game that has little to do with real mahjong rules.<br><br>The gameplay involves 144 tiles, each depicting different images, which have to be removed by matching them into pairs. The tiles are arranged in a gridded pattern, which is higher near the centre. A tile can only be removed if it has no tile next to it on at least one side.<br><br>This computer implementation can generate a random board layout to take on and features five preset challenges, some of which have time limits of five or ten minutes, as well as a multiplayer mode.",
+  "publishedBy": "Sun Electronics Corp.",
+  "developedBy": "Activision, Inc.",
+  "released": "Dec 04, 1987",
+  "alsoFor": "Amiga, Amstrad CPC, Apple II, Apple IIgs, Arcade, Atari 8-bit, Atari ST, Commodore 64, DOS, FM Towns, Lynx, Macintosh, MSX, PC-88, PC-98, Sharp X1, Sharp X68000, SEGA Master System, TRS-80 CoCo, TurboGrafx-16, Wii | Combined View",
+  "genre": "Puzzle",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/nes/shanghai",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Cards / tiles, Tile matching puzzle",
+  "setting": "",
+  "release": [
+    {
+      "system": "NES",
+      "releases": [
+        {
+          "publisher": "Sun Electronics Corp.",
+          "developer": "Activision, Inc.",
+          "ported": "Sun Electronics Corp.",
+          "country": " Japan",
+          "releaseDate": "Dec 04, 1987",
+          "ean13": "4 907940 100165",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/548106-shanghai-nes-screenshot-title-screen.png",
+      "caption": "Title Screen"
+    },
+    {
+      "link": "/images/shots/l/840505-shanghai-nes-screenshot-in-game.png",
+      "caption": "In-game."
+    },
+    {
+      "link": "/images/shots/l/840506-shanghai-nes-screenshot-select-tile-pattern-who-the-f-ck-is.png",
+      "caption": "Select tile pattern. Who the f*ck is Kitachan?"
+    },
+    {
+      "link": "/images/shots/l/840507-shanghai-nes-screenshot-checking-the-settings-music.png",
+      "caption": "Checking the settings &gt; music."
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/298697-shanghai-nes-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "Japan",
+      "platforms": "NES"
+    },
+    {
+      "link": "/images/covers/l/298698-shanghai-nes-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "Japan",
+      "platforms": "NES"
+    },
+    {
+      "link": "/images/covers/l/298699-shanghai-nes-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "Japan",
+      "platforms": "NES"
+    }
+  ]
+}

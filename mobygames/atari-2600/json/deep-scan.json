@@ -1,0 +1,82 @@
+{
+  "name": "Deep Scan",
+  "shortName": "deep-scan",
+  "description": "In this game, you are the destroyer and must drop depth charges onto passing submarines. You time your drops so as they sink, they will hit the sub.<br><br>You score more points for hitting deeper subs. On the bottom of the screen is your viewport. Think of this as your radar. You can see the subs approaching before they come into the game area. At the top of the screen are two scores. The top score is your actual score. The bottom score is the bonus score you will collect if you hit the bonus sub, when it appears. You cannot collect your bonus unless and until you manage to hit the bonus sub, which is a different color and makes a different sound than the other subs.<br><br>At the bottom of the screen, below the viewport, are two numbers. The left number is how many subs can escape you before the game is over. This number starts at ten and counts down for each sub that escapes. When this number reaches zero, the game is over. The bonus sub doesn't increase this escape count. The number on the right is the sub speed. This number starts at zero and increases up to nine, depending on your score or bonus score.<br><br>The amount of bonus you get per sub varies depending on how many subs you have hit before hitting the bonus sub. Once you hit the bonus sub, the bonus per sub amount resets to the lowest amount and begins climbing again.<br><br>In the Arcade version the submarines will fire torpedoes at your ship, while in the Atari 2600 version they do not.",
+  "publishedBy": "SEGA Enterprises, Inc.",
+  "developedBy": "Sega/Gremlin",
+  "released": "Mar, 1983",
+  "alsoFor": "Arcade | Combined View",
+  "genre": "Strategy / tactics",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-2600/deep-scan",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Shooter",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari 2600",
+      "releases": [
+        {
+          "publisher": "SEGA Enterprises, Inc.",
+          "developer": "Sega/Gremlin",
+          "ported": "SEGA Enterprises, Inc.",
+          "country": " United States",
+          "releaseDate": "Mar, 1983",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/196227-deep-scan-atari-2600-screenshot-opening-screen.png",
+      "caption": "Opening screen"
+    },
+    {
+      "link": "/images/shots/l/196231-deep-scan-atari-2600-screenshot-subs-going-by-i-m-trying-to.png",
+      "caption": "Subs going by. I'm trying to drop a depth charge on the one on the right."
+    },
+    {
+      "link": "/images/shots/l/196232-deep-scan-atari-2600-screenshot-i-need-to-hit-the-bonus-sub.png",
+      "caption": "I need to hit the bonus sub at the bottom."
+    },
+    {
+      "link": "/images/shots/l/196233-deep-scan-atari-2600-screenshot-i-hit-a-sub.png",
+      "caption": "I hit a sub."
+    },
+    {
+      "link": "/images/shots/l/196234-deep-scan-atari-2600-screenshot-i-missed-10-subs-i-m-sunk.png",
+      "caption": "I missed 10 subs. I'm sunk."
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/258828-deep-scan-atari-2600-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Atari 2600"
+    },
+    {
+      "link": "/images/covers/l/258829-deep-scan-atari-2600-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Atari 2600"
+    },
+    {
+      "link": "/images/covers/l/258830-deep-scan-atari-2600-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Atari 2600"
+    }
+  ]
+}

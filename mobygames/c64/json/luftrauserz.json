@@ -1,0 +1,76 @@
+{
+  "name": "LuftrauserZ",
+  "shortName": "luftrauserz",
+  "description": "<i>LuftrauserZ</i> is an official Commodore demake of the 2014 game <a href=\"https://www.mobygames.com/game/luftrausers\">Luftrausers</a> with gameplay and features similar to the original game. It is a 2D air combat game played from a side view where the plane can fly in any direction using rotation as the screen scrolls along. Control of the plane is often based on short bursts of thrusts and it can only shoot in the direction it is facing with an unlimited number of bullets. The game consists of several levels that are won by achieving one of three win conditions, for instance killing a certain number of fighters, boats, general enemies or reaching a certain score. Combat encourages risks to build up combos. Health is represented through the border surrounding the game's screen. When it is black the plane is in good health, but when the plane is hit the border flashes, turns red and the colour then changes back to black gradually. When hit with a red border already present the plane blows up.<br><br>Between missions it is possible to unlock upgrades for the body, engine and weapons in the hangar. There are five upgrades for each type. Each combination of any upgrade leads to a new ship configuration but also to a remix of the game's soundtrack, so every tweak provides variety in the music as well. The mission objectives are also tailored to the chosen upgrades. There are 125 weapon combinations and 60 missions in total.<br><br>The game was made available both as a digital download and as a cartridge. The game is PAL only with compatibility for C64, C128 and C64GS. The music was composed for the more recent 8580 SID chip. The download version is optionally bundled with a pre-configured Linux, Mac and Windows version of the VICE emulator. The file can also be brought over to the real hardware using 1541 Ultimate II or Turbo Chameleon.<br><br>The physical version of the game contains:<ul>\n<li><i>LuftrauserZ</i> (cartridge)</li>\n<li>Box</li>\n<li>Manual</li>\n<li>Pin</li>\n<li>Poster (A3)</li>\n<li>Two stickers (game logo + RGCD logo)</li></ul>",
+  "publishedBy": "RGCD.DEV Ltd, Vlambeer",
+  "developedBy": "",
+  "released": "Dec 08, 2017",
+  "alsoFor": "Linux, Macintosh, Windows | Combined View",
+  "genre": "Action",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/luftrauserz",
+  "visual": "2D scrolling",
+  "gamePlay": "Shooter",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "RGCD.DEV Ltd",
+          "developer": "",
+          "ported": "",
+          "country": " Worldwide",
+          "releaseDate": "Dec 08, 2017",
+          "ean13": "",
+          "comments": "download release"
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/1035728-luftrauserz-commodore-64-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/1035729-luftrauserz-commodore-64-screenshot-game-start.png",
+      "caption": "Game start"
+    },
+    {
+      "link": "/images/shots/l/1035730-luftrauserz-commodore-64-screenshot-fighting-planes.png",
+      "caption": "Fighting planes"
+    },
+    {
+      "link": "/images/shots/l/1035731-luftrauserz-commodore-64-screenshot-they-got-me.png",
+      "caption": "They got me"
+    },
+    {
+      "link": "/images/shots/l/1035732-luftrauserz-commodore-64-screenshot-result.png",
+      "caption": "Result"
+    },
+    {
+      "link": "/images/shots/l/1035734-luftrauserz-commodore-64-screenshot-hanger.png",
+      "caption": "Hanger"
+    },
+    {
+      "link": "/images/shots/l/1035735-luftrauserz-commodore-64-screenshot-stats.png",
+      "caption": "Stats"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/580192-luftrauserz-commodore-64-front-cover.png",
+      "scanOf": "Front Cover",
+      "packaging": "Electronic",
+      "country": "Worldwide",
+      "platforms": "Commodore 64, Linux, Macintosh and Windows"
+    }
+  ]
+}

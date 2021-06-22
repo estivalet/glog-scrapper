@@ -1,0 +1,99 @@
+{
+  "name": "Spot",
+  "shortName": "spot",
+  "description": "A puzzle game loosely featuring licensing from the 7Up soft drink. The gameplay involves up to 4 players, which can be either human or computer, each taking on spots of a particular colour. Starting from opposite corners, they take it in turns to move, either by 'reproducing' one of their spots to form another one in an adjacent square, or by making a jump, losing the square you did have but taking one two spaces away.<br><br>When a piece lands next to one of another colour, that piece changes colour into that of their opponent. The winner of each round is either the last player with any pieces left, or the player who has the most pieces left when the level is full.",
+  "publishedBy": "Arcadia Systems, Inc.",
+  "developedBy": "Virgin Mastertronic Ltd.",
+  "released": "Sep, 1990",
+  "alsoFor": "Amiga, Arcade, Atari ST, Commodore 64, DOS, Game Boy | Combined View",
+  "genre": "Puzzle, Strategy / tactics",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "Licensed",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/nes/spot",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Board game",
+  "setting": "",
+  "release": [
+    {
+      "system": "NES",
+      "releases": [
+        {
+          "publisher": "Arcadia Systems, Inc.",
+          "developer": "Virgin Mastertronic Ltd.",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "Sep, 1990",
+          "ean13": "",
+          "comments": ""
+        },
+        {
+          "publisher": "Bullet-Proof Software, Inc.",
+          "developer": "Virgin Mastertronic Ltd.",
+          "ported": "",
+          "country": " Japan",
+          "releaseDate": "Oct 16, 1992",
+          "ean13": "4 988627 000114",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/207951-spot-nes-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/207952-spot-nes-screenshot-main-menu.png",
+      "caption": "Main menu"
+    },
+    {
+      "link": "/images/shots/l/207953-spot-nes-screenshot-creating-your-own-level.png",
+      "caption": "Creating your own level."
+    },
+    {
+      "link": "/images/shots/l/207954-spot-nes-screenshot-starting.png",
+      "caption": "Starting..."
+    },
+    {
+      "link": "/images/shots/l/207955-spot-nes-screenshot-the-enemy-approaches.png",
+      "caption": "The enemy approaches..."
+    },
+    {
+      "link": "/images/shots/l/207956-spot-nes-screenshot-this-doesn-t-look-good.png",
+      "caption": "This doesn't look good..."
+    },
+    {
+      "link": "/images/shots/l/743716-spot-nes-screenshot-can-you-dance-like-an-egyptian.png",
+      "caption": "&quot;Can you dance like an Egyptian?&quot;"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/300908-spot-nes-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "NES"
+    },
+    {
+      "link": "/images/covers/l/300909-spot-nes-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "NES"
+    },
+    {
+      "link": "/images/covers/l/300910-spot-nes-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "NES"
+    }
+  ]
+}

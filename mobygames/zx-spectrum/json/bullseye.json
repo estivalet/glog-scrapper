@@ -1,0 +1,114 @@
+{
+  "name": "Bullseye",
+  "shortName": "bullseye",
+  "description": "A computer game version of a famed TV quiz show based around the game of darts. The computer version features 2 players, both human-controlled - on TV there were 3 teams of 2 (one amateur darts player and one to answer questions).<br><br>The first round uses a custom board which is split both inwards (4 separate grades representing 30, 50, 100 and 200 points respectively) and around (10 sections lettered A-K, representing a different subject each). The first player must choose a category to aim at, and shoot a dart at it. If they hit one of the sections for that letter, they get that score and are asked the question. If they hit another category they get no bonus but are asked that question - if it's still there. Each players gets 3 goes at this, with increasingly tough questions worth 30, 50, 100 points.<br><br>Round 2 involves each player throwing 3 darts at a standard board, with the player who scores the most getting asked a question, with the value of the darts on offer. If they get it wrong, the other player gets a chance, for the points THEY scored. This is repeated 3 times.<br><br>After these 2 rounds, the player who is in front gets to aim at a board with 8 black segments, 8 red ones and the bullseye. The bully scores 50 points, the others reds score a randomly-selected value between 15 and 45, the blacks score zero, and hitting a red for the second time loses you that prize - hence the presenter's catchphrase &quot;keep out of the black and into the red, nothing in this game for 2 in a bed&quot;.<br><br>Once the player has finished the round, they choose whether to gamble their score against the final Prize Board. 101 points must be scored in 4 darts (in the TV show it was 6 - 3 for each player).",
+  "publishedBy": "Macsen Software",
+  "developedBy": "Macsen Software",
+  "released": "1984",
+  "alsoFor": "Amstrad CPC, BBC Micro, Commodore 64, Electron | Combined View",
+  "genre": "Simulation",
+  "perspective": "3rd-person (Other)",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "Licensed",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/zx-spectrum/bullseye",
+  "visual": "",
+  "gamePlay": "Board game, Game show / trivia / quiz",
+  "setting": "",
+  "release": [
+    {
+      "system": "ZX Spectrum",
+      "releases": [
+        {
+          "publisher": "Macsen Software",
+          "developer": "Macsen Software",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1984",
+          "ean13": "",
+          "comments": ""
+        },
+        {
+          "publisher": "TV Games",
+          "developer": "Macsen Software",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1987",
+          "ean13": "9 781851 600908",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/118031-bullseye-zx-spectrum-screenshot-loading-picture.png",
+      "caption": "Loading picture"
+    },
+    {
+      "link": "/images/shots/l/118030-bullseye-zx-spectrum-screenshot-just-like-the-pros-used-to.png",
+      "caption": "Just like the pros used to do"
+    },
+    {
+      "link": "/images/shots/l/118029-bullseye-zx-spectrum-screenshot-a-standard-dartboard.png",
+      "caption": "A standard dartboard"
+    },
+    {
+      "link": "https://www.mobygames.com/images/shots/l/118028-bullseye-zx-spectrum-screenshot-name-the-players.png",
+      "caption": "Name the players"
+    },
+    {
+      "link": "/images/shots/l/118027-bullseye-zx-spectrum-screenshot-options.png",
+      "caption": "Options"
+    },
+    {
+      "link": "/images/shots/l/118026-bullseye-zx-spectrum-screenshot-you-can-t-beat-a-bit-of-bully.png",
+      "caption": "You can't beat a bit of Bully"
+    },
+    {
+      "link": "/images/shots/l/118025-bullseye-zx-spectrum-screenshot-each-letter-represents-a-subject.png",
+      "caption": "Each letter represents a subject"
+    },
+    {
+      "link": "/images/shots/l/118024-bullseye-zx-spectrum-screenshot-now-this-is-cricket.png",
+      "caption": "Now, this is cricket"
+    },
+    {
+      "link": "/images/shots/l/118023-bullseye-zx-spectrum-screenshot-it-s-in-revelations-people.png",
+      "caption": "It's in Revelations people!"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/703373-bullseye-zx-spectrum-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/310626-bullseye-zx-spectrum-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/310627-bullseye-zx-spectrum-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/310628-bullseye-zx-spectrum-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    }
+  ]
+}

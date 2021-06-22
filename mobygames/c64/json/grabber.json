@@ -1,0 +1,56 @@
+{
+  "name": "Grabber",
+  "shortName": "grabber",
+  "description": "<i>Grabber</i> is a top view single screen maze game where the player moves a creature around the screen collecting treasure in the shape of bones over various levels. The screen has two mazes and the player may switch between either maze with the press of the fire button. The player then has to grab a piece of treasure and take it to the centre of one of the mazes. <br><br>There are eight pieces of treasure, four for each maze to grab and place. As the player moves and grabs, there are various creatures that also appear and move around the maze. These have to be avoided or the player lose one of four lives. Yellow bones can be collected and these allow the player to kill the creatures, however an indestructible creature will appear occasionally and may only be avoided. The creatures the player can kill will also grab the treasure themselves from the centre and place it elsewhere in the mazes. <br><br>Two players can play and each player takes it in turns to play when the other player loses a life.",
+  "publishedBy": "MicroDeal Ltd.",
+  "developedBy": "",
+  "released": "1983",
+  "alsoFor": "Dragon 32/64, TRS-80 CoCo | Combined View",
+  "genre": "Action",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/grabber",
+  "visual": "",
+  "gamePlay": "",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "MicroDeal Ltd.",
+          "developer": "",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1983",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/746992-grabber-commodore-64-screenshot-title-screen.png",
+      "caption": "Title Screen"
+    },
+    {
+      "link": "/images/shots/l/746993-grabber-commodore-64-screenshot-lets-get-the-treasure.png",
+      "caption": "Lets get the treasure"
+    },
+    {
+      "link": "/images/shots/l/746994-grabber-commodore-64-screenshot-grabbed-some-treasure.png",
+      "caption": "Grabbed some treasure"
+    },
+    {
+      "link": "/images/shots/l/746995-grabber-commodore-64-screenshot-playing-on-the-other-maze.png",
+      "caption": "Playing on the other maze"
+    }
+  ],
+  "cover": []
+}

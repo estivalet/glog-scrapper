@@ -1,0 +1,60 @@
+{
+  "name": "Wall-Defender",
+  "shortName": "wall-defender",
+  "description": "You are on the outer wall of a space fortress and must defend it from aliens.<br><br>Aliens will come from any of the four sides of the screen and you must shoot them before they ram your wall. If ten aliens or one super alien hit your wall, the outermost wall and the bridges connecting it to the next wall in will collapse. You can only shoot in the direction on the wall side you are on.<br><br>The game ends when:<br>\n1. You are on a wall section or connecting bridge when it collapses, causing you to float away.<br>\n2. Your score reaches 999,999 points.<br><br>The aliens pictured at the bottom of the screen indicate what level you are on. If you go an entire level without one alien hitting your wall, you regain a wall layer to a max of four.",
+  "publishedBy": "Bomb",
+  "developedBy": "Bomb",
+  "released": "1983",
+  "alsoFor": "",
+  "genre": "Action",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-2600/wall-defender",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade, Shooter",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari 2600",
+      "releases": [
+        {
+          "publisher": "Bomb",
+          "developer": "Bomb",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1983",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/184532-wall-defender-atari-2600-screenshot-firing-from-the-full-fortress.png",
+      "caption": "Firing from the full fortress"
+    },
+    {
+      "link": "/images/shots/l/184533-wall-defender-atari-2600-screenshot-i-need-to-keep-these-aliens.png",
+      "caption": "I need to keep these aliens from hitting my walls."
+    },
+    {
+      "link": "/images/shots/l/184534-wall-defender-atari-2600-screenshot-i-ve-lost-the-outer-layer.png",
+      "caption": "I've lost the outer layer of the fortress"
+    },
+    {
+      "link": "/images/shots/l/184535-wall-defender-atari-2600-screenshot-down-to-my-last-wall.png",
+      "caption": "Down to my last wall"
+    },
+    {
+      "link": "/images/shots/l/184536-wall-defender-atari-2600-screenshot-i-lost-all-my-walls-and.png",
+      "caption": "I lost all my walls and I'm drifting"
+    }
+  ],
+  "cover": []
+}

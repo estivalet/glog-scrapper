@@ -1,0 +1,86 @@
+{
+  "name": "Discovery",
+  "shortName": "discovery",
+  "description": "It is the future and a long missing space station, the Discovery, has been found. Unfortunately the defense systems have been activated and need to be shut down before the station can be used again. Not entirely surprisingly, the player is responsible for this mission.<br><br><i>Discovery</i> is a mini game collection with a main game wrapped around. Said game is a straight top-down shooter in which the player flies over the space station while shooting at and avoiding the defense robots. Being hit results in energy loss and zero energy results in death. The station has twelve hatches, each with a mini game behind it, which need to be entered to assemble the circuit board needed to shut down the defenses. Every solved mini game restores the player's energy.<br><br>The mini games itself are mostly variants of arcade classics or traditional games, including <a href=\"https://www.mobygames.com/game/breakout_\">Breakout</a>, <a href=\"https://www.mobygames.com/search/quick?game=Centipede\">Centipede</a>, a sliding puzzle, <a href=\"https://www.mobygames.com/search/quick?game=Amidar\">Amidar</a> or <a href=\"https://www.mobygames.com/search/quick?game=Solitaire\">Solitaire</a>. Most games rely on quick reflexes or luck.",
+  "publishedBy": "CRL Group PLC",
+  "developedBy": "",
+  "released": "1987",
+  "alsoFor": "",
+  "genre": "Action",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/discovery",
+  "visual": "2D scrolling, Fixed / flip-screen",
+  "gamePlay": "Arcade, Shooter",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "CRL Group PLC",
+          "developer": "",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1987",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/529360-discovery-commodore-64-screenshot-loading-screen.png",
+      "caption": "Loading screen"
+    },
+    {
+      "link": "/images/shots/l/529361-discovery-commodore-64-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/529362-discovery-commodore-64-screenshot-starting-location.png",
+      "caption": "Starting location"
+    },
+    {
+      "link": "/images/shots/l/529364-discovery-commodore-64-screenshot-shooting-at-enemies.png",
+      "caption": "Shooting at enemies"
+    },
+    {
+      "link": "/images/shots/l/529365-discovery-commodore-64-screenshot-my-shields-were-penetrated.png",
+      "caption": "My shields were penetrated and I died."
+    },
+    {
+      "link": "/images/shots/l/529366-discovery-commodore-64-screenshot-the-high-scores-with-me.png",
+      "caption": "The high scores with me in it"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/721849-discovery-commodore-64-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Jewel Case",
+      "country": "United Kingdom",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/721850-discovery-commodore-64-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Jewel Case",
+      "country": "United Kingdom",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/721851-discovery-commodore-64-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Jewel Case",
+      "country": "United Kingdom",
+      "platforms": "Commodore 64"
+    }
+  ]
+}

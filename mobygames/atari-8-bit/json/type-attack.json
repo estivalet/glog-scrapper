@@ -1,0 +1,68 @@
+{
+  "name": "Type Attack",
+  "shortName": "type-attack",
+  "description": "A Space Invaders inspired typing game. Letters slowly descend from the sky, type them in order to destroy them. Any letter that is at the bottom of a column is a valid input; mistakenly inputting another drains energy. <br><br>There are 99 speeds (Anything above 80 requires a genetic mutation), and 39 lessons. These can include upper and lower case, symbols and special keys as options. Each lesson finishes with a sequence of words using the featured letters, to be input in as little time as possible, allowing for use of the delete key.<br><br>Score is based on WPM, letters destroyed, minus mistakes. There is a savable high score table plus you can save your game at any time. The package includes finger placement diagrams for all variants of the host platform. ",
+  "publishedBy": "Sirius Software, Inc.",
+  "developedBy": "",
+  "released": "Aug, 1983",
+  "alsoFor": "Apple II, Commodore 64, DOS, VIC-20 | Combined View",
+  "genre": "Educational",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-8-bit/type-attack",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari 8-bit",
+      "releases": [
+        {
+          "publisher": "Sirius Software, Inc.",
+          "developer": "",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "Aug, 1983",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/352333-type-attack-atari-8-bit-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/352334-type-attack-atari-8-bit-screenshot-the-main-menu.png",
+      "caption": "The main menu"
+    },
+    {
+      "link": "/images/shots/l/352335-type-attack-atari-8-bit-screenshot-the-game-begins-with-easy.png",
+      "caption": "The game begins with easy letters like A,S,D,F"
+    },
+    {
+      "link": "/images/shots/l/352336-type-attack-atari-8-bit-screenshot-trickier-letters-and-symbols.png",
+      "caption": "Trickier letters and symbols are eventually added to the attack"
+    },
+    {
+      "link": "/images/shots/l/352337-type-attack-atari-8-bit-screenshot-type-these-words-as-fast.png",
+      "caption": "Type these words as fast as you can"
+    },
+    {
+      "link": "/images/shots/l/352338-type-attack-atari-8-bit-screenshot-a-variety-of-letters-attack.png",
+      "caption": "A variety of letters attack; type them to prevent them from hitting the bottom of the screen"
+    },
+    {
+      "link": "/images/shots/l/352339-type-attack-atari-8-bit-screenshot-use-the-editor-to-create.png",
+      "caption": "Use the editor to create your own Type Attack lessons"
+    }
+  ],
+  "cover": []
+}

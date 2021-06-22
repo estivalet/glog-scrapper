@@ -1,0 +1,48 @@
+{
+  "name": "Checker King",
+  "shortName": "checker-king",
+  "description": "<i>Checker King</i> is a computer adaptation of the board game Checkers. The game is for one player who competes against an AI opponent. It is played by using the keyboard to type in commands. To move a piece the player simply enters the number of the square it is on followed by the number of the square it should be moved to. Multiple moves can be made in a single text line, for example 25-18-9. <br><br>The game follows official rules and when a capturing move is available the player is forced to make it. At any time it is possible to exchange positions with the AI opponent and it is also possible to have the AI take control of both sets of pieces and play against itself. Another option of the game is to modify the board. It allows the player to set up new situations by removing or adding pieces. The game comes with three checker puzzles where situations are predefined. The AI level of the opponent can be set from 1 to 8.",
+  "publishedBy": "Personal Software Inc.",
+  "developedBy": "Personal Software Inc.",
+  "released": "1980",
+  "alsoFor": "Apple II, Commodore PET/CBM, TRS-80, TRS-80 CoCo | Combined View",
+  "genre": "Strategy / tactics",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-8-bit/checker-king",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Board game",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari 8-bit",
+      "releases": [
+        {
+          "publisher": "Personal Software Inc.",
+          "developer": "Personal Software Inc.",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1980",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/928753-checker-king-atari-8-bit-screenshot-title-screen.png",
+      "caption": "Title screen."
+    },
+    {
+      "link": "/images/shots/l/928754-checker-king-atari-8-bit-screenshot-game-start.png",
+      "caption": "Game start."
+    }
+  ],
+  "cover": []
+}

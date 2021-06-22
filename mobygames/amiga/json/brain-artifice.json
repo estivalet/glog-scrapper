@@ -1,0 +1,84 @@
+{
+  "name": "Brain Artifice",
+  "shortName": "brain-artifice",
+  "description": "<i>Brain Artifice</i> is a puzzle game in which the player needs to build combinations out of given blocks. While initially the combinations simply consist of the the same picture or colour, in later levels there are certain patterns to achieve. The blocks are initially divided over the playfield and after grabbing one of them, the player can move it freely over all the unoccupied space. If the block is near another block from the pattern - the detailed requirements change from level to level - it is stuck and can't be moved anymore. <br><br>When a whole pattern is done, the stones transform into bricks so the player knows it is time to work with the rest of the stones. All this has to be done within a time limit, and unwinnable situations are entirely possible.\nThe game features 100 levels which introduce additional gameplay elements over time, e.g. static blocks, blocks which change their colour or hidden blocks.",
+  "publishedBy": "Soft Enterprises GmbH",
+  "developedBy": "Sceptic Design",
+  "released": "1991",
+  "alsoFor": "DOS | Combined View",
+  "genre": "Puzzle",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/amiga/brain-artifice",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Tile matching puzzle",
+  "setting": "",
+  "release": [
+    {
+      "system": "Amiga",
+      "releases": [
+        {
+          "publisher": "Soft Enterprises GmbH",
+          "developer": "Sceptic Design",
+          "ported": "",
+          "country": " Germany",
+          "releaseDate": "1991",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/601821-brain-artifice-amiga-screenshot-loading-screen.png",
+      "caption": "Loading screen"
+    },
+    {
+      "link": "/images/shots/l/601822-brain-artifice-amiga-screenshot-main-menu.png",
+      "caption": "Main menu"
+    },
+    {
+      "link": "/images/shots/l/601823-brain-artifice-amiga-screenshot-here-various-data-about-the.png",
+      "caption": "Here various data about the next level is shown. Of particular interest are &quot;glue&quot; and &quot;connect&quot;."
+    },
+    {
+      "link": "/images/shots/l/601824-brain-artifice-amiga-screenshot-the-starting-position-of-level.png",
+      "caption": "The starting position of level one."
+    },
+    {
+      "link": "/images/shots/l/601825-brain-artifice-amiga-screenshot-glue-it-does-not-translate.png",
+      "caption": "Glue: It does not translate well to a static screenshot, but now that we connected five hands, the blocks can't be moved anymore."
+    },
+    {
+      "link": "/images/shots/l/601826-brain-artifice-amiga-screenshot-connect-after-completing-the.png",
+      "caption": "Connect: After completing the row of nine hands, they turned into stone."
+    },
+    {
+      "link": "/images/shots/l/601827-brain-artifice-amiga-screenshot-the-game-saves-the-record.png",
+      "caption": "The game saves the record times on disk."
+    },
+    {
+      "link": "/images/shots/l/601828-brain-artifice-amiga-screenshot-this-is-level-two.png",
+      "caption": "This is level two."
+    },
+    {
+      "link": "/images/shots/l/601829-brain-artifice-amiga-screenshot-now-we-purposefully-created.png",
+      "caption": "Now we purposefully created an unwinnable situation: All but four hands are already turned into stone, but the target number was higher."
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/691961-brain-artifice-amiga-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "Germany",
+      "platforms": "Amiga"
+    }
+  ]
+}

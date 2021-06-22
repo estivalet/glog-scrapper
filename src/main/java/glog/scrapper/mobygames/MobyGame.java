@@ -29,8 +29,8 @@ public class MobyGame {
 	private String gamePlay;
 	private String setting;
 	private List<MobyGameRelease> release = new ArrayList<MobyGameRelease>();
-	private List<String> shot = new ArrayList<String>();
-	private List<String> cover = new ArrayList<String>();
+	private List<MobyGameScreenshot> shot = new ArrayList<MobyGameScreenshot>();
+	private List<MobyGameCoverArt> cover = new ArrayList<MobyGameCoverArt>();
 
 	/**
 	 * @return the name
@@ -261,7 +261,7 @@ public class MobyGame {
 	 * @return the screenshots
 	 */
 	@XmlElementWrapper(name = "screenshots")
-	public List<String> getShot() {
+	public List<MobyGameScreenshot> getShot() {
 		return shot;
 	}
 
@@ -269,7 +269,7 @@ public class MobyGame {
 	 * @param screenshots
 	 *            the screenshots to set
 	 */
-	public void setShot(List<String> shot) {
+	public void setShot(List<MobyGameScreenshot> shot) {
 		this.shot = shot;
 	}
 
@@ -293,7 +293,7 @@ public class MobyGame {
 	 * @return the cover
 	 */
 	@XmlElementWrapper(name = "covers")
-	public List<String> getCover() {
+	public List<MobyGameCoverArt> getCover() {
 		return cover;
 	}
 
@@ -301,7 +301,7 @@ public class MobyGame {
 	 * @param cover
 	 *            the cover to set
 	 */
-	public void setCover(List<String> cover) {
+	public void setCover(List<MobyGameCoverArt> cover) {
 		this.cover = cover;
 	}
 
@@ -309,12 +309,12 @@ public class MobyGame {
 		this.release.add(release);
 	}
 
-	public void addScreenshot(String shotLink) {
-		this.shot.add(shotLink);
+	public void addScreenshot(MobyGameScreenshot screenshot) {
+		this.shot.add(screenshot);
 	}
 
-	public void addCover(String coverLink) {
-		this.cover.add(coverLink);
+	public void addCover(MobyGameCoverArt coverArt) {
+		this.cover.add(coverArt);
 
 	}
 
@@ -356,6 +356,10 @@ public class MobyGame {
 
 	public void setSetting(String setting) {
 		this.setting = setting;
+	}
+
+	public String getFolderName() {
+		return this.name.toLowerCase().replaceAll(" ", "-");
 	}
 
 }

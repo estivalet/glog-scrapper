@@ -1,0 +1,64 @@
+{
+  "name": "Sword of Saros",
+  "shortName": "sword-of-saros",
+  "description": "You have entered a wizard's dungeons in search of the fabled Sword of Saros. You must avoid the wizard, his hunter bat and other nasties while gathering treasure. Then you must escape from the dungeons.<br><br>The player begins in a maze. The narrow areas are corridors and the wider areas are rooms. The player must move from room to room, avoiding the wizard and his bat, gathering treasure, items and keys. Once in a room, standing around may prove to be fatal as each one of them has a dangerous monster. Some rooms have doors with either gold or a part of the sword behind them. When the player finds the sword piece, it will transport him to the next level of the dungeon.<br><br>In the first two levels, the player will be able to see the entire maze. On the next two levels, the other parts of the mazes are revealed gradually, as they are explored. On all later levels, it's possible to see only what's directly around the player. The player loses life points whenever touched by a monster. In an encounter with the wizard, besides losing life points, an additional problem is to get through his skeletons. The player will start at the bottom of the screen and needs to make way to the top. In the final dungeon, all the rooms have only unlocked doors, however gold is need to bribe the monsters in order to search the doors for the exit.<br><br>The items in the maze and their uses, are:<br>\n<ul><li>Gold: Not a selectable item. Needed to bribe monsters in the last level</li>\n<li>Gems: After collecting nine gems, the player may use them to get one or more type of each other item.</li>\n<li>Lamp: Makes it possible to see the entire maze. Not needed for mazes one or two.</li>\n<li>Potion: Restores four to seven life points. The player can never have more than twenty-five total life points.</li>\n<li>Cross: Makes the wizard and the bat move as far from you as the can.</li>\n<li>Scroll: Allows the player to see the wizard and the bat, even if they are not in a visible portion of the maze. Not needed for mazes one and two.</li>\n<li>Ring: Makes the player invisible to the wizard, bat, and room monsters.</li>\n<li>Keys: Not a selectable item. Needed to open locked doors except on last dungeon. Keys do not leave the dungeon level where they are found. When the player gets the sword piece, any extra keys the player are carrying are lost and new ones must be found.</li></ul>",
+  "publishedBy": "Starpath Corporation",
+  "developedBy": "Starpath Corporation",
+  "released": "Nov, 1983",
+  "alsoFor": "",
+  "genre": "Action",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-2600/sword-of-saros",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari 2600",
+      "releases": [
+        {
+          "publisher": "Starpath Corporation",
+          "developer": "Starpath Corporation",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "Nov, 1983",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/231700-sword-of-saros-atari-2600-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/231701-sword-of-saros-atari-2600-screenshot-the-maze.png",
+      "caption": "The maze"
+    },
+    {
+      "link": "/images/shots/l/231702-sword-of-saros-atari-2600-screenshot-a-room-with-a-monster.png",
+      "caption": "A room with a monster and items and treasures."
+    },
+    {
+      "link": "/images/shots/l/231703-sword-of-saros-atari-2600-screenshot-the-items-menu.png",
+      "caption": "The items menu"
+    },
+    {
+      "link": "/images/shots/l/231704-sword-of-saros-atari-2600-screenshot-i-encountered-the-wizard.png",
+      "caption": "I encountered the wizard and must escape his skeletons."
+    },
+    {
+      "link": "/images/shots/l/231705-sword-of-saros-atari-2600-screenshot-i-died-my-rank-is-apprentice.png",
+      "caption": "I died. My rank is apprentice."
+    }
+  ],
+  "cover": []
+}

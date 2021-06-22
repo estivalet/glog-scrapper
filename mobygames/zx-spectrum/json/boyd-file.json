@@ -1,0 +1,64 @@
+{
+  "name": "The Boyd File",
+  "shortName": "boyd-file",
+  "description": "<i>The Boyd File</i> is a text adventure with the occasional picture.<br><br>This is a detective story set in Hollywood or someplace similar. The player takes the role of Luthor Bailey, a typical down-at-heel private eye who's hired by a John Ford to find his missing sister Betty Boyd. The tone of the game follows the American gumshoe novel throughout, for example the missing woman is described as &quot;...a dame of about twenty-five. She had thick, blond, curly hair and a face that could have been nice with a smile on it.&quot;, and when the game performs an action such as TAKE GUN it often responds with &quot;OK MAC&quot;.<br><br>It was written with the Graphic Adventure Creator and supports the standard shortcuts such as N/S/E/W/U/D for North/South/East/West/up and Down. Some areas of the game have to be completed within a set number of moves, if the player takes too many turns then they will find they come to a dead end.<br><br>When completed correctly the player will score 180 points.",
+  "publishedBy": "Zenobi Software",
+  "developedBy": "",
+  "released": "1991",
+  "alsoFor": "",
+  "genre": "Adventure",
+  "perspective": "Text-based / spreadsheet",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/zx-spectrum/boyd-file",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Interactive fiction / text adventure",
+  "setting": "",
+  "release": [
+    {
+      "system": "ZX Spectrum",
+      "releases": [
+        {
+          "publisher": "Zenobi Software",
+          "developer": "",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1991",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/879076-the-boyd-file-zx-spectrum-screenshot-the-title-screen-br-this.png",
+      "caption": "The title screenThis is not displayed for long and is soon replaced by the first screen of text."
+    },
+    {
+      "link": "/images/shots/l/879077-the-boyd-file-zx-spectrum-screenshot-the-start-of-the-game.png",
+      "caption": "The start of the gameThis screen replaces the title screen, there's no option to display and additional story elements"
+    },
+    {
+      "link": "/images/shots/l/879078-the-boyd-file-zx-spectrum-screenshot-the-game-displays-pictures.png",
+      "caption": "The game displays pictures at certain points. All pictures follow the same format with a silhouette on the right and some detail on the left"
+    },
+    {
+      "link": "/images/shots/l/879079-the-boyd-file-zx-spectrum-screenshot-another-picture-these.png",
+      "caption": "Another picture. These are displayed only in certain locations, they are not present for every scene\nAll pictures follow the same format with a silhouette on the right and some detail on the left"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/379712-the-boyd-file-zx-spectrum-extras.jpg",
+      "scanOf": "Extras",
+      "packaging": "Other",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    }
+  ]
+}

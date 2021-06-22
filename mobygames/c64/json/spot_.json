@@ -1,0 +1,64 @@
+{
+  "name": "Spot",
+  "shortName": "spot_",
+  "description": "<i>Spot</i> is an unofficial implementation of the board game <moby game=\"Connect Four variants\">Connect Four</i>. Players take turn placing tokens on a 7 by 6 grid in an attempt to get four in a row, but unlike <i>Tic-Tac-Toe</i> tokens may only be placed at the bottom-most available spot in any column. The game continues until someone has four in a row (horizontal, diagonal or vertical), or the entire grid is filled. This version of the game only features two player mode, there is no AI to play against.",
+  "publishedBy": "Code Works, The",
+  "developedBy": "",
+  "released": "1983",
+  "alsoFor": "Commodore PET/CBM | Combined View",
+  "genre": "Strategy / tactics",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/spot_",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Board game",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "Code Works, The",
+          "developer": "",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1983",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/523431-spot-commodore-64-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/523432-spot-commodore-64-screenshot-ok-who-is-player-one.png",
+      "caption": "OK, who is player one?"
+    },
+    {
+      "link": "/images/shots/l/523433-spot-commodore-64-screenshot-it-is-1-s-move.png",
+      "caption": "It is 1's move."
+    },
+    {
+      "link": "/images/shots/l/523434-spot-commodore-64-screenshot-1-and-2-have-both-moved.png",
+      "caption": "1 and 2 have both moved."
+    },
+    {
+      "link": "/images/shots/l/523435-spot-commodore-64-screenshot-1-won.png",
+      "caption": "1 won."
+    },
+    {
+      "link": "/images/shots/l/523436-spot-commodore-64-screenshot-play-again.png",
+      "caption": "Play again?"
+    }
+  ],
+  "cover": []
+}

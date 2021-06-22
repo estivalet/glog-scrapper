@@ -1,0 +1,195 @@
+{
+  "name": "Cluedo",
+  "shortName": "cluedo",
+  "description": "<i>Cluedo</i> is a version of the popular <a href=\"https://www.mobygames.com/search/quick?company=Waddington\">Waddington's</a> board game known as <i>Clue</i> in the U.S.A.<br><br>The game is a detective / puzzle game for one to six players, though the computer will play five of these for a single player game. The objective is to determine who killed Dr Black, where they killed him, and what the murder weapon was. This is achieved by a process of elimination. Each player has three clue cards. When all of these have been accounted for, what remains unaccounted for is the solution.\nPlayers can learn what other cards other players have by making suggestions. The game rules require opposing players are asked in turn if they  possess any of the items suggested and if they do one card must be revealed.<br><br>This computer game follows the board game very closely starting with rolling the dice for a high number to see who goes first.\nAfter that the cards are shuffled and play commences. The dice is rolled. When it is the turn of a human player a series of options are presented\n<ul>\n<li>Roll Dice : self explanatory</li>\n<li>Notes : is used by the player to record who &amp; what they suspect and who &amp; what has been eliminated</li>\n<li>Clue Cards : the player can view their own clue cards</li>\n<li>Passage : As in the board game, the player may surrender a turn and take a secret passage to another room</li>\n<li>Suggestion : Ask opposing players if they possess any of the cards suggested</li>\n<li>Accusation : used when a player has enough information to end the game</li>\n<li>Next : used after a roll of the dice to pass control to the next player</li>\n</ul>\nThe game also has an optional sound feature which plays music before each player, 'Colonel Bogey' before Col. mustard etc.\n",
+  "publishedBy": "Leisure Genius",
+  "developedBy": "",
+  "released": "Jul, 1985",
+  "alsoFor": "Amstrad CPC, BBC Micro, Commodore 64, MSX, Tatung Einstein | Combined View",
+  "genre": "Puzzle, Strategy / tactics",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "Licensed",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/zx-spectrum/cluedo",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Board game",
+  "setting": "",
+  "release": [
+    {
+      "system": "ZX Spectrum",
+      "releases": [
+        {
+          "publisher": "Leisure Genius",
+          "developer": "",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "Jul, 1985",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/461462-cluedo-zx-spectrum-screenshot-splash-screen.png",
+      "caption": "Splash screen"
+    },
+    {
+      "link": "/images/shots/l/461463-cluedo-zx-spectrum-screenshot-legal-stuff-trade-mark-info.png",
+      "caption": "Legal stuff : Trade mark info\nThe third or fourth such screen. \nThis sits on screen for what seems like an age"
+    },
+    {
+      "link": "/images/shots/l/461467-cluedo-zx-spectrum-screenshot-player-details-all-six-must.png",
+      "caption": "Player details : all six must be assigned a computer skill level. 1-3 designates a computer player of that skill level, 'ENTER' takes the default level of zero which means a human player"
+    },
+    {
+      "link": "/images/shots/l/461469-cluedo-zx-spectrum-screenshot-do-you-want-sound-effects-responding.png",
+      "caption": "Do you want sound effects. responding 'Y' plays music at the start of each characters turn, e.g. Colonel Bogey is played before Colonel Mustards turn. I found this annoying."
+    },
+    {
+      "link": "/images/shots/l/461470-cluedo-zx-spectrum-screenshot-game-speed-0-fastest-9-slowest.png",
+      "caption": "Game speed, 0 (fastest) - 9 (slowest)\nThe idea is to provide 'thinking time' between each turn"
+    },
+    {
+      "link": "/images/shots/l/461471-cluedo-zx-spectrum-screenshot-each-player-rolls-to-see-who.png",
+      "caption": "Each player rolls to see who's the dealer. Highest roll wins. If there is a tie then the tying players re-roll until there is a winner"
+    },
+    {
+      "link": "/images/shots/l/461472-cluedo-zx-spectrum-screenshot-the-dice-always-rolls-across.png",
+      "caption": "The dice always rolls across the board from the bottom left to the centre"
+    },
+    {
+      "link": "/images/shots/l/461475-cluedo-zx-spectrum-screenshot-the-clue-cards-are-shuffled.png",
+      "caption": "The clue cards are shuffled and allocated to each player - as in the board game"
+    },
+    {
+      "link": "/images/shots/l/461476-cluedo-zx-spectrum-screenshot-miss-scarlet-rolls-first-and.png",
+      "caption": "Miss Scarlet rolls first and moves to the bracketted square by the lounge automatically"
+    },
+    {
+      "link": "/images/shots/l/461477-cluedo-zx-spectrum-screenshot-prof-plum-is-a-human-player.png",
+      "caption": "Prof Plum is a human player. Roll Dice must be selected and used before he can move. Movement is by using the numeric keypad arrow keys to select a destination square then hitting 'ENTER'."
+    },
+    {
+      "link": "/images/shots/l/461478-cluedo-zx-spectrum-screenshot-after-a-few-rounds-miss-scarlett.png",
+      "caption": "After a few rounds Miss Scarlett gets into the Lounge and makes a suggestion"
+    },
+    {
+      "link": "/images/shots/l/461479-cluedo-zx-spectrum-screenshot-the-next-player-in-turn-is-asked.png",
+      "caption": "The next player in turn is asked if they have these cards"
+    },
+    {
+      "link": "/images/shots/l/461481-cluedo-zx-spectrum-screenshot-if-unsure-the-player-can-view.png",
+      "caption": "If unsure the player can view their cards.\nA reminder to hide the screen if playing with others is given"
+    },
+    {
+      "link": "/images/shots/l/461482-cluedo-zx-spectrum-screenshot-the-players-cards-are-revealed.png",
+      "caption": "The players cards are revealed"
+    },
+    {
+      "link": "/images/shots/l/461483-cluedo-zx-spectrum-screenshot-the-player-did-not-have-a-matching.png",
+      "caption": "The player did not have a matching card amnd so responds 'N' - No"
+    },
+    {
+      "link": "/images/shots/l/461484-cluedo-zx-spectrum-screenshot-the-next-player-is-a-computer.png",
+      "caption": "The next player is a computer player and does have a matching card....."
+    },
+    {
+      "link": "/images/shots/l/461485-cluedo-zx-spectrum-screenshot-so-the-player-the-blue-dot-is.png",
+      "caption": ".. so the player, the blue dot, is dragged across the screen to answer the question"
+    },
+    {
+      "link": "/images/shots/l/461486-cluedo-zx-spectrum-screenshot-if-a-human-player-does-not-answer.png",
+      "caption": "If a human player does not answer the question ' do you have a card?' truthfully the game corrects them"
+    },
+    {
+      "link": "/images/shots/l/461487-cluedo-zx-spectrum-screenshot-here-the-right-answer-is-given.png",
+      "caption": "Here the right answer is given"
+    },
+    {
+      "link": "/images/shots/l/461488-cluedo-zx-spectrum-screenshot-three-wrong-answers-in-a-row.png",
+      "caption": "Three wrong answers in a row and the human player is out of the game"
+    },
+    {
+      "link": "/images/shots/l/461494-cluedo-zx-spectrum-screenshot-the-notes-menu-item-triggers.png",
+      "caption": "The Notes menu item triggers a series of sub menus"
+    },
+    {
+      "link": "/images/shots/l/461497-cluedo-zx-spectrum-screenshot-the-first-list-is-the-suspect.png",
+      "caption": "The first list is the suspect list. Entries can be coloured using keys 1-5, that's one colour for each other player"
+    },
+    {
+      "link": "/images/shots/l/461502-cluedo-zx-spectrum-screenshot-next-is-the-weapons-listgain.png",
+      "caption": "Next is the weapons listgain weapons can be coloured as required"
+    },
+    {
+      "link": "/images/shots/l/461504-cluedo-zx-spectrum-screenshot-finally-the-list-of-locations.png",
+      "caption": "Finally the list of locations. The lists repeat until 'Finished' is selected"
+    },
+    {
+      "link": "/images/shots/l/461505-cluedo-zx-spectrum-screenshot-clue-cards-shows-the-players.png",
+      "caption": "'Clue Cards' shows the players own clue cards"
+    },
+    {
+      "link": "/images/shots/l/461507-cluedo-zx-spectrum-screenshot-making-a-suggestion-then-choose.png",
+      "caption": "Making a suggestion : .. then choose the weapon"
+    },
+    {
+      "link": "/images/shots/l/461508-cluedo-zx-spectrum-screenshot-then-select-finished-the-game.png",
+      "caption": "Then select finished, the game will ask the next player if they have any matching cards"
+    },
+    {
+      "link": "/images/shots/l/461509-cluedo-zx-spectrum-screenshot-player-kevin-does-and-reveals.png",
+      "caption": "player 'Kevin' does and reveals the Conservatory' card which we can now eliminate in the Note's section"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/196832-cluedo-zx-spectrum-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/196833-cluedo-zx-spectrum-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/196834-cluedo-zx-spectrum-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/236205-cluedo-zx-spectrum-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/236206-cluedo-zx-spectrum-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/309407-cluedo-zx-spectrum-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "name": "Geopolitique 1990",
+  "shortName": "geopolitique-1990",
+  "description": "<i>Geopolitique 1990</i> is an economical simulation in which the player takes the control over the USA and tries to overcome the USSR. There are seven scenarios, one representing the actual political situation of 1984 and six hypothetical 1990 situations. The success of the nation is measured with three values: Gross National Product (trade), Prestige (politics) and National Security (military). Before each match, the player chooses two of these three values, and when both reach a certain number (depending on the scenario), the game is won. Or, well, lost if the AI was faster. The game does not simulate all countries in the world, besides the two opponents USA and USSR there are only 14 &quot;minor countries&quot; which mostly represent certain regions like Western Europe.<br><br>Actually, the game consists of two separate programs. <i>Geopol</i> is the initial one and handles all the political simulation. The basic goal is to make treaties with the minor countries, as each treaty improves the mentioned victory values. Accordingly, there are trade, military and political treaties (along with a neutrality treaty which cancels all other treaties). Negotiations are everything, and the player is free to decide how much pressure is in order. But failing hurts the prestige and the willingness of the minor countries to negotiate at all. The second aspect is building up military presence over the globe. This is both necessary to keep the USSR at bay and improve negotiation positions. <br><br>However, all this belongs into the political phase of each year. Before it comes to this, the player needs to think about the economy. Here, the player manages the production of the three resources within the USA. The minor countries also produce resources which are then divided depending on trade treaties. In turn, those resources are used to produce five kind of points which are (mostly) needed for the following political phase. Directly used to restrict the player's actions are Military Maintenance (needed to maintain existing units), Military Mobilization (producing new military units) and Political Action (needed to negotiate with minor powers), Military Capacity restrict the number of units which can be mobilized in each year and Industrial Capacity does the same for the USA's own resource production.<br><br>The player also has the possibility to wage war against one minor country to get all their treaties automatically. However, this has great effects on the world tension level (among various other factors). If it gets too high, political negotiations are thrown out of the window and the second program <i>Geowar</i> starts which is more similar to traditional wargames. The minor countries decide if they stay neutral or are loyal to one super power and a global war begins. Now the winning condition is simply to conquer and hold enough of the world first and each turn represents three months. Each round consists of the following phases: military buildup (using resource points, earned from loyal or conquered nations, to either mobilize new units, reinforce units or increase the USA's permanent resource points output), movement, management of air units and attacking. Obviously there is no going back when <i>Geowar</i> has been started.",
+  "publishedBy": "Strategic Simulations, Inc.",
+  "developedBy": "",
+  "released": "Jun, 1984",
+  "alsoFor": "Apple II | Combined View",
+  "genre": "Simulation, Strategy / tactics",
+  "perspective": "Text-based / spreadsheet, Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/geopolitique-1990",
+  "visual": "",
+  "gamePlay": "Managerial / business simulation",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "Strategic Simulations, Inc.",
+          "developer": "",
+          "ported": "",
+          "country": " United States, Canada",
+          "releaseDate": "Jun, 1984",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/642910-geopolitique-1990-commodore-64-screenshot-title-screen.png",
+      "caption": "Title screen."
+    },
+    {
+      "link": "/images/shots/l/642911-geopolitique-1990-commodore-64-screenshot-the-soviet-leaders.png",
+      "caption": "The Soviet leaders."
+    },
+    {
+      "link": "/images/shots/l/642912-geopolitique-1990-commodore-64-screenshot-starting-a-new-game.png",
+      "caption": "Starting a new game in 1990."
+    },
+    {
+      "link": "/images/shots/l/642913-geopolitique-1990-commodore-64-screenshot-us-and-ussr-goals.png",
+      "caption": "US and USSR goals."
+    },
+    {
+      "link": "/images/shots/l/642914-geopolitique-1990-commodore-64-screenshot-us-and-ussr-military.png",
+      "caption": "US and USSR military presence."
+    },
+    {
+      "link": "/images/shots/l/642915-geopolitique-1990-commodore-64-screenshot-checking-minor-political.png",
+      "caption": "Checking minor political orientation on the map."
+    },
+    {
+      "link": "/images/shots/l/642916-geopolitique-1990-commodore-64-screenshot-determining-us-production.png",
+      "caption": "Determining US production."
+    },
+    {
+      "link": "/images/shots/l/642917-geopolitique-1990-commodore-64-screenshot-dividing-production.png",
+      "caption": "Dividing production between food, metals and energy."
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/305302-geopolitique-1990-commodore-64-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/305303-geopolitique-1990-commodore-64-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/653255-geopolitique-1990-commodore-64-spine-sides.jpg",
+      "scanOf": "Spine/Sides",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "https://www.mobygames.com/images/covers/l/653256-geopolitique-1990-commodore-64-spine-sides.jpg",
+      "scanOf": "Spine/Sides",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/653257-geopolitique-1990-commodore-64-spine-sides.jpg",
+      "scanOf": "Spine/Sides",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/305304-geopolitique-1990-commodore-64-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/600209-geopolitique-1990-commodore-64-other.jpg",
+      "scanOf": "Other",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/600210-geopolitique-1990-commodore-64-manual.jpg",
+      "scanOf": "Manual",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/600207-geopolitique-1990-commodore-64-reference-card.jpg",
+      "scanOf": "Reference Card",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/600208-geopolitique-1990-commodore-64-reference-card.jpg",
+      "scanOf": "Reference Card",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Commodore 64"
+    }
+  ]
+}

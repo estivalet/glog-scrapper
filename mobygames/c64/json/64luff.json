@@ -1,0 +1,56 @@
+{
+  "name": "64Luff",
+  "shortName": "64luff",
+  "description": "<i>64Luff</i> is a gomoku game. It's played on a 23 by 23 grid by one player against an AI opponent. The players take turns placing their o's and x's on the grid with the aim of getting five in a row. There are two game modes: normal and training. The training mode differs in that it's possible to undo a move and to ask the computer for the ideal next move. The game also has a save and recall option which allows the player to move back to an earlier stage in a game.",
+  "publishedBy": "Grana Software",
+  "developedBy": "",
+  "released": "1983",
+  "alsoFor": "",
+  "genre": "Strategy / tactics",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/64luff",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Board game",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "Grana Software",
+          "developer": "",
+          "ported": "",
+          "country": " Sweden",
+          "releaseDate": "1983",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/855464-64luff-commodore-64-screenshot-title-screen-v-3-0.png",
+      "caption": "Title screen (v. 3.0)"
+    },
+    {
+      "link": "/images/shots/l/855465-64luff-commodore-64-screenshot-starting-out.png",
+      "caption": "Starting out"
+    },
+    {
+      "link": "/images/shots/l/855466-64luff-commodore-64-screenshot-waiting-for-the-ai-s-move.png",
+      "caption": "Waiting for the AI's move"
+    },
+    {
+      "link": "/images/shots/l/855467-64luff-commodore-64-screenshot-game-over.png",
+      "caption": "Game over"
+    }
+  ],
+  "cover": []
+}

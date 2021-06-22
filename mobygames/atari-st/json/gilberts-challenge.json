@@ -1,0 +1,84 @@
+{
+  "name": "Gilbert's Challenge",
+  "shortName": "gilberts-challenge",
+  "description": "<i>Gilbert's Challenge</i> is a board game where the aim is to remove as many marble from the board as possible and ideally only have one marble left on the board. The player have three tires and if enough score is generated during those three tries a place on the high score table is earned. If the player manage to only have one marble left on the board the game continues to the next level (there are a total of 25 levels in the game). Removing marbles is done by selecting a marble move it over another marble (horizontally or vertically) to an empty spot, on the easiest level this will remove the marble that was moved over but on harder levels the marble may change color instead and must be moved over one or more times with marbles of different colors before it is removed from the game board. The marbles can be of up to five different colors. Sometimes the player may add extra marbles to the board to make it possible to remove marbles.<br><br>The game comes with no instructions whatsoever so part of the challenge for the player will be to discover what rules governs the removal of marbles. The game Features four game modes: Practice, Beginner, Advance and Tournament, it also has.",
+  "publishedBy": "Antic Publishing",
+  "developedBy": "",
+  "released": "1990",
+  "alsoFor": "",
+  "genre": "Puzzle",
+  "perspective": "Bird's-eye view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-st/gilberts-challenge",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Board game",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari ST",
+      "releases": [
+        {
+          "publisher": "Antic Publishing",
+          "developer": "",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1990",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/939978-gilbert-s-challenge-atari-st-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/939979-gilbert-s-challenge-atari-st-screenshot-copyright-notice.png",
+      "caption": "Copyright notice"
+    },
+    {
+      "link": "/images/shots/l/939980-gilbert-s-challenge-atari-st-screenshot-starting-level-one.png",
+      "caption": "Starting level one"
+    },
+    {
+      "link": "/images/shots/l/939981-gilbert-s-challenge-atari-st-screenshot-selecting-that-marble.png",
+      "caption": "Selecting that marble wont do me any good since I cant move it"
+    },
+    {
+      "link": "/images/shots/l/939982-gilbert-s-challenge-atari-st-screenshot-game-over-the-time.png",
+      "caption": "Game over, the time ran out"
+    },
+    {
+      "link": "/images/shots/l/939984-gilbert-s-challenge-atari-st-screenshot-level-two.png",
+      "caption": "Level two"
+    },
+    {
+      "link": "/images/shots/l/939986-gilbert-s-challenge-atari-st-screenshot-i-wont-make-it.png",
+      "caption": "I wont make it"
+    },
+    {
+      "link": "/images/shots/l/939987-gilbert-s-challenge-atari-st-screenshot-the-high-score-table.png",
+      "caption": "The high score table is pretty empty right now"
+    },
+    {
+      "link": "/images/shots/l/939989-gilbert-s-challenge-atari-st-screenshot-this-level-is-a-bit.png",
+      "caption": "This level is a bit harder"
+    },
+    {
+      "link": "/images/shots/l/939990-gilbert-s-challenge-atari-st-screenshot-oh-got-a-high-score.png",
+      "caption": "Oh, got a high score!"
+    },
+    {
+      "link": "/images/shots/l/939991-gilbert-s-challenge-atari-st-screenshot-oh-so-close-so-close.png",
+      "caption": "Oh, so close, so close"
+    }
+  ],
+  "cover": []
+}

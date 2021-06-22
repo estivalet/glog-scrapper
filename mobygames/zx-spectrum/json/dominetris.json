@@ -1,0 +1,79 @@
+{
+  "name": "Dominetris",
+  "shortName": "dominetris",
+  "description": "<i>Dominetris</i> is a falling block puzzle game where the pieces are domino bricks. The bricks (which consist of two tiles) have to be positioned so that identical values are placed adjacent (either horizontally or vertically) to each other. To remove a cluster of tiles the number of them has to be the same as their value. So if their number is six, a group of six tiles has to be created. When a match is made they disappear and bricks above them fall down and take their place. The exception is the ones which are only removed when they are adjacent to another group of tiles that are removed. The difficulty can be changed by including more values. By default there are six values but this can be extended to nine. In the ZX81 version there is also a bomb brick that can be used to clear lots of tiles. ",
+  "publishedBy": "Cronosoft",
+  "developedBy": "",
+  "released": "2005",
+  "alsoFor": "ZX81 | Combined View",
+  "genre": "Puzzle",
+  "perspective": "",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/zx-spectrum/dominetris",
+  "visual": "",
+  "gamePlay": "Falling block puzzle",
+  "setting": "",
+  "release": [
+    {
+      "system": "ZX Spectrum",
+      "releases": [
+        {
+          "publisher": "Cronosoft",
+          "developer": "",
+          "ported": "",
+          "country": " Worldwide",
+          "releaseDate": "2005",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/675685-dominetris-zx-spectrum-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/675686-dominetris-zx-spectrum-screenshot-main-menu.png",
+      "caption": "Main menu"
+    },
+    {
+      "link": "/images/shots/l/675687-dominetris-zx-spectrum-screenshot-starting-out.png",
+      "caption": "Starting out"
+    },
+    {
+      "link": "/images/shots/l/675688-dominetris-zx-spectrum-screenshot-level-2.png",
+      "caption": "Level 2"
+    },
+    {
+      "link": "/images/shots/l/675689-dominetris-zx-spectrum-screenshot-game-over.png",
+      "caption": "Game over"
+    },
+    {
+      "link": "/images/shots/l/675690-dominetris-zx-spectrum-screenshot-it-s-also-possible-to-play.png",
+      "caption": "It's also possible to play digits instead of spots"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/280062-dominetris-zx-spectrum-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Electronic",
+      "country": "Worldwide",
+      "platforms": "ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/280063-dominetris-zx-spectrum-back-cover.png",
+      "scanOf": "Back Cover",
+      "packaging": "Electronic",
+      "country": "Worldwide",
+      "platforms": "ZX Spectrum"
+    }
+  ]
+}

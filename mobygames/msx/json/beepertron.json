@@ -1,0 +1,62 @@
+{
+  "name": "Beepertron",
+  "shortName": "beepertron",
+  "description": "Beepertron is a little musical game, reminiscent of the old electronic toy, Simon Says. The computer plays a short melody, up to 10 notes, on the on-screen piano, and then the player must play the same melody using the computer keyboard. After 7 false notes, the game is over.<br><br>The subtitle &quot;1 bit music game&quot; is due to the fact that the standard MSX sound generator isn't used, instead all tones are generated with the small keyclick circuit.",
+  "publishedBy": "",
+  "developedBy": "",
+  "released": "Dec 20, 2006",
+  "alsoFor": "",
+  "genre": "Educational",
+  "perspective": "",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/msx/beepertron",
+  "visual": "",
+  "gamePlay": "Music / rhythm, Timed input",
+  "setting": "",
+  "release": [
+    {
+      "system": "MSX",
+      "releases": []
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/206231-beepertron-msx-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/206232-beepertron-msx-screenshot-select-level-of-difficulty.png",
+      "caption": "Select level of difficulty"
+    },
+    {
+      "link": "/images/shots/l/206233-beepertron-msx-screenshot-the-computer-plays.png",
+      "caption": "The computer plays"
+    },
+    {
+      "link": "/images/shots/l/206234-beepertron-msx-screenshot-you-play.png",
+      "caption": "You play"
+    },
+    {
+      "link": "/images/shots/l/206235-beepertron-msx-screenshot-wrong-note.png",
+      "caption": "Wrong note!"
+    },
+    {
+      "link": "/images/shots/l/206236-beepertron-msx-screenshot-too-many-errors-game-over.png",
+      "caption": "Too many errors, game over"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/78570-beepertron-msx-front-cover.png",
+      "scanOf": "Front Cover",
+      "packaging": "Promotional",
+      "country": "Worldwide",
+      "platforms": "MSX"
+    }
+  ]
+}

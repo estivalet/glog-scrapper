@@ -1,0 +1,56 @@
+{
+  "name": "Rocky",
+  "shortName": "rocky__",
+  "description": "A rather simplistic <moby game=\"Boulder Dash\"><i>Boulder Dash</i></moby> clone, you play a pink-haired miner who has to collect all the diamonds on a fixed-screen level. You must avoid falling boulders, which squish you, or getting trapped, which results in you having to commit suicide, losing a life and starting the screen again. You have five lives and must complete all 20 levels. Each level is timed.<br><br>The puzzles involve you excavating sandy-coloured rock to reach pink, man-sized diamonds. If you excavate a section of sand beneath a boulder, the boulder falls, killing you if you remain beneath it. You can push boulders, providing there is empty space on the other side (a la <moby game=\"soko-ban\"><i>Sokoban</i></moby>), but you cannot pull them.<br><br>The game scores you 10 points per collected diamond, but there are no high scores available, nor is there anything after you complete the game. In fact, if you complete level 20 without creating a new level in the editor, the game will simply hang, forcing you to restart your Amiga. If you create new levels, you are only able to play them after you've completed the first 20 levels. Again, if you complete the last level you created (e.g. level 21), the game will simply crash as it tries to load the next level (e.g. level 22) and cannot find it. ",
+  "publishedBy": "King Size",
+  "developedBy": "Exodus-Soft",
+  "released": "1987",
+  "alsoFor": "",
+  "genre": "Action",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/amiga/rocky__",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade, Puzzle elements",
+  "setting": "",
+  "release": [
+    {
+      "system": "Amiga",
+      "releases": [
+        {
+          "publisher": "King Size",
+          "developer": "Exodus-Soft",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1987",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/893920-rocky-amiga-screenshot-loading-screen.png",
+      "caption": "Loading screen."
+    },
+    {
+      "link": "/images/shots/l/893921-rocky-amiga-screenshot-starting-level-one.png",
+      "caption": "Starting level one."
+    },
+    {
+      "link": "/images/shots/l/893922-rocky-amiga-screenshot-stuck-getting-the-last-two-gems.png",
+      "caption": "Stuck getting the last two gems."
+    },
+    {
+      "link": "/images/shots/l/893923-rocky-amiga-screenshot-game-over.png",
+      "caption": "Game over."
+    }
+  ],
+  "cover": []
+}

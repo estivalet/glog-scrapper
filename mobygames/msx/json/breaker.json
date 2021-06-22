@@ -1,0 +1,69 @@
+{
+  "name": "Breaker",
+  "shortName": "breaker",
+  "description": "Although it is a variant of the well-known Break-out, there are still some differences; One of them is that Breaker can be played with two bats. One bat is always at the bottom of the screen and can only move sideways. The other bat can move freely around the screen, but can not reach the bottom of the screen. The upper bat is the attacker sending the ball to the desired point, while the other one is the back up. If it is played by one player the second bat can be placed vertically; they always move sideways, only the upper one moves up and down. If it is played by two players each one gets one bat.<br><br>The other difference is the screen layout. Not only the screen is filled with special stones, but also with walls in different shapes that form a maze. Against these walls the ball just bounces, but if there is an opening at the top of the screen, allowing the ball to escape from the screen, the whole screen moves up a bit. While what is at the bottom of the image will disappear, a new piece appears at the top. At the bottom of the screen is the score, game level, the number of balls and the four bonus stones lights. <br><br>There are five different stones; the first one is the familiar, colorful type; depending on the color, it is worth many points or just a few points. The second is the action stone, characterized by an arrow. This one acts like a flipper-bumper and gives the ball a push in the direction indicated to confuse the player. The last is the shrinkage/expansion stone; if hit, the bats become bigger or smaller. You also have the bonus stones in four colors. If you always touch one of the bonus stones of the same color, a light with that color will light up or go out at the bottom of the image. If all four of the same color lights are on, the player gets an extra ball. The special stones causes that the attack bat temporarily disappears. <br><br>In the configuration screen the player(s) can set up the number of players and the controls; joystick, keyboard or mouse. The entire screen can also be moved with the controls.",
+  "publishedBy": "N.V. Philips Gloeilampenfabrieken",
+  "developedBy": "Radarsoft BV",
+  "released": "1987",
+  "alsoFor": "",
+  "genre": "Action",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/msx/breaker",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Paddle / Pong",
+  "setting": "",
+  "release": [
+    {
+      "system": "MSX",
+      "releases": [
+        {
+          "publisher": "N.V. Philips Gloeilampenfabrieken",
+          "developer": "Radarsoft BV",
+          "ported": "",
+          "country": " The Netherlands",
+          "releaseDate": "1987",
+          "ean13": "",
+          "comments": ""
+        },
+        {
+          "publisher": "Hot-B Co., Ltd.",
+          "developer": "Radarsoft BV",
+          "ported": "",
+          "country": " Japan",
+          "releaseDate": "1988",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/918694-breaker-msx-screenshot-loading-screen.png",
+      "caption": "Loading Screen"
+    },
+    {
+      "link": "/images/shots/l/918695-breaker-msx-screenshot-title-screen.png",
+      "caption": "Title Screen"
+    },
+    {
+      "link": "/images/shots/l/918696-breaker-msx-screenshot-demo.png",
+      "caption": "Demo"
+    },
+    {
+      "link": "/images/shots/l/918697-breaker-msx-screenshot-configuration-screen.png",
+      "caption": "Configuration Screen"
+    },
+    {
+      "link": "/images/shots/l/918698-breaker-msx-screenshot-explanation.png",
+      "caption": "Explanation"
+    }
+  ],
+  "cover": []
+}

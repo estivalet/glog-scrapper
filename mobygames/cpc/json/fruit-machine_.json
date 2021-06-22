@@ -1,0 +1,94 @@
+{
+  "name": "Fruit Machine",
+  "shortName": "fruit-machine_",
+  "description": "<i>Fruit Machine</i> is a slot machine simulator for one person.<br><br>The player starts with a stake of £5.00 and plays with stakes of £0.10 per spin. There is a single win-line and prizes are awarded when a spin leaves two or three matching symbols on it. There is a feature win which occurs when three stars are in view whether they are on a win line or not, and cash wins can be exchanged for nudges so that the player can build a better winning line.<br><br>The game automatically holds winning and potential winning lines, though these choices may be altered by the player.<br><br>Winnings may be gambled with the 'winner spinner feature. Here the player takes the chance to either increase of decrease their win. The game records two cash sums, the amount the player has spent and the amount the player has won. The game's high-score table is pre-populated with sums of £5.00 so the player must win more than they spend in a session in order to make an entry.<br><br>The game is entirely keyboard controlled.",
+  "publishedBy": "Amsoft",
+  "developedBy": "",
+  "released": "1984",
+  "alsoFor": "",
+  "genre": "Simulation",
+  "perspective": "1st-person",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/cpc/fruit-machine_",
+  "visual": "",
+  "gamePlay": "Casino / gambling",
+  "setting": "",
+  "release": [
+    {
+      "system": "Amstrad CPC",
+      "releases": [
+        {
+          "publisher": "Amsoft",
+          "developer": "",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1984",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/502444-fruit-machine-amstrad-cpc-screenshot-after-a-long-time-looking.png",
+      "caption": "After a long time looking at a 'Please Wait' screen the game's title screen is displayed. This is then followed by another 'Please Wait - Loading data' screen"
+    },
+    {
+      "link": "/images/shots/l/502445-fruit-machine-amstrad-cpc-screenshot-the-game-has-started.png",
+      "caption": "The game has started. Three spins have been made, nothing has been won. Reels 1 &amp; 2 have been held automatically. Only reel 2 is spinning"
+    },
+    {
+      "link": "/images/shots/l/502446-fruit-machine-amstrad-cpc-screenshot-here-all-three-reels.png",
+      "caption": "Here all three reels are in play"
+    },
+    {
+      "link": "/images/shots/l/502447-fruit-machine-amstrad-cpc-screenshot-here-two-strawberries.png",
+      "caption": "Here two strawberries are on the winning line. The win is &pound;0.20 which can be gambled for either &pound;0.10 or &pound;0.30"
+    },
+    {
+      "link": "/images/shots/l/502449-fruit-machine-amstrad-cpc-screenshot-there-s-a-chance-of-three.png",
+      "caption": "There's a chance of three stars here so the game automatically held reels 2 &amp; 3"
+    },
+    {
+      "link": "/images/shots/l/502450-fruit-machine-amstrad-cpc-screenshot-stars-do-not-have-to.png",
+      "caption": "Stars do not have to be on the win line "
+    },
+    {
+      "link": "/images/shots/l/502451-fruit-machine-amstrad-cpc-screenshot-the-game-often-but-not.png",
+      "caption": "The game often, but not always, holds after a win"
+    },
+    {
+      "link": "/images/shots/l/502448-fruit-machine-amstrad-cpc-screenshot-the-pre-populated-high.png",
+      "caption": "The pre-populated high score table"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/214298-fruit-machine-amstrad-cpc-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "Amstrad CPC"
+    },
+    {
+      "link": "/images/covers/l/214297-fruit-machine-amstrad-cpc-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "Amstrad CPC"
+    },
+    {
+      "link": "/images/covers/l/214296-fruit-machine-amstrad-cpc-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "Amstrad CPC"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "name": "Snapper",
+  "shortName": "snapper",
+  "description": "<i>Snapper</i> has a quite convoluted history. It started out as a faithful <i><a href=\"https://www.mobygames.com/search/quick?game=Pac-Man\">Pac-Man</a></i> clone, and was even called &quot;Pacman&quot; straight until it was released, when the name was changed to Snapper to avoid infringing on Namco's copyright. Nevertheless, this simple name change wasn't enough, and subsequent releases saw the sprites changed from the well-known yellow circle and chasing ghosts to a yellow ball with legs and a hat, chased by humanoids.<br><br>One gameplay change compared to the original <i>Pac-Man</i> is the behaviour of the ghosts (or humanoids). Wherewas they all have distinct movement patterns in the original, here they behave the same, each patrolling one corner of the maze, but are let out of their pen in the centre of the screen at different times, with the red one being let out first. As in the original, there are bonus fruits appearing on each level, with the final one being – fittingly – an acorn.",
+  "publishedBy": "Acornsoft Limited",
+  "developedBy": "Acornsoft Limited",
+  "released": "1983",
+  "alsoFor": "BBC Micro | Combined View",
+  "genre": "Action",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/electron/snapper",
+  "visual": "",
+  "gamePlay": "Arcade",
+  "setting": "",
+  "release": [
+    {
+      "system": "Electron",
+      "releases": [
+        {
+          "publisher": "Acornsoft Limited",
+          "developer": "Acornsoft Limited",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1983",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "https://www.mobygames.com/images/shots/l/648960-snapper-electron-screenshot-loading-screen.png",
+      "caption": "Loading screen"
+    },
+    {
+      "link": "/images/shots/l/648961-snapper-electron-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/648962-snapper-electron-screenshot-ready.png",
+      "caption": "Ready!"
+    },
+    {
+      "link": "/images/shots/l/648963-snapper-electron-screenshot-eating-dots.png",
+      "caption": "Eating dots"
+    },
+    {
+      "link": "/images/shots/l/648965-snapper-electron-screenshot-the-red-one-is-locked-inside-the.png",
+      "caption": "The red one is locked inside the pen since I just ate him"
+    },
+    {
+      "link": "/images/shots/l/648966-snapper-electron-screenshot-killed-by-a-ghost.png",
+      "caption": "Killed by a &quot;ghost&quot;"
+    },
+    {
+      "link": "/images/shots/l/648967-snapper-electron-screenshot-snappy-scores.png",
+      "caption": "Snappy scores"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/319342-snapper-electron-front-cover.png",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "United Kingdom",
+      "platforms": "Electron"
+    },
+    {
+      "link": "/images/covers/l/319343-snapper-electron-back-cover.png",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "United Kingdom",
+      "platforms": "Electron"
+    },
+    {
+      "link": "/images/covers/l/319344-snapper-electron-media.png",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "United Kingdom",
+      "platforms": "Electron"
+    }
+  ]
+}

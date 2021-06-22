@@ -1,0 +1,64 @@
+{
+  "name": "Pensate",
+  "shortName": "pensate",
+  "description": "<i>Pensate</i> is a strategy game where the player has to move his castle across a checkerboard, from the bottom to the top. The game is turn based and for each turn the player gives instructions on how the castle should move. Number of moves that can be made in a turn is decided before the start of a new game (one to four). The player can move in four directions, up, down, left and right. To reach the top the player has to avoid ten different types of enemies who move around the board at the same time as the player. They differ in the way they move around the board. The most basic enemies can move one step at a time in a specific direction, while others make the opposite move of the player. So if the player moves north, the enemy moves south. Some enemies matches the player's move but turn them a certain amount of degrees clockwise or counterclockwise. Another enemy moves like a chess knight and jumps to a non-adjacent square via an L-shaped path. <br><br>The game has two play modes; practice and tournament. In the practice mode the player creates his own selection of enemies to play against while in the tournament mode he plays pre-made levels. The tournament is round based and for each round the player faces more and tougher enemies. The game is playable by one or two players. In a two player game one player starts at the top and has to move to the bottom. ",
+  "publishedBy": "Penguin Software, Inc.",
+  "developedBy": "",
+  "released": "1984",
+  "alsoFor": "Apple II, Commodore 64, Macintosh | Combined View",
+  "genre": "Puzzle",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-8-bit/pensate",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Board game",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari 8-bit",
+      "releases": [
+        {
+          "publisher": "Penguin Software, Inc.",
+          "developer": "",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1984",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/592181-pensate-atari-8-bit-screenshot-instructions.png",
+      "caption": "Instructions"
+    },
+    {
+      "link": "/images/shots/l/592182-pensate-atari-8-bit-screenshot-starting-position.png",
+      "caption": "Starting position"
+    },
+    {
+      "link": "/images/shots/l/592183-pensate-atari-8-bit-screenshot-success.png",
+      "caption": "Success!"
+    },
+    {
+      "link": "/images/shots/l/592184-pensate-atari-8-bit-screenshot-getting-caught.png",
+      "caption": "Getting caught"
+    },
+    {
+      "link": "/images/shots/l/592185-pensate-atari-8-bit-screenshot-two-player-mode.png",
+      "caption": "Two player mode"
+    },
+    {
+      "link": "/images/shots/l/592186-pensate-atari-8-bit-screenshot-practice-mode.png",
+      "caption": "Practice mode"
+    }
+  ],
+  "cover": []
+}

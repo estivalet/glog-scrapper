@@ -1,0 +1,68 @@
+{
+  "name": "MazezaM Challenge",
+  "shortName": "mazezam-challenge",
+  "description": "<i>MazezaM Challenge</i> is a puzzle game and a remake of the 2002 <a href=\"https://www.mobygames.com/game/mazezam\">MazezaM</a> originally created by <a href=\"https://www.mobygames.com/developer/sheet/view/developerId,1017364/\">Malcolm Tyrrell</a> for the ZX Spectrum. It was first created as a SNES homebrew game for the 2012 Neo Coding Compo which it won. Initially released as a ROM, it was later made available on a cartridge as well.<br><br>The game builds on the concept of <a href=\"https://www.mobygames.com/game/soko-ban\">Soko-Ban</a> puzzles. It consists of fixed-screen levels where objects need to be moved to reach the exit. The SNES version contains 33 levels and the ColecoVision 30. There is very little room to manoeuvre and usually only a single way to solve the puzzle. Usually there are two, three or more rows that contain objects. When there is room to do so, an object can be moved left or right, which causes the entire row to move. This is different from <i>Soko-Ban</i> where only a single block is moved. A combination of these moves is required to move vertically between the open spaces that are created to make way to the right and reach the exit.<br><br>Notable elements for this remake include an entirely new graphic style with pixel art and a password system. Only the left and right keys are used to move the character. A button can be used to reset the level, but this costs a life as this version also introduces a lives system. Three lives are provided at the start of the game.",
+  "publishedBy": "Piko Interactive LLC",
+  "developedBy": "PortableDev",
+  "released": "2013",
+  "alsoFor": "ColecoVision | Combined View",
+  "genre": "Puzzle",
+  "perspective": "Bird's-eye view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/snes/mazezam-challenge",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "",
+  "setting": "",
+  "release": [
+    {
+      "system": "SNES",
+      "releases": [
+        {
+          "publisher": "Piko Interactive LLC",
+          "developer": "PortableDev",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "2013",
+          "ean13": "",
+          "comments": "cartridge version (CollectorVision Games mail order release)"
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/999140-mazezam-challenge-snes-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/999141-mazezam-challenge-snes-screenshot-world-map.png",
+      "caption": "World map"
+    },
+    {
+      "link": "/images/shots/l/999142-mazezam-challenge-snes-screenshot-level-1.png",
+      "caption": "Level 1"
+    },
+    {
+      "link": "/images/shots/l/999143-mazezam-challenge-snes-screenshot-level-2.png",
+      "caption": "Level 2"
+    },
+    {
+      "link": "/images/shots/l/999144-mazezam-challenge-snes-screenshot-level-3.png",
+      "caption": "Level 3"
+    },
+    {
+      "link": "/images/shots/l/999145-mazezam-challenge-snes-screenshot-level-4.png",
+      "caption": "Level 4"
+    },
+    {
+      "link": "/images/shots/l/999146-mazezam-challenge-snes-screenshot-game-over.png",
+      "caption": "Game over"
+    }
+  ],
+  "cover": []
+}

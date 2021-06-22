@@ -1,0 +1,72 @@
+{
+  "name": "No Name",
+  "shortName": "no-name",
+  "description": "<em>No Name</em> is a game in which you are controlling a bubble with the joystick on the quest to explore rooms and find an exit of a labyrinth. The bubble can be controlled by pressing the button and the joystick up, but without constantly pressing up the bubble is loosing height. Gaining height costs energy and you should avoid running out if the power to control your bubble. Any contact with the walls or obstacles causes the player to loose one of it's five lives. There are doors which constantly open or closes, switches to press to open other doors, and teleporters bringing you to other rooms. Overall there are 27 rooms.<br><br>After the player lost all the lives, a statistics about the percentage of explored rooms is displayed and - if enough points are scored - an entry in the high-score table can be reached. There is a continue function allowing to start a new game at the room the last was lost in the previous game.<br><br>The game is written in GFA Basic and the source code is also available on the disk.",
+  "publishedBy": "Motelsoft",
+  "developedBy": "Motelsoft",
+  "released": "1989",
+  "alsoFor": "",
+  "genre": "Action",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-st/no-name",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari ST",
+      "releases": [
+        {
+          "publisher": "Motelsoft",
+          "developer": "Motelsoft",
+          "ported": "",
+          "country": " Germany",
+          "releaseDate": "1989",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/803388-no-name-atari-st-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/803389-no-name-atari-st-screenshot-you-control-the-bubble-left-below.png",
+      "caption": "You control the bubble left. Below is a teleporter"
+    },
+    {
+      "link": "/images/shots/l/803390-no-name-atari-st-screenshot-using-the-teleporter-brings-us.png",
+      "caption": "Using the teleporter brings us to room number 6"
+    },
+    {
+      "link": "/images/shots/l/803391-no-name-atari-st-screenshot-the-door-left-is-turning-on-and.png",
+      "caption": "The door left is turning on and off. Passing it allows access to the switch, turning off the door on the upper right"
+    },
+    {
+      "link": "/images/shots/l/803392-no-name-atari-st-screenshot-passed-that-door-and-found-a-room.png",
+      "caption": "Passed that door and found a room with the next switch. What may it disable or activate?"
+    },
+    {
+      "link": "/images/shots/l/803393-no-name-atari-st-screenshot-you-can-continue-games.png",
+      "caption": "You can continue games"
+    },
+    {
+      "link": "/images/shots/l/803394-no-name-atari-st-screenshot-i-reached-the-high-score-table.png",
+      "caption": "I reached the high-score table"
+    },
+    {
+      "link": "/images/shots/l/803395-no-name-atari-st-screenshot-the-high-score-table-itself.png",
+      "caption": "The high-score table itself"
+    }
+  ],
+  "cover": []
+}

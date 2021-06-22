@@ -1,0 +1,79 @@
+{
+  "name": "Palamedes",
+  "shortName": "palamedes",
+  "description": "The goal of Palamedes is to clear the screen which is, line by line, filling up with dice. Players control a small person situated near the bottom of the screen, who can only be moved to the left or right. The number of the dice the person is holding can be changed with the B button, pressing the A button will shoot the dice upwards. If the die hits another one with a matching number, the targeted dice disappears from the playing area and is added to a column at the bottom of the screen. Pressing down after lining up at least three dice of either the same number or consecutive numbers in the bottom row will destroy up to five lines at once.<br><br>There are three modes of play: The standard single player mode, which requires the player to destroy a set number of lines in order to advance to the next stage; a tournament mode in which the player has to duel a number of CPU-controlled opponents and a two player mode.",
+  "publishedBy": "Hot-B Co., Ltd.",
+  "developedBy": "Taito Corporation",
+  "released": "Oct 12, 1990",
+  "alsoFor": "Arcade, FM Towns, MSX, NES | Combined View",
+  "genre": "Puzzle",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/gameboy/palamedes",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Tile matching puzzle",
+  "setting": "",
+  "release": [
+    {
+      "system": "Game Boy",
+      "releases": [
+        {
+          "publisher": "Hot-B Co., Ltd.",
+          "developer": "Taito Corporation",
+          "ported": "Natsu System",
+          "country": " Japan",
+          "releaseDate": "Oct 12, 1990",
+          "ean13": "4 967948 000355",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/234503-palamedes-game-boy-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/234504-palamedes-game-boy-screenshot-selecting-the-level-speed-for.png",
+      "caption": "Selecting the level (speed) for a standard single player game."
+    },
+    {
+      "link": "/images/shots/l/234505-palamedes-game-boy-screenshot-beginning-a-game.png",
+      "caption": "Beginning a game"
+    },
+    {
+      "link": "/images/shots/l/234506-palamedes-game-boy-screenshot-clearing-three-lines-at-once.png",
+      "caption": "Clearing three lines at once"
+    },
+    {
+      "link": "/images/shots/l/234507-palamedes-game-boy-screenshot-entering-the-tournament.png",
+      "caption": "Entering the tournament"
+    },
+    {
+      "link": "/images/shots/l/234508-palamedes-game-boy-screenshot-dueling-the-cpu.png",
+      "caption": "Dueling the CPU"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/103537-palamedes-game-boy-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "Germany",
+      "platforms": "Game Boy"
+    },
+    {
+      "link": "/images/covers/l/119915-palamedes-game-boy-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "Japan",
+      "platforms": "Game Boy"
+    }
+  ]
+}

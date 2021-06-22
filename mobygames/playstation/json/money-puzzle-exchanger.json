@@ -1,0 +1,75 @@
+{
+  "name": "Money Puzzle Exchanger",
+  "shortName": "money-puzzle-exchanger",
+  "description": "<i>Money Puzzle Exchanger</i> is a puzzle game similar to <a href=\"https://www.mobygames.com/search/quick?gamegroup=Magical+Drop\">Magical Drop</a> only with coins. It was originally created by <a href=\"https://www.mobygames.com/search/quick?company=FACE\">FACE</a> and released for the Neo Geo arcade cabinets.<br><br>You can move the mini character at the bottom of the screen left or right, grab coins and drop them somewhere else. There are six types of coins: 1, 5, 10, 50, 100 and 500. The goal is to form connecting groups of coins. Coins are combined (vertically and/or horizontally) to form higher valued coins. For example, if you put five 1 coins together, they will disappear and form one 5 coin. Two 5's make one 10, five 10's make one 50 etc. Two 500 coins put together just disappear and give you 1000 points.<br><br>The game is lost when coins reach the bottom of the playing area. You can make chain reactions to launch attacks to the other player in vs-mode, or just for bonus points in single player.",
+  "publishedBy": "Athena Co., Ltd.",
+  "developedBy": "FACE",
+  "released": "Nov 05, 1998",
+  "alsoFor": "Arcade, Game Boy, Nintendo Switch, PlayStation 3, PlayStation 4, PSP, PS Vita, Windows Apps, Xbox One | Combined View",
+  "genre": "Action, Puzzle",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/playstation/money-puzzle-exchanger",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Tile matching puzzle",
+  "setting": "",
+  "release": [
+    {
+      "system": "PlayStation",
+      "releases": [
+        {
+          "publisher": "Athena Co., Ltd.",
+          "developer": "FACE",
+          "ported": "Santos Ltd.",
+          "country": " Japan",
+          "releaseDate": "Nov 05, 1998",
+          "ean13": "4 988679 200098",
+          "comments": "Reprint"
+        }
+      ]
+    }
+  ],
+  "shot": [],
+  "cover": [
+    {
+      "link": "/images/covers/l/275939-money-puzzle-exchanger-playstation-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Jewel Case",
+      "country": "Japan",
+      "platforms": "PlayStation"
+    },
+    {
+      "link": "/images/covers/l/275940-money-puzzle-exchanger-playstation-inside-cover.jpg",
+      "scanOf": "Inside Cover",
+      "packaging": "Jewel Case",
+      "country": "Japan",
+      "platforms": "PlayStation"
+    },
+    {
+      "link": "/images/covers/l/275941-money-puzzle-exchanger-playstation-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Jewel Case",
+      "country": "Japan",
+      "platforms": "PlayStation"
+    },
+    {
+      "link": "/images/covers/l/275942-money-puzzle-exchanger-playstation-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Jewel Case",
+      "country": "Japan",
+      "platforms": "PlayStation"
+    },
+    {
+      "link": "/images/covers/l/275943-money-puzzle-exchanger-playstation-other.jpg",
+      "scanOf": "Other",
+      "packaging": "Jewel Case",
+      "country": "Japan",
+      "platforms": "PlayStation"
+    }
+  ]
+}

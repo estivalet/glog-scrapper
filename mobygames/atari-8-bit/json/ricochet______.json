@@ -1,0 +1,82 @@
+{
+  "name": "Ricochet",
+  "shortName": "ricochet______",
+  "description": "A strategy game that can be played by two players or one player versus the computer.<br><br>The game consists of a rectangular board with a launcher in each of the four corners.  The launchers are only able to fire a shot on a 45-degree angle, and the first player can only fire from the left launchers, while the second player can only fire from the right.  Each player controls two launchers, and each launcher has a finite number of turns.  The horizontal walls consist of bumpers, which always deflect a shot at a 90 degree angle. <br><br>Each player also controls 6 &quot;chessmen&quot; which are positioned by the computer at the beginning of each game.  The purpose of these pieces is to deflect the opponent's shot or to help the player gain more points. Every turn, the player can fire one shot or move one chessman.  The shot turn ends when the shot goes off the board, hits a launcher, or hits a target.  Players are rewarded more points if they have more bounces before their turn ends.  When a launcher is hit, it is disabled for 2 turns.  Each turn is timed, and players receive more points if they act quickly.  <br><br>Players take turns until all launch shots are used.  At the end of each game, the computer will slightly modify the board to make the next round slightly more advantageous to the loser to ensure a continued challenge between players.  <br><br>There are 5 separate variants of gameplay.",
+  "publishedBy": "Epyx, Inc.",
+  "developedBy": "",
+  "released": "1981",
+  "alsoFor": "Apple II, TRS-80, VIC-20 | Combined View",
+  "genre": "Strategy / tactics",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-8-bit/ricochet______",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Timed input",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari 8-bit",
+      "releases": [
+        {
+          "publisher": "Epyx, Inc.",
+          "developer": "",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1981",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [],
+  "cover": [
+    {
+      "link": "/images/covers/l/523080-ricochet-atari-8-bit-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Atari 8-bit"
+    },
+    {
+      "link": "/images/covers/l/523081-ricochet-atari-8-bit-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Atari 8-bit"
+    },
+    {
+      "link": "/images/covers/l/619351-ricochet-atari-8-bit-spine-sides.jpg",
+      "scanOf": "Spine/Sides",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Atari 8-bit"
+    },
+    {
+      "link": "/images/covers/l/619354-ricochet-atari-8-bit-spine-sides.jpg",
+      "scanOf": "Spine/Sides",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Atari 8-bit"
+    },
+    {
+      "link": "/images/covers/l/619353-ricochet-atari-8-bit-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Atari 8-bit"
+    },
+    {
+      "link": "/images/covers/l/619352-ricochet-atari-8-bit-manual.jpg",
+      "scanOf": "Manual",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Atari 8-bit"
+    }
+  ]
+}

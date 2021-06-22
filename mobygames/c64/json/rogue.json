@@ -1,0 +1,78 @@
+{
+  "name": "Rogue",
+  "shortName": "rogue",
+  "description": "<i>Rogue</i> is a turn-based dungeon crawler in which the player controls an adventurer who must explore the dangerous Dungeon of Doom in order to retrieve the precious Amulet of Yendor and make it out alive. The player character starts on the upper-most level and slowly makes his way downwards.<br><br>The game uses ASCII characters to represent locations, items, monsters, and the protagonist himself. There are twenty-six different types of monsters, symbolized by their initial letters (e.g. L for Leprechaun). Monsters have different abilities and modes of attack. The dungeon and the items in it are randomly generated each time the player begins a new game. Each dungeon level contains a grid of three by three rooms and dead ends. <br><br>Levels get progressively more complex and maze-like, and monsters grow in strength the deeper the hero ventures into the dungeon. The player character can acquire better weapons and armor, gain experience points and level up. Should the protagonist perish in the dungeon, the player must restart the game anew.",
+  "publishedBy": "Mastertronic Ltd.",
+  "developedBy": "",
+  "released": "1988",
+  "alsoFor": "Amiga, Amstrad CPC, Android, Atari 8-bit, Atari ST, DOS, GP2X, GP32, Linux, Macintosh, Mainframe, PC-88, PC-98, Roku, TRS-80 CoCo, Windows, ZX Spectrum | Combined View",
+  "genre": "Role-Playing (RPG)",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/rogue",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Roguelike",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "Mastertronic Ltd.",
+          "developer": "",
+          "ported": "Icon Design Ltd.",
+          "country": " France, Germany, Italy, United Kingdom",
+          "releaseDate": "1988",
+          "ean13": "5 012967 101206",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/326891-rogue-commodore-64-screenshot-title-screen-and-enter-player.png",
+      "caption": "Title screen and enter player name"
+    },
+    {
+      "link": "/images/shots/l/326892-rogue-commodore-64-screenshot-welcome-to-the-dungeon-of-doom.png",
+      "caption": "Welcome to the Dungeon of Doom"
+    },
+    {
+      "link": "/images/shots/l/326893-rogue-commodore-64-screenshot-i-found-74-gold-pieces.png",
+      "caption": "I found 74 gold pieces."
+    },
+    {
+      "link": "/images/shots/l/326894-rogue-commodore-64-screenshot-a-monster.png",
+      "caption": "A monster!"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/91462-rogue-commodore-64-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Cassette Case",
+      "country": "France , Germany , Italy  and United Kingdom",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/91463-rogue-commodore-64-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Cassette Case",
+      "country": "France , Germany , Italy  and United Kingdom",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/91464-rogue-commodore-64-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Cassette Case",
+      "country": "France , Germany , Italy  and United Kingdom",
+      "platforms": "Commodore 64"
+    }
+  ]
+}

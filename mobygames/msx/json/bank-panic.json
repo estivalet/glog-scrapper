@@ -1,0 +1,72 @@
+{
+  "name": "Bank Panic",
+  "shortName": "bank-panic",
+  "description": "As a gunslinger, it's your job to protect a bank from bandits while taking care not to shoot innocent customers. The bank has 12 doors in front of 12 teller windows, with only three doors visible at a time. Shooting is done simply by pressing one of the three buttons to shoot the left, middle or right door. The player can move his viewpoint left and right to reveal new doors. People only appear behind the doors that are currently visible on screen, except for the rare outlaws who will pop up to steal a cash deposit from a teller window the player isn't watching. Indicators at the top of the screen show how much time it will take before someone will show up at a door. <br><br>If a bandit appears behind a door, you have only a few seconds to shoot him before he shoots you. If you shoot him too early (i.e. before he sticks his gun out at you), it is considered unfair and gives very little score, but if you're too late, he'll shoot you and you lose one of your three lives. Sometimes a bandit will stick dynamite on one of the doors. You must then shoot the dynamite to get rid of it. If you take too long, the bomb explodes (even if it's offscreen) and you lose a life. <br><br>If you're lucky, a customer will appear behind the door and deposit a bag of gold coins. If you shoot any of these people by accident, you also lose a life. Sometimes a bandit will suddenly take the customer hostage and replace them in the door. <br><br>At other times, a cowboy will appear with a stack of hats. Shooting off all the hats before the door closes grants a cash deposit and a big score bonus. Others will be tied up with rope. If you shoot the rope, there's more money for you, because not only will you receive one bag of gold coins, but you'll get three bags of gold coins. <br><br>There are more than ten rounds in <i>Bank Panic</i>, and each one ends when a person behind all 12 doors was able to throw you a bag of gold coins. The rounds get difficult the further you get. For example, in later rounds, a few bandits will block your shot, and you have to then shoot twice. Also, regardless of what round you're on, there is a time limit.",
+  "publishedBy": "Pony Canyon, Inc.",
+  "developedBy": "Sanritsu Denki Co., Ltd.",
+  "released": "1986",
+  "alsoFor": "Arcade, SEGA Master System, SG-1000 | Combined View",
+  "genre": "Action",
+  "perspective": "1st-person",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/msx/bank-panic",
+  "visual": "",
+  "gamePlay": "Shooter",
+  "setting": "",
+  "release": [
+    {
+      "system": "MSX",
+      "releases": [
+        {
+          "publisher": "Pony Canyon, Inc.",
+          "developer": "Sanritsu Denki Co., Ltd.",
+          "ported": "",
+          "country": " Japan",
+          "releaseDate": "1986",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/130734-bank-panic-msx-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/130735-bank-panic-msx-screenshot-most-wanted.png",
+      "caption": "Most Wanted"
+    },
+    {
+      "link": "/images/shots/l/130736-bank-panic-msx-screenshot-intro-screen.png",
+      "caption": "Intro screen"
+    },
+    {
+      "link": "/images/shots/l/130737-bank-panic-msx-screenshot-start-screen.png",
+      "caption": "Start screen"
+    },
+    {
+      "link": "/images/shots/l/130738-bank-panic-msx-screenshot-the-robber-is-behind-one-of-these.png",
+      "caption": "The robber is behind one of these doors"
+    },
+    {
+      "link": "/images/shots/l/130739-bank-panic-msx-screenshot-don-t-shoot-the-hostages.png",
+      "caption": "Don't shoot the hostages!"
+    },
+    {
+      "link": "/images/shots/l/130740-bank-panic-msx-screenshot-collect-the-money.png",
+      "caption": "Collect the money"
+    },
+    {
+      "link": "/images/shots/l/130741-bank-panic-msx-screenshot-don-t-you-dear-to-shoot-grandpa.png",
+      "caption": "Don't you dear to shoot grandpa and grandma!"
+    }
+  ],
+  "cover": []
+}

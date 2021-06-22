@@ -1,0 +1,72 @@
+{
+  "name": "Artillery Duel",
+  "shortName": "artillery-duel",
+  "description": "In this two player game each player controls an artillery gun set in a mountain landscape with the goal of destroying the other player. Players take turns firing at each other; on each turn you have a limited amount of time in which the barrel angle and powder level can be set in order to control the direction and distance of the shot. When deciding on your shot, you will need to take the current conditions into account, which includes wind speed/direction and any mountains that may get in your way. Successfully destroying your opponents gun will earn you a point, and the first player to reach the set number of points wins the game. There are multiple skill levels available which set the amount of time you have to make a shot.",
+  "publishedBy": "Xonox",
+  "developedBy": "Perkins Engineering",
+  "released": "1983",
+  "alsoFor": "Atari 2600, Bally Astrocade, Commodore 64, VIC-20 | Combined View",
+  "genre": "Strategy / tactics",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/colecovision/artillery-duel",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Artillery",
+  "setting": "",
+  "release": [
+    {
+      "system": "ColecoVision",
+      "releases": [
+        {
+          "publisher": "Xonox",
+          "developer": "Perkins Engineering",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1983",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/92559-artillery-duel-colecovision-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/92560-artillery-duel-colecovision-screenshot-you-can-set-the-skill.png",
+      "caption": "You can set the skill level for each player"
+    },
+    {
+      "link": "/images/shots/l/92561-artillery-duel-colecovision-screenshot-a-game-in-progress.png",
+      "caption": "A game in progress"
+    },
+    {
+      "link": "/images/shots/l/92563-artillery-duel-colecovision-screenshot-a-hit-score-is-now-1.png",
+      "caption": "A hit! Score is now 1 - 1"
+    },
+    {
+      "link": "/images/shots/l/92564-artillery-duel-colecovision-screenshot-a-shot-flying-through.png",
+      "caption": "A shot flying through the air"
+    },
+    {
+      "link": "/images/shots/l/92565-artillery-duel-colecovision-screenshot-there-are-a-variety.png",
+      "caption": "There are a variety of different landscapes to deal with"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/93024-artillery-duel-colecovision-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "ColecoVision"
+    }
+  ]
+}

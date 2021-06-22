@@ -1,0 +1,93 @@
+{
+  "name": "Norseman",
+  "shortName": "norseman",
+  "description": "In <i>Norseman</i> the player controls a Viking warrior trying to defend the magic Golden Viking Helmet.<br><br>The screen shows a courtyard divided in hexagons. The player has to protect the Golden Viking Helmet, which is at the bottom of the screen, from the attack of five different kinds of enemies. Each wave of enemies is composed of 5 of them. The enemies will appear in the top of the screen and will move toward the bottom of the screen; they can only move down (or diagonally down), and once they reach the bottom or the side of the screen they will reappear on the top or the opposite side. The Viking can move in all six directions, and will also reappear on the opposite side whenever he reaches the border. In order to attack, the Viking has to move inside the hexagon the enemy is in before the enemy moves against him first. As the enemies can only move downwards, approaching them from the 3 upper sides is advised.<br><br>When an enemy dies, the corpse remains in the hexagon, making it impossible to move through it. Well placed corpses can function as a trap for other enemies, as they can only move downwards. The player can also get trapped by surrounding corpses. Once all 5 enemies are dead, a new wave of enemies comes. Each new wave has different enemies, in the following order: giants, octopuses, dragons, skeletons and bats. Once all waves are beaten, the game restarts from the first wave in a greater difficulty, while retaining the player's score. If the player dies or the Golden Viking Helmet is stolen, the game is over.<br><br>The game has 10 variations:\n<ul><li>Game 0: 1 helmet, monsters moving from top to bottom only.</li>\n<li>Game 1: 2 helmets, monsters moving from top to bottom only. </li>\n<li>Game 2: 3 helmets, monsters moving from top to bottom only.</li>\n<li>Game 3: Same as game 0, but this time the Viking warrior can only attack a monster when it appears in flashing, bright red.</li>\n<li>Game 4: As game 1, but this time the Viking warrior can only attack a monster when it appears in flashing, bright red.</li>\n<li>Game 5: As game 2, but this time the Viking warrior can only attack a monster when it appears in flashing, bright red.</li>\n<li>Game 6: 1 helmet, monsters will come from all directions: two monsters moving from top to bottom, and one each from left to right, from right to left and from the bottom to the top. Monsters can stumble onto one single dead colleague and thus commit suicide.</li>\n<li>Game 7: Same as game 6, but with 2 helmets.</li>\n<li>Game 8: As game 6, but with 3 helmets.</li>\n<li>Game 9: This variety combines all handicaps of the previous nine varieties: 3 helmets, monsters coming from all directs and the flashing red monsters.</li></ul>",
+  "publishedBy": "Electric Software Limited",
+  "developedBy": "GST Video",
+  "released": "1984",
+  "alsoFor": "Philips VG 5000, Videopac+ G7400 | Combined View",
+  "genre": "Action, Strategy / tactics",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/msx/norseman",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "",
+  "setting": "",
+  "release": [
+    {
+      "system": "MSX",
+      "releases": [
+        {
+          "publisher": "Electric Software Limited",
+          "developer": "GST Video",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1984",
+          "ean13": "",
+          "comments": ""
+        },
+        {
+          "publisher": "Philips Export B.V.",
+          "developer": "GST Video",
+          "ported": "",
+          "country": " The Netherlands",
+          "releaseDate": "1984",
+          "ean13": "",
+          "comments": "VG8301"
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/717187-norseman-msx-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/717185-norseman-msx-screenshot-options.png",
+      "caption": "Options"
+    },
+    {
+      "link": "/images/shots/l/717186-norseman-msx-screenshot-starting-out.png",
+      "caption": "Starting out"
+    },
+    {
+      "link": "/images/shots/l/717189-norseman-msx-screenshot-fighting-with-a-monster.png",
+      "caption": "Fighting with a monster"
+    },
+    {
+      "link": "/images/shots/l/717191-norseman-msx-screenshot-the-monster-is-dead.png",
+      "caption": "The monster is dead"
+    },
+    {
+      "link": "/images/shots/l/717194-norseman-msx-screenshot-all-but-one-down.png",
+      "caption": "All but one down"
+    },
+    {
+      "link": "/images/shots/l/717195-norseman-msx-screenshot-all-monsters-killed.png",
+      "caption": "All monsters killed"
+    },
+    {
+      "link": "/images/shots/l/717196-norseman-msx-screenshot-on-to-the-next-wave-this-time-it-s.png",
+      "caption": "On to the next wave; this time, it's octopus monsters"
+    },
+    {
+      "link": "/images/shots/l/717197-norseman-msx-screenshot-you-die.png",
+      "caption": "You die"
+    },
+    {
+      "link": "/images/shots/l/717193-norseman-msx-screenshot-the-developer-s-name-flashes-by-if.png",
+      "caption": "The developer's name flashes by if you die"
+    },
+    {
+      "link": "/images/shots/l/717190-norseman-msx-screenshot-highest-difficulty-level.png",
+      "caption": "Highest difficulty level (?)"
+    }
+  ],
+  "cover": []
+}

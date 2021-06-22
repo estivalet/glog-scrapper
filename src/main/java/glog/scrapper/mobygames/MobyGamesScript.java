@@ -20,6 +20,7 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
 import glog.util.IOUtil;
+import glog.util.URLGrabber;
 import glog.util.XMLUtil;
 import glog.util.XMLWrapper;
 import glog.util.XPathParser;
@@ -126,10 +127,10 @@ public class MobyGamesScript {
 		String description = contents.substring(i + 16, j);
 		game.setDescription(description);
 
-		String[] infos = { "Published by", "Developed by", "Released", "Also For", "Genre", "Perspective", "Theme", "Non-Sport", "Sport", "Misc", "Country",
-				"Release Date", "Visual", "Gameplay", "setting" };
-		String[] attrs = { "publishedBy", "developedBy", "released", "alsoFor", "genre", "perspective", "theme", "nonSport", "sport", "misc", "country",
-				"releaseDate", "visual", "gamePlay", "setting" };
+		String[] infos = { "Published by", "Developed by", "Released", "Also For", "Genre", "Perspective", "Theme",
+				"Non-Sport", "Sport", "Misc", "Country", "Release Date", "Visual", "Gameplay", "setting" };
+		String[] attrs = { "publishedBy", "developedBy", "released", "alsoFor", "genre", "perspective", "theme",
+				"nonSport", "sport", "misc", "country", "releaseDate", "visual", "gamePlay", "setting" };
 		for (i = 0; i < infos.length; i++) {
 			String info = xp.parse("//div[.='" + infos[i] + "']/following::div[1]");
 			// The unicode character \u0160 is not a non-breaking space.
@@ -163,9 +164,11 @@ public class MobyGamesScript {
 			NodeList publishers = xp.parseList("//h2[.='" + systemName + "']/following::div[.='Published by']");
 			for (int p = 1; p <= publishers.getLength(); p++) {
 
-				String publisherName = xp.parse("(//h2[.='" + systemName + "']/following::div[.='Published by'])[" + p + "]/following::a[1]");
+				String publisherName = xp.parse(
+						"(//h2[.='" + systemName + "']/following::div[.='Published by'])[" + p + "]/following::a[1]");
 
-				String currentSystem = xp.parse("(//h2[.='" + systemName + "']/following::div[.='Published by'])[" + p + "]/preceding::h2[1]");
+				String currentSystem = xp.parse(
+						"(//h2[.='" + systemName + "']/following::div[.='Published by'])[" + p + "]/preceding::h2[1]");
 				if (!currentSystem.equals(systemName)) {
 					continue;
 				}
@@ -174,23 +177,25 @@ public class MobyGamesScript {
 						+ "\"]/following::div[.='Developed by']/preceding::div[.='Published by'][1]/following::a[1]");
 				String developerName = "";
 				if (currentPub.equals(publisherName)) {
-					developerName = xp
-							.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName + "\"]/following::div[.='Developed by']/following::a[1]");
+					developerName = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName
+							+ "\"]/following::div[.='Developed by']/following::a[1]");
 				}
 
 				currentPub = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName
 						+ "\"]/following::div[.='Country']/preceding::div[.='Published by'][1]/following::a[1]");
 				String country = "";
 				if (currentPub.equals(publisherName)) {
-					country = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName + "\"]/following::div[.='Country']/following::span[1]");
+					country = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName
+							+ "\"]/following::div[.='Country']/following::span[1]");
 				}
 
 				if (country.equals("")) {
 					currentPub = xp.parse("(//h2[.='" + systemName + "']/following::a[.=\"" + publisherName
 							+ "\"]/following::div[.='Countries'])[1]/preceding::div[.='Published by'][1]/following::a[1]");
 					if (currentPub.equals(publisherName)) {
-						NodeList countriesList = xp.parseList("(//h2[.='" + systemName + "']/following::a[.=\"" + publisherName
-								+ "\"]/following::div[.='Countries'])[1]/following-sibling::div[1]/span");
+						NodeList countriesList = xp
+								.parseList("(//h2[.='" + systemName + "']/following::a[.=\"" + publisherName
+										+ "\"]/following::div[.='Countries'])[1]/following-sibling::div[1]/span");
 						for (int c = 0; c < countriesList.getLength(); c++) {
 							country += countriesList.item(c).getTextContent();
 						}
@@ -209,23 +214,24 @@ public class MobyGamesScript {
 						+ "\"]/following::div[.='EAN-13']/preceding::div[.='Published by'][1]/following::a[1]");
 				String ean13 = "";
 				if (currentPub.equals(publisherName)) {
-					ean13 = xp.parse(
-							"//h2[.='" + systemName + "']/following::a[.=\"" + publisherName + "\"]/following::div[.='EAN-13']/following-sibling::div[1]");
+					ean13 = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName
+							+ "\"]/following::div[.='EAN-13']/following-sibling::div[1]");
 				}
 
 				currentPub = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName
 						+ "\"]/following::div[.='Comments']/preceding::div[.='Published by'][1]/following::a[1]");
 				String comments = "";
 				if (currentPub.equals(publisherName)) {
-					comments = xp.parse(
-							"//h2[.='" + systemName + "']/following::a[.=\"" + publisherName + "\"]/following::div[.='Comments']/following-sibling::div[1]");
+					comments = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName
+							+ "\"]/following::div[.='Comments']/following-sibling::div[1]");
 				}
 
 				currentPub = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName
 						+ "\"]/following::div[.='Ported by']/preceding::div[.='Published by'][1]/following::a[1]");
 				String portedBy = "";
 				if (currentPub.equals(publisherName)) {
-					portedBy = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName + "\"]/following::div[.='Ported by']/following::a[1]");
+					portedBy = xp.parse("//h2[.='" + systemName + "']/following::a[.=\"" + publisherName
+							+ "\"]/following::div[.='Ported by']/following::a[1]");
 				}
 
 				MobyGameReleaseInfo releaseInfo = new MobyGameReleaseInfo();
@@ -261,7 +267,11 @@ public class MobyGamesScript {
 			for (int i = 0; i < shotLinks.getLength(); i++) {
 				String l = shotLinks.item(i).getTextContent();
 				xpath = new XPathParser(l);
-				game.addScreenshot(xpath.parse("//img[contains(@src,'/images/shots/')]/@src"));
+				MobyGameScreenshot mgs = new MobyGameScreenshot();
+				mgs.setLink(xpath.parse("//img[contains(@src,'/images/shots/')]/@src"));
+				mgs.setCaption(xpath.parse("//img[contains(@src,'/images/shots/')]/following-sibling::h3"));
+				game.addScreenshot(mgs);
+
 			}
 		} catch (Exception e) {
 			e.printStackTrace();
@@ -282,7 +292,17 @@ public class MobyGamesScript {
 		for (int i = 0; i < shotLinks.getLength(); i++) {
 			String l = shotLinks.item(i).getTextContent();
 			xpath = new XPathParser(l);
-			game.addCover(xpath.parse("//img[contains(@src,'/images/covers/')]/@src"));
+			MobyGameCoverArt mgca = new MobyGameCoverArt();
+			mgca.setLink(xpath.parse("//img[contains(@src,'/images/covers/')]/@src"));
+			mgca.setScanOf(xpath.parse("//td[.='Scan Of']/following-sibling::td").replaceAll(":", "").trim());
+			mgca.setPackaging(xpath.parse("//td[.='Packaging']/following-sibling::td").replaceAll(":", "").trim());
+			if (xpath.parse("//td[.='Country']/following-sibling::td").equals("")) {
+				mgca.setCountry(xpath.parse("//td[.='Countries']/following-sibling::td").replaceAll(":", "").trim());
+			} else {
+				mgca.setCountry(xpath.parse("//td[.='Country']/following-sibling::td").replaceAll(":", "").trim());
+			}
+			mgca.setPlatforms(xpath.parse("//td[.='Platforms']/following-sibling::td").replaceAll(":", "").trim());
+			game.addCover(mgca);
 		}
 		return game;
 	}
@@ -356,26 +376,82 @@ public class MobyGamesScript {
 	 * @throws Exception
 	 */
 	public static void main(String[] args) throws Exception {
-//		MobyGamesScript mgs = new MobyGamesScript("zx-spectrum");
-//		mgs.saveGamesLinksToFile();
 
-		String urls = IOUtil.readFully(new FileInputStream("data/mobygames/all.txt"));
-		for (String url : urls.split(System.getProperty("line.separator"))) {
-			System.out.println(url);
-			MobyGamesScript mgs = new MobyGamesScript(url);
-			mgs.saveGamesLinksToFile(url + ".txt");
+		// 01. Get all game links for the system then save the links to a text file
+		String[] systems = { "atari-st" };
+		for (int s = 0; s < systems.length; s++) {
+
+			String system = systems[s];
+			MobyGamesScript mgs = new MobyGamesScript(system);
+			mgs.saveGamesLinksToFile(system + ".txt");
+
+			// 02. For each game link in the text file go to the link and save meta data of
+			// the game in a JSON file
+			String urls = IOUtil.readFully(new FileInputStream(system + ".txt"));
+			for (String url : urls.split(System.getProperty("line.separator"))) {
+				if (!new File("mobygames/" + system + "/json/" + url.substring(url.lastIndexOf("/") + 1) + ".json")
+						.exists()) {
+					System.out.println(url);
+					IOUtil.write("mobygames/" + system + "/json", url.substring(url.lastIndexOf("/") + 1) + ".json",
+							mgs.getGameInfo(url));
+				}
+			}
+
+			// 03. Download images
+			Gson gson = new Gson();
+			String[] files = new File("mobygames\\" + system + "\\json").list();
+			for (String file : files) {
+				System.out.println("Getting images for " + file);
+				String json = IOUtil.readFully(new FileInputStream("mobygames\\" + system + "\\json\\" + file));
+				MobyGame game = gson.fromJson(json, MobyGame.class);
+				for (MobyGameScreenshot shot : game.getShot()) {
+					String url = "https://www.mobygames.com/"
+							+ shot.getLink().replaceAll("https://www.mobygames.com", "");
+					String destFolder = system + "/" + game.getFolderName();
+					destFolder = destFolder.replaceAll(":", "").replaceAll("[?]", "-").replaceAll("[...]", "_")
+							.replaceAll("[*]", "_");
+					String destFileName = shot.getLink().substring(shot.getLink().lastIndexOf("/") + 1);
+					destFileName = destFileName.substring(destFileName.indexOf("screenshot-") + 11);
+					new File(destFolder).mkdirs();
+					if (!new File(destFolder + "/" + destFileName).exists()) {
+						URLGrabber ug = new URLGrabber(url, destFolder + "/" + destFileName);
+						ug.saveURLBinary();
+						Thread.sleep(300);
+					}
+				}
+				for (MobyGameCoverArt cover : game.getCover()) {
+					String url = "https://www.mobygames.com/"
+							+ cover.getLink().replaceAll("https://www.mobygames.com", "");
+					String destFolder = system + "/" + game.getFolderName();
+					destFolder = destFolder.replaceAll(":", "").replaceAll("[?]", "-").replaceAll("[...]", "_")
+							.replaceAll("[*]", "_");
+					String destFileName = cover.getLink().substring(cover.getLink().lastIndexOf("/") + 1);
+					destFileName = destFileName
+							.substring(destFileName.indexOf("-" + system + "-") + system.length() + 2);
+					new File(destFolder).mkdirs();
+					if (!new File(destFolder + "/" + destFileName).exists()) {
+						URLGrabber ug = new URLGrabber(url, destFolder + "/" + destFileName);
+						ug.saveURLBinary();
+						Thread.sleep(300);
+					}
+				}
+			}
 		}
 
-//		String urls = IOUtil.readFully(new FileInputStream("data/mobygames/mobygames_msx.txt"));
+//		String urls = IOUtil.readFully(new FileInputStream("data/mobygames/all.txt"));
 //		for (String url : urls.split(System.getProperty("line.separator"))) {
 //			System.out.println(url);
-//			IOUtil.write(".", url.substring(url.lastIndexOf("/") + 1) + ".json", mgs.getGameInfo(url));
+//			MobyGamesScript mgs = new MobyGamesScript(url);
+//			mgs.saveGamesLinksToFile(url + ".txt");
 //		}
 
 		// String[] files = new File("data/mobygames/MSX - MSX 1/").list();
 		// for (String file : files) {
 		// mgs.convertXMLtoJSON("data/mobygames/MSX - MSX 1/" + file);
 		// }
+
+//		MobyGamesScript mgs = new MobyGamesScript("msx");
+//		IOUtil.write("c:/temp/temp.json", mgs.getGameInfo("https://www.mobygames.com/game/msx/abu-simbel-profanation"));
 	}
 
 }

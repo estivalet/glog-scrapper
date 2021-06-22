@@ -1,0 +1,75 @@
+{
+  "name": "Quartz",
+  "shortName": "quartz",
+  "description": "Quartz is a shoot 'em up with a variety of sections. The first section (and every odd-numbered one) is viewed from above and scrolls in every direction. As well as standard attack waves, there are large red/blue/yellow balls which split on impact a lá <a href=\"https://www.mobygames.com/search/quick?game=Asteroids\">Asteroids</a>, and once the smallest ones are destroyed they release tokens. Once you have collected 9 of each, you can choose a power-up form a range including various weapons, restart points (which effectively gives infinite continues when used with an emulator's 'snapshot' feature) and repairs to the ship. Destroying the whole of standard waves gives combined tokens which add one to each of the three colours.<br><br>The even-numbered waves scroll in a single direction, but include waves coming at you from other directions, even from within the screen in 3D. You can have up to 3 power-ups stored on your ship at a time, and choose one to activate by pressing F1-F3 - they all have limited firepower. Unusually, when you have no lives left, death results not in game over, but the loss of one of your power-ups (chosen by you).",
+  "publishedBy": "Firebird Software",
+  "developedBy": "",
+  "released": "1989",
+  "alsoFor": "Atari ST | Combined View",
+  "genre": "Action",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/amiga/quartz",
+  "visual": "",
+  "gamePlay": "Arcade, Shooter",
+  "setting": "",
+  "release": [
+    {
+      "system": "Amiga",
+      "releases": [
+        {
+          "publisher": "Firebird Software",
+          "developer": "",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1989",
+          "ean13": "5 017096 210119",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [],
+  "cover": [
+    {
+      "link": "/images/covers/l/300785-quartz-amiga-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "United Kingdom",
+      "platforms": "Amiga"
+    },
+    {
+      "link": "/images/covers/l/300787-quartz-amiga-inside-cover.jpg",
+      "scanOf": "Inside Cover",
+      "packaging": "Box",
+      "country": "United Kingdom",
+      "platforms": "Amiga"
+    },
+    {
+      "link": "/images/covers/l/300788-quartz-amiga-inside-cover.jpg",
+      "scanOf": "Inside Cover",
+      "packaging": "Box",
+      "country": "United Kingdom",
+      "platforms": "Amiga"
+    },
+    {
+      "link": "/images/covers/l/300786-quartz-amiga-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "United Kingdom",
+      "platforms": "Amiga"
+    },
+    {
+      "link": "/images/covers/l/300789-quartz-amiga-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "United Kingdom",
+      "platforms": "Amiga"
+    }
+  ]
+}

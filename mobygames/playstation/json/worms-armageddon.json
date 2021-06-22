@@ -1,0 +1,105 @@
+{
+  "name": "Worms: Armageddon",
+  "shortName": "worms-armageddon",
+  "description": "<i>Worms: Armageddon</i> is a standalone expansion to <a href=\"https://www.mobygames.com/game/worms-2\">Worms 2</a>, introducing extensive improvements and additions over the original game, among which are:\n<ul><li>16 new weapons and 6 new utilities, with some existing ones changed or rebalanced (3 were removed entirely)</li>\n<li>new singleplayer campaigns and challenges</li>\n<li>new gameplay schemes, some of which have to be unlocked through campaign missions (certain weapons are only available in some of these schemes)</li>\n<li>new menu interface, sounds, voice banks, and music</li>\n<li>new predefined maps</li>\n<li>expanded map editor, included voice bank editor (the latter is a separate application)</li>\n<li>teams can now have custom representative flags, victory anthems, and gravestones</li>\n<li>each team is assigned a special weapon of choice - Holy Hand Grenade, Flamethrower, Mad Cows, or Old Lady</li>\n<li>AI-controlled teams now have one of five difficulty settings</li>\n<li>jumping controls updated so worms can jump backwards and do backflips</li>\n<li>instead of selecting a worm at the start of each turn, this option is now regarded as a utility and usually has a limited number of uses</li>\n<li>new multiplayer options, including a more elaborate WormNET lobby</li></ul><br><br>Like the previous <i>Worms</i> installments, the game is an artillery variant. The player give an artillery piece a shot angle and shot power, and try to hit the opponent, taking into account wind effects. The player and the opponent exchange these shots in a turn-based fashion. The game puts the player in command of a team of up to eight worms, which can move around the landscape (one at a time), using many types of weapons to try to dispatch the enemy, from bazookas to mini-guns to exploding sheep. In some situations, the worms can also jump, swing by rope, and descend with a parachute.<br><br>As of 2002, updates have been handled by an authorized community member named Deadcode, who was joined in 2006 by CyberShadow. The two have removed many bugs and glitches, improved game stability and compatibility for Windows operating systems that have been released along the way, added new features (more resolutions, expanded options and settings, auto-recorded match replays, full PNG support for map importing...) and integrated WormKit, an extension framework for the game which allows for easier modding. These updates have been available from Team17's servers and are included by default in subsequent digital releases.",
+  "publishedBy": "MicroProse Software, Inc.",
+  "developedBy": "Team17 Software Limited",
+  "released": "Nov, 1999",
+  "alsoFor": "Dreamcast, Game Boy Color, Nintendo 64, Windows | Combined View",
+  "genre": "Strategy / tactics",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/playstation/worms-armageddon",
+  "visual": "2D scrolling",
+  "gamePlay": "Artillery",
+  "setting": "",
+  "release": [
+    {
+      "system": "PlayStation",
+      "releases": [
+        {
+          "publisher": "MicroProse Software Distributions GmbH",
+          "developer": "Team17 Software Limited",
+          "ported": "",
+          "country": " Germany",
+          "releaseDate": "Oct 29, 1999",
+          "ean13": "5 023117 542503",
+          "comments": ""
+        },
+        {
+          "publisher": "MicroProse Software, Inc.",
+          "developer": "Team17 Software Limited",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "Nov, 1999",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [],
+  "cover": [
+    {
+      "link": "/images/covers/l/7089-worms-armageddon-playstation-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Jewel Case",
+      "country": "United States",
+      "platforms": "PlayStation"
+    },
+    {
+      "link": "/images/covers/l/319968-worms-armageddon-playstation-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Jewel Case",
+      "country": "United Kingdom",
+      "platforms": "PlayStation"
+    },
+    {
+      "link": "/images/covers/l/319969-worms-armageddon-playstation-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Jewel Case",
+      "country": "United Kingdom",
+      "platforms": "PlayStation"
+    },
+    {
+      "link": "/images/covers/l/319970-worms-armageddon-playstation-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Jewel Case",
+      "country": "United Kingdom",
+      "platforms": "PlayStation"
+    },
+    {
+      "link": "/images/covers/l/267980-worms-armageddon-playstation-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Jewel Case",
+      "country": "United Kingdom",
+      "platforms": "PlayStation"
+    },
+    {
+      "link": "/images/covers/l/267979-worms-armageddon-playstation-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Jewel Case",
+      "country": "United Kingdom",
+      "platforms": "PlayStation"
+    },
+    {
+      "link": "/images/covers/l/267978-worms-armageddon-playstation-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Jewel Case",
+      "country": "United Kingdom",
+      "platforms": "PlayStation"
+    },
+    {
+      "link": "/images/covers/l/7088-worms-armageddon-playstation-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Jewel Case",
+      "country": "",
+      "platforms": "PlayStation"
+    }
+  ]
+}

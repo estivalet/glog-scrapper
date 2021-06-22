@@ -1,0 +1,76 @@
+{
+  "name": "Accordion",
+  "shortName": "accordion_",
+  "description": "<i>Accordion</i> is a solitaire card game. Cards are dealt face up one at a time and the aim of the game is to condense all cards into a single pile. To build piles, cards are moved from the left to a card or a pile on the right. Piles can be moved one or two cards to the left if the card on the left is of the same suit or if the card on the left is the same number. The game begins with four cards dealt and the player can then choose to make a move or deal another card. If there are no legal moves that can be made from dealt cards, more cards will automatically be dealt.<br><br>The rules of Accordion can be customized giving a total of 228 different playable variations. Changes that can be made include how far cards can be moved left and right (one to three), whether cards can go on same number only or not and whether cards can go on same suit or color. By changing these it's possible to make the game easier or harder to play. There's also a cheat option where the computer will try to find a way to condense the cards into a single pile. If it can, it will make one move towards that goal every time the cheat option is used. <br><br>There are two versions of the game on the disk. In addition to the full implementation there is also a stripped version with more basic graphics and no in-game help. It takes only 33 KB in comparison to over 100 KB for the full version but is functionally identical. ",
+  "publishedBy": "UnSane Creations",
+  "developedBy": "UnSane Creations",
+  "released": "1990",
+  "alsoFor": "",
+  "genre": "Puzzle",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/amiga/accordion_",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Cards / tiles",
+  "setting": "",
+  "release": [
+    {
+      "system": "Amiga",
+      "releases": [
+        {
+          "publisher": "UnSane Creations",
+          "developer": "UnSane Creations",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1990",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/793054-accordion-amiga-screenshot-starting-out.png",
+      "caption": "Starting out"
+    },
+    {
+      "link": "/images/shots/l/793055-accordion-amiga-screenshot-options.png",
+      "caption": "Options"
+    },
+    {
+      "link": "/images/shots/l/793056-accordion-amiga-screenshot-new-card-being-dealt.png",
+      "caption": "New card being dealt"
+    },
+    {
+      "link": "/images/shots/l/793057-accordion-amiga-screenshot-all-cards-dealt.png",
+      "caption": "All cards dealt"
+    },
+    {
+      "link": "/images/shots/l/793058-accordion-amiga-screenshot-game-rules.png",
+      "caption": "Game rules"
+    },
+    {
+      "link": "/images/shots/l/793059-accordion-amiga-screenshot-help-screen.png",
+      "caption": "Help screen"
+    },
+    {
+      "link": "/images/shots/l/793060-accordion-amiga-screenshot-how-to-make-moves.png",
+      "caption": "How to make moves"
+    },
+    {
+      "link": "/images/shots/l/793061-accordion-amiga-screenshot-background-turned-off.png",
+      "caption": "Background turned off"
+    },
+    {
+      "link": "/images/shots/l/793062-accordion-amiga-screenshot-stripped-version-simpler-graphics.png",
+      "caption": "Stripped version - simpler graphics, no help"
+    }
+  ],
+  "cover": []
+}

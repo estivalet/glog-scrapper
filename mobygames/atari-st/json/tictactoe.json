@@ -1,0 +1,60 @@
+{
+  "name": "tictactoe",
+  "shortName": "tictactoe",
+  "description": "<em>tictactoe</em> implements the classic Tic-Tac-Toe game on a 3x3 board.<br><br>Either playing with two players or playing against an AI is possible. Playing against the AI you can chose if you want to start yourself or if the AI is starting. The game is implemented as system- and multitasking friendly application.",
+  "publishedBy": "Cadenza Software",
+  "developedBy": "",
+  "released": "Jun 08, 1997",
+  "alsoFor": "",
+  "genre": "Strategy / tactics",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-st/tictactoe",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Board game",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari ST",
+      "releases": [
+        {
+          "publisher": "Cadenza Software",
+          "developer": "",
+          "ported": "",
+          "country": " Worldwide",
+          "releaseDate": "Jun 08, 1997",
+          "ean13": "",
+          "comments": "Version 1.01"
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "https://www.mobygames.com/images/shots/l/798253-tictactoe-atari-st-screenshot-starting-screen-monochrome-monitor.png",
+      "caption": "Starting screen (monochrome monitor)"
+    },
+    {
+      "link": "/images/shots/l/798254-tictactoe-atari-st-screenshot-gameplay-monochrome-monitor.png",
+      "caption": "Gameplay (monochrome monitor)"
+    },
+    {
+      "link": "/images/shots/l/798257-tictactoe-atari-st-screenshot-info-screen-color-screen-640x480x16.png",
+      "caption": "Info screen (color screen 640x480x16)"
+    },
+    {
+      "link": "/images/shots/l/798258-tictactoe-atari-st-screenshot-an-old-trick-is-working-against.png",
+      "caption": "An old &quot;trick&quot; is working against the AI"
+    },
+    {
+      "link": "/images/shots/l/798259-tictactoe-atari-st-screenshot-ta-daaaaah.png",
+      "caption": "Ta daaaaah!"
+    }
+  ],
+  "cover": []
+}

@@ -1,0 +1,73 @@
+{
+  "name": "Atomix",
+  "shortName": "atomix",
+  "description": "<i>Atomix</i> is a puzzle game. On each level, you are given a couple of atoms, and your task is to arrange them into a specific molecule.<br><br>You see all the atoms available for you to move in a top-down view. Down below on the left side is a small preview of what you must get. That picture represents a molecular structure that you must recreate by moving atoms horizontally and/or vertically. Once you move an atom, it won't stop unless it hits an obstacle, like a wall, or another atom, therefore you must use walls and other atoms creatively.<br><br>The game contains 30 levels, and you have a limited time for each level.",
+  "publishedBy": "Thalion Software GmbH",
+  "developedBy": "Softouch Productions",
+  "released": "1990",
+  "alsoFor": "Atari ST, Commodore 64, DOS | Combined View",
+  "genre": "Puzzle",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/amiga/atomix",
+  "visual": "",
+  "gamePlay": "",
+  "setting": "",
+  "release": [
+    {
+      "system": "Amiga",
+      "releases": [
+        {
+          "publisher": "Thalion Software GmbH",
+          "developer": "Softouch Productions",
+          "ported": "",
+          "country": " Germany",
+          "releaseDate": "1990",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/710549-atomix-amiga-screenshot-title-screen.png",
+      "caption": "Title Screen"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/114936-atomix-amiga-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Magazine",
+      "country": "United Kingdom",
+      "platforms": "Amiga"
+    },
+    {
+      "link": "/images/covers/l/266041-atomix-amiga-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "France  and United Kingdom",
+      "platforms": "Amiga"
+    },
+    {
+      "link": "/images/covers/l/266042-atomix-amiga-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "France  and United Kingdom",
+      "platforms": "Amiga"
+    },
+    {
+      "link": "/images/covers/l/266043-atomix-amiga-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "France  and United Kingdom",
+      "platforms": "Amiga"
+    }
+  ]
+}

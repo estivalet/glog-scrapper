@@ -1,0 +1,60 @@
+{
+  "name": "Bomb Disposal",
+  "shortName": "bomb-disposal",
+  "description": "<i>Bomb Disposal</i> is a puzzle game written in GFA Basic 3. The aim of the game is to disarm a bomb. You have 20 diodes which you must place in their sockets in correct order. Every diode has a number that you must match to a hidden number by placing it in the correct socket, two indicators (seq and pos) lets you know if you got the sequence and position right. Once a diode has been placed it can not be removed so a misplaced diode means that the player has to start all over again.",
+  "publishedBy": "Budgie UK",
+  "developedBy": "Ozsoft",
+  "released": "Mar, 1992",
+  "alsoFor": "",
+  "genre": "Puzzle",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-st/bomb-disposal",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari ST",
+      "releases": [
+        {
+          "publisher": "Budgie UK",
+          "developer": "Ozsoft",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "Mar, 1992",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/366199-bomb-disposal-atari-st-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/366200-bomb-disposal-atari-st-screenshot-time-to-select-a-difficulty.png",
+      "caption": "Time to select a difficulty level."
+    },
+    {
+      "link": "/images/shots/l/366201-bomb-disposal-atari-st-screenshot-got-it-in-the-right-place.png",
+      "caption": "Got it in the right place but I should not have placed it first."
+    },
+    {
+      "link": "/images/shots/l/366202-bomb-disposal-atari-st-screenshot-info-screen.png",
+      "caption": "Info screen"
+    },
+    {
+      "link": "/images/shots/l/366203-bomb-disposal-atari-st-screenshot-i-failed.png",
+      "caption": "I failed."
+    }
+  ],
+  "cover": []
+}

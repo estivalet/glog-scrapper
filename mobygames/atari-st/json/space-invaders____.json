@@ -1,0 +1,64 @@
+{
+  "name": "Space Invaders",
+  "shortName": "space-invaders____",
+  "description": "<i>Space Invaders</i> is an implementation of the classic arcade game. The game has two playing modes: Modern and Classic. Modern features better graphics and some extra features.<br><br>Move your base at the bottom of the screen and kill as many aliens as possible. Aliens will move across the screen in a formation of 10 x 5 and for each switch of direction the will close in a bit on the player. The more aliens the player kills the faster the remaining aliens will move. Now and then a mothership will appear at the top och the game area. Destroying it will give the player some extra points, in modern mode destroying a mother ship will on later levels reward the player with better defences and fast shooting missiles.<br><br>The game was written in assembler.",
+  "publishedBy": "Budgie UK",
+  "developedBy": "",
+  "released": "Oct, 1990",
+  "alsoFor": "",
+  "genre": "Action",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-st/space-invaders____",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade, Shooter",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari ST",
+      "releases": [
+        {
+          "publisher": "Budgie UK",
+          "developer": "",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "Oct, 1990",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/557746-space-invaders-atari-st-screenshot-title-screen-with-main.png",
+      "caption": "Title screen with main menu"
+    },
+    {
+      "link": "/images/shots/l/557747-space-invaders-atari-st-screenshot-time-to-start-a-modern.png",
+      "caption": "Time to start a modern game"
+    },
+    {
+      "link": "/images/shots/l/557748-space-invaders-atari-st-screenshot-fire-away.png",
+      "caption": "Fire away!"
+    },
+    {
+      "link": "/images/shots/l/557749-space-invaders-atari-st-screenshot-a-mothership-flies-across.png",
+      "caption": "A mothership flies across the screen"
+    },
+    {
+      "link": "/images/shots/l/557750-space-invaders-atari-st-screenshot-game-over.png",
+      "caption": "Game over"
+    },
+    {
+      "link": "/images/shots/l/557751-space-invaders-atari-st-screenshot-a-game-in-classic-mode.png",
+      "caption": "A game in classic mode"
+    }
+  ],
+  "cover": []
+}

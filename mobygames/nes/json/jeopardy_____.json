@@ -1,0 +1,93 @@
+{
+  "name": "Jeopardy!",
+  "shortName": "jeopardy_____",
+  "description": "Gametek's faithful NES recreation of the long-running international quiz show. Up to three contestants can play at once, with gaps optionally filled in by computer AI. If three human players are engaged, then Player 1 and 2 share the first controller, with the second controller going to Player 3.<br><br>For the first two rounds, six categories with five questions each are randomly selected by the computer to populate the game board. The contestant who answered the last question correctly gets to pick the category and a dollar value, with harder questions being worth more money. Players have ten seconds from the time a question appears to &quot;ring in&quot; with the appropriate controller button and answer. <br><br>Answers are built by using the controller to navigate around a grid of letters and &quot;type&quot; out the correct answer. Spaces and punctuation are ignored, but spelling and grammar generally must match the expected answer exactly. The contestant has 30 seconds to provide the answer before &quot;time is up&quot; and the other players have the opportunity to ring in.<br><br>Final Jeopardy consists of one category, which players bet their current winnings on being able to answer. A single question from that category is asked after the hidden bets have been placed. Again, each player has 30 seconds to provide their answer while the other players are instructed to look away. At the end, scores are tallied and the winner declared.<br><br>Categories in this edition draw from general knowledge and do not follow a specific theme (like the sports or Star Wars editions). Each category will always consist of the same five questions, and the game draws on a limited number of categories. Repeats will appear after a handful of sessions played. Some questions &quot;current&quot; for 1987 will also be less obvious decades later, and more difficult than intended.",
+  "publishedBy": "GameTek, Inc.",
+  "developedBy": "Rare Limited",
+  "released": "Sep, 1988",
+  "alsoFor": "",
+  "genre": "Puzzle",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "Licensed",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/nes/jeopardy_____",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Game show / trivia / quiz",
+  "setting": "",
+  "release": [
+    {
+      "system": "NES",
+      "releases": [
+        {
+          "publisher": "GameTek, Inc.",
+          "developer": "Rare Limited",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "Sep, 1988",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/225288-jeopardy-nes-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/225289-jeopardy-nes-screenshot-character-selection-screen.png",
+      "caption": "Character selection screen"
+    },
+    {
+      "link": "/images/shots/l/225290-jeopardy-nes-screenshot-category-board.png",
+      "caption": "Category board"
+    },
+    {
+      "link": "/images/shots/l/225291-jeopardy-nes-screenshot-the-answer-is-given-if-time-runs-out.png",
+      "caption": "The answer is given if time runs out or everyone misses the answer"
+    },
+    {
+      "link": "/images/shots/l/225292-jeopardy-nes-screenshot-building-an-answer-letter-by-letter.png",
+      "caption": "Building an answer letter by letter"
+    },
+    {
+      "link": "/images/shots/l/225293-jeopardy-nes-screenshot-correct.png",
+      "caption": "Correct!"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/174665-jeopardy-nes-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "NES"
+    },
+    {
+      "link": "/images/covers/l/174666-jeopardy-nes-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "NES"
+    },
+    {
+      "link": "/images/covers/l/174667-jeopardy-nes-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "NES"
+    },
+    {
+      "link": "/images/covers/l/459614-jeopardy-nes-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "NES"
+    }
+  ]
+}

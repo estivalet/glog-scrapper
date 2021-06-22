@@ -1,0 +1,72 @@
+{
+  "name": "Time Race",
+  "shortName": "time-race",
+  "description": "The game is a strategical puzzle action, where you have to eliminate the playfield filling it with the tiles of different colors until the time will be exhausted. Each playfield represents a certain period of the human evolution such as Prehistory, Crusades, Prohibition or Berlin Wall. On each level some animation takes place, and you should perform your goal until it logically finishes. <br><br>The tiles are triangles of different colors, sometimes combined in groups, appear in one corner of the playfield and should be put in another place based on the player's strategy in the way to do not block the path for other tiles. When four triangle tiles with adjacent tiles of different colors formed a square, this square will be eliminated from playfield with its part and no tiles may be placed or moved here. Adjacent tiles of the same colors will be eliminated from playfield, but playfield will remain untouched. Tiles may be moved on the playfield and rotated over the center of the square. Also playfield may include different obstacles, which may influence on moving/rotation of your tiles to make it more difficult, and they should be avoided in any possible way.<br><br>Finishing the level will give you the code, which may be used later to access this level. There are 30 levels available to play.",
+  "publishedBy": "Loriciel SA",
+  "developedBy": "Cistar",
+  "released": "1990",
+  "alsoFor": "Amiga, DOS | Combined View",
+  "genre": "Puzzle",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-st/time-race",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari ST",
+      "releases": [
+        {
+          "publisher": "Loriciel SA",
+          "developer": "Cistar",
+          "ported": "",
+          "country": " France",
+          "releaseDate": "1990",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/323104-time-race-atari-st-screenshot-title-screen.png",
+      "caption": "Title Screen"
+    },
+    {
+      "link": "/images/shots/l/323105-time-race-atari-st-screenshot-copyright-information.png",
+      "caption": "Copyright Information"
+    },
+    {
+      "link": "/images/shots/l/323106-time-race-atari-st-screenshot-start-of-the-1st-level-prihistoric.png",
+      "caption": "Start of the 1st Level (Prihistoric)"
+    },
+    {
+      "link": "/images/shots/l/323107-time-race-atari-st-screenshot-you-may-place-the-tiles-as-you.png",
+      "caption": "You may place the tiles as you want..."
+    },
+    {
+      "link": "/images/shots/l/323108-time-race-atari-st-screenshot-you-have-eliminated-the-part.png",
+      "caption": "You have eliminated the part of playfield already..."
+    },
+    {
+      "link": "/images/shots/l/323109-time-race-atari-st-screenshot-you-can-t-finish-the-level-the.png",
+      "caption": "You can't finish the level...The path for the tiles is very blocked..."
+    },
+    {
+      "link": "/images/shots/l/323110-time-race-atari-st-screenshot-you-are-ready-to-finish-the.png",
+      "caption": "You are ready to finish the 1st level..."
+    },
+    {
+      "link": "/images/shots/l/323111-time-race-atari-st-screenshot-in-the-beginning-of-the-second.png",
+      "caption": "In the beginning of the second Level (Greeks)..."
+    }
+  ],
+  "cover": []
+}

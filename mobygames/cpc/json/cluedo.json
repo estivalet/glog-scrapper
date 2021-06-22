@@ -1,0 +1,93 @@
+{
+  "name": "Cluedo",
+  "shortName": "cluedo",
+  "description": "<i>Cluedo</i> is a version of the popular <a href=\"https://www.mobygames.com/search/quick?company=Waddington\">Waddington's</a> board game known as <i>Clue</i> in the U.S.A.<br><br>The game is a detective / puzzle game for one to six players, though the computer will play five of these for a single player game. The objective is to determine who killed Dr Black, where they killed him, and what the murder weapon was. This is achieved by a process of elimination. Each player has three clue cards. When all of these have been accounted for, what remains unaccounted for is the solution.\nPlayers can learn what other cards other players have by making suggestions. The game rules require opposing players are asked in turn if they  possess any of the items suggested and if they do one card must be revealed.<br><br>This computer game follows the board game very closely starting with rolling the dice for a high number to see who goes first.\nAfter that the cards are shuffled and play commences. The dice is rolled. When it is the turn of a human player a series of options are presented\n<ul>\n<li>Roll Dice : self explanatory</li>\n<li>Notes : is used by the player to record who &amp; what they suspect and who &amp; what has been eliminated</li>\n<li>Clue Cards : the player can view their own clue cards</li>\n<li>Passage : As in the board game, the player may surrender a turn and take a secret passage to another room</li>\n<li>Suggestion : Ask opposing players if they possess any of the cards suggested</li>\n<li>Accusation : used when a player has enough information to end the game</li>\n<li>Next : used after a roll of the dice to pass control to the next player</li>\n</ul>\nThe game also has an optional sound feature which plays music before each player, 'Colonel Bogey' before Col. mustard etc.\n",
+  "publishedBy": "Leisure Genius",
+  "developedBy": "",
+  "released": "Feb, 1986",
+  "alsoFor": "BBC Micro, Commodore 64, MSX, Tatung Einstein, ZX Spectrum | Combined View",
+  "genre": "Puzzle, Strategy / tactics",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "Licensed",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/cpc/cluedo",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Board game",
+  "setting": "",
+  "release": [
+    {
+      "system": "Amstrad CPC",
+      "releases": [
+        {
+          "publisher": "Leisure Genius",
+          "developer": "",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "Feb, 1986",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/685764-cluedo-amstrad-cpc-screenshot-loading-screen.png",
+      "caption": "Loading Screen."
+    },
+    {
+      "link": "/images/shots/l/685765-cluedo-amstrad-cpc-screenshot-enter-your-name.png",
+      "caption": "Enter your name."
+    },
+    {
+      "link": "/images/shots/l/685766-cluedo-amstrad-cpc-screenshot-the-board.png",
+      "caption": "The board."
+    },
+    {
+      "link": "/images/shots/l/685767-cluedo-amstrad-cpc-screenshot-players-moving-to-various-rooms.png",
+      "caption": "Players moving to various rooms."
+    },
+    {
+      "link": "/images/shots/l/685768-cluedo-amstrad-cpc-screenshot-the-cards-you-hold.png",
+      "caption": "The cards you hold."
+    },
+    {
+      "link": "/images/shots/l/685769-cluedo-amstrad-cpc-screenshot-mrs-white-making-an-accusation.png",
+      "caption": "Mrs White making an accusation."
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/494678-cluedo-amstrad-cpc-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "Amstrad CPC"
+    },
+    {
+      "link": "/images/covers/l/494677-cluedo-amstrad-cpc-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "Amstrad CPC"
+    },
+    {
+      "link": "/images/covers/l/494679-cluedo-amstrad-cpc-spine-sides.jpg",
+      "scanOf": "Spine/Sides",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "Amstrad CPC"
+    },
+    {
+      "link": "/images/covers/l/494680-cluedo-amstrad-cpc-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "Amstrad CPC"
+    }
+  ]
+}

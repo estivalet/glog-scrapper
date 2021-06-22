@@ -1,0 +1,72 @@
+{
+  "name": "Numtris",
+  "shortName": "numtris",
+  "description": "<i>Numtris</i> is a math based falling blocks puzzle game. The falling blocks here are single squares with single digit numbers written on them. The player uses the joystick to direct the left and right and the task is to stack them on top of each other so that the sum of the stacked blocks can be divided by ten (10, 20, 30 etc.). When succeeding with this the blocks are removed and the player scores depending on the size of the stack. The game goes on at increasingly higher speed until a stack reaches the top of the screen. Before a game the player can choose one of three difficulty levels that affect the speed of the game.",
+  "publishedBy": "EIKO-Soft",
+  "developedBy": "Drachensoft",
+  "released": "1992",
+  "alsoFor": "",
+  "genre": "Puzzle",
+  "perspective": "3rd-person (Other)",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-8-bit/numtris",
+  "visual": "",
+  "gamePlay": "Falling block puzzle",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari 8-bit",
+      "releases": [
+        {
+          "publisher": "EIKO-Soft",
+          "developer": "Drachensoft",
+          "ported": "",
+          "country": " Germany",
+          "releaseDate": "1992",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/729004-numtris-atari-8-bit-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/729005-numtris-atari-8-bit-screenshot-menu.png",
+      "caption": "Menu"
+    },
+    {
+      "link": "/images/shots/l/729006-numtris-atari-8-bit-screenshot-starting-out.png",
+      "caption": "Starting out"
+    },
+    {
+      "link": "/images/shots/l/729007-numtris-atari-8-bit-screenshot-2-8-10-blocks-removed.png",
+      "caption": "2+8=10=&gt; blocks removed"
+    },
+    {
+      "link": "/images/shots/l/729009-numtris-atari-8-bit-screenshot-more-blocks-more-sums-to-keep.png",
+      "caption": "More blocks, more sums to keep track of"
+    },
+    {
+      "link": "/images/shots/l/729010-numtris-atari-8-bit-screenshot-the-game-is-over-when-a-stack.png",
+      "caption": "The game is over when a stack reaches the top"
+    },
+    {
+      "link": "/images/shots/l/729011-numtris-atari-8-bit-screenshot-enter-name-for-highscore.png",
+      "caption": "Enter name for highscore"
+    },
+    {
+      "link": "/images/shots/l/729008-numtris-atari-8-bit-screenshot-highscore-list.png",
+      "caption": "Highscore list"
+    }
+  ],
+  "cover": []
+}

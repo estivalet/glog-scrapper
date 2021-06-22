@@ -1,0 +1,84 @@
+{
+  "name": "Block Maze",
+  "shortName": "block-maze",
+  "description": "<i>Block Maze</i> takes its basic concept from <i><a href=\"https://www.mobygames.com/game/arcade/pengo\">Pengo</a></i> and adds in some <i><a href=\"https://www.mobygames.com/search/quick?game=Lady+Bug\">Ladybug</a></i> to make a concept of its own.<br><br>In a <i><a href=\"https://www.mobygames.com/game/arcade/pac-man\">Pacman</a></i>-like maze, you must push four central blocks marked with letters into a box in each corner marked with the same letter. As in <i>Pengo</i>, the blocks slide when pushed until they reach a wall or another block. The maze is also littered with plain black blocks, which can be used both to crush the two nasties roaming the maze (though they respawn after a few seconds) and to stop the alphabetic blocks at a desired position. To complicate things, there are rotating ramps near each corner. If a block slides into the ramp, it is deflected 90 degrees, which can be used both to reach otherwise unreachable nasties or to get the alphablocks in the right position without too many pushes. Blocks can, and must often, be destroyed to make way for the player sprite and other blocks.<br><br>Once an alphablock reaches its corner, a fruit machine marked with the letters of the four corners is started on the top of the screen, granting you up to 1000 points if the letter you've cleared turns up.",
+  "publishedBy": "Epoch Co., Ltd.",
+  "developedBy": "",
+  "released": "1985",
+  "alsoFor": "",
+  "genre": "Action",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/epoch-game-pocket-computer/block-maze",
+  "visual": "",
+  "gamePlay": "Arcade, Puzzle elements",
+  "setting": "",
+  "release": [
+    {
+      "system": "Epoch Game Pocket Computer",
+      "releases": [
+        {
+          "publisher": "Epoch Co., Ltd.",
+          "developer": "",
+          "ported": "",
+          "country": " Japan",
+          "releaseDate": "1985",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/659315-block-maze-epoch-game-pocket-computer-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/659316-block-maze-epoch-game-pocket-computer-screenshot-you-are-the.png",
+      "caption": "You are the little two-legged thing in the bottom"
+    },
+    {
+      "link": "/images/shots/l/659317-block-maze-epoch-game-pocket-computer-screenshot-sending-a.png",
+      "caption": "Sending a letter block to crush the enemy"
+    },
+    {
+      "link": "/images/shots/l/659323-block-maze-epoch-game-pocket-computer-screenshot-this-level.png",
+      "caption": "This level is quite easy since it has only one letter"
+    },
+    {
+      "link": "/images/shots/l/659324-block-maze-epoch-game-pocket-computer-screenshot-level-clear.png",
+      "caption": "Level clear"
+    },
+    {
+      "link": "/images/shots/l/659319-block-maze-epoch-game-pocket-computer-screenshot-the-next.png",
+      "caption": "The next level has four letters which each must go in the right corner"
+    },
+    {
+      "link": "/images/shots/l/659320-block-maze-epoch-game-pocket-computer-screenshot-pushing-a.png",
+      "caption": "Pushing a T towards its home corner"
+    },
+    {
+      "link": "/images/shots/l/659321-block-maze-epoch-game-pocket-computer-screenshot-when-a-letter.png",
+      "caption": "When a letter enters its box, you play on the fruit machine"
+    },
+    {
+      "link": "/images/shots/l/659322-block-maze-epoch-game-pocket-computer-screenshot-killed-by.png",
+      "caption": "Killed by a baddie"
+    },
+    {
+      "link": "/images/shots/l/659325-block-maze-epoch-game-pocket-computer-screenshot-crushing.png",
+      "caption": "Crushing a black block"
+    },
+    {
+      "link": "/images/shots/l/659326-block-maze-epoch-game-pocket-computer-screenshot-game-over.png",
+      "caption": "Game over"
+    }
+  ],
+  "cover": []
+}

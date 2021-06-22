@@ -1,0 +1,101 @@
+{
+  "name": "Puyo Puyo",
+  "shortName": "puyo-puyo",
+  "description": "<i>Puyo Puyo</i> is a falling pieces puzzle, with basic similarities to <a href=\"https://www.mobygames.com/search/quick?platform=MSX\">Tetris</a>. Pairs of puyos (monsters from Compile's RPG series <a href=\"https://www.mobygames.com/search/quick?gamegroup=Mad%c5%8d+Monogatari+series\">Mad? Monogatari</a>)\nfall down from the top into a cylinder. They can be moved left or right, rotated in either direction and made to drop faster. The goal is to get four puyos of the same color touching each other horizontally or vertically. Doing so removes them from the field. Making groups of larger than four, several at the same time or creating chain reactions nets more points. The game ends once the stacked puyos reach the top of the cylinder.<br><br>The game offers an endless single-player mode, a two-player mode (first player to fill their cylinder loses) and a mission mode. Mission mode presents the player with a number of pre-filled playing fields with a preset task, like making a minimum number of puyos disappear in one move, or removing all puyos of a certain color.",
+  "publishedBy": "Tokuma Shoten Intermedia Inc.",
+  "developedBy": "Compile",
+  "released": "Oct 25, 1991",
+  "alsoFor": "MSX | Combined View",
+  "genre": "Puzzle",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/nes/puyo-puyo",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Falling block puzzle",
+  "setting": "",
+  "release": [
+    {
+      "system": "NES",
+      "releases": [
+        {
+          "publisher": "Tokuma Shoten Intermedia Inc.",
+          "developer": "Compile",
+          "ported": "Tokuma Shoten Intermedia Inc.",
+          "country": " Japan",
+          "releaseDate": "Oct 25, 1991",
+          "ean13": "4 988008 005493",
+          "comments": "Famicom Disk System-only release"
+        },
+        {
+          "publisher": "Tokuma Shoten Intermedia Inc.",
+          "developer": "Compile",
+          "ported": "Tokuma Shoten Intermedia Inc.",
+          "country": " Japan",
+          "releaseDate": "Oct 25, 1991",
+          "ean13": "4 988008 005493",
+          "comments": "Famicom Disk System-only release"
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/232684-puyo-puyo-nes-screenshot-famicom-disk-system-title-screen.png",
+      "caption": "Famicom Disk System title screen"
+    },
+    {
+      "link": "/images/shots/l/134730-puyo-puyo-nes-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/134731-puyo-puyo-nes-screenshot-play-select-screen.png",
+      "caption": "Play Select screen"
+    },
+    {
+      "link": "/images/shots/l/134732-puyo-puyo-nes-screenshot-if-four-same-colored-puyos-touching.png",
+      "caption": "If four same-colored puyos touching each other..."
+    },
+    {
+      "link": "/images/shots/l/134733-puyo-puyo-nes-screenshot-the-puyos-willdisappear.png",
+      "caption": "the puyos willdisappear."
+    },
+    {
+      "link": "/images/shots/l/134734-puyo-puyo-nes-screenshot-the-sidepanel-shows-which-puyo-combination.png",
+      "caption": "The sidepanel shows which puyo combination comes next."
+    },
+    {
+      "link": "/images/shots/l/134735-puyo-puyo-nes-screenshot-all-puyos-of-the-same-color-that.png",
+      "caption": "All puyos of the same color that touch eachother will disappear."
+    },
+    {
+      "link": "/images/shots/l/134736-puyo-puyo-nes-screenshot-pyos-on-top-will-then-fall-down.png",
+      "caption": "Pyos on top will then fall down"
+    },
+    {
+      "link": "/images/shots/l/556731-puyo-puyo-nes-screenshot-game-over.png",
+      "caption": "Game Over"
+    },
+    {
+      "link": "/images/shots/l/556732-puyo-puyo-nes-screenshot-the-end-is-near.png",
+      "caption": "The end is near..."
+    },
+    {
+      "link": "/images/shots/l/556733-puyo-puyo-nes-screenshot-human-version-option-in-menu.png",
+      "caption": "Human version - option in menu."
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/63676-puyo-puyo-nes-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "Japan",
+      "platforms": "NES"
+    }
+  ]
+}

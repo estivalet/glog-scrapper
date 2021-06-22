@@ -1,0 +1,72 @@
+{
+  "name": "Locomotion",
+  "shortName": "locomotion",
+  "description": "<i>Locomotion</i> is an arcade-puzzle game in which you are presented with a top-down view of a railway network with a number of stations and junctions. Trains are released from stations at random intervals, each with a destination station. Your job is to get a set number of them to this destination within a time limit. <br><br>You control a cursor which can click on each of the junctions, toggling their positions. When trains reach a junction which is not set in a direction they can move through, they will stop until you move it. When they reach the wrong station they simply reverse and continue. If two trains make contact, they are lost, and a penalty is accrued.",
+  "publishedBy": "Kingsoft GmbH",
+  "developedBy": "Prestige Softwareentwicklung GmbH",
+  "released": "1992",
+  "alsoFor": "Amiga, Commodore 64, DOS | Combined View",
+  "genre": "Puzzle",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-st/locomotion",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari ST",
+      "releases": [
+        {
+          "publisher": "Kingsoft GmbH",
+          "developer": "Prestige Softwareentwicklung GmbH",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1992",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/305420-locomotion-atari-st-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/305421-locomotion-atari-st-screenshot-copy-protection.png",
+      "caption": "Copy protection"
+    },
+    {
+      "link": "/images/shots/l/305422-locomotion-atari-st-screenshot-start-menu.png",
+      "caption": "Start menu"
+    },
+    {
+      "link": "/images/shots/l/305424-locomotion-atari-st-screenshot-choose-a-game.png",
+      "caption": "Choose a game"
+    },
+    {
+      "link": "/images/shots/l/305426-locomotion-atari-st-screenshot-playing-the-game.png",
+      "caption": "Playing the game!"
+    },
+    {
+      "link": "/images/shots/l/305427-locomotion-atari-st-screenshot-end-of-level-wrap-up.png",
+      "caption": "End-of-level wrap-up"
+    },
+    {
+      "link": "/images/shots/l/305425-locomotion-atari-st-screenshot-high-score-table.png",
+      "caption": "High score table"
+    },
+    {
+      "link": "/images/shots/l/305423-locomotion-atari-st-screenshot-messing-around-in-the-board.png",
+      "caption": "Messing around in the board editor"
+    }
+  ],
+  "cover": []
+}

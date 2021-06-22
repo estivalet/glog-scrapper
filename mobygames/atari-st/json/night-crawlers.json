@@ -1,0 +1,46 @@
+{
+  "name": "Night Crawlers",
+  "shortName": "night-crawlers",
+  "description": "<i>Night Crawlers</i> is a game for one to four players who has to guide their worms so that they get as much points as possible.<br><br>The game board consists of 400 dots arranged so that each dot has six neighbors. The board wraps on all sides. Worms eat their way from dot to neighboring dot leaving a trail behind them. A worm can not follow the trail left by another worm but must strike out in a new direction. If a worm takes the last trail leading from a dot it wins one point. If a worm enters a dot which has no free exit lines it dies.<br><br>Even the human controlled worms act autonomously, but if they encounter a situation that's new to them they will wait for input from the player. The input will be stored in the worms memory so that it can recall how to act in that situation in the future. Each worm has a memory that makes it able to remember how it should act in given situations. Every worms memory can be erased. If computer controlled worms encounter a situation they don't recognise they will act at random.",
+  "publishedBy": "",
+  "developedBy": "",
+  "released": "Sep, 1986",
+  "alsoFor": "",
+  "genre": "Simulation",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-st/night-crawlers",
+  "visual": "",
+  "gamePlay": "Arcade, Puzzle elements",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari ST",
+      "releases": []
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/330956-night-crawlers-atari-st-screenshot-title-and-info-box.png",
+      "caption": "Title and info box"
+    },
+    {
+      "link": "/images/shots/l/330957-night-crawlers-atari-st-screenshot-right-at-the-beginning.png",
+      "caption": "Right at the beginning"
+    },
+    {
+      "link": "/images/shots/l/330958-night-crawlers-atari-st-screenshot-it-isn-t-easy-at-this-point.png",
+      "caption": "It isn't easy at this point"
+    },
+    {
+      "link": "/images/shots/l/330959-night-crawlers-atari-st-screenshot-looks-like-dark-blue-won.png",
+      "caption": "Looks like dark blue won"
+    }
+  ],
+  "cover": []
+}

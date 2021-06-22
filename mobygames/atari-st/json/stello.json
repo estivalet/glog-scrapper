@@ -1,0 +1,80 @@
+{
+  "name": "Stello",
+  "shortName": "stello",
+  "description": "<em>Stello</em> is an implementation of the <a href=\"https://www.mobygames.com/search/quick?gamegroup=Genre%3a+Board+game+-+Reversi+%2f+Othello\">Reversi/Othello</a> board game. Two players with white and black stones are setting in turns, flipping all stones of the other color which are in a line of the same color, either horizontally, vertically or diagonal.<br><br><em>Stello</em> is a GEM program, displaying information in several windows. The user can view the board, move history, analyses information of the board position and the board transition. All those informations can also be exported and printed, directly from the game. The player can play against a strong computer AI, or two human players compete against each others or you can watch the game playing against itself. Games can be saved and loaded. The board and window graphics can be loaded, there are several sets in 2 up to 16 colors on the game disk. Language in-game can be switched during game, with English, German, French and Danish available.",
+  "publishedBy": "Futuresoft",
+  "developedBy": "Futuresoft",
+  "released": "Jun, 1994",
+  "alsoFor": "",
+  "genre": "Strategy / tactics",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-st/stello",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Board game",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari ST",
+      "releases": [
+        {
+          "publisher": "Futuresoft",
+          "developer": "Futuresoft",
+          "ported": "",
+          "country": " United States, Canada, Denmark, United Kingdom",
+          "releaseDate": "Jun, 1994",
+          "ean13": "",
+          "comments": "Version 1.0"
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/799905-stello-atari-st-screenshot-game-start-version-2-1.png",
+      "caption": "Game start (Version 2.1)"
+    },
+    {
+      "link": "/images/shots/l/799906-stello-atari-st-screenshot-file-options-loading-and-saving.png",
+      "caption": "File options: loading and saving, and also extended export and printing"
+    },
+    {
+      "link": "/images/shots/l/799907-stello-atari-st-screenshot-pure-view-compared-with.png",
+      "caption": "Pure view, compared with..."
+    },
+    {
+      "link": "/images/shots/l/799908-stello-atari-st-screenshot-all-information-windows-moves-analyses.png",
+      "caption": "... all information windows (moves, analyses, transcript)"
+    },
+    {
+      "link": "/images/shots/l/799909-stello-atari-st-screenshot-language-can-be-switched-during.png",
+      "caption": "Language can be switched during the game"
+    },
+    {
+      "link": "/images/shots/l/799910-stello-atari-st-screenshot-export-can-be-configured-by-further.png",
+      "caption": "Export can be configured by further options"
+    },
+    {
+      "link": "/images/shots/l/799911-stello-atari-st-screenshot-as-well-as-the-output-settings.png",
+      "caption": "As well as the output settings"
+    },
+    {
+      "link": "/images/shots/l/799912-stello-atari-st-screenshot-you-can-load-schemes-for-the-boards.png",
+      "caption": "You can load schemes for the boards (in 2, 4 or 16 colors)"
+    },
+    {
+      "link": "/images/shots/l/799914-stello-atari-st-screenshot-4-color-scheme.png",
+      "caption": "4 color scheme"
+    },
+    {
+      "link": "/images/shots/l/799917-stello-atari-st-screenshot-another-picture-included-with-the.png",
+      "caption": "Another picture included with the game"
+    }
+  ],
+  "cover": []
+}

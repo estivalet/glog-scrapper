@@ -1,0 +1,56 @@
+{
+  "name": "Exploding Wall",
+  "shortName": "exploding-wall",
+  "description": "<i>Exploding Wall</i> is inspired by the arcade game <a href=\"https://www.mobygames.com/game/arcade/arkanoid\">Arkanoid</a> where you control a bat at the bottom of the screen, bouncing a ball upwards to remove all the bricks on the screen to move to the next level. The difference between this game and the other types off this genre was that it wasn't single screen but allowed you to bounce the ball to the left or right, scrolling the screen when you moved your bat, left or right. Below the playing area is a radar that shows you the position of all the bricks remaining. As you remove the bricks, some will drop a bonus and these include lasers, missiles and slow the ball down. Aliens also move around the screen but you can remove them by hitting them. If you let the ball pass the bat then you lose one of three lives.",
+  "publishedBy": "Byte Back",
+  "developedBy": "M.C. Lothlorien Ltd",
+  "released": "1990",
+  "alsoFor": "Atari 8-bit, ZX Spectrum | Combined View",
+  "genre": "Action",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/exploding-wall",
+  "visual": "",
+  "gamePlay": "Paddle / Pong",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "Byte Back",
+          "developer": "M.C. Lothlorien Ltd",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1990",
+          "ean13": "5 018854 100116",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/744919-exploding-wall-commodore-64-screenshot-title-screen.png",
+      "caption": "Title Screen"
+    },
+    {
+      "link": "/images/shots/l/744920-exploding-wall-commodore-64-screenshot-remove-the-bricks.png",
+      "caption": "Remove the bricks"
+    },
+    {
+      "link": "/images/shots/l/744921-exploding-wall-commodore-64-screenshot-moved-to-the-far-left.png",
+      "caption": "Moved to the far left"
+    },
+    {
+      "link": "/images/shots/l/744922-exploding-wall-commodore-64-screenshot-next-level.png",
+      "caption": "Next level"
+    }
+  ],
+  "cover": []
+}

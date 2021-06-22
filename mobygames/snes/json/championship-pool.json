@@ -1,0 +1,161 @@
+{
+  "name": "Championship Pool",
+  "shortName": "championship-pool",
+  "description": "<i>Championship Pool</i> is a pool game where players can 8-ball or 9-ball pool tournament that starts off with the BCA Regional Championship where the player must defeat 32 opponents in a first to four games match. If the player loses against any of the 32 opponents, they are then eliminated from the tournament. The winner of that then goes onto the World Championship.<br><br>All of the gameplay is done from a top down view of the table. The player moves an icon to indicate location they want to hit the ball too. To aid in the aiming, a ghost of the cue ball and the first ball that is hit is repetitively played out to show the path of the hit ball. With the all the shots there is a very small margin of error, but this is only notable when a long shot is played or a shot from a sharp angle and the ghost balls will randomly play out all the possible occurrences. The player can also change the power and spin of the played shot with the ghost balls will updating to show the outcome of those changes. <br><br>There are 4 different game modes that can be chosen, each with a different set of pool games. The different game modes and there games are:<br><br><b>1. Tournament:</b> The player must defeat 32 different players in a first to four knockout tournament in 8-ball or 9-ball pool before going on to the World Championship. During the tournament the opponent is never actually is seen playing there shots. Instead, when it is the opponents turn, it cuts to an image of the player with a caption and then returns the control to the player with some balls removed and moved. This way the opponent can finish the game within 4 turns regardless of if they where snookered or not.<br><br><b>2. Challenge</b>:  It has many different pool games that are played, all with one player without an opponent. The games are:<ul>\n<li><b>14.1 Challenge</b> – After the break the ball is placed anywhere at the top of the table behind the line. At that point, the player can hit any ball but once the fails to hit a ball in a hole the game is over. If there is only one ball left on the table the rest of the balls are re-racked and play continues. At the end score is given based on the number of balls that where hit in the holes. The score are tallied up over 5 games to get the total score.</li><br>\n<li><b>Eight Ball</b> - After the break the ball is placed anywhere at the top of the table behind the line. The player must hit all the chosen set of balls (stripes or solids) and the 8-ball in one turn.  The score is based on how many balls where hit in.</li><br>\n<li><b>Nine Ball</b> - After the break the ball is placed anywhere at the top of the table behind the line. The player must hit the 9 ball in one turn. The score is based on how many balls where hit in.</li><br>\n<li><b>Equal Offence</b> – Same as 14.1 Challenge but there is only one game played.</li><br>\n<li><b>Three Pool</b> – Only have 3 balls on the table. Score is based on how many shots it takes to get all three balls in with lower been better.</li><br>\n<li><b>Speed Pool</b> – Objective is to hit all the balls in as quickly as possible as a timer is timing how long the game takes. Any ball can be hit at any time and the player can miss the shot and not be penalised (other than taking longer).</li></ul><b>3. Party: </b> It has many different multiplayer pool games that are played with ether just 2 or 2 to 8 human players. The games are:<ul>\n<li><b>Eight Ball (2 Players) </b> – A standard eight ball game with the players taking turns to play.</li><br>\n<li><b>Nine Ball (2-8 Players) </b> – A standard nine ball game with up to 8 players taking turns. First player to get the 9-ball in wins.</li><br>\n<li><b>14.1 Continuous (2 Players) </b> – Players can hit any ball in for a point. If a shot is missed then other player plays. If there is only one ball on the table the pocketed balls are re-racked. Play continues until one of the players reaches the score chosen at the start of the game.</li><br>\n<li><b>Ten Ball (2-8 Players) </b> – Same as Nine Ball except with 10 balls.</li><br>\n<li><b>Rotation (2-8 Players) </b> – Only the lowest ball can be hit and the score for getting a ball in is the value of the ball (e.g. 8-ball is 8 points). Player with the highest score at the end of the game wins.</li><br>\n<li><b>Straight Pool (2 Players) </b> –  Same as 14.1 Continuous but the player with the highest score after one game wins.</li><br>\n<li><b>Equal Offence (2-8 Players) </b> –  Same as Equal Offence in challenge mode but players can take turns to beat each others score.</li><br>\n<li><b>Fifteen Ball (2-8 Players) </b> – Same as Rotation except that any ball can be hit not just the lowest.</li><br>\n<li><b>One Pocket (2 Players) </b> – The two players are given one of the two pockets at the end of the table. The player must hit all the balls in there nominated pocket with the one with the most balls wins.</li><br>  \n<li><b>Three Ball (2-8 Players) </b> – Same as Three Ball in challenge mode but players can take turns to beat each other’s score.</li><br>\n<li><b>Speed Ball (2-8 Players) </b> – Same as Speed Ball in challenge mode but players can take turns to beat each other’s score.</li></ul><b>4. Freestyle:</b> Lets the player practice with no opponent, no penalties, the ability to move any ball to the desired location (or remove by throwing the ball in the pocket), and the ability to place potted balls back on the table.",
+  "publishedBy": "Mindscape, Inc.",
+  "developedBy": "Bitmasters, Inc.",
+  "released": "Nov, 1993",
+  "alsoFor": "Game Boy, Genesis, NES | Combined View",
+  "genre": "Sports",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "Pool / snooker",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/snes/championship-pool",
+  "visual": "",
+  "gamePlay": "",
+  "setting": "",
+  "release": [
+    {
+      "system": "SNES",
+      "releases": [
+        {
+          "publisher": "Mindscape, Inc.",
+          "developer": "Bitmasters, Inc.",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "Nov, 1993",
+          "ean13": "",
+          "comments": ""
+        },
+        {
+          "publisher": "Imagineer Co., Ltd.",
+          "developer": "Bitmasters, Inc.",
+          "ported": "",
+          "country": " Japan",
+          "releaseDate": "Jun 24, 1994",
+          "ean13": "4 965857 005133",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/338009-championship-pool-snes-screenshot-title-screen.png",
+      "caption": "Title Screen"
+    },
+    {
+      "link": "/images/shots/l/373845-championship-pool-snes-screenshot-title-scree-japanese-version.png",
+      "caption": "Title scree (Japanese version)"
+    },
+    {
+      "link": "/images/shots/l/338010-championship-pool-snes-screenshot-game-mode-selection-screen.png",
+      "caption": "Game Mode selection screen"
+    },
+    {
+      "link": "/images/shots/l/338011-championship-pool-snes-screenshot-selecting-initial-rack.png",
+      "caption": "Selecting initial rack"
+    },
+    {
+      "link": "/images/shots/l/338012-championship-pool-snes-screenshot-select-a-control-type.png",
+      "caption": "Select a control type"
+    },
+    {
+      "link": "/images/shots/l/338013-championship-pool-snes-screenshot-getting-ready-for-the-break.png",
+      "caption": "Getting ready for the break"
+    },
+    {
+      "link": "/images/shots/l/338014-championship-pool-snes-screenshot-options-during-a-game.png",
+      "caption": "Options during a game"
+    },
+    {
+      "link": "/images/shots/l/338015-championship-pool-snes-screenshot-arriving-at-the-pool-hall.png",
+      "caption": "Arriving at the pool hall for the tournament"
+    },
+    {
+      "link": "/images/shots/l/338016-championship-pool-snes-screenshot-intro-for-the-start-of-the.png",
+      "caption": "Intro for the start of the BCA Regional Qualifying Tournament"
+    },
+    {
+      "link": "/images/shots/l/338017-championship-pool-snes-screenshot-first-opponent.png",
+      "caption": "First opponent"
+    },
+    {
+      "link": "/images/shots/l/338018-championship-pool-snes-screenshot-there-s-a-coin-toss-to-decide.png",
+      "caption": "There's a coin toss to decide who goes first"
+    },
+    {
+      "link": "/images/shots/l/338019-championship-pool-snes-screenshot-aiming-at-the-3-ball.png",
+      "caption": "Aiming at the 3 ball"
+    },
+    {
+      "link": "/images/shots/l/338020-championship-pool-snes-screenshot-the-game-shows-where-the.png",
+      "caption": "The game shows where the 3 ball will roll if its hit there"
+    },
+    {
+      "link": "/images/shots/l/338021-championship-pool-snes-screenshot-instant-replay.png",
+      "caption": "Instant replay"
+    },
+    {
+      "link": "/images/shots/l/338022-championship-pool-snes-screenshot-change-the-music-at-the.png",
+      "caption": "Change the music at the juke box"
+    },
+    {
+      "link": "/images/shots/l/338023-championship-pool-snes-screenshot-all-the-different-challenge.png",
+      "caption": "All the different Challenge Games."
+    },
+    {
+      "link": "/images/shots/l/338024-championship-pool-snes-screenshot-never-actually-see-the-opponent.png",
+      "caption": "Never actually see the opponent play, as all it does is go to this &ldquo;TimeWarp&rdquo; cut screen."
+    },
+    {
+      "link": "/images/shots/l/338026-championship-pool-snes-screenshot-setting-the-power-of-the.png",
+      "caption": "Setting the power of the shot"
+    },
+    {
+      "link": "/images/shots/l/338027-championship-pool-snes-screenshot-game-over.png",
+      "caption": "Game over"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/147520-championship-pool-snes-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "Germany",
+      "platforms": "SNES"
+    },
+    {
+      "link": "/images/covers/l/147521-championship-pool-snes-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "Germany",
+      "platforms": "SNES"
+    },
+    {
+      "link": "/images/covers/l/221920-championship-pool-snes-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "United Kingdom",
+      "platforms": "SNES"
+    },
+    {
+      "link": "/images/covers/l/221921-championship-pool-snes-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "United Kingdom",
+      "platforms": "SNES"
+    },
+    {
+      "link": "/images/covers/l/221922-championship-pool-snes-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "United Kingdom",
+      "platforms": "SNES"
+    }
+  ]
+}

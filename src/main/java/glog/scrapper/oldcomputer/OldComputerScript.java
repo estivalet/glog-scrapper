@@ -21,22 +21,20 @@ import org.w3c.dom.Document;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
-import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
-import glog.util.IOUtil;
 import glog.util.XMLWrapper;
 import glog.util.XPathParser;
 
 /**
  * TODO Add connectors information as in
- * http://www.old-computers.com/museum/photos.asp?t=2&c=1082&st=1
+ * https://www.old-computers.com/museum/photos.asp?t=2&c=1082&st=1
  * 
  * @author lestivalet
  *
  */
 public class OldComputerScript {
-	private static final String OLD_COMPUTER_URL = "http://www.old-computers.com/museum/";
+	private static final String OLD_COMPUTER_URL = "https://www.old-computers.com/museum/";
 	private List<OldComputer> computers;
 
 	public OldComputerScript() {
@@ -46,7 +44,8 @@ public class OldComputerScript {
 	private OldComputer summaryPage(int id) throws Exception {
 		OldComputer oc = new OldComputer();
 
-		XPathParser xp = new XPathParser("http://www.old-computers.com/museum/computer.asp?c=" + id + "&st=1");
+		XPathParser xp = new XPathParser("https://www.old-computers.com/museum/computer.asp?c=" + id);
+		System.out.println(xp.getPageContents());
 		String description = xp.parse("//p[@class='petitnoir']");
 		oc.setDescription(description);
 		oc.setImage(OLD_COMPUTER_URL + xp.parse("//img[contains(@src,'photos/')]/@src"));
@@ -69,11 +68,11 @@ public class OldComputerScript {
 	}
 
 	private OldComputer photosPage(OldComputer oc, int id) throws Exception {
-		XPathParser xp = new XPathParser("http://www.old-computers.com/museum/photos.asp?t=1&c=" + id + "&st=1");
-		Node test = xp.parseNode("//font[contains(text(),'992 computers')]");
-		if (test != null) {
-			return oc;
-		}
+		XPathParser xp = new XPathParser("https://www.old-computers.com/museum/photos.asp?t=1&c=" + id + "&st=1");
+//		Node test = xp.parseNode("//font[contains(text(),'992 computers')]");
+//		if (test != null) {
+//			return oc;
+//		}
 		NodeList images = xp.parseList("//img[contains(@src,'icones_photos')]");
 		for (int i = 0; i < images.getLength(); i++) {
 			// String src = OLD_COMPUTER_URL +
@@ -94,7 +93,7 @@ public class OldComputerScript {
 	}
 
 	private OldComputer advertPage(OldComputer oc, int id) throws Exception {
-		XPathParser xp = new XPathParser("http://www.old-computers.com/museum/photos.asp?t=2&c=" + id + "&st=1");
+		XPathParser xp = new XPathParser("https://www.old-computers.com/museum/photos.asp?t=2&c=" + id + "&st=1");
 		Node test = xp.parseNode("//font[contains(text(),'992 computers')]");
 		if (test != null) {
 			return oc;
@@ -141,7 +140,7 @@ public class OldComputerScript {
 	}
 
 	private OldComputer hardwareInfo(OldComputer oc, int id) throws Exception {
-		XPathParser xp = new XPathParser("http://www.old-computers.com/museum/hardware.asp?t=1&c=" + id + "&st=1");
+		XPathParser xp = new XPathParser("https://www.old-computers.com/museum/hardware.asp?t=1&c=" + id + "&st=1");
 		NodeList tmp = xp.parseList("html/body/table[2]/tbody/tr[1]/td[3]/p");
 		for (int i = 1; i < tmp.getLength() + 1; i++) {
 			Node n = xp.parseNode("html/body/table[2]/tbody/tr[1]/td[3]/p[" + i + "]");
@@ -179,7 +178,7 @@ public class OldComputerScript {
 	}
 
 	private OldComputer emulatorInfo(OldComputer oc, int id) throws Exception {
-		XPathParser xp = new XPathParser("http://www.old-computers.com/museum/emulator.asp?t=1&c=" + id + "&st=1");
+		XPathParser xp = new XPathParser("https://www.old-computers.com/museum/emulator.asp?t=1&c=" + id + "&st=1");
 		NodeList tmp = xp.parseList("html/body/table[2]/tbody/tr[1]/td[3]/table");
 		for (int i = 3; i < tmp.getLength() + 1; i++) {
 			OldComputerEmulator oce = new OldComputerEmulator();
@@ -198,7 +197,7 @@ public class OldComputerScript {
 	}
 
 	private OldComputer linksPage(OldComputer oc, int id) throws Exception {
-		XPathParser xp = new XPathParser("http://www.old-computers.com/museum/links.asp?c=" + id + "&st=1");
+		XPathParser xp = new XPathParser("https://www.old-computers.com/museum/links.asp?c=" + id + "&st=1");
 		NodeList links = xp.parseList("//a[@class='petitnoir3']/@href");
 		for (int i = 0; i < links.getLength(); i++) {
 			oc.addLink(links.item(i).getTextContent());
@@ -240,7 +239,7 @@ public class OldComputerScript {
 	 * criteria to retrieve all links to the systems. Do it for computers, consoles
 	 * and pongs.
 	 * 
-	 * http://www.old-computers.com/search/search2.asp?st=1
+	 * https://www.old-computers.com/search/search2.asp?st=1
 	 * 
 	 * @throws Exception
 	 */
@@ -262,8 +261,8 @@ public class OldComputerScript {
 		new File("xml/").mkdirs();
 		new File("json/").mkdirs();
 
-		List<String> lines = FileUtils.readLines(
-				new File("C:\\Users\\lestivalet\\dev\\stuff\\glog-scrapper\\data\\oldcomputer\\oldcomputer.txt"));
+		List<String> lines = FileUtils
+				.readLines(new File("C:\\luisoft\\develop\\glog-scrapper\\data\\oldcomputer\\oldcomputer.txt"));
 		for (String line : lines) {
 			OldComputerScript ocs = new OldComputerScript();
 			line = line.substring(line.indexOf("?c=") + 3, line.indexOf("&amp"));
@@ -285,26 +284,26 @@ public class OldComputerScript {
 	}
 
 	public static void main(String[] args) throws Exception {
-		System.setProperty("http.proxyHost", "wg-vip.trt4.gov.br");
-		System.setProperty("http.proxyPort", "3128");
-		System.setProperty("https.proxyHost", "wg-vip.trt4.gov.br");
-		System.setProperty("https.proxyPort", "3129");
-		System.setProperty("http.proxyUser", "downloadupdates");
-		System.setProperty("http.proxyPassword", "D0wnl04d");
-		System.setProperty("https.proxyUser", "downloadupdates");
-		System.setProperty("https.proxyPassword", "D0wnl04d");
+//		System.setProperty("http.proxyHost", "wg-vip.trt4.gov.br");
+//		System.setProperty("http.proxyPort", "3128");
+//		System.setProperty("https.proxyHost", "wg-vip.trt4.gov.br");
+//		System.setProperty("https.proxyPort", "3129");
+//		System.setProperty("http.proxyUser", "downloadupdates");
+//		System.setProperty("http.proxyPassword", "D0wnl04d");
+//		System.setProperty("https.proxyUser", "downloadupdates");
+//		System.setProperty("https.proxyPassword", "D0wnl04d");
 
 		OldComputerScript ocs = new OldComputerScript();
-		// ocs.extractLinks();
-		// ocs.processLinks();
+//		 ocs.extractLinks();
+		ocs.processLinks();
 
-		String[] files = new File("data/oldcomputer/consoles/json").list();
-		for (String file : files) {
-			File json = new File("data/oldcomputer/consoles/json/" + file);
-			OldComputer oc = new Gson().fromJson(IOUtil.getContents(json), OldComputer.class);
-			// System.out.println("Console " + file + " from oldcomputer.com site");
-			System.out.println(oc.getManufacturer() + " " + oc.getName());
-		}
+//		String[] files = new File("data/oldcomputer/consoles/json").list();
+//		for (String file : files) {
+//			File json = new File("data/oldcomputer/consoles/json/" + file);
+//			OldComputer oc = new Gson().fromJson(IOUtil.getContents(json), OldComputer.class);
+//			// System.out.println("Console " + file + " from oldcomputer.com site");
+//			System.out.println(oc.getManufacturer() + " " + oc.getName());
+//		}
 
 		// OldComputer oc = ocs.getComputerInfo(1181);
 		// String xml = ocs.toXML(oc);

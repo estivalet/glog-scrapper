@@ -1,0 +1,68 @@
+{
+  "name": "Alien Blockade",
+  "shortName": "alien-blockade",
+  "description": "<i>Alien Blockade</i> is an adapted version of the arcade game <moby game=\"QIX\"><i>QIX</i></moby>. The player controls a marker and must use it to draw rectangles on the screen while avoiding the enemies. Initially the game area is black, but as the player creates rectangles on the screen a hidden image is revealed. If the player takes too long to draw the rectangles, the time will run out and a life will be lost. When enough percentage of the hidden image has been revealed, it's on to the next level.",
+  "publishedBy": "The Bombout Brothers",
+  "developedBy": "The Bombout Brothers",
+  "released": "1991",
+  "alsoFor": "",
+  "genre": "Action, Puzzle",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-st/alien-blockade",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari ST",
+      "releases": [
+        {
+          "publisher": "The Bombout Brothers",
+          "developer": "The Bombout Brothers",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1991",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/870247-alien-blockade-atari-st-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/870248-alien-blockade-atari-st-screenshot-first-stage.png",
+      "caption": "First stage"
+    },
+    {
+      "link": "/images/shots/l/870249-alien-blockade-atari-st-screenshot-mid-game.png",
+      "caption": "Mid-game"
+    },
+    {
+      "link": "/images/shots/l/870250-alien-blockade-atari-st-screenshot-oops-out-of-time.png",
+      "caption": "Oops out of time"
+    },
+    {
+      "link": "/images/shots/l/870251-alien-blockade-atari-st-screenshot-i-m-getting-there.png",
+      "caption": "I'm getting there"
+    },
+    {
+      "link": "/images/shots/l/870252-alien-blockade-atari-st-screenshot-the-second-level-is-a-bit.png",
+      "caption": "The second level is a bit more colorful"
+    },
+    {
+      "link": "/images/shots/l/870253-alien-blockade-atari-st-screenshot-game-over.png",
+      "caption": "Game over"
+    }
+  ],
+  "cover": []
+}

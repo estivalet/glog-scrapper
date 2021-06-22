@@ -1,0 +1,81 @@
+{
+  "name": "Airliner",
+  "shortName": "airliner",
+  "description": "<i>Airliner</i> was written in BASIC (to the point where it's possible to crash it by inputting the wrong type of data) and simulates flight in an unusual manner: featuring no arcade action or in-cockpit view elements. Instead, the game displayed a full instrument panel on the screen displaying airspeed, flap angle, direction, altitude, and rate of change in altitude. These must be used to take off and land at the correct location, taking care of navigating the plane as well as flying it. <br><br>Full diagrams of the instrument panel and an area map (loosely based around the area near Protek's base in Scotland) are included within the manual. A 3D view of the plane landing (or crashing) is displayed towards the end of the process.",
+  "publishedBy": "IPC Business Press Ltd, IPC Electrical-Electronic Press Ltd",
+  "developedBy": "",
+  "released": "1982",
+  "alsoFor": "Commodore 64 | Combined View",
+  "genre": "Simulation",
+  "perspective": "1st-person",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/zx-spectrum/airliner",
+  "visual": "",
+  "gamePlay": "",
+  "setting": "",
+  "release": [
+    {
+      "system": "ZX Spectrum",
+      "releases": [
+        {
+          "publisher": "IPC Business Press Ltd",
+          "developer": "",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1982",
+          "ean13": "",
+          "comments": "Originally published as a Type-in in Your Computer magazine issue December '82, page 38."
+        },
+        {
+          "publisher": "Protek Computing Ltd",
+          "developer": "",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1983",
+          "ean13": "",
+          "comments": ""
+        },
+        {
+          "publisher": "Microparadise Software",
+          "developer": "",
+          "ported": "",
+          "country": " Spain",
+          "releaseDate": "1984",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/129161-airliner-zx-spectrum-screenshot-loading-screen.png",
+      "caption": "Loading screen"
+    },
+    {
+      "link": "/images/shots/l/129160-airliner-zx-spectrum-screenshot-the-main-instrument-panel.png",
+      "caption": "The main instrument panel"
+    }
+  ],
+  "cover": [
+    {
+      "link": "https://www.mobygames.com/images/covers/l/49255-airliner-zx-spectrum-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/49256-airliner-zx-spectrum-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    }
+  ]
+}

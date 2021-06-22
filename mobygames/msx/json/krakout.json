@@ -1,0 +1,136 @@
+{
+  "name": "Krakout",
+  "shortName": "krakout",
+  "description": "<a href=\"https://www.mobygames.com/search/quick?game=Arkanoid\">Arkanoid</a>-style <a href=\"https://www.mobygames.com/search/quick?game=Breakout\">Breakout</a> clone, which unlike most other similar games has the bat on the side of the screen (there is a left/right option) instead of at the bottom.  There are 100 screens to be conquered.<br><br>There are a number of types of special bricks, but unlike e.g. Arkanoid, they do not fall towards the bat. Instead, when you hit a special brick, it flips to show a letter. E.g. E (Extend bat), C (Catch ball), M (Missile), B (Bomb, explodes when hit by ball, clearing a number of bricks) and X (Extra life).  Extra lives are also awarded when the player scores 10,000 points.<br><br>The enemies/obstacles are more varied than in Arkanoid. Some make the bat freeze, some actually chew and eat your ball and spit out the core back at you!",
+  "publishedBy": "Gremlin Graphics Software Limited",
+  "developedBy": "Gremlin Graphics Software Limited",
+  "released": "1987",
+  "alsoFor": "Amstrad CPC, BBC Micro, Commodore 64, Thomson MO, Thomson TO, ZX Spectrum | Combined View",
+  "genre": "Action",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/msx/krakout",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade, Paddle / Pong",
+  "setting": "",
+  "release": [
+    {
+      "system": "MSX",
+      "releases": [
+        {
+          "publisher": "Gremlin Graphics Software Limited",
+          "developer": "Gremlin Graphics Software Limited",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1987",
+          "ean13": "5 013658 013167",
+          "comments": ""
+        },
+        {
+          "publisher": "Kixx",
+          "developer": "Gremlin Graphics Software Limited",
+          "ported": "",
+          "country": " France, Germany, Italy, United Kingdom",
+          "releaseDate": "1989",
+          "ean13": "5 013442 542736",
+          "comments": "Budget re-release"
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/135746-krakout-msx-screenshot-loading-screen.png",
+      "caption": "Loading screen"
+    },
+    {
+      "link": "/images/shots/l/135747-krakout-msx-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/135748-krakout-msx-screenshot-options-screen.png",
+      "caption": "Options screen"
+    },
+    {
+      "link": "/images/shots/l/135749-krakout-msx-screenshot-beginning-of-level-1.png",
+      "caption": "Beginning of level 1"
+    },
+    {
+      "link": "/images/shots/l/135750-krakout-msx-screenshot-hit-those-smiley-like-figures.png",
+      "caption": "Hit those smiley-like figures"
+    },
+    {
+      "link": "/images/shots/l/135751-krakout-msx-screenshot-try-to-get-the-ball-behind-the-solid.png",
+      "caption": "Try to get the ball behind the solid blocks"
+    },
+    {
+      "link": "/images/shots/l/135752-krakout-msx-screenshot-this-level-is-almost-clear.png",
+      "caption": "This level is almost clear"
+    },
+    {
+      "link": "/images/shots/l/135754-krakout-msx-screenshot-a-fresh-new-level.png",
+      "caption": "A fresh new level"
+    },
+    {
+      "link": "/images/shots/l/135755-krakout-msx-screenshot-hit-the-monsters-for-bonuses.png",
+      "caption": "Hit the monsters for bonuses"
+    },
+    {
+      "link": "/images/shots/l/135757-krakout-msx-screenshot-sometimes-a-letter-appears-in-a-block.png",
+      "caption": "Sometimes a letter appears in a block that you hit"
+    },
+    {
+      "link": "/images/shots/l/135758-krakout-msx-screenshot-hitting-a-block-that-contains-a-letter.png",
+      "caption": "Hitting a block that contains a letter give bonuses, like a double size bat to return the ball"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/119039-krakout-msx-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "MSX"
+    },
+    {
+      "link": "/images/covers/l/119040-krakout-msx-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "MSX"
+    },
+    {
+      "link": "/images/covers/l/120745-krakout-msx-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "MSX"
+    },
+    {
+      "link": "/images/covers/l/207895-krakout-msx-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Cassette Case",
+      "country": "France , Germany , Italy  and United Kingdom",
+      "platforms": "MSX"
+    },
+    {
+      "link": "/images/covers/l/207896-krakout-msx-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Cassette Case",
+      "country": "France , Germany , Italy  and United Kingdom",
+      "platforms": "MSX"
+    },
+    {
+      "link": "/images/covers/l/207897-krakout-msx-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Cassette Case",
+      "country": "France , Germany , Italy  and United Kingdom",
+      "platforms": "MSX"
+    }
+  ]
+}

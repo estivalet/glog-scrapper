@@ -1,0 +1,100 @@
+{
+  "name": "Rattler",
+  "shortName": "rattler",
+  "description": "<i>Rattler</i> is a top-view single-screen version of the game <a href=\"https://www.mobygames.com/search/quick?game=Snake\">Snake</a> where you must direct a constantly moving snake around the screen at 90 degree angles. The aim is to eat so many eggs that appear one at a time on the screen to move to the next level through a gap in the wall at the top of the screen. You must eat an egg within a time-limit or another egg is added to your total to eat, and the more eggs you eat then the longer you grow. If you touch yourself, hit the walls on the outside of the screen, or on later levels hit walls within the screen then you lose one of three lives. before you start the game you can select your skill level (0-4) and also how many balls bounce on the screen (0-4) and if a ball hits your head then you lose a life.",
+  "publishedBy": "Atlantis Software Limited",
+  "developedBy": "",
+  "released": "1984",
+  "alsoFor": "",
+  "genre": "Action",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/rattler",
+  "visual": "",
+  "gamePlay": "Arcade",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "Atlantis Software Limited",
+          "developer": "",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1984",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/776890-rattler-commodore-64-screenshot-title-screen.png",
+      "caption": "Title Screen"
+    },
+    {
+      "link": "/images/shots/l/776891-rattler-commodore-64-screenshot-eat-the-egg.png",
+      "caption": "Eat the egg"
+    },
+    {
+      "link": "/images/shots/l/776892-rattler-commodore-64-screenshot-avoid-the-bouncing-ball.png",
+      "caption": "Avoid the bouncing ball"
+    },
+    {
+      "link": "/images/shots/l/776893-rattler-commodore-64-screenshot-four-balls-on-screen.png",
+      "caption": "Four balls on screen"
+    },
+    {
+      "link": "/images/shots/l/776894-rattler-commodore-64-screenshot-a-wall-in-the-middle-of-the.png",
+      "caption": "A wall in the middle of the screen"
+    },
+    {
+      "link": "/images/shots/l/776895-rattler-commodore-64-screenshot-the-wall-is-now-vertical.png",
+      "caption": "The wall is now vertical"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/651962-rattler-commodore-64-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/651963-rattler-commodore-64-inside-cover.jpg",
+      "scanOf": "Inside Cover",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/651964-rattler-commodore-64-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/651966-rattler-commodore-64-spine-sides.jpg",
+      "scanOf": "Spine/Sides",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/651967-rattler-commodore-64-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "Commodore 64"
+    }
+  ]
+}

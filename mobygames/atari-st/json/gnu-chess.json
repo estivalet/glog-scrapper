@@ -1,0 +1,54 @@
+{
+  "name": "GNU Chess",
+  "shortName": "gnu-chess",
+  "description": "<i>GNU Chess</i> is a fully functional, freeware, chess program which can play against a human player or another chess program. This program has been around for a long time:<ul>\n<li>Version 1 was written by <a href=\"https://www.mobygames.com/developer/sheet/view/developerId,744013/\">Stuart Cracraft</a> in 1984 for a Unix system</li>\n<li>Versions 2, 3, and 4 used <a href=\"https://www.mobygames.com/game/amiga/chess_______\">Chess</a> by <a href=\"https://www.mobygames.com/developer/sheet/view/developerId,52400/\">John Stanback</a> at their core</li>\n<li>Version 5 was written by <a href=\"https://www.mobygames.com/search/quick?developer=Chua+Kong-Sian\">Chua Kong-Sian</a></li>\n<li>The latest version at the time of writing (2014), is version 6.1.2 and this was developed from a chess program called <a href=\"https://www.mobygames.com/search/quick?game=Fruit\">Fruit</a> developed by <a href=\"https://www.mobygames.com/search/quick?developer=Fabien+Letouzey\">Fabien Letouzey</a>. This has a new chess engine but is backwards compatible with previous versions</li></ul>\n<i>GNU Chess</i> version 2.31 was ported to Windows 3.x in 1991 and to WIN 95 in 1995. Versions of GNU Chess v4 series and the v5 series were also ported to Windows but version 6 series does not, in 2014, appear to have a Windows port. The version 2.31 ports have a fully featured graphical interface with the kind of options that are expected of a chess program, there's a hint feature, save/load functions, the ability to change the colours of the board, pieces and text, the board can be setup to play out a set problem etc.  \n",
+  "publishedBy": "",
+  "developedBy": "",
+  "released": "1994",
+  "alsoFor": "Linux, Mainframe, Windows, Windows 3.x | Combined View",
+  "genre": "Strategy / tactics",
+  "perspective": "",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-st/gnu-chess",
+  "visual": "",
+  "gamePlay": "Chess",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari ST",
+      "releases": []
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/751496-gnu-chess-atari-st-screenshot-v4-0-you-start-out-by-choosing.png",
+      "caption": "(v4.0) You start out by choosing a game speed"
+    },
+    {
+      "link": "/images/shots/l/751497-gnu-chess-atari-st-screenshot-v4-0-starting-out.png",
+      "caption": "(v4.0) Starting out"
+    },
+    {
+      "link": "/images/shots/l/751498-gnu-chess-atari-st-screenshot-v4-0-options-menu.png",
+      "caption": "(v4.0) Options menu"
+    },
+    {
+      "link": "/images/shots/l/751499-gnu-chess-atari-st-screenshot-v4-0-about-gnu-chess.png",
+      "caption": "(v4.0) About GNU Chess"
+    },
+    {
+      "link": "/images/shots/l/751500-gnu-chess-atari-st-screenshot-v4-0-game-in-progress.png",
+      "caption": "(v4.0) Game in progress"
+    },
+    {
+      "link": "/images/shots/l/750846-gnu-chess-atari-st-screenshot-v4-0-playing-in-medium-resolution.png",
+      "caption": "(v4.0) Playing in medium resolution"
+    }
+  ],
+  "cover": []
+}

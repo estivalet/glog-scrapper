@@ -1,0 +1,82 @@
+{
+  "name": "Omega Race",
+  "shortName": "omega-race",
+  "description": "This is a remake of a Bally-Midway arcade game.  You control a spaceship and shoot down the enemy &quot;Droid&quot; ships that attack you.  Your ship must survive Droid-dropped mines too--but you can shoot them too.  The last ship of the Droid flights goes into a spiraling pattern.<br><br>There is no end to this game.  Rather, it is a game in which you try to get the highest score, or complete the highest number of levels.<br><br>You control a small triangle that is your ship.  The ship can turn, move forward (with thrusters) and fire.  Movement is one of the games challenges; once the ship is moving, it can only be slowed by turning the nose in the opposite direction and use the thrusters.  While doing that, the ship is unable to fire toward anything it is in motion toward.<br><br>Bouncing also comes into play during movement.  When the ship hits the side of the screen, a wall of force appears, and the ship bounces.  You don't have control over where the ship bounces, and must take time to regain control, before you run into an enemy ship and die.",
+  "publishedBy": "Commodore",
+  "developedBy": "Midway Mfg. Co.",
+  "released": "1982",
+  "alsoFor": "Arcade, Atari 2600, ColecoVision, VIC-20 | Combined View",
+  "genre": "Action",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/omega-race",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade, Shooter",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "Handic software AB",
+          "developer": "Midway Mfg. Co.",
+          "ported": "",
+          "country": " Sweden",
+          "releaseDate": "1983",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/79863-omega-race-commodore-64-screenshot-title-screen.gif",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/79864-omega-race-commodore-64-screenshot-a-game-in-progress.gif",
+      "caption": "A game in progress"
+    },
+    {
+      "link": "/images/shots/l/79865-omega-race-commodore-64-screenshot-headed-for-trouble.gif",
+      "caption": "Headed for trouble..."
+    },
+    {
+      "link": "/images/shots/l/79866-omega-race-commodore-64-screenshot-you-can-choose-any-combination.gif",
+      "caption": "You can choose any combination of background and foreground colors"
+    },
+    {
+      "link": "/images/shots/l/79868-omega-race-commodore-64-screenshot-game-over.gif",
+      "caption": "Game over"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/260076-omega-race-commodore-64-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/260077-omega-race-commodore-64-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/260078-omega-race-commodore-64-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Commodore 64"
+    }
+  ]
+}

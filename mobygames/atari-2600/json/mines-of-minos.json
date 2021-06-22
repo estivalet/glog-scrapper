@@ -1,0 +1,74 @@
+{
+  "name": "Mines of Minos",
+  "shortName": "mines-of-minos",
+  "description": "You are the last mining robot on the Minos mine. Monsters have destroyed all your comrades.<br><br>As the last robot, you must traverse the mine's various levels, gathering spare parts to make more robots (extra lives). You must either avoid the monsters or blow them up with a bomb. After a few seconds, if the monster hasn't hit the bomb, it will explode harmlessly. You can only drop one bomb at a time. If a monster is killed, it will regenerate somewhere in the maze.<br><br>To deposit your spare parts, you must get to the center top or bottom of any level. To move to another level, hold your joystick button down while moving through the tunnels on either side. You can also use these tunnels, without holding down the button, to quickly get from left or right side of the maze to avoid monsters.<br><br>To win the game, get to level five and ram each of the three stationary monsters to kill them. You will need at least two spare robots as the ramming will destroy you and the monster.<br><br>In two player games, player one is the robot, player two is a monster. If the robot runs into the monster being controlled, the monster is destroyed instead of the robot. However, by pushing the joystick button, player two can switch to another monster, allowing the robot to run into an uncontrolled (and therefore deadly) monster.<br><br><b>Difficulty switches</b><br>\nLeft switch for the robot, right for the monsters.<br>\nSet to A to make half speed, B for normal speed.<br><br><b>Game variations</b><br>\n1P=one player<br>\n2P=two player<br>\nS=spare parts needed for spare robot<br>\nF=mine levels flood, slowing you down if you enter the water.<br>\n-T=cannot drop bombs in flooded areas<br>\n+T=can drop bombs in flooded areas<br>\nI-mines are invisible except when monsters are exploding by time bomb<br><br>\nGame 1 1P; S=3; F-T<br>\nGame 2 2P; S=3; F-T<br>\nGame 3 1P; S=6; F-T<br>\nGame 4 2P; S=6; F-T<br>\nGame 5 1P; S=3<br>\nGame 6 2P; S=3<br>\nGame 7 1P; S=2; F-T<br>\nGame 8 2P; S=2; F-T<br>\nGame 9 1P; S=3; F+T<br>\nGame 10 1P; S=3; F+T<br>\nGame 11 1P; S=3; F+T; I<br>\nGame 12 2P; S=3; F+T; I<br><br><b>Scoring</b><br>\nDestroy a monster=20 points<br>\nPick up robot part=70 points<br>\nDeposit robot part=lose 70 points<br><br><br>Every 1000 points scored up to 4000 raises your power level by one unit.",
+  "publishedBy": "CommaVid, Inc.",
+  "developedBy": "CommaVid, Inc.",
+  "released": "Oct, 1982",
+  "alsoFor": "",
+  "genre": "Action, Strategy / tactics",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-2600/mines-of-minos",
+  "visual": "2D scrolling",
+  "gamePlay": "Arcade",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari 2600",
+      "releases": [
+        {
+          "publisher": "CommaVid, Inc.",
+          "developer": "CommaVid, Inc.",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "Oct, 1982",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/184910-mines-of-minos-atari-2600-screenshot-starting-in-the-first.png",
+      "caption": "Starting in the first mine level"
+    },
+    {
+      "link": "/images/shots/l/184911-mines-of-minos-atari-2600-screenshot-a-monster-dying-after.png",
+      "caption": "A monster dying after hitting a time bomb"
+    },
+    {
+      "link": "/images/shots/l/184912-mines-of-minos-atari-2600-screenshot-the-mine-slowly-floods.png",
+      "caption": "The mine slowly floods"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/258981-mines-of-minos-atari-2600-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Atari 2600"
+    },
+    {
+      "link": "/images/covers/l/258982-mines-of-minos-atari-2600-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Atari 2600"
+    },
+    {
+      "link": "/images/covers/l/258983-mines-of-minos-atari-2600-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Atari 2600"
+    }
+  ]
+}

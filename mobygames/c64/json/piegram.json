@@ -1,0 +1,52 @@
+{
+  "name": "Piegram",
+  "shortName": "piegram",
+  "description": "<i>Piegram</i> is a tactical game in which the player has to try to find the AI's location in a grid, before the AI finds the player. The player and AI alternate turns and in each turn can move one tile or throw a pie by selecting a tile. For each player the last three thrown pie locations are shown on the grid. The pie locations are marked with a number representing the number of tiles its off its target at the moment it was thrown. Once the AI has three pies as data it'll triangulate the most likely position of the player to be at and throw a pie there. The player must try to outwit the AI and employ the same tactic to find the AI.",
+  "publishedBy": "Code Works, The",
+  "developedBy": "",
+  "released": "1983",
+  "alsoFor": "Commodore PET/CBM | Combined View",
+  "genre": "Strategy / tactics",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/piegram",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "Code Works, The",
+          "developer": "",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1983",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/566110-piegram-commodore-64-screenshot-title-screen.png",
+      "caption": "Title screen."
+    },
+    {
+      "link": "/images/shots/l/566111-piegram-commodore-64-screenshot-place-your-marker.png",
+      "caption": "Place your marker."
+    },
+    {
+      "link": "/images/shots/l/566112-piegram-commodore-64-screenshot-throw-pies-at-the-computer.png",
+      "caption": "Throw pies at the computer."
+    }
+  ],
+  "cover": []
+}

@@ -1,0 +1,83 @@
+{
+  "name": "The Hobbit",
+  "shortName": "hobbit",
+  "description": "Relive Tolkien's The Hobbit as Bilbo Baggins.  A piece of  Interactive fiction (with graphics to illustrate locations), you follow the plot of Tolkien's book (before the Lord of the Rings trilogy), starting with an encounter with Gandalf and Thorin.  The other characters can make their own moves independently of the player and their actions can sometimes result in a situation where it is not possible to complete the game. Every character and object in the game has a calculated mass which affects how they can be manipulated by the player.<br><br>The implementation is rich enough that you can play entirely without pictures if you wish.  Also, gameplay happens in realtime, uncommon for interactive fiction.  The game's parser, called Inglish took as long to develop as the rest of the game. In contrast to other text-based games of the period which were based on simple verb-noun parsers, Inglish allowed for complete sentences to be entered.",
+  "publishedBy": "Melbourne House",
+  "developedBy": "Beam Software Pty., Ltd.",
+  "released": "1985",
+  "alsoFor": "Amstrad CPC, Apple II, BBC Micro, Commodore 64, Macintosh, Oric, PC Booter, ZX Spectrum | Combined View",
+  "genre": "Adventure",
+  "perspective": "1st-person",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "Licensed",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/msx/hobbit",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Interactive fiction / text adventure",
+  "setting": "",
+  "release": [
+    {
+      "system": "MSX",
+      "releases": [
+        {
+          "publisher": "Melbourne House",
+          "developer": "Beam Software Pty., Ltd.",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1985",
+          "ean13": "9 780861 616930",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/131247-the-hobbit-msx-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/131248-the-hobbit-msx-screenshot-gandalph-gives-you.png",
+      "caption": "Gandalph gives you..."
+    },
+    {
+      "link": "/images/shots/l/131249-the-hobbit-msx-screenshot-talk.png",
+      "caption": "Talk..."
+    },
+    {
+      "link": "/images/shots/l/510512-the-hobbit-msx-screenshot-trolls-clearing.png",
+      "caption": "Trolls clearing"
+    },
+    {
+      "link": "/images/shots/l/510514-the-hobbit-msx-screenshot-trolls-cave.png",
+      "caption": "Trolls cave"
+    },
+    {
+      "link": "/images/shots/l/510515-the-hobbit-msx-screenshot-at-the-gate-of-mirkwood.png",
+      "caption": "At the gate of Mirkwood"
+    },
+    {
+      "link": "/images/shots/l/510516-the-hobbit-msx-screenshot-trees-that-look-like-they-re-in.png",
+      "caption": "Trees that look like they're in water"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/167090-the-hobbit-msx-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "MSX"
+    },
+    {
+      "link": "/images/covers/l/120732-the-hobbit-msx-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "MSX"
+    }
+  ]
+}

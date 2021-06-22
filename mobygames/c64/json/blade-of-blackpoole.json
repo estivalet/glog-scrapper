@@ -1,0 +1,99 @@
+{
+  "name": "The Blade of Blackpoole",
+  "shortName": "blade-of-blackpoole",
+  "description": "<i>The Blade of Blackpoole</i> is an illustrated text adventure with a medieval fantasy setting. Starting with only a pocket full of gold coins, the player's task is to recover the magical sword Myraglym, last seen near the lake at Blackpoole. On the way to the goal, there will be large forests, tricky swamps, a dangerous maze and high cliffs. Deadly creatures also abound, including a talking carnivorous plant, an aggressive lizardman and a hungry water beast. Some helpful characters may also be in the area.<br><br>The game consists of around 60 locations, each with its own picture. Many of the characters in the game will pose riddles whose answer gives the clue on what they require so they help the player. The parser understands complex commands (i.e. not just verb+noun). There is an inventory limit, forcing the player to consider which items to take and which to leave or to drop once they are no longer needed. The game tracks the score up to a maximum of 500 points. A HELP command is available, which gives more or less obtuse hints on the current situation. Ten different games can be saved to disk.",
+  "publishedBy": "Sirius Software, Inc.",
+  "developedBy": "",
+  "released": "Aug, 1983",
+  "alsoFor": "Apple II, Atari 8-bit, FM-7, PC-88, PC-98 | Combined View",
+  "genre": "Adventure",
+  "perspective": "1st-person",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/blade-of-blackpoole",
+  "visual": "",
+  "gamePlay": "Interactive fiction / text adventure, Puzzle elements",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "Sirius Software, Inc.",
+          "developer": "",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "Aug, 1983",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/900812-the-blade-of-blackpoole-commodore-64-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/900813-the-blade-of-blackpoole-commodore-64-screenshot-game-start.png",
+      "caption": "Game start"
+    },
+    {
+      "link": "/images/shots/l/900814-the-blade-of-blackpoole-commodore-64-screenshot-landslide.png",
+      "caption": "Landslide"
+    },
+    {
+      "link": "/images/shots/l/900815-the-blade-of-blackpoole-commodore-64-screenshot-flesh-eating.png",
+      "caption": "Flesh eating plant"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/321346-the-blade-of-blackpoole-commodore-64-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/321347-the-blade-of-blackpoole-commodore-64-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/617463-the-blade-of-blackpoole-commodore-64-spine-sides.jpg",
+      "scanOf": "Spine/Sides",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/617464-the-blade-of-blackpoole-commodore-64-spine-sides.jpg",
+      "scanOf": "Spine/Sides",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/321348-the-blade-of-blackpoole-commodore-64-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/617462-the-blade-of-blackpoole-commodore-64-manual.jpg",
+      "scanOf": "Manual",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Commodore 64"
+    }
+  ]
+}

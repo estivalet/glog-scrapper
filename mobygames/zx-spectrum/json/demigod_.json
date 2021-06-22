@@ -1,0 +1,72 @@
+{
+  "name": "Demigod",
+  "shortName": "demigod_",
+  "description": "<i>Demigod</i> is a text adventure about an adventurer exploring a mysterious dark island hoping to solve a mystery and gain eternal life. This, however, is a text adventure with a difference as, rather than typing/mistyping commands, the player uses the joystick to select a command from a pick list.<br><br>The game screen is divided by a horizontal bar in which messages scroll right to left, below this the lower part of the screen contains a description of the current location. The upper part is divided into three parts, on the right is a panel showing articles being held and available characters; in the centre is a symbol and four compass points N/S/E/W which are coloured white if there is an exit in that direction and red if there is not; on the left is a picture of the current location.<br><br>So to move around the player uses the joystick to select a valid direction and then presses FIRE. To take any other action the player positions the cursor on the symbol below the compass points and presses FIRE, this replaces the picture in the upper left of the screen with a menu of commands which the player navigates using the joystick.<br><br>When the EXAMINE command is selected the game positions the cursor on the descriptive text in the lower part of the screen so that the player can use the joystick to select the appropriate item. Similarly the TALK command positions the cursor in the upper right panel so that the player can choose who they wish to talk to from the list of available characters.",
+  "publishedBy": "Softel",
+  "developedBy": "Ulterior Motives",
+  "released": "1989",
+  "alsoFor": "",
+  "genre": "Adventure",
+  "perspective": "Text-based / spreadsheet",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/zx-spectrum/demigod_",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Graphic adventure, Interactive fiction / text adventure",
+  "setting": "",
+  "release": [
+    {
+      "system": "ZX Spectrum",
+      "releases": [
+        {
+          "publisher": "Softel",
+          "developer": "Ulterior Motives",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1989",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/880926-demigod-zx-spectrum-screenshot-title-screen-not-present-in.png",
+      "caption": "Title screen, not present in all releases of the game"
+    },
+    {
+      "link": "/images/shots/l/880927-demigod-zx-spectrum-screenshot-the-first-game-screen-br-this.png",
+      "caption": "The first game screenThis game does not have a series of story screens following the main titleThe S &amp; E are in red showing there are no exits to the South and East"
+    },
+    {
+      "link": "/images/shots/l/880928-demigod-zx-spectrum-screenshot-the-player-has-moved-to-another.png",
+      "caption": "The player has moved to another location and both the descriptive text and the available exits have changed"
+    },
+    {
+      "link": "/images/shots/l/880929-demigod-zx-spectrum-screenshot-another-character-has-been.png",
+      "caption": "Another character has been found and their name, 'Windwash', appears in the upper right character/inventory pane"
+    },
+    {
+      "link": "/images/shots/l/880930-demigod-zx-spectrum-screenshot-when-the-talk-command-was-selected.png",
+      "caption": "When the TALK command was selected the cursor jumped to the upper right pane where the player chose the character 'Windwash'"
+    },
+    {
+      "link": "/images/shots/l/880931-demigod-zx-spectrum-screenshot-when-the-examine-command-was.png",
+      "caption": "When the EXAMINE command was selected the cursor jumped to the descriptive text so the player can select the item they wish to know more about"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/382494-demigod-zx-spectrum-extras.jpg",
+      "scanOf": "Extras",
+      "packaging": "Other",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    }
+  ]
+}

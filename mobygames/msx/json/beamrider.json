@@ -1,0 +1,87 @@
+{
+  "name": "Beamrider",
+  "shortName": "beamrider",
+  "description": "<i>Beamrider</i> is a 3D arcade action game. You control a beam riding spaceship on a mission to clear 99 sectors of space from hostile aliens. The spaceship is located at the bottom of the screen and it can only stop on one of five beams. You are armed with both lasers and torpedoes; torpedoes are more powerful and can destroy more enemies compared to lasers, however you only get three per level. To complete a sector, you need to destroy fifteen white flying saucers. After all saucers are destroyed, the sector sentinel passes by which can be destroyed for extra points. Each even number sector up until sector 16 will add a new type of enemy to deal with. These additional enemies will just try to slow your mission, though, only the saucers need to be destroyed to advance. Occasionally a rejeuvinator will appear; if this is collected, you can earn an extra life. But be careful, because if you accidentally shoot the rejeuvinator it will turn into an enemy!",
+  "publishedBy": "Pony, Inc.",
+  "developedBy": "Cheshire Engineering",
+  "released": "Sep, 1984",
+  "alsoFor": "Atari 2600, Atari 5200, Atari 8-bit, ColecoVision, Commodore 64, Intellivision, Windows, Xbox 360, ZX Spectrum | Combined View",
+  "genre": "Action",
+  "perspective": "Behind view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/msx/beamrider",
+  "visual": "",
+  "gamePlay": "Arcade, Shooter",
+  "setting": "",
+  "release": [
+    {
+      "system": "MSX",
+      "releases": [
+        {
+          "publisher": "Pony, Inc.",
+          "developer": "Cheshire Engineering",
+          "ported": "Action Graphics, Inc.",
+          "country": " Japan",
+          "releaseDate": "Sep, 1984",
+          "ean13": "",
+          "comments": "Cartridge release"
+        },
+        {
+          "publisher": "Activision (UK) Limited",
+          "developer": "Cheshire Engineering",
+          "ported": "Action Graphics, Inc.",
+          "country": " United Kingdom",
+          "releaseDate": "Oct, 1984",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/130776-beamrider-msx-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/130777-beamrider-msx-screenshot-ready-for-sector-1.png",
+      "caption": "Ready for Sector 1?"
+    },
+    {
+      "link": "/images/shots/l/130778-beamrider-msx-screenshot-fire-at-the-ufo-s.png",
+      "caption": "Fire at the UFO's"
+    },
+    {
+      "link": "/images/shots/l/130779-beamrider-msx-screenshot-game-over.png",
+      "caption": "Game Over"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/120129-beamrider-msx-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "MSX"
+    },
+    {
+      "link": "/images/covers/l/120128-beamrider-msx-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "MSX"
+    },
+    {
+      "link": "/images/covers/l/120130-beamrider-msx-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "MSX"
+    }
+  ]
+}

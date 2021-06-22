@@ -1,0 +1,56 @@
+{
+  "name": "Milli-Bug",
+  "shortName": "milli-bug",
+  "description": "<i>Milli-Bug</i> is a single screen shooter based on the arcade game <a href=\"https://www.mobygames.com/game/arcade/centipede_\">Centipede</a> where you control a spacecraft on the bottom of the screen attempting to destroy a Millibug that appears at the top. You are able to move left or right, forwards a short distance, and backwards as you keep firing upwards to hit the Millibug. If the Millibug is hit then it splits into two moving in different directions and if any of the bug hits the side of the screen or a mushroom then it moves down one place and moves in the opposite direction. The screen is full of mushrooms which cannot be passed but will disappear when hit by a few shots from you. Other creatures make an appearance like spiders and snails and these can be avoided or shot for bonus points. If the bug hits the bottom of the screen then it starts to make its way back up the screen. If you touch the bug or any other creature then you lose one of three lives. Before the game you can select a skill level from one to nine.",
+  "publishedBy": "dk'tronics",
+  "developedBy": "",
+  "released": "1983",
+  "alsoFor": "",
+  "genre": "Action",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/milli-bug",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade, Shooter",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "dk'tronics",
+          "developer": "",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1983",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/755569-milli-bug-commodore-64-screenshot-title-screen.png",
+      "caption": "Title Screen"
+    },
+    {
+      "link": "/images/shots/l/755570-milli-bug-commodore-64-screenshot-blast-the-millibug.png",
+      "caption": "Blast the Millibug"
+    },
+    {
+      "link": "/images/shots/l/755571-milli-bug-commodore-64-screenshot-the-millibug-has-split-into.png",
+      "caption": "The Millibug has split into two"
+    },
+    {
+      "link": "/images/shots/l/755572-milli-bug-commodore-64-screenshot-creatures-have-appeared.png",
+      "caption": "Creatures have appeared"
+    }
+  ],
+  "cover": []
+}

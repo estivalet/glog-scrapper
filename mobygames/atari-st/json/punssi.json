@@ -1,0 +1,50 @@
+{
+  "name": "PUNSSi",
+  "shortName": "punssi",
+  "description": "<em>PUNSSi</em> is an arcade game for two players. Each player is controlling a ball and a third ball is on the field which must be pushed to the area of the opposite player by flying into it. The balls are accurately accelerated and the balls are reflected in the angle and impulse of their collision. The player is gaining points when the ball is in area of the opponent.<br><br>Some spice to the game are two little droids following both players and trying to catch them (one droid follows one specific player). If a player touched one of the droids, the player is set back to his own starting area and the droid disappears. The remaining droid will split into two droids a short time after that.<br><br>The game is only running on monochrome monitors. It is written in C and the source code as well as binaries for Atari machines with Coldfire processors is included.",
+  "publishedBy": "",
+  "developedBy": "",
+  "released": "May 19, 1995",
+  "alsoFor": "",
+  "genre": "Action",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-st/punssi",
+  "visual": "",
+  "gamePlay": "Arcade",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari ST",
+      "releases": []
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/804673-punssi-atari-st-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/804674-punssi-atari-st-screenshot-in-game.png",
+      "caption": "In-game"
+    },
+    {
+      "link": "/images/shots/l/804675-punssi-atari-st-screenshot-starting-position-player-2-is-upper.png",
+      "caption": "Starting position: player 2 is upper left corner, player 1 lower right, and the ball (strange pattern) is in the center. The two small circles are the droids"
+    },
+    {
+      "link": "/images/shots/l/804676-punssi-atari-st-screenshot-player-1-better-gets-the-ball-to.png",
+      "caption": "Player 1 better gets the ball to the other side now"
+    },
+    {
+      "link": "/images/shots/l/804677-punssi-atari-st-screenshot-player-2-is-in-the-lead-and-wins.png",
+      "caption": "Player 2 is in the lead and wins, although just got caught by a droid"
+    }
+  ],
+  "cover": []
+}

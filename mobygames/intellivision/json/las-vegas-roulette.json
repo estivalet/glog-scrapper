@@ -1,0 +1,85 @@
+{
+  "name": "Las Vegas Roulette",
+  "shortName": "las-vegas-roulette",
+  "description": "Implements Las Vegas style roulette game. Most of the screen consists of the standard Las Vegas roulette betting table, and a moving strip on the top with wheel numbers on it represents the roulette wheel. Place your bets on the betting table, and spin the wheel. The game calculates your wins and losses. ",
+  "publishedBy": "Mattel Electronics",
+  "developedBy": "APh Technological Consulting",
+  "released": "1979",
+  "alsoFor": "",
+  "genre": "Simulation",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/intellivision/las-vegas-roulette",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Casino / gambling",
+  "setting": "",
+  "release": [
+    {
+      "system": "Intellivision",
+      "releases": [
+        {
+          "publisher": "Mattel Electronics",
+          "developer": "APh Technological Consulting",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1979",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/142049-las-vegas-roulette-intellivision-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/142050-las-vegas-roulette-intellivision-screenshot-setting-up-some.png",
+      "caption": "Setting up some player options"
+    },
+    {
+      "link": "/images/shots/l/142051-las-vegas-roulette-intellivision-screenshot-the-main-game.png",
+      "caption": "The main game screen"
+    },
+    {
+      "link": "/images/shots/l/142052-las-vegas-roulette-intellivision-screenshot-the-roulette-wheel.png",
+      "caption": "The roulette wheel spins, where it will stop nobody knows..."
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/54658-las-vegas-roulette-intellivision-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Intellivision"
+    },
+    {
+      "link": "/images/covers/l/101430-las-vegas-roulette-intellivision-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "Sweden",
+      "platforms": "Intellivision"
+    },
+    {
+      "link": "/images/covers/l/101431-las-vegas-roulette-intellivision-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "Sweden",
+      "platforms": "Intellivision"
+    },
+    {
+      "link": "/images/covers/l/101433-las-vegas-roulette-intellivision-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "Sweden",
+      "platforms": "Intellivision"
+    }
+  ]
+}

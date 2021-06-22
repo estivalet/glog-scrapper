@@ -1,0 +1,64 @@
+{
+  "name": "Annihilator",
+  "shortName": "annihilator",
+  "description": "<i>Annihilator</i> is a <a href=\"https://www.mobygames.com/search/quick?game=Galaxian\">Galaxian</a> variant written in 68000 assembler.<br><br>Your ship is at the bottom of the screen and you control it with the joystick. The aim of the game is to destroy as many aliens as possible before you lose your only ship. On every level a large group of aliens comes down from the top of the screen to the middle of the screen and you have to move left and right to avoid them and fire your ships weapon to destroy them.<br><br>At given intervals aliens will break formation and fly down the screen against you. When they reach the bottom of the screen they will reappear at the top. Some aliens can be destroyed with only one shot while others can take several rounds before they are destroyed. As you progress in the game the aliens will move faster and in larger number. Some aliens will leave power-ups after being destroyed. These power-ups can give extra energy or time limited shields.",
+  "publishedBy": "Budgie UK",
+  "developedBy": "",
+  "released": "Nov, 1991",
+  "alsoFor": "",
+  "genre": "Action",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-st/annihilator",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade, Shooter",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari ST",
+      "releases": [
+        {
+          "publisher": "Budgie UK",
+          "developer": "",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "Nov, 1991",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/296186-annihilator-atari-st-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/296187-annihilator-atari-st-screenshot-high-score-list.png",
+      "caption": "High score list"
+    },
+    {
+      "link": "/images/shots/l/296188-annihilator-atari-st-screenshot-level-one.png",
+      "caption": "Level one"
+    },
+    {
+      "link": "/images/shots/l/296189-annihilator-atari-st-screenshot-killed-some-aliens.png",
+      "caption": "Killed some aliens"
+    },
+    {
+      "link": "/images/shots/l/296190-annihilator-atari-st-screenshot-entering-level-two.png",
+      "caption": "Entering level two"
+    },
+    {
+      "link": "/images/shots/l/296191-annihilator-atari-st-screenshot-game-over.png",
+      "caption": "Game over"
+    }
+  ],
+  "cover": []
+}

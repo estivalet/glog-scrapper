@@ -1,0 +1,56 @@
+{
+  "name": "Samouk",
+  "shortName": "samouk",
+  "description": "<i>Samouk</i> (&quot;Autodidact&quot;) is a simple Scrabble-like game, published as a type-in program in the Polish &quot;Bajtek&quot; magazine. The player and the computer take turns placing new words (between 3 and 15 letters long) on the board. The rules are that each new word must cross at least one of the words already on the board, and no word can be used twice. <br><br>During the player's turn, he chooses a starting position with the cursor, then types in the word and presses Enter, and the computer itself decides if the word fits horizontally or vertically (if it doesn't fit at all, a beep is heard.) The player wins if the computer during its turn is unable to come up with a word that would fit onto the board. If the player is unable to make a move, the game can be restarted by using the EDIT command (Caps Shift+1). <br><br>The game doesn't contain a predefined dictionary. However, the computer memorizes every word typed in by the player, and is capable of using the words during later games. The dictionary can be saved and loaded to tape (or floppy disk, after a small modification to the source code) with the 1 or 2 keys. ",
+  "publishedBy": "Sp&oacute;?dzielnia &quot;Bajtek&quot;",
+  "developedBy": "",
+  "released": "Aug, 1992",
+  "alsoFor": "",
+  "genre": "Puzzle",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/zx-spectrum/samouk",
+  "visual": "",
+  "gamePlay": "Board game, Word construction",
+  "setting": "",
+  "release": [
+    {
+      "system": "ZX Spectrum",
+      "releases": [
+        {
+          "publisher": "Sp&oacute;?dzielnia &quot;Bajtek&quot;",
+          "developer": "",
+          "ported": "",
+          "country": " Poland",
+          "releaseDate": "Aug, 1992",
+          "ean13": "",
+          "comments": "&quot;Bajtek&quot; magazine issue 8/92, page 30"
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/993534-samouk-zx-spectrum-screenshot-the-beginning-of-the-game-the.png",
+      "caption": "The beginning of the game. The game always starts with a single letter already on the board. I have moved the cursor (invisible in the screenshot) onto the letter and I am typing in a new word"
+    },
+    {
+      "link": "/images/shots/l/993535-samouk-zx-spectrum-screenshot-since-the-computer-doesn-t-know.png",
+      "caption": "Since the computer doesn't know any words yet, it immediately loses. The message &quot;You won&quot; appears next to the board"
+    },
+    {
+      "link": "/images/shots/l/993536-samouk-zx-spectrum-screenshot-after-a-few-games-the-computer.png",
+      "caption": "After a few games, the computer has learned enough words to be able to hold its own for a few turns"
+    },
+    {
+      "link": "/images/shots/l/993537-samouk-zx-spectrum-screenshot-eventually-the-computer-becomes.png",
+      "caption": "Eventually the computer becomes capable of staying in the game for a long period of time"
+    }
+  ],
+  "cover": []
+}

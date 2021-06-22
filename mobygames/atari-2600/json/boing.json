@@ -1,0 +1,60 @@
+{
+  "name": "Boing!",
+  "shortName": "boing",
+  "description": "This is a game rather reminiscent of <a href=\"https://www.mobygames.com/search/quick?game=Q%2aBert\">Q*bert</a>.<br><br>In this game, you are a bubble named, with great originality, Bubble.\nThe object here is to bounce on each of the thirty-six squares and turn them all on. You start at the bottom left. On the bottom right starts the Bubble Eater. He will chase you around the play field and if he catches you, you lose one of your five lives. Pin starts at the top of a row and moves down. If you are hit by Pin, you pop and a life is lost.<br><br>The good thing about Pin, other than that it doesn't actively chase you, is that if it lands on the Bubble Eater, it will pop it, too. When the Bubble Eater is popped, it turns into a glowing puddle for a short time. While it is a puddle, you can bounce on it without getting hurt.<br><br><b>Game variations</b><br>\nThe game select switch just lets you start on levels one, two or three.<br><br><b>Levels</b><br>\nThere are 5 waves per level.<br>\nLevel 1: The Bubble can bounce on any square and it will turn on and stay on.<br>\nLevel 2: The same as level 1 but all the squares of a horizontal row must be turned on before you go to another row.<br>\nLevel 3: The same as level 1 but you must turn on horizontal rows 2, 4 and 6 before you turn on rows 1, 3 or 5.<br>\nLevel 4: The Bubble can bounce on any square and turn it on, but if you bounce on it again it turns off then you must bounce on it once more to turn it on again.<br>\nLevel 5: The same as level 4 but all the squares of a horizontal row must be turned on before you go to another row.<br>\nLevel 6: The same as level 4 but you must turn on horizontal rows 2, 4 and 6 before you turn on rows 1, 3 or 5.<br><br><b>Scoring</b><br>\nYou get 300 points the first time a Bubble Eater is popped in a wave.<br>\nYou score points each time you turn on a step. In levels 4 to 6, you get points even if you are turning on a step repeatedly.<br>\nYou get points for completing a level and/or wave. The amount varies by what level or wave you completed.",
+  "publishedBy": "First Star Software, Inc.",
+  "developedBy": "First Star Software, Inc.",
+  "released": "Jan, 1984",
+  "alsoFor": "",
+  "genre": "Action",
+  "perspective": "Bird's-eye view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-2600/boing",
+  "visual": "Fixed / flip-screen, Isometric",
+  "gamePlay": "Arcade",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari 2600",
+      "releases": [
+        {
+          "publisher": "First Star Software, Inc.",
+          "developer": "First Star Software, Inc.",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "Jan, 1984",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/186701-boing-atari-2600-screenshot-title-screen-you-can-t-see-the.png",
+      "caption": "Title screen. You can't see the squares because the game uses flicker, causing the characters and squares to exist opposite of each other."
+    },
+    {
+      "link": "/images/shots/l/186702-boing-atari-2600-screenshot-bubble-eater-got-popped-he-is.png",
+      "caption": "Bubble Eater got popped. He is right above the center extra men. This is wave 1."
+    },
+    {
+      "link": "/images/shots/l/186703-boing-atari-2600-screenshot-the-bubble-eater-is-on-the-bottom.png",
+      "caption": "The Bubble Eater is on the bottom right. The yellow | is the Pin and I am the blue ball. This is wave 2."
+    },
+    {
+      "link": "/images/shots/l/186704-boing-atari-2600-screenshot-wave-3-here-are-the-squares-with.png",
+      "caption": "Wave 3. Here are the squares, with some turned on."
+    },
+    {
+      "link": "/images/shots/l/186705-boing-atari-2600-screenshot-wave-4.png",
+      "caption": "Wave 4"
+    }
+  ],
+  "cover": []
+}

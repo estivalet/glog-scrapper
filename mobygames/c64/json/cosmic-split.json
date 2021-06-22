@@ -1,0 +1,52 @@
+{
+  "name": "Cosmic Split",
+  "shortName": "cosmic-split",
+  "description": "<i>Cosmic Split</i> is a single screen shooter viewed from the side inspired by the arcade game <a href=\"https://www.mobygames.com/game/arcade/centipede_\">Centipede</a> where you control a craft at the bottom of the screen and you must shoot and destroy a Centipede. You are able to move your craft left or right as well as forwards and backwards a short distance. The Centipede appears at the top of the screen and moves across and when it hits a mushroom or the edge of the screen then it lowers one place and changes direction. When you hit the Centipede then it splits into two and further shooting keeps splitting it until it is finally destroyed. <br><br>The mushrooms are scattered in great numbers around the screen and can be removed after various shots to receive bonus points. Also on screen are a spinning alien buzzer which moves around the screen, a snake which moves across the screen and a spider that moves downwards from the top of the screen. Once the Centipede has been destroyed then another one appears and this keeps happening until you run out of lives. If you touch the Centipede, buzzer, snake or spider then you lose one of three lives.",
+  "publishedBy": "Personal Software Services",
+  "developedBy": "",
+  "released": "1983",
+  "alsoFor": "",
+  "genre": "Action",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/cosmic-split",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade, Shooter",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "Personal Software Services",
+          "developer": "",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1983",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/742014-cosmic-split-commodore-64-screenshot-start-screen.png",
+      "caption": "Start Screen"
+    },
+    {
+      "link": "/images/shots/l/742015-cosmic-split-commodore-64-screenshot-blast-the-centipede.png",
+      "caption": "Blast the Centipede"
+    },
+    {
+      "link": "/images/shots/l/742016-cosmic-split-commodore-64-screenshot-getting-hectic.png",
+      "caption": "Getting hectic"
+    }
+  ],
+  "cover": []
+}

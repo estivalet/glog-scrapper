@@ -1,0 +1,80 @@
+{
+  "name": "Bounzy",
+  "shortName": "bounzy",
+  "description": "<i>Bounzy</i> represents a duel between a human (player) and reptiles (computer) set in the multi-staged spiral building shown in plane. The human should collect all the items in the building, moving between stages by ladders, to progress to next level. Meantime, the reptiles are running much faster than the human and move towards the level where human is located. There are different types of reptiles: some of them can't use the ladders, but others can. The human should avoid the contact with reptiles, because a confrontation is lethal.<br><br>The building structure and positions of items and ladders are randomly generated at the start of each duel, regardless if the player lost a life or started the game from the very beginning. There are four kinds of items: keys, amphorae, statues, and gems. Each of them brings a different amount of points. The player's highest score based on collected points is written in the hi-scores table after the game.<br><br>The player's character is controlled by the four directional keys assigned to letters or by joystick. The difficulty level can be adjusted.",
+  "publishedBy": "Loriciels",
+  "developedBy": "Loriciels",
+  "released": "1984",
+  "alsoFor": "",
+  "genre": "Action",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/bounzy",
+  "visual": "",
+  "gamePlay": "Arcade, Platform",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "Loriciels",
+          "developer": "Loriciels",
+          "ported": "",
+          "country": " France",
+          "releaseDate": "1984",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/354979-bounzy-commodore-64-screenshot-title-screen-and-main-menu.png",
+      "caption": "Title screen and Main menu"
+    },
+    {
+      "link": "/images/shots/l/354988-bounzy-commodore-64-screenshot-items-description.png",
+      "caption": "Items description"
+    },
+    {
+      "link": "/images/shots/l/354980-bounzy-commodore-64-screenshot-adjusting-gameplay.png",
+      "caption": "Adjusting gameplay."
+    },
+    {
+      "link": "/images/shots/l/354981-bounzy-commodore-64-screenshot-start-of-the-game.png",
+      "caption": "Start of the game"
+    },
+    {
+      "link": "/images/shots/l/354982-bounzy-commodore-64-screenshot-you-ve-collected-several-keys.png",
+      "caption": "You've collected several keys, a reptile is near."
+    },
+    {
+      "link": "/images/shots/l/354983-bounzy-commodore-64-screenshot-building-of-another-generation.png",
+      "caption": "Building of another generation"
+    },
+    {
+      "link": "/images/shots/l/354984-bounzy-commodore-64-screenshot-you-have-been-caught-by-a-reptile.png",
+      "caption": "You have been caught by a reptile and will be eaten."
+    },
+    {
+      "link": "/images/shots/l/354985-bounzy-commodore-64-screenshot-the-last-key-to-collect.png",
+      "caption": "The last key to collect."
+    },
+    {
+      "link": "/images/shots/l/354986-bounzy-commodore-64-screenshot-reptile-man-and-reptile-on.png",
+      "caption": "Reptile-man and reptile on Level 2"
+    },
+    {
+      "link": "/images/shots/l/354987-bounzy-commodore-64-screenshot-hi-scores.png",
+      "caption": "Hi-scores"
+    }
+  ],
+  "cover": []
+}

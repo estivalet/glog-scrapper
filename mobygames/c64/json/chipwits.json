@@ -1,0 +1,116 @@
+{
+  "name": "Chipwits",
+  "shortName": "chipwits",
+  "description": "<i>Chipwits</i> is an educational game focused on programming a small robot named Chipwit.  <br><br>Chipwit is a small robot which must be programmed to perform tasks. The player has no direct control over the robot during its explorations. The robot must navigate a number of semi-randomized mazes, attempting to pick up desirable, while avoiding the other items that flourish through the maze in order to maximize their score.  The player programs the Chipwit by creating Action Commands, which tell the robot what to do.  These Action Commands contain an Operator which include look, sing, smell, and move, and an Argument such as what to look for or how far to move.  Each Action Command can be either true or false, which leads the Chipwit's programming to a different Action Command.  <br><br>On each level, the player has a limited number of cycles to try to maximize their score, with more difficult levels contains dangers such as Electro-Crabs , Bouncers, and Bombs.  There are a total of 12 different levels of various challenges.  The player is rewarded for the minimal CPU cycles required to complete the task, with the goal being to make the most efficient Chipwit.  The Chipwit must also pick up fuel to allow it to complete its task.<br><br>Gameplay allows real-time debugging of the Chipwit's programming, so the player can look for errors or inefficiencies.  ",
+  "publishedBy": "Epyx, Inc.",
+  "developedBy": "Discourse, Inc.",
+  "released": "1985",
+  "alsoFor": "Apple II, Macintosh | Combined View",
+  "genre": "Puzzle",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/chipwits",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "Epyx, Inc.",
+          "developer": "Discourse, Inc.",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1985",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/983317-chipwits-commodore-64-screenshot-title-screen.png",
+      "caption": "Title Screen"
+    },
+    {
+      "link": "/images/shots/l/983318-chipwits-commodore-64-screenshot-chipwit-in-action.png",
+      "caption": "Chipwit in Action"
+    },
+    {
+      "link": "/images/shots/l/983319-chipwits-commodore-64-screenshot-chipwit-programming.png",
+      "caption": "Chipwit Programming"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/591338-chipwits-commodore-64-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/591335-chipwits-commodore-64-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/591336-chipwits-commodore-64-spine-sides.jpg",
+      "scanOf": "Spine/Sides",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/591339-chipwits-commodore-64-spine-sides.jpg",
+      "scanOf": "Spine/Sides",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/591342-chipwits-commodore-64-spine-sides.jpg",
+      "scanOf": "Spine/Sides",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/591343-chipwits-commodore-64-spine-sides.jpg",
+      "scanOf": "Spine/Sides",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/591337-chipwits-commodore-64-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/591340-chipwits-commodore-64-manual.jpg",
+      "scanOf": "Manual",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/591341-chipwits-commodore-64-manual.jpg",
+      "scanOf": "Manual",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Commodore 64"
+    }
+  ]
+}

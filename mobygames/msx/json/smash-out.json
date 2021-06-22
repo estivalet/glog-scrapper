@@ -1,0 +1,56 @@
+{
+  "name": "Smash Out",
+  "shortName": "smash-out",
+  "description": "A basic <a href=\"https://www.mobygames.com/search/quick?game=Breakout\">Breakout</a> clone written in BASIC, Smash Out gives you a very small ball and a very small bat to break down the brick wall. The small size of the bat is helped slightly by the fact that there are some walls even behind the bat, where the ball will bounce if you miss it. In the centre of the back wall is still a hole for the ball to pass through, though. As you break down the upper rows of bricks, the back wall will first disappear. One the next row of bricks, your bat will move close to the wall, giving you less time to catch the ball. Breaking bricks even higher up will shrink your bat to the size of only a few pixels. Due to buggy collision detection, the ball will sometimes be reflected from invisible parts of your paddle, and it is possible for the ball to bounce through the gaps between bricks, destroying bricks much further up before bouncing back straight through the bricks further down.",
+  "publishedBy": "Mitsubishi Electric",
+  "developedBy": "Knights",
+  "released": "1984",
+  "alsoFor": "",
+  "genre": "Action",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/msx/smash-out",
+  "visual": "",
+  "gamePlay": "Arcade, Paddle / Pong",
+  "setting": "",
+  "release": [
+    {
+      "system": "MSX",
+      "releases": [
+        {
+          "publisher": "Mitsubishi Electric",
+          "developer": "Knights",
+          "ported": "",
+          "country": " Japan",
+          "releaseDate": "1984",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/214508-smash-out-msx-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/214509-smash-out-msx-screenshot-ready-to-play.png",
+      "caption": "Ready to play"
+    },
+    {
+      "link": "/images/shots/l/214512-smash-out-msx-screenshot-can-you-spot-the-ball-can-you-find.png",
+      "caption": "Can you spot the ball? Can you find the paddle?"
+    },
+    {
+      "link": "/images/shots/l/214513-smash-out-msx-screenshot-game-over.png",
+      "caption": "Game over"
+    }
+  ],
+  "cover": []
+}

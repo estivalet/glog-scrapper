@@ -1,0 +1,76 @@
+{
+  "name": "Computer-Wordsearch",
+  "shortName": "computer-wordsearch",
+  "description": "<i>Computer-Wordsearch</i> is a program that allows you to do two types of wordsearches, normal and Wordsnake on a 22 x 20 grid of letters. The normal worsearch has two options, themed or mixed and you have a choice of how many words in each grid, 6, 12, 18 or 24. As you solve the wordsearch you have a timer and the aim is to get all the words within the time limit and you receive a point for every word you find. Wordsnake has four skill levels (easy to hard) and you have to get from the top left of the grid to the bottom right within a time limit. You move a cursor across the grid and when you reach the end of the grid you move down one letter and move the other way. After so many letters passed you will come across a hidden word and looking at the list of words beside the grid you decide if the letter is the first or last letter of one of the words. If you are correct then you move along the word and carry on moving across the grid. Included in the program is the option of creating your own wordsearch by inputting various words of your choosing.",
+  "publishedBy": "Softfirm",
+  "developedBy": "",
+  "released": "1986",
+  "alsoFor": "",
+  "genre": "Puzzle",
+  "perspective": "Text-based / spreadsheet",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/computer-wordsearch",
+  "visual": "",
+  "gamePlay": "Word construction",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "Softfirm",
+          "developer": "",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1986",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/741682-computer-wordsearch-commodore-64-screenshot-main-menu.png",
+      "caption": "Main Menu"
+    },
+    {
+      "link": "/images/shots/l/741683-computer-wordsearch-commodore-64-screenshot-select-skill-level.png",
+      "caption": "Select Skill Level"
+    },
+    {
+      "link": "/images/shots/l/741684-computer-wordsearch-commodore-64-screenshot-choose-a-theme.png",
+      "caption": "Choose a theme"
+    },
+    {
+      "link": "/images/shots/l/741686-computer-wordsearch-commodore-64-screenshot-find-the-words.png",
+      "caption": "Find the words"
+    },
+    {
+      "link": "/images/shots/l/741685-computer-wordsearch-commodore-64-screenshot-filling-in-the.png",
+      "caption": "Filling in the grid"
+    },
+    {
+      "link": "/images/shots/l/741687-computer-wordsearch-commodore-64-screenshot-instructions-to.png",
+      "caption": "Instructions to Snakeword"
+    },
+    {
+      "link": "/images/shots/l/741688-computer-wordsearch-commodore-64-screenshot-the-grid-for-snakewords.png",
+      "caption": "The grid for Snakewords"
+    },
+    {
+      "link": "/images/shots/l/741689-computer-wordsearch-commodore-64-screenshot-found-a-secret.png",
+      "caption": "Found a secret word"
+    },
+    {
+      "link": "/images/shots/l/741690-computer-wordsearch-commodore-64-screenshot-making-your-own.png",
+      "caption": "Making your own wordsearch"
+    }
+  ],
+  "cover": []
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Bolo Werkstatt",
+  "shortName": "bolo-werkstatt",
+  "description": "Bolo Werkstatt is a level editor for the <a href=\"https://www.mobygames.com/game/atari-st/bolo\">Bolo</a> game (&quot;Werkstatt&quot; is the German word for workshop).<br><br>You can create new levels by placing all kinds of stones, setting the starting positions for the bat and the ball, and there are options to rearrange the levels (you can create up to 100). The editor itself does not contain the game, therefore you still require the original game. A copy program can copy the original disk on which you then can replace the levels with the ones from the editor. The created disks can either be single sided (no music) or double sided (with sampled music).<br><br>The user interface is quite slim: you chose actions with the keyboard, like scrolling through the levels with the cursor keys, selecting stones with characters and setting them with the mouse.",
+  "publishedBy": "Application Systems Heidelberg Software GmbH",
+  "developedBy": "",
+  "released": "1988",
+  "alsoFor": "",
+  "genre": "Action",
+  "perspective": "",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-st/bolo-werkstatt",
+  "visual": "",
+  "gamePlay": "Arcade",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari ST",
+      "releases": [
+        {
+          "publisher": "Application Systems Heidelberg Software GmbH",
+          "developer": "",
+          "ported": "",
+          "country": " Germany",
+          "releaseDate": "1988",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/696583-bolo-werkstatt-atari-st-screenshot-main-menu-color-monitor.png",
+      "caption": "Main menu (Color monitor, medium resolution 640x200, 4 colors)"
+    },
+    {
+      "link": "/images/shots/l/696584-bolo-werkstatt-atari-st-screenshot-editor-area-color-monitor.png",
+      "caption": "Editor area (Color monitor)"
+    },
+    {
+      "link": "/images/shots/l/696585-bolo-werkstatt-atari-st-screenshot-main-menu-monochrome-monitor.png",
+      "caption": "Main menu (Monochrome monitor, 640x400, 2 colors)"
+    },
+    {
+      "link": "/images/shots/l/696587-bolo-werkstatt-atari-st-screenshot-i-set-up-a-random-level.png",
+      "caption": "I set up a random level. And also directly shown bolos biggest design flaw: the &quot;Exit&quot; stone, which ends the game instantly, no matter how many lives are left..."
+    },
+    {
+      "link": "/images/shots/l/696590-bolo-werkstatt-atari-st-screenshot-as-starting-positions-of.png",
+      "caption": "As starting positions of bat and ball were too conventional, I change these too"
+    },
+    {
+      "link": "/images/shots/l/696591-bolo-werkstatt-atari-st-screenshot-the-copy-program-for-the.png",
+      "caption": "The copy program for the original game (to copy your levels onto)."
+    }
+  ],
+  "cover": []
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Ultra SCSIcide",
+  "shortName": "ultra-scsicide",
+  "description": "This is an improved version of <a href=\"https://www.mobygames.com/game/scsicide\">SCSIcide</a>.<br><br>The improvements are:<ul>\n<li>Support for joysticks</li>\n<li>Fixed the flicker that occurred at the beginning of each level.</li>\n<li>Changed background and data bit colors to make bits easier to distinguish.</li>\n<li>Reduced track size from ten to eight bits.</li>\n<li>Speed increase per level has been changed so that only two random data bits increase in speed each level.</li>\n<li>Modified sound and scoring routines to account for the game going for longer and to higher levels.</li>\n<li>Changed the title screen text and added logos for Grand Idea Studio and Pixels Past.</li>\n<li>Added PAL support.</li>\n<li>New label and manual cover</li></ul>",
+  "publishedBy": "AtariAge",
+  "developedBy": "Pixels Past",
+  "released": "Feb 21, 2005",
+  "alsoFor": "",
+  "genre": "Action",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-2600/ultra-scsicide",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari 2600",
+      "releases": [
+        {
+          "publisher": "AtariAge",
+          "developer": "Pixels Past",
+          "ported": "",
+          "country": " Worldwide",
+          "releaseDate": "Feb 21, 2005",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/246972-ultra-scsicide-atari-2600-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/246973-ultra-scsicide-atari-2600-screenshot-level-1.png",
+      "caption": "Level 1"
+    }
+  ],
+  "cover": []
+}

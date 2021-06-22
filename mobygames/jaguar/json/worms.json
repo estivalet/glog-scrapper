@@ -1,0 +1,124 @@
+{
+  "name": "Worms",
+  "shortName": "worms",
+  "description": "<i>Worms</i> is a turn-based strategy game. It features up to 4 teams of 4 worms, aiming to destroy the others on a generated terrain. Each worm has 100 hit points, and dies when his hit points fall to 0. Upon death, a worm explodes, causing damage to everyone around.<br><br>Gameplay is turn-based. Each turn, the player can control one specific worm from his team. The worm can crawl left and right or jump. However, there is a time limit to make a move; also, if the worm falls from a great height, it loses health and the turn ends immediately; and if a worm falls into water or offscreen, it dies. Each turn, a worm can also make a single attack: the player can aim up and down, choose a weapon and then fire it. After attacking, the turn ends. <br><br>There's a lot of weapons available - the standard ones as bazookas (which is affected by the (random) wind settings and gravity) and grenades. The others include a Fire Punch, dynamite, air strikes, and utilities such as ropes and girders.<br><br>There are 10 styles of terrain, ranging from forests and deserts to Candy land and the moon (complete with affected gravity). Shots leave craters in the ground, and complex tunnels can be formed. ",
+  "publishedBy": "Telegames, Inc.",
+  "developedBy": "Team17 Software Limited",
+  "released": "1998",
+  "alsoFor": "Amiga, Amiga CD32, DOS, Game Boy, Genesis, Macintosh, PlayStation, SEGA Saturn, SNES | Combined View",
+  "genre": "Strategy / tactics",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/jaguar/worms",
+  "visual": "2D scrolling",
+  "gamePlay": "Artillery",
+  "setting": "",
+  "release": [
+    {
+      "system": "Jaguar",
+      "releases": [
+        {
+          "publisher": "Telegames, Inc.",
+          "developer": "Team17 Software Limited",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1998",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/380902-worms-jaguar-screenshot-team17-also-known-as-the-worms-guys.png",
+      "caption": "Team17, also known as the Worms guys."
+    },
+    {
+      "link": "/images/shots/l/380903-worms-jaguar-screenshot-main-menu.png",
+      "caption": "Main Menu"
+    },
+    {
+      "link": "/images/shots/l/380904-worms-jaguar-screenshot-blowing-up-worms-at-the-north-pole.png",
+      "caption": "Blowing up worms at the north pole."
+    },
+    {
+      "link": "/images/shots/l/380905-worms-jaguar-screenshot-explosions-across-the-alps.png",
+      "caption": "Explosions across the Alps"
+    },
+    {
+      "link": "/images/shots/l/380906-worms-jaguar-screenshot-fighting-in-the-jungle-and-that-s.png",
+      "caption": "Fighting in the jungle - and that's different from the Alps because of slightly different trees."
+    },
+    {
+      "link": "/images/shots/l/380907-worms-jaguar-screenshot-an-alien-planet-stage.png",
+      "caption": "An alien planet stage"
+    },
+    {
+      "link": "/images/shots/l/380908-worms-jaguar-screenshot-worms-in-the-candyland.png",
+      "caption": "Worms in the Candyland!"
+    },
+    {
+      "link": "/images/shots/l/380909-worms-jaguar-screenshot-a-desert-stage.png",
+      "caption": "A desert stage"
+    },
+    {
+      "link": "/images/shots/l/380910-worms-jaguar-screenshot-whenever-you-leave-the-stage-generation.png",
+      "caption": "Whenever you leave the stage generation input blank - you are likely to get a garbage stage."
+    },
+    {
+      "link": "/images/shots/l/380911-worms-jaguar-screenshot-have-you-ever-seen-what-kind-of-worms.png",
+      "caption": "Have you ever seen what kind of worms they have.. IN HELL!"
+    },
+    {
+      "link": "/images/shots/l/380912-worms-jaguar-screenshot-and-another-alien-planet-this-time.png",
+      "caption": "And another alien planet - this time less on the Geiger and more on Buck Rogers."
+    },
+    {
+      "link": "/images/shots/l/380913-worms-jaguar-screenshot-a-round-tally-screen.png",
+      "caption": "A round tally screen"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/582934-worms-jaguar-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "Worldwide",
+      "platforms": "Jaguar"
+    },
+    {
+      "link": "/images/covers/l/582935-worms-jaguar-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "Worldwide",
+      "platforms": "Jaguar"
+    },
+    {
+      "link": "/images/covers/l/584244-worms-jaguar-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "Worldwide",
+      "platforms": "Jaguar"
+    },
+    {
+      "link": "/images/covers/l/582936-worms-jaguar-manual.jpg",
+      "scanOf": "Manual",
+      "packaging": "Box",
+      "country": "Worldwide",
+      "platforms": "Jaguar"
+    },
+    {
+      "link": "/images/covers/l/582937-worms-jaguar-manual.jpg",
+      "scanOf": "Manual",
+      "packaging": "Box",
+      "country": "Worldwide",
+      "platforms": "Jaguar"
+    }
+  ]
+}

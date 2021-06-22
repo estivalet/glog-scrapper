@@ -50,7 +50,8 @@ public class URLGrabber {
 		try {
 			URL url = new URL(this.url);
 			HttpURLConnection httpcon = (HttpURLConnection) url.openConnection();
-			httpcon.addRequestProperty("User-Agent", "Mozilla/4.0");
+			httpcon.addRequestProperty("User-Agent",
+					"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36");
 			InputStream is = httpcon.getInputStream();
 
 			BufferedReader in = new BufferedReader(new InputStreamReader(is, "UTF-8"));// "ISO-8859-1"));
@@ -91,6 +92,13 @@ public class URLGrabber {
 			e.printStackTrace();
 			return false;
 		}
+	}
+
+	public static void main(String[] args) {
+		URLGrabber ug = new URLGrabber(
+				"https://media.virtualsheetmusic.com/imgprev/qh3aathfilq0dd3rolih5jgcm4/Miscellaneous/Christmas1/32.svg",
+				"1.svg");
+		ug.saveURLBinary();
 	}
 
 }

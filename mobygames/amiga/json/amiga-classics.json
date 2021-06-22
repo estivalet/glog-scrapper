@@ -1,0 +1,47 @@
+{
+  "name": "Amiga Classics",
+  "shortName": "amiga-classics",
+  "description": "<i>Amiga Classics</i> is a bundle comprising a claimed three hundred plus Amiga games and emulators with which to run them. Though the packaging says the disc can be used on DOS, MAC, Windows and Unix platforms what it really means is that the disc contains files of Amiga games and a variety of emulators some of which will run on each of the listed platforms. In the Windows environment and presumably all others the CD does not autorun when loaded, there's no game browser nor is there an on disc manual to guide the user through the installation.<br><br>All the game files appear to contain public domain / freeware games. Most of the files that have been examined and played were included on cover discs for UK magazines such as Amiga Power and Amiga Format in the early 1990's, in addition all the game files contain multiple games so the claimed three hundred games is a significant under estimate. <br><br>Emulators need two things to work, program files and a KickStart ROM. This product contains a couple of files that fit the bill they are all Kick Start v1.3 which is needed for A500 emulation. This as a shame as the game files were intended for use with an A1200 machine and, while most run perfectly well, some do not..<br><br>As there's nothing to run and precious little to see to properly describe this compilation is to list the contents of the disc.<br>Note: the letters 'UAE' appear a lot in the following paragraphs, they represent either 'Universal Amiga Emulator' or 'Ultimate Amiga Emulator'<br>The contents of the disc are as follows:<ul>\n<li>In the root directory are folders, detailed below together with assorted documents and software. The documents consist of a partial list of the games on the disc, a 'read1st' document which is no help, and part of a document describing WinUAE version Beta 7. The software here is WINZIP95, presumably to to unpack the zipped files, and one of many versions of WinUAE an Amiga emulator.</li>\n<li>The folder <b>AmigaInABox</b> contains a single emulation program but with no documentation.</li>\n<li>The folder <b>EMULATOR ARCHIVE</b> contains the graphics driver Picasso v2  in .lha format and four sub folders, one for each operating system.<ul><li><b>DOS</b>: There are two emulators here, DosUAE V0.6.8c a DOS port of the Unix Amiga Emulator, and Fellow v0.3 described as &quot;a Commodore Amiga emulator for the IBM compatible PC.&quot;</li>\n<li><b>MAC</b>: This contains many files are in .hqx or.sit format which appear to be the MACUAE emulator</li>\n<li><b>UNIX</b>: Just a single file for UAE v6.0 in .bin format</li>\n<li><b>WINDOWS</b>: This contains three versions of UAE 0.6.9 Win32 (releases 7, 12 and 13) together with XDMS a tool for decompressing Amiga DMS files.</li></ul><br>\n<li><b>EMULATORS</b>: This contains a separate folder for each of the following emulators,  DosUAE v0.69 and v0.69c, Fellow v0.3 and v0.32, WinUAE v0.69 releases 12, 13 beta 7 and 13 beta 9. Also present is UAE v6.9 in .bin format for UNIX and a Kickstart ROM file</li>\n<li><b>FELLOW</b>: Version 0.2.1 of the emulator which runs in Dos</li>\n<li><b>SUPPORT</b>: There are two sub folders here, one for DOS and one for Windows. The DOS folder contains Gzip needed by DosUAE or WinUAE to use compressed adf's &amp; rom files; and UAEL 3.6, a launch program for WinUAE and DosUAE. The list of programs that should be present references SDD5.3, a Vesa bios extender, which is not in this folder.<br>The Windows 95 folder has folders for DirectX3.0a and DirectX5.0 but both are empty it does, however have folders for each of the following launch programs ; UAEL 3.7, UAEGo Release 3 and UAELaunchPad</li>\n<li><b>TEXT</b>: An assortment of text files describing the hardware needed to run Ultimate Amiga Emulator, UAE's version history, advice on transferring software to an Amiga and ROM files from an Amiga, emulation problems, and setting up a hard disc.</li>\n<li><b>UTILITIES</b>: This contains Amiga Disk File Suite V1.5; ADF Transfer program v1.2; adf2disk  which writes amiga disk files made for UAE back on amiga disks; ADSKUTIL - which retrieves files from an amiga disk format (ADF) image; an Amiga Floppy reader; UAE source codes; a demo version of WorkBench 95; and zipped files containing icons, blank discs etc</li>\n<li><b>GAMES</b>: The contents of this folder is why most of us will buy this CD. It contains two hundred and eighty eight Amiga data files which are numbered sequentially in the form ASI001 to ASI250; GG001 to GG018; TOOLS001 to TOOLS019 and one file named PROTRACKER. NOte: There is no index that shows the contents of these files.<br>As was stated earlier these files contain multiple public domain games all of which are freely available. The ASI series of files was being sold in Amiga magazines back in 1993 as shareware / public domain software by a coupe of guys from the north of England known as 'The Assassins'. Each file in the series contains multiple games, the file ASI001 for example contains Amigoids, Avtatris,  Cave Runner, Rollerpede and Tanx, while ASI246 contains Ooze, Cruel, and Lactose Intolerance. Most of the files in this series seem to run using an A500 emulation which is just as well because the KickStart ROM is for that machine.<br>The GG* are a series of compilation files known as &quot;Games Galore&quot;, they require an A1200 emulation and, as the KickStart ROM on this CD is for the A500 it does not seem possible to play them with the emulators supplied.<br>The TOOLS files are just that, collections of software  and utilities. For example TOOLS001 contains a selection of public domain sound programs including versions of Noise-Tracker and Sound-Tracker while TOOLS10 contains Pay-Advice v4.0, Show-Std, Flexer data-Base, Home Budget, Share manager, Amiga Diary and Any Month</li></ul>",
+  "publishedBy": "Revive",
+  "developedBy": "",
+  "released": "2002",
+  "alsoFor": "Linux, Macintosh, Windows | Combined View",
+  "genre": "Compilation",
+  "perspective": "",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/amiga/amiga-classics",
+  "visual": "",
+  "gamePlay": "",
+  "setting": "",
+  "release": [
+    {
+      "system": "Amiga",
+      "releases": [
+        {
+          "publisher": "Revive",
+          "developer": "",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "2002",
+          "ean13": "5 060015 032149",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [],
+  "cover": [
+    {
+      "link": "/images/covers/l/318127-amiga-classics-amiga-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Keep Case",
+      "country": "United Kingdom",
+      "platforms": "Amiga, Linux, Macintosh and Windows"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Marine Wars",
+  "shortName": "marine-wars",
+  "description": "You are a battleship firing shells at attacking battleships and/or attacking bomber planes.<br><br>The game has four scenes: fighting ships at day, fighting ships by night, fighting planes and ships by day, fighting planes and ships by night. You move left or right and press the button to fire. In the night scenes, you cannot see the ships or planes in the distance unless something explodes.<br><br>It takes three hits to sink your ship. You start the game with three battleships and can get a new ship every 5000 points. The enemy starts out with 9 battleships and 30 aircraft. These numbers will increase as the scenes change according to the following formula:<br><br>  Number of battleships: 9 + (N - 1) x 2<br>\n  Number of aircraft: 30 + (N - 1) x 2<br>\n  where N is the pattern number.<br><br><b>Game variations</b><br>\nThe only selections are one or two player. The difficulty switches are not used.<br><br><b>Scoring</b><br>\nTop row of battleships: 80 points<br>\nMiddle row of battleships: 70 points<br>\nBottom row of battleships: 60 points<br>\nEnemy fighter: 80 points<br>\nEnemy torpedo: 30 points<br>\nEnemy bomb: 30 points<br>\nEnemy MTB: 30 points<br><br>After each scene you get a 500 point bonus.<br>\n",
+  "publishedBy": "Konami Industry Co. Ltd.",
+  "developedBy": "Konami Industry Co. Ltd.",
+  "released": "1983",
+  "alsoFor": "",
+  "genre": "Action",
+  "perspective": "",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-2600/marine-wars",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Shooter",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari 2600",
+      "releases": [
+        {
+          "publisher": "Konami Industry Co. Ltd.",
+          "developer": "Konami Industry Co. Ltd.",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1983",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/187691-marine-wars-atari-2600-screenshot-starting-screen.png",
+      "caption": "Starting screen"
+    },
+    {
+      "link": "/images/shots/l/187692-marine-wars-atari-2600-screenshot-i-hit-a-distant-ship.png",
+      "caption": "I hit a distant ship"
+    },
+    {
+      "link": "/images/shots/l/187693-marine-wars-atari-2600-screenshot-they-hit-my-ship.png",
+      "caption": "They hit my ship"
+    },
+    {
+      "link": "/images/shots/l/187694-marine-wars-atari-2600-screenshot-fighting-battleships-at.png",
+      "caption": "Fighting battleships at night"
+    },
+    {
+      "link": "/images/shots/l/187695-marine-wars-atari-2600-screenshot-fighting-attacking-bombers.png",
+      "caption": "Fighting attacking bombers"
+    }
+  ],
+  "cover": []
+}

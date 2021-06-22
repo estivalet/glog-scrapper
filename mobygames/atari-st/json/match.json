@@ -1,0 +1,66 @@
+{
+  "name": "Match",
+  "shortName": "match",
+  "description": "<i>Match</i> is a matching game written in GFA Basic where you have to match stone tiles so that you could draw a line between them. Two similar stones can be removed if they are:<ul> \n<li>Adjacent</li>\n<li>Connect-able via a line</li>\n<li>Connect-able via a line with one edge</li>\n<li>Connect-able via a line with two edges</li></ul>\nThe game has three game levels:<ul>\n<li>Level 1, Stage 1-11: Easy to difficult</li>\n<li>Level 2, Stage 1-4: Predefined levels</li>\n<li>Level 3, Stage 1-?: Changing stone-sets, random sizes</li></ul>\nThe game runs on time and when the time is up it's game over",
+  "publishedBy": "",
+  "developedBy": "",
+  "released": "Apr, 1990",
+  "alsoFor": "",
+  "genre": "Puzzle",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-st/match",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Board game, Tile matching puzzle",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari ST",
+      "releases": []
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/330450-match-atari-st-screenshot-title-screen-with-high-scores.png",
+      "caption": "Title screen with high scores"
+    },
+    {
+      "link": "/images/shots/l/330451-match-atari-st-screenshot-the-main-menu.png",
+      "caption": "The main menu"
+    },
+    {
+      "link": "/images/shots/l/330452-match-atari-st-screenshot-ready-to-start-level-one.png",
+      "caption": "Ready to start level one"
+    },
+    {
+      "link": "/images/shots/l/330453-match-atari-st-screenshot-this-will-be-easy.png",
+      "caption": "This will be easy"
+    },
+    {
+      "link": "/images/shots/l/330454-match-atari-st-screenshot-found-a-match.png",
+      "caption": "Found a match"
+    },
+    {
+      "link": "/images/shots/l/330455-match-atari-st-screenshot-level-complete.png",
+      "caption": "Level complete"
+    },
+    {
+      "link": "/images/shots/l/330456-match-atari-st-screenshot-later-levels-are-harder.png",
+      "caption": "Later levels are harder"
+    },
+    {
+      "link": "/images/shots/l/330457-match-atari-st-screenshot-the-computer-is-precalculating-a.png",
+      "caption": "The computer is precalculating a level, probably to make sure that it's solvable"
+    },
+    {
+      "link": "/images/shots/l/330458-match-atari-st-screenshot-game-over.png",
+      "caption": "Game over"
+    }
+  ],
+  "cover": []
+}

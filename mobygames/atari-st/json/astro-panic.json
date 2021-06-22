@@ -1,0 +1,80 @@
+{
+  "name": "Astro Panic",
+  "shortName": "astro-panic",
+  "description": "Astro Panic is a shoot'em up similar to Space Invaders except there are less enemies and they move around the screen individually.<br><br>On each level there are 6 space ships and the player must shoot them all. The enemy ships move around in straight lines and bounce on the edges of the screen, similar to the balls in <a href=\"https://www.mobygames.com/search/quick?game=Arkanoid\">Arkanoid</a>. The ships do not shoot back at the player, but when an enemy ship collides with the player's cannon at the bottom of the screen one life is lost. When all cannons are lost the game is over. After each level the same enemy 6 ships re-appear and the player has to shoot them all again, but each time the speed of the enemy ships increases.",
+  "publishedBy": "COMPUTE! Publications, Inc.",
+  "developedBy": "",
+  "released": "1986",
+  "alsoFor": "Commodore 64 | Combined View",
+  "genre": "Action",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-st/astro-panic",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade, Shooter",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari ST",
+      "releases": [
+        {
+          "publisher": "COMPUTE! Publications, Inc.",
+          "developer": "",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1986",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/513473-astro-panic-atari-st-screenshot-the-credits-at-the-start-of.png",
+      "caption": "The credits at the start of the game"
+    },
+    {
+      "link": "/images/shots/l/513474-astro-panic-atari-st-screenshot-starting-level-1.png",
+      "caption": "Starting level 1"
+    },
+    {
+      "link": "/images/shots/l/513475-astro-panic-atari-st-screenshot-two-more-ships-to-shoot.png",
+      "caption": "Two more ships to shoot"
+    },
+    {
+      "link": "/images/shots/l/513476-astro-panic-atari-st-screenshot-the-explosions-are-simply.png",
+      "caption": "The explosions are simply white circles"
+    },
+    {
+      "link": "/images/shots/l/513477-astro-panic-atari-st-screenshot-when-an-enemy-ship-collides.png",
+      "caption": "When an enemy ship collides with the player, the screen flashes red."
+    },
+    {
+      "link": "/images/shots/l/513478-astro-panic-atari-st-screenshot-game-over-play-again.png",
+      "caption": "Game over, play again?"
+    },
+    {
+      "link": "/images/shots/l/513957-astro-panic-atari-st-screenshot-monochrome-mode-the-same-game.png",
+      "caption": "Monochrome mode, the same game black and white"
+    },
+    {
+      "link": "/images/shots/l/513958-astro-panic-atari-st-screenshot-monochrome-mode-shooting-ufos.png",
+      "caption": "Monochrome mode, shooting UFOs"
+    },
+    {
+      "link": "/images/shots/l/513959-astro-panic-atari-st-screenshot-monochrome-mode-player-is.png",
+      "caption": "Monochrome mode, player is hit by an alien"
+    },
+    {
+      "link": "/images/shots/l/513960-astro-panic-atari-st-screenshot-high-resolution-mode-actually.png",
+      "caption": "High-resolution mode actually makes the game easier, because of the bigger playfield"
+    }
+  ],
+  "cover": []
+}

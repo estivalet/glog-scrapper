@@ -1,0 +1,60 @@
+{
+  "name": "Lazer Maze",
+  "shortName": "lazer-maze",
+  "description": "<i>Lazer Maze</i> is a strategy game based upon predicting the output of a laser fired into a room with multiple mirrors.  <br><br>The game board consists of a room in a 10 x 10 grid, which is filled with a number of angled mirrors.  The player is assigned a position where a laser will be fired into the room, and must correctly ascertain where the laser will exit.  If the player guesses correctly, they will shoot a small creature that sits at the laser's output, otherwise the monster will throw a small bomb at the player and destroy them.  There are multiple difficulty levels, consisting of more mirrors being present in the room.  The player is awarded points based upon the number of reflections a shot takes, and receives a final score when the entire room has been covered in lasers.",
+  "publishedBy": "Avant-Garde Creations",
+  "developedBy": "",
+  "released": "1983",
+  "alsoFor": "Apple II, Commodore 64, TI-99/4A, VIC-20 | Combined View",
+  "genre": "Puzzle",
+  "perspective": "",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-8-bit/lazer-maze",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari 8-bit",
+      "releases": [
+        {
+          "publisher": "Avant-Garde Creations",
+          "developer": "",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1983",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/1021074-lazer-maze-atari-8-bit-screenshot-title-screen.png",
+      "caption": "Title Screen"
+    },
+    {
+      "link": "/images/shots/l/1021076-lazer-maze-atari-8-bit-screenshot-preparing-to-shoot-an-alien.png",
+      "caption": "Preparing to Shoot an Alien"
+    },
+    {
+      "link": "/images/shots/l/1021077-lazer-maze-atari-8-bit-screenshot-alien-hit.png",
+      "caption": "Alien Hit"
+    },
+    {
+      "link": "/images/shots/l/1021079-lazer-maze-atari-8-bit-screenshot-i-miss-the-alien.png",
+      "caption": "I Miss the Alien"
+    },
+    {
+      "link": "/images/shots/l/1021080-lazer-maze-atari-8-bit-screenshot-level-1-complete.png",
+      "caption": "Level 1 Complete"
+    }
+  ],
+  "cover": []
+}

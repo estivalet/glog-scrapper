@@ -1,0 +1,115 @@
+{
+  "name": "Adventure 1",
+  "shortName": "adventure-1",
+  "description": "<i>Classic Adventure</i> is a reworking of the 1978 <a href=\"https://www.mobygames.com/developer/sheet/view/developerId,15632/\">Will Crowther</a> and <a href=\"https://www.mobygames.com/search/quick?developer=Don+Woods\">Don Woods</a> text adventure game <a href=\"https://www.mobygames.com/search/quick?gamegroup=Adventure+versions\">Colossal Cave Adventure</a> which has spawned so many copies and variants over the years.<br>\nThe game was originally released as <i>Adventure 1</i> by <a href=\"https://www.mobygames.com/search/quick?company=Abersoft\">Abersoft</a> in 1982 on the ZX Spectrum. It was later re-named <i>Classic Adventure</i> and published by <a href=\"https://www.mobygames.com/search/quick?company=Melbourne+House\">Melbourne House</a> on multiple platforms.<br><br>This game is very true to the original, it starts with the classic opening:<br>\n'You are standing at the end of a road before a small brick building. Around you is a forest. A small stream flows out of the building and down a gully'<br>\nFrom this point the player can enter the building and commence exploring the cave system, reputedly modelled on Kentucky's Mammoth Caves complex. In the caves are some unsavoury characters, magic items and treasures to be collected and transported back to the well house. \nTrue to the original game, this version supports magic words such as 'Xyzy' and 'Plurgh' which will teleport the player between certain rooms.<br><br>The game keeps a score which increases as the treasures are brought back to the well house, the maximum score that can be achieved is 210, and can be saved to a blank cassette tape.<br><br>",
+  "publishedBy": "Melbourne House",
+  "developedBy": "Abersoft",
+  "released": "1984",
+  "alsoFor": "Amstrad CPC, BBC Micro, Commodore 16, Plus/4, Electron, MSX, ZX81, ZX Spectrum | Combined View",
+  "genre": "Adventure",
+  "perspective": "Text-based / spreadsheet",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/adventure-1",
+  "visual": "",
+  "gamePlay": "Interactive fiction / text adventure, Puzzle elements",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "Melbourne House",
+          "developer": "Abersoft",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1984",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/501529-adventure-1-commodore-64-screenshot-the-start-of-the-game.png",
+      "caption": "The start of the game"
+    },
+    {
+      "link": "/images/shots/l/501530-adventure-1-commodore-64-screenshot-there-s-a-building-so.png",
+      "caption": "There's a building so, naturally, the player enters"
+    },
+    {
+      "link": "/images/shots/l/501531-adventure-1-commodore-64-screenshot-in-another-part-of-the.png",
+      "caption": "In another part of the cavern"
+    },
+    {
+      "link": "/images/shots/l/501532-adventure-1-commodore-64-screenshot-finding-more-rooms-and.png",
+      "caption": "Finding more rooms and getting more treasure"
+    },
+    {
+      "link": "/images/shots/l/501533-adventure-1-commodore-64-screenshot-the-room-descriptions.png",
+      "caption": "The room descriptions are very detailed"
+    },
+    {
+      "link": "/images/shots/l/501534-adventure-1-commodore-64-screenshot-leaving-the-game-is-easy.png",
+      "caption": "Leaving the game is easy, just type QUIT. EXIT may just take you out of the building, (it did when I used it but it mat be a location dependent action)"
+    },
+    {
+      "link": "/images/shots/l/501535-adventure-1-commodore-64-screenshot-on-quitting-the-game-gives.png",
+      "caption": "On quitting the game gives a score - its zero here because no treasure was deposited in the well house - and optionally starts a new game"
+    },
+    {
+      "link": "/images/shots/l/501536-adventure-1-commodore-64-screenshot-the-info-command-shows.png",
+      "caption": "The INFO command shows the help screen. This is all the help the player gets"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/213605-adventure-1-commodore-64-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/213604-adventure-1-commodore-64-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/213607-adventure-1-commodore-64-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/213606-adventure-1-commodore-64-other.jpg",
+      "scanOf": "Other",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/213608-adventure-1-commodore-64-other.jpg",
+      "scanOf": "Other",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/213609-adventure-1-commodore-64-other.jpg",
+      "scanOf": "Other",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "Commodore 64"
+    }
+  ]
+}

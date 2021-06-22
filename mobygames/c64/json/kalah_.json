@@ -1,0 +1,80 @@
+{
+  "name": "Kalah",
+  "shortName": "kalah_",
+  "description": "<i>Kalah</i> is an adaptation of the board game with the same, which is part of the Mancala family of games. The game is played by one player against an AI opponent. Each player has six round pits and a Kalah, which is a longer pit. When starting out stones are evenly distributed to the round pits (3-6 in each depending on game options chosen) and the aim of the game is to collect more than half of the stones in the player's Kalah.<br><br>In each round the player takes all stones from one pit and distribute them anti clockwise around the board with one in each pit. If the last stone lands in the player's own Kalah he must make one more move. If the last stone ends in a pit on the player's side and the pit on the other side is empty, all stones in that pit will be captured. The game stops if no more moves can be made by the player and the opponent then gets to count his remaining stones to his total or when one player has more than half of the stones.",
+  "publishedBy": "Talent Computer Systems",
+  "developedBy": "",
+  "released": "1984",
+  "alsoFor": "",
+  "genre": "Strategy / tactics",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/kalah_",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Board game",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "Talent Computer Systems",
+          "developer": "",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1984",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/855637-kalah-commodore-64-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/855638-kalah-commodore-64-screenshot-options-screen.png",
+      "caption": "Options screen"
+    },
+    {
+      "link": "/images/shots/l/855639-kalah-commodore-64-screenshot-instructions-page-1.png",
+      "caption": "Instructions, page 1"
+    },
+    {
+      "link": "/images/shots/l/855640-kalah-commodore-64-screenshot-instructions-page-2.png",
+      "caption": "Instructions, page 2"
+    },
+    {
+      "link": "/images/shots/l/855641-kalah-commodore-64-screenshot-starting-out.png",
+      "caption": "Starting out"
+    },
+    {
+      "link": "/images/shots/l/855642-kalah-commodore-64-screenshot-game-in-progress.png",
+      "caption": "Game in progress"
+    },
+    {
+      "link": "/images/shots/l/855645-kalah-commodore-64-screenshot-info-screen.png",
+      "caption": "Info screen"
+    },
+    {
+      "link": "/images/shots/l/855643-kalah-commodore-64-screenshot-computer-wins.png",
+      "caption": "Computer wins"
+    },
+    {
+      "link": "/images/shots/l/855644-kalah-commodore-64-screenshot-the-colour-used-changes-with.png",
+      "caption": "The colour used changes with every new game"
+    },
+    {
+      "link": "/images/shots/l/855646-kalah-commodore-64-screenshot-here-a-brownish-one.png",
+      "caption": "Here a brownish one"
+    }
+  ],
+  "cover": []
+}

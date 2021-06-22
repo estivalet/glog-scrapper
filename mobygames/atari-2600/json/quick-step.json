@@ -1,0 +1,72 @@
+{
+  "name": "Quick Step",
+  "shortName": "quick-step",
+  "description": "In <i>Quick Step</i> a kangaroo and squirrel are competing against each other to earn points by jumping on trampolines. The screen is made up of an array of trampolines which scroll downward. As trampolines appear at the top of the screen, they will be grey in color; as soon as it turns pink, the trampoline is now in play. Each time a critter jumps on a trampoline, the color will change to that critters color (green for the kangaroo, or blue for the squirrel). If you jump on a pink trampoline, 3 points are earned; when a trampoline falls off the bottom of the screen that is your color, 6 points are earned (so although no points are earned by jumping on your opponents color, you want to try to get as many trampolines as possible your color in order to earn points when they reach the bottom).  If you fall off of the bottom of the screen, a life is lost; the game ends when one player has no more lives left and whomever has more points wins. A few bonuses can also be found; if you see a white trampoline, that is a magic hat; collect it and then jump onto the same space as your opponent to temporarily stun him. Each player also begins the game with 6 tricky traps; pressing the button lays a trap causing the trampoline to disappear so no one can land there.   Each level in the game gets progressively faster; at the end of a level, there will be a single column of fast moving trampolines to jump up, so be careful!",
+  "publishedBy": "Imagic",
+  "developedBy": "Imagic",
+  "released": "Sep, 1983",
+  "alsoFor": "",
+  "genre": "Action",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-2600/quick-step",
+  "visual": "2D scrolling",
+  "gamePlay": "Arcade",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari 2600",
+      "releases": [
+        {
+          "publisher": "Imagic",
+          "developer": "Imagic",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "Sep, 1983",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/99399-quick-step-atari-2600-screenshot-imagic-logo-and-game-demo.png",
+      "caption": "Imagic logo and game demo"
+    },
+    {
+      "link": "/images/shots/l/99400-quick-step-atari-2600-screenshot-a-game-in-progress-on-an-easy.png",
+      "caption": "A game in progress on an easy level"
+    },
+    {
+      "link": "/images/shots/l/99401-quick-step-atari-2600-screenshot-the-squirrel-is-flashing-colors.png",
+      "caption": "The squirrel is flashing colors as it landed on a magic hat space; kangaroo should avoid it!"
+    },
+    {
+      "link": "/images/shots/l/99402-quick-step-atari-2600-screenshot-the-narrow-path-up-to-the.png",
+      "caption": "The narrow path up to the next level"
+    },
+    {
+      "link": "/images/shots/l/99403-quick-step-atari-2600-screenshot-earn-points-if-your-color.png",
+      "caption": "Earn points if your color trampoline falls off the bottom of the screen, like the squirrel is doing here..."
+    },
+    {
+      "link": "/images/shots/l/99404-quick-step-atari-2600-screenshot-later-levels-may-have-missing.png",
+      "caption": "Later levels may have missing trampolines"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/41215-quick-step-atari-2600-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Atari 2600"
+    }
+  ]
+}

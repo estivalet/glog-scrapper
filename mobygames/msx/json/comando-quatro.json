@@ -1,0 +1,90 @@
+{
+  "name": "Comando Quatro",
+  "shortName": "comando-quatro",
+  "description": "Action game in which you change to different areas at set time intervals. Each area has a default character with different capabilities. After your time in an area is over you switch to the next area automatically. After cycling through all four areas you start again with the first one. The goal of the game is to get through all stages to the end.<br><br>The characters and abilities are (in order);\n<ul><li>Ape, can jump forwards and hit objects (like stones statues) and enemies\n<li>Miner, can jump high straight upwards, and shoot\n<li>Gargoyle, can fly for short distances and shoot \n<li>Pilot, can jump and will come down slowly with a parachute, and can shoot</ul>\nWhen you're in one of the four areas, you can change to a different character while staying in the same area. This gives you the ability to get around certain challenges. An example is a stone cross in the Gargoyle area of the game which can only be destroyed by the ape.<br><br>Switching between characters is done with the keys 1 through 4, and you can see how many lives each character has left in the four corners of the screen. Getting hit or being touched by enemies will drain the life of the character, and the picture in the corner of the screen will change into a skull, once it has changed completely into a skull you lose a life. Losing a character will not result in a game over, but may limit your abilities to progress in the game.",
+  "publishedBy": "Zigurat Software S.L.",
+  "developedBy": "Gamesoft",
+  "released": "1989",
+  "alsoFor": "Amstrad CPC, ZX Spectrum | Combined View",
+  "genre": "Action",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/msx/comando-quatro",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Platform",
+  "setting": "",
+  "release": [
+    {
+      "system": "MSX",
+      "releases": [
+        {
+          "publisher": "Zigurat Software S.L.",
+          "developer": "Gamesoft",
+          "ported": "",
+          "country": " Spain",
+          "releaseDate": "1989",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/837705-comando-quatro-msx-screenshot-cassette-loading-screen.png",
+      "caption": "Cassette loading screen"
+    },
+    {
+      "link": "/images/shots/l/837706-comando-quatro-msx-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/837707-comando-quatro-msx-screenshot-ape-character.png",
+      "caption": "Ape character"
+    },
+    {
+      "link": "/images/shots/l/837708-comando-quatro-msx-screenshot-miner-character.png",
+      "caption": "Miner character"
+    },
+    {
+      "link": "/images/shots/l/837709-comando-quatro-msx-screenshot-gargoyle-character.png",
+      "caption": "Gargoyle character"
+    },
+    {
+      "link": "/images/shots/l/837711-comando-quatro-msx-screenshot-pilot-character.png",
+      "caption": "Pilot character"
+    },
+    {
+      "link": "/images/shots/l/837712-comando-quatro-msx-screenshot-game-over.png",
+      "caption": "Game over"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/328582-comando-quatro-msx-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Cassette Case",
+      "country": "Spain",
+      "platforms": "MSX"
+    },
+    {
+      "link": "/images/covers/l/327686-comando-quatro-msx-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Cassette Case",
+      "country": "Spain",
+      "platforms": "MSX"
+    },
+    {
+      "link": "/images/covers/l/327685-comando-quatro-msx-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Cassette Case",
+      "country": "Spain",
+      "platforms": "MSX"
+    }
+  ]
+}

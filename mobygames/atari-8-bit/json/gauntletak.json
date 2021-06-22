@@ -1,0 +1,94 @@
+{
+  "name": "Gauntletak",
+  "shortName": "gauntletak",
+  "description": "<b>OVERVIEW</b><br><br>Programmed exclusively for the Atari 8-bit computers, <i>Gauntletak!</i> was one of the earliest &quot;<a href=\"https://www.mobygames.com/search/quick?gamegroup=Cave-flyers+and+Thrust+clones\">cave-flyer games</a>.&quot; It was also one of the earliest games that functioned in the shareware mode of distribution, though the word had not been coined yet, and was generally distributed on BBSes.  The shareware version was named <i>Gauntlet</i>, and, though it was released a year before Atari's release of the popular coin-op arcade game by the same name, the developer opted to rename it for the paid version.<br><br><b>GAMEPLAY</b><br><br><i>Gauntletak!</i> is a side-view 2D shooter in which the player controls a lander-like ship in a zero-gravity cave environment, progressing through fifty screens and facing progressively more difficult enemies and situations before facing the final Kingship.<br><br>Movement is similar to other lander-style games, though simplified by the lack of gravity.  Pressing the joystick in any direction thrusts in that direction, with momentum maintained until either canceled by thrust in the opposite direction, or pressing the X key to cancel all motion.  Meanwhile, holding down the fire button while pointing in any direction fires the ship's weapons in that direction, allowing the player to drift in one direction while firing in any other direction.  The controls are simple and intuitive, without the complexity and higher learning curve involved in many other lander-type games.<br><br>The core portion of the game involves avoiding and destroying a variety of enemies, including homing proximity mines, ground installations that fire all sorts of guns and missiles, and a variety of alien ships whose firepower increases over the course of the game.  The alien ships have varying AI behavior, from simply pursuing the player directly to using the terrain to take cover from player fire.  To succeed, the player must use the terrain as cover and avoid being detected by too many on-screen enemies at once or be swarmed and damaged excessively or destroyed.<br><br>The player's ship fires direct-fire fusion bolts in a steady autofire, limited to six bolts on-screen at any given time, creating tiny explosions on impact.  At the beginning of each game, the player also chooses one of three missile types, with different characteristics and tactical uses, that will be used for the entirety of that game.  Missile ammunition is limited to 10, but replenishes periodically.  <br><br>The environment in Gauntletak! is completely destructible, and sometimes must be blown through to progress to the next screen.  Beginning game options also provide an option to play the game without any landscape whatsoever.<br><br>Everything in the game takes damage continuously as long as it is in contact with an explosion or some other object.  The player's ship starts with 30 points of shield damage capacity, and if that shield is ever reduced to zero, the next hit will destroy it.  Every screen completed increases the player's shield by 2, up to a maximum of 99, and the player receives 100 bonus points per shield point remaining at the end of every screen.  Every 10,000 points, the player receives an additional 10 shield points.  Thus, it is important to build up shield points in the early game so as to bring in enough points to get the 10,000-point shield bonus every one or two screens.<br><br><b>NOTEWORTHY TECHNICAL ASPECTS</b><br><br>One of the most noteworthy aspects of <i>Gauntletak!</i>, beside its sophisticated treatment of movement and intertia, was the sheer number of moving objects it can have on the screen at once -- often ten or so enemies, six of your fusion bolts and scads of enemy shots and missiles -- despite the fact that the Atari 8-bit video driver made this impossible because of its need to redraw the whole screen when even one pixel was changed.  The author circumvented this limitation by programming the game in lean assembly-language code, writing his own video driver and packing it into 28k.  Few other action-arcade games of the time matched the complexity and dynamism of the action, and the physics modeling implemented in <i>Gauntletak!</i>.<br><br><b>REGISTERED VERSION RELEASE</b><br><br>The developer released an expanded registered version of the game, mailed to players who paid for for registration.  The registered version had a number of improvements over the shareware version, including more levels, new missile types, and a larger variety of enemies.  Some of the new enemies had new AI behaviors, including behaviors like coordinating attacks.  The registered version could accommodate twice as many objects on the screen at once, increasing the difficulty ceiling of the game. It also came with a printed manual.\n",
+  "publishedBy": "",
+  "developedBy": "",
+  "released": "1987",
+  "alsoFor": "",
+  "genre": "Action",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-8-bit/gauntletak",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Shooter",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari 8-bit",
+      "releases": []
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/182888-gauntletak-atari-8-bit-screenshot-the-title-screen.png",
+      "caption": "The title screen"
+    },
+    {
+      "link": "/images/shots/l/182889-gauntletak-atari-8-bit-screenshot-the-verticle-lines-are-usually.png",
+      "caption": "The verticle lines are (usually) your shots; if they collide with others, they explode."
+    },
+    {
+      "link": "/images/shots/l/182890-gauntletak-atari-8-bit-screenshot-the-strange-wide-explosion.png",
+      "caption": "The strange wide explosion near center is a tridex missile."
+    },
+    {
+      "link": "/images/shots/l/182891-gauntletak-atari-8-bit-screenshot-sometimes-you-must-open.png",
+      "caption": "Sometimes you must &quot;open up&quot; a closed area to dig out the last enemy."
+    },
+    {
+      "link": "/images/shots/l/182892-gauntletak-atari-8-bit-screenshot-a-valley-lined-with-difficult.png",
+      "caption": "A valley lined with difficult-to-see ground batteries."
+    },
+    {
+      "link": "/images/shots/l/182893-gauntletak-atari-8-bit-screenshot-firing-missiles-the-two.png",
+      "caption": "Firing missiles (the two little bowtie thingies about to strike the ship to the right)."
+    },
+    {
+      "link": "/images/shots/l/182894-gauntletak-atari-8-bit-screenshot-the-screen-gets-very-busy.png",
+      "caption": "The screen gets very busy with gunfire from all quarters."
+    },
+    {
+      "link": "/images/shots/l/182895-gauntletak-atari-8-bit-screenshot-often-the-trick-is-to-snipe.png",
+      "caption": "Often the trick is to snipe enemies through blasted tunnels."
+    },
+    {
+      "link": "/images/shots/l/182897-gauntletak-atari-8-bit-screenshot-the-entrance-to-the-underground.png",
+      "caption": "The entrance to the underground phase of the game."
+    },
+    {
+      "link": "/images/shots/l/182898-gauntletak-atari-8-bit-screenshot-before-beginning-a-screen.png",
+      "caption": "Before beginning a screen..."
+    },
+    {
+      "link": "/images/shots/l/182899-gauntletak-atari-8-bit-screenshot-and-after-it-really-is-oddly.png",
+      "caption": "...  and after.  It really is oddly satisfying."
+    },
+    {
+      "link": "/images/shots/l/182900-gauntletak-atari-8-bit-screenshot-some-screens-don-t-leave.png",
+      "caption": "Some screens don't leave room for much maneuvering."
+    },
+    {
+      "link": "/images/shots/l/182902-gauntletak-atari-8-bit-screenshot-an-intense-battle.png",
+      "caption": "An intense battle."
+    },
+    {
+      "link": "/images/shots/l/182904-gauntletak-atari-8-bit-screenshot-enemy-ships-will-snipe-at.png",
+      "caption": "Enemy ships will snipe at you through your little openings, too."
+    },
+    {
+      "link": "/images/shots/l/182905-gauntletak-atari-8-bit-screenshot-the-kingship.png",
+      "caption": "The Kingship."
+    },
+    {
+      "link": "/images/shots/l/182909-gauntletak-atari-8-bit-screenshot-the-in-game-manual.png",
+      "caption": "The in-game manual."
+    }
+  ],
+  "cover": []
+}

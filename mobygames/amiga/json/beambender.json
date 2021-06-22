@@ -1,0 +1,117 @@
+{
+  "name": "Beambender",
+  "shortName": "beambender",
+  "description": "<i>Beambender</i> is a light puzzle game similar to <a href=\"https://www.mobygames.com/game/deflektor\">Deflektor</a>. The player's task is to use mirrors and other components to direct light beams from cannons to coloured exits. Each level has multiple exits and to succeed the player has to hit each with a light beam of the right colour. The game consists of three phases: manipulation mode, test mode and final test mode. It starts with the manipulation mode where the player places the various components on the board. After that the test mode is initiated by double clicking on a cannon. It will then shoot three times and the player will be able to see the beam path and possible errors. When all done the final test mode is initiated by double clicking on an exit and each cannon will then shoot once. If each exit is hit by a beam of the right colour the level will be completed and the player can move on to the next one. Exits are shielded and only have two openings which has to be hit. Hitting the side of the exit will lead to it being destroyed and the level has to be restarted. Each level is timed but it is possible to pause the game.<br><br>There are two kinds of components: those that are prebuilt on the board and those that are generated from the manufacturer and that the player places on the board. The former include cannons and exits as well as sensors that only let through beams of its own colour, eyes that absorbs any beams and grim reapers that kill the player when hit. The components that the player can add include regular mirrors that deflects the beam in a 90° angle as well as dividers and crystal balls that splits the beam in two or three directions. There are also converters that change the colour of the beam and mines that can be used to blast erroneously places components as well as certain obstacles that block the path. The player will also come across characters known as wobbly dots that move around the board. Some of these are positive and give bonus time or extra tries when clicked on while others drops slime on the board which makes the spot unusable for buildings. These have to be quickly clicked on when they appear to avoid trouble.",
+  "publishedBy": "Verkosoft Publishing",
+  "developedBy": "Blue Lemon Studio",
+  "released": "1997",
+  "alsoFor": "Windows, Windows 3.x | Combined View",
+  "genre": "Puzzle",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/amiga/beambender",
+  "visual": "",
+  "gamePlay": "",
+  "setting": "",
+  "release": [
+    {
+      "system": "Amiga",
+      "releases": [
+        {
+          "publisher": "Verkosoft Publishing",
+          "developer": "Blue Lemon Studio",
+          "ported": "",
+          "country": " Germany",
+          "releaseDate": "1997",
+          "ean13": "",
+          "comments": ""
+        },
+        {
+          "publisher": "Epic Marketing",
+          "developer": "Blue Lemon Studio",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1998",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/754646-beambender-amiga-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/754647-beambender-amiga-screenshot-main-menu.png",
+      "caption": "Main menu"
+    },
+    {
+      "link": "/images/shots/l/754648-beambender-amiga-screenshot-level-info.png",
+      "caption": "Level info"
+    },
+    {
+      "link": "/images/shots/l/754649-beambender-amiga-screenshot-starting-out.png",
+      "caption": "Starting out"
+    },
+    {
+      "link": "/images/shots/l/754650-beambender-amiga-screenshot-success.png",
+      "caption": "Success!"
+    },
+    {
+      "link": "/images/shots/l/754651-beambender-amiga-screenshot-hit-the-shield-of-the-exit-and.png",
+      "caption": "Hit the shield of the exit and it explodes"
+    },
+    {
+      "link": "/images/shots/l/754652-beambender-amiga-screenshot-highscores.png",
+      "caption": "Highscores"
+    },
+    {
+      "link": "/images/shots/l/754654-beambender-amiga-screenshot-level-2.png",
+      "caption": "Level 2"
+    },
+    {
+      "link": "/images/shots/l/754655-beambender-amiga-screenshot-converters-are-used-to-change.png",
+      "caption": "Converters are used to change the colour of beams"
+    },
+    {
+      "link": "/images/shots/l/754656-beambender-amiga-screenshot-level-3.png",
+      "caption": "Level 3"
+    },
+    {
+      "link": "/images/shots/l/754658-beambender-amiga-screenshot-the-green-faces-have-to-be-stopped.png",
+      "caption": "The green faces have to be stopped or they drop goo all over the place"
+    },
+    {
+      "link": "/images/shots/l/754659-beambender-amiga-screenshot-time-s-out.png",
+      "caption": "Time's out"
+    },
+    {
+      "link": "/images/shots/l/754660-beambender-amiga-screenshot-level-4.png",
+      "caption": "Level 4"
+    },
+    {
+      "link": "/images/shots/l/754661-beambender-amiga-screenshot-using-dividers-to-reach-all-exits.png",
+      "caption": "Using dividers to reach all exits"
+    },
+    {
+      "link": "/images/shots/l/754662-beambender-amiga-screenshot-level-5.png",
+      "caption": "Level 5"
+    },
+    {
+      "link": "/images/shots/l/754663-beambender-amiga-screenshot-crystal-balls-split-the-beam-in.png",
+      "caption": "Crystal balls split the beam in three directions"
+    },
+    {
+      "link": "/images/shots/l/754664-beambender-amiga-screenshot-game-over.png",
+      "caption": "Game over"
+    }
+  ],
+  "cover": []
+}

@@ -1,0 +1,96 @@
+{
+  "name": "Völgarr the Viking",
+  "shortName": "vlgarr-the-viking",
+  "description": "<i>Volgarr the Viking</i> is a 2D pixel-art side-scrolling platforming game heavily influenced by arcade games from the late 80's and early 90's.  Its influences include such classics as <a href=\"https://www.mobygames.com/game/arcade/rastan\">Rastan</a>, <a href=\"https://www.mobygames.com/search/quick?game=Super+Ghouls+N+Ghosts\">Super Ghouls N' Ghosts</a>, <a href=\"https://www.mobygames.com/game/nes/castlevania\">Castlevania</a>, <a href=\"https://www.mobygames.com/game/nes/zelda-ii-the-adventure-of-link\">Zelda II: The Adventure of Link</a>, and other games from that era. It is notable for its unique jumping mechanic and spear platform mechanic, and for its high difficulty and lack of hand-holding.<br><br>Players take the role of the titular Volgarr, risen from the dead and commanded by Odin to find and slay the greedy dragon Fafnir. The game has minimal presentation and story, having no formal title screen or opening menu and no cutscenes, dialog, or tutorial. It has a high level of challenge and a deliberate pacing, expecting the player to proceed with caution and learn the layouts of each level, playing each through multiple times until they are mastered. It also encourages speed-running, including a speed runner HUD option, as the game uses very few randomized elements and has many options for increasing the speed a player can get through a level.<br><br>Volgarr's jumping mechanic has only been used in very few other games (the most notable being <i>Super Ghouls N' Ghosts</i>). Once in the air players have no air control, however they have a second jump. The second jump completely changes their trajectory (as well as doubling as a spin attack), allowing a surprising amount of mobility yet overall giving the game very predictable jump arcs and making it very easy to jump in one direction while turning and attacking in the other. Volgarr can also throw spears as a ranged attack, and these spears will embed themselves in walls and can then be used as platforms to assist in navigation.<br><br>Most of the game's levels are divided into two major sections, an exterior and interior, with a boss at the end of the interior section. Dying returns the player back to the beginning of the section they are on.  Within each level are scattered treasure chests, which provide gear items worn by Volgarr when opened. The gear items are always gained in a set sequence, are shown directly on Volgarr's sprite, and are lost when the player takes damage. If the player takes damage without any equipment they are sent back to the beginning of the section they were in. Thus the game does not have a health bar (or any HUD at all really), since the player can visibly see what gear Volgarr is wearing and know how many hits they can take until they die.<br><br>Most levels also have two variations, the &quot;Path of the Crystal&quot; and the &quot;Path of the Valkyrie&quot;. The Path of the Crystal is the default, and the only option for the first level.  On this path the player has infinite lives (retries), and can even skip past levels they have completed before (by walking to the left at the start of the level). The Path of the Valkyrie must be reached by special means, has limited lives before the player is returned to the Path of the Crystal again, and is the only way to get the best ending and a special final bonus stage at the end of the game. To reach the Path of the Valkyrie, the player must obtain all gear items from treasure chests and open more chests beyond that without ever taking damage and losing their gear, until they eventually receive a 1-up item that also acts as a key to reach the Path of the Valkyrie for the following level. The player must reach and stay on the Path of the Valkyrie from the second level onward in order to reach the final bonus stage and secret boss, simulating a 1-credit clear from the classic arcade games Volgarr pays homage to.",
+  "publishedBy": "Crazy Viking Studios LLC",
+  "developedBy": "Crazy Viking Studios LLC",
+  "released": "Sep 25, 2015",
+  "alsoFor": "Linux, Macintosh, Nintendo Switch, PlayStation 4, PS Vita, Wii U, Windows, Xbox One | Combined View",
+  "genre": "Action",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/dreamcast/vlgarr-the-viking",
+  "visual": "2D scrolling",
+  "gamePlay": "",
+  "setting": "",
+  "release": [
+    {
+      "system": "Dreamcast",
+      "releases": [
+        {
+          "publisher": "Crazy Viking Studios LLC",
+          "developer": "Crazy Viking Studios LLC",
+          "ported": "",
+          "country": " Worldwide",
+          "releaseDate": "Sep 25, 2015",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [],
+  "cover": [
+    {
+      "link": "/images/covers/l/320426-volgarr-the-viking-dreamcast-front-cover.png",
+      "scanOf": "Front Cover",
+      "packaging": "Other",
+      "country": "Worldwide",
+      "platforms": "Dreamcast"
+    },
+    {
+      "link": "/images/covers/l/366160-volgarr-the-viking-dreamcast-back-cover.png",
+      "scanOf": "Back Cover",
+      "packaging": "Other",
+      "country": "Worldwide",
+      "platforms": "Dreamcast"
+    },
+    {
+      "link": "/images/covers/l/366161-volgarr-the-viking-dreamcast-spine-sides.png",
+      "scanOf": "Spine/Sides",
+      "packaging": "Other",
+      "country": "Worldwide",
+      "platforms": "Dreamcast"
+    },
+    {
+      "link": "/images/covers/l/320428-volgarr-the-viking-dreamcast-media.png",
+      "scanOf": "Media",
+      "packaging": "Other",
+      "country": "Worldwide",
+      "platforms": "Dreamcast"
+    },
+    {
+      "link": "/images/covers/l/366162-volgarr-the-viking-dreamcast-manual.png",
+      "scanOf": "Manual",
+      "packaging": "Other",
+      "country": "Worldwide",
+      "platforms": "Dreamcast"
+    },
+    {
+      "link": "/images/covers/l/366163-volgarr-the-viking-dreamcast-manual.png",
+      "scanOf": "Manual",
+      "packaging": "Other",
+      "country": "Worldwide",
+      "platforms": "Dreamcast"
+    },
+    {
+      "link": "/images/covers/l/366164-volgarr-the-viking-dreamcast-extras.png",
+      "scanOf": "Extras",
+      "packaging": "Other",
+      "country": "Worldwide",
+      "platforms": "Dreamcast"
+    },
+    {
+      "link": "/images/covers/l/366165-volgarr-the-viking-dreamcast-extras.png",
+      "scanOf": "Extras",
+      "packaging": "Other",
+      "country": "Worldwide",
+      "platforms": "Dreamcast"
+    }
+  ]
+}

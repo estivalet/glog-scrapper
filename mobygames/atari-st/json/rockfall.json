@@ -1,0 +1,64 @@
+{
+  "name": "Rockfall",
+  "shortName": "rockfall",
+  "description": "<i>Rockfall</i> is a <a href=\"https://www.mobygames.com/search/quick?game=Boulderdash\">Boulder Dash</a> clone written in 68000 assembler where you on every level (there is a total of 48 levels in the game) have to collect all the diamonds before the time runs out. Be careful of boulders because they will only stay still on flat surfaces and once they fall you cannot out run them. At later levels monsters and pulsators will start to appear. There can be up to 4 of each in a level. Both monsters and pulsators has to be disposed of in one way or another. Monsters walks randomly in the level while pulsators always follows the walls and they will always turn left if they have to choose direction. Monsters can be killed using boulders while you need to use traps to kill pulsators.  <br><br>At the start of the game you have 180 seconds to complete the first level. For following levels, you get an extra 120 seconds in addition to what you have left from the previous level. If the timer reaches zero it's game over.",
+  "publishedBy": "SOS Software",
+  "developedBy": "SOS Software",
+  "released": "Feb, 1992",
+  "alsoFor": "",
+  "genre": "Action, Puzzle",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-st/rockfall",
+  "visual": "",
+  "gamePlay": "",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari ST",
+      "releases": [
+        {
+          "publisher": "SOS Software",
+          "developer": "SOS Software",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "Feb, 1992",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/296343-rockfall-atari-st-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/296344-rockfall-atari-st-screenshot-first-level.png",
+      "caption": "First level"
+    },
+    {
+      "link": "/images/shots/l/296346-rockfall-atari-st-screenshot-heading-for-the-open-exit.png",
+      "caption": "Heading for the open exit"
+    },
+    {
+      "link": "/images/shots/l/296347-rockfall-atari-st-screenshot-level-one-complete.png",
+      "caption": "Level one complete"
+    },
+    {
+      "link": "/images/shots/l/296348-rockfall-atari-st-screenshot-second-level.png",
+      "caption": "Second level"
+    },
+    {
+      "link": "/images/shots/l/296345-rockfall-atari-st-screenshot-game-over.png",
+      "caption": "Game over"
+    }
+  ],
+  "cover": []
+}

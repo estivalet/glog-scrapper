@@ -1,0 +1,94 @@
+{
+  "name": "Er*bert",
+  "shortName": "erbert",
+  "description": "Er*bert is a clone of the arcade game <a href=\"https://www.mobygames.com/search/quick?game=Q%2aBert\"> Q*Bert </a> with some minor modifications. As in the original game, your must leap up and down an isometric landscape of square blocks while avoiding predators (in this case, Boris the gorilla and Coily the snake) and other obstacles (such as falling boulders and trapped squares). Every time a square is visited it changes colour, and the goal is to visit all blocks without being killed. There are also single use teleporter disks at the edges of the playing area, allowing Er*bert to escape from tight situations.<br><br>The first level is the same pyramidal shape as in the original game, but there are also three other levels shapes, which are repeated for 10 different difficulty settings. The enemies also behave differently from the arcade, with Boris always distracted by a banana before chasing you. Picking up the banana gives you a double points bonus for each new square visited. There is also a hover-hat which can be activated to temporarily fly above the landscape out of harm's way.<br><br>",
+  "publishedBy": "Microbyte Software",
+  "developedBy": "",
+  "released": "1984",
+  "alsoFor": "Antstream, BBC Micro, Electron | Combined View",
+  "genre": "Action",
+  "perspective": "Bird's-eye view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/cpc/erbert",
+  "visual": "Fixed / flip-screen, Isometric",
+  "gamePlay": "Arcade",
+  "setting": "",
+  "release": [
+    {
+      "system": "Amstrad CPC",
+      "releases": [
+        {
+          "publisher": "Microbyte Software",
+          "developer": "",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1984",
+          "ean13": "",
+          "comments": ""
+        },
+        {
+          "publisher": "Alternative Software Ltd.",
+          "developer": "",
+          "ported": "",
+          "country": " Spain",
+          "releaseDate": "1987",
+          "ean13": "",
+          "comments": "re-release (AS012)"
+        },
+        {
+          "publisher": "Alternative Software Ltd.",
+          "developer": "",
+          "ported": "",
+          "country": " Spain",
+          "releaseDate": "1987",
+          "ean13": "",
+          "comments": "re-release (AS012)"
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/983560-er-bert-amstrad-cpc-screenshot-loading-screen.png",
+      "caption": "Loading screen."
+    },
+    {
+      "link": "/images/shots/l/983561-er-bert-amstrad-cpc-screenshot-instructions.png",
+      "caption": "Instructions."
+    },
+    {
+      "link": "/images/shots/l/983562-er-bert-amstrad-cpc-screenshot-further-instructions.png",
+      "caption": "Further instructions."
+    },
+    {
+      "link": "/images/shots/l/983563-er-bert-amstrad-cpc-screenshot-first-level.png",
+      "caption": "First level."
+    },
+    {
+      "link": "/images/shots/l/983564-er-bert-amstrad-cpc-screenshot-demonstrating-the-hover-hat.png",
+      "caption": "Demonstrating the hover-hat."
+    },
+    {
+      "link": "/images/shots/l/983565-er-bert-amstrad-cpc-screenshot-level-2.png",
+      "caption": "Level 2."
+    },
+    {
+      "link": "/images/shots/l/983566-er-bert-amstrad-cpc-screenshot-level-3.png",
+      "caption": "Level 3."
+    },
+    {
+      "link": "/images/shots/l/983567-er-bert-amstrad-cpc-screenshot-level-4.png",
+      "caption": "Level 4."
+    },
+    {
+      "link": "/images/shots/l/983568-er-bert-amstrad-cpc-screenshot-wrapping-back-to-level-1-but.png",
+      "caption": "Wrapping back to level 1, but higher difficulty."
+    }
+  ],
+  "cover": []
+}

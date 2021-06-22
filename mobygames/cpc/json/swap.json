@@ -1,0 +1,64 @@
+{
+  "name": "Swap",
+  "shortName": "swap",
+  "description": "In this puzzle board game you should swap the tiles to make the sequence of tiles of the same color to eliminate them.\nShape of tiles varies from big and small squares to triangles or hexagons. If tiles have no neighbor tiles you may take appropriate tiles from the pocket of the limited size to eliminate the rest of the tiles. Finishing the level, player will be transferred to the higher level if the results of the current level were high enough for such level. But to finish level successfully, player should acquire the certain number of points and to be qualified for the next level. The difficulty also raises and depends on quantity of colours, the shape of the tiles, and time limit presence. Undo moves are also present, but such moves decrease your final results. Game may be saved in progress and loaded later. <br><br>Best scores and levels will be written in High Score Table.",
+  "publishedBy": "Micro&iuml;ds",
+  "developedBy": "Micro&iuml;ds",
+  "released": "1990",
+  "alsoFor": "Amiga, Atari ST, Commodore 64, DOS, PC-98 | Combined View",
+  "genre": "Puzzle",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/cpc/swap",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Board game, Tile matching puzzle",
+  "setting": "",
+  "release": [
+    {
+      "system": "Amstrad CPC",
+      "releases": [
+        {
+          "publisher": "Micro&iuml;ds",
+          "developer": "Micro&iuml;ds",
+          "ported": "",
+          "country": " France",
+          "releaseDate": "1990",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/257688-swap-amstrad-cpc-screenshot-title-screen.gif",
+      "caption": "Title Screen"
+    },
+    {
+      "link": "/images/shots/l/257689-swap-amstrad-cpc-screenshot-main-menu.gif",
+      "caption": "Main Menu"
+    },
+    {
+      "link": "/images/shots/l/257690-swap-amstrad-cpc-screenshot-options.gif",
+      "caption": "Options"
+    },
+    {
+      "link": "/images/shots/l/257691-swap-amstrad-cpc-screenshot-start-of-the-level-with-hexagons.gif",
+      "caption": "Start of the level with hexagons..."
+    },
+    {
+      "link": "/images/shots/l/257692-swap-amstrad-cpc-screenshot-swapping-the-tiles.gif",
+      "caption": "Swapping the tiles"
+    },
+    {
+      "link": "/images/shots/l/257693-swap-amstrad-cpc-screenshot-want-to-quit.gif",
+      "caption": "Want to quit?"
+    }
+  ],
+  "cover": []
+}

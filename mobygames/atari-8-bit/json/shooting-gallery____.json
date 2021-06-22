@@ -1,0 +1,60 @@
+{
+  "name": "Shooting Gallery",
+  "shortName": "shooting-gallery____",
+  "description": "<i>Shooting Gallery</i> is a 1-player shooting game for the Atari 400/800.<br><br>The player controls a small gun, which moves horizontally on the bottom of the screen.  The player has a limited number of bullets, which are represented in the bottom left corner of the screen.  The goal is to maximize points in a single round, by shooting owls, rabbits, and ducks.  The player receives 60 points per item in the back row, 40 in the middle row, and 20 in the back row.  Ducks will intermittently take flight, and if not shot immediately, will gobble up the player's bullets.  There is a small row of pipes in the top of the screen.  The value of these are based upon how many shots the player has taken in that game, decreasing by 10 points per bullet used.  Stars and targets will appear on the screen, which reward the player with more bullets of shot, but are not worth points.  A game is over if the player runs out of bullets or all items on the screen are shot.  If the player shoots all items on the screen, a bear appears, which can be shot for bonus points.  ",
+  "publishedBy": "A.N.A.L.O.G. Software",
+  "developedBy": "",
+  "released": "1981",
+  "alsoFor": "",
+  "genre": "Action",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-8-bit/shooting-gallery____",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari 8-bit",
+      "releases": [
+        {
+          "publisher": "A.N.A.L.O.G. Software",
+          "developer": "",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1981",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/965533-shooting-gallery-atari-8-bit-screenshot-title-screen.png",
+      "caption": "Title Screen"
+    },
+    {
+      "link": "/images/shots/l/965534-shooting-gallery-atari-8-bit-screenshot-instructions.png",
+      "caption": "Instructions"
+    },
+    {
+      "link": "/images/shots/l/965535-shooting-gallery-atari-8-bit-screenshot-starting-off.png",
+      "caption": "Starting Off"
+    },
+    {
+      "link": "/images/shots/l/965536-shooting-gallery-atari-8-bit-screenshot-game-over.png",
+      "caption": "Game Over"
+    },
+    {
+      "link": "/images/shots/l/965537-shooting-gallery-atari-8-bit-screenshot-shooting-the-bear.png",
+      "caption": "Shooting the Bear"
+    }
+  ],
+  "cover": []
+}

@@ -1,0 +1,88 @@
+{
+  "name": "Slither Link",
+  "shortName": "slither-link",
+  "description": "<i>Slither Link</i> is a puzzle game from the pages of the Nikoli puzzle magazine. While Nikoli is widely known for coining the puzzle name <a href=\"https://www.mobygames.com/search/quick?gamegroup=Sudoku\">Sudoku</a>, they also have produced a myriad of puzzles often dealing with numbers. <br><br>In this puzzle the player needs to create a loop around the fields grid without having the loop's line cross itself. This would of course present little challenge if it weren't for those pesky numbers. The field is dotted with numerals that signal how many times the line may be next to it. The number one may only have the line contiguous with it on one side, the two two sides, the three three sides. Four of course does not exist as that would, by a requirement to have four sides, create a square and thus a intersection of the line. Zeros also exist these may not have any lines bordering them at all. <br><br>When a loop has been created so that all numbers are 'touched' appropriately and the line make a full loop you've cleared the puzzle. The game possesses six levels of difficulty and is played vertically on the WonderSwan.",
+  "publishedBy": "Bandai Co., Ltd., Nikoli Co., Ltd.",
+  "developedBy": "Tomcat System",
+  "released": "Apr 20, 2000",
+  "alsoFor": "",
+  "genre": "Puzzle",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/wonderswan/slither-link",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "",
+  "setting": "",
+  "release": [
+    {
+      "system": "WonderSwan",
+      "releases": [
+        {
+          "publisher": "Bandai Co., Ltd.",
+          "developer": "Tomcat System",
+          "ported": "",
+          "country": " Japan",
+          "releaseDate": "Apr 20, 2000",
+          "ean13": "4 902425 758299",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/328475-slither-link-wonderswan-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/328476-slither-link-wonderswan-screenshot-main-menu.png",
+      "caption": "Main menu"
+    },
+    {
+      "link": "/images/shots/l/328477-slither-link-wonderswan-screenshot-tutorials.png",
+      "caption": "Tutorials"
+    },
+    {
+      "link": "/images/shots/l/328478-slither-link-wonderswan-screenshot-the-simple-idea-is-elaborated.png",
+      "caption": "The simple idea is elaborated. No lines around zeros, one line around ones, two lines around twos, three lines around threes, and no fours allowed!"
+    },
+    {
+      "link": "/images/shots/l/328479-slither-link-wonderswan-screenshot-starting-a-game-kitsune.png",
+      "caption": "Starting a game, kitsune bookworm does nothing except decorate that gray rectangle."
+    },
+    {
+      "link": "/images/shots/l/328480-slither-link-wonderswan-screenshot-mid-way-through-a-game.png",
+      "caption": "Mid way through a game, each wrong placement damages my time."
+    },
+    {
+      "link": "/images/shots/l/328481-slither-link-wonderswan-screenshot-only-one-line-left-to-place.png",
+      "caption": "Only one line left to place for a complete loop."
+    },
+    {
+      "link": "/images/shots/l/328482-slither-link-wonderswan-screenshot-the-complete-sliter-link.png",
+      "caption": "The complete sliter link...  or fence... or whatever."
+    },
+    {
+      "link": "/images/shots/l/328483-slither-link-wonderswan-screenshot-out-of-time-screen.png",
+      "caption": "Out of time screen"
+    },
+    {
+      "link": "/images/shots/l/328484-slither-link-wonderswan-screenshot-another-stage-now-with.png",
+      "caption": "Another stage, now with joyous penguin"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/293647-slither-link-wonderswan-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "Japan",
+      "platforms": "WonderSwan"
+    }
+  ]
+}

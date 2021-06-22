@@ -1,0 +1,52 @@
+{
+  "name": "Kruiswoord",
+  "shortName": "kruiswoord_",
+  "description": "<i>Kruiswoord</i> is a puzzle program in Dutch that generates crosswords puzzles for the C64 and MSX.<br><br>The puzzles are randomly generated at the beginning of each new game and are further expanded by pasting and matching words.<br><br>The writing direction is indicated by a cursor consisting of two flashing dashes. The cursor keys are used to move the cursor around the diagram. You can switch between horizontal and vertical with the RETURN key and with the SPACEBAR you can remove letters. When the whole puzzle is done, you can choose 'nakijken' <i>(check)</i> by pressing F1. This removes all incorrect letters. You can ask for help using F3, but this is only possible nine times. There is also the possibility to print the crossword puzzles by pressing F5.<br><br>There are several differences between the versions. In the MSX version the function keys are not used, but a window is used that will appear below the puzzle when you scroll all the way down with the cursor keys. <br><br>There are also new options that were not in the C64 version:<ul>\n\t<li>'stop' quits the game and returns to the title screen.</li>\n\t<li>'beeld' moves the image with the cursor keys.</li>\n\t<li>'opgeven' <i>(give up)</i> fills up the entire diagram.</li></ul>",
+  "publishedBy": "Radarsoft BV",
+  "developedBy": "Radarsoft BV",
+  "released": "1985",
+  "alsoFor": "MSX | Combined View",
+  "genre": "Puzzle",
+  "perspective": "",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/kruiswoord_",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "Radarsoft BV",
+          "developer": "Radarsoft BV",
+          "ported": "",
+          "country": " The Netherlands",
+          "releaseDate": "1985",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/1029507-kruiswoord-commodore-64-screenshot-loading-screen.png",
+      "caption": "Loading screen"
+    },
+    {
+      "link": "/images/shots/l/1029508-kruiswoord-commodore-64-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/1029509-kruiswoord-commodore-64-screenshot-the-start-of-a-new-game.png",
+      "caption": "The start of a new game. Each time you start a new game it will assemble a random puzzle."
+    }
+  ],
+  "cover": []
+}

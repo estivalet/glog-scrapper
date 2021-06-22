@@ -1,0 +1,72 @@
+{
+  "name": "InterState: The Game",
+  "shortName": "interstate-the-game",
+  "description": "<i>Interstate</i> is a card game based on Mille Bornes. The game plays as a one-player game, but it is essentially a two-player game where the second player must be computer-controlled. Each player has a hand of seven cards. They take it in turns to either play a card or discard a card, and then draw another card to replace it, until there are no more cards left. The goal of the game is to drive 1000 miles before your opponent. There are cards that have distances you can play (50 miles, 25 miles, 100 miles, etc.) that must in total add up to 1000, exactly. However, before you can drive any distance, you first need to play a &quot;Go&quot; card to get out on the road. Your opponent can play a &quot;Stop&quot; card, which means you need to play another &quot;Go&quot; card before you can progress any further. There are also a set of <b>hazard cards</b>, which not only take your opponent off the road but give them something they have to specifically fix: for example, if the the &quot;Nail in Tire&quot; card is played on you, you need to play the &quot;Spare Tire&quot; card before you can progress. There are also <b>safety cards</b>, that make you immune from a certain kind of hazard. For example, playing the &quot;Steel Tire&quot; card means it is impossible for your opponent to play a &quot;Nail in Tire&quot; card. There is only one of each kind of safety card in the deck. You can play a safety card at any time, but if you play it while you are afflicted by the corresponding hazard card, you get a special point bonus. Finally, there are <b>wild cards</b>, which can be played as if they were any other kind of card.<br><br>The game is controlled with the mouse. You must first click the &quot;Play&quot; or &quot;Discard&quot; button, and then select one of your cards. There are sound effects (and sometimes other effects, like shaking the screen) when a card is played.",
+  "publishedBy": "American Dream",
+  "developedBy": "",
+  "released": "1991",
+  "alsoFor": "",
+  "genre": "Strategy / tactics",
+  "perspective": "",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/amiga/interstate-the-game",
+  "visual": "",
+  "gamePlay": "Cards / tiles",
+  "setting": "",
+  "release": [
+    {
+      "system": "Amiga",
+      "releases": [
+        {
+          "publisher": "American Dream",
+          "developer": "",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1991",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/871214-interstate-the-game-amiga-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/871215-interstate-the-game-amiga-screenshot-game-begins-human-player.png",
+      "caption": "Game begins: Human player first"
+    },
+    {
+      "link": "/images/shots/l/871216-interstate-the-game-amiga-screenshot-human-player-plays-a.png",
+      "caption": "Human player plays a &quot;Go&quot; card"
+    },
+    {
+      "link": "/images/shots/l/871217-interstate-the-game-amiga-screenshot-computer-player-played.png",
+      "caption": "Computer player played the &quot;Speed Limit&quot; card, so human player cannot play distance cards greater than 50 miles"
+    },
+    {
+      "link": "/images/shots/l/871218-interstate-the-game-amiga-screenshot-computer-player-making.png",
+      "caption": "Computer player making a decision while afflicted by a &quot;Nail in Tire&quot; hazard card"
+    },
+    {
+      "link": "/images/shots/l/871221-interstate-the-game-amiga-screenshot-choosing-a-wildcard.png",
+      "caption": "Choosing a wildcard"
+    },
+    {
+      "link": "/images/shots/l/871219-interstate-the-game-amiga-screenshot-end-of-round-summary.png",
+      "caption": "End of round summary"
+    },
+    {
+      "link": "/images/shots/l/871220-interstate-the-game-amiga-screenshot-screen-from-in-game-help.png",
+      "caption": "Screen from in-game help system"
+    }
+  ],
+  "cover": []
+}

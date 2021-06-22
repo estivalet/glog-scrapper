@@ -1,0 +1,60 @@
+{
+  "name": "Das groﬂe Quiz",
+  "shortName": "das-groe-quiz",
+  "description": "<em>Das groﬂe Quiz</em> is a quiz game in German language. Up to three players can compete to finish first by answering three questions of all four domains correctly and raising as much money as possible. The delivered four different areas tested are geography, technique, general knowledge and foreign words.<br><br>In each turn a domain is chosen randomly. The question is shown and the player with that question can bet on the answer: up to 100% of the player's current money can be set, with 20% as a minimum bet, so on wrong answers. On each question three possible answers are shown and can be selected. After three correct answers in a specific domain, that domain is locked and no further questions in this field can be taken.<br><br>The questions are giving in text files, which allow cheating by looking into them, but also easily creating own questions or even new domains. The game is written in GFA Basic and the source code is delivered with the game.",
+  "publishedBy": "Starbyte",
+  "developedBy": "Starbyte",
+  "released": "1988",
+  "alsoFor": "",
+  "genre": "Strategy / tactics",
+  "perspective": "",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-st/das-groe-quiz",
+  "visual": "",
+  "gamePlay": "Board game",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari ST",
+      "releases": [
+        {
+          "publisher": "Starbyte",
+          "developer": "Starbyte",
+          "ported": "",
+          "country": " Germany",
+          "releaseDate": "1988",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/804163-das-grosse-quiz-atari-st-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/804164-das-grosse-quiz-atari-st-screenshot-the-wheel-is-turning-randomly.png",
+      "caption": "The wheel is turning randomly selecting a topic. Domains with three correct answers (small bars lower left) cannot be taken again"
+    },
+    {
+      "link": "/images/shots/l/804165-das-grosse-quiz-atari-st-screenshot-question-what-metal-is.png",
+      "caption": "Question: what metal is won out of &quot;Bauxite&quot;?"
+    },
+    {
+      "link": "/images/shots/l/804166-das-grosse-quiz-atari-st-screenshot-before-giving-an-answer.png",
+      "caption": "Before giving an answer, you get the question and can bet on yourself"
+    },
+    {
+      "link": "/images/shots/l/804167-das-grosse-quiz-atari-st-screenshot-after-answering-money.png",
+      "caption": "After answering, money balance is recalculated, also updating the jackpot on wrong answers"
+    }
+  ],
+  "cover": []
+}

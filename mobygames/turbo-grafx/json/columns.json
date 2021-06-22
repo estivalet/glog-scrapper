@@ -1,0 +1,90 @@
+{
+  "name": "Columns",
+  "shortName": "columns",
+  "description": "<i>Columns</i> is loosely derived from <a href=\"https://www.mobygames.com/search/quick?game=Tetris\">Tetris</a>, as it involves arranging falling blocks in such a way as to clear them. However, in columns they are groups of 3 same-size but varying color blocks, which must be arranged into sequences of 3 or more, either horizontally, vertically or diagonally. Sequences of 4 or 5 count for double or triple points, and diagonal sequences score the most. The real trick is to set up 'combos' - where one line causes other blocks to drop so as to create other lines.<br><br>As well as the normal game mode, there is also a 'flash' mode, in which the aim is simply to remove a particular block from the base of the pre-formed pile of bricks. The difficulty of this can be determined by increasing the number of complete rows which are already in place.",
+  "publishedBy": "Telenet Japan Co., Ltd.",
+  "developedBy": "SEGA Enterprises Ltd.",
+  "released": "Mar 29, 1991",
+  "alsoFor": "Arcade, FM Towns, Game Gear, Genesis, Linux, Macintosh, MSX, Nintendo 3DS, PC-88, PC-98, SEGA Master System, Sharp X68000, Sharp Zaurus, SNES, Wii, Windows | Combined View",
+  "genre": "Action, Puzzle",
+  "perspective": "",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/turbo-grafx/columns",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Falling block puzzle",
+  "setting": "",
+  "release": [
+    {
+      "system": "TurboGrafx-16",
+      "releases": [
+        {
+          "publisher": "Telenet Japan Co., Ltd.",
+          "developer": "SEGA Enterprises Ltd.",
+          "ported": "Shin-Nihon Laser Soft Co., Ltd.",
+          "country": " Japan",
+          "releaseDate": "Mar 29, 1991",
+          "ean13": "4 988624 910294",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/214062-columns-turbografx-16-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/214063-columns-turbografx-16-screenshot-main-menu.png",
+      "caption": "Main menu"
+    },
+    {
+      "link": "/images/shots/l/214064-columns-turbografx-16-screenshot-select-level.png",
+      "caption": "Select level"
+    },
+    {
+      "link": "/images/shots/l/214066-columns-turbografx-16-screenshot-playing-in-arcade-mode.png",
+      "caption": "Playing in arcade mode"
+    },
+    {
+      "link": "/images/shots/l/214068-columns-turbografx-16-screenshot-game-over.png",
+      "caption": "Game over"
+    },
+    {
+      "link": "/images/shots/l/214070-columns-turbografx-16-screenshot-high-scores.png",
+      "caption": "High scores"
+    },
+    {
+      "link": "/images/shots/l/214071-columns-turbografx-16-screenshot-playing-in-practice-mode.png",
+      "caption": "Playing in practice mode"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/97154-columns-turbografx-16-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Jewel Case",
+      "country": "Japan",
+      "platforms": "TurboGrafx-16"
+    },
+    {
+      "link": "/images/covers/l/97155-columns-turbografx-16-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Jewel Case",
+      "country": "Japan",
+      "platforms": "TurboGrafx-16"
+    },
+    {
+      "link": "/images/covers/l/97156-columns-turbografx-16-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Jewel Case",
+      "country": "Japan",
+      "platforms": "TurboGrafx-16"
+    }
+  ]
+}

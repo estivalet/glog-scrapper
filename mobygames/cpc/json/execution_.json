@@ -1,0 +1,88 @@
+{
+  "name": "Execution",
+  "shortName": "execution_",
+  "description": "<i>Execution</i> is a word guessing game similar to <a href=\"https://www.mobygames.com/search/quick?gamegroup=Hangman+games\">Hangman</a>. But here, rather than being hanged when answering wrong, the player gets executed by a firing squad. The player guesses the word by inputting one letter at a time. When making a wrong guess or when taking too long a soldier enters the screen. Once the full squad is positioned in front of the player they will begin the execution. The game can be played by up to six players and a game consists of eight rounds. The player with most points at the end wins the game. The game difficulty can be customized and it's possible to change the number of incorrect guesses that can be made as well as the maximum response time. It's also possible to turn on clues. The vocabulary consists of over 1000 words and it that's not enough the player can create his own word list. ",
+  "publishedBy": "Datacom Publications",
+  "developedBy": "Datacom Publications",
+  "released": "1985",
+  "alsoFor": "",
+  "genre": "Puzzle",
+  "perspective": "Text-based / spreadsheet",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/cpc/execution_",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Word construction",
+  "setting": "",
+  "release": [
+    {
+      "system": "Amstrad CPC",
+      "releases": [
+        {
+          "publisher": "Datacom Publications",
+          "developer": "Datacom Publications",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1985",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/680104-execution-amstrad-cpc-screenshot-title-instructions.png",
+      "caption": "Title + Instructions"
+    },
+    {
+      "link": "/images/shots/l/680105-execution-amstrad-cpc-screenshot-enter-name.png",
+      "caption": "Enter name"
+    },
+    {
+      "link": "/images/shots/l/680106-execution-amstrad-cpc-screenshot-main-menu.png",
+      "caption": "Main menu"
+    },
+    {
+      "link": "/images/shots/l/680107-execution-amstrad-cpc-screenshot-start-of-round.png",
+      "caption": "Start of round"
+    },
+    {
+      "link": "/images/shots/l/680108-execution-amstrad-cpc-screenshot-guess-wrong-and-a-soldier.png",
+      "caption": "Guess wrong and a soldier enters"
+    },
+    {
+      "link": "/images/shots/l/680109-execution-amstrad-cpc-screenshot-correct-guess.png",
+      "caption": "Correct guess"
+    },
+    {
+      "link": "/images/shots/l/680110-execution-amstrad-cpc-screenshot-execution-in-action.png",
+      "caption": "Execution in action"
+    },
+    {
+      "link": "/images/shots/l/680111-execution-amstrad-cpc-screenshot-i-got-vaporized.png",
+      "caption": "I got vaporized!"
+    },
+    {
+      "link": "/images/shots/l/680112-execution-amstrad-cpc-screenshot-got-the-full-word-right.png",
+      "caption": "Got the full word right"
+    },
+    {
+      "link": "/images/shots/l/680113-execution-amstrad-cpc-screenshot-scoreboard.png",
+      "caption": "Scoreboard"
+    },
+    {
+      "link": "/images/shots/l/680114-execution-amstrad-cpc-screenshot-you-can-create-your-own-word.png",
+      "caption": "You can create your own word list"
+    },
+    {
+      "link": "/images/shots/l/680115-execution-amstrad-cpc-screenshot-difficulty-customization.png",
+      "caption": "Difficulty customization"
+    }
+  ],
+  "cover": []
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Lazer Maze",
+  "shortName": "lazer-maze",
+  "description": "<i>Lazer Maze</i> is a strategy game based upon predicting the output of a laser fired into a room with multiple mirrors.  <br><br>The game board consists of a room in a 10 x 10 grid, which is filled with a number of angled mirrors.  The player is assigned a position where a laser will be fired into the room, and must correctly ascertain where the laser will exit.  If the player guesses correctly, they will shoot a small creature that sits at the laser's output, otherwise the monster will throw a small bomb at the player and destroy them.  There are multiple difficulty levels, consisting of more mirrors being present in the room.  The player is awarded points based upon the number of reflections a shot takes, and receives a final score when the entire room has been covered in lasers.",
+  "publishedBy": "Avant-Garde Creations",
+  "developedBy": "",
+  "released": "1983",
+  "alsoFor": "Apple II, Atari 8-bit, TI-99/4A, VIC-20 | Combined View",
+  "genre": "Puzzle",
+  "perspective": "",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/lazer-maze",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "Avant-Garde Creations",
+          "developer": "",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1983",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/1036383-lazer-maze-commodore-64-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/1036384-lazer-maze-commodore-64-screenshot-game-start.png",
+      "caption": "Game start"
+    },
+    {
+      "link": "/images/shots/l/1036390-lazer-maze-commodore-64-screenshot-about-to-hit-the-alien.png",
+      "caption": "About to hit the alien"
+    },
+    {
+      "link": "/images/shots/l/1036391-lazer-maze-commodore-64-screenshot-alien-is-bombing-the-player.png",
+      "caption": "Alien is bombing the player"
+    },
+    {
+      "link": "/images/shots/l/1036392-lazer-maze-commodore-64-screenshot-amazeing.png",
+      "caption": "Amazeing!"
+    },
+    {
+      "link": "/images/shots/l/1036393-lazer-maze-commodore-64-screenshot-new-high-score.png",
+      "caption": "New high score"
+    }
+  ],
+  "cover": []
+}

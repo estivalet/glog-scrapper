@@ -1,0 +1,109 @@
+{
+  "name": "Goblin Towers",
+  "shortName": "goblin-towers",
+  "description": "<i>Goblin Towers</i> is a text based treasure hunting adventure. <br><br>A large and ancient castle stands in a large and ancient wood. It is rumored that within the castle live goblins who guard a vast treasure. <br>\nThe player starts their quest in the forest, outside an abandoned cottage that the local villagers maintain and treat as a kind of shrine. After exploring the cottage the player must explore the woods until they find the castle. Once inside they must continue their exploration until they have found the treasure and escaped.<br><br>In the classic tradition of text based adventures, points are awarded as the player makes progress through the game. The maximum possible score is 160.<br><br>The game loads in three parts, it is entirely text based and keyboard controlled. The player progresses through the game by issuing commands such as &quot;Go North&quot;. The parser allows complex sentences such as &quot;Put the red apple into bucket&quot;, and if more than one bucket is present it expects the player to specify which by entering&quot;Put the red apple into metal bucket&quot;.<br><br>\n",
+  "publishedBy": "Supersoft",
+  "developedBy": "",
+  "released": "1983",
+  "alsoFor": "",
+  "genre": "Adventure",
+  "perspective": "",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/goblin-towers",
+  "visual": "",
+  "gamePlay": "Interactive fiction / text adventure, Puzzle elements",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "Supersoft",
+          "developer": "",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1983",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/563575-goblin-towers-commodore-64-screenshot-start-of-your-adventure.png",
+      "caption": "Start of your adventure."
+    },
+    {
+      "link": "/images/shots/l/563576-goblin-towers-commodore-64-screenshot-in-the-cottage.png",
+      "caption": "In the cottage."
+    },
+    {
+      "link": "/images/shots/l/563577-goblin-towers-commodore-64-screenshot-lost-already.png",
+      "caption": "Lost already."
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/212612-goblin-towers-commodore-64-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/212611-goblin-towers-commodore-64-inside-cover.jpg",
+      "scanOf": "Inside Cover",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/212613-goblin-towers-commodore-64-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/212615-goblin-towers-commodore-64-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/435445-goblin-towers-commodore-64-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Plastic Case",
+      "country": "United Kingdom",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/435446-goblin-towers-commodore-64-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Plastic Case",
+      "country": "United Kingdom",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/435447-goblin-towers-commodore-64-spine-sides.jpg",
+      "scanOf": "Spine/Sides",
+      "packaging": "Plastic Case",
+      "country": "United Kingdom",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/435448-goblin-towers-commodore-64-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Plastic Case",
+      "country": "United Kingdom",
+      "platforms": "Commodore 64"
+    }
+  ]
+}

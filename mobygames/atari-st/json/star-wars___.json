@@ -1,0 +1,58 @@
+{
+  "name": "Star Wars",
+  "shortName": "star-wars___",
+  "description": "<i>Star Wars</i> is a horizontally scrolling shooter written in STOS.<br><br>In each level the player has to combat enemy ships, asteroids and fire balls and at the end of the level a boss ship will appear. At the top of the screen score, fire and shield are displayed. In each level the player starts with fire set to 100 and for every shot one is subtracted, when it reaches 0 it starts to grow. Fire is used with shields to compute the end of level bonus. The bonus is computed as shield+fire. If the number representing fire has passed 0 and is growing when the level ends it means that the bonus will be computed as shield-fire. If the shield counter reaches zero it's game over.",
+  "publishedBy": "",
+  "developedBy": "",
+  "released": "1990",
+  "alsoFor": "",
+  "genre": "Action",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-st/star-wars___",
+  "visual": "",
+  "gamePlay": "Arcade, Shooter",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari ST",
+      "releases": []
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/598413-star-wars-atari-st-screenshot-title-screen-with-a-text-scroll.png",
+      "caption": "Title screen with a text scroll"
+    },
+    {
+      "link": "/images/shots/l/598414-star-wars-atari-st-screenshot-and-we-re-off.png",
+      "caption": "And we're off"
+    },
+    {
+      "link": "/images/shots/l/598415-star-wars-atari-st-screenshot-firing-the-laser.png",
+      "caption": "Firing the laser"
+    },
+    {
+      "link": "/images/shots/l/598416-star-wars-atari-st-screenshot-that-is-a-close-call.png",
+      "caption": "That is a close call"
+    },
+    {
+      "link": "/images/shots/l/598417-star-wars-atari-st-screenshot-got-one.png",
+      "caption": "Got one!"
+    },
+    {
+      "link": "/images/shots/l/598418-star-wars-atari-st-screenshot-i-m-hit.png",
+      "caption": "I'm hit"
+    },
+    {
+      "link": "/images/shots/l/598419-star-wars-atari-st-screenshot-game-over.png",
+      "caption": "Game over"
+    }
+  ],
+  "cover": []
+}

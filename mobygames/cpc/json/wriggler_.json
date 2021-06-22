@@ -1,0 +1,56 @@
+{
+  "name": "Wriggler",
+  "shortName": "wriggler_",
+  "description": "<i>Wriggler</i> is a single-screen shooter inspired by the arcade game <moby game=\"Centipede\">Centipede</i> where you control a small spacecraft at the bottom of the screen to blast all the insects that appear in your garden over various levels. You move your craft left, right and a small distance forward as a Centipede type creature moves along the top of the screen, moving downwards one place when it reaches the sides. Scattered all over the screen are mushrooms which block your movements but can be removed after a couple of shots and if the Centipede hits one then it moves downwards one place and moves the opposite direction. If the Centipede is shot then it splits into two, and when the other parts of the Centipede are shot then they also split into two. Other creatures appear like spiders and snails and these can be shot or avoided and if you touch any creature then you lose one of three lives. Once the Centipede has been removed then you move to the next level. ",
+  "publishedBy": "Blaby Computer Games",
+  "developedBy": "",
+  "released": "1984",
+  "alsoFor": "",
+  "genre": "Action",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/cpc/wriggler_",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade, Shooter",
+  "setting": "",
+  "release": [
+    {
+      "system": "Amstrad CPC",
+      "releases": [
+        {
+          "publisher": "Blaby Computer Games",
+          "developer": "",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1984",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/786686-wriggler-amstrad-cpc-screenshot-loading-screen.png",
+      "caption": "Loading Screen"
+    },
+    {
+      "link": "/images/shots/l/786687-wriggler-amstrad-cpc-screenshot-title-screen.png",
+      "caption": "Title Screen"
+    },
+    {
+      "link": "/images/shots/l/786688-wriggler-amstrad-cpc-screenshot-blast-the-insects.png",
+      "caption": "Blast the insects"
+    },
+    {
+      "link": "/images/shots/l/786689-wriggler-amstrad-cpc-screenshot-a-snail-to-shoot.png",
+      "caption": "A snail to shoot"
+    }
+  ],
+  "cover": []
+}

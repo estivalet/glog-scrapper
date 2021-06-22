@@ -1,0 +1,68 @@
+{
+  "name": "Infiltrate",
+  "shortName": "infiltrate",
+  "description": "You are a secret agent sent on an important mission to recover enemy documents. There are enemy assassins trying to stop you.<br><br>You move the joystick to move your character, left or right. Press the button to fire. You fire in the direction you are moving. When you are next to an elevator, you will automatically board it when it gets to your level unless your are pushing towards it, in which case you will walk across it. <br><br>If you are on the same level with an assassin and there is no elevator between you, you can shoot him. If he shoots at you, you can pull down on the joystick to duck. You cannot shoot while ducked. If the assassin shoots or touches you, you lose a life.<br><br><b>Difficulty switch</b><br>\nA=Enemy shots travel the length of the screen<br>\nB=Enemy shots only travel half the screen's length<br><br><b>Scoring</b><br>\nAgent travels all floor levels, top to bottom or bottom to top=3,000 points<br>\nShooting an assassin=250 points<br>\nAssassin is riding elevator when shot=75 bonus points added to assassin shooting points<br><br>You get an extra agent every 10,000 points.<br><br><b>Game variations</b><br>\nGames 1-1, 1-2, 1-3, 1-4, 1-5, and 1-6=One player<br>\nGames 2-1, 2-2, 2-3, 2-4, 2-5, and 2-6 =Two players<br><br>Assassin speed and intelligence:<br>\nat Level 1 in games 1-1, 1-4, 2-1, and 2-4<br>\nat Level 2 in games 1-2, 1-5, 2-2, and 2-5<br>\nat Level 3 in games 1-3, 1-6, 2-3, and 2-6<br><br>There are invisible assassins in games 1-4, 1-5, 1-6, 2-4, 2-5, and 2-6.",
+  "publishedBy": "Apollo, Inc.",
+  "developedBy": "Apollo, Inc.",
+  "released": "1982",
+  "alsoFor": "",
+  "genre": "Action",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-2600/infiltrate",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade, Platform",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari 2600",
+      "releases": [
+        {
+          "publisher": "Apollo, Inc.",
+          "developer": "Apollo, Inc.",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1982",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/171217-infiltrate-atari-2600-screenshot-starting-screen.png",
+      "caption": "Starting screen"
+    },
+    {
+      "link": "/images/shots/l/171218-infiltrate-atari-2600-screenshot-i-m-infiltrating-note-the.png",
+      "caption": "I'm infiltrating. Note the documents (vertical line) at the top level."
+    },
+    {
+      "link": "/images/shots/l/171219-infiltrate-atari-2600-screenshot-duck.png",
+      "caption": "Duck!"
+    },
+    {
+      "link": "/images/shots/l/171220-infiltrate-atari-2600-screenshot-i-shot-an-assassin.png",
+      "caption": "I shot an assassin"
+    },
+    {
+      "link": "/images/shots/l/171221-infiltrate-atari-2600-screenshot-i-fired-a-shot.png",
+      "caption": "I fired a shot"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/76445-infiltrate-atari-2600-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Atari 2600"
+    }
+  ]
+}

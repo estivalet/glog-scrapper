@@ -1,0 +1,156 @@
+{
+  "name": "Elevator Action",
+  "shortName": "elevator-action",
+  "description": "You are Agent 17 (codename: &quot;Otto&quot;). Your mission is to secure all top secret documents from a security building and escape in the getaway car, located in the basement of the building.<br><br>Enemies spies are scattered throughout the 30-floor building and they have only one mission: execute Agent 17 at all costs. There are several ways in which Agent 17 can kill them:<ul>\n<li>Shooting them with his gun.</li>\n<li>Kicking them by jumping onto them.</li>\n<li>Shooting a light on the ceiling while in an elevator, dropping the light onto one of them.</li>\n<li>Crushing them with an elevator.</li>\n</ul>Whenever a light has been dropped, the hallways will be dark for a short period of time, making the enemy spies harder to see. The same holds true for hallways that are already dark.<br><br>While Otto is in an elevator, he will have complete control of it by moving up or down. Agent 17 can still get killed if he's already in an elevator if a bullet's trajectory is aimed at it.. When Otto is not in an elevator, it will move from floor to floor automatically, even when enemy spies are in it. Otto is able to leap over the elevator gaps, but he must be as close to the edge as possible without falling off in order to make the jump safely. If there is an elevator cable in the way, however, it will block him, causing him to fall. <br><br>Just because the game is called <i>Elevator Action</i> doesn't mean that elevators are the only means of travel. There are also escalators which you can ride up or down, useful if you want to avoid gunfire and don't have time to jump.<br><br>Otto must go into the rooms with red doors to collect the top secret documents. If he tries to get to his car without getting all the documents, he cannot escape and must go back and collect the remaining documents. Once he has all the documents and drives away, he then proceeds to the next building.<br><br>If Otto takes too much time to collect the documents, the alarm will go off, and he will have trouble controlling the elevators, which will take time to react. Bad guys will be especially aggressive. The alarm doesn't go off when Otto loses a life, it only resets after finishing a building. Besides ducking, bad guys may also drop themselves and lay flat on the floor. It's virtually impossible for Otto to shoot bad guys when they do this. Also, Otto cannot duck when in an elevator.",
+  "publishedBy": "Taito America Corporation",
+  "developedBy": "Taito Corporation",
+  "released": "Aug, 1987",
+  "alsoFor": "Amstrad CPC, Arcade, Atari 2600, Commodore 64, FM-7, Game Boy, MSX, Nintendo 3DS, Nintendo Switch, PC-88, PlayStation 4, Sharp X1, SG-1000, Wii, Wii U, Windows, ZX Spectrum | Combined View",
+  "genre": "Action",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/nes/elevator-action",
+  "visual": "2D scrolling",
+  "gamePlay": "Platform, Shooter, Stealth",
+  "setting": "",
+  "release": [
+    {
+      "system": "NES",
+      "releases": [
+        {
+          "publisher": "Taito Corporation",
+          "developer": "Taito Corporation",
+          "ported": "Micronics",
+          "country": " Japan",
+          "releaseDate": "Jun 28, 1985",
+          "ean13": "",
+          "comments": ""
+        },
+        {
+          "publisher": "Taito America Corporation",
+          "developer": "Taito Corporation",
+          "ported": "Micronics",
+          "country": " United States",
+          "releaseDate": "Aug, 1987",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/53233-elevator-action-nes-screenshot-title.gif",
+      "caption": "Title"
+    },
+    {
+      "link": "/images/shots/l/105460-elevator-action-nes-screenshot-japan-title-screen.gif",
+      "caption": "Japan Title screen"
+    },
+    {
+      "link": "/images/shots/l/53234-elevator-action-nes-screenshot-otto-uses-his-grappling-hook.gif",
+      "caption": "Otto uses his grappling hook to reach the building"
+    },
+    {
+      "link": "/images/shots/l/53235-elevator-action-nes-screenshot-just-entered-the-building.gif",
+      "caption": "Just entered the building"
+    },
+    {
+      "link": "/images/shots/l/53236-elevator-action-nes-screenshot-just-killed-an-enemy-spy.gif",
+      "caption": "Just killed an enemy spy"
+    },
+    {
+      "link": "/images/shots/l/53237-elevator-action-nes-screenshot-riding-in-the-elevator.gif",
+      "caption": "Riding in the elevator"
+    },
+    {
+      "link": "/images/shots/l/53238-elevator-action-nes-screenshot-who-put-out-the-lights.gif",
+      "caption": "Who put out the lights?"
+    },
+    {
+      "link": "/images/shots/l/53239-elevator-action-nes-screenshot-going-down-an-escalator.gif",
+      "caption": "Going down an escalator"
+    },
+    {
+      "link": "/images/shots/l/53240-elevator-action-nes-screenshot-going-through-a-red-door.gif",
+      "caption": "Going through a red door"
+    },
+    {
+      "link": "/images/shots/l/53241-elevator-action-nes-screenshot-crushing-an-enemy-with-the-base.gif",
+      "caption": "Crushing an enemy with the base of the elevator"
+    },
+    {
+      "link": "/images/shots/l/53242-elevator-action-nes-screenshot-oops-got-crushed-myself.gif",
+      "caption": "&quot;Oops. Got crushed myself&quot;"
+    },
+    {
+      "link": "/images/shots/l/53243-elevator-action-nes-screenshot-there-are-far-too-many-elevators.gif",
+      "caption": "There are far too many elevators here"
+    },
+    {
+      "link": "/images/shots/l/53244-elevator-action-nes-screenshot-escaping-in-the-getaway-car.gif",
+      "caption": "Escaping in the getaway car"
+    },
+    {
+      "link": "/images/shots/l/53245-elevator-action-nes-screenshot-inside-next-building.gif",
+      "caption": "Inside next building"
+    },
+    {
+      "link": "/images/shots/l/53246-elevator-action-nes-screenshot-fell-down-an-elevator-shaft.gif",
+      "caption": "Fell down an elevator shaft"
+    },
+    {
+      "link": "/images/shots/l/53247-elevator-action-nes-screenshot-darn-forgot-to-get-all-the-secret.gif",
+      "caption": "&quot;Darn. Forgot to get all the secret documents&quot;"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/224482-elevator-action-nes-front-cover.png",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "NES"
+    },
+    {
+      "link": "/images/covers/l/224483-elevator-action-nes-back-cover.png",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "NES"
+    },
+    {
+      "link": "/images/covers/l/33973-elevator-action-nes-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "NES"
+    },
+    {
+      "link": "/images/covers/l/295926-elevator-action-nes-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "Japan",
+      "platforms": "NES"
+    },
+    {
+      "link": "/images/covers/l/295927-elevator-action-nes-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "Japan",
+      "platforms": "NES"
+    },
+    {
+      "link": "/images/covers/l/295928-elevator-action-nes-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "Japan",
+      "platforms": "NES"
+    }
+  ]
+}

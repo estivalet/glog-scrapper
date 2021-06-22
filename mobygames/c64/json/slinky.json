@@ -1,0 +1,80 @@
+{
+  "name": "Slinky",
+  "shortName": "slinky",
+  "description": "<i>Slinky</i> is a game where you control a spring and jump from block to block and attempt to change all the blocks to a destination color.  The game has a very obvious <a href=\"https://www.mobygames.com/search/quick?game=Q%2aBert\">Q*Bert</a> influence.   However, there are some original elements as well.<br><br>Various objects float about the screen, like magnets, clouds, raindrops, and other monsters.   The monsters are the only one that are a direct threat.  The magnets can only grab you if you are not moving.  The raindrops actually give you greatly increased speed, and the clouds turn you 'dusty'.  Be careful, if you get hit by both a raindrop and a cloud, then your spring rusts and is dragged off by an oil-can.<br><br>In addition to having five lives, you also must avoid running out of points.  An 8000 point bonus appears briefly over various squares, and you need to catch at least some of them, because every jump decreases your points, and getting 'killed' and knocked off the blocks decreases points even faster.",
+  "publishedBy": "Cosmi Corporation",
+  "developedBy": "Cosmi Corporation",
+  "released": "1983",
+  "alsoFor": "Atari 8-bit, TI-99/4A, VIC-20 | Combined View",
+  "genre": "Action",
+  "perspective": "Bird's-eye view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/slinky",
+  "visual": "Fixed / flip-screen, Isometric",
+  "gamePlay": "Arcade, Platform",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "Cosmi Corporation",
+          "developer": "Cosmi Corporation",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1983",
+          "ean13": "",
+          "comments": ""
+        },
+        {
+          "publisher": "Cosmi Corporation",
+          "developer": "Cosmi Corporation",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1983",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/150990-slinky-commodore-64-screenshot-title-screen.png",
+      "caption": "Title Screen"
+    },
+    {
+      "link": "/images/shots/l/150991-slinky-commodore-64-screenshot-slinky-after-being-hit-by-a.png",
+      "caption": "Slinky after being hit by a cloud"
+    },
+    {
+      "link": "/images/shots/l/150992-slinky-commodore-64-screenshot-hit-by-a-rain-drop-while-a.png",
+      "caption": "Hit by a rain drop while a magnet coasts nearby"
+    },
+    {
+      "link": "/images/shots/l/150993-slinky-commodore-64-screenshot-level-complete-fireworks.png",
+      "caption": "level complete fireworks"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/98365-slinky-commodore-64-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "United States  and Canada",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/98366-slinky-commodore-64-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "United States  and Canada",
+      "platforms": "Commodore 64"
+    }
+  ]
+}

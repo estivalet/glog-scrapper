@@ -1,0 +1,60 @@
+{
+  "name": "Sophistry",
+  "shortName": "sophistry",
+  "description": "<i>Sophistry</i> is a puzzle game in which the goal is to fully explore the game area consisting of 21 levels, each consisting of about 20 screens called &quot;boards&quot;. At the start of the game, only five of the levels are open. The remaining ones have to be unlocked through keys, 64 of which are scattered all over the area. The keys can either be collected or can be bought by spending amassed points.<br><br>Each of the boards, shown in isometric perspective, must be solved individually. Each screen is made up of tiles or blocks which all have different functions, triggered by moving the player's pod onto them. Many of the tiles score points, the amount depending on the type of tile. Certain tile combinations result in special bonus points.<br><br>A special tile is the Target block. Once touched, it will move to another place on the board, usually score a high number of points and may have other special effects depending on the level.<br><br>Other tiles include exits to other boards on the same level as well as exits to other levels, teleporters (which move the player to a specific place somewhere else in the game), question mark blocks which trigger a random effect, joker blocks (which do nothing, but are also safe from most possible changes to level geometry) and the 64 key blocks.<br><br>Besides moving around, the player's orb can also release &quot;Uppers&quot; by pressing the fire button. Uppers are gained by trading in bonus points and when released increase the points value of all score tiles on the board by one.<br><br>Each level has a set of certain attributes: if the Decrement Status is set, the point value of a score block will be lowered by one once the player's pod leaves it. Once a block with a value of zero is left, it will disappear. Even more dangerous is the Tracking Status. When set, every block except jokers, exits and targets can only be jumped off once, then disappears. Releasing Uppers can make decremented blocks reappear, and reaching the target block will usually reset the entire board.<br><br>Another attribute is the type of exit lock. The exits to other boards on the same level can either be unlocked from the start, be unlocked after reaching a certain score or after spending a certain amount of time on the board.<br><br>These three attributes are combined with ten different board types for additional challenge: there may be a time limit for leaving, a score threshold or limit that must be met before touching the target block, blocks that disappear forever or move in a certain direction once jumped off, and more. And if the dangerous environment isn't enough, some levels will also release seekers that hunt down the pod and destroy it upon contact.<br><br>A menu appears upon leaving a board or losing a life, in which points can be traded for lives, keys or uppers and a map of the current level can be studied. An in-game manual detailing tile and board types is also available.",
+  "publishedBy": "CRL Group PLC",
+  "developedBy": "",
+  "released": "1988",
+  "alsoFor": "SAM Coupé | Combined View",
+  "genre": "Action",
+  "perspective": "",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/zx-spectrum/sophistry",
+  "visual": "Isometric",
+  "gamePlay": "Puzzle elements",
+  "setting": "",
+  "release": [
+    {
+      "system": "ZX Spectrum",
+      "releases": [
+        {
+          "publisher": "CRL Group PLC",
+          "developer": "",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1988",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/579188-sophistry-zx-spectrum-screenshot-loading-screen.png",
+      "caption": "Loading screen."
+    },
+    {
+      "link": "/images/shots/l/579189-sophistry-zx-spectrum-screenshot-title-screen.png",
+      "caption": "Title screen."
+    },
+    {
+      "link": "/images/shots/l/579190-sophistry-zx-spectrum-screenshot-first-screen.png",
+      "caption": "First screen."
+    },
+    {
+      "link": "/images/shots/l/579191-sophistry-zx-spectrum-screenshot-another-part-of-the-map.png",
+      "caption": "Another part of the map."
+    },
+    {
+      "link": "/images/shots/l/579192-sophistry-zx-spectrum-screenshot-a-map.png",
+      "caption": "A map."
+    }
+  ],
+  "cover": []
+}

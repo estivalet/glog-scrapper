@@ -1,0 +1,52 @@
+{
+  "name": "Haunted Hill",
+  "shortName": "haunted-hill",
+  "description": "<i>Haunted Hill</i> is a 1-player arcade game for the TRS-80.<br><br>The controls a small character on the bottom of the screen whom moves laterally, and tries to shoot ghosts that move towards the bottom of the screen.  Ghosts move horizontally until they reach a barricade, at which point they move down one level and continue to move.  The field if full of tombstones.  A shot ghost becomes a tombstone.  When a tombstone is destroyed, it becomes a larger ghost that flies about the screen until it is shot.  If the player is hit by any ghost, they lose a life, and the level restarts.<br><br>The player can chose to start with 3 or 5 lives, and there is a fast and slow gameplay mode.",
+  "publishedBy": "Swifty Software Inc.",
+  "developedBy": "",
+  "released": "1982",
+  "alsoFor": "",
+  "genre": "Action",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-8-bit/haunted-hill",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari 8-bit",
+      "releases": [
+        {
+          "publisher": "Swifty Software Inc.",
+          "developer": "",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1982",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/1051363-haunted-hill-atari-8-bit-screenshot-title-screen.png",
+      "caption": "Title Screen"
+    },
+    {
+      "link": "/images/shots/l/1051364-haunted-hill-atari-8-bit-screenshot-starting-a-stage.png",
+      "caption": "Starting a Stage"
+    },
+    {
+      "link": "/images/shots/l/1051365-haunted-hill-atari-8-bit-screenshot-lots-of-ghosts.png",
+      "caption": "Lots of Ghosts"
+    }
+  ],
+  "cover": []
+}

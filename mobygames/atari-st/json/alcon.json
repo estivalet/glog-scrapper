@@ -1,0 +1,96 @@
+{
+  "name": "A.L.C.O.N.",
+  "shortName": "alcon",
+  "description": "<i>A.L.C.O.N.</i> is a forward-scrolling spaceship shooting game taking place over the planet Orac. Alien enemies have occupied the planet in the year 2059. The Alien League Of Cosmic Nations has determined that you are the pilot to take the Slap Fighter (Europe) / SW475 Starfighter (US) and defeat the aliens. <br><br>The main feature of the game is its pickup system. You pick up stars and then you choose which powerup you want, pick up one star and you can choose speed, two stars to choose shot (which is the default type of weapon), three stars to choose side shot, four for wing upgrade (which triggers the fancy ship enlargement animation, also gives you a couple seconds of invulnerability), five for bomb shot, six for laser shot, seven for homing missiles and eight for a shield upgrade. <br><br>The shot is the default quick-but-limited weapon, having a rather short range, bombs are very powerful but short ranged and with a big gap between shots, making them hard to use. Laser is fast and full screen ranged, probably the most balanced weapon in the game, and homing missiles speak for themselves, as they chase the enemies after moving and curving for a while. The game doesn't have &quot;stages&quot;: you play through a long, continuous level with bosses in between, like <a href=\"https://www.mobygames.com/game/xevious\">Xevious</a> or <a href=\"https://www.mobygames.com/game/arcade/terra-cresta\">Terra Cresta</a>; once you complete it, you start again a new loop with added difficulty. Also, the game has no continues.",
+  "publishedBy": "Taito Software Inc.",
+  "developedBy": "Toaplan Co., Ltd.",
+  "released": "Mar, 1989",
+  "alsoFor": "Amstrad CPC, Arcade, Commodore 64, Thomson TO, ZX Spectrum | Combined View",
+  "genre": "Action",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-st/alcon",
+  "visual": "",
+  "gamePlay": "Arcade, Shooter",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari ST",
+      "releases": [
+        {
+          "publisher": "Imagine Software Ltd.",
+          "developer": "Toaplan Co., Ltd.",
+          "ported": "Abersoft Limited",
+          "country": " France, Germany, United Kingdom",
+          "releaseDate": "1988",
+          "ean13": "5 013156 011030",
+          "comments": ""
+        },
+        {
+          "publisher": "Taito Software Inc.",
+          "developer": "Toaplan Co., Ltd.",
+          "ported": "Abersoft Limited",
+          "country": " United States, Canada",
+          "releaseDate": "Mar, 1989",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/140109-a-l-c-o-n-atari-st-screenshot-loading-screen.png",
+      "caption": "Loading screen"
+    },
+    {
+      "link": "/images/shots/l/140107-a-l-c-o-n-atari-st-screenshot-high-scores.png",
+      "caption": "High scores"
+    },
+    {
+      "link": "/images/shots/l/140108-a-l-c-o-n-atari-st-screenshot-game-start.png",
+      "caption": "Game start"
+    },
+    {
+      "link": "/images/shots/l/140106-a-l-c-o-n-atari-st-screenshot-a-clear-dividing-line.png",
+      "caption": "A clear dividing line"
+    },
+    {
+      "link": "/images/shots/l/140110-a-l-c-o-n-atari-st-screenshot-collect-the-stars-for-power.png",
+      "caption": "Collect the stars for power-uops"
+    },
+    {
+      "link": "/images/shots/l/140111-a-l-c-o-n-atari-st-screenshot-taking-the-safe-route-to-avoid.png",
+      "caption": "Taking the safe route to avoid these"
+    },
+    {
+      "link": "/images/shots/l/140112-a-l-c-o-n-atari-st-screenshot-dead.png",
+      "caption": "Dead"
+    },
+    {
+      "link": "/images/shots/l/140113-a-l-c-o-n-atari-st-screenshot-game-over.png",
+      "caption": "Game Over"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/91277-a-l-c-o-n-atari-st-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Cardboard Folder",
+      "country": "United States  and Canada",
+      "platforms": "Atari ST"
+    },
+    {
+      "link": "/images/covers/l/91278-a-l-c-o-n-atari-st-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Cardboard Folder",
+      "country": "United States  and Canada",
+      "platforms": "Atari ST"
+    }
+  ]
+}

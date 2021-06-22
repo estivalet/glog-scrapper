@@ -1,0 +1,90 @@
+{
+  "name": "Volfied",
+  "shortName": "volfied",
+  "description": "The space ship Monotros has returned after receiving an SOS call to save his home world (<i>Volfied</i>) from alien invaders and has to defeat a different boss and his minions in each level. <i>Volfied</i> is very similar to <a href=\"https://www.mobygames.com/game/qix\">Qix</a> -- the player takes control of a ship/object whose purpose is to roam the screen, forming shapes and removing them from the playfield. By way of reward, a picture is gradually revealed in the removed areas of the screen. The borders of the area not yet cleared by the player become the borders of the area the player's pointer can move along. When not cutting, the ship is protected by a shield that decreases over time. When it hits zero, the enemies can also killl you when not cutting.<br><br>The player's object must avoid contact with any of the enemies which float around the screen, as this will weaken and eventually destroy it. Barriers limit which parts of the border boxes can be formed through. The goal is to clear 80% or more of the screen, and each additional percent adds bonus points. Most levels contain power-up blocks that can be claimed when the area around it is removed. Possible power-ups can increase speed (S), freeze the enemies for a short time (T), prevent the shield from counting down for a little while (P), give a laser to shoot the smaller enemies (L), kill all the smaller enemies instantly (C) or grant a weapon to kill the boss (a red tomato only found in blocks with the red light).<br><br>This game allows for one- or two-player games in three difficulty levels, but offers no passwords or saved games across its numerous levels.",
+  "publishedBy": "Empire Software",
+  "developedBy": "Taito Corporation",
+  "released": "1991",
+  "alsoFor": "Amiga, Arcade, Atari ST, DOS, FM Towns, Genesis, J2ME, TurboGrafx-16, Wii | Combined View",
+  "genre": "Action, Puzzle",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/volfied",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "Empire Software",
+          "developer": "Taito Corporation",
+          "ported": "Digital Light &amp; Magic",
+          "country": " United Kingdom",
+          "releaseDate": "1991",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/74816-volfied-commodore-64-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/74817-volfied-commodore-64-screenshot-the-introduction-sequence.png",
+      "caption": "The introduction sequence"
+    },
+    {
+      "link": "/images/shots/l/74818-volfied-commodore-64-screenshot-gameplay-on-the-first-level.png",
+      "caption": "Gameplay on the first level"
+    },
+    {
+      "link": "/images/shots/l/74819-volfied-commodore-64-screenshot-slowly-filling-in-space.png",
+      "caption": "Slowly filling in space"
+    },
+    {
+      "link": "/images/shots/l/74820-volfied-commodore-64-screenshot-avoid-the-giant-fly.png",
+      "caption": "Avoid the giant fly!"
+    },
+    {
+      "link": "/images/shots/l/74821-volfied-commodore-64-screenshot-i-have-46-of-the-screen-claimed.png",
+      "caption": "I have 46% of the screen claimed"
+    },
+    {
+      "link": "/images/shots/l/74822-volfied-commodore-64-screenshot-be-careful-of-the-many-creatures.png",
+      "caption": "Be careful of the many creatures wandering about"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/265130-volfied-commodore-64-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "Germany",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/265131-volfied-commodore-64-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "Germany",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/265132-volfied-commodore-64-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "Germany",
+      "platforms": "Commodore 64"
+    }
+  ]
+}

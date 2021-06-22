@@ -1,0 +1,107 @@
+{
+  "name": "Videocart-18: Hangman",
+  "shortName": "videocart-18-hangman",
+  "description": "The classic game of <a href=\"https://www.mobygames.com/search/quick?gamegroup=hangman\">Hangman</a>, in which the player has to guess a hidden word by suggesting letters. Only a certain number of letters can be tried - every incorrect guess will add an element to a drawing of a man being hanged at the gallows. The player loses if the drawing gets complete, due to his missing attempts at finding the letters in the secret word.<br><br>The game contains 64 game variations of this basic premise for either 1 or 2 players, with or without a score. Variations include:\n<ul>\n<li>The computer selects the word to guess;</li>\n<li>One player comes up with a word for another player to solve;</li>\n<li>The player is given one of the letters in the word to help him get started;</li>\n<li>The game will tell the player he guessed the right letter but will not say where it belongs in a word;</li>\n<li>The player isn't told how long the secret word is;</li>\n<li>The player has to guess the letters and their location in the word;</li>\n<li>The player has to solve an anagram.</li>\n</ul>",
+  "publishedBy": "Fairchild Camera and Instrument Corp.",
+  "developedBy": "Fairchild Camera and Instrument Corp.",
+  "released": "1978",
+  "alsoFor": "",
+  "genre": "Educational, Puzzle",
+  "perspective": "",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/channel-f/videocart-18-hangman",
+  "visual": "",
+  "gamePlay": "Word construction",
+  "setting": "",
+  "release": [
+    {
+      "system": "Channel F",
+      "releases": [
+        {
+          "publisher": "Fairchild Camera and Instrument Corp.",
+          "developer": "Fairchild Camera and Instrument Corp.",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1978",
+          "ean13": "",
+          "comments": ""
+        },
+        {
+          "publisher": "Luxor",
+          "developer": "Fairchild Camera and Instrument Corp.",
+          "ported": "",
+          "country": " Sweden",
+          "releaseDate": "1978",
+          "ean13": "",
+          "comments": ""
+        },
+        {
+          "publisher": "SABA",
+          "developer": "Fairchild Camera and Instrument Corp.",
+          "ported": "",
+          "country": " Germany",
+          "releaseDate": "1978",
+          "ean13": "",
+          "comments": ""
+        },
+        {
+          "publisher": "Fairchild Camera and Instrument Corp.",
+          "developer": "Fairchild Camera and Instrument Corp.",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1978",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/442205-videocart-18-hangman-channel-f-screenshot-select-a-game.png",
+      "caption": "Select a game"
+    },
+    {
+      "link": "/images/shots/l/442206-videocart-18-hangman-channel-f-screenshot-starting-a-1-player.png",
+      "caption": "Starting a 1 player game"
+    },
+    {
+      "link": "/images/shots/l/442207-videocart-18-hangman-channel-f-screenshot-guessed-a-wrong.png",
+      "caption": "Guessed a wrong letter"
+    },
+    {
+      "link": "/images/shots/l/442208-videocart-18-hangman-channel-f-screenshot-another-wrong-guess.png",
+      "caption": "Another wrong guess adds another body part"
+    },
+    {
+      "link": "/images/shots/l/442210-videocart-18-hangman-channel-f-screenshot-finally-guessed.png",
+      "caption": "Finally guessed a correct letter"
+    },
+    {
+      "link": "/images/shots/l/442211-videocart-18-hangman-channel-f-screenshot-after-the-man-is.png",
+      "caption": "After the man is hanged, the correct word is revealed"
+    },
+    {
+      "link": "/images/shots/l/442212-videocart-18-hangman-channel-f-screenshot-some-words-are-shorter.png",
+      "caption": "Some words are shorter than others"
+    },
+    {
+      "link": "/images/shots/l/442213-videocart-18-hangman-channel-f-screenshot-about-to-guess-the.png",
+      "caption": "About to guess the correct letter"
+    },
+    {
+      "link": "/images/shots/l/442216-videocart-18-hangman-channel-f-screenshot-the-man-s-life-has.png",
+      "caption": "The man's life has been spared"
+    },
+    {
+      "link": "/images/shots/l/442217-videocart-18-hangman-channel-f-screenshot-about-to-start-a.png",
+      "caption": "About to start a 2 player game with scores"
+    }
+  ],
+  "cover": []
+}

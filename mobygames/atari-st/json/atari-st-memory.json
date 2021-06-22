@@ -1,0 +1,80 @@
+{
+  "name": "Atari ST-Memory",
+  "shortName": "atari-st-memory",
+  "description": "<em>Memory</em> is an implementation of the board game of the same name. 60 cards are placed randomly in a rectangular grid on the board. Each symbol is included in the cards twice. The goal is to find as many pairs of symbols as possible. Each turn, a player is allowed to turn two symbols, and if they do not match, turn them face down again. If the opened cards a a pair of the same symbol, the player is rewarded a point and is allowed to turn another two cards.<br><br>The game features four different symbol sets, a default set with abstract symbols, one with company logos, one with numbers and one set called &quot;Profi&quot; (professional) which even more abstract symbols. The game is played against a computer AI. The strength of the computer can be set in steps between 0 to 100, which is the percentage of how many cards the computer can memorise. On 100%, the computer knows any card ever turned, which makes winning nearly impossible.<br><br>A high-score table can be reached and is persisted to disk.",
+  "publishedBy": "Schimpisoft",
+  "developedBy": "Schimpisoft",
+  "released": "1988",
+  "alsoFor": "",
+  "genre": "Puzzle",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-st/atari-st-memory",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Board game, Cards / tiles, Mental training, Tile matching puzzle",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari ST",
+      "releases": [
+        {
+          "publisher": "Schimpisoft",
+          "developer": "Schimpisoft",
+          "ported": "",
+          "country": " Germany",
+          "releaseDate": "1988",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/804405-atari-st-memory-atari-st-screenshot-title-screen-medium-resolution.png",
+      "caption": "Title screen (Medium resolution 640x200x4 colors)"
+    },
+    {
+      "link": "/images/shots/l/804406-atari-st-memory-atari-st-screenshot-main-menu-first-you-have.png",
+      "caption": "Main menu: first you have to load a card set"
+    },
+    {
+      "link": "/images/shots/l/804407-atari-st-memory-atari-st-screenshot-there-are-four-card-sets.png",
+      "caption": "There are four card sets. They are loaded as plain files"
+    },
+    {
+      "link": "/images/shots/l/804408-atari-st-memory-atari-st-screenshot-selecting-the-difficulty.png",
+      "caption": "Selecting the difficulty of the computer opponent (how likely he memorize he cards. 0 is extremely weak, 100 is impossible to beat)"
+    },
+    {
+      "link": "/images/shots/l/804409-atari-st-memory-atari-st-screenshot-game-start-the-board-is.png",
+      "caption": "Game start. The board is sized 6x10"
+    },
+    {
+      "link": "/images/shots/l/804410-atari-st-memory-atari-st-screenshot-playing-the-company-logo.png",
+      "caption": "Playing the company logo set"
+    },
+    {
+      "link": "/images/shots/l/804411-atari-st-memory-atari-st-screenshot-if-that-will-by-my-only.png",
+      "caption": "If that will by my only pair, I picked the right company for a gaming nerd"
+    },
+    {
+      "link": "/images/shots/l/804412-atari-st-memory-atari-st-screenshot-in-the-abstract-symbol.png",
+      "caption": "In the abstract symbol set there is also a company logo hidden"
+    },
+    {
+      "link": "/images/shots/l/804413-atari-st-memory-atari-st-screenshot-the-professional-set.png",
+      "caption": "The professional set"
+    },
+    {
+      "link": "/images/shots/l/804414-atari-st-memory-atari-st-screenshot-the-high-score-table-is.png",
+      "caption": "The high-score table is initially empty"
+    }
+  ],
+  "cover": []
+}

@@ -1,0 +1,92 @@
+{
+  "name": "Alien Dropout",
+  "shortName": "alien-dropout",
+  "description": "<i>Alien Dropout</i> is a fixed screen shoot 'em up based on the arcade game <a id=\"d298a639d86edbed1566a16ce1d54f278\" href=\"https://www.mobygames.com/search/quick?game=Astro+Invader\">Astro Invader</a>. Earth is threatened by killer moths that the player has to kill. On the screen there is one big moth in the middle and on each side of it are five columns. Smaller moths constantly enter the screen and one at a time they position themselves in the columns. When a column is full of moths they start descending towards the player who has to shoot them down with his laser gun before they reach him. The large moth in the middle is normally indestructible, but if 200 small moths are killed it will be released and the player gets a chance to kill it. Once it has been destroyed a new level begins with more powerful moths. The player can choose a skill level from one to six.",
+  "publishedBy": "Superior Software Ltd.",
+  "developedBy": "Superior Software Ltd.",
+  "released": "1983",
+  "alsoFor": "BBC Micro | Combined View",
+  "genre": "Action",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/electron/alien-dropout",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade, Shooter",
+  "setting": "",
+  "release": [
+    {
+      "system": "Electron",
+      "releases": [
+        {
+          "publisher": "Superior Software Ltd.",
+          "developer": "Superior Software Ltd.",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1983",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/599991-alien-dropout-electron-screenshot-loading-screen.png",
+      "caption": "Loading screen"
+    },
+    {
+      "link": "/images/shots/l/599992-alien-dropout-electron-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/599993-alien-dropout-electron-screenshot-scoring.png",
+      "caption": "Scoring"
+    },
+    {
+      "link": "/images/shots/l/599994-alien-dropout-electron-screenshot-instructions.png",
+      "caption": "Instructions"
+    },
+    {
+      "link": "/images/shots/l/599995-alien-dropout-electron-screenshot-choosing-skill-level.png",
+      "caption": "Choosing skill level"
+    },
+    {
+      "link": "/images/shots/l/599996-alien-dropout-electron-screenshot-starting-out.png",
+      "caption": "Starting out"
+    },
+    {
+      "link": "/images/shots/l/599997-alien-dropout-electron-screenshot-game-in-progress.png",
+      "caption": "Game in progress"
+    },
+    {
+      "link": "/images/shots/l/599998-alien-dropout-electron-screenshot-columns-starting-to-fill.png",
+      "caption": "Columns starting to fill up"
+    },
+    {
+      "link": "/images/shots/l/599999-alien-dropout-electron-screenshot-enemies-start-descending.png",
+      "caption": "Enemies start descending"
+    },
+    {
+      "link": "/images/shots/l/600000-alien-dropout-electron-screenshot-need-to-keep-some-distance.png",
+      "caption": "Need to keep some distance when they crash"
+    },
+    {
+      "link": "/images/shots/l/600001-alien-dropout-electron-screenshot-i-m-hit-screen-flashing.png",
+      "caption": "I'm hit (screen flashing)"
+    },
+    {
+      "link": "/images/shots/l/600002-alien-dropout-electron-screenshot-got-a-high-score.png",
+      "caption": "Got a high score"
+    },
+    {
+      "link": "/images/shots/l/600003-alien-dropout-electron-screenshot-second-level-looks-the-same.png",
+      "caption": "Second level - looks the same, but is more hectic"
+    }
+  ],
+  "cover": []
+}

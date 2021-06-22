@@ -1,0 +1,52 @@
+{
+  "name": "Puzzle Squares",
+  "shortName": "puzzle-squares",
+  "description": "The objective of <i>Puzzle Squares</i> is to slide the letters back into the right position. The game area consists of 5x5 squares with 25 black letters in them, theses black letters shows the player the correct position of the letters. The game area is then populated with bigger red letters, these are not in the correct position and must be slided into place. Moves are carried out by pressing the keyboard key that corresponds to the black letter of the red letter that the player wishes to move. Pressing an illegal key, ie a letter that can't be moved results in an audio alert.",
+  "publishedBy": "Artisan Software",
+  "developedBy": "Artisan Software",
+  "released": "1987",
+  "alsoFor": "",
+  "genre": "Puzzle",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-st/puzzle-squares",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Cards / tiles",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari ST",
+      "releases": [
+        {
+          "publisher": "Artisan Software",
+          "developer": "Artisan Software",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1987",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/827704-puzzle-squares-atari-st-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/827705-puzzle-squares-atari-st-screenshot-info-screen.png",
+      "caption": "Info screen"
+    },
+    {
+      "link": "/images/shots/l/827706-puzzle-squares-atari-st-screenshot-three-letters-back-in-place.png",
+      "caption": "Three letters back in place"
+    }
+  ],
+  "cover": []
+}

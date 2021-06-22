@@ -1,0 +1,64 @@
+{
+  "name": "Astro Rabby",
+  "shortName": "astro-rabby",
+  "description": "<i>Astro Rabby</i> is a top-down platformer in which the player takes control over a rabbit which has to travel through a number of levels with forced scrolling. Unfortunately there are only so much usable platforms available, in the space levels even less, which have to hit by performing controlled jumps. The platforms come in three heights which are indicated by their size - the bigger, the higher. Landing on a platform creates a lot of force and either causes the block to crack and, if it has a question mark on it, gives a power up (extra time or points). <br><br>The levels loop until the player finds a heart hidden in the question mark blocks - but landing on a cracked platform causes it to give way. Of course there are also enemies which have to be avoided or shot with the gun. Those leave behind power ups which give additional ammo or improve the jumping height respectively speed.",
+  "publishedBy": "Information Global Service",
+  "developedBy": "Information Global Service",
+  "released": "Oct 12, 1990",
+  "alsoFor": "",
+  "genre": "Action",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/gameboy/astro-rabby",
+  "visual": "2D scrolling",
+  "gamePlay": "Arcade, Platform",
+  "setting": "",
+  "release": [
+    {
+      "system": "Game Boy",
+      "releases": [
+        {
+          "publisher": "Information Global Service",
+          "developer": "Information Global Service",
+          "ported": "",
+          "country": " Japan",
+          "releaseDate": "Oct 12, 1990",
+          "ean13": "4 980888 200012",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/599322-astro-rabby-game-boy-screenshot-introduction-drawing.png",
+      "caption": "Introduction drawing"
+    },
+    {
+      "link": "/images/shots/l/599323-astro-rabby-game-boy-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/599325-astro-rabby-game-boy-screenshot-a-walking-rabbit.png",
+      "caption": "A walking rabbit."
+    },
+    {
+      "link": "/images/shots/l/599326-astro-rabby-game-boy-screenshot-a-jumping-rabbit.png",
+      "caption": "A jumping rabbit."
+    },
+    {
+      "link": "/images/shots/l/599327-astro-rabby-game-boy-screenshot-new-cracks-emerge-when-the.png",
+      "caption": "New cracks emerge when the rabbit jumps on the ground."
+    },
+    {
+      "link": "/images/shots/l/599328-astro-rabby-game-boy-screenshot-and-this-happens-when-the.png",
+      "caption": "And this happens when the rabbit jumps on a crack."
+    }
+  ],
+  "cover": []
+}

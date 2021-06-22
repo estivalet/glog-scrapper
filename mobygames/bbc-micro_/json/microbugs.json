@@ -1,0 +1,220 @@
+{
+  "name": "The Microbugs",
+  "shortName": "microbugs",
+  "description": "<i>The Microbugs</i> is an educational game about computing. A computer has been infected by the titular bugs and it's the player's task to enter the machine and clean out the bugs and repair damaged chips. Initially the player explores the computer by foot and can enter some of the chips. After the first few chips have been repaired the player gets access to a saucer which can be used to fly over the main circuit board. There are eight chips that can be entered and each has its own gameplay:\n<ul>\n\t<li><b>Main Logic Chip:</b> A platform game containing six screens where in each the player has to release and activate a robot. This is done by shooting an electronic beam at the cage it is trapped in and then touch it to activate it before finding a way to the exit. Movable blocks can be pushed around and used to reach higher level and there are also elevators to use.</li>\n\t<li><b>Artist Programming Chip:</b> The player is shown an image that has to be recreated through a simple programming language. It simply involves entering the right numbers for shape and colour, x and y coordinates and the size of the object. The player can then test run the script until it is right.</li>\n\t<li><b>Binary Character Definer Chip:</b> The player is shown a grid and has to for each line enter the combined binary value of the squares that are shaded. For example if the three right most squares are shaded a value of 7 (4+2+1) has to be entered. </li>\n\t<li><b>Boolean Programming Chip:</b> The player has to open a number of doors by turning on the wires that go to their control boxes. The screen will show a number of electronic gates (AND, EOR and NAND) which the player interacts with by turning on the correct wires that lead into them.</li>\n\t<li><b>Disk Control Chip:</b> The player has to trap one of the bugs by connecting broken wires. It works similar to a sliding puzzle game where each row or column of the grid can be moved either horizontally or vertically.</li>\n\t<li><b>Typesetting (Newspaper) Chip:</b> The player has to put together news pages by combing boxes in different shapes and sizes with pieces of text. The boxes has to be placed on the page like in a jigsaw puzzle and then the pieces of text that match the sizes of the boxes have to be combined.</li>\n\t<li><b>Modem Communications Chip:</b> The final bug has to be trapped by guiding two robots through a maze. The maze is seen from both a first person and top down view and the aim is to move the robots so that the bug gets chased into one of three traps.</li>\n</ul>",
+  "publishedBy": "Sherston Software Ltd.",
+  "developedBy": "Sherston Software Ltd.",
+  "released": "1989",
+  "alsoFor": "",
+  "genre": "Educational, Puzzle",
+  "perspective": "1st-person, 3rd-person (Other), Side view, Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/bbc-micro_/microbugs",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Platform",
+  "setting": "",
+  "release": [
+    {
+      "system": "BBC Micro",
+      "releases": [
+        {
+          "publisher": "Sherston Software Ltd.",
+          "developer": "Sherston Software Ltd.",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1989",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/885628-the-microbugs-bbc-micro-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/885629-the-microbugs-bbc-micro-screenshot-bug-invasion.png",
+      "caption": "Bug invasion!"
+    },
+    {
+      "link": "/images/shots/l/885630-the-microbugs-bbc-micro-screenshot-background-story.png",
+      "caption": "Background story"
+    },
+    {
+      "link": "/images/shots/l/885631-the-microbugs-bbc-micro-screenshot-player-getting-shrinked.png",
+      "caption": "Player getting shrinked"
+    },
+    {
+      "link": "/images/shots/l/885632-the-microbugs-bbc-micro-screenshot-entering-the-computer.png",
+      "caption": "Entering the computer"
+    },
+    {
+      "link": "/images/shots/l/885633-the-microbugs-bbc-micro-screenshot-running-around-the-computer.png",
+      "caption": "Running around the computer"
+    },
+    {
+      "link": "/images/shots/l/885642-the-microbugs-bbc-micro-screenshot-showing-the-map.png",
+      "caption": "Showing the map"
+    },
+    {
+      "link": "/images/shots/l/885634-the-microbugs-bbc-micro-screenshot-entering-a-chip.png",
+      "caption": "Entering a chip"
+    },
+    {
+      "link": "/images/shots/l/885635-the-microbugs-bbc-micro-screenshot-chip-info.png",
+      "caption": "Chip info"
+    },
+    {
+      "link": "/images/shots/l/885636-the-microbugs-bbc-micro-screenshot-looking-for-the-control.png",
+      "caption": "Looking for the control area"
+    },
+    {
+      "link": "/images/shots/l/885637-the-microbugs-bbc-micro-screenshot-instructions.png",
+      "caption": "Instructions"
+    },
+    {
+      "link": "/images/shots/l/885638-the-microbugs-bbc-micro-screenshot-first-main-chip-level.png",
+      "caption": "First main chip level"
+    },
+    {
+      "link": "/images/shots/l/885639-the-microbugs-bbc-micro-screenshot-using-an-elevator.png",
+      "caption": "Using an elevator"
+    },
+    {
+      "link": "/images/shots/l/885640-the-microbugs-bbc-micro-screenshot-shooting-a-beam-at-the.png",
+      "caption": "Shooting a beam at the trapped robot"
+    },
+    {
+      "link": "/images/shots/l/885641-the-microbugs-bbc-micro-screenshot-getting-a-reward.png",
+      "caption": "Getting a reward"
+    },
+    {
+      "link": "/images/shots/l/885643-the-microbugs-bbc-micro-screenshot-entering-another-chip.png",
+      "caption": "Entering another chip"
+    },
+    {
+      "link": "/images/shots/l/885644-the-microbugs-bbc-micro-screenshot-a-robot-blocks-the-entrance.png",
+      "caption": "A robot blocks the entrance"
+    },
+    {
+      "link": "/images/shots/l/885645-the-microbugs-bbc-micro-screenshot-the-artist-programming.png",
+      "caption": "The artist programming chip"
+    },
+    {
+      "link": "/images/shots/l/885646-the-microbugs-bbc-micro-screenshot-test-running-the-script.png",
+      "caption": "Test running the script"
+    },
+    {
+      "link": "/images/shots/l/885647-the-microbugs-bbc-micro-screenshot-second-image.png",
+      "caption": "Second image"
+    },
+    {
+      "link": "/images/shots/l/885648-the-microbugs-bbc-micro-screenshot-meeting-marvin-the-robot.png",
+      "caption": "Meeting Marvin the robot"
+    },
+    {
+      "link": "/images/shots/l/885649-the-microbugs-bbc-micro-screenshot-binary-character-definer.png",
+      "caption": "Binary character definer chip"
+    },
+    {
+      "link": "/images/shots/l/885650-the-microbugs-bbc-micro-screenshot-entering-the-numbers.png",
+      "caption": "Entering the numbers"
+    },
+    {
+      "link": "/images/shots/l/885651-the-microbugs-bbc-micro-screenshot-getting-access-to-the-saucer.png",
+      "caption": "Getting access to the saucer"
+    },
+    {
+      "link": "/images/shots/l/885652-the-microbugs-bbc-micro-screenshot-the-chips-that-needs-to.png",
+      "caption": "The chips that needs to be visited"
+    },
+    {
+      "link": "/images/shots/l/885653-the-microbugs-bbc-micro-screenshot-entering-the-saucer.png",
+      "caption": "Entering the saucer"
+    },
+    {
+      "link": "/images/shots/l/885654-the-microbugs-bbc-micro-screenshot-flying-over-the-main-circuit.png",
+      "caption": "Flying over the main circuit board"
+    },
+    {
+      "link": "/images/shots/l/885655-the-microbugs-bbc-micro-screenshot-landing-on-a-chip.png",
+      "caption": "Landing on a chip"
+    },
+    {
+      "link": "/images/shots/l/885656-the-microbugs-bbc-micro-screenshot-robots-in-need-of-help.png",
+      "caption": "Robots in need of help"
+    },
+    {
+      "link": "/images/shots/l/885657-the-microbugs-bbc-micro-screenshot-boolean-programming-chip.png",
+      "caption": "Boolean programming chip"
+    },
+    {
+      "link": "/images/shots/l/885658-the-microbugs-bbc-micro-screenshot-the-door-is-opening.png",
+      "caption": "The door is opening"
+    },
+    {
+      "link": "/images/shots/l/885659-the-microbugs-bbc-micro-screenshot-more-robots-in-need-of.png",
+      "caption": "More robots in need of help"
+    },
+    {
+      "link": "/images/shots/l/885660-the-microbugs-bbc-micro-screenshot-disk-control-chip.png",
+      "caption": "Disk control chip"
+    },
+    {
+      "link": "/images/shots/l/885661-the-microbugs-bbc-micro-screenshot-puzzle-completed.png",
+      "caption": "Puzzle completed"
+    },
+    {
+      "link": "/images/shots/l/885662-the-microbugs-bbc-micro-screenshot-the-bug-is-trapped.png",
+      "caption": "The bug is trapped"
+    },
+    {
+      "link": "/images/shots/l/885663-the-microbugs-bbc-micro-screenshot-entering-the-newspaper.png",
+      "caption": "Entering the newspaper chip"
+    },
+    {
+      "link": "/images/shots/l/885664-the-microbugs-bbc-micro-screenshot-starting-out-on-the-newspaper.png",
+      "caption": "Starting out on the newspaper making"
+    },
+    {
+      "link": "/images/shots/l/885665-the-microbugs-bbc-micro-screenshot-putting-the-page-together.png",
+      "caption": "Putting the page together"
+    },
+    {
+      "link": "/images/shots/l/885666-the-microbugs-bbc-micro-screenshot-the-robots-in-the-maze.png",
+      "caption": "The robots in the maze"
+    },
+    {
+      "link": "/images/shots/l/885667-the-microbugs-bbc-micro-screenshot-moving-around-the-maze.png",
+      "caption": "Moving around the maze"
+    },
+    {
+      "link": "/images/shots/l/885668-the-microbugs-bbc-micro-screenshot-head-to-head-with-the-bug.png",
+      "caption": "Head to head with the bug"
+    },
+    {
+      "link": "/images/shots/l/885669-the-microbugs-bbc-micro-screenshot-the-bug-is-getting-trapped.png",
+      "caption": "The bug is getting trapped"
+    },
+    {
+      "link": "/images/shots/l/885670-the-microbugs-bbc-micro-screenshot-sending-away-the-bugs-by.png",
+      "caption": "Sending away the bugs by dialling a number"
+    },
+    {
+      "link": "/images/shots/l/885671-the-microbugs-bbc-micro-screenshot-dialling-in-progress.png",
+      "caption": "Dialling in progress"
+    },
+    {
+      "link": "/images/shots/l/885672-the-microbugs-bbc-micro-screenshot-end-of-game.png",
+      "caption": "End of game"
+    }
+  ],
+  "cover": []
+}

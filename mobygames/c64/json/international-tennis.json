@@ -1,0 +1,86 @@
+{
+  "name": "International Tennis",
+  "shortName": "international-tennis",
+  "description": "This simple simulation of singles tennis follows the basic rules of the sport.  The joystick is used to move each player around, with the button tossing for a serve and swinging the racket.  Moving the joystick while holding the button down affects the direction and power of a swing.  Whenever it is time to serve, a blinking line on the court shows where the current player needs to stand.  Beyond that, there isn't much more to the game, although it is possible to select the color of each player's clothing and to pick the level of artificial intelligence for the computer opponent.",
+  "publishedBy": "Commodore Business Machines (UK) Ltd.",
+  "developedBy": "Commodore Business Machines, Inc",
+  "released": "1985",
+  "alsoFor": "",
+  "genre": "Sports",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "Tennis",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/international-tennis",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "Commodore Business Machines (UK) Ltd.",
+          "developer": "Commodore Business Machines, Inc",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1985",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/186543-international-tennis-commodore-64-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/186544-international-tennis-commodore-64-screenshot-player-setup.png",
+      "caption": "Player setup"
+    },
+    {
+      "link": "/images/shots/l/186545-international-tennis-commodore-64-screenshot-serving.png",
+      "caption": "Serving"
+    },
+    {
+      "link": "/images/shots/l/186546-international-tennis-commodore-64-screenshot-returning.png",
+      "caption": "Returning"
+    },
+    {
+      "link": "/images/shots/l/186550-international-tennis-commodore-64-screenshot-no-chance-of.png",
+      "caption": "No chance of getting that"
+    },
+    {
+      "link": "/images/shots/l/186548-international-tennis-commodore-64-screenshot-it-s-all-over.png",
+      "caption": "It's all over"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/32317-international-tennis-commodore-64-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "United States  and United Kingdom",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/32318-international-tennis-commodore-64-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "United States  and United Kingdom",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/32319-international-tennis-commodore-64-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "United States  and United Kingdom",
+      "platforms": "Commodore 64"
+    }
+  ]
+}

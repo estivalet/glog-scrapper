@@ -1,0 +1,81 @@
+{
+  "name": "Mindtrap",
+  "shortName": "mindtrap",
+  "description": "This abstract puzzler promises 999,999 different levels, with a game design bearing some relation to sliding-block games. You are presented with up to 24 coloured and spotted (like dice) blocks, arranged in columns of up to 4. The task is to arrange these so that they are lined up in columns matching their number.<br><br>You are in control of a crosshair, which can be moved to cover four blocks. Holding fire while pushing left or right and hovering it over a group of 4 will move the four blocks around in sequence. Things can get harder when the level arrangement results in blocks having to be moved through sections with a column of only 2, or when some parts of the arena lack cogs, meaning that you can't move on those sections. Later in the game you'll have to work on multiple floors at the same time, switching blocks between them.",
+  "publishedBy": "Mastertronic Ltd.",
+  "developedBy": "",
+  "released": "1989",
+  "alsoFor": "Commodore 64, ZX Spectrum | Combined View",
+  "genre": "Puzzle",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/cpc/mindtrap",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "",
+  "setting": "",
+  "release": [
+    {
+      "system": "Amstrad CPC",
+      "releases": [
+        {
+          "publisher": "Mastertronic Ltd.",
+          "developer": "",
+          "ported": "",
+          "country": " France, Germany, Italy, United Kingdom",
+          "releaseDate": "1989",
+          "ean13": "5 012967 800611",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/577301-mindtrap-amstrad-cpc-screenshot-loading-screen.png",
+      "caption": "Loading screen."
+    },
+    {
+      "link": "/images/shots/l/577302-mindtrap-amstrad-cpc-screenshot-title-screen.png",
+      "caption": "Title screen."
+    },
+    {
+      "link": "/images/shots/l/577303-mindtrap-amstrad-cpc-screenshot-puzzle-action.png",
+      "caption": "Puzzle action."
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/494991-mindtrap-amstrad-cpc-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Cassette Case",
+      "country": "France , Germany , Italy  and United Kingdom",
+      "platforms": "Amstrad CPC"
+    },
+    {
+      "link": "/images/covers/l/494990-mindtrap-amstrad-cpc-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Cassette Case",
+      "country": "France , Germany , Italy  and United Kingdom",
+      "platforms": "Amstrad CPC"
+    },
+    {
+      "link": "/images/covers/l/494992-mindtrap-amstrad-cpc-spine-sides.jpg",
+      "scanOf": "Spine/Sides",
+      "packaging": "Cassette Case",
+      "country": "France , Germany , Italy  and United Kingdom",
+      "platforms": "Amstrad CPC"
+    },
+    {
+      "link": "/images/covers/l/494993-mindtrap-amstrad-cpc-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Cassette Case",
+      "country": "France , Germany , Italy  and United Kingdom",
+      "platforms": "Amstrad CPC"
+    }
+  ]
+}

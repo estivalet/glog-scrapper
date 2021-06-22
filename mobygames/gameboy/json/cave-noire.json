@@ -1,0 +1,68 @@
+{
+  "name": "Cave Noire",
+  "shortName": "cave-noire",
+  "description": "<i>Cave Noire</i> is a roguelike. The game evolves around four quests (killing monsters, freeing fairies or collecting gold/orbs) with ten difficulties each. The difficulty determines how big the target number is, the stats the player starts with and what monsters are encountered. Starting a quest creates a randomly generated dungeon where the player has one chance to reach the goal - death means a new dungeon has to be created. Beating a difficultly level unlocks the next; this is also the one thing the game saves.<br><br>The dungeons itself are shown from a top-down perspective and feature the hero, walls, floor tiles, monsters and items to collect. Movement is turn-based and each turn is divided into four phases (player movement, player attack, monster attack and finally monster movement). Attacks are only possible when the two participants stand besides each other and the computer simply calculates the result from the statistics (attack, defense, luck and a a random component) which then lowers the health points of the attacked hero/monster. Of course reaching a health of zero means defeat. The mentioned statistics can be improved by finding and using certain items like weapons or armor. Potions, spells and rings which have additional effects when used/equipped, e.g. health refreshments, healing poison, dealing much damage or invisibility.<br><br>Important to note is that the environment also plays an important part in the quest. The walls and tiles may have special effects when touched, examples are pits (the player/monster falls to the next level of the dungeon and takes damage), breakable walls, lava or teleporters. Some rooms may be covered in fog which obscure the floor tiles until the hero walks onto it (monsters still can be made out). There is a specific kind of monster which clears the whole room when killed - but at the same time another one has the exact opposite effect.",
+  "publishedBy": "Konami Industry Co. Ltd.",
+  "developedBy": "Konami Industry Co. Ltd.",
+  "released": "Apr 19, 1991",
+  "alsoFor": "",
+  "genre": "Role-Playing (RPG)",
+  "perspective": "Bird's-eye view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/gameboy/cave-noire",
+  "visual": "",
+  "gamePlay": "Roguelike",
+  "setting": "",
+  "release": [
+    {
+      "system": "Game Boy",
+      "releases": [
+        {
+          "publisher": "Konami Industry Co. Ltd.",
+          "developer": "Konami Industry Co. Ltd.",
+          "ported": "",
+          "country": " Japan",
+          "releaseDate": "Apr 19, 1991",
+          "ean13": "4 988602 561067",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/600565-cave-noire-game-boy-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/600566-cave-noire-game-boy-screenshot-seems-like-a-nice-guy.png",
+      "caption": "Seems like a nice guy."
+    },
+    {
+      "link": "/images/shots/l/600567-cave-noire-game-boy-screenshot-the-first-dungeon-floor.png",
+      "caption": "The first dungeon floor."
+    },
+    {
+      "link": "/images/shots/l/600569-cave-noire-game-boy-screenshot-fighting-a-monster-in-turn.png",
+      "caption": "Fighting a monster in turn-based combat."
+    },
+    {
+      "link": "/images/shots/l/600570-cave-noire-game-boy-screenshot-we-found-a-scroll.png",
+      "caption": "We found a scroll!"
+    },
+    {
+      "link": "/images/shots/l/600568-cave-noire-game-boy-screenshot-we-open-the-inventory.png",
+      "caption": "We open the inventory..."
+    },
+    {
+      "link": "/images/shots/l/600572-cave-noire-game-boy-screenshot-and-use-a-potion.png",
+      "caption": "..and use a potion."
+    }
+  ],
+  "cover": []
+}

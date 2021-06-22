@@ -1,0 +1,72 @@
+{
+  "name": "D-Bug",
+  "shortName": "d-bug",
+  "description": "<i>D-bug</i> is an educational children's game involving debugging and fixing computers.<br><br>D-Bug is a game within a game, with the player controlling the character Charlie Fix-it, who lives inside the player's computer fixing errors when they occur.  At the beginning of each session, the human and computer opponent play a game of Gotcha!, where the goal is to capture all of your own pieces (butterfly or sailboat), while preventing the computer from capturing their own.  Players can move one square at a time, and squares can not be repeated.  The trick being to prevent the computer from gaining access to their own pieces.  The game ends when no moves are remaining.  <br><br>Intermittently, the computer will break down, and the secondary game comes into play.  The player then controls a character, who must diagnose and fix the computer's problem.  The player determines the computer's issue by how the game stopped working, for instance if the Gotcha! graphics became corrupted, then the player knows the error is in the graphics processor.  The player enters the computer, and must locate the buggy part, find a replacement, and put the working part in place.  With the computer fixed, the game of Gotcha! may resume.  A number of different errors can be diagnosed and fixed, and as the player successfully completes repairs, they automatically progress to a more difficult level. \n",
+  "publishedBy": "Electronic Arts, Inc.",
+  "developedBy": "",
+  "released": "1983",
+  "alsoFor": "Atari 8-bit | Combined View",
+  "genre": "Educational, Puzzle",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/d-bug",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Mini-games",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "Electronic Arts, Inc.",
+          "developer": "",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1983",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/985512-d-bug-commodore-64-screenshot-title-screen.png",
+      "caption": "Title Screen"
+    },
+    {
+      "link": "/images/shots/l/985513-d-bug-commodore-64-screenshot-playing-gotcha.png",
+      "caption": "Playing Gotcha!"
+    },
+    {
+      "link": "/images/shots/l/985514-d-bug-commodore-64-screenshot-the-motherboard.png",
+      "caption": "The Motherboard"
+    },
+    {
+      "link": "/images/shots/l/985515-d-bug-commodore-64-screenshot-exploring-the-ram.png",
+      "caption": "Exploring the RAM"
+    },
+    {
+      "link": "/images/shots/l/985516-d-bug-commodore-64-screenshot-debugging-the-cpu.png",
+      "caption": "Debugging the CPU"
+    },
+    {
+      "link": "/images/shots/l/985517-d-bug-commodore-64-screenshot-trying-to-fix-the-memory.png",
+      "caption": "Trying to Fix the Memory"
+    },
+    {
+      "link": "/images/shots/l/985518-d-bug-commodore-64-screenshot-looking-for-a-loose-power-supply.png",
+      "caption": "Looking for a Loose Power Supply"
+    },
+    {
+      "link": "/images/shots/l/985519-d-bug-commodore-64-screenshot-in-the-graphics-card.png",
+      "caption": "In the Graphics Card"
+    }
+  ],
+  "cover": []
+}

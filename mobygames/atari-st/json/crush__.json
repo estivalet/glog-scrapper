@@ -1,0 +1,56 @@
+{
+  "name": "Crush!",
+  "shortName": "crush__",
+  "description": "<i>Crush!</i> is a game where you have to watch out for falling bricks.<br><br>A crane at the top of the screen tries to kill you by dropping blocks on you. You have to run around and jump to avoid the blocks and to make the crane drop them in such a way that you can climb them to escape from the level. To escape you must make at least one stack of blocks as high as the walls that surround you and then get on top of that stack. Certain blocks have markings on them that indicates that they are special in some way:<ul><li>Up arrow: Makes you jump high</li>\n<li>Left &amp; right arrow: Moves you in the direction of the arrow</li>\n<li>Down arrow: destroys the column it lands on</li>\n<li>Red spikes: kills you if you land on it</li>\n</ul>The game is written in 68000 assembler.",
+  "publishedBy": "Budgie UK",
+  "developedBy": "",
+  "released": "Sep, 1991",
+  "alsoFor": "",
+  "genre": "Action, Puzzle",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-st/crush__",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Platform",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari ST",
+      "releases": [
+        {
+          "publisher": "Budgie UK",
+          "developer": "",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "Sep, 1991",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/366449-crush-atari-st-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/366450-crush-atari-st-screenshot-level-complete.png",
+      "caption": "Level complete"
+    },
+    {
+      "link": "/images/shots/l/366452-crush-atari-st-screenshot-blocks-with-a-down-arrow-is-best.png",
+      "caption": "Blocks with a down arrow is best to have at the base."
+    },
+    {
+      "link": "/images/shots/l/366453-crush-atari-st-screenshot-game-over.png",
+      "caption": "Game over"
+    }
+  ],
+  "cover": []
+}

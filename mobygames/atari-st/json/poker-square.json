@@ -1,0 +1,72 @@
+{
+  "name": "Poker Square",
+  "shortName": "poker-square",
+  "description": "<em>Poker Square</em> is an implementation of the single player solitaire Poker game variant <a href=\"https://en.wikipedia.org/wiki/Poker_Squares\">Poker Square</a>. In this variation the player places cards randomly drawn from the stack on a 5x5 board. The goal is to achieve points by creating high scoring hands in the rows, columns and both diagonals. That means that after placing all 25 cards on the board the player placed 12 hands (5 in the rows, 5 in the columns and 2 diagonals) whose score is added to the final score.<br><br>The game implements all the poker hands like highest card, pairs, straight and flush, rewarding points in their normal Poker order, so a flush is worth more points than two pairs. The game is for single players and a high-score list is created.",
+  "publishedBy": "Paradize",
+  "developedBy": "Paradize",
+  "released": "Dec, 2006",
+  "alsoFor": "",
+  "genre": "Strategy / tactics",
+  "perspective": "",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-st/poker-square",
+  "visual": "",
+  "gamePlay": "Cards / tiles",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari ST",
+      "releases": [
+        {
+          "publisher": "Paradize",
+          "developer": "Paradize",
+          "ported": "",
+          "country": " Worldwide",
+          "releaseDate": "Dec, 2006",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/796291-poker-square-atari-st-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/796292-poker-square-atari-st-screenshot-menu.png",
+      "caption": "Menu"
+    },
+    {
+      "link": "/images/shots/l/796293-poker-square-atari-st-screenshot-rules.png",
+      "caption": "Rules"
+    },
+    {
+      "link": "/images/shots/l/796294-poker-square-atari-st-screenshot-all-the-scoring-hands-are.png",
+      "caption": "All the scoring hands are visible in the rules section"
+    },
+    {
+      "link": "/images/shots/l/796295-poker-square-atari-st-screenshot-right-side-is-the-stack-i.png",
+      "caption": "Right side is the stack, I placed my first card"
+    },
+    {
+      "link": "/images/shots/l/796296-poker-square-atari-st-screenshot-going-for-flush-or-straights.png",
+      "caption": "Going for flush or straights?"
+    },
+    {
+      "link": "/images/shots/l/796297-poker-square-atari-st-screenshot-after-placing-all-cards-each.png",
+      "caption": "After placing all cards, each row, column and diagonals are added up naming the best hand there"
+    },
+    {
+      "link": "/images/shots/l/796298-poker-square-atari-st-screenshot-high-score-table.png",
+      "caption": "High-score table"
+    }
+  ],
+  "cover": []
+}

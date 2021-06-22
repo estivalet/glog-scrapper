@@ -1,0 +1,38 @@
+{
+  "name": "Abandoned Bricks",
+  "shortName": "abandoned-bricks",
+  "description": "<i>Abandoned Bricks</i> is a <a href=\"https://www.mobygames.com/search/quick?game=Tetris\">Tetris</a> clone, offering several modes of play.<br><br>In every mode, play proceeds as usual in <i>Tetris</i>: blocks of varying shapes are dropped from the top of the screen, and the player must rotate and position them so as to form complete horizontal lines, which then disappear from the screen.<br><br>In Classic mode, the goal is to clear a certain number of lines. When this goal is reached, the screen is cleared and the next level begins, requiring more lines be removed. The shapes drop more quickly as the game progresses, increasing as each line is cleared.<br><br>In Challenge mode, only two shapes are available for each level, but play proceeds otherwise as in classic mode.<br><br>In Bastet mode, play proceeds as in classic mode, but rather than the shapes being chosen at random, the AI chooses from among the least useful shapes, using the algorithm from <i>Bastet</i> version 0.41. Additionally, the next brick preview is unavailable in Bastet mode.<br><br>In addition to the single player modes, a two player Duel mode is available. In Duel mode, each player attempts to be the last one to survive. Besides the usual mechanics, there is one difference: when a player removes more than one line simultaneously, for each line he removes beyond the first, a line of 'junk' blocks appears at the bottom of his opponents screen.",
+  "publishedBy": "",
+  "developedBy": "",
+  "released": "May 13, 2005",
+  "alsoFor": "Linux, Windows | Combined View",
+  "genre": "Action, Puzzle",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/amiga/abandoned-bricks",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Falling block puzzle",
+  "setting": "",
+  "release": [
+    {
+      "system": "Amiga",
+      "releases": []
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/677714-abandoned-bricks-amiga-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/677715-abandoned-bricks-amiga-screenshot-playing-tetris.png",
+      "caption": "Playing Tetris"
+    }
+  ],
+  "cover": []
+}

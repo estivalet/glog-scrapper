@@ -1,0 +1,52 @@
+{
+  "name": "Airport",
+  "shortName": "airport",
+  "description": "<i>Aipoirt</i> is a flight controller simulation. The player has to control the whole air traffic of an airport. The normal part are incoming and outgoing planes which should not crash, but there are also special cases like bad weather or emergencies. The game is completely played on an overhead map on which the player gives the orders, gets warnings about incoming flights and can view additional information about every plane (e.g. the route). Every 15 minutes the game rewards points and ranks (or demotions) depending on the player's performance. The game features eight airports with varying difficulty (one to four runways) and an editor to create more.",
+  "publishedBy": "Oase Software",
+  "developedBy": "Wolf Software &amp; Design GmbH",
+  "released": "1990",
+  "alsoFor": "",
+  "genre": "Simulation",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/amiga/airport",
+  "visual": "",
+  "gamePlay": "",
+  "setting": "",
+  "release": [
+    {
+      "system": "Amiga",
+      "releases": [
+        {
+          "publisher": "Oase Software",
+          "developer": "Wolf Software &amp; Design GmbH",
+          "ported": "",
+          "country": " Germany",
+          "releaseDate": "1990",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/601766-airport-amiga-screenshot-main-menu.png",
+      "caption": "Main menu"
+    },
+    {
+      "link": "/images/shots/l/601767-airport-amiga-screenshot-this-is-the-playing-view-in-which.png",
+      "caption": "This is the playing view in which the player coordinates the airplanes."
+    },
+    {
+      "link": "/images/shots/l/601768-airport-amiga-screenshot-well-this-did-not-go-too-well.png",
+      "caption": "Well, this did not go too well."
+    }
+  ],
+  "cover": []
+}

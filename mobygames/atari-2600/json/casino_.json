@@ -1,0 +1,103 @@
+{
+  "name": "Casino",
+  "shortName": "casino_",
+  "description": "This is three card games.<br><br><b>Blackjack</b><br>\nIn game one, you play Blackjack with one or two players and allows for splitting. Game two is also Blackjack but is for one to four players and does not allow splitting. The computer is always the dealer. You place bets by rotating the controller then pressing the button.<br><br>Difficulty switches<br>\nLeft switch:<br>\nIf set to A=computer will shuffle after 34 cards are dealt<br>\nIf set to B=computer will shuffle after each hand.<br>\nRight switch:<br>\nSet to A=dealer stays on 17 or better<br>\nSet to B=dealer stays on 18 or better and on a hard 17. Player wins if you take the maximum number of hits without busting (Game 1: 3 or 8 hits; Game 2: 3 hits).<br><br><b>Five-card stud poker</b><br>\nGame three is five-card stud poker for one to four players.  The computer is always the dealer. It will deal you and it a five-card hand. Before the first card is dealt and after the second, third, fourth and fifth cards are dealt, players must place bets or fold. Betting is done the same as in games one and two.<br><br>Difficulty switches<br>\nLeft switch:<br>\nIf set to A=dealer's first card is dealt face down.<br>\nIf set to B=All dealer's cards are dealt face up<br>\nRight switch:<br>\nIf set to A=player's first card is dealt face down.<br>\nIf set to B=All player's cards are dealt face up<br><br><b>Poker Solitaire</b><br>\nGame four is a one player game called Poker Solitaire. The object is to place cards on the screen to create the twelve best poker hads in five rows, five columns and two diagonals. You turn the controller to select a spot to place a card and press the button to place it.<br><br>Difficulty switches:<br>\nThe difficulty switches do not affect Poker Solitaire.<br><br>Scoring:<br>\nRoyal flush=500 points<br>\nStraight flush=300 points<br>\nFour of a kind=160 points<br>\nStraight=120 points<br>\nFull house=100 points<br>\nThree of a kind=60 points<br>\nFlush=50 points<br>\nTwo pair=30 points<br>\nPair=10 points<br>\nNo other combinations will score points.<br><br>The highest possible points are 3340.",
+  "publishedBy": "Atari, Inc.",
+  "developedBy": "Atari, Inc.",
+  "released": "1978",
+  "alsoFor": "Windows, Xbox 360 | Combined View",
+  "genre": "Puzzle, Strategy / tactics",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-2600/casino_",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Cards / tiles, Casino / gambling",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari 2600",
+      "releases": [
+        {
+          "publisher": "Atari, Inc.",
+          "developer": "Atari, Inc.",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1978",
+          "ean13": "",
+          "comments": ""
+        },
+        {
+          "publisher": "Sears, Roebuck and Co.",
+          "developer": "Atari, Inc.",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1978",
+          "ean13": "",
+          "comments": "Sears Tele-Games release"
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/175840-casino-atari-2600-screenshot-placing-a-bet-for-blackjack.png",
+      "caption": "Placing a bet for Blackjack"
+    },
+    {
+      "link": "/images/shots/l/175841-casino-atari-2600-screenshot-playing-a-hand.png",
+      "caption": "Playing a hand"
+    },
+    {
+      "link": "/images/shots/l/175842-casino-atari-2600-screenshot-i-won.png",
+      "caption": "I won"
+    },
+    {
+      "link": "/images/shots/l/175843-casino-atari-2600-screenshot-in-version-2-i-cannot-split-hands.png",
+      "caption": "In version 2, I cannot split hands"
+    },
+    {
+      "link": "/images/shots/l/175844-casino-atari-2600-screenshot-i-busted.png",
+      "caption": "I busted"
+    },
+    {
+      "link": "/images/shots/l/175845-casino-atari-2600-screenshot-playing-poker.png",
+      "caption": "Playing poker"
+    },
+    {
+      "link": "/images/shots/l/175846-casino-atari-2600-screenshot-i-won-my-hand.png",
+      "caption": "I won my hand"
+    },
+    {
+      "link": "/images/shots/l/175847-casino-atari-2600-screenshot-playing-poker-solitaire.png",
+      "caption": "Playing poker solitaire"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/260905-casino-atari-2600-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Atari 2600"
+    },
+    {
+      "link": "/images/covers/l/260906-casino-atari-2600-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Atari 2600"
+    },
+    {
+      "link": "/images/covers/l/85063-casino-atari-2600-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Atari 2600"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Grime Z80",
+  "shortName": "grime-z80",
+  "description": "<em>Grime Z80</em> is a remake of the 1984 text mode game <a href=\"https://www.mobygames.com/game/dos/grime\">Grime</a> for the IBM PC, now ported to an assortment of 8-bit computers and devices all based on the Zilog Z80 CPU.  Like the unsanitary original, it inhabits the general territory of <a href=\"https://www.mobygames.com/game/arcade/centipede_\">Centipede</a> crossed with Conway's <a href=\"https://www.mobygames.com/search/quick?gamegroup=Game+of+Life+versions\">Game of Life</a>: a multi-directional shooter where you battle an expansion of sloppy ooze which behaves and grows like a cellular automaton.<br><br>The little battleship roams the fixed playfield with its infinite supply of grime-destroying bullets, which can be shot in four directions (the game generously does the shooting for you: in the original game auto-fire was optional -- here it isn't).  Mobile enemies travel across the screen and seed new patches of gooey mold; as the muck spreads and mutates, it spawns slimy seepage that actively seeks you out.  You get three lives, which you lose if your ship touches one of the moving spores, or gets completely surrounded by goop.",
+  "publishedBy": "",
+  "developedBy": "",
+  "released": "Aug 10, 2018",
+  "alsoFor": "Amstrad CPC, Enterprise, Game Boy Color, Game Gear, MSX, SAM Coupé, SEGA Master System, TI Programmable Calculator, ZX Spectrum | Combined View",
+  "genre": "Action",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/gameboy/grime-z80",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade, Shooter",
+  "setting": "",
+  "release": [
+    {
+      "system": "Game Boy",
+      "releases": []
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/944142-grime-z80-game-boy-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/944143-grime-z80-game-boy-screenshot-the-fight-begins.png",
+      "caption": "The fight begins"
+    },
+    {
+      "link": "/images/shots/l/944144-grime-z80-game-boy-screenshot-the-defilement-is-spreading.png",
+      "caption": "The defilement is spreading..."
+    },
+    {
+      "link": "/images/shots/l/944145-grime-z80-game-boy-screenshot-gettin-grimed.png",
+      "caption": "Gettin' grimed!"
+    },
+    {
+      "link": "/images/shots/l/944146-grime-z80-game-boy-screenshot-game-over.png",
+      "caption": "Game over"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/507507-grime-z80-amstrad-cpc-front-cover.png",
+      "scanOf": "Front Cover",
+      "packaging": "Electronic",
+      "country": "Worldwide",
+      "platforms": "Amstrad CPC, Enterprise, Game Boy, Game Boy Color, Game Gear, MSX, SAM Coup&eacute;, SEGA Master System, TI Programmable Calculator and ZX Spectrum"
+    }
+  ]
+}

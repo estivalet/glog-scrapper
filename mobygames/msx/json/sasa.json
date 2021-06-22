@@ -1,0 +1,72 @@
+{
+  "name": "Sasa",
+  "shortName": "sasa",
+  "description": "This is a shooting game with a twist. You are in control of a small character who has to go through a series of stages. Each stage consists of one screen only and contains several energy packs hidden behind various obstacles. Your goal is to eat up all the energy packs at a given stage or destroy them, which is sometimes easier but has dire consequences in the later stages. If you manage to eat the energy packs, you'll gain more energy points, which carry over to the next stage. You'll need the energy points because every shot from your gun costs you one, and each collision with the various enemies flying around can deplete a large bulk of them. <br><br>The twist of the game is in the movement: instead of simply flying around, you must shoot in the direction opposite of the desired movement. For example, if you shoot several times to the left, you'll be thrown to the right. Everything is built around the reactive force of your gun and the gravity force, which will slowly make you descend to the ground if you don't shoot continuously. Preserving the precious energy points and trying to propel yourself exactly to the obstacles which you must destroy on your way to the energy packs is the only way to successfully complete the game.",
+  "publishedBy": "ASCII Corporation",
+  "developedBy": "Mass Tael Co., Ltd.",
+  "released": "1984",
+  "alsoFor": "NES, Spectravideo | Combined View",
+  "genre": "Action",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/msx/sasa",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade, Platform, Shooter",
+  "setting": "",
+  "release": [
+    {
+      "system": "MSX",
+      "releases": [
+        {
+          "publisher": "ASCII Corporation",
+          "developer": "Mass Tael Co., Ltd.",
+          "ported": "",
+          "country": " Japan",
+          "releaseDate": "1984",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/207921-sasa-msx-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/207922-sasa-msx-screenshot-settings.png",
+      "caption": "Settings"
+    },
+    {
+      "link": "/images/shots/l/207923-sasa-msx-screenshot-the-first-stage-where-you-must-destroy.png",
+      "caption": "The first stage, where you must destroy the door on the right"
+    },
+    {
+      "link": "/images/shots/l/207924-sasa-msx-screenshot-reload-on-the-reloading-tank.png",
+      "caption": "Reload on the reloading tank"
+    },
+    {
+      "link": "/images/shots/l/207925-sasa-msx-screenshot-second-stage-where-you-are-hunted-by-two.png",
+      "caption": "Second stage, where you are hunted by two orbs"
+    },
+    {
+      "link": "/images/shots/l/207926-sasa-msx-screenshot-reload-on-the-boat-and-pick-up-the-capsules.png",
+      "caption": "Reload on the boat and pick up the capsules released by the octopuses"
+    },
+    {
+      "link": "/images/shots/l/207927-sasa-msx-screenshot-a-frantic-stage-where-enemies-attack-from.png",
+      "caption": "A frantic stage where enemies attack from all directions"
+    },
+    {
+      "link": "/images/shots/l/207928-sasa-msx-screenshot-game-over.png",
+      "caption": "Game over"
+    }
+  ],
+  "cover": []
+}

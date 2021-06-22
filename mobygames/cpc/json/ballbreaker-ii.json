@@ -1,0 +1,56 @@
+{
+  "name": "Ballbreaker II",
+  "shortName": "ballbreaker-ii",
+  "description": "<i>Ball Breaker II</i> is a <a href=\"https://www.mobygames.com/search/quick?gamegroup=Breakout\">Breakout</a> variant. This means the player controls a paddle, fixed on the right side of the screen and only able to move vertically, which is used to bounce a ball into the playfield or keeping it from falling out of the screen, respectively. On said playfield there are a number of blocks which vaporize when hit by the ball. The goal is to clear out all blocks.<br><br>The speciality of this variant is the use of an isometric perspective. While the ball and paddle itself do not leave the lower plane, the blocks are stacked up. The higher blocks fall down when the blocks below then are gone. The only significant difference to the <a href=\"https://www.mobygames.com/game/ball-breaker\">predecessor</a> are 30 new levels.",
+  "publishedBy": "CRL Group PLC",
+  "developedBy": "",
+  "released": "1988",
+  "alsoFor": "ZX Spectrum | Combined View",
+  "genre": "Action",
+  "perspective": "Bird's-eye view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/cpc/ballbreaker-ii",
+  "visual": "Isometric",
+  "gamePlay": "Paddle / Pong",
+  "setting": "",
+  "release": [
+    {
+      "system": "Amstrad CPC",
+      "releases": [
+        {
+          "publisher": "CRL Group PLC",
+          "developer": "",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1988",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/529736-ballbreaker-ii-amstrad-cpc-screenshot-loading-screen.png",
+      "caption": "Loading screen"
+    },
+    {
+      "link": "/images/shots/l/529737-ballbreaker-ii-amstrad-cpc-screenshot-title-credits-and-main.png",
+      "caption": "Title, credits and main menu"
+    },
+    {
+      "link": "/images/shots/l/529738-ballbreaker-ii-amstrad-cpc-screenshot-screen-1-this-one-is.png",
+      "caption": "Screen 1 (this one is designed by Simon Rockman)"
+    },
+    {
+      "link": "/images/shots/l/529739-ballbreaker-ii-amstrad-cpc-screenshot-the-first-screen.png",
+      "caption": "The first screen"
+    }
+  ],
+  "cover": []
+}

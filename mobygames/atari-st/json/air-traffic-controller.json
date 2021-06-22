@@ -1,0 +1,56 @@
+{
+  "name": "Air Traffic Controller",
+  "shortName": "air-traffic-controller",
+  "description": "<i>Air Traffic Controller</i> is a one player game written in ST-Pascal for high resolution where you take on the role as an air traffic controller. The goal of the game is to keep going as long as possible. The game ends when: \n<ul><li>A plane crashes, i.e. when it's altitude is zero in the wrong place.</li>\n<li>A plane leaves the area at the wrong altitude or in the wrong place.</li>\n<li>A plane lands instead of exiting the area and the other way around.</li>\n<li>A plane lands at the wrong airport.</li>\n<li>Two planes collide.</li></ul>\nThe radar displays jets as lower case letters and propeller planes as upper case letters, the digit attached to the letter is the planes altitude. Airports is marked with an 'a' and an arrow that shows the direction on which planes are supposed to take off or land. Beacons are represented by '*', you can tell a plane in advance to do something once it gets to a beacon. The active list shows you what planes are in the air, their altitude, where they are heading and whether delayed commands have been issued. Under 'holdings' you can also see what planes are waiting at airports fore take-off.<br><br>The game comes with 13 game files and since they are in plain ASCII (and explained in the manual) the player can easily construct his/her own game files.",
+  "publishedBy": "Flying V soft",
+  "developedBy": "Flying V soft",
+  "released": "1989",
+  "alsoFor": "",
+  "genre": "Simulation",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-st/air-traffic-controller",
+  "visual": "",
+  "gamePlay": "Managerial / business simulation",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari ST",
+      "releases": [
+        {
+          "publisher": "Flying V soft",
+          "developer": "Flying V soft",
+          "ported": "",
+          "country": " The Netherlands",
+          "releaseDate": "1989",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/341302-air-traffic-controller-atari-st-screenshot-info-box.png",
+      "caption": "Info box"
+    },
+    {
+      "link": "/images/shots/l/341303-air-traffic-controller-atari-st-screenshot-two-planes-in-the.png",
+      "caption": "Two planes in the air"
+    },
+    {
+      "link": "/images/shots/l/341304-air-traffic-controller-atari-st-screenshot-disaser-is-iminent.png",
+      "caption": "Disaser is iminent. (Plane a and C are on the same altitude)"
+    },
+    {
+      "link": "/images/shots/l/341305-air-traffic-controller-atari-st-screenshot-game-over.png",
+      "caption": "Game over"
+    }
+  ],
+  "cover": []
+}

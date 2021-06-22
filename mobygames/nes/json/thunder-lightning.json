@@ -1,0 +1,123 @@
+{
+  "name": "Thunder &amp; Lightning",
+  "shortName": "thunder-lightning",
+  "description": "A <i>Breakout</i> type game with characters such as Mr. Chin and the Thunder Warrior.  Mr. Chin holds a stick over his head that acts as the paddle.  If your ball hits one of the power-up carriers (flying saucer, submarine, or airplane) you have to try and pick up the released power-up while continuing to keep the ball in play.<br><br>Power-ups are:<ul>\n<li>Glove: Catch the ball and then release with the A button.\n<li>Long: Mr. Chin's stick will become longer.\n<li>1-Up: Get an extra life for Mr. Chin.\n<li>Missile: Gain fire power, press the A button to launch a missile, catch a second missile to fire two missiles simultaneously.\n<li>Big Ball: The ball enlarges and blows through any type of block in its path.\n<li>Slow: This will slow the speed of the ball.\n<li>3 Balls: The ball will split into three balls and as long as you keep one ball from falling you will always have three balls.\n<li>6 Balls: The ball will split into six balls.</ul>\nHostile characters will occasionally appear and try to mess with Mr. Chin.<ul>\n<li>Sea Anemone: If he captures your ball it will split into two smaller balls.\n<li>Octopus: He lives underwater inside an ancient vase, if the vase is hit by the ball the octopus will come out and try and latch onto Mr. Chin's stick. If he succeeds he will weigh you down causing you to move slower.\n<li>Turtle: They will walk over the wall and transform themselves into new blocks to hinder your progress.\n<li>Bird: If hit with your ball it will fly out of control smashing through the walls before flying away.\n<li>Thunder Warrior: If you hit the Thunder Warrior with your ball he will release a circle of lightning bolts that will fly around him. The lightning bolts will destroy the walls but they will momentarily paralyze Mr. Chin if he is hit.</ul>",
+  "publishedBy": "Romstar, Inc.",
+  "developedBy": "Visco Corporation",
+  "released": "Dec, 1990",
+  "alsoFor": "Arcade, Windows | Combined View",
+  "genre": "Action",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/nes/thunder-lightning",
+  "visual": "",
+  "gamePlay": "Paddle / Pong",
+  "setting": "",
+  "release": [
+    {
+      "system": "NES",
+      "releases": [
+        {
+          "publisher": "Romstar, Inc.",
+          "developer": "Visco Corporation",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "Dec, 1990",
+          "ean13": "",
+          "comments": ""
+        },
+        {
+          "publisher": "Athena Co., Ltd.",
+          "developer": "Visco Corporation",
+          "ported": "",
+          "country": " Japan",
+          "releaseDate": "Apr 12, 1991",
+          "ean13": "4 988679 000094",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/205109-thunder-lightning-nes-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/205110-thunder-lightning-nes-screenshot-let-the-game-begin.png",
+      "caption": "Let the game begin"
+    },
+    {
+      "link": "/images/shots/l/205115-thunder-lightning-nes-screenshot-i-think-one-of-the-tentacled.png",
+      "caption": "I think one of the tentacled creatures just ate my ball"
+    },
+    {
+      "link": "/images/shots/l/205113-thunder-lightning-nes-screenshot-missed-a-ball.png",
+      "caption": "Missed a ball"
+    },
+    {
+      "link": "/images/shots/l/205116-thunder-lightning-nes-screenshot-the-u-boat-released-a-toaster.png",
+      "caption": "The u-boat released a toaster, which will make the bat sticky"
+    },
+    {
+      "link": "/images/shots/l/205117-thunder-lightning-nes-screenshot-the-big-ball-can-pass-through.png",
+      "caption": "The big ball can pass through any brick"
+    },
+    {
+      "link": "/images/shots/l/205118-thunder-lightning-nes-screenshot-level-1-clear.png",
+      "caption": "Level 1 clear"
+    },
+    {
+      "link": "/images/shots/l/205119-thunder-lightning-nes-screenshot-trying-to-hit-the-submarine.png",
+      "caption": "Trying to hit the submarine"
+    },
+    {
+      "link": "/images/shots/l/205121-thunder-lightning-nes-screenshot-the-octopus-sticks-to-your.png",
+      "caption": "The octopus sticks to your bat, making you move slowly"
+    },
+    {
+      "link": "/images/shots/l/205122-thunder-lightning-nes-screenshot-triple-ball.png",
+      "caption": "Triple ball"
+    },
+    {
+      "link": "/images/shots/l/205124-thunder-lightning-nes-screenshot-round-2-clear.png",
+      "caption": "Round 2 clear"
+    },
+    {
+      "link": "/images/shots/l/205125-thunder-lightning-nes-screenshot-playing-on-round-3.png",
+      "caption": "Playing on round 3"
+    },
+    {
+      "link": "/images/shots/l/205126-thunder-lightning-nes-screenshot-game-over.png",
+      "caption": "Game over"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/77941-thunder-lightning-nes-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "NES"
+    },
+    {
+      "link": "/images/covers/l/77942-thunder-lightning-nes-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "NES"
+    },
+    {
+      "link": "/images/covers/l/77943-thunder-lightning-nes-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "NES"
+    }
+  ]
+}

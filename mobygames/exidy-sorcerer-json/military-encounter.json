@@ -1,0 +1,81 @@
+{
+  "name": "Military Encounter",
+  "shortName": "military-encounter",
+  "description": "<i>Military Encounter</i> is a computer adaptation of the board game <a href=\"https://www.mobygames.com/search/quick?game=Stratego\">Stratego</a>. It's a single player game played against an AI opponent. Each combatant has forty pieces that they place on their side of the board ahead of the game. One of the pieces is a flag which the opponent has to try and capture. Units have ranks which decide what enemies they can defeat in combat. Higher rank units defeats lower rank units which are then removed from the board. The general is the highest rank and can defeat any other unit. The exception is the spy (the lowest rank) which can only defeat the general but only if it attacks first. There are also bombs which kill any unit that attacks them except for miner units which can dismantle the bombs. The ranks of the enemies are only revealed once they attack or are being attacked. For each turn the player can move one unit one square. The player wins the game by capturing the enemy flag or when the enemy forfeits a hopeless situation. In addition to the regular game there is a Super Encounter mode where the enemy ranks are never revealed.",
+  "publishedBy": "Global Software Network",
+  "developedBy": "",
+  "released": "1981",
+  "alsoFor": "",
+  "genre": "Strategy / tactics",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/exidy-sorcerer/military-encounter",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Board game",
+  "setting": "",
+  "release": [
+    {
+      "system": "Exidy Sorcerer",
+      "releases": [
+        {
+          "publisher": "Global Software Network",
+          "developer": "",
+          "ported": "",
+          "country": " Australia",
+          "releaseDate": "1981",
+          "ean13": "",
+          "comments": ""
+        },
+        {
+          "publisher": "Global Software Network",
+          "developer": "",
+          "ported": "",
+          "country": " Australia",
+          "releaseDate": "1981",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/958708-military-encounter-exidy-sorcerer-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/958709-military-encounter-exidy-sorcerer-screenshot-mode-selection.png",
+      "caption": "Mode selection"
+    },
+    {
+      "link": "/images/shots/l/958710-military-encounter-exidy-sorcerer-screenshot-starting-with.png",
+      "caption": "Starting with an empty board"
+    },
+    {
+      "link": "/images/shots/l/958711-military-encounter-exidy-sorcerer-screenshot-board-setup-in.png",
+      "caption": "Board setup in progress"
+    },
+    {
+      "link": "/images/shots/l/958712-military-encounter-exidy-sorcerer-screenshot-ai-s-turn-to.png",
+      "caption": "AI's turn to setup"
+    },
+    {
+      "link": "/images/shots/l/958713-military-encounter-exidy-sorcerer-screenshot-first-moves-being.png",
+      "caption": "First moves being made"
+    },
+    {
+      "link": "/images/shots/l/958714-military-encounter-exidy-sorcerer-screenshot-losing-a-low.png",
+      "caption": "Losing a low rank unit in combat"
+    },
+    {
+      "link": "/images/shots/l/958715-military-encounter-exidy-sorcerer-screenshot-the-enemy-forfeits.png",
+      "caption": "The enemy forfeits"
+    }
+  ],
+  "cover": []
+}

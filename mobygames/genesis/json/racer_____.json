@@ -1,0 +1,76 @@
+{
+  "name": "Racer",
+  "shortName": "racer_____",
+  "description": "<i>Racer</i> is a homebrew puzzle game inspired by one of the puzzles in the 1997 PC title <a href=\"https://www.mobygames.com/search/quick?quickSearch=5029988001316\">Safecracker</a>. One of the rooms in the mansion has an arcade machine where a puzzle needs to be solved after inserting a key card. The concept is based on a single screen with a street plan, a starting position for a car, a finish point and a trajectory between them. To solve the puzzle the player needs to use the handles at the bottom to steer the car left and right based on the displayed trajectory. The car does not move however so the entire sequence of turns needs to be completed just by following the path by mentally visualizing it.<br><br>Initially created as an experiment with the 16-bit adventure/visual novel engine GINCS in 2007 the game was eventually finished in 2013 with eight levels based on the concept. Only two actions are used to move left and right. The game confirms if a turn is correct after each input. As soon as a mistake is made, the car crashes and the level needs to be restarted. A next level becomes a bit more difficult based on the number of turns. Some music is included as well. Between levels screenshots are shown from Genesis racing games.<br><br>After the download release in 2013 the game received a cartridge run of 25 copies in 2004 and there was a second edition in 2019.",
+  "publishedBy": "TOF Studio",
+  "developedBy": "TOF Studio",
+  "released": "Sep, 2013",
+  "alsoFor": "",
+  "genre": "Puzzle",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/genesis/racer_____",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "",
+  "setting": "",
+  "release": [
+    {
+      "system": "Genesis",
+      "releases": [
+        {
+          "publisher": "TOF Studio",
+          "developer": "TOF Studio",
+          "ported": "",
+          "country": " Worldwide",
+          "releaseDate": "Sep, 2013",
+          "ean13": "",
+          "comments": "download release"
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/1011449-racer-genesis-screenshot-main-menu.png",
+      "caption": "Main menu"
+    },
+    {
+      "link": "/images/shots/l/1011450-racer-genesis-screenshot-these-are-the-only-actions-you-will.png",
+      "caption": "These are the only actions you will perform."
+    },
+    {
+      "link": "/images/shots/l/1011451-racer-genesis-screenshot-a-scene-from-the-help-screen.png",
+      "caption": "A scene from the help screen"
+    },
+    {
+      "link": "/images/shots/l/1011452-racer-genesis-screenshot-at-the-start-of-the-first-level.png",
+      "caption": "At the start of the first level the game zooms in on the cabinet, identical to the one in Safecracker because it was based on a screenshot."
+    },
+    {
+      "link": "/images/shots/l/1011453-racer-genesis-screenshot-the-trajectory-for-the-first-level.png",
+      "caption": "The trajectory for the first level"
+    },
+    {
+      "link": "/images/shots/l/1011454-racer-genesis-screenshot-first-level-completed.png",
+      "caption": "First level completed"
+    },
+    {
+      "link": "/images/shots/l/1011455-racer-genesis-screenshot-in-the-bottom-left-you-choose-to.png",
+      "caption": "In the bottom left you choose to go left or right for each turn."
+    },
+    {
+      "link": "/images/shots/l/1011456-racer-genesis-screenshot-a-screen-from-another-genesis-racing.png",
+      "caption": "A screen from another Genesis racing game after completing the second level."
+    },
+    {
+      "link": "/images/shots/l/1011457-racer-genesis-screenshot-a-wrong-turn-and-the-level-needs.png",
+      "caption": "A wrong turn and the level needs to be restarted right away."
+    }
+  ],
+  "cover": []
+}

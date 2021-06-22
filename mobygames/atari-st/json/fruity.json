@@ -1,0 +1,56 @@
+{
+  "name": "Fruity",
+  "shortName": "fruity",
+  "description": "<i>Fruity</i> is a three wheel fruit machine simulator for one player written in 68000 machine code.\nAt the start of the game you may decide how many coins you'll start with, you may select any value between 1 and 999. The wheels spin in turns, first the left one and last the right one. When you have a winning combination you may collect the coins or select to gamble with them (except if you win £2). Certain wheel combinations allows you to use the hold option. There is a random nudge feature which gives you up to five nudges in an upward direction.<br><br>A number of fruits have numbers superimposed on them, these numbers will cause the digits on the feature line to light up. If the &quot;Feature held&quot; light appears the feature line will be held for the next go. If you manage to reach 15 the feature game will start, here you can win one of three prizes:<ul>\n<li>Cash plus: stop the middle wheel five times. All numbers superimposed on fruits will add x 10 p to the current win.</li>\n<li>Skill stop: Stop the middle wheel on a fruit and win the amount that a line of that fruit gives.</li>\n<li>Next win: Makes a row of the fruit the first wheel stands on and you win that amount of money.</li></ul>",
+  "publishedBy": "DW Software",
+  "developedBy": "",
+  "released": "1990",
+  "alsoFor": "",
+  "genre": "Simulation",
+  "perspective": "1st-person",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-st/fruity",
+  "visual": "",
+  "gamePlay": "Casino / gambling",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari ST",
+      "releases": [
+        {
+          "publisher": "DW Software",
+          "developer": "",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1990",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/330707-fruity-atari-st-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/330708-fruity-atari-st-screenshot-instructions.png",
+      "caption": "Instructions"
+    },
+    {
+      "link": "/images/shots/l/330709-fruity-atari-st-screenshot-hold-option-enabled.png",
+      "caption": "Hold option enabled"
+    },
+    {
+      "link": "/images/shots/l/330710-fruity-atari-st-screenshot-i-got-a-next-win.png",
+      "caption": "I got a &quot;next win&quot;"
+    }
+  ],
+  "cover": []
+}

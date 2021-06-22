@@ -1,0 +1,72 @@
+{
+  "name": "Warrior",
+  "shortName": "warrior",
+  "description": "<i>Warrior</i> is a top-down dungeon crawler, where the goal is to defeat a dragon in its lair located in the south-east area of the maze. To become strong enough to defeat the dragon, you need to pick-up various power-ups (denoted by question marks) scattered throughout the dungeon. These provide random increases (or sometimes decreases) to various statistics such as Strength, Hit Points, Attack Points, Armour Class and Money. <br><br>At certain fixed squares of the maze, monsters will appear and slowly chase you. If you are caught, you are taken to a combat screen where the battle is automatically played out. Each round of combat uses a point of Strength. If you lose the round, you will be damaged which causes a reduction in Armor Class or Hit Points. You are then given the option of continuing combat. Alternatively, you may win the round and cause some amount of damage to your opponent related to Attack Points. If your opponent is killed, you will usually gain Experience points, although later in the game you will sometimes lose points for a kill.<br><br>The game is lost if your Strength or Hit Points are reduced below zero, but you win if you gain sufficiently high statistics and confront the dragon for the final battle.",
+  "publishedBy": "ASCII Corporation",
+  "developedBy": "ASCII Corporation",
+  "released": "1983",
+  "alsoFor": "",
+  "genre": "Role-Playing (RPG)",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/msx/warrior",
+  "visual": "2D scrolling",
+  "gamePlay": "Japanese-style RPG (JRPG)",
+  "setting": "",
+  "release": [
+    {
+      "system": "MSX",
+      "releases": [
+        {
+          "publisher": "ASCII Corporation",
+          "developer": "ASCII Corporation",
+          "ported": "",
+          "country": " Japan",
+          "releaseDate": "1983",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/965765-warrior-msx-screenshot-title-screen.png",
+      "caption": "Title screen."
+    },
+    {
+      "link": "/images/shots/l/965766-warrior-msx-screenshot-about-to-grab-a-power-up.png",
+      "caption": "About to grab a power-up."
+    },
+    {
+      "link": "/images/shots/l/965767-warrior-msx-screenshot-being-chased-by-a-bat.png",
+      "caption": "Being chased by a bat."
+    },
+    {
+      "link": "/images/shots/l/965768-warrior-msx-screenshot-the-bat-was-too-strong.png",
+      "caption": "The bat was too strong."
+    },
+    {
+      "link": "/images/shots/l/965769-warrior-msx-screenshot-the-wallpaper-here-is-somewhat-depressing.png",
+      "caption": "The wallpaper here is somewhat depressing."
+    },
+    {
+      "link": "/images/shots/l/965770-warrior-msx-screenshot-fighting-a-giant-eye-mid-blink.png",
+      "caption": "Fighting a giant eye mid-blink."
+    },
+    {
+      "link": "/images/shots/l/965771-warrior-msx-screenshot-the-final-encounter.png",
+      "caption": "The final encounter."
+    },
+    {
+      "link": "/images/shots/l/965772-warrior-msx-screenshot-winning-the-game.png",
+      "caption": "Winning the game."
+    }
+  ],
+  "cover": []
+}

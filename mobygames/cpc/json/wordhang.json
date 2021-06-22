@@ -1,0 +1,64 @@
+{
+  "name": "Wordhang",
+  "shortName": "wordhang",
+  "description": "<i>Wordhang</i> is a one or two player game based on the pen and paper game Hangman where the aim is for a player to guess a word. In a two player game, one player has to guess the word, when the other player selects the word. The word is guessed one letter at a time and if correct then the letter appears in the word made up of dashes. If the letter is wrong then part of a man appears who is getting hanged on a scaffold. The game ends once the word is either guessed or the whole man appears and is hung. If only one player is playing then they select a group from different groups of categories that include geography, transport and maths. The computer selects a word from that category and the player has to guess the word. There is also a facility to add words to the categories.",
+  "publishedBy": "Bourne Educational Software Ltd.",
+  "developedBy": "",
+  "released": "1984",
+  "alsoFor": "",
+  "genre": "Educational, Puzzle",
+  "perspective": "",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/cpc/wordhang",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Word construction",
+  "setting": "",
+  "release": [
+    {
+      "system": "Amstrad CPC",
+      "releases": [
+        {
+          "publisher": "Bourne Educational Software Ltd.",
+          "developer": "",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1984",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/786645-wordhang-amstrad-cpc-screenshot-loading-screen.png",
+      "caption": "Loading Screen"
+    },
+    {
+      "link": "/images/shots/l/786646-wordhang-amstrad-cpc-screenshot-options-to-select.png",
+      "caption": "Options to select"
+    },
+    {
+      "link": "/images/shots/l/786647-wordhang-amstrad-cpc-screenshot-entering-a-word-to-use.png",
+      "caption": "Entering a word to use"
+    },
+    {
+      "link": "/images/shots/l/786648-wordhang-amstrad-cpc-screenshot-start-of-the-game.png",
+      "caption": "Start of the game"
+    },
+    {
+      "link": "/images/shots/l/786649-wordhang-amstrad-cpc-screenshot-game-in-progress.png",
+      "caption": "Game in progress"
+    },
+    {
+      "link": "/images/shots/l/786650-wordhang-amstrad-cpc-screenshot-list-of-groups-to-select-for.png",
+      "caption": "List of groups to select for the computer to choose a word from"
+    }
+  ],
+  "cover": []
+}

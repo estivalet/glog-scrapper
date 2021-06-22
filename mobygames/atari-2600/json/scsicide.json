@@ -1,0 +1,76 @@
+{
+  "name": "SCSIcide",
+  "shortName": "scsicide",
+  "description": "In this game, you are a hard drive read head and must gather the bits in their correct color-coded order. There are ten tracks and bits of various colors will race along from left to right. You must move to the track with the correct color bit and press the button when it is at you to clear it then it is on to the next track. If the needed bit gets past you off the right side of the screen, it will enter the buffer on the bottom left of the screen. If the buffer overflows, the hard drive will crash and game over. You score is displayed in hexadecimal. The first two numbers are the level followed by your score.",
+  "publishedBy": "Hozer Video Games",
+  "developedBy": "Pixels Past",
+  "released": "Aug 11, 2001",
+  "alsoFor": "",
+  "genre": "Action",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-2600/scsicide",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari 2600",
+      "releases": [
+        {
+          "publisher": "Hozer Video Games",
+          "developer": "Pixels Past",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "Aug 11, 2001",
+          "ean13": "",
+          "comments": "Classic Gaming Expo 2001 release"
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/245554-scsicide-atari-2600-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/245555-scsicide-atari-2600-screenshot-get-ready.png",
+      "caption": "Get ready."
+    },
+    {
+      "link": "/images/shots/l/245556-scsicide-atari-2600-screenshot-i-need-to-grab-the-bit-of-the.png",
+      "caption": "I need to grab the bit of the same color as the bar on bottom right."
+    },
+    {
+      "link": "/images/shots/l/245557-scsicide-atari-2600-screenshot-finished-level-1.png",
+      "caption": "Finished level 1."
+    },
+    {
+      "link": "/images/shots/l/245558-scsicide-atari-2600-screenshot-playing-level-2.png",
+      "caption": "Playing level 2."
+    },
+    {
+      "link": "/images/shots/l/245559-scsicide-atari-2600-screenshot-finished-level-2.png",
+      "caption": "Finished level 2."
+    },
+    {
+      "link": "/images/shots/l/245560-scsicide-atari-2600-screenshot-playing-level-4-but-i-m-not.png",
+      "caption": "Playing level 4 but I'm not doing so well."
+    },
+    {
+      "link": "/images/shots/l/245561-scsicide-atari-2600-screenshot-buffer-overflow-i-lost-in-other.png",
+      "caption": "Buffer overflow. I lost, in other words."
+    },
+    {
+      "link": "/images/shots/l/245562-scsicide-atari-2600-screenshot-playing-with-the-over-sized.png",
+      "caption": "Playing with the over-sized drive head."
+    }
+  ],
+  "cover": []
+}

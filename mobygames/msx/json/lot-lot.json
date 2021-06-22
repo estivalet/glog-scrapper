@@ -1,0 +1,80 @@
+{
+  "name": "Lot Lot",
+  "shortName": "lot-lot",
+  "description": "<i>Lot Lot</i> is a puzzle game. The goal of the game is of extreme simplicity. Manipulate the balls in such a way till they fall into the pits and generate points.<br><br>The game has five pits: Out, 0 points, 10 points, 30 points and 50 points.<br><br>Each level starts by giving the player a target score that has to be reached before the player can continue on to the next level.<br><br>The screen is divided into sixteen sections. The walls of those sections randomly disappear and the balls will then drop or roll into the other section or a pit at the bottom of the screen.<br><br>On the screen, there will be two arrows of which the second arrow follows the first one, but with a slight delay, and it stops at the same position as the first one.<br><br>The arrows will start in an empty section of which one of the walls will soon disappear. To move the balls to the empty section move the first arrow to a section that is filled with balls end press the space bar or fire button. The balls will then be moved to the empty section. If both sections contain balls then the balls will be swapped accordingly.<br><br>Now the goal is to manipulate the balls in such a way that they will  fall into the pits, thus generating points for the player.<br><br>In the bottom left of the screen there is a section that has a thin red line at the bottom. Never move the balls in that section because if any balls enter that section a crab will appear and cut the red line with its razor sharp claws, causing the balls to disappear in the pit labeled 'OUT' and resulting in the player losing a life.",
+  "publishedBy": "Technopolis Soft",
+  "developedBy": "Irem Corp., Tokuma Shoten Publishing Co., Ltd.",
+  "released": "1985",
+  "alsoFor": "Arcade, NES, PC-88 | Combined View",
+  "genre": "Puzzle",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/msx/lot-lot",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Platform",
+  "setting": "",
+  "release": [
+    {
+      "system": "MSX",
+      "releases": [
+        {
+          "publisher": "Technopolis Soft",
+          "developer": "Irem Corp.",
+          "ported": "",
+          "country": " Japan",
+          "releaseDate": "1985",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/137107-lot-lot-msx-screenshot-the-title-screen.png",
+      "caption": "The title screen."
+    },
+    {
+      "link": "/images/shots/l/137108-lot-lot-msx-screenshot-one-or-two-players.png",
+      "caption": "One or two players."
+    },
+    {
+      "link": "/images/shots/l/137109-lot-lot-msx-screenshot-the-target-score-for-round-1.png",
+      "caption": "The target score for Round 1."
+    },
+    {
+      "link": "/images/shots/l/137110-lot-lot-msx-screenshot-move-the-balls-to-an-empty-section.png",
+      "caption": "Move the balls to an empty section that have a blinking edge."
+    },
+    {
+      "link": "/images/shots/l/137111-lot-lot-msx-screenshot-the-balls-fall-into-the-50-points-pit.png",
+      "caption": "The balls fall into the 50 points pit. Generating 50 points for each ball."
+    },
+    {
+      "link": "/images/shots/l/137112-lot-lot-msx-screenshot-move-the-first-arrow-to-an-empty-section.png",
+      "caption": "Move the first arrow to an empty section and the second arrow will follow."
+    },
+    {
+      "link": "/images/shots/l/137113-lot-lot-msx-screenshot-move-the-first-arrow-to-a-section-that.png",
+      "caption": "Move the first arrow to a section that contains balls and press the fire button. The balls will move to the empty section where the second arrow is located."
+    },
+    {
+      "link": "/images/shots/l/137114-lot-lot-msx-screenshot-never-move-the-balls-into-the-section.png",
+      "caption": "Never move the balls into the section in the bottom left."
+    },
+    {
+      "link": "/images/shots/l/137115-lot-lot-msx-screenshot-it-contains-a-red-line-that-will-be.png",
+      "caption": "It contains a red line that will be cut by a crab when that section got one or more balls in it."
+    },
+    {
+      "link": "/images/shots/l/137116-lot-lot-msx-screenshot-the-crab-cut-the-thin-red-line-you.png",
+      "caption": "The crab cut the thin red line. You lose a life."
+    }
+  ],
+  "cover": []
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Chess",
+  "shortName": "chess_______",
+  "description": "Originally released in source code form to the old USENET group net.sources.games simply as &quot;Chess&quot;, this C language implementation of a chess game has subsequently been christened as <i>SCP</i>, or <i>Stanback Chess Program</i>, after its author <a href=\"https://www.mobygames.com/developer/sheet/view/developerId,52400/\">John Stanback</a>. Even though the source code is short, it plays a competent game, but lacks any kind of graphics due to being written in portable C code. The chess board is displayed as a grid of text characters, with letters representing the different pieces and an asterisk marking the black pieces. Moves are entered in classical chess notation, so that &quot;E2E3&quot; moves the king's pawn forward one square. Other text commands are used to load and save games, flip the board, list moves or get hints.<br><br>Due to its open source nature, <i>SCP</i> has been integrated in <a href=\"https://www.mobygames.com/game/chess-20\">many</a> <a href=\"https://www.mobygames.com/game/terminator-2-judgment-day-chess-wars\">other</a> <a href=\"https://www.mobygames.com/game/grandmaster-chess-cd-rom-edition\">games</a>, most notably forming the core of <i><a href=\"https://www.mobygames.com/game/gnu-chess\">GNU Chess</a></i> from version 2 and until version 5.",
+  "publishedBy": "",
+  "developedBy": "",
+  "released": "Sep, 1987",
+  "alsoFor": "",
+  "genre": "Strategy / tactics",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/amiga/chess_______",
+  "visual": "",
+  "gamePlay": "Chess",
+  "setting": "",
+  "release": [
+    {
+      "system": "Amiga",
+      "releases": []
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/705513-chess-amiga-screenshot-first-you-set-up-your-chess-clock.png",
+      "caption": "First, you set up your chess clock"
+    },
+    {
+      "link": "/images/shots/l/705514-chess-amiga-screenshot-the-amiga-port-is-a-very-straight-port.png",
+      "caption": "The Amiga port is a very straight port without graphics or mouse support"
+    },
+    {
+      "link": "/images/shots/l/705515-chess-amiga-screenshot-opening-moves.png",
+      "caption": "Opening moves"
+    },
+    {
+      "link": "/images/shots/l/705517-chess-amiga-screenshot-the-computer-will-always-use-its-entire.png",
+      "caption": "The computer will always use its entire time limit to ponder moves"
+    },
+    {
+      "link": "/images/shots/l/705518-chess-amiga-screenshot-blocking-the-knights.png",
+      "caption": "Blocking the knights"
+    },
+    {
+      "link": "/images/shots/l/705519-chess-amiga-screenshot-let-s-quit-this-and-play-a-graphical.png",
+      "caption": "Let's quit this and play a graphical version instead"
+    }
+  ],
+  "cover": []
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Odin",
+  "shortName": "odin",
+  "description": "<i>Odin</i> is a computerized version of the classic board game Othello.<br><br>Played on an 8 x 8 board, players take turns placing black or white playing pieces on the board.  If the player moves so that the opposing piece lies inbetween their two pieces, the middle piece is switched to the same color.  The player with the most pieces when the board is filled is the winner.  The program shows a running list of all moves currently played during game, and allows for replay of the game.  Setup options allow the player to manually change the current color of pieces, or place or remove pieces mid-game. Gameplay has 16 separate computer difficulty levels.",
+  "publishedBy": "Odesta",
+  "developedBy": "Alpha-Beta Software Group, Ltd.",
+  "released": "1982",
+  "alsoFor": "Apple II, Commodore 64, DOS | Combined View",
+  "genre": "Strategy / tactics",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-8-bit/odin",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Board game",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari 8-bit",
+      "releases": [
+        {
+          "publisher": "Odesta",
+          "developer": "Alpha-Beta Software Group, Ltd.",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1982",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/991706-odin-atari-8-bit-screenshot-title-screen.png",
+      "caption": "Title Screen"
+    },
+    {
+      "link": "/images/shots/l/991707-odin-atari-8-bit-screenshot-gameplay.png",
+      "caption": "Gameplay"
+    },
+    {
+      "link": "/images/shots/l/991708-odin-atari-8-bit-screenshot-current-moves.png",
+      "caption": "Current Moves"
+    },
+    {
+      "link": "/images/shots/l/991709-odin-atari-8-bit-screenshot-scoring.png",
+      "caption": "Scoring"
+    }
+  ],
+  "cover": []
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Ausbruch",
+  "shortName": "ausbruch",
+  "description": "<em>Ausbruch</em> (German word for &quot;Break out&quot;) is a puzzle game played on a board of the size 14x15. In the beginning on each tile there is a small person standing. Each of those little men and women are wearing a sweater in one of four possible colors. If at least two persons of the same color are standing beside each other, they can be removed. On a removal, all tiles connected in the same color are removed.<br><br>If you remove at least six persons at the same time, you get an Extra of the amount of tiles removes minus three (so removing 6 gets a &quot;3&quot; extra, 7 a &quot;4&quot; and so on). As you clear fields, the fields above are &quot;falling&quot; down, filling the gaps. Once a row is cleared, a number tile appears randomly. This numbers can be removed when connecting them to the number of same colored tiles, which often is very difficult. More convenient, you can remove them with an extra of the same number (so a &quot;5&quot; extra can not remove a &quot;3&quot; number tile). Removing the numbers is very important, as new persons only appear if less than four number stones are on the board.<br><br>If there are no more possible removals, the game is lost. A high-score table can be reached.",
+  "publishedBy": "Foundation Two",
+  "developedBy": "Foundation Two",
+  "released": "Apr 11, 2004",
+  "alsoFor": "",
+  "genre": "Puzzle",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-st/ausbruch",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Falling block puzzle, Tile matching puzzle",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari ST",
+      "releases": [
+        {
+          "publisher": "Foundation Two",
+          "developer": "Foundation Two",
+          "ported": "",
+          "country": " Worldwide",
+          "releaseDate": "Apr 11, 2004",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/800121-ausbruch-atari-st-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/800122-ausbruch-atari-st-screenshot-menu-credits-screen.png",
+      "caption": "Menu / credits screen"
+    },
+    {
+      "link": "/images/shots/l/800123-ausbruch-atari-st-screenshot-we-have-to-help-all-those-little.png",
+      "caption": "We have to help all those little people to flee"
+    },
+    {
+      "link": "/images/shots/l/800124-ausbruch-atari-st-screenshot-if-we-remove-some-all-above-are.png",
+      "caption": "If we remove some, all above are falling down"
+    },
+    {
+      "link": "/images/shots/l/800125-ausbruch-atari-st-screenshot-on-the-right-the-blue-box-shows.png",
+      "caption": "On the right, the blue box shows our extras..."
+    },
+    {
+      "link": "/images/shots/l/800126-ausbruch-atari-st-screenshot-we-have-removes-7-8-and-7-stones.png",
+      "caption": "...we have removes 7, 8 and 7 stones to get those extras. We will need them later"
+    },
+    {
+      "link": "/images/shots/l/800127-ausbruch-atari-st-screenshot-in-the-lower-right-corner-three.png",
+      "caption": "In the lower right corner three stones with a number appeared. They can be removed with a extra of the same value"
+    },
+    {
+      "link": "/images/shots/l/800128-ausbruch-atari-st-screenshot-selected-nine-brown-sweaters.png",
+      "caption": "Selected nine brown sweaters, that will reward a nice extra"
+    },
+    {
+      "link": "/images/shots/l/800129-ausbruch-atari-st-screenshot-without-fresh-people-i-run-out.png",
+      "caption": "Without fresh people, I run out of removals: Game Over"
+    },
+    {
+      "link": "/images/shots/l/800130-ausbruch-atari-st-screenshot-high-score-table.png",
+      "caption": "High-score table"
+    }
+  ],
+  "cover": []
+}

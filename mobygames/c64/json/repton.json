@@ -1,0 +1,90 @@
+{
+  "name": "Repton",
+  "shortName": "repton",
+  "description": "A side scrolling shoot 'em up inspired by <a href=\"https://www.mobygames.com/search/quick?game=Defender\">Defender</a>, but adding much to the concept. You fly across a looping horizontally-scrolling landscape aiming to protect your base. <br><br>There are a total of eight enemies on screen at any given time. The Quarriers try to build the enemy base by stealing parts of yours. The Drayns steal energy from you and then supply it to the enemy. Fortunately you can steal back the energy they take, but you can't steal back parts of your base. The other six enemies just try to kill you. The bigger the enemy base gets, the more rapidly and accurately they can launch enemies at you.",
+  "publishedBy": "Sirius Software, Inc.",
+  "developedBy": "Sirius Software, Inc.",
+  "released": "1983",
+  "alsoFor": "Apple II, Atari 8-bit | Combined View",
+  "genre": "Action",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/repton",
+  "visual": "2D scrolling",
+  "gamePlay": "Arcade, Shooter",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "Sirius Software, Inc.",
+          "developer": "Sirius Software, Inc.",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1983",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/194000-repton-commodore-64-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/194001-repton-commodore-64-screenshot-training-mode-or-instructions.png",
+      "caption": "Training mode or Instructions?"
+    },
+    {
+      "link": "/images/shots/l/194002-repton-commodore-64-screenshot-shooting-at-enemies-in-training.png",
+      "caption": "Shooting at enemies in training mode."
+    },
+    {
+      "link": "/images/shots/l/194003-repton-commodore-64-screenshot-shooting-at-enemies-in-regular.png",
+      "caption": "Shooting at enemies in regular mode."
+    },
+    {
+      "link": "/images/shots/l/194004-repton-commodore-64-screenshot-wave-cleared.png",
+      "caption": "Wave cleared."
+    },
+    {
+      "link": "/images/shots/l/194005-repton-commodore-64-screenshot-i-was-hit.png",
+      "caption": "I was hit."
+    },
+    {
+      "link": "/images/shots/l/194006-repton-commodore-64-screenshot-game-over.png",
+      "caption": "Game over"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/292614-repton-commodore-64-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/292615-repton-commodore-64-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/292616-repton-commodore-64-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Commodore 64"
+    }
+  ]
+}

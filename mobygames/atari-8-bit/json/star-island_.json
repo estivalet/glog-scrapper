@@ -1,0 +1,56 @@
+{
+  "name": "Star Island",
+  "shortName": "star-island_",
+  "description": "Star Island is an Atari 8-bit version of the Cinematronics arcade game <a href=\"https://www.mobygames.com/game/star-castle\">Star Castle</a>. An enemy is hiding out behind three layers of shielding, with additional protection by homing missiles and a cannon. Your task is to pilot your ship to avoid the obstacles, take out the shields and destroy your foe.<br><br>The ship that you pilot moves about the screen by controlling the orientation and thrust, and has some inertia so it continues to move after stopping thrust. You can pass through the edges of the screen, which wrap to the other side. You can also collide with the island's shield without damage, but it brings you to a complete stop. Colliding with one of the protective missiles, or a shot from the cannon will lose one of your lives.<br><br>The three layers of shields are slowly rotating about your opponent. Shooting them will remove a section, which allows the next shot to pass unaffected. Removing all of the sections of a shield will trigger a new layer to be constructed. A single shot, passing through holes in all three layers of shields is enough to destroy your opponent. And then the next one appears, with slightly faster missiles and more effective cannons.",
+  "publishedBy": "Binary Computer Software",
+  "developedBy": "Stedek Software",
+  "released": "1982",
+  "alsoFor": "",
+  "genre": "Action",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-8-bit/star-island_",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade, Shooter",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari 8-bit",
+      "releases": [
+        {
+          "publisher": "Binary Computer Software",
+          "developer": "Stedek Software",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1982",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/1052703-star-island-atari-8-bit-screenshot-title-screen.png",
+      "caption": "Title screen."
+    },
+    {
+      "link": "/images/shots/l/1052704-star-island-atari-8-bit-screenshot-the-game-begins.png",
+      "caption": "The game begins."
+    },
+    {
+      "link": "/images/shots/l/1052705-star-island-atari-8-bit-screenshot-some-holes-have-been-shot.png",
+      "caption": "Some holes have been shot through the shields."
+    },
+    {
+      "link": "/images/shots/l/1052706-star-island-atari-8-bit-screenshot-about-to-be-hit-by-the.png",
+      "caption": "About to be hit by the cannon."
+    }
+  ],
+  "cover": []
+}

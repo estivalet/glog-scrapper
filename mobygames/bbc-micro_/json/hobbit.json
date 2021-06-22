@@ -1,0 +1,72 @@
+{
+  "name": "The Hobbit",
+  "shortName": "hobbit",
+  "description": "Relive Tolkien's The Hobbit as Bilbo Baggins.  A piece of  Interactive fiction (with graphics to illustrate locations), you follow the plot of Tolkien's book (before the Lord of the Rings trilogy), starting with an encounter with Gandalf and Thorin.  The other characters can make their own moves independently of the player and their actions can sometimes result in a situation where it is not possible to complete the game. Every character and object in the game has a calculated mass which affects how they can be manipulated by the player.<br><br>The implementation is rich enough that you can play entirely without pictures if you wish.  Also, gameplay happens in realtime, uncommon for interactive fiction.  The game's parser, called Inglish took as long to develop as the rest of the game. In contrast to other text-based games of the period which were based on simple verb-noun parsers, Inglish allowed for complete sentences to be entered.",
+  "publishedBy": "Melbourne House",
+  "developedBy": "Beam Software Pty., Ltd.",
+  "released": "1983",
+  "alsoFor": "Amstrad CPC, Apple II, Commodore 64, Macintosh, MSX, Oric, PC Booter, ZX Spectrum | Combined View",
+  "genre": "Adventure",
+  "perspective": "1st-person",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "Licensed",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/bbc-micro_/hobbit",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Interactive fiction / text adventure",
+  "setting": "",
+  "release": [
+    {
+      "system": "BBC Micro",
+      "releases": [
+        {
+          "publisher": "Melbourne House",
+          "developer": "Beam Software Pty., Ltd.",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1983",
+          "ean13": "",
+          "comments": "Cassette tape release"
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/511144-the-hobbit-bbc-micro-screenshot-starting-location-the-picture.png",
+      "caption": "Starting location. The picture and description screens are separate."
+    },
+    {
+      "link": "/images/shots/l/511145-the-hobbit-bbc-micro-screenshot-captured-by-goblins-and-thrown.png",
+      "caption": "Captured by Goblins and thrown into this dungeon."
+    },
+    {
+      "link": "/images/shots/l/511146-the-hobbit-bbc-micro-screenshot-thorin-apparently-wants-to.png",
+      "caption": "Thorin apparently wants to get out as soon as possible. It gets a bit funny when he refuses your requests to aid you in escaping."
+    },
+    {
+      "link": "/images/shots/l/511147-the-hobbit-bbc-micro-screenshot-you-meet-elrond-here.png",
+      "caption": "You meet Elrond here."
+    },
+    {
+      "link": "/images/shots/l/511148-the-hobbit-bbc-micro-screenshot-trolls-cave.png",
+      "caption": "Trolls cave"
+    },
+    {
+      "link": "/images/shots/l/511149-the-hobbit-bbc-micro-screenshot-wandering-through-mountains.png",
+      "caption": "Wandering through mountains"
+    },
+    {
+      "link": "/images/shots/l/511150-the-hobbit-bbc-micro-screenshot-at-the-gate-to-mirkwood.png",
+      "caption": "At the gate to Mirkwood"
+    },
+    {
+      "link": "/images/shots/l/511151-the-hobbit-bbc-micro-screenshot-further-exploring-the-area.png",
+      "caption": "Further exploring the area nearby"
+    }
+  ],
+  "cover": []
+}

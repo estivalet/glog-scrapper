@@ -1,0 +1,56 @@
+{
+  "name": "Snark Hunt",
+  "shortName": "snark-hunt",
+  "description": "<i>Snark Hunt</i> is a 1 - 8 player strategy game for the 8-bit Atari.<br><br>Played on an 8 x 8 board, the player must determine the location of 1 - 9 snarks hidden somewhere on the board.  To determine their location, the player fires vorpal beams from any of the locations around the outside of the grid.  A vorpal beam travels in a straight line unless it comes near a snark.  A vorpal beam that runs directly into a snark is absorbed.  A vorpal beam that is fired next to a snark is redirected 90 degrees away from the snark.  This information is marked on the screen as the player discovers it, and the goal is to solve the snark locations in as few of screens possible.  After marking all snark locations, the player can ask to computer to confirm snark location.  <br><br>Either a computer or a player can hide the snarks. A time limit can be set from 25 to 975 ticks, which effects the final score.  ",
+  "publishedBy": "APX",
+  "developedBy": "",
+  "released": "1982",
+  "alsoFor": "",
+  "genre": "Strategy / tactics",
+  "perspective": "",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-8-bit/snark-hunt",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari 8-bit",
+      "releases": [
+        {
+          "publisher": "APX",
+          "developer": "",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1982",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/1051122-snark-hunt-atari-8-bit-screenshot-title-screen.png",
+      "caption": "Title Screen"
+    },
+    {
+      "link": "/images/shots/l/1051123-snark-hunt-atari-8-bit-screenshot-demonstration.png",
+      "caption": "Demonstration"
+    },
+    {
+      "link": "/images/shots/l/1051124-snark-hunt-atari-8-bit-screenshot-snark-hunting.png",
+      "caption": "Snark Hunting"
+    },
+    {
+      "link": "/images/shots/l/1051125-snark-hunt-atari-8-bit-screenshot-confirming-snark-location.png",
+      "caption": "Confirming Snark Location"
+    }
+  ],
+  "cover": []
+}

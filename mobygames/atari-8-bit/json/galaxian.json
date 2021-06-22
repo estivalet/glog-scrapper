@@ -1,0 +1,74 @@
+{
+  "name": "Galaxian",
+  "shortName": "galaxian",
+  "description": "<i>Galaxian</i> is a shoot 'em up in which the player is at the bottom of the screen, with an arrangement of aliens at the top. The player moves left and right to aim at an alien, then shoots a bullet up the screen, and the alien it hits is killed. The aliens are classed as Drones, Emissaries, Hornets and Commanders, with those higher up the screen scoring more points when destroyed. At set intervals an enemy will move down the screen towards you, escorting a bomber, which is a moment of high danger. Clear a wave and another is generated.",
+  "publishedBy": "Atari, Inc.",
+  "developedBy": "Namco Limited",
+  "released": "1982",
+  "alsoFor": "Apple II, Arcade, Atari 2600, Atari 5200, ColecoVision, Commodore 64, FM-7, MSX, NES, Palm OS, PC-6001, PC-88, PC Booter, Sharp X1, Sharp Zaurus, VIC-20, Wii, ZX Spectrum | Combined View",
+  "genre": "Action",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-8-bit/galaxian",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade, Shooter",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari 8-bit",
+      "releases": [
+        {
+          "publisher": "Atari, Inc.",
+          "developer": "Namco Limited",
+          "ported": "Atari, Inc.",
+          "country": " United States",
+          "releaseDate": "1982",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/153137-galaxian-atari-8-bit-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/153138-galaxian-atari-8-bit-screenshot-gameplay-on-the-first-level.png",
+      "caption": "Gameplay on the first level"
+    },
+    {
+      "link": "/images/shots/l/153139-galaxian-atari-8-bit-screenshot-blasting-some-attacking-galaxians.png",
+      "caption": "Blasting some attacking Galaxians!"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/111712-galaxian-atari-8-bit-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Atari 8-bit"
+    },
+    {
+      "link": "/images/covers/l/413534-galaxian-atari-8-bit-manual.png",
+      "scanOf": "Manual",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Atari 8-bit"
+    },
+    {
+      "link": "/images/covers/l/413535-galaxian-atari-8-bit-manual.png",
+      "scanOf": "Manual",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Atari 8-bit"
+    }
+  ]
+}

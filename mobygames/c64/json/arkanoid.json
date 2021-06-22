@@ -1,0 +1,128 @@
+{
+  "name": "Arkanoid",
+  "shortName": "arkanoid",
+  "description": "The original <a href=\"https://www.mobygames.com/search/quick?game=Breakout\">Breakout</a> concept involves controlling a bat at the bottom of the screen and using it to catch and direct a ball so as to hit all the bricks which are arranged at the top of the screen. It was unpopular for over a decade, before Taito revived it with some new ideas in this arcade game.<br><br>The game's plot redefines the bat as a Vaus spaceship, the ball as an energy bolt, and the bricks form a mysterious wall stopping the ship from progressing to safety.<br><br>By the mid-80s, power-ups were popular in most types of arcade games, and <i>Arkanoid</i> features them. They are caught by positioning the bat below them as they fall (meaning that you risk missing the ball if you go for them at the wrong time). The power-ups include lasers (which are mounted to each side of the ship and allow you to shoot out the blocks), a catching device (so as to be able to fire the ball off at a different angle every time you hit it) and one that slows the bolt down.",
+  "publishedBy": "Taito Software Inc.",
+  "developedBy": "Taito Corporation",
+  "released": "Jul, 1988",
+  "alsoFor": "Amiga, Amstrad CPC, Apple II, Apple IIgs, Arcade, Atari 8-bit, Atari ST, BBC Micro, DOS, Macintosh, MSX, NES, PC-88, PC-98, Sharp X1, Thomson MO, Thomson TO, TRS-80 CoCo, ZX Spectrum | Combined View",
+  "genre": "Action",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/arkanoid",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade, Paddle / Pong",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "Imagine",
+          "developer": "Taito Corporation",
+          "ported": "Probe Software Ltd.",
+          "country": " France, Germany, Italy, United Kingdom",
+          "releaseDate": "1987",
+          "ean13": "5 013156 110795",
+          "comments": "Floppy Disk version"
+        },
+        {
+          "publisher": "Taito Software Inc.",
+          "developer": "Taito Corporation",
+          "ported": "Probe Software Ltd.",
+          "country": " United States",
+          "releaseDate": "Jul, 1988",
+          "ean13": "",
+          "comments": ""
+        },
+        {
+          "publisher": "Hit Squad, The",
+          "developer": "Taito Corporation",
+          "ported": "Probe Software Ltd.",
+          "country": " Germany, Italy, United Kingdom",
+          "releaseDate": "1990",
+          "ean13": "5 013156 410338",
+          "comments": "Budget re-release"
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/42337-arkanoid-commodore-64-screenshot-title-screen.gif",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/42338-arkanoid-commodore-64-screenshot-the-opening-story.gif",
+      "caption": "The opening story"
+    },
+    {
+      "link": "/images/shots/l/42339-arkanoid-commodore-64-screenshot-gameplay-on-the-first-level.gif",
+      "caption": "Gameplay on the first level"
+    },
+    {
+      "link": "/images/shots/l/42340-arkanoid-commodore-64-screenshot-about-to-catch-one-of-the.gif",
+      "caption": "About to catch one of the &quot;power ups&quot;"
+    },
+    {
+      "link": "/images/shots/l/42341-arkanoid-commodore-64-screenshot-on-the-third-level-with-the.gif",
+      "caption": "On the third level with the large paddle"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/21015-arkanoid-commodore-64-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "France , Germany , Italy  and United Kingdom",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/21016-arkanoid-commodore-64-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "France , Germany , Italy  and United Kingdom",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/29268-arkanoid-commodore-64-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Cardboard Folder",
+      "country": "United States",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/73955-arkanoid-commodore-64-inside-cover.jpg",
+      "scanOf": "Inside Cover",
+      "packaging": "Cardboard Folder",
+      "country": "United States",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/73956-arkanoid-commodore-64-inside-cover.jpg",
+      "scanOf": "Inside Cover",
+      "packaging": "Cardboard Folder",
+      "country": "United States",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/29269-arkanoid-commodore-64-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Cardboard Folder",
+      "country": "United States",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/24066-arkanoid-commodore-64-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Cardboard Folder",
+      "country": "United States",
+      "platforms": "Commodore 64"
+    }
+  ]
+}

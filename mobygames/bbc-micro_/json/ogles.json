@@ -1,0 +1,84 @@
+{
+  "name": "Ogles",
+  "shortName": "ogles",
+  "description": "<i>Ogles</i> is a pattern matching action puzzle game. Down the bottom of the screen are a number of columns and above these LEGO blocks (here called ogles) in various colours move back and forth. When starting out the right most column is filled with blocks and the player's task is to recreate this stack in the corresponding column on the left side of the screen. This is done by controlling a dog called Flash and picking up the right blocks and then dropping these in the right column. If a block is dropped in the wrong column it will automatically be dumped into a bin. Once the stack has fully been recreated the game moves on to the next level which features one extra stack to recreate. <br><br>There are two difficulty levels: one for younger persons and one for older persons. The difference lie in that the second level is played against a clock and features a scoring system. Each correctly placed block is worth ten points while a block dumped into the bin leads to twenty points being decreased. When completing a level ten time the number left on the clock is given in extra points. ",
+  "publishedBy": "Games Machine Ltd.",
+  "developedBy": "",
+  "released": "1983",
+  "alsoFor": "",
+  "genre": "Action, Puzzle",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/bbc-micro_/ogles",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "",
+  "setting": "",
+  "release": [
+    {
+      "system": "BBC Micro",
+      "releases": [
+        {
+          "publisher": "Games Machine Ltd.",
+          "developer": "",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1983",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/771544-ogles-bbc-micro-screenshot-title-screen-without-title.png",
+      "caption": "Title screen (without title)"
+    },
+    {
+      "link": "/images/shots/l/771545-ogles-bbc-micro-screenshot-hall-of-fame.png",
+      "caption": "Hall of Fame"
+    },
+    {
+      "link": "/images/shots/l/771546-ogles-bbc-micro-screenshot-level-selection.png",
+      "caption": "Level selection"
+    },
+    {
+      "link": "/images/shots/l/771547-ogles-bbc-micro-screenshot-starting-out.png",
+      "caption": "Starting out"
+    },
+    {
+      "link": "/images/shots/l/771548-ogles-bbc-micro-screenshot-grabbing-a-block.png",
+      "caption": "Grabbing a block"
+    },
+    {
+      "link": "/images/shots/l/771549-ogles-bbc-micro-screenshot-drop-them-in-the-right-column.png",
+      "caption": "Drop them in the right column"
+    },
+    {
+      "link": "/images/shots/l/771550-ogles-bbc-micro-screenshot-wrong-ones-end-up-in-the-bin.png",
+      "caption": "Wrong ones end up in the bin"
+    },
+    {
+      "link": "/images/shots/l/771551-ogles-bbc-micro-screenshot-completed.png",
+      "caption": "Completed"
+    },
+    {
+      "link": "/images/shots/l/771552-ogles-bbc-micro-screenshot-two-stacks.png",
+      "caption": "Two stacks"
+    },
+    {
+      "link": "/images/shots/l/771553-ogles-bbc-micro-screenshot-three-stacks.png",
+      "caption": "Three stacks"
+    },
+    {
+      "link": "/images/shots/l/771554-ogles-bbc-micro-screenshot-level-2-with-score-and-clock.png",
+      "caption": "Level 2 with score and clock"
+    }
+  ],
+  "cover": []
+}

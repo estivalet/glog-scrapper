@@ -1,0 +1,82 @@
+{
+  "name": "Timebomb",
+  "shortName": "timebomb",
+  "description": "<i>Timebomb</i> is a simple arcade game (but thinking is very helpful). The player must diffuse six timebombs, before the time runs out. He can only move on blue squares (disappearing after single stepping - player can stuck with no any possibility of moves), and must avoid the skulls and boots. Each bomb a has time limit. The player has 3 lives - if he lost all lives, the game is over.",
+  "publishedBy": "CDS Microsystems",
+  "developedBy": "",
+  "released": "1984",
+  "alsoFor": "",
+  "genre": "Action, Puzzle",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/zx-spectrum/timebomb",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade",
+  "setting": "",
+  "release": [
+    {
+      "system": "ZX Spectrum",
+      "releases": [
+        {
+          "publisher": "CDS Microsystems",
+          "developer": "",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1984",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/682620-timebomb-zx-spectrum-screenshot-instructions.png",
+      "caption": "Instructions"
+    },
+    {
+      "link": "/images/shots/l/682621-timebomb-zx-spectrum-screenshot-game-starts.png",
+      "caption": "Game starts"
+    },
+    {
+      "link": "/images/shots/l/682622-timebomb-zx-spectrum-screenshot-i-can-t-move-on-black-poles.png",
+      "caption": "I can't move on black poles"
+    },
+    {
+      "link": "/images/shots/l/682623-timebomb-zx-spectrum-screenshot-yellow-boot-is-deadly-dangerous.png",
+      "caption": "Yellow boot is deadly dangerous"
+    },
+    {
+      "link": "/images/shots/l/682624-timebomb-zx-spectrum-screenshot-high-scores.png",
+      "caption": "High scores"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/312899-timebomb-zx-spectrum-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/312900-timebomb-zx-spectrum-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/312901-timebomb-zx-spectrum-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Cadenza Bog",
+  "shortName": "cadenza-bog",
+  "description": "<i>Cadenza Bog</i> is a word game in medium or high resolution for one player. You have to make words out of 16 letters that are selected at random (but the probability that a letter appears is directly proportional to to the number of times that it appears in the dictionary file). The letters are arranged in cubes in a 4 x 4 pattern. Words must be formed from adjacent cubes and no cube can be used more than once. Every Cube has at least three and at most eight adjacent cubes. <br><br>When you think you found all possible words press quit and see if the computer can beat you. A limitation is that the computer only can find words with at most six letters in them while a human player can find words with up to eight letters. The dictionary contains 2400 words, but it is possible to switch it with a larger one. The game is written in OSS Personal Pascal 2.0.\n",
+  "publishedBy": "Cadenza Software",
+  "developedBy": "Cadenza Software",
+  "released": "1988",
+  "alsoFor": "",
+  "genre": "Educational",
+  "perspective": "",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-st/cadenza-bog",
+  "visual": "",
+  "gamePlay": "",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari ST",
+      "releases": [
+        {
+          "publisher": "Cadenza Software",
+          "developer": "Cadenza Software",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1988",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/330960-cadenza-bog-atari-st-screenshot-title-and-info-box.png",
+      "caption": "Title and info box"
+    },
+    {
+      "link": "/images/shots/l/330961-cadenza-bog-atari-st-screenshot-starting-a-game-in-medium.png",
+      "caption": "Starting a game in medium resolution"
+    },
+    {
+      "link": "/images/shots/l/330962-cadenza-bog-atari-st-screenshot-that-was-an-illegal-word.png",
+      "caption": "That was an illegal word..."
+    },
+    {
+      "link": "/images/shots/l/330963-cadenza-bog-atari-st-screenshot-found-three-words.png",
+      "caption": "Found three words"
+    },
+    {
+      "link": "/images/shots/l/330964-cadenza-bog-atari-st-screenshot-the-computer-won.png",
+      "caption": "The computer won"
+    },
+    {
+      "link": "/images/shots/l/330965-cadenza-bog-atari-st-screenshot-playing-in-high-res.png",
+      "caption": "Playing in high res"
+    },
+    {
+      "link": "/images/shots/l/330966-cadenza-bog-atari-st-screenshot-the-computer-won-big-time.png",
+      "caption": "The computer won big time."
+    }
+  ],
+  "cover": []
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Lila",
+  "shortName": "lila",
+  "description": "<em>Lila</em> is an implementation of the ancient Indian board game <em>Leela</em> (<a href=\"https://en.wikipedia.org/wiki/Leela_%28game%29\">Wikipedia</a>, later named <a href=\"https://en.wikipedia.org/wiki/Snakes_and_ladders\">Snakes and Ladders</a>) and is using terminology of modern interpretation of the game described in the book &quot;The Yoga of Snakes and Arrows: The Leela of Self-Knowledge&quot; (1993) by Harish Johari.<br><br>On a board with 72 fields, up to six players start unborn in field 68. To start moving into life, the player has to roll a six on the dice. If doing so, the player is set on field number 6 (&quot;delusion&quot;). Moving on the fields is straight: you roll a the dice and move forward by the number of fields. The ultimate goal is to complete the circle and reach the field 68 again. On the board are also two types of line connections between fields called &quot;snakes&quot; and &quot;ladders&quot;. Entering a field being a starting point of one of those two lines, the player is directly moved to the ending field of those lines. Snakes are negative effects and move the player to a field below on the board, while ladders are shortcuts to fields with higher numbers. If a player if walking over field 68 (e.g. from field 64 with a six), no further movement is possible until this player is rolling the number to reach field 72 (&quot;Tamoguna&quot;) exactly and then reenters the board.<br><br>Each field is entitled with the names from Harish Johari's book and the game creator advises to read the comments in the book on entering a field (those texts are not included in the game). Games can be loaded and saved. Dice rolls can either be simulated by the computer or the value of a real dice can be entered as number. All in-game texts are in German language.",
+  "publishedBy": "",
+  "developedBy": "",
+  "released": "May, 2001",
+  "alsoFor": "",
+  "genre": "Strategy / tactics",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-st/lila",
+  "visual": "",
+  "gamePlay": "Board game",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari ST",
+      "releases": []
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/805804-lila-atari-st-screenshot-starting-view-with-the-board-green.png",
+      "caption": "Starting view with the board: green are ladders, red are snakes. Field 68 is in the middle of the top row (640x480x16 colors)"
+    },
+    {
+      "link": "/images/shots/l/805805-lila-atari-st-screenshot-in-game-help-and-explanations-all.png",
+      "caption": "In-game help and explanations (all German)"
+    },
+    {
+      "link": "/images/shots/l/805806-lila-atari-st-screenshot-the-game-is-starting.png",
+      "caption": "The game is starting"
+    },
+    {
+      "link": "/images/shots/l/805807-lila-atari-st-screenshot-the-snake-neid-grudge-is-pulling.png",
+      "caption": "The snake &quot;Neid&quot; (grudge) is pulling one player down to a lower field"
+    },
+    {
+      "link": "/images/shots/l/805808-lila-atari-st-screenshot-a-ladder-erbarmen-mercy-is-a-huge.png",
+      "caption": "A ladder &quot;Erbarmen&quot; (mercy) is a huge lift from field 17 to 69: but the player passed 68..."
+    },
+    {
+      "link": "/images/shots/l/805809-lila-atari-st-screenshot-first-two-players-reached-the-end.png",
+      "caption": "First two players reached the end, while four are still seeking to do so"
+    },
+    {
+      "link": "/images/shots/l/805810-lila-atari-st-screenshot-impression-of-the-game-running-on.png",
+      "caption": "Impression of the game running on a monochrome monitor (640x400x2 colors)"
+    }
+  ],
+  "cover": []
+}

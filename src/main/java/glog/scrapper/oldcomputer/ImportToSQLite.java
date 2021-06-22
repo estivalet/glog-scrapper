@@ -20,6 +20,19 @@ public class ImportToSQLite {
 
 	private List<OldComputer> computers = new ArrayList<OldComputer>();
 
+	private static String cleanTextContent(String text) {
+		// strips off all non-ASCII characters
+		text = text.replaceAll("[^\\x00-\\x7F]", " ");
+
+		// erases all the ASCII control characters
+		text = text.replaceAll("[\\p{Cntrl}&&[^\r\n\t]]", " ");
+
+		// removes non-printable characters from Unicode
+		text = text.replaceAll("\\p{C}", " ");
+
+		return text.trim();
+	}
+
 	/**
 	 * 
 	 */
@@ -57,7 +70,7 @@ public class ImportToSQLite {
 	 * @return
 	 */
 	private Connection connect() {
-		String url = "jdbc:sqlite:C:\\luisoft\\develop\\octupusgdb-web\\octupusgdb.db";
+		String url = "jdbc:sqlite:C:\\temp\\octupus.db";
 		Connection conn = null;
 		try {
 			conn = DriverManager.getConnection(url);
@@ -80,7 +93,6 @@ public class ImportToSQLite {
 
 		for (String manufacturer : manufacturers) {
 			String sql = "INSERT INTO manufacturer (name)" + "values (?)";
-
 			try (Connection conn = this.connect(); PreparedStatement pstmt = conn.prepareStatement(sql)) {
 				pstmt.setString(1, manufacturer);
 				pstmt.executeUpdate();
@@ -112,7 +124,6 @@ public class ImportToSQLite {
 
 		sql = "INSERT INTO system (name, name_alt, manufacturer_id, category_id, type, country, year, description, price, active)"
 				+ "values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)";
-
 		try (Connection conn = this.connect(); PreparedStatement pstmt = conn.prepareStatement(sql)) {
 			String description = oc.getDescription();
 			description = description.replaceAll("\n", "<br>");
@@ -122,7 +133,7 @@ public class ImportToSQLite {
 			pstmt.setInt(4, oc.getCategoryId());
 			pstmt.setString(5, oc.getType());
 			pstmt.setString(6, oc.getOrigin());
-			pstmt.setString(7, oc.getYear());
+			pstmt.setString(7, cleanTextContent(oc.getYear()));
 			pstmt.setString(8, description);
 			pstmt.setString(9, oc.getPrice());
 			pstmt.setInt(10, 0);
@@ -201,14 +212,15 @@ public class ImportToSQLite {
 	}
 
 	/**
-	 * WARNING! Must have the CATEGORY table created and populated BEFORE running this script. Check octupusgdb project.
+	 * WARNING! Must have the CATEGORY table created and populated BEFORE running
+	 * this script. Check octupusgdb project.
 	 * 
 	 * @param args
 	 * @throws SQLException
 	 */
 	public static void main(String[] args) throws SQLException {
 		ImportToSQLite imp = new ImportToSQLite();
-		imp.deleteData();
+//		imp.deleteData();
 		imp.importData();
 	}
 

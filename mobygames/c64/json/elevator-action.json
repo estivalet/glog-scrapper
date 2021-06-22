@@ -1,0 +1,129 @@
+{
+  "name": "Elevator Action",
+  "shortName": "elevator-action",
+  "description": "You are Agent 17 (codename: &quot;Otto&quot;). Your mission is to secure all top secret documents from a security building and escape in the getaway car, located in the basement of the building.<br><br>Enemies spies are scattered throughout the 30-floor building and they have only one mission: execute Agent 17 at all costs. There are several ways in which Agent 17 can kill them:<ul>\n<li>Shooting them with his gun.</li>\n<li>Kicking them by jumping onto them.</li>\n<li>Shooting a light on the ceiling while in an elevator, dropping the light onto one of them.</li>\n<li>Crushing them with an elevator.</li>\n</ul>Whenever a light has been dropped, the hallways will be dark for a short period of time, making the enemy spies harder to see. The same holds true for hallways that are already dark.<br><br>While Otto is in an elevator, he will have complete control of it by moving up or down. Agent 17 can still get killed if he's already in an elevator if a bullet's trajectory is aimed at it.. When Otto is not in an elevator, it will move from floor to floor automatically, even when enemy spies are in it. Otto is able to leap over the elevator gaps, but he must be as close to the edge as possible without falling off in order to make the jump safely. If there is an elevator cable in the way, however, it will block him, causing him to fall. <br><br>Just because the game is called <i>Elevator Action</i> doesn't mean that elevators are the only means of travel. There are also escalators which you can ride up or down, useful if you want to avoid gunfire and don't have time to jump.<br><br>Otto must go into the rooms with red doors to collect the top secret documents. If he tries to get to his car without getting all the documents, he cannot escape and must go back and collect the remaining documents. Once he has all the documents and drives away, he then proceeds to the next building.<br><br>If Otto takes too much time to collect the documents, the alarm will go off, and he will have trouble controlling the elevators, which will take time to react. Bad guys will be especially aggressive. The alarm doesn't go off when Otto loses a life, it only resets after finishing a building. Besides ducking, bad guys may also drop themselves and lay flat on the floor. It's virtually impossible for Otto to shoot bad guys when they do this. Also, Otto cannot duck when in an elevator.",
+  "publishedBy": "Quicksilva Ltd.",
+  "developedBy": "Taito Corporation",
+  "released": "1987",
+  "alsoFor": "Amstrad CPC, Arcade, Atari 2600, FM-7, Game Boy, MSX, NES, Nintendo 3DS, Nintendo Switch, PC-88, PlayStation 4, Sharp X1, SG-1000, Wii, Wii U, Windows, ZX Spectrum | Combined View",
+  "genre": "Action",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/elevator-action",
+  "visual": "2D scrolling",
+  "gamePlay": "Platform, Shooter, Stealth",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "Quicksilva Ltd.",
+          "developer": "Taito Corporation",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1987",
+          "ean13": "",
+          "comments": ""
+        },
+        {
+          "publisher": "Bug-Byte Software Ltd.",
+          "developer": "Taito Corporation",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1988",
+          "ean13": "5 013248 001499",
+          "comments": "Budget release"
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/53222-elevator-action-commodore-64-screenshot-how-to-play-the-game.gif",
+      "caption": "How to play the game"
+    },
+    {
+      "link": "/images/shots/l/53223-elevator-action-commodore-64-screenshot-title.gif",
+      "caption": "Title"
+    },
+    {
+      "link": "/images/shots/l/53224-elevator-action-commodore-64-screenshot-shooting-the-enemy.gif",
+      "caption": "Shooting the enemy"
+    },
+    {
+      "link": "/images/shots/l/53225-elevator-action-commodore-64-screenshot-going-through-the-door.gif",
+      "caption": "Going through the door"
+    },
+    {
+      "link": "/images/shots/l/53226-elevator-action-commodore-64-screenshot-who-put-out-the-lights.gif",
+      "caption": "Who put out the lights?"
+    },
+    {
+      "link": "/images/shots/l/53227-elevator-action-commodore-64-screenshot-going-down-an-escalator.gif",
+      "caption": "Going down an escalator"
+    },
+    {
+      "link": "/images/shots/l/53228-elevator-action-commodore-64-screenshot-there-are-too-many.gif",
+      "caption": "There are too many elevators here"
+    },
+    {
+      "link": "/images/shots/l/53229-elevator-action-commodore-64-screenshot-escape-in-the-getaway.gif",
+      "caption": "Escape in the getaway car"
+    },
+    {
+      "link": "/images/shots/l/53230-elevator-action-commodore-64-screenshot-inside-the-next-building.gif",
+      "caption": "Inside the next building"
+    },
+    {
+      "link": "/images/shots/l/53231-elevator-action-commodore-64-screenshot-darn-forgot-to-get.gif",
+      "caption": "&quot;Darn. Forgot to get all the secret documents&quot;"
+    },
+    {
+      "link": "/images/shots/l/53232-elevator-action-commodore-64-screenshot-hall-of-fame.gif",
+      "caption": "Hall of Fame"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/674933-elevator-action-commodore-64-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Clamshell",
+      "country": "United Kingdom",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/721376-elevator-action-commodore-64-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/721377-elevator-action-commodore-64-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/721378-elevator-action-commodore-64-spine-sides.jpg",
+      "scanOf": "Spine/Sides",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/721379-elevator-action-commodore-64-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "Commodore 64"
+    }
+  ]
+}

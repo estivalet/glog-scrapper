@@ -1,0 +1,72 @@
+{
+  "name": "Briscola",
+  "shortName": "briscola",
+  "description": "In the game you should challenge computer in the Italian card game Briscola. It is a trick-taking card game for two players (in this implementation), played with a standard Italian 40-card deck. After the deck is shuffled, each player is dealt three cards. The next card is Briscola, and it represents the trump suit for the game. It is placed face up on the playing surface, and the remaining deck is placed face down, covering half of the up-turned card. Cards have different ranks and different point values. The trick consists of two cards of each hand, and it is taken by the hand with highest card. Also, players are not required to follow suit. So, based on your strategy, you should collect more points than your computer opponent will do. The game was made in Italian.",
+  "publishedBy": "Systems Editoriale s.r.l.",
+  "developedBy": "",
+  "released": "1988",
+  "alsoFor": "",
+  "genre": "Strategy / tactics",
+  "perspective": "",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/briscola",
+  "visual": "",
+  "gamePlay": "Board game, Cards / tiles, Platform",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "Systems Editoriale s.r.l.",
+          "developer": "",
+          "ported": "",
+          "country": " Italy",
+          "releaseDate": "1988",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/285549-briscola-commodore-64-screenshot-title-screen-and-main-menu.png",
+      "caption": "Title screen and main menu"
+    },
+    {
+      "link": "/images/shots/l/285550-briscola-commodore-64-screenshot-the-cards-are-shuffled-in.png",
+      "caption": "The cards are shuffled in the introduction."
+    },
+    {
+      "link": "/images/shots/l/285551-briscola-commodore-64-screenshot-instructions-1st-part.png",
+      "caption": "Instructions (1st part)"
+    },
+    {
+      "link": "/images/shots/l/285552-briscola-commodore-64-screenshot-instructions-2nd-part.png",
+      "caption": "Instructions (2nd part)"
+    },
+    {
+      "link": "/images/shots/l/285553-briscola-commodore-64-screenshot-introducing-yourself.png",
+      "caption": "Introducing yourself."
+    },
+    {
+      "link": "/images/shots/l/285554-briscola-commodore-64-screenshot-selecting-the-card.png",
+      "caption": "Selecting the card."
+    },
+    {
+      "link": "/images/shots/l/285555-briscola-commodore-64-screenshot-the-trick-is-taken-by-the.png",
+      "caption": "The trick is taken by the computer player."
+    },
+    {
+      "link": "/images/shots/l/285556-briscola-commodore-64-screenshot-the-computer-has-won.png",
+      "caption": "The computer has won."
+    }
+  ],
+  "cover": []
+}

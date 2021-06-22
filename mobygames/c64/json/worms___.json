@@ -1,0 +1,95 @@
+{
+  "name": "Worms?",
+  "shortName": "worms___",
+  "description": "<i>Worms?</i> is based on the classic pen and paper game <a href=\"https://www.mobygames.com/game/c64/dots_\">Dots and Boxes</a>, but instead of drawing four lines connecting dots to make a box, you have to draw six lines (a trail) to connect dots placed at a diagonal angle to complete a territory. To draw a trail, you control a worm-like creature called a SAIL (Super Artificially Intelligent Lifeforms) and you and up to three other computer controlled SAIL's move about the single screen drawing trails to connect the grid of dots. <br><br>There are three modes of control over your SAIL and these are New, Auto and Wild. New allows you manual control over your SAIL and once it detects a pattern of movement will take over and repeat the pattern. Auto allows the computer to control your SAIL and to make intelligent moves and finally Wild lets the computer move the SAIL in random directions.<br><br>As a SAIL moves it leaves behind a coloured trail and if a SAIL of a different colour touches the trail then it changes to that colour. Once a dot has six trails connecting to other dots then the trail stays that colour for the duration of the game and becomes a territory with a point given to that player. A SAIL cannot cross a trail turned into a territory or move to a dot occupied by another SAIL so if a SAIL is unable to move then it is removed from the screen and game over. Once all SAIL's have ended their game then the amount of points are added up and the winner is the SAIL with the most. ",
+  "publishedBy": "Electronic Arts, Inc.",
+  "developedBy": "",
+  "released": "Oct, 1983",
+  "alsoFor": "",
+  "genre": "Action, Strategy / tactics",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/worms___",
+  "visual": "",
+  "gamePlay": "",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "Electronic Arts, Inc.",
+          "developer": "",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "Oct, 1983",
+          "ean13": "",
+          "comments": ""
+        },
+        {
+          "publisher": "Nu Wave Software",
+          "developer": "",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1987",
+          "ean13": "9 780854 010929",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/691079-worms-commodore-64-screenshot-loading-screen-uk.png",
+      "caption": "Loading Screen (UK)."
+    },
+    {
+      "link": "/images/shots/l/691080-worms-commodore-64-screenshot-title-screen-usa.png",
+      "caption": "Title Screen (USA)."
+    },
+    {
+      "link": "/images/shots/l/691081-worms-commodore-64-screenshot-title-screen-uk.png",
+      "caption": "Title Screen (UK)."
+    },
+    {
+      "link": "/images/shots/l/691082-worms-commodore-64-screenshot-options.png",
+      "caption": "Options."
+    },
+    {
+      "link": "/images/shots/l/691083-worms-commodore-64-screenshot-purple-has-more-territories.png",
+      "caption": "Purple has more territories at the moment."
+    },
+    {
+      "link": "/images/shots/l/691084-worms-commodore-64-screenshot-the-screen-is-filling-up.png",
+      "caption": "The screen is filling up."
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/523433-worms-commodore-64-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Cardboard Folder",
+      "country": "United States",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/523434-worms-commodore-64-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Cardboard Folder",
+      "country": "United States",
+      "platforms": "Commodore 64"
+    },
+    {
+      "link": "/images/covers/l/523435-worms-commodore-64-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Cardboard Folder",
+      "country": "United States",
+      "platforms": "Commodore 64"
+    }
+  ]
+}

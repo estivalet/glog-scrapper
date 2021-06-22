@@ -1,0 +1,60 @@
+{
+  "name": "Blindganger",
+  "shortName": "blindganger",
+  "description": "In <i>Blindganger</i> you play a blind person who is stuck in a sewer system. You have to find the exit by listening to the environment sounds. &quot;Ssshh&quot; stands for no obstacle, &quot;Kunk&quot; for sewer wall, &quot;Beep&quot; for deep well and &quot;Tink&quot; for the exit. Every couple of minutes, a wave flushes you through the sewer and you have to make your way back.\nWhen the time expires or you make it to the exit, an overview of the map is shown.\nBlindganger was published in the dutch magazine &quot;Commodore Dossier&quot; issue 17 in 1988. It was written in BASIC with some assembler routines.",
+  "publishedBy": "Commodore Dossier",
+  "developedBy": "",
+  "released": "1988",
+  "alsoFor": "",
+  "genre": "Action",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/blindganger",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "Commodore Dossier",
+          "developer": "",
+          "ported": "",
+          "country": " The Netherlands",
+          "releaseDate": "1988",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/1037135-blindganger-commodore-64-screenshot-preparing-the-maze.png",
+      "caption": "Preparing the maze"
+    },
+    {
+      "link": "/images/shots/l/1037136-blindganger-commodore-64-screenshot-game-start.png",
+      "caption": "Game start"
+    },
+    {
+      "link": "/images/shots/l/1037137-blindganger-commodore-64-screenshot-help-menu.png",
+      "caption": "Help menu"
+    },
+    {
+      "link": "/images/shots/l/1037138-blindganger-commodore-64-screenshot-game-over-screen-with.png",
+      "caption": "Game over screen with bug. In line 3670 it should say 255 not 244."
+    },
+    {
+      "link": "/images/shots/l/1037139-blindganger-commodore-64-screenshot-game-over-screen-with.png",
+      "caption": "Game over screen with the line 3670 bug fixed."
+    }
+  ],
+  "cover": []
+}

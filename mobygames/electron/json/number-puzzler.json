@@ -1,0 +1,39 @@
+{
+  "name": "Number Puzzler",
+  "shortName": "number-puzzler",
+  "description": "<i>Number Puzzler</i> is a collection of four educational number games for two players, either one person vs the computer or two players head to head.<br><br>The four games in this collection are Addition, Subtraction, Adds &amp; Subs and Magic Square. All the games are turn based and, in the first three games is very similar. These games are based on Noughts &amp; Crosses (also known as Tic-Tac-Toe) and the objective is to change the colour of three connected cells on the grid to the player's colour. This is done by answering math questions where the answer is a number and the number corresponds to an unoccupied cell on the grid.<ul>\n<li>In the Addition game two numbers are displayed on screen in the lower left corner. The player may use either number or their sum, so if the numbers 4 &amp; 5 were displayed the player could use 4, 5, or 9.<li>In the Subtraction game a single number is used and the player may use either the number or its components so if 9 were displayed the player could use 9, 1 or 8, 2 or 7, 3 or 6, or 4 or 5.<li>\nIn the Adds &amp; Subs game two numbers and the player can choose from either number, their sum, or any of their components</ul><br><br>The Magic Square game prompts the player for a number in the range 3 - 20. It then displays a 3x3 grid with some numbers completed. The object is to complete the square by putting numbers into the remaining cells of the grid so that all lines, horizontal, vertical and diagonal each adds up to the magic number.",
+  "publishedBy": "Acornsoft Limited",
+  "developedBy": "Applied Systems Knowledge Ltd.",
+  "released": "1984",
+  "alsoFor": "BBC Micro, Dragon 32/64 | Combined View",
+  "genre": "Educational, Strategy / tactics",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/electron/number-puzzler",
+  "visual": "",
+  "gamePlay": "",
+  "setting": "",
+  "release": [
+    {
+      "system": "Electron",
+      "releases": [
+        {
+          "publisher": "Acornsoft Limited",
+          "developer": "Applied Systems Knowledge Ltd.",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1984",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [],
+  "cover": []
+}

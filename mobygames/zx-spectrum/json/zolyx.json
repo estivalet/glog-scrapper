@@ -1,0 +1,99 @@
+{
+  "name": "Zolyx",
+  "shortName": "zolyx",
+  "description": "<i>Zolyx</i> is a <a href=\"https://www.mobygames.com/game/qix\">Qix</a> variant: the player is presented with a white playing field and controls a pixel. Whenever this pixel moves over the playfield, it leaves a line behind - and when the line becomes a closed form, it gets coloured. The goal is to colour 75% of the playfield; everything above gives bonus points for the high score list.<br><br>Well, it is not that easy. White pixels fly around the field and touching them result in death; similarly deadly is going backwards on a line. At least the player has two tricks to help himself: he can change the direction of the white pixels by pressing a button (limited) and jail them when drawing a closed line around them. This is possible because the pixels are either confined to the coloured or uncoloured parts. <br><br>After finishing a level a new one starts with three changes: one more white pixel, an extra life for the player and one additional usage of the &quot;direction change&quot; button.",
+  "publishedBy": "Firebird Software",
+  "developedBy": "",
+  "released": "1988",
+  "alsoFor": "Amstrad CPC, Commodore 16, Plus/4, Commodore 64 | Combined View",
+  "genre": "Action, Puzzle",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/zx-spectrum/zolyx",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade",
+  "setting": "",
+  "release": [
+    {
+      "system": "ZX Spectrum",
+      "releases": [
+        {
+          "publisher": "Firebird Software",
+          "developer": "",
+          "ported": "",
+          "country": " Denmark, France, Germany, Italy, The Netherlands, Spain, United Kingdom",
+          "releaseDate": "1988",
+          "ean13": "5 012439 011033",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/723019-zolyx-zx-spectrum-screenshot-title-screen.png",
+      "caption": "Title Screen"
+    },
+    {
+      "link": "/images/shots/l/723020-zolyx-zx-spectrum-screenshot-options.png",
+      "caption": "Options"
+    },
+    {
+      "link": "/images/shots/l/723021-zolyx-zx-spectrum-screenshot-lets-fill-the-area.png",
+      "caption": "Lets fill the area"
+    },
+    {
+      "link": "/images/shots/l/723022-zolyx-zx-spectrum-screenshot-filling-the-area.png",
+      "caption": "Filling the area"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/396506-zolyx-zx-spectrum-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Plastic Case",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/396507-zolyx-zx-spectrum-inside-cover.jpg",
+      "scanOf": "Inside Cover",
+      "packaging": "Plastic Case",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/396510-zolyx-zx-spectrum-inside-cover.jpg",
+      "scanOf": "Inside Cover",
+      "packaging": "Plastic Case",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/396508-zolyx-zx-spectrum-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Plastic Case",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/396509-zolyx-zx-spectrum-spine-sides.jpg",
+      "scanOf": "Spine/Sides",
+      "packaging": "Plastic Case",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/396511-zolyx-zx-spectrum-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Plastic Case",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    }
+  ]
+}

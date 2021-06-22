@@ -1,0 +1,124 @@
+{
+  "name": "Volfied",
+  "shortName": "volfied",
+  "description": "The space ship Monotros has returned after receiving an SOS call to save his home world (<i>Volfied</i>) from alien invaders and has to defeat a different boss and his minions in each level. <i>Volfied</i> is very similar to <a href=\"https://www.mobygames.com/game/qix\">Qix</a> -- the player takes control of a ship/object whose purpose is to roam the screen, forming shapes and removing them from the playfield. By way of reward, a picture is gradually revealed in the removed areas of the screen. The borders of the area not yet cleared by the player become the borders of the area the player's pointer can move along. When not cutting, the ship is protected by a shield that decreases over time. When it hits zero, the enemies can also killl you when not cutting.<br><br>The player's object must avoid contact with any of the enemies which float around the screen, as this will weaken and eventually destroy it. Barriers limit which parts of the border boxes can be formed through. The goal is to clear 80% or more of the screen, and each additional percent adds bonus points. Most levels contain power-up blocks that can be claimed when the area around it is removed. Possible power-ups can increase speed (S), freeze the enemies for a short time (T), prevent the shield from counting down for a little while (P), give a laser to shoot the smaller enemies (L), kill all the smaller enemies instantly (C) or grant a weapon to kill the boss (a red tomato only found in blocks with the red light).<br><br>This game allows for one- or two-player games in three difficulty levels, but offers no passwords or saved games across its numerous levels.",
+  "publishedBy": "Taito Software Inc.",
+  "developedBy": "Taito Corporation",
+  "released": "1991",
+  "alsoFor": "Amiga, Arcade, Atari ST, Commodore 64, DOS, FM Towns, J2ME, TurboGrafx-16, Wii | Combined View",
+  "genre": "Action, Puzzle",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/genesis/volfied",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade",
+  "setting": "",
+  "release": [
+    {
+      "system": "Genesis",
+      "releases": [
+        {
+          "publisher": "Taito Software Inc.",
+          "developer": "Taito Corporation",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1991",
+          "ean13": "",
+          "comments": ""
+        },
+        {
+          "publisher": "Taito Corporation",
+          "developer": "Taito Corporation",
+          "ported": "ITL Co., Ltd.",
+          "country": "",
+          "releaseDate": "",
+          "ean13": "4 988611 900208",
+          "comments": ""
+        },
+        {
+          "publisher": "Tec Toy Ind&uacute;stria de Brinquedos S.A.",
+          "developer": "Taito Corporation",
+          "ported": "ITL Co., Ltd.",
+          "country": " Brazil",
+          "releaseDate": "May, 1992",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/188721-volfied-genesis-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/188722-volfied-genesis-screenshot-options.png",
+      "caption": "Options"
+    },
+    {
+      "link": "/images/shots/l/188723-volfied-genesis-screenshot-intro.png",
+      "caption": "Intro"
+    },
+    {
+      "link": "/images/shots/l/188724-volfied-genesis-screenshot-game-start.png",
+      "caption": "Game start"
+    },
+    {
+      "link": "/images/shots/l/188728-volfied-genesis-screenshot-wprking-my-way-around-the-edges.png",
+      "caption": "Wprking my way around the edges gradually here"
+    },
+    {
+      "link": "/images/shots/l/188729-volfied-genesis-screenshot-done-it-the-explosions-are-my-reward.png",
+      "caption": "Done it - the explosions are my reward"
+    },
+    {
+      "link": "/images/shots/l/188730-volfied-genesis-screenshot-bonus-points.png",
+      "caption": "Bonus points"
+    },
+    {
+      "link": "/images/shots/l/188731-volfied-genesis-screenshot-level-2.png",
+      "caption": "Level 2"
+    },
+    {
+      "link": "/images/shots/l/188732-volfied-genesis-screenshot-almost-finished-this.png",
+      "caption": "Almost finished this"
+    },
+    {
+      "link": "/images/shots/l/188733-volfied-genesis-screenshot-level-3.png",
+      "caption": "Level 3"
+    },
+    {
+      "link": "/images/shots/l/188727-volfied-genesis-screenshot-game-over.png",
+      "caption": "Game over"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/230678-volfied-genesis-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Cartridge Case",
+      "country": "Japan",
+      "platforms": "Genesis"
+    },
+    {
+      "link": "/images/covers/l/230679-volfied-genesis-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Cartridge Case",
+      "country": "Japan",
+      "platforms": "Genesis"
+    },
+    {
+      "link": "/images/covers/l/230680-volfied-genesis-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Cartridge Case",
+      "country": "Japan",
+      "platforms": "Genesis"
+    }
+  ]
+}

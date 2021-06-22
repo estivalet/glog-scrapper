@@ -1,0 +1,47 @@
+{
+  "name": "Sila Tsikl",
+  "shortName": "sila-tsikl",
+  "description": "<i>Sila Tsikl</i> is a game made for the 2007 Bytemaniacos BASIC contest. It is an action puzzle title about Maripuri Goldween-Ambush, a theologian and occultist who is studying the Elements of the Triad to understand the balance of forces in life. The game is set inside a flask where elements need to be combined. The goal is to make elements disappear so they provide Primordial Energy to Maripuri.<br><br>The game is played in a single, fixed-screen environment that consists of a 14x7 board. Elements appear on the left side of the screen, one by one, and move steadily to the right. If they reach the end or another element, they remain in that position. The player only interacts by moving the element up or down, or making it go at a much quicker pace when a decision has been made.<br><br>There are four types of elements. The skull or the neutral one is the most regular. When a line of three neutral elements is created, horizontally or vertically, they disappear. The other elements are rock, paper and scissors. For those a match can only be created when a line, horizontal or vertical, is created using the concept of XYX, where X beats Y according to the principles of Rock, Paper, Scissors. That means that a line of Scissors, Paper, Scissors is a good match, but Rock, Paper, Rock isn't. The game ends when the board is full. The game keeps track of the score. There are eight difficulty levels. The higher the level, the more elements already present at the start and the faster the elements move.",
+  "publishedBy": "Mojon Twins, The",
+  "developedBy": "Mojon Twins, The",
+  "released": "2007",
+  "alsoFor": "",
+  "genre": "Action, Puzzle",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/zx-spectrum/sila-tsikl",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "",
+  "setting": "",
+  "release": [
+    {
+      "system": "ZX Spectrum",
+      "releases": [
+        {
+          "publisher": "Mojon Twins, The",
+          "developer": "Mojon Twins, The",
+          "ported": "",
+          "country": " Worldwide",
+          "releaseDate": "2007",
+          "ean13": "",
+          "comments": "download release"
+        }
+      ]
+    }
+  ],
+  "shot": [],
+  "cover": [
+    {
+      "link": "/images/covers/l/582691-sila-tsikl-zx-spectrum-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Electronic",
+      "country": "Worldwide",
+      "platforms": "ZX Spectrum"
+    }
+  ]
+}

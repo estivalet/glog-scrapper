@@ -1,0 +1,82 @@
+{
+  "name": "Zenji",
+  "shortName": "zenji",
+  "description": "<i>Zenji</i> is an action/strategy game where you control a rolling face throughout a maze. Each section of the maze can be rotated by the face. The goal is to turn the entire maze green by connecting each section of the maze to the source at the center of the screen. After all sections of the maze have been connected, you can move on to the next, more challenging level. In addition to having a time limit to complete your task, you need to avoid the flames and sparks which wander about the maze. From time to time a number will appear in a maze section and count down from 9 to 0. If you touch the number before it disappears, bonus points are earned. As the levels progress, the mazes become larger, trickier and more flames will appear.",
+  "publishedBy": "Activision, Inc.",
+  "developedBy": "Activision, Inc.",
+  "released": "Oct, 1984",
+  "alsoFor": "Atari 5200, Atari 8-bit, Commodore 64, MSX, ZX Spectrum | Combined View",
+  "genre": "Action",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/colecovision/zenji",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade, Puzzle elements",
+  "setting": "",
+  "release": [
+    {
+      "system": "ColecoVision",
+      "releases": [
+        {
+          "publisher": "Activision, Inc.",
+          "developer": "Activision, Inc.",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "Oct, 1984",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/42168-zenji-colecovision-screenshot-title-screen.gif",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/42170-zenji-colecovision-screenshot-connecting-paths-in-a-small-maze.gif",
+      "caption": "Connecting paths in a small maze"
+    },
+    {
+      "link": "/images/shots/l/42171-zenji-colecovision-screenshot-the-maze-starts-getting-bigger.gif",
+      "caption": "The maze starts getting bigger..."
+    },
+    {
+      "link": "/images/shots/l/42172-zenji-colecovision-screenshot-avoid-the-flames-and-the-sparks.gif",
+      "caption": "Avoid the flames and the sparks"
+    },
+    {
+      "link": "/images/shots/l/42173-zenji-colecovision-screenshot-try-to-turn-all-of-the-maze-paths.gif",
+      "caption": "Try to turn all of the maze paths green"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/259918-zenji-colecovision-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "ColecoVision"
+    },
+    {
+      "link": "/images/covers/l/259917-zenji-colecovision-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "ColecoVision"
+    },
+    {
+      "link": "/images/covers/l/236714-zenji-colecovision-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "ColecoVision"
+    }
+  ]
+}

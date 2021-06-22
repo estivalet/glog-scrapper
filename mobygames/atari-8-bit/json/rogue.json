@@ -1,0 +1,82 @@
+{
+  "name": "Rogue",
+  "shortName": "rogue",
+  "description": "<i>Rogue</i> is a turn-based dungeon crawler in which the player controls an adventurer who must explore the dangerous Dungeon of Doom in order to retrieve the precious Amulet of Yendor and make it out alive. The player character starts on the upper-most level and slowly makes his way downwards.<br><br>The game uses ASCII characters to represent locations, items, monsters, and the protagonist himself. There are twenty-six different types of monsters, symbolized by their initial letters (e.g. L for Leprechaun). Monsters have different abilities and modes of attack. The dungeon and the items in it are randomly generated each time the player begins a new game. Each dungeon level contains a grid of three by three rooms and dead ends. <br><br>Levels get progressively more complex and maze-like, and monsters grow in strength the deeper the hero ventures into the dungeon. The player character can acquire better weapons and armor, gain experience points and level up. Should the protagonist perish in the dungeon, the player must restart the game anew.",
+  "publishedBy": "Mastertronic Ltd.",
+  "developedBy": "",
+  "released": "1988",
+  "alsoFor": "Amiga, Amstrad CPC, Android, Atari ST, Commodore 64, DOS, GP2X, GP32, Linux, Macintosh, Mainframe, PC-88, PC-98, Roku, TRS-80 CoCo, Windows, ZX Spectrum | Combined View",
+  "genre": "Role-Playing (RPG)",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-8-bit/rogue",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Roguelike",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari 8-bit",
+      "releases": [
+        {
+          "publisher": "Mastertronic Ltd.",
+          "developer": "",
+          "ported": "Icon Design Ltd.",
+          "country": " France, Germany, Italy, United Kingdom",
+          "releaseDate": "1988",
+          "ean13": "5 012967 900304",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/326940-rogue-atari-8-bit-screenshot-loading-screen.png",
+      "caption": "Loading screen"
+    },
+    {
+      "link": "/images/shots/l/326941-rogue-atari-8-bit-screenshot-title-screen-and-enter-player.png",
+      "caption": "Title screen and enter player name"
+    },
+    {
+      "link": "/images/shots/l/326942-rogue-atari-8-bit-screenshot-starting-location-already-i-am.png",
+      "caption": "Starting location. Already, I am being attacked."
+    },
+    {
+      "link": "/images/shots/l/326943-rogue-atari-8-bit-screenshot-i-found-98-gold-pieces.png",
+      "caption": "I found 98 gold pieces."
+    },
+    {
+      "link": "/images/shots/l/326944-rogue-atari-8-bit-screenshot-some-stairs-going-down.png",
+      "caption": "Some stairs going down."
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/263202-rogue-atari-8-bit-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Cassette Case",
+      "country": "France , Germany , Italy  and United Kingdom",
+      "platforms": "Atari 8-bit"
+    },
+    {
+      "link": "/images/covers/l/263203-rogue-atari-8-bit-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Cassette Case",
+      "country": "France , Germany , Italy  and United Kingdom",
+      "platforms": "Atari 8-bit"
+    },
+    {
+      "link": "/images/covers/l/263201-rogue-atari-8-bit-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Cassette Case",
+      "country": "France , Germany , Italy  and United Kingdom",
+      "platforms": "Atari 8-bit"
+    }
+  ]
+}

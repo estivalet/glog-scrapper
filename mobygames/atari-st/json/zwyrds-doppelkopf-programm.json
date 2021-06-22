@@ -1,0 +1,94 @@
+{
+  "name": "Zwyrds Doppelkopf-Programm",
+  "shortName": "zwyrds-doppelkopf-programm",
+  "description": "<em>Zwyrds Doppelkopf-Programm</em> is an implementation of the German card game <em>Doppelkopf</em> (<a href=\"https://en.wikipedia.org/wiki/Doppelkopf\">Wikipedia entry with the game description and rules</a>). Unlike most other card games, the official rules are not widely accepted and each local playing round is choosing from a wide range of additional rules, scoring system and even the type of cards to play. In general, <em>Doppelkopf</em> is a game for four players and two players form a team, but the teams are not known in advance (in a normal game the two players with a Queens of Clubs on hand play together), creating diversified games and tactics. The game is played with 40 or 48 cards, with each card contained twice in the deck. There are a plethora of special rules and modes, some played as &quot;solo&quot;, in which a single player plays against the three others (in many different variations), others appear if certain conditions are matched (like a player has only three trumps (&quot;Armut&quot;) or holding both Queens of Clubs (&quot;Hochzeit&quot;)).<br><br>The accurate computer game implementation allows a single human player to play with three computer controlled players. Many of the special rules can be configured: the game allows playing with nines (48 card deck) or without (40 card deck). The actions on holding both Diamond Aces (&quot;Schweine&quot;) can be configured as well as the many different extra-points to get during the play. The types of &quot;solo&quot; games can be configured and by default the trump game, Queens, Jack Solo, No trumps (&quot;Fleischlos&quot;), or even King-Queens-Jacks (&quot;Köhler&quot;) are integrated. Players can make calls (to increase points), and the game is showing the current amount of points made during the round, as well as the information currently available (who played a Queen of Clubs). The amount of rounds and even the type of scoring can be configured. Special rules in which new cards are instantly distributed (like a player holding five kings or a no trump above a certain card) are implemented and can be configured, too. The strength of the computer AI cannot be configured and is not flawless, but in general the playing style of the computer opponents is very competent. Extensive statistics about the games, reached points, special points can be shown and a gaming session can be saved and continued later.<br><br>The game is programmed in GFA Basic and the source code comes with the game. The in-game language is German.",
+  "publishedBy": "",
+  "developedBy": "",
+  "released": "Dec 17, 2003",
+  "alsoFor": "",
+  "genre": "Strategy / tactics",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-st/zwyrds-doppelkopf-programm",
+  "visual": "",
+  "gamePlay": "Cards / tiles",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari ST",
+      "releases": []
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/805654-zwyrds-doppelkopf-programm-atari-st-screenshot-starting-screen.png",
+      "caption": "Starting screen (640x480x256 colors)"
+    },
+    {
+      "link": "/images/shots/l/805655-zwyrds-doppelkopf-programm-atari-st-screenshot-rule-configuration.png",
+      "caption": "Rule configuration part 1"
+    },
+    {
+      "link": "/images/shots/l/805656-zwyrds-doppelkopf-programm-atari-st-screenshot-rule-configuration.png",
+      "caption": "Rule configuration part 2"
+    },
+    {
+      "link": "/images/shots/l/805657-zwyrds-doppelkopf-programm-atari-st-screenshot-first-cards.png",
+      "caption": "First cards: Having five kings and configured the game like that, instantly new cards are given (&quot;Moby schmei&szlig;t&quot;)"
+    },
+    {
+      "link": "/images/shots/l/805658-zwyrds-doppelkopf-programm-atari-st-screenshot-maschine-made.png",
+      "caption": "&quot;Maschine&quot; made a call very early (down arrows) and named himself &quot;Re&quot; party (having the Queen of clubs). I do not have it, so I am playing against him - what he does not know"
+    },
+    {
+      "link": "/images/shots/l/805659-zwyrds-doppelkopf-programm-atari-st-screenshot-in-general.png",
+      "caption": "In general I have rubbish cards here, but I have no heart (the heart jack is a trump), so I can play any card now (preferably trump)"
+    },
+    {
+      "link": "/images/shots/l/805660-zwyrds-doppelkopf-programm-atari-st-screenshot-other-game.png",
+      "caption": "Other game: both queen ob clubs were played, so Maschine and AI are teamed up against me and Computer. The scores are still close"
+    },
+    {
+      "link": "/images/shots/l/805661-zwyrds-doppelkopf-programm-atari-st-screenshot-scoring-after.png",
+      "caption": "Scoring after a match: me&amp;Computer won, but the opposite party made two extra points during the game by capturing special cards, so both parties get 2 points (us by winning, the other for the special "
+    },
+    {
+      "link": "/images/shots/l/805662-zwyrds-doppelkopf-programm-atari-st-screenshot-computer-announced.png",
+      "caption": "Computer announced a &quot;Solo&quot; (playing against the other three. Game type: no trumps at all &quot;Fleischlosen&quot;)."
+    },
+    {
+      "link": "/images/shots/l/805663-zwyrds-doppelkopf-programm-atari-st-screenshot-computer-had.png",
+      "caption": "Computer had a deck also known as &quot;Oma&quot; (Grandma), which you cannot loose (see scores)"
+    },
+    {
+      "link": "/images/shots/l/805664-zwyrds-doppelkopf-programm-atari-st-screenshot-special-situation.png",
+      "caption": "Special situation: I have only three trumps. I offer them to the other players (&quot;Armut&quot;). I could also decide to play a &quot;Solo&quot; game here (the other buttons)"
+    },
+    {
+      "link": "/images/shots/l/805665-zwyrds-doppelkopf-programm-atari-st-screenshot-very-strong.png",
+      "caption": "Very strong hand: both diamond aces (&quot;Schweine&quot;), both heart-10s and three queens. I play this as &quot;Solo&quot;, as I can get more points then"
+    },
+    {
+      "link": "/images/shots/l/805666-zwyrds-doppelkopf-programm-atari-st-screenshot-the-opposite.png",
+      "caption": "The opposite party didn't get 60 points in cards, so overall I get 24 points of score (very very high value!)"
+    },
+    {
+      "link": "/images/shots/l/805668-zwyrds-doppelkopf-programm-atari-st-screenshot-after-39-games.png",
+      "caption": "After 39 games, Maschine is in the lead (104 points), I am in good position with 98 points. All types of games and points listed in the statistics page"
+    },
+    {
+      "link": "/images/shots/l/805669-zwyrds-doppelkopf-programm-atari-st-screenshot-game-is-also.png",
+      "caption": "Game is also running on monochrome monitors (640x400 Monochrome)"
+    },
+    {
+      "link": "/images/shots/l/805670-zwyrds-doppelkopf-programm-atari-st-screenshot-in-game-impression.png",
+      "caption": "In-game impression (Monochrome monitor)"
+    }
+  ],
+  "cover": []
+}

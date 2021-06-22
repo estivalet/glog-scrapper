@@ -1,0 +1,60 @@
+{
+  "name": "Panik!",
+  "shortName": "panik",
+  "description": "<i>Panik!</i> is a timed arcade game, inspired by <a href=\"https://www.mobygames.com/search/quick?game=Space+Panic\">Space Panic</a>. The goal of the player is to clear the board of monsters by digging the trap holes and hitting them over the head until they fall on a lower platform. Red monster dies after one fall, yellow and green (appear after escaping the trap) need to be knocked through 2 or 3 platforms respectively to be killed. Points are awarded by killing the monsters and remaining oxygen (time indicator) at the end of each board. Contact with the monster means an immediate death.",
+  "publishedBy": "Atlantis Software Limited",
+  "developedBy": "",
+  "released": "1987",
+  "alsoFor": "Atari 8-bit, Commodore 16, Plus/4, Electron | Combined View",
+  "genre": "Action",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/bbc-micro_/panik",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade, Platform",
+  "setting": "",
+  "release": [
+    {
+      "system": "BBC Micro",
+      "releases": [
+        {
+          "publisher": "Atlantis Software Limited",
+          "developer": "",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1987",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/701768-panik-bbc-micro-screenshot-loading-screen.png",
+      "caption": "Loading screen"
+    },
+    {
+      "link": "/images/shots/l/701769-panik-bbc-micro-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/701770-panik-bbc-micro-screenshot-high-score-table.png",
+      "caption": "High score table"
+    },
+    {
+      "link": "/images/shots/l/701771-panik-bbc-micro-screenshot-starting-out.png",
+      "caption": "Starting out"
+    },
+    {
+      "link": "/images/shots/l/701772-panik-bbc-micro-screenshot-digging-a-hole.png",
+      "caption": "Digging a hole"
+    }
+  ],
+  "cover": []
+}

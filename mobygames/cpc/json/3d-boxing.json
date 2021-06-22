@@ -1,0 +1,78 @@
+{
+  "name": "3D Boxing",
+  "shortName": "3d-boxing",
+  "description": "<i>3D Boxing</i> is a boxing game for one or two players.<br><br>The full game involves fighting against each over fifteen rounds to win the coveted AMSOFT belt. There are six opponents each with their own characteristics and names. Mad Joe for example moves around a lot but doesn't throw many punches while Jef is a champion with a killer punch who doesn't move much at all.<br><br>The game is keyboard or joystick controlled and the same keys / joystick movements are used for movement and for throwing punches. For example a joystick movement diagonally up and right (single player keyboard equivalent W) will move the fighter in that direction while the same movement with the FIRE button pressed will initiate a jab to the head.<br><br>This game is compatible with the AMSTRAD SSA-1 Speech Synthesizer.",
+  "publishedBy": "Amsoft",
+  "developedBy": "James Software Ltd.",
+  "released": "1985",
+  "alsoFor": "",
+  "genre": "Sports",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "Boxing",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/cpc/3d-boxing",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "",
+  "setting": "",
+  "release": [
+    {
+      "system": "Amstrad CPC",
+      "releases": [
+        {
+          "publisher": "Amsoft",
+          "developer": "James Software Ltd.",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1985",
+          "ean13": "5 013413 060252",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/652859-3d-boxing-amstrad-cpc-screenshot-loading-screen.png",
+      "caption": "Loading Screen."
+    },
+    {
+      "link": "/images/shots/l/652860-3d-boxing-amstrad-cpc-screenshot-title-screen.png",
+      "caption": "Title Screen."
+    },
+    {
+      "link": "/images/shots/l/652861-3d-boxing-amstrad-cpc-screenshot-hit-him.png",
+      "caption": "Hit Him."
+    },
+    {
+      "link": "/images/shots/l/652862-3d-boxing-amstrad-cpc-screenshot-knock-down.png",
+      "caption": "Knock-Down."
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/249522-3d-boxing-amstrad-cpc-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "Amstrad CPC"
+    },
+    {
+      "link": "/images/covers/l/249523-3d-boxing-amstrad-cpc-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "Amstrad CPC"
+    },
+    {
+      "link": "/images/covers/l/249524-3d-boxing-amstrad-cpc-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "Amstrad CPC"
+    }
+  ]
+}

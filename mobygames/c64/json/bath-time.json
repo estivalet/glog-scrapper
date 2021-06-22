@@ -1,0 +1,56 @@
+{
+  "name": "Bath Time",
+  "shortName": "bath-time",
+  "description": "<i>Bath Time</i> is a single screen game where one player battles against the computer or two players battle each other to either keep the water levels of a bath at the correct level or empty/fill the bath to let a swan escape or a fish to die. There are two Sprites, one at the bottom of the screen (lower) and one at the top of the screen (upper) controlled by the players, and in a one player game you control the lower Sprite. Both Sprites move left or right to open and close valves which either fills the bath or empties the bath. If the bath becomes too full then the swan can swim away and if the bath empties then the fish dies and the upper Sprite wins but if the water level stays at the correct level between 40 seconds to one minute then the lower Sprite wins. An elephant and a boy occasionally walk to the edge of the bath with the elephant removing water while the boy puts water in. Before the game you can choose the speed of the water (1-5) and the skill level (1-5).",
+  "publishedBy": "Personal Software Services",
+  "developedBy": "Andromeda Software",
+  "released": "1984",
+  "alsoFor": "",
+  "genre": "Action",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/bath-time",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "Personal Software Services",
+          "developer": "Andromeda Software",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1984",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/738917-bath-time-commodore-64-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/738918-bath-time-commodore-64-screenshot-keep-the-bath-water-level.png",
+      "caption": "Keep the bath water level or try to free/kill the animals"
+    },
+    {
+      "link": "/images/shots/l/738919-bath-time-commodore-64-screenshot-the-elephant-will-remove.png",
+      "caption": "The elephant will remove water"
+    },
+    {
+      "link": "/images/shots/l/738920-bath-time-commodore-64-screenshot-the-boy-will-fill-the-bath.png",
+      "caption": "The boy will fill the bath"
+    }
+  ],
+  "cover": []
+}

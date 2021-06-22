@@ -1,0 +1,97 @@
+{
+  "name": "Reversi",
+  "shortName": "reversi",
+  "description": "<i>Reversi</i> is a computerized version of the board game Othello. During the game, two players take turns placing game pieces on the board in an attempt to trap pieces of their opponents color. Any trapped pieces will then be reversed in color. When the board becomes completely filled up, whomever has the most pieces of his own color on the board wins. The game can be played by two players, or one player against the computer. There are three skill levels the computer can use, and three different board sizes are available, 6 by 6, 8 by 8, and 10 by 10.",
+  "publishedBy": "Mattel Electronics",
+  "developedBy": "Mattel Electronics",
+  "released": "1981",
+  "alsoFor": "Windows, Xbox 360 | Combined View",
+  "genre": "Strategy / tactics",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/intellivision/reversi",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Board game",
+  "setting": "",
+  "release": [
+    {
+      "system": "Intellivision",
+      "releases": [
+        {
+          "publisher": "Mattel Electronics",
+          "developer": "Mattel Electronics",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1981",
+          "ean13": "",
+          "comments": ""
+        },
+        {
+          "publisher": "Mattel Electronics",
+          "developer": "Mattel Electronics",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1981",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/43482-reversi-intellivision-screenshot-title-screen.gif",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/43483-reversi-intellivision-screenshot-a-game-has-just-begun.gif",
+      "caption": "A game has just begun"
+    },
+    {
+      "link": "/images/shots/l/43484-reversi-intellivision-screenshot-the-board-slowly-fills.gif",
+      "caption": "The board slowly fills..."
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/21025-reversi-intellivision-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Intellivision"
+    },
+    {
+      "link": "/images/covers/l/21026-reversi-intellivision-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Intellivision"
+    },
+    {
+      "link": "/images/covers/l/134585-reversi-intellivision-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Intellivision"
+    },
+    {
+      "link": "/images/covers/l/21027-reversi-intellivision-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "Canada",
+      "platforms": "Intellivision"
+    },
+    {
+      "link": "/images/covers/l/21028-reversi-intellivision-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "Canada",
+      "platforms": "Intellivision"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "name": "Barrage",
+  "shortName": "barrage__",
+  "description": "<i>Barrage</i> is an artillery game for two player who take turns playing the game on the same computer. Each player is in control of a gun and has to shoot projectiles at the other. In each battle there are 100 men on each side and the aim is to kill all of the enemies' men. On the screen there are also two cities which have to be avoided since hitting them leads to penalties. The landscape is generated for each new game and during the game it is redrawn as shots create craters in the ground.<br><br>The game is keyboard controlled and each player has to enter values for the angle and the velocity of the shot while taking in account the wind speed and direction. Players with more than 35 men in the army will also be asked to set a delta angle and velocity which decides if shots will be spread out or fired in a tight cluster. The number of shots taken depends on how many men the player has left. ",
+  "publishedBy": "Program Power",
+  "developedBy": "",
+  "released": "1982",
+  "alsoFor": "",
+  "genre": "Simulation",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/bbc-micro_/barrage__",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Artillery",
+  "setting": "",
+  "release": [
+    {
+      "system": "BBC Micro",
+      "releases": [
+        {
+          "publisher": "Program Power",
+          "developer": "",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1982",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/871688-barrage-bbc-micro-screenshot-title-screen-1.png",
+      "caption": "Title screen (1)"
+    },
+    {
+      "link": "/images/shots/l/871689-barrage-bbc-micro-screenshot-title-screen-2.png",
+      "caption": "Title screen (2)"
+    },
+    {
+      "link": "/images/shots/l/871690-barrage-bbc-micro-screenshot-landscape-being-generated.png",
+      "caption": "Landscape being generated"
+    },
+    {
+      "link": "/images/shots/l/871691-barrage-bbc-micro-screenshot-starting-out.png",
+      "caption": "Starting out"
+    },
+    {
+      "link": "/images/shots/l/871692-barrage-bbc-micro-screenshot-left-gun-ends-up-short.png",
+      "caption": "Left gun ends up short"
+    },
+    {
+      "link": "/images/shots/l/871693-barrage-bbc-micro-screenshot-right-gun-manage-a-hit-with-all.png",
+      "caption": "Right gun manage a hit with all three shots"
+    },
+    {
+      "link": "/images/shots/l/871694-barrage-bbc-micro-screenshot-left-gun-manages-a-straight-hit.png",
+      "caption": "Left gun manages a straight hit on the enemy gun"
+    },
+    {
+      "link": "/images/shots/l/871695-barrage-bbc-micro-screenshot-game-over-left-won.png",
+      "caption": "Game over - Left won"
+    },
+    {
+      "link": "/images/shots/l/871696-barrage-bbc-micro-screenshot-hitting-a-city-leads-to-a-penalty.png",
+      "caption": "Hitting a city leads to a penalty"
+    }
+  ],
+  "cover": []
+}

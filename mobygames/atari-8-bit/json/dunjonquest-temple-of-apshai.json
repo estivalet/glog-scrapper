@@ -1,0 +1,85 @@
+{
+  "name": "Dunjonquest: Temple of Apshai",
+  "shortName": "dunjonquest-temple-of-apshai",
+  "description": "<em>Temple of Apshai</em> is the first in <a href=\"https://www.mobygames.com/search/quick?company=Automated+Simulations%2c+Inc%2e\">Automated Simulations</a>' <a href=\"https://www.mobygames.com/search/quick?gamegroup=Dunjonquest\">Dunjonquest</a> series of role-playing games series and one of the first computer role-playing games. <br><br>The game could be described as a graphical &quot;roguelike&quot;, but actually it resembles the mainframe classic DND more, as you cannot see the whole level, but only your surroundings. Furthermore, the level maps are not randomized like in Rogue. Still, the gameplay has a lot in common with <a href=\"https://www.mobygames.com/game/rogue\">Rogue</a> and other early dungeon crawls: A solo character explores a monster-infested, multi-level dungeon to grab some treasure, everything in top-down view.<br><br>The game starts at the Innkeeper by creating a new character (if you already played the game, you can use characters that you created). You get different stat values (in Dungeons &amp; Dragons style) as well as an amount of money that you can spend on weapons, armor and other equipment. Alternatively, you can just enter the stats to &quot;import&quot; characters from other role-playing games (this is also used as a primitive &quot;save / load game&quot; mechanism).<br><br>After character generation, you enter the dungeons. On the left, the current room of the dungeon is displayed; the character status and other info are displayed on the right. One thing that sets Temple of Apshai apart from other rpg is that the manual contains detailed room descriptions for each room (that may contain hints about traps or treasures), to create atmosphere despite crude graphics.<br><br>You move about and perform actions like opening doors, firing arrows, examining walls for secret doors etc. by pressing key commands. Moving is also done without cursor keys: You turn your character into the direction you want to go and then move him forward by 1 to 9 steps, also selectable by single keystrokes. But take care of fatigue: If you keep running all the time, your fatigue rises, and if it reaches 100%, you cannot move or act for some time -- which can be deadly in the presence of, say, a Giant Bombardier Beetle.<br><br>Each room may contain treasures to pick up (sometimes just trash, sometimes gold, sometimes useful items), secret doors which lead to hidden parts of the dungeon and traps, which obviously should be avoided (you can try to search for them). Of course, you will also encounter monsters -- a variety of undead or giant insects -- which you have to fight using turn-based combat. Apart from the normal attack, there is also the thrust (which is more effective, but risky), and you can also fire arrows at distance or parry. To avoid a fight, you may also try to speak to them.<br><br>If you return to the Innkeeper, you gain experience, which increases your stats. Still, if you quit the game, the only way to save your character is to write down the stats on paper and re-entering them the next time you play.",
+  "publishedBy": "Epyx, Inc., Automated Simulations, Inc.",
+  "developedBy": "Automated Simulations, Inc.",
+  "released": "1980",
+  "alsoFor": "Apple II, Commodore 64, Commodore PET/CBM, DOS, TRS-80, VIC-20 | Combined View",
+  "genre": "Role-Playing (RPG)",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-8-bit/dunjonquest-temple-of-apshai",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari 8-bit",
+      "releases": [
+        {
+          "publisher": "Automated Simulations, Inc.",
+          "developer": "Automated Simulations, Inc.",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1980",
+          "ean13": "",
+          "comments": ""
+        },
+        {
+          "publisher": "Automated Simulations, Inc.",
+          "developer": "Automated Simulations, Inc.",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1980",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/235438-dunjonquest-temple-of-apshai-atari-8-bit-screenshot-title.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/235439-dunjonquest-temple-of-apshai-atari-8-bit-screenshot-create.png",
+      "caption": "Create a new character?"
+    },
+    {
+      "link": "/images/shots/l/235440-dunjonquest-temple-of-apshai-atari-8-bit-screenshot-purchasing.png",
+      "caption": "Purchasing weapons"
+    },
+    {
+      "link": "/images/shots/l/235441-dunjonquest-temple-of-apshai-atari-8-bit-screenshot-haggling.png",
+      "caption": "Haggling over the price of a shield"
+    },
+    {
+      "link": "/images/shots/l/235442-dunjonquest-temple-of-apshai-atari-8-bit-screenshot-i-now.png",
+      "caption": "I now have a character; ready to enter the dungeon?"
+    },
+    {
+      "link": "/images/shots/l/235443-dunjonquest-temple-of-apshai-atari-8-bit-screenshot-beginning.png",
+      "caption": "Beginning a dungeon"
+    },
+    {
+      "link": "/images/shots/l/235444-dunjonquest-temple-of-apshai-atari-8-bit-screenshot-a-mosquito.png",
+      "caption": "A mosquito blocks my path!"
+    },
+    {
+      "link": "/images/shots/l/235445-dunjonquest-temple-of-apshai-atari-8-bit-screenshot-i-m-too.png",
+      "caption": "I'm too tired to move, better rest a bit"
+    },
+    {
+      "link": "/images/shots/l/235446-dunjonquest-temple-of-apshai-atari-8-bit-screenshot-an-ant.png",
+      "caption": "An ant man has struck thee!"
+    }
+  ],
+  "cover": []
+}

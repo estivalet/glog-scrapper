@@ -1,0 +1,103 @@
+{
+  "name": "Puzznic",
+  "shortName": "puzznic",
+  "description": "The challenge in each level of <i>Puzznic</i> is to manoeuvre a selection of blocks into place so as to clear them all, by making them make contact with blocks of the same design. You control a cross-hair, which can move a block left or right, which can cause it to fall if there is no block under the space it would occupy.<br><br>There are many complications in terms of solving the levels. Moving platforms meaning that you need to move a block at a particular time, or in particular order, to prevent them being blockaded. In some situations there are an odd number of a certain type of block - solving these requires positioning two of the blocks one space apart, such that a move will result in a piece making contact with two others, and immediately removing all three. You will also encounter blocks positioned on platforms suspended in space and gaps in level arrangements meaning that a certain number of blocks must be in place to make a certain move possible (by forming a stack, for example).<br><br>The game structure is slightly unusual, as after you complete each batch of four levels you get a choice of two sets of levels - you are progressing through an expanding matrix of levels, which means there are two sets on level 2, three on level 3, four on level 4, and so on. This means that there are a total of 220 screens in the game. Each screen is played against a time limit, and losing a level (either by running out of time, or by making a poor move and leaving an impossible position) loses one of your three lives.",
+  "publishedBy": "Ocean Software Ltd.",
+  "developedBy": "Taito Corporation",
+  "released": "1990",
+  "alsoFor": "Amstrad CPC, Arcade, Atari ST, Commodore 64, DOS, FM Towns, MSX, NES, PC-98, Sharp X68000, TurboGrafx-16, ZX Spectrum | Combined View",
+  "genre": "Puzzle",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/amiga/puzznic",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Tile matching puzzle",
+  "setting": "",
+  "release": [
+    {
+      "system": "Amiga",
+      "releases": [
+        {
+          "publisher": "Ocean Software Ltd.",
+          "developer": "Taito Corporation",
+          "ported": "Software Creations Ltd.",
+          "country": " United Kingdom",
+          "releaseDate": "1990",
+          "ean13": "",
+          "comments": ""
+        },
+        {
+          "publisher": "Hit Squad, The",
+          "developer": "Taito Corporation",
+          "ported": "Software Creations Ltd.",
+          "country": " United Kingdom",
+          "releaseDate": "1992",
+          "ean13": "",
+          "comments": "Budget re-release"
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/90248-puzznic-amiga-screenshot-taito-logo.png",
+      "caption": "Taito logo"
+    },
+    {
+      "link": "/images/shots/l/90249-puzznic-amiga-screenshot-loading-screen.png",
+      "caption": "Loading screen"
+    },
+    {
+      "link": "/images/shots/l/90250-puzznic-amiga-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/90251-puzznic-amiga-screenshot-stage-selection-screen.png",
+      "caption": "Stage selection screen"
+    },
+    {
+      "link": "/images/shots/l/90252-puzznic-amiga-screenshot-gameplay-on-the-first-level.png",
+      "caption": "Gameplay on the first level"
+    },
+    {
+      "link": "/images/shots/l/90253-puzznic-amiga-screenshot-some-puzzles-don-t-have-a-lot-of-room.png",
+      "caption": "some puzzles don't have a lot of room to work in"
+    },
+    {
+      "link": "/images/shots/l/90254-puzznic-amiga-screenshot-some-puzzles-like-this-one-have-moving.png",
+      "caption": "Some puzzles, like this one, have moving pieces"
+    },
+    {
+      "link": "/images/shots/l/90255-puzznic-amiga-screenshot-one-diamond-left-looks-like-i-m-stuck.png",
+      "caption": "One diamond left, looks like I'm stuck now"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/256271-puzznic-amiga-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "France , Germany  and United Kingdom",
+      "platforms": "Amiga"
+    },
+    {
+      "link": "/images/covers/l/256272-puzznic-amiga-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "France , Germany  and United Kingdom",
+      "platforms": "Amiga"
+    },
+    {
+      "link": "/images/covers/l/256273-puzznic-amiga-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "France , Germany  and United Kingdom",
+      "platforms": "Amiga"
+    }
+  ]
+}

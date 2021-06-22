@@ -1,0 +1,82 @@
+{
+  "name": "Klax",
+  "shortName": "klax",
+  "description": "An action/puzzle game, the object is to catch assorted color falling tiles and create rows, columns, or diagonals of a single color. Each level requires a different pattern to be made, and the tiles fall faster, more at a time, and in an increasing number of colors as the game progresses.",
+  "publishedBy": "Domark Limited",
+  "developedBy": "Atari Games Corporation",
+  "released": "1990",
+  "alsoFor": "Amstrad CPC, Arcade, Atari 2600, Atari 5200, Atari 7800, Atari ST, BBC Micro, Commodore 64, DOS, Game Boy, Game Gear, Game Boy Color, Genesis, Lynx, MSX, NES, PC-88, PC-98, SAM Coupé, Sharp X68000, SEGA Master System, TurboGrafx-16, ZX Spectrum | Combined View",
+  "genre": "Action, Puzzle",
+  "perspective": "Bird's-eye view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/amiga/klax",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade, Falling block puzzle",
+  "setting": "",
+  "release": [
+    {
+      "system": "Amiga",
+      "releases": [
+        {
+          "publisher": "Domark Limited",
+          "developer": "Atari Games Corporation",
+          "ported": "Teque Software Development Ltd.",
+          "country": " United Kingdom",
+          "releaseDate": "1990",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/32416-klax-amiga-screenshot-title-screen.gif",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/32417-klax-amiga-screenshot-credits.gif",
+      "caption": "Credits"
+    },
+    {
+      "link": "/images/shots/l/32418-klax-amiga-screenshot-rules-explained.gif",
+      "caption": "Rules explained"
+    },
+    {
+      "link": "/images/shots/l/32419-klax-amiga-screenshot-difficulty-selection.gif",
+      "caption": "Difficulty selection"
+    },
+    {
+      "link": "/images/shots/l/32420-klax-amiga-screenshot-klaxing.gif",
+      "caption": "Klaxing..."
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/639397-klax-amiga-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "Germany",
+      "platforms": "Amiga"
+    },
+    {
+      "link": "/images/covers/l/639399-klax-amiga-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "Germany",
+      "platforms": "Amiga"
+    },
+    {
+      "link": "/images/covers/l/639400-klax-amiga-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "Germany",
+      "platforms": "Amiga"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "name": "AHextris",
+  "shortName": "ahextris",
+  "description": "<i>AHextris</i> is an Amiga enhanced rewrite of the original UNIX <i><a href=\"https://www.mobygames.com/game/hextris\">Hextris</a></i> by <a href=\"https://www.mobygames.com/developer/sheet/view/developerId,613545/\">Dave Markley</a>. It is a falling block puzzle based on <i><a href=\"https://www.mobygames.com/search/quick?game=Tetris\">Tetris</a></i>, but whereas Tetris blocks consist of squares, all Hextris blocks are made up of hexagons. This transforms the game mechanics radically, both when it comes to the style of the blocks, how they fit together and how they rotate.\nThis implementation runs on a high-res interlaced screen (or optionally without interlace) in four colours and is totally system-friendly. Though it has options for a second player, this wasn't implemented in the release version.",
+  "publishedBy": "",
+  "developedBy": "",
+  "released": "Apr, 1992",
+  "alsoFor": "",
+  "genre": "Puzzle",
+  "perspective": "",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/amiga/ahextris",
+  "visual": "",
+  "gamePlay": "Falling block puzzle",
+  "setting": "",
+  "release": [
+    {
+      "system": "Amiga",
+      "releases": []
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/684763-ahextris-amiga-screenshot-the-playfield-is-revealed.png",
+      "caption": "The playfield is revealed"
+    },
+    {
+      "link": "/images/shots/l/684761-ahextris-amiga-screenshot-main-menu.png",
+      "caption": "Main menu"
+    },
+    {
+      "link": "/images/shots/l/684764-ahextris-amiga-screenshot-dropping-a-block.png",
+      "caption": "Dropping a block"
+    },
+    {
+      "link": "/images/shots/l/684765-ahextris-amiga-screenshot-rotating-it-it-looks-like-this.png",
+      "caption": "Rotating it, it looks like this"
+    },
+    {
+      "link": "/images/shots/l/684766-ahextris-amiga-screenshot-building.png",
+      "caption": "Building"
+    },
+    {
+      "link": "/images/shots/l/684767-ahextris-amiga-screenshot-another-strange-hexagonal-block.png",
+      "caption": "Another strange hexagonal block"
+    },
+    {
+      "link": "/images/shots/l/684768-ahextris-amiga-screenshot-this-one-is-a-tetris-classic.png",
+      "caption": "This one is a Tetris classic&hellip;"
+    },
+    {
+      "link": "/images/shots/l/684769-ahextris-amiga-screenshot-but-this-one-is-not.png",
+      "caption": "&hellip;but this one is not&hellip;"
+    },
+    {
+      "link": "/images/shots/l/684770-ahextris-amiga-screenshot-nor-is-this.png",
+      "caption": "&hellip;nor is this"
+    },
+    {
+      "link": "/images/shots/l/684771-ahextris-amiga-screenshot-game-over.png",
+      "caption": "Game over"
+    },
+    {
+      "link": "/images/shots/l/684762-ahextris-amiga-screenshot-options.png",
+      "caption": "Options"
+    }
+  ],
+  "cover": []
+}

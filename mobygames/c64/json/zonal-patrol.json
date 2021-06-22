@@ -1,0 +1,64 @@
+{
+  "name": "Zonal Patrol",
+  "shortName": "zonal-patrol",
+  "description": "<i>Zonal Patrol</i> is a shooter made up of a 7x7 grid consisting of 49 zones over various levels with each zone seen on the whole screen. The idea is to clear every zone from Alien Cycloids by moving around the edge of the zone and shooting them with your gun that can fire up to 8 bullets at a time. The Cycloids move around the screen and you must shoot them all but if you touch one then you lose one of five lives. Once a zone is cleared then exits appear on each wall and you must move into one. Once entered, a map appears of the grid showing the zone you are about to enter (white), any cleared zones (blue) and zones still left to clear (red). You are unable to re-enter cleared zones so a route must be planned to make sure you can reach all the zones or it is game over if you are surrounded by cleared zones. Clear all 49 zones and you move to the next level.",
+  "publishedBy": "K'soft Limited",
+  "developedBy": "",
+  "released": "1986",
+  "alsoFor": "",
+  "genre": "Action",
+  "perspective": "",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/zonal-patrol",
+  "visual": "",
+  "gamePlay": "Shooter",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "K'soft Limited",
+          "developer": "",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1986",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/701052-zonal-patrol-commodore-64-screenshot-title-screen.png",
+      "caption": "Title Screen."
+    },
+    {
+      "link": "/images/shots/l/701053-zonal-patrol-commodore-64-screenshot-blast-the-alien-cycloids.png",
+      "caption": "Blast the Alien Cycloids."
+    },
+    {
+      "link": "/images/shots/l/701054-zonal-patrol-commodore-64-screenshot-spraying-your-bullets.png",
+      "caption": "Spraying your bullets."
+    },
+    {
+      "link": "/images/shots/l/701055-zonal-patrol-commodore-64-screenshot-map-of-the-zones.png",
+      "caption": "Map of the zones."
+    },
+    {
+      "link": "/images/shots/l/701056-zonal-patrol-commodore-64-screenshot-more-aliens-to-blast.png",
+      "caption": "More aliens to blast."
+    },
+    {
+      "link": "/images/shots/l/701057-zonal-patrol-commodore-64-screenshot-clearing-the-zones.png",
+      "caption": "Clearing the zones."
+    }
+  ],
+  "cover": []
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Decton",
+  "shortName": "decton",
+  "description": "<i>Decton</i> is a clone of  the C64 game <a href=\"https://www.mobygames.com/search/quick?game=space-taxi\">Space Taxi</a>.\nYou fly a hovering vehicle in a closed cave, navigating from a base platform to a blue target platform, and back to the base, without touching the walls of the cave or other obstacles.<br>\n<br>\nYour home platform is colored white, the other platforms start out blue, and turn yellow when visited.\nOnly one platform at a time should be visited before you return to your home platform, mimicking a cargo pickup/delivery.\nVisiting more platforms at a time does not make them all go yellow, only the first counts.<br>\n<br>\nIf your vehicle touches anything, it explodes and you respawn on the base platform, continuing as if you completed the last delivery.\nOnce all platforms are yellow, the level is complete and you move on to the next level.<br>\n<br>\nThe scoring is both for delivery completion (10 points per visited platform) and time based (a bonus score counts down from 200) and crashing your vehicle does not detract from the score, but you have a limited number of 6 ships to use before it's game over.",
+  "publishedBy": "Computec Verlag GmbH &amp; Co. KG, Double Density",
+  "developedBy": "Cyberstyle",
+  "released": "1990",
+  "alsoFor": "Amiga | Combined View",
+  "genre": "Action",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/decton",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade, Platform",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "Computec Verlag GmbH &amp; Co. KG",
+          "developer": "Cyberstyle",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1990",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/902419-decton-commodore-64-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/902420-decton-commodore-64-screenshot-start-of-level-1.png",
+      "caption": "Start of Level 1"
+    },
+    {
+      "link": "/images/shots/l/902421-decton-commodore-64-screenshot-level-2.png",
+      "caption": "Level 2"
+    },
+    {
+      "link": "/images/shots/l/902422-decton-commodore-64-screenshot-level-3.png",
+      "caption": "Level 3"
+    },
+    {
+      "link": "/images/shots/l/902423-decton-commodore-64-screenshot-level-4.png",
+      "caption": "Level 4"
+    },
+    {
+      "link": "/images/shots/l/902424-decton-commodore-64-screenshot-level-5.png",
+      "caption": "Level 5"
+    },
+    {
+      "link": "/images/shots/l/902425-decton-commodore-64-screenshot-level-6.png",
+      "caption": "Level 6"
+    },
+    {
+      "link": "/images/shots/l/902426-decton-commodore-64-screenshot-level-7.png",
+      "caption": "Level 7"
+    },
+    {
+      "link": "/images/shots/l/902427-decton-commodore-64-screenshot-level-8.png",
+      "caption": "Level 8"
+    },
+    {
+      "link": "/images/shots/l/902428-decton-commodore-64-screenshot-level-9.png",
+      "caption": "Level 9"
+    }
+  ],
+  "cover": []
+}

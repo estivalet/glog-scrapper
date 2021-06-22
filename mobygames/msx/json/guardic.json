@@ -1,0 +1,82 @@
+{
+  "name": "Guardic",
+  "shortName": "guardic",
+  "description": "Guardic is a top-down 2d shooter based on the classic premise of pitting a single starfighter against a horde of enemies with the fate of the galaxy at hand. A particularly interesting touch in Guardic is that instead of fighting through a scrolling field filled with enemies, the game places your ship in &quot;rooms&quot; with a fixed amount of opponents that take up the most part of the screen. After defeating every enemy on screen you advance to the next room and so on... Power ups are not activated until you reach the next room (with some exceptions) and even then you have to choose which ones to activate before you enter the fight, which gives the game an additional strategic touch.",
+  "publishedBy": "Compile",
+  "developedBy": "Compile",
+  "released": "1986",
+  "alsoFor": "Windows | Combined View",
+  "genre": "Action",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/msx/guardic",
+  "visual": "",
+  "gamePlay": "Arcade, Shooter",
+  "setting": "",
+  "release": [
+    {
+      "system": "MSX",
+      "releases": [
+        {
+          "publisher": "Compile",
+          "developer": "Compile",
+          "ported": "",
+          "country": " Japan",
+          "releaseDate": "1986",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/130077-guardic-msx-screenshot-titke-screen.png",
+      "caption": "Titke screen"
+    },
+    {
+      "link": "/images/shots/l/130078-guardic-msx-screenshot-hi-score-screen.png",
+      "caption": "Hi Score Screen"
+    },
+    {
+      "link": "/images/shots/l/130079-guardic-msx-screenshot-hit-by-the-enemy.png",
+      "caption": "Hit by the enemy!"
+    },
+    {
+      "link": "/images/shots/l/130080-guardic-msx-screenshot-shoot-the-enemy.png",
+      "caption": "Shoot the enemy!"
+    },
+    {
+      "link": "/images/shots/l/130081-guardic-msx-screenshot-avoid-the-dots.png",
+      "caption": "Avoid the dots..."
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/152604-guardic-msx-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Plastic Case",
+      "country": "Japan",
+      "platforms": "MSX"
+    },
+    {
+      "link": "/images/covers/l/152605-guardic-msx-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Plastic Case",
+      "country": "Japan",
+      "platforms": "MSX"
+    },
+    {
+      "link": "/images/covers/l/152606-guardic-msx-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Plastic Case",
+      "country": "Japan",
+      "platforms": "MSX"
+    }
+  ]
+}

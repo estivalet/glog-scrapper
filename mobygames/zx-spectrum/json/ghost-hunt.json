@@ -1,0 +1,85 @@
+{
+  "name": "Ghost Hunt",
+  "shortName": "ghost-hunt",
+  "description": "<i>Ghost Hunt</i> is a <a href=\"https://www.mobygames.com/game/arcade/pac-man\">Pac-Man</a> clone where you have to move around a maze viewed from above and eat all the dots to move to the next maze. As you move around there are four ghosts also moving around the maze and if you touch one then you lose one of three lives. As well as the dots you can collect power-pills that allow you to kill the ghosts for a limited time. A $ sign can also be collected which awards you bonus points and once the maze is cleared you receive an extra life.",
+  "publishedBy": "Personal Software Services",
+  "developedBy": "",
+  "released": "1983",
+  "alsoFor": "ZX81 | Combined View",
+  "genre": "Action",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/zx-spectrum/ghost-hunt",
+  "visual": "",
+  "gamePlay": "Arcade",
+  "setting": "",
+  "release": [
+    {
+      "system": "ZX Spectrum",
+      "releases": [
+        {
+          "publisher": "Personal Software Services",
+          "developer": "",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1983",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/715142-ghost-hunt-zx-spectrum-screenshot-loading-screen.png",
+      "caption": "Loading Screen"
+    },
+    {
+      "link": "/images/shots/l/715143-ghost-hunt-zx-spectrum-screenshot-title-screen.png",
+      "caption": "Title Screen"
+    },
+    {
+      "link": "/images/shots/l/715144-ghost-hunt-zx-spectrum-screenshot-lets-go.png",
+      "caption": "Lets go"
+    },
+    {
+      "link": "/images/shots/l/715145-ghost-hunt-zx-spectrum-screenshot-eat-the-dots.png",
+      "caption": "Eat the dots"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/401180-ghost-hunt-zx-spectrum-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/401181-ghost-hunt-zx-spectrum-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/401182-ghost-hunt-zx-spectrum-spine-sides.jpg",
+      "scanOf": "Spine/Sides",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    },
+    {
+      "link": "/images/covers/l/401183-ghost-hunt-zx-spectrum-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Cassette Case",
+      "country": "United Kingdom",
+      "platforms": "ZX Spectrum"
+    }
+  ]
+}

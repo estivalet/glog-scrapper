@@ -1,0 +1,65 @@
+{
+  "name": "R-Nest",
+  "shortName": "r-nest",
+  "description": "<i>R-Nest</i> is a single-screen game based on the arcade game <a href=\"https://www.mobygames.com/game/arcade/qbert\">Q*Bert</a> where you play the role of R-Nest who has to paint the tops of all the cubes making up a pyramid over various levels. R-Nest moves around the screen in a diagonal direction and has he touches the top of each cube it changes colour. On later levels, the cubes have to be touched several times to change its colour and once all cubes have been painted then its on to the next level. Also on screen are balls that bounce from the top to the bottom of the pyramid and these have to be avoided or you lose one of four lives. <br><br>Gangal the snake also moves around the pyramid chasing you, and his friend Zouszous makes an occasional appearance to change the cubes back to their original colour. Falling off the edge of the pyramid also loses a life and you start on the last cube you touched. Green pills can be collected to paralyse the other creatures, and two elevators either side of the pyramid can be used once per level to get back to the top of the pyramid. ",
+  "publishedBy": "Tequila Sunrise Software",
+  "developedBy": "Colosoftware",
+  "released": "1983",
+  "alsoFor": "",
+  "genre": "Action",
+  "perspective": "",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/c64/r-nest",
+  "visual": "Isometric",
+  "gamePlay": "Arcade",
+  "setting": "",
+  "release": [
+    {
+      "system": "Commodore 64",
+      "releases": [
+        {
+          "publisher": "Tequila Sunrise Software",
+          "developer": "Colosoftware",
+          "ported": "",
+          "country": " Belgium",
+          "releaseDate": "1983",
+          "ean13": "",
+          "comments": ""
+        },
+        {
+          "publisher": "Audiogenic Ltd.",
+          "developer": "Colosoftware",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1983",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/783401-r-nest-commodore-64-screenshot-title-screen.png",
+      "caption": "Title Screen"
+    },
+    {
+      "link": "/images/shots/l/783402-r-nest-commodore-64-screenshot-level-1-coming-up.png",
+      "caption": "Level 1 coming up"
+    },
+    {
+      "link": "/images/shots/l/783403-r-nest-commodore-64-screenshot-lets-paint-the-cubes.png",
+      "caption": "Lets paint the cubes"
+    },
+    {
+      "link": "/images/shots/l/783404-r-nest-commodore-64-screenshot-still-a-few-cubes-to-paint.png",
+      "caption": "Still a few cubes to paint"
+    }
+  ],
+  "cover": []
+}

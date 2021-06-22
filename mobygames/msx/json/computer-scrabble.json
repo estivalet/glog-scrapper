@@ -1,0 +1,86 @@
+{
+  "name": "Computer Scrabble",
+  "shortName": "computer-scrabble",
+  "description": "<i>Computer Scrabble</i> is the earliest official computer version of the popular word game. The game has a 8500-20000 word dictionary depending on the computer, containing the most frequently-used words in Scrabble. As a result, some very obscure words (mostly of 2 and 3 letters - keen Scrabble players will know that these are often the most profitable scoring method) are included, but common words such as 'bigot' and 'sheen' are queried by the game - simply tell it that your move is a word and it will move on trustingly.<br><br>Inputting words is done by moving the cursor across or down to the starting position of the word, and then pressing to key the word in, pressing space before the letter you wish to use a blank tile as. All words formed are accurately scored. The game can juggle your tiles and allow you to manually rearrange them, and you can watch the computer 'think' as it notices possible moves and their scoring. There are four difficulty levels, with the highest capable of combined scores over 700.",
+  "publishedBy": "Leisure Genius",
+  "developedBy": "Psion Software Ltd.",
+  "released": "1985",
+  "alsoFor": "Amstrad CPC, Amstrad PCW, Commodore 64, DOS, Sinclair QL, Tatung Einstein, Thomson MO, Thomson TO, ZX Spectrum | Combined View",
+  "genre": "Strategy / tactics",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "Licensed",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/msx/computer-scrabble",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Board game, Word construction",
+  "setting": "",
+  "release": [
+    {
+      "system": "MSX",
+      "releases": [
+        {
+          "publisher": "Leisure Genius",
+          "developer": "Psion Software Ltd.",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1985",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/141238-computer-scrabble-msx-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/141239-computer-scrabble-msx-screenshot-do-you-want-to-see-the-computer.png",
+      "caption": "Do you want to see the computer think?"
+    },
+    {
+      "link": "/images/shots/l/141240-computer-scrabble-msx-screenshot-the-first-player-has-to-form.png",
+      "caption": "The first player has to form a word"
+    },
+    {
+      "link": "/images/shots/l/141241-computer-scrabble-msx-screenshot-the-second-player-should.png",
+      "caption": "The second player should add a word"
+    },
+    {
+      "link": "/images/shots/l/141242-computer-scrabble-msx-screenshot-it-s-player-one-s-turn-again.png",
+      "caption": "It's player one's turn again"
+    },
+    {
+      "link": "/images/shots/l/141243-computer-scrabble-msx-screenshot-a-few-turns-later.png",
+      "caption": "A few turns later."
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/120104-computer-scrabble-msx-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "United Kingdom",
+      "platforms": "MSX"
+    },
+    {
+      "link": "/images/covers/l/120611-computer-scrabble-msx-back-cover.jpg",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "United Kingdom",
+      "platforms": "MSX"
+    },
+    {
+      "link": "/images/covers/l/120612-computer-scrabble-msx-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "United Kingdom",
+      "platforms": "MSX"
+    }
+  ]
+}

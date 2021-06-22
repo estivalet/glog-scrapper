@@ -1,0 +1,60 @@
+{
+  "name": "Maelstrom",
+  "shortName": "maelstrom__",
+  "description": "<i>Maelstrom</i> is a vertical scrolling shoot 'em up game written in 68000 assembler. You control a spaceship and have to battle you way through asteroid fields and waves of enemy spaceships. The length of each level is determined by how fast the player kills the enemies; for every killed enemy the energy meter to the right on the screen goes up a bit and when it reaches 100% the player has completed the level.  As the game progresses levels takes longer and longer to complete. When a level has been completed the earned points for the level is added to the players score.<br><br>The game comes with no background story, but level names such as &quot;Border patrols&quot; suggests that the designer had some kind of story in mind.",
+  "publishedBy": "Budgie UK",
+  "developedBy": "",
+  "released": "1988",
+  "alsoFor": "",
+  "genre": "Action",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-st/maelstrom__",
+  "visual": "",
+  "gamePlay": "Shooter",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari ST",
+      "releases": [
+        {
+          "publisher": "Budgie UK",
+          "developer": "",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1988",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/316038-maelstrom-atari-st-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/316039-maelstrom-atari-st-screenshot-takeing-off.png",
+      "caption": "Takeing off"
+    },
+    {
+      "link": "/images/shots/l/316040-maelstrom-atari-st-screenshot-entering-level-one.png",
+      "caption": "Entering level one"
+    },
+    {
+      "link": "/images/shots/l/316041-maelstrom-atari-st-screenshot-asteroids.png",
+      "caption": "Asteroids"
+    },
+    {
+      "link": "/images/shots/l/316042-maelstrom-atari-st-screenshot-enemies-ahead.png",
+      "caption": "Enemies ahead"
+    }
+  ],
+  "cover": []
+}

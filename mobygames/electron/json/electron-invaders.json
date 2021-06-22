@@ -1,0 +1,68 @@
+{
+  "name": "Electron Invaders",
+  "shortName": "electron-invaders",
+  "description": "<i>Electron Invaders</i> is a <a href=\"https://www.mobygames.com/search/quick?game=Space+Invaders\">Space Invaders</a> clone with few changes to the gameplay. The player controls his laser base down the bottom of the screen and has to shoot at the aliens moving back and forth above while avoiding their fire. To his help he has three bunkers that offer some protection from fire. In addition to the aliens' regular fire they also drop bombs that explode in mid-air, with shrapnel flying in multiple directions. There are eight different aliens and they differ in points value from ten to eighty. In addition to these there's also a mothership that occasionally passes by at the top of the screen and is worth a larger amount of points. The game can be played by one or two players and each have three lives.",
+  "publishedBy": "Micro Power Ltd",
+  "developedBy": "",
+  "released": "1984",
+  "alsoFor": "",
+  "genre": "Action",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/electron/electron-invaders",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Arcade, Shooter",
+  "setting": "",
+  "release": [
+    {
+      "system": "Electron",
+      "releases": [
+        {
+          "publisher": "Micro Power Ltd",
+          "developer": "",
+          "ported": "",
+          "country": " United Kingdom",
+          "releaseDate": "1984",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/697977-electron-invaders-electron-screenshot-loading-screen.png",
+      "caption": "Loading screen"
+    },
+    {
+      "link": "/images/shots/l/697978-electron-invaders-electron-screenshot-controls-scoreboard.png",
+      "caption": "Controls / scoreboard"
+    },
+    {
+      "link": "/images/shots/l/697979-electron-invaders-electron-screenshot-player-1-starts.png",
+      "caption": "Player 1 starts"
+    },
+    {
+      "link": "/images/shots/l/697980-electron-invaders-electron-screenshot-a-mothership-passes.png",
+      "caption": "A mothership passes by"
+    },
+    {
+      "link": "/images/shots/l/697981-electron-invaders-electron-screenshot-getting-killed.png",
+      "caption": "Getting killed"
+    },
+    {
+      "link": "/images/shots/l/697983-electron-invaders-electron-screenshot-stage-2-with-a-new-set.png",
+      "caption": "Stage 2 with a new set of aliens"
+    },
+    {
+      "link": "/images/shots/l/697982-electron-invaders-electron-screenshot-high-score-list.png",
+      "caption": "High score list"
+    }
+  ],
+  "cover": []
+}

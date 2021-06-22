@@ -1,0 +1,89 @@
+{
+  "name": "Pathfinder",
+  "shortName": "pathfinder_",
+  "description": "In <i>Pathfinder</i>, your job is to clear a large scrolling maze of the radioactive waste strewn about.  Complicating this, radioactive creatures will attempt to stop you.  The player moves and fires in 8 separate directions.  You are armed with two types of shots: Regular plasma blasts, as well as fire retardant shells which can be picked up at a fire station.  Only fire retardant shells can eliminate radioactive fires.   A level is completed by removing all radioactive waste, and a counter in the bottom of the screen tracks how much waste and enemies are remaining.  <br><br>There are 3 types of enemies. Nuke, who absorbs power from nuclear waste.  Nuke follows the player, and can only be destroyed when enough radioactive waste has been cleared. Phantom, who moves incessantly in a straight line.  Phantom moves through walls with ease, but bounces off the outer rim of the level.  Minelayer, who moves throughout the level placing mines.  If the player shoots a mine, it will start a fire, which can spread through a level.  <br><br>There are a total of 15 different difficulty levels.  At higher levels, fires spread faster and enemy creatures move faster. The player has a total of 3 lives per level, and if they are struck by enemy creatures they will lose a life.  ",
+  "publishedBy": "Gebelli Software, Inc.",
+  "developedBy": "Solitare Group",
+  "released": "1982",
+  "alsoFor": "",
+  "genre": "Action",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-8-bit/pathfinder_",
+  "visual": "",
+  "gamePlay": "Arcade",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari 8-bit",
+      "releases": [
+        {
+          "publisher": "Gebelli Software, Inc.",
+          "developer": "Solitare Group",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "1982",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/953257-pathfinder-atari-8-bit-screenshot-title-screen.png",
+      "caption": "Title Screen"
+    },
+    {
+      "link": "/images/shots/l/953258-pathfinder-atari-8-bit-screenshot-choosing-a-level.png",
+      "caption": "Choosing a Level"
+    },
+    {
+      "link": "/images/shots/l/953259-pathfinder-atari-8-bit-screenshot-exploring-level-1-a-fire.png",
+      "caption": "Exploring Level 1 - A Fire Station and a Minelayer Are Present"
+    },
+    {
+      "link": "/images/shots/l/953260-pathfinder-atari-8-bit-screenshot-level-15-more-waste-and.png",
+      "caption": "Level 15 - More Waste and Walls Are Deadly"
+    },
+    {
+      "link": "/images/shots/l/953261-pathfinder-atari-8-bit-screenshot-game-over.png",
+      "caption": "Game Over"
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/680805-pathfinder-atari-8-bit-front-cover.jpg",
+      "scanOf": "Front Cover",
+      "packaging": "Cardboard Folder",
+      "country": "United States",
+      "platforms": "Atari 8-bit"
+    },
+    {
+      "link": "/images/covers/l/680808-pathfinder-atari-8-bit-inside-cover.jpg",
+      "scanOf": "Inside Cover",
+      "packaging": "Cardboard Folder",
+      "country": "United States",
+      "platforms": "Atari 8-bit"
+    },
+    {
+      "link": "/images/covers/l/680807-pathfinder-atari-8-bit-media.jpg",
+      "scanOf": "Media",
+      "packaging": "Cardboard Folder",
+      "country": "United States",
+      "platforms": "Atari 8-bit"
+    },
+    {
+      "link": "/images/covers/l/680806-pathfinder-atari-8-bit-manual.jpg",
+      "scanOf": "Manual",
+      "packaging": "Cardboard Folder",
+      "country": "United States",
+      "platforms": "Atari 8-bit"
+    }
+  ]
+}

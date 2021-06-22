@@ -1,0 +1,131 @@
+{
+  "name": "Dexterity",
+  "shortName": "dexterity",
+  "description": "<i>Dexterity</i> is a puzzle game with a 7x8 grid, each one filled with a tile or another item. The goal is to flip over all tiles within a time limit. This has to be triggered manually by pressing a button, but if there is another flipped tile on the field, all other tiles between the player's position and the other tile will flip, too. Some grids are filled with stationary blocks, moveable blocks (either pushing them normally or send them flying with a strong kick) and holes.<br><br>There are also monsters which need to be avoided. All five of them have different behaviour patterns and have the ability to reverse already flipped tiles; some of them can even push blocks or destroy tiles. The monsters can be killed by using blocks against them: pushing them over the borders of the playfield or a hole will kill them. Alternatively they also can be trapped. Killed monsters slowly respawn at pre-defined spawn points; this takes place over several phases. In the &quot;egg&quot; phase, it can be picked up to kill another enemy with it. Another possible weapon are stunned enemies which stood on a multi-flipped row.<br><br>When pushing blocks into a corner, they will disappear and transform into power ups, e.g. bonus points, extra time or a temporary stun of all enemies. A life is lost when an enemy is touched or the time runs out. When that happens, all flipped tiles stay flipped.",
+  "publishedBy": "SNK Corporation of America",
+  "developedBy": "SNK Corporation",
+  "released": "Jul, 1990",
+  "alsoFor": "",
+  "genre": "Action, Puzzle",
+  "perspective": "Top-down",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/gameboy/dexterity",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "",
+  "setting": "",
+  "release": [
+    {
+      "system": "Game Boy",
+      "releases": [
+        {
+          "publisher": "SNK Corporation",
+          "developer": "SNK Corporation",
+          "ported": "",
+          "country": " Japan",
+          "releaseDate": "Jun 15, 1990",
+          "ean13": "4 964808 000135",
+          "comments": ""
+        },
+        {
+          "publisher": "SNK Corporation of America",
+          "developer": "SNK Corporation",
+          "ported": "",
+          "country": " United States",
+          "releaseDate": "Jul, 1990",
+          "ean13": "",
+          "comments": ""
+        }
+      ]
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/542772-dexterity-game-boy-screenshot-title-screen.png",
+      "caption": "Title screen"
+    },
+    {
+      "link": "/images/shots/l/542773-dexterity-game-boy-screenshot-main-menu.png",
+      "caption": "Main menu"
+    },
+    {
+      "link": "/images/shots/l/542774-dexterity-game-boy-screenshot-round-1.png",
+      "caption": "Round-1"
+    },
+    {
+      "link": "/images/shots/l/542775-dexterity-game-boy-screenshot-starting-the-first-round.png",
+      "caption": "Starting the first round."
+    },
+    {
+      "link": "/images/shots/l/542776-dexterity-game-boy-screenshot-an-enemy-got-me.png",
+      "caption": "An enemy got me."
+    },
+    {
+      "link": "/images/shots/l/542777-dexterity-game-boy-screenshot-i-lost-all-my-lives-game-over.png",
+      "caption": "I lost all my lives. Game over."
+    },
+    {
+      "link": "/images/shots/l/542778-dexterity-game-boy-screenshot-i-stunned-an-enemy.png",
+      "caption": "I stunned an enemy."
+    },
+    {
+      "link": "/images/shots/l/542779-dexterity-game-boy-screenshot-i-stunned-the-other-enemy.png",
+      "caption": "I stunned the other enemy."
+    },
+    {
+      "link": "/images/shots/l/542780-dexterity-game-boy-screenshot-i-flipped-all-the-tiles.png",
+      "caption": "I flipped all the tiles."
+    },
+    {
+      "link": "/images/shots/l/542781-dexterity-game-boy-screenshot-round-2.png",
+      "caption": "Round-2"
+    },
+    {
+      "link": "/images/shots/l/542782-dexterity-game-boy-screenshot-starting-round-2.png",
+      "caption": "Starting round 2"
+    },
+    {
+      "link": "/images/shots/l/542783-dexterity-game-boy-screenshot-i-cleared-this-round.png",
+      "caption": "I cleared this round."
+    },
+    {
+      "link": "/images/shots/l/542784-dexterity-game-boy-screenshot-starting-round-3.png",
+      "caption": "Starting round 3"
+    },
+    {
+      "link": "/images/shots/l/542786-dexterity-game-boy-screenshot-starting-round-4-there-are-three.png",
+      "caption": "Starting round 4. There are three monsters, now."
+    },
+    {
+      "link": "/images/shots/l/542787-dexterity-game-boy-screenshot-there-are-movable-blocks-here.png",
+      "caption": "There are movable blocks, here."
+    }
+  ],
+  "cover": [
+    {
+      "link": "/images/covers/l/253177-dexterity-game-boy-front-cover.png",
+      "scanOf": "Front Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Game Boy"
+    },
+    {
+      "link": "/images/covers/l/253178-dexterity-game-boy-back-cover.png",
+      "scanOf": "Back Cover",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Game Boy"
+    },
+    {
+      "link": "/images/covers/l/253179-dexterity-game-boy-media.png",
+      "scanOf": "Media",
+      "packaging": "Box",
+      "country": "United States",
+      "platforms": "Game Boy"
+    }
+  ]
+}

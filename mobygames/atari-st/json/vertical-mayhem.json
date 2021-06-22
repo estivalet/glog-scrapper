@@ -1,0 +1,54 @@
+{
+  "name": "Vertical Mayhem",
+  "shortName": "vertical-mayhem",
+  "description": "Vertical Mayhem is a public domain port of Sega's <a href=\"https://www.mobygames.com/game/arcade/columns\">Columns</a> coin-op.<br><br>Columns itself is a <a href=\"https://www.mobygames.com/search/quick?game=Tetris\">Tetris</a> variant, but with some modified rules. Figures contain always three stones, are vertically and cannot be rotated (that means: they are only moving in the columns, hence the name). The stones themselves are in different colors and those colors can be rotated inside the three-stones brick by pressing the button on the joystick. The goal is to build rows, columns or diagonals of the same color with at least length three. The bigger the build formations are, the more points are rewarded.<br><br>Vertical Mayhem features two playing modes 'Childs Play!' and 'Heaven and Hell' with different graphic sets and game difficulties. After a certain amount of blocks, the level increases in both playing modes and the speed of blocks dropping increases.<br><br>The two-player mode of the original is not included in this variant, but a high-score table can be entered on enough points.",
+  "publishedBy": "",
+  "developedBy": "Arcane Software Developments, Electronic Images",
+  "released": "1992",
+  "alsoFor": "",
+  "genre": "Puzzle",
+  "perspective": "Side view",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-st/vertical-mayhem",
+  "visual": "Fixed / flip-screen",
+  "gamePlay": "Falling block puzzle, Tile matching puzzle",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari ST",
+      "releases": []
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/795313-vertical-mayhem-atari-st-screenshot-title-screen-with-selection.png",
+      "caption": "Title screen with selection of the playing mode"
+    },
+    {
+      "link": "/images/shots/l/795314-vertical-mayhem-atari-st-screenshot-starting-mode-childs-play.png",
+      "caption": "Starting mode 'Childs Play!'"
+    },
+    {
+      "link": "/images/shots/l/795315-vertical-mayhem-atari-st-screenshot-after-rotation-we-get.png",
+      "caption": "After rotation we get a nice green row of length four"
+    },
+    {
+      "link": "/images/shots/l/795316-vertical-mayhem-atari-st-screenshot-survived-over-100-blocks.png",
+      "caption": "Survived over 100 blocks and reached level four"
+    },
+    {
+      "link": "/images/shots/l/795317-vertical-mayhem-atari-st-screenshot-entering-the-playing-mode.png",
+      "caption": "Entering the playing mode 'Heaven and Hell'"
+    },
+    {
+      "link": "/images/shots/l/795318-vertical-mayhem-atari-st-screenshot-high-score-table.png",
+      "caption": "High-score table"
+    }
+  ],
+  "cover": []
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Darklyte",
+  "shortName": "darklyte",
+  "description": "<i>Darklyte</i> is a turn based combat game written in STOS. You control a team of four droids who are fighting four computer controlled droids. The play area consists of 9x9 square with metal-, grass- and pit-tiles. The pits can not be passed. In the right corner of the screen you can see what weapon current droid is carrying, how many moves it has left and how much health it has. In the left corner an arrow indicates which droid you control at the moment. At the left side of the screen you have four icons: attack, end turn, scan enemy and use item. Each of the droids has six items. They can be used at any time, and when you do so they turn dark grey to show they have been used up. The six items are:\n<ul><li>An injection: Restores the droids energy. </li>\n<li>A microchip: This gives the droid 9 moves. </li>\n<li>A powerglove: This gives the droid a greater damage on the next attack.</li>\n<li>A shield: Better defence when you are next attacked.</li>\n<li>A target: This makes the enemy droids confused.</li>\n<li>A skull: This gives the droid an advantage in the next attack round. </li></ul>\nWhen you destroy a droid, the players droid will receive some gold and experience points. When you have killed all enemy droids in a level the exit (in the form of stairs leading down) will appear. If your commander droid is destroyed it's game over.",
+  "publishedBy": "",
+  "developedBy": "",
+  "released": "1993",
+  "alsoFor": "",
+  "genre": "Strategy / tactics",
+  "perspective": "",
+  "theme": "",
+  "nonSport": "",
+  "sport": "",
+  "misc": "",
+  "country": "",
+  "releaseDate": "",
+  "url": "https://www.mobygames.com/game/atari-st/darklyte",
+  "visual": "Isometric",
+  "gamePlay": "",
+  "setting": "",
+  "release": [
+    {
+      "system": "Atari ST",
+      "releases": []
+    }
+  ],
+  "shot": [
+    {
+      "link": "/images/shots/l/329493-darklyte-atari-st-screenshot-title-and-info-screen.png",
+      "caption": "Title and info screen"
+    },
+    {
+      "link": "/images/shots/l/329494-darklyte-atari-st-screenshot-starting-a-new-game.png",
+      "caption": "Starting a new game"
+    },
+    {
+      "link": "/images/shots/l/329495-darklyte-atari-st-screenshot-droids-on-the-move.png",
+      "caption": "Droids on the move"
+    },
+    {
+      "link": "/images/shots/l/329496-darklyte-atari-st-screenshot-one-of-my-droids-got-killed.png",
+      "caption": "One of my droids got killed"
+    }
+  ],
+  "cover": []
+}
