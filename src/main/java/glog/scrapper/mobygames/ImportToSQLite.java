@@ -208,6 +208,7 @@ public class ImportToSQLite {
 //		ImportToSQLite.updateWithMobyGameData("atari-8-bit", "598");
 //		ImportToSQLite.updateWithMobyGameData("3do", "23");
 //		ImportToSQLite.updateWithMobyGameData("atari-st", "369");
+//		ImportToSQLite.updateWithMobyGameData("lynx", "53");
 
 	}
 

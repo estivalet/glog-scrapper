@@ -378,7 +378,7 @@ public class MobyGamesScript {
 	public static void main(String[] args) throws Exception {
 
 		// 01. Get all game links for the system then save the links to a text file
-		String[] systems = { "atari-st" };
+		String[] systems = { "lynx" };
 		for (int s = 0; s < systems.length; s++) {
 
 			String system = systems[s];
