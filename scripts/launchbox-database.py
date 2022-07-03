@@ -3,7 +3,7 @@ from lxml import html
 import requests
 
 current_page = 1
-url = 'https://gamesdb.launchbox-app.com/platforms/games/109'
+url = 'https://gamesdb.launchbox-app.com/platforms/games/9'
 page = requests.get(url)
 tree = html.fromstring(page.content)
 
@@ -71,7 +71,7 @@ while current_page <= total_pages:
         data['video_link'] = video_link[0] if video_link else ''
         data['launchbox_gamesdb_link'] = 'https://gamesdb.launchbox-app.com' + str(game_href)
 
-        with open('c:/temp/gx4000/' + name[0].replace(":"," -").replace("*"," ").replace("?", " ").replace("/"," ").replace("\\","").replace("\"","'") + '.json', 'w') as outfile:
+        with open('c:/temp/atarijaguar/' + name[0].replace(":"," -").replace("*"," ").replace("?", " ").replace("/"," ").replace("\\","").replace("\"","'") + '.json', 'w') as outfile:
             json.dump(data, outfile)
 
     current_page += 1
