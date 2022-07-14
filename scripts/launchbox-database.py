@@ -1,9 +1,10 @@
 import json
 from lxml import html
 import requests
+import time
 
-current_page = 1
-url = 'https://gamesdb.launchbox-app.com/platforms/games/9'
+current_page = 24
+url = 'https://gamesdb.launchbox-app.com/platforms/games/3%7C25'
 page = requests.get(url)
 tree = html.fromstring(page.content)
 
@@ -16,7 +17,7 @@ if(i>0):
 else:
     total_pages = 1
 
-while current_page <= total_pages:
+while current_page <= 27:
 
     for item in tree.xpath('//a[@class="list-item"]'):
         game_href = item.get('href')
@@ -55,7 +56,7 @@ while current_page <= total_pages:
         print(video_link)	
 
         data = {}
-        data['name'] = name[0]
+        data['name'] = name[0].strip()
         data['overview'] = overview[0].replace('\r\n','<br>') if overview else ''
         data['platform'] = platform[0] if platform else ''
         data['release_date'] = release_date[0] if release_date else ''
@@ -71,9 +72,9 @@ while current_page <= total_pages:
         data['video_link'] = video_link[0] if video_link else ''
         data['launchbox_gamesdb_link'] = 'https://gamesdb.launchbox-app.com' + str(game_href)
 
-        with open('c:/temp/atarijaguar/' + name[0].replace(":"," -").replace("*"," ").replace("?", " ").replace("/"," ").replace("\\","").replace("\"","'") + '.json', 'w') as outfile:
+        with open('c:/temp/Amstrad CPC/' + name[0].replace(":"," -").replace("*"," ").replace("?", " ").replace("/"," ").replace("\\","").replace("\"","'").strip() + '.json', 'w') as outfile:
             json.dump(data, outfile)
-
+        time.sleep(1)
     current_page += 1
     if(total_pages > 1):
         page = requests.get(url + str(current_page))
