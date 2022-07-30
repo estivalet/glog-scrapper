@@ -8,7 +8,7 @@ import time
 import os
 
 
-driver = webdriver.Firefox()
+driver = webdriver.Chrome()
 #driver.implicitly_wait(30)
 #wait = WebDriverWait(driver, 30)
 
@@ -38,9 +38,10 @@ my_proxy = Proxy({'proxyType': ProxyType.MANUAL,
 driver=webdriver.Firefox( proxy=my_proxy)
 '''
 
-
-for id in range(2744,6650):
-    time.sleep(3)
+#2744...
+#2825
+for id in range(2828,6650):
+    #time.sleep(3)
     data = {}
 
     if(os.path.exists(str(id)+'.json')):
@@ -102,7 +103,7 @@ for id in range(2744,6650):
     for link in links:
         data["series"].append((link.text,link.get_attribute("href")))
 
-    time.sleep(1)
+    #time.sleep(1)
     driver.get("https://www.msxgamesworld.com/software-gallery.php?id=" + str(id))
     if 'Welcome to MSX Games World' not in body_text:
         #wait.until(EC.presence_of_element_located((By.XPATH, '//a[contains(@href,"images")]')))
@@ -113,7 +114,7 @@ for id in range(2744,6650):
 
 
 
-    time.sleep(1)
+    #time.sleep(1)
     driver.get("https://www.msxgamesworld.com/software-releases.php?id=" + str(id))
     if 'Welcome to MSX Games World' not in body_text:
         #wait.until(EC.presence_of_element_located((By.XPATH, '//div[@class="card border-dark mb-3"]')))
@@ -138,7 +139,7 @@ for id in range(2744,6650):
 
 
 
-    time.sleep(1)
+    #time.sleep(1)
     driver.get("https://www.msxgamesworld.com/software-publications.php?id=" + str(id))
     if 'Welcome to MSX Games World' not in body_text:
         #wait.until(EC.presence_of_element_located((By.XPATH, '//small')))
@@ -154,5 +155,5 @@ for id in range(2744,6650):
     with open(str(id)+'.json', 'w') as outfile:
         json.dump(data, outfile)
 
-    time.sleep(5)
+    #time.sleep(5)
 driver.close()
