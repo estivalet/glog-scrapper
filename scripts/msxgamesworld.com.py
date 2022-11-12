@@ -39,9 +39,12 @@ driver=webdriver.Firefox( proxy=my_proxy)
 '''
 
 #2744...
-#2825
-for id in range(2828,6650):
-    #time.sleep(3)
+#2825...
+#3116
+#3796
+#3939, 3989,4009,4013,5244
+for id in range(6094,6650):
+    time.sleep(3)
     data = {}
 
     if(os.path.exists(str(id)+'.json')):
