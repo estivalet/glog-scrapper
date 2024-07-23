@@ -219,6 +219,7 @@ public class OldComputerScript {
 
 	}
 
+	/*
 	private String toXML(OldComputer oc) throws Exception {
 		JAXBContext jc = JAXBContext.newInstance(XMLWrapper.class, OldComputer.class);
 		Marshaller marshaller = jc.createMarshaller();
@@ -228,7 +229,7 @@ public class OldComputerScript {
 
 		return sw.toString();
 
-	}
+	}*/
 
 	private String toJSON(OldComputer oc) throws Exception {
 		return new GsonBuilder().setPrettyPrinting().create().toJson(oc);
@@ -271,10 +272,10 @@ public class OldComputerScript {
 			// ocs.getComputerInfo(Integer.parseInt(line)));
 
 			OldComputer oc = this.getComputerInfo(Integer.parseInt(line));
-			String xml = this.toXML(oc);
+			//String xml = this.toXML(oc);
 			String json = this.toJSON(oc);
 
-			FileUtils.write(new File("xml/" + line + ".xml"), xml);
+			//FileUtils.write(new File("xml/" + line + ".xml"), xml);
 			FileUtils.write(new File("json/" + line + ".json"), json);
 
 			// wait a moment to avoi http 500 from server
@@ -284,15 +285,6 @@ public class OldComputerScript {
 	}
 
 	public static void main(String[] args) throws Exception {
-//		System.setProperty("http.proxyHost", "wg-vip.trt4.gov.br");
-//		System.setProperty("http.proxyPort", "3128");
-//		System.setProperty("https.proxyHost", "wg-vip.trt4.gov.br");
-//		System.setProperty("https.proxyPort", "3129");
-//		System.setProperty("http.proxyUser", "downloadupdates");
-//		System.setProperty("http.proxyPassword", "D0wnl04d");
-//		System.setProperty("https.proxyUser", "downloadupdates");
-//		System.setProperty("https.proxyPassword", "D0wnl04d");
-
 		OldComputerScript ocs = new OldComputerScript();
 //		 ocs.extractLinks();
 		ocs.processLinks();
